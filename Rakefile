@@ -237,6 +237,7 @@ desc "deploy public directory to github pages"
 multitask :push do
   puts "## Deploying branch to Github Pages "
   (Dir["#{deploy_dir}/*"]).each { |f| rm_rf(f) }
+  system "cp -R #{public_dir}/* #{deploy_dir}"
   Rake::Task[:copydot_deploy].execute
   cd "#{deploy_dir}" do
     system "git add ."
