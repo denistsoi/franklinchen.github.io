@@ -3,7 +3,10 @@ layout: post
 title: "Pizza With Fries"
 date: 2011-09-22 22:54
 comments: true
-categories: 
+categories:
+- pizza
+- food
+- Pittsburgh
 ---
 [Rialto's ranch steak pizza](http://rialto-pizza.com/specialtypizza.html) is the tastiest pizza ever.
 
