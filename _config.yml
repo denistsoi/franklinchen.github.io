@@ -3,16 +3,16 @@
 # ----------------------- #
 
 url: http://franklinchen.com
-title: Seeing a world in a grain of sand
-subtitle: Holding infinity in the palm of my hand
+title: Franklin's grain of sand
+subtitle: Infinity in the palm of my hand
 author: Franklin Chen
 simple_search: http://google.com/search
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /atom.xml
-subscribe_email:
+subscribe_rss: http://feeds.feedburner.com/FranklinChen
+subscribe_email: http://feedburner.google.com/fb/a/mailverify?uri=FranklinChen
 # RSS feeds can list your email address if you like
-email:
+email: franklinchen@franklinchen.com
 
 # ----------------------- #
 #    Jekyll & Plugins     #
