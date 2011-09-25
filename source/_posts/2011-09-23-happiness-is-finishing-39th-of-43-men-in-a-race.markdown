@@ -36,7 +36,10 @@ Also, my expectations were low. [*Low expectations are the secret to happiness.*
 
 You can bet I'll be running this race again next year, and with every intention of placing higher.
 
-P.S. I ran yesterday's race in my [Vibram FiveFingers Bikila LS shoes](http://www.vibramfivefingers.com/products/Five-Fingers-BikilaLS-Mens.htm), the first time I'd worn this pair of shoes in a race. I will run the Great Race in these shoes also. (More later on this blog about "minimalist shoes" and how they saved my life.)
+A note on shoes
+---------------
+
+I ran yesterday's race in my [Vibram FiveFingers Bikila LS shoes](http://www.vibramfivefingers.com/products/Five-Fingers-BikilaLS-Mens.htm), the first time I'd worn this pair of shoes in a race. I will run the Great Race in these shoes also. (More later on this blog about "minimalist shoes" and how they saved my life.)
 
 {% img /images/my-bikila-ls.jpg Franklin's Vibram FiveFingers Bikila LS shoes %}
 
