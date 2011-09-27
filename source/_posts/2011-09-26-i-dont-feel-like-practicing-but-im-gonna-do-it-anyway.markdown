@@ -8,6 +8,7 @@ categories:
 - practice
 - recorder
 - inspirational
+- Pittsburgh
 ---
 This morning I felt pretty tired, still recovering from yesterday's [race](/blog/2011/09/25/blistered-but-blissful-in-the-burgh/), so the thought crossed my mind, "Maybe I should take a little break, and skip recorder practice today". Also, I hadn't improved as much during the past week as I had planned and felt frustrated.
 
@@ -35,7 +36,7 @@ Why waste time aimlessly practicing recorder only maybe once a week, and not get
 
 ## Applying the lessons to my life
 
-So, the day I really committed to playing recorder, March 7 of 2011 (after starting to play the alto recorder on February 19 and informally practicing every day until the initial excitement wore off), I printed out a music practice log/journal, and vowed to practice every single day, indefinitely (as far as this was reasonable). I had decided to join the [Pittsburgh chapter](http://www.andrew.cmu.edu/user/lukas/pcars/Welcome.html) of the American Recorder Society, whose next meeting was March 20. I had two weeks to teach myself as much alto recorder as I could before the meeting. I attended, was warmly welcomed as a newcomer, and have continued to attend and participate in group playing, while getting lots of helpful advice from everyone there.
+So, the day I really committed to playing recorder, March 7 of 2011 (after starting to play the alto recorder on February 19 and informally practicing every day until the initial excitement wore off), I printed out a music practice log/journal, and vowed to practice every single day, indefinitely (as far as this was reasonable). I had decided to join the [Pittsburgh chapter](http://www.andrew.cmu.edu/user/lukas/pcars/Welcome.html) of the American Recorder Society, whose next meeting was March 20. I had two weeks to teach myself as much alto recorder as I could before the meeting. I attended, was warmly welcomed as a newcomer, and have continued to attend and participate in group playing, while getting lots of helpful advice from everyone there. The group is not too big, and is informal and friendly: I love how the communities for different hobbies of mine in Pittsburgh are so inviting. This city is just the right size for me. I'd feel lost living in New York or something, where there are a lot more things to do, more polish, more glamour, more hotshots, but also more distance.
 
 I have missed probably an average of one day of recorder practice every two weeks. I can live with that. *The point of the planned schedule is not, paradoxically, to rigidly stick to it.* The point is to set a personal standard, a mind set, a reference point, an [anchor](http://en.wikipedia.org/Anchoring). When I was twelve years old, I was struck by this [quote](http://en.wikiquote.org/wiki/Robert_Browning):
 
