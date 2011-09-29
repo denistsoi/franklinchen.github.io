@@ -11,7 +11,15 @@ categories:
 ---
 I'm temporarily using a walking stick right now, because of bad blisters I got on my right foot this morning. But I am very happy today, and it was a [Great](http://rungreatrace.com/) day in the 'Burgh.
 
-{% img /images/franklin-finishing-great-race-10k-2011.jpg Franklin finishing Great Race 10K %}
+{% img /images/franklin-finishing-great-race-10k-2011.jpg Franklin finishing Great Race 10K (photo by Abby) %}
+
+{% img /images/great-race-2011-official/0020.jpg Franklin giving it all he has %}
+
+{% img /images/great-race-2011-official/0093.jpg Franklin crossing finish line %}
+
+{% img /images/great-race-2011-official/0094.jpg Franklin over finish line %}
+
+{% img /images/great-race-2011-official/0072.jpg Franklin stopping his watch %}
 
 <!--more-->
 
@@ -138,3 +146,9 @@ After he finished, I went up to him and shook his hand. He probably has no idea 
 This is the second race in which I've run in my [Bikila LS](http://www.vibramfivefingers.com/products/Five-Fingers-BikilaLS-Mens.htm) shoes (the first race was [three days ago](http://franklinchen.com/blog/2011/09/23/happiness-is-finishing-39th-of-43-men-in-a-race/)). Unfortunately, these shoes tend to give me blisters if I run over three miles and fast. I've run a slow eight miles before without blisters, but going fast, and in warm weather, my feet sweat and chafing happens. These shoes are nice but have a ventilation problem. I have never had any problems with my [KSO Trek](http://www.vibramfivefingers.com/products/Five-Fingers-KSO-Trek-Mens.htm) shoes that I use for trail running and hiking.
 
 You can see in the photo above that Abby wore her [KomodoSport LS](http://www.vibramfivefingers.com/products/five-fingers-komodo-sport-ls-mens.htm) shoes in the race. Wearing [Vibram FiveFingers](http://www.vibramfivefingers.com/) shoes for walking, hiking, and running has really improved our lives. (More on that in a later blog post.)
+
+## Photo update on September 28, 2011
+
+Some official photos from Island Photography have appeared online. I have to confess that my original plan was to try to spot the cameras and try to look good for any photos of me that might be taken. Unfortunately, I was in such pain in the final mile of the race that I had tunnel vision and could not really perceive anything.
+
+I've added some of these photos to the beginning of this blog post.
