@@ -35,6 +35,8 @@ One thing you have to realize is that I hadn't run a decent 5K in years, so my g
 
 ## The race
 
+<iframe width="560" height="315" src="http://www.youtube.com/embed/QslAbd-_TsA" frameborder="0" allowfullscreen></iframe>
+
 The gun went off and the race played out for me as most largish races do: I took care not to go out too fast, but a lot of people always act otherwise and pass me like crazy during the first minutes of the race. I just [run my own race](http://sethgodin.typepad.com/seths_blog/2011/09/run-your-own-race.html).
 
 After a mile, things were mostly settled down. I noticed a guy ahead of me wearing a hat with Mickey Mouse ears.
