@@ -33,4 +33,4 @@ I train to run fast not because of the time or because of some prize, but becaus
 
 I enjoy being able to play musical instruments more fluidly and confidently, and with fewer wrong notes, because then I can bring out beauty of the music and the expression. And the better I get, the more I can play with good musicians, and it's fun to play with good musicians and being able to keep up with them, and be part of something bigger than myself. It is particularly nice, as a wind instrument player, to create harmonies as part of a quartet or larger group.
 
-I've had the opportunity to enjoy playing [Palestrina](en.wikipedia.org/wiki/Giovanni_Pierluigi_da_Palestrina) with others, and being inspired to try to generate the most beautiful tone and attentiveness to the other lines that I can muster. Pursuit of excellence is not only fun; it is sacred.
+I've had the opportunity to enjoy playing [Palestrina](http://en.wikipedia.org/wiki/Giovanni_Pierluigi_da_Palestrina) with others, and being inspired to try to generate the most beautiful tone and attentiveness to the other lines that I can muster. Pursuit of excellence is not only fun; it is *sacred*.
