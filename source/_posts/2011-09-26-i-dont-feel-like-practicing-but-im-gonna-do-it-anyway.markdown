@@ -10,7 +10,7 @@ categories:
 - inspirational
 - Pittsburgh
 ---
-This morning I felt pretty tired, still recovering from yesterday's [race](/blog/2011/09/25/blistered-but-blissful-in-the-burgh/), so the thought crossed my mind, "Maybe I should take a little break, and skip recorder practice today". Also, I hadn't improved as much during the past week as I had planned and felt frustrated.
+This morning I felt pretty tired, still recovering from yesterday's [race](http://franklinchen.com/blog/2011/09/25/blistered-but-blissful-in-the-burgh/), so the thought crossed my mind, "Maybe I should take a little break, and skip recorder practice today". Also, I hadn't improved as much during the past week as I had planned and felt frustrated.
 
 {% img /images/s-a-t-recorders.jpg Franklin's soprano, alto, and tenor recorders %}
 

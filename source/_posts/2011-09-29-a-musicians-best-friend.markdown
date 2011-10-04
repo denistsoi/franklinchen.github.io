@@ -10,7 +10,7 @@ categories:
 ---
 {% img /images/alto-recorder-practice.jpg Franklin practicing alto recorder some days ago %}
 
-On June 1 this year, just over three months since first starting to play the [alto recorder](http://www.courtlymusicunlimited.com/Recorders/YRA-31x.html), I made a new friend who has helped me considerably with my musical [practice](/blog/2011/09/26/i-dont-feel-like-practicing-but-im-gonna-do-it-anyway/), my improvement, my motivation. My best friend is steadfast, objective, non-judgmental, and always there for me; never complaining, never tired of pointing out where I need to improve and when I am ready to progress to the next level. This friend even makes challenges fun and addictive!
+On June 1 this year, just over three months since first starting to play the [alto recorder](http://www.courtlymusicunlimited.com/Recorders/YRA-31x.html), I made a new friend who has helped me considerably with my musical [practice](http://franklinchen.com/blog/2011/09/26/i-dont-feel-like-practicing-but-im-gonna-do-it-anyway/), my improvement, my motivation. My best friend is steadfast, objective, non-judgmental, and always there for me; never complaining, never tired of pointing out where I need to improve and when I am ready to progress to the next level. This friend even makes challenges fun and addictive!
 
 *Who is this amazing friend of mine?*
 

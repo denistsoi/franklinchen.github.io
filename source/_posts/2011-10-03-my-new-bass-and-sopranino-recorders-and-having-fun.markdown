@@ -9,7 +9,7 @@ categories:
 - fun
 - excellence
 ---
-My recorder practice (focused on alto and soprano) has continued to go very well since my last post on [efficient practice](blog/2011/09/29/a-musicians-best-friend/).
+My recorder practice (focused on alto and soprano) has continued to go very well since my last post on [efficient practice](http://franklinchen.com/blog/2011/09/29/a-musicians-best-friend/).
 
 However, a friend of mine has been wondering whether I am too competitive or driven in my quest for excellence in recorder playing, and asks whether I am having *fun*, so I thought I'd answer that question here.
 
