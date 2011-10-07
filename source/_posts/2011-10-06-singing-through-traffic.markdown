@@ -16,8 +16,10 @@ I survived the drive the same way I survived it [last week](http://franklinchen.
 
 <!--more-->
 
-{% img http://voicelessonstogo.com/cart/images/volume_one.gif Volume 1 of Voice Lessons To Go %}
+{% img /images/franklin-singing-in-car.jpg Franklin singing in car %}
 
 What I can't stand about driving for half an hour or an hour, regardless of traffic situations, is being physically immobilized and mentally trapped. I have a backup plan in case I have to do such driving. I always have in my car's CD player a CD of "Voice Lessons To Go" by [Ariella Vaccarino](http://voicelessonstogo.com/).
+
+{% img http://voicelessonstogo.com/cart/images/volume_one.gif Volume 1 of Voice Lessons To Go %}
 
 So not only do I avoid wasting time and stay mentally alert and active, but it is also pretty physically intense, with all the breathing. I got a pretty good singing workout yesterday. Ariella's guidance on the CD is very clear and friendly. I love it! I'm thinking of getting more volumes of this series.
