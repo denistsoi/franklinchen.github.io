@@ -8,6 +8,7 @@ categories:
 - Pittsburgh
 - inspirational
 - shoes
+- FiveFingers
 ---
 I'm temporarily using a walking stick right now, because of bad blisters I got on my right foot this morning. But I am very happy today, and it was a [Great](http://rungreatrace.com/) day in the 'Burgh.
 

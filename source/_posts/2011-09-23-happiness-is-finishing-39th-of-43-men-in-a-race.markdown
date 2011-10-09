@@ -9,6 +9,7 @@ categories:
 - inspirational
 - Pittsburgh
 - shoes
+- FiveFingers
 ---
 
 Yesterday, on a late, muggy afternoon, I ran in a race, and finished 39th of 43 men in the race. I ran as hard as I could, just as I do in every race: my goal is always to run fast and beat as many competitors as I can. I don't run in a race for "fun" (in the conventional sense of the word): I race to know pain and to stretch my limits. (I save my "fun" running for when I'm not racing.)

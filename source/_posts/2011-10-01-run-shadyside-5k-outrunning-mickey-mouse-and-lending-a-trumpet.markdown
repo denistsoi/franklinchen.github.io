@@ -7,6 +7,7 @@ categories:
 - Pittsburgh
 - running
 - shoes
+- FiveFingers
 - podcamp
 - CommuniTeach
 - music
@@ -57,7 +58,7 @@ But that was not all. I saw the clock and was surprised to find that I was going
 
 Man, that was cathartic. This is only the second time I have ever screamed in a race (and I have run in well over a hundred in the past decade). I had let out a scream during a sprint finish at the Pretty Good Race 5K in September, but it was a short scream, not this prolonged seconds-long one that I let out today. I supposed that in the past decade I used to be too shy to do a thing like that, but it felt so good today that I may do it in the future.
 
-I was reminded of how in karate class I was instructed on how important it was to use the [kiai](en.wikipedia.org/wiki/Kiai) shout as a projection of energy. But then I reflected, my scream was not objectively the best way to end a race. If I had enough energy to scream, then I should have been able to run faster before that point, so a smarter race would have been to push even harder before the somewhat wasteful sprint. Nevertheless, at the very moment today, the scream seemed the thing to do, for psychological reasons, at least.
+I was reminded of how in karate class I was instructed on how important it was to use the [kiai](http://en.wikipedia.org/wiki/Kiai) shout as a projection of energy. But then I reflected, my scream was not objectively the best way to end a race. If I had enough energy to scream, then I should have been able to run faster before that point, so a smarter race would have been to push even harder before the somewhat wasteful sprint. Nevertheless, at the very moment today, the scream seemed the thing to do, for psychological reasons, at least.
 
 ## Post-race
 
