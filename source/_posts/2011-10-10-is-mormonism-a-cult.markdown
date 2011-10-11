@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Is Mormonism a Cult?'
+title: "Is Mormonism a Cult?"
 date: 2011-10-10 21:48
 comments: true
 categories:
