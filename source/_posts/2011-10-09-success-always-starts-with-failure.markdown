@@ -21,7 +21,7 @@ The main goal is to be able to recover from failures. Since we cannot anticipate
 
 ## Failures of the mind
 
-Harford starts with noting three that we human beings are more frail than we sometimes think, and illustrates with three failures of the human mind. One is "denial", our not even admitting that we failed. The threat to our ego is too great. But the first step in learning from a failure is to actually admit it.
+Harford starts with noting that we human beings are more frail than we sometimes think, and illustrates with three failures of the human mind. One is "denial", our not even admitting that we failed. The threat to our ego is too great. But the first step in learning from a failure is to actually admit it.
 
 Also, we "chase our losses": after making a decision that turns out badly, we might continue along it hoping that things will magically turn out better eventually. It's easier to maintain the hope that something bad will end up good, than admit the bad is hopeless and should be abandoned. We all know people who hang on in bad careers, bad financial investments, bad marriages, because it's easier to hope that one didn't make a bad decision after all, rather than quickly move on and avoid wasting more time, money, and heartache.
 
