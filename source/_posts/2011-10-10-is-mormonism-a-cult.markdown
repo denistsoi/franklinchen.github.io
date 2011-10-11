@@ -35,4 +35,4 @@ What if we genuinely wanted to reclaim some technical, academic definition of "c
 
 So the answer to the question "Is Mormonism a cult" is "Yes, if you want to call it that, and No, if you don't want to call it that".
 
-Also, I have a prediction: if a century from now, the Mormon population of the United States has grown significantly, and wields political and economic power, very few Christians will be openly calling Mormonism a cult. They might even start using the Mormons' own terminology and stop using the term "Mormonism" and instead say ["The Church of Jesus Christ of Latter-Day Saints"].
+Also, I have a prediction: if a century from now, the Mormon population of the United States has grown significantly, and wields political and economic power, very few Christians will be openly calling Mormonism a cult. They might even start using the Mormons' own terminology and stop using the term "Mormonism" and instead say "The Church of Jesus Christ of Latter-Day Saints".
