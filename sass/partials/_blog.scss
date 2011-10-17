@@ -74,7 +74,7 @@ article {
     p.meta {
       margin-bottom: .8em;
       font-size: .85em
-      clear: both;
+      clear;
       overflow: hidden;
     }
     .byline + time:before, time +time:before, .comments:before, .byline ~ .categories:before {
