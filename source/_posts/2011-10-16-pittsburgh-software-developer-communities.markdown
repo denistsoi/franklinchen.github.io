@@ -94,8 +94,10 @@ The [Pittsburgh Coding Dojo](http://tech.groups.yahoo.com/group/PghCodingDojo/) 
 
 There is an active [Pittsburgh .NET users group](http://pghdotnet.org/), but I have never been to any of its meetings.
 
-## Anything else?
+## Summary
+
+I hope that this list will be useful to those who are already a member of one or more groups and interested in checking out the others, and perhaps in creating cross-group learning experiences and events.
 
 Are there any other groups of interest that I am missing? Please let me know.
 
-I hope that this list will be useful to those who are already a member of one or more groups and interested in checking out the others, and perhaps in creating cross-group learning experiences and events.
+Also: since I have always taken notes for myself at each meeting of each user group that I have attended in the past couple of years (ha, I should have started blogging earlier, given my obsession with writing), if anyone is interested in any summaries or the like, let me know. So far, the only meeting I have written up for my blog has been a recent [Agile meetup on anti-patterns](http://franklinchen.com/blog/2011/10/14/agile-anti-patterns/).
