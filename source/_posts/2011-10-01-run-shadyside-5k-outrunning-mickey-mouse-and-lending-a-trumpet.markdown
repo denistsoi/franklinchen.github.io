@@ -6,6 +6,7 @@ comments: true
 categories:
 - Pittsburgh
 - running
+- races
 - shoes
 - FiveFingers
 - podcamp

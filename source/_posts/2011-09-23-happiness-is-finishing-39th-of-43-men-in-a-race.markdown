@@ -5,6 +5,7 @@ date: 2011-09-23 19:31
 comments: true
 categories:
 - running
+- races
 - Carnegie Mellon University
 - inspirational
 - Pittsburgh

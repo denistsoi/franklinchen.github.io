@@ -6,6 +6,7 @@ comments: true
 categories:
 - Carnegie Mellon University
 - communicating
+- dialogue
 ---
 Today I attended a ["Learning and Development" seminar at CMU](http://www.cmu.edu/hr/learning/) that I had signed up for several weeks ago. I've enjoyed attending many of these seminars in the past years. The one I attended today was "Communicating Through Dialogue", by Ron Placone (many of whose seminars on other topics I've attended).
 

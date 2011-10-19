@@ -5,6 +5,7 @@ date: 2011-09-25 15:28
 comments: true
 categories:
 - running
+- races
 - Pittsburgh
 - inspirational
 - shoes
