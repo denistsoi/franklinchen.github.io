@@ -38,7 +38,7 @@ Anyway, I left the room and didn't see her again.
 
 But I'm still curious about why she seemed annoyed that I spent an hour a day practicing music, as though I'm not getting chores done. I won't speculate about why, since the only right way to satisfy my curiosity would be to ask her myself, and I passed up the opportunity to do so.
 
-My brief response to her was meant to convey a simple message: time management is important for all of us with our busy lives, but I've made certain choices, sacrificing some activities in order to gain others. The decisions are often quite difficult, because I have a *huge* number of interests, and therefore have to sacrifice the majority of them in order to focus on the fewer that I have decide are most worthwhile to pursue. A breadth-first traversal of all possible life activities would result in completing nothing.
+My brief response to her was meant to convey a simple message: time management is important for all of us with our busy lives, but I've made certain choices, sacrificing some activities in order to gain others. The decisions are often quite difficult, because I have a *huge* number of interests, and therefore have to sacrifice the majority of them in order to focus on the fewer that I have decided are most worthwhile to pursue. A breadth-first traversal of all possible life activities would result in completing nothing.
 
 ## Trading passive for active
 
@@ -54,9 +54,11 @@ Instead of watching sports, I engage in my own competitive physical activity, to
 
 ### Exercise
 
-I run considerably less than I used to. One reason is that once upon a time, I got into competitive mode, trying to see how fast I could race, and now I am no longer in that mode. It takes too much time and energy. Another reason is that I decided, based on personal experience and learning from the [paleo/primal](http://en.wikipedia.org/wiki/Paleolithic_lifestyle) movement, that too much distance running isn't actually all that great for my overall balanced health.
+I run considerably less than I used to. One reason is that once upon a time, I got into a competitive mode, trying to see how fast I could race, and now I am no longer in that mode. It takes too much time and energy. Another reason is that I decided, based on personal experience and learning from the [paleo/primal](http://en.wikipedia.org/wiki/Paleolithic_lifestyle) movement, that too much distance running isn't actually all that great for my overall balanced health.
 
 I traded distance training time for [yoga](http://franklinchen.com/blog/2011/09/24/roaring-like-a-lion-on-a-saturday-morning/) and [strength training](http://franklinchen.com/blog/2011/10/17/the-joys-of-convict-conditioning-bodyweight-exercising/).
+
+I no longer run any more than every other day on average.
 
 ### Reading
 
