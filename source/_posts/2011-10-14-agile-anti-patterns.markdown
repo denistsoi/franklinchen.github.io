@@ -14,7 +14,7 @@ Around ten other people attended (a small turnout compared to some past meetings
 
 What I like about this group's meetings is that there is a lot of informal discussion and contribution by a diverse array of people who share stories from their work experiences. Some of the participants are new to [Agile](http://en.wikipedia.org/wiki/Agile_software_development); others have officially adopted it but seek guidance for how to implement it better; others are trying to introduce Agile into an environment that is skeptical of it.
 
-I enjoy learning about [anti-patterns](htpp://en.wikipedia.org/wiki/Anti-pattern) when getting started in new endeavors because they are a distillation of hard-won experience in how *not* to go about things, and also how to "refactor" back out of a bad practice into a good practice.
+I enjoy learning about [anti-patterns](http://en.wikipedia.org/wiki/Anti-pattern) when getting started in new endeavors because they are a distillation of hard-won experience in how *not* to go about things, and also how to "refactor" back out of a bad practice into a good practice.
 
 Here are just a few of the discussion points that particularly spoke to me, along with my own analogies that I found useful.
 
