@@ -1,0 +1,39 @@
+<!-- TODO Not currently used because does not suit my purpose -->
+
+<!-- Based on code from https://gist.github.com/1193246 -->
+<section>
+  <h1>Tags</h1>
+
+  <input class="search" type="text" name="filter_tags" results="0" placeholder="Filter Tags ..."/>
+
+  <script type="text/javascript">
+(function() {
+  var filter = function(e) {
+    var val = $(this).val();
+
+    if (/^\s*$/.test(val) || (e && e.keyCode == 27)) { // 27 is 'esc'
+      $('#tags li').show();
+      $(this).val('');
+      return;
+    }
+
+    var pattern = new RegExp(val, 'i');
+    $('#tags li').each(function() {
+      $(this)[pattern.test($(this).find('a').text()) ? 'show' : 'hide']();
+    });
+  };
+
+  $('input[name=filter_tags]').change(filter);
+  $('input[name=filter_tags]').keyup(filter);
+})();
+  </script>
+
+  <ul id="tags">
+<!-- TODO tags are not sorted! Impossible to do here -->
+  {% for cat in site.categories %}
+    <li class="post">
+      <a href="{{ root_url }}/blog/categories/{{ cat[0] }}">{{ cat[0] }}</a>
+    </li>
+  {% endfor %}
+  </ul>
+</section>

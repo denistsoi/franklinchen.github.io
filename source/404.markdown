@@ -1,0 +1,13 @@
+---
+layout: page
+title: "404"
+sidebar: false
+comments: false
+sharing: false
+---
+
+It seems that the page you have requested does not exist.
+
+Please [contact me](/blog/contact) if you believe there was an error in this web site.
+
+Thank you!
