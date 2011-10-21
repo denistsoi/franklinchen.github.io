@@ -379,15 +379,23 @@ comments: false
 sharing: false
 ---
 
+<p>Click the arrows (or tag names) to show/hide categories.</p>
+
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script>
+
 <script type="text/javascript">
+$.noConflict();
+
+(function($) {
 $(document).ready(function(){
-  $('h3').each(function (){
+  $('h6').each(function (){
     $(this).next().hide()
   });
-  $('.title').after('<p><span>Click the arrows to show/hide categories.</span></p>');
 });
+
 $(function(){
-  $('h3').click(function() {
+  console.log('setting up clicks')
+  $('h6').click(function() {
     var hidden = $(this).next().is(':hidden');
     if (hidden) {
       $(this).html(
@@ -403,6 +411,7 @@ $(function(){
     return hidden;
   });
 });
+})(jQuery);
 </script>
     HTML
  
@@ -411,7 +420,7 @@ $(function(){
 
     categories.reverse.each do |category, posts|
       html << <<-HTML
-      <h3 id="#{category}">&rarr; #{category} (#{posts.length})</h3>
+      <h6 id="#{category}">&rarr; #{category} (#{posts.length})</h6>
       HTML
  
       html << '<ul class="posts">'
@@ -433,4 +442,3 @@ $(function(){
  
     puts 'Done.'
   end
-
