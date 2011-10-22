@@ -6,9 +6,11 @@ comments: true
 categories:
 - new
 - web
-- podcamp
+- PodCamp Pittsburgh
 ---
 I am starting a brand new web site here.
+
+(Update from 2011-10-21: check out my [one-month retrospective post](http://franklinchen.com/blog/2011/10/21/one-month-anniversary-of-my-blog/)!)
 
 <!--more-->
 
