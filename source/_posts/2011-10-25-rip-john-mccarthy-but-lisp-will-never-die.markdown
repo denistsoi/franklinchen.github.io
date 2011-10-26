@@ -27,7 +27,7 @@ My story of love and hate in computer programming:
 
 I had finished my junior year of high school and was away from home for the first time in my life, attending the [Research Science Institute](http://www.cee.org/programs/rsi)(RSI), a free summer science program. There, I encountered a lot of very smart and already accomplished peers.
 
-A new friend I made at the science program was into artificial intelligence (AI) (a term coined by John McCarthy, in fact), and programming in Lisp and Prolog. He ended up doing his summer project on expert systems. He had the books on [AI](http://www.amazon.com/Artificial-Intelligence-Addison-Wesley-computer-science/dp/0201084546) and [Lisp](http://www.amazon.com/LISP-Patrick-Henry-Winston/dp/0201083728) by Patrick Winston, and he and others raved about a book by [Doug Hofstadter](http://en.wikipedia.org/wiki/Douglas_Hofstadter) called [*Gödel, Escher, Bach*](http://en.wikipedia.org/wiki/Gödel,_Escher,_Bach). None of the books made any sense to me at the time, but I made a note to look them up after the summer.
+A new friend I made at the science program was into artificial intelligence (AI) (a term coined by John McCarthy, in fact), and programming in Lisp and Prolog. He ended up doing his summer project on expert systems. He had the books on [AI](http://www.amazon.com/Artificial-Intelligence-Addison-Wesley-computer-science/dp/0201084546) and [Lisp](http://www.amazon.com/LISP-Patrick-Henry-Winston/dp/0201083728) by Patrick Winston, and he and others raved about a book by [Doug Hofstadter](http://en.wikipedia.org/wiki/Douglas_Hofstadter) called [*Gödel, Escher, Bach*](http://en.wikipedia.org/wiki/Gödel,_Escher,_Bach)(GEB). None of the books made any sense to me at the time, but I made a note to look them up after the summer.
 
 Myself, I had gone to the program with vague ideas of doing something related to physics. I got assigned to work at the United States Geological Survey (USGS) under Allan Tanner. I was profoundly disappointed to find that I was assigned to write FORTRAN or something to control a plotter, because at this point in my life, I *hated* computer programming!! I asked to do something else, and ended up digging holes in the ground to measure radon availability. I didn't feel I accomplished anything really all summer, but was thanked in a paper he wrote later.
 
@@ -35,11 +35,11 @@ Wait, so I was interested in Lisp but hated programming? What was going on?
 
 The science program had apparently thought I was interested in programming because I had just completed an Advanced Placement course in computer science in high school. It was a course based on Pascal. I left the course rather uninterested in programming. We learned about arrays, linked lists, hash tables, trees, searching, sorting, etc., and it was all very dry and abstract. The course was my least favorite of my junior year in high school. Before this course, I had been exposed to BASIC, COBOL, and FORTRAN, and these were even less appealing to me. So I had the picture of computing as drudgery for doing numerical calculations and generating reports.
 
-Lisp seemed different. It didn't even seem like "programming" in the same sense. I saw my peers firing up the Golden Common Lisp [REPL](http://en.wikipedia.org/wiki/Read–eval–print_loop) on PCs and *interacting* with data, creating lists, using atoms, doing *symbolic* computation easily. At the time, I could not even make the connection between this kind of programming and anything I had learned in my Pascal-based high school course. There, linked lists took a lot to implement, and we learned about `new` and `dispose` and pointers. The effort to learn all this low-level stuff resulted in my never seeing from the course what much higher-level applications could be built on top.
+Lisp seemed different. It didn't even seem like "programming" in the same sense. I saw my peers firing up the Golden Common Lisp REPL on PCs and *interacting* with data, creating lists, using atoms, doing *symbolic* computation easily. At the time, I could not even make the connection between this kind of programming and anything I had learned in my Pascal-based high school course. There, linked lists took a lot to implement, and we learned about `new` and `dispose` and pointers. The effort to learn all this low-level stuff resulted in my never seeing from the course what much higher-level applications could be built on top.
 
 ## Again, I still hate programming
 
-Anyway, after I returned home, I started teaching myself Lisp, but didn't get very far because a new interest overrode all others. This despite my also new interest in Lisp and AI, and even having Doug Hofstadter autograph my copy of [*Metamagical Themas*](http://en.wikipedia.org/wiki/Metamagical_Themas), which had cute Lisp interludes.
+Anyway, after I returned home, I started teaching myself Lisp, but didn't get very far because a new interest overrode all others. This despite my also new interest in Lisp and AI, reading GEB and even having Doug Hofstadter autograph my copy of [*Metamagical Themas*](http://en.wikipedia.org/wiki/Metamagical_Themas), which had cute Lisp interludes.
 
 At the science program I had heard peers raving about the [Feynman Lectures on Physics](http://www.feynmanlectures.info/). To make a long story short, after returning home, I read as far as I could before my senior year in high school began, I fell in love with physics, took Advanced Placement physics, and ended up going to college majoring in physics.
 
@@ -57,7 +57,7 @@ Reading SICP was one of the most profound experiences of my entire life. A full 
 
 I can imagine books similar to SICP using more recent, sophisticated, statically typed languages such as ML, Haskell, or Scala, but the exposition would require more careful design, because Lisp's macros and its "pun" of using S-expression syntax to represent abstract syntax make a lot of things easier.
 
-(I did then go learn C and C++ and find a job. Later discovering ML and Haskell and loving programming even more is yet another story.)
+(I did then go learn C and C++ and find a job. Later discovering ML and Haskell and loving programming even more, and continuing on from there to the present is many more stories.)
 
 ## Conclusion
 
