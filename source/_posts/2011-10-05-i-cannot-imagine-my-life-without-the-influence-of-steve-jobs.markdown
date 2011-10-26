@@ -4,6 +4,14 @@ title: "I Cannot Imagine My Life Without the Influence of Steve Jobs"
 date: 2011-10-05 21:39
 comments: true
 categories:
+- Steve Jobs
+- programming
+- C
+- C++
+- Macintosh
+- Pascal
+- Apple
+- BASIC
 ---
 Steve Jobs is gone, tonight.
 
@@ -30,3 +38,7 @@ Skipping forward: at one point I bought an early PowerMac, but it was uninspirin
 Steve Jobs was a programmer, an artist, a businessman, a philosopher, a psychologist, a salesman, a speechwriter, a fighter. He cared about beauty, about consistency, stuck to his visions, failed and succeeded and failed and succeeded. I live because humanity produces men like Steve Jobs.
 
 That is all. Tomorrow is another day.
+
+## Update (2011-10-25)
+
+I write this short update to note that I never did get around to writing my intended in-depth discussion of Steve Jobs, but will do so at some point. For example, it was too close in time for me to launch into a personal exploration of the dark, negative sides of his legacy.
