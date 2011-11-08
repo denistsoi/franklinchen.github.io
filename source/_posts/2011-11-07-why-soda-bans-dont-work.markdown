@@ -10,12 +10,18 @@ categories:
 - soda
 - politics
 ---
-I just saw an article, ["Soda Bans in Schools Have Limited Impact"](http://well.blogs.nytimes.com/2011/11/07/soda-bans-in-schools-have-limited-benefit/). It boggles my mind that anyone would advocate soda bans in school as a policy in isolation. The article describes the empirical results from soda bans:
+I just saw an article, ["Soda Bans in Schools Have Limited Impact"](http://well.blogs.nytimes.com/2011/11/07/soda-bans-in-schools-have-limited-benefit/). It boggles my mind that anyone would advocate soda bans in school as a policy in isolation.
+
+Here are my thoughts on the economics and politics, and health and cultural aspects of the issue.
+
+<!--more-->
+
+## Economics 101
+
+The article describes the empirical results from soda bans:
 
 - Students were drinking other sugary beverages instead
 - Students were bringing in their own sugary beverages
-
-## Economics 101
 
 The *economics* of the situation are obvious:
 
