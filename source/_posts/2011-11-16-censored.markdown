@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Censored"
+date: 2011-11-17 20:03
+comments: true
+categories: 
+- politics
+- freedom
+---
+<script type="text/javascript" src="http://americancensorship.org/js"></script>
+
+This site has temporarily been [censored](http://americancensorship.org/).
+
+<a style="width:400px;height:100px;vertical-align:middle;text-align:center;background-color:#000;position:absolute;z-index:5555;top:50px;left:50px;background-image:url(http://americancensorship.org/images/stop-censorship-small.png);background-position:center center;background-repeat:no-repeat;" href="http://americancensorship.org"></a>
