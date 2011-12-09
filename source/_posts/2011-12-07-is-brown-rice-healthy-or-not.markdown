@@ -26,7 +26,7 @@ While in grad school at [CMU](http://www.cmu.edu/), I got back into eating white
 
 ## Brown rice for five years
 
-For many years, I kept heard that brown rice was healthier than white rice, and this advice was based on the idea that white rice has lost many of its nutrients and fiber during the refinement process. But I never ate brown rice because every time I tried making it, it came out unpalatable. Eventually I learned that I was making it wrong.
+For many years, I kept hearing that brown rice was healthier than white rice, and this advice was based on the idea that white rice has lost many of its nutrients and fiber during the refinement process. But I never ate brown rice because every time I tried making it, it came out unpalatable. Eventually I learned that I was making it wrong.
 
 In 2006, after hearing too often from a friend that white rice was "white death", I took the plunge and bought a fancy Zojirushi Neuro Fuzzy rice cooker, to be able to make good brown rice as well as start eating steel cut oatmeal (which my friend also advocated eating). So it's been over five years since I have been eating a lot of oatmeal (recently stopped) and brown rice (still going). And I have to confess that if one is going to eat steel cut oatmeal or brown rice, the Neuro Fuzzy cooker is the way to go, with its timer functions that make it trivial to generate really good results!
 
