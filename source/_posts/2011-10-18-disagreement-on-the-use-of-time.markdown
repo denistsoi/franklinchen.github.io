@@ -17,6 +17,7 @@ categories:
 - communicating
 - dialogue
 - chess
+- ballroom dance
 ---
 On Sunday, I went to the monthly meeting of the [Pittsburgh chapter](http://www.andrew.cmu.edu/user/lukas/pcars/Welcome.html) of the American Recorder Society. I stopped by the room where beginner lessons were being held. I don't go to those lessons any more, because I would say I'm an intermediate recorder player now. Fred, our director, was working with two women on soprano recorder. One of them was Rhonda, who had actually joined the local group at exactly the same time as me, back in March. I hadn't seen her in a while and asked where she'd been. She said she had been playing French horn in the summer, so was getting back to recorder now. She happened to joke to the other woman, an older woman, that I was really serious and had been practicing an hour every day since starting out.
 
