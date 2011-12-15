@@ -11,6 +11,7 @@ categories:
 - Tim Ferriss
 - philosophy
 - paleo
+- medicine balls
 ---
 I spent the vast majority of my life completely, utterly sedentary. Let's put it this way: I was on the phone with my father yesterday and he said he went to some free senior citizen fitness program in a mall and ended up getting sweaty, and seemed concerned. I said, "I'm glad you got some good exercise!" In other words, I was raised to never get sweaty.
 
