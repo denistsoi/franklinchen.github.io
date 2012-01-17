@@ -51,6 +51,6 @@ Because of inevitable uncertainties and setbacks, it is necessary to aim beyond 
 
 So I picked up my recorder and [practiced](http://musiciansway.com/).
 
-[Namaste](en.wikipedia.org/wiki/Namaste).
+[Namaste](http://en.wikipedia.org/wiki/Namaste).
 
 {% img /images/alto-recorder-practice.jpg %}

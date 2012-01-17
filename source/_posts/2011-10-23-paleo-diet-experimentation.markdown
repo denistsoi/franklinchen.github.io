@@ -8,7 +8,7 @@ categories:
 - cooking
 - Pittsburgh
 ---
-Three days ago, I stopped eating my usual breakfast: [steel-cut oatmeal](en.wikipedia.org/wiki/Steel-cut_oats) topped with fruit and nuts and maple syrup. I'd been eating oatmeal almost every day for breakfast for about 15 years.
+Three days ago, I stopped eating my usual breakfast: [steel-cut oatmeal](http://en.wikipedia.org/wiki/Steel-cut_oats) topped with fruit and nuts and maple syrup. I'd been eating oatmeal almost every day for breakfast for about 15 years.
 
 This is the beginning of a gradual experiment toward more of a [*Paleo diet*](http://en.wikipedia.org/wiki/Paleolithic_diet).
 

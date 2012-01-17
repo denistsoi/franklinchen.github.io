@@ -44,7 +44,7 @@ A web search for the text in the handout for "the six basic rules of dialogue" t
 
 ## My reaction
 
-I have to confess that a lot of the material we received seemed very [New Agey](en.wikipedia.org/wiki/New_Age). Maybe that's why it seems no longer in vogue in the business world since first introduced, and I couldn't find a lot of prominent web search hits on the topic.
+I have to confess that a lot of the material we received seemed very [New Agey](http://en.wikipedia.org/wiki/New_Age). Maybe that's why it seems no longer in vogue in the business world since first introduced, and I couldn't find a lot of prominent web search hits on the topic.
 
 Nevertheless, I don't discount something just because it's New Agey. I am totally an opportunist in my life. Over the years, I have cherry-picked ideas and techniques for everything in life from whatever sources, and if they work, I keep and use them, and if they don't, I just throw them away. (I've thrown quite a few away.)
 
