@@ -4,6 +4,7 @@ title: "RIP, John McCarthy; but Lisp will never die"
 date: 2011-10-25 00:14
 comments: true
 categories:
+- computer science
 - programming
 - Lisp 
 - Scheme
@@ -13,6 +14,8 @@ categories:
 - C
 - Research Science Institute
 ---
+**(Updated 2012-01-16)**
+
 The legendary computer scientist [John McCarthy](http://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist\)) died yesterday. So there goes another guy without whom my life today would be unimaginably different: [Steve Jobs](http://franklinchen.com/blog/2011/10/05/i-cannot-imagine-my-life-without-the-influence-of-steve-jobs/) and [Dennis Ritchie](http://franklinchen.com/blog/2011/10/13/why-dennis-ritchie-is-important/) just left us this month!
 
 In a way, more than Jobs, and more than Ritchie, McCarthy indirectly got me taking seriously the whole field of computing, and actually loving it.
@@ -64,3 +67,9 @@ I can imagine books similar to SICP using more recent, sophisticated, statically
 Lisp is a very old language, half a century old, and I happen not to use it much these days (because given a choice, I prefer static types, I prefer syntactic sugar, and I dislike parentheses), but I predict it will survive forever, because the core is so elegant and self-contained.
 
 Thank you, John McCarthy!
+
+## **Update 2012-01-16**
+
+I wrote a companion post on [my K-12 experiences with computing education](http://franklinchen.com/blog/2012/01/16/how-school-made-me-hate-computer-science-and-programming/).
+
+A near contemporary of mine, Natasha Chen (no relation), wrote an [article in 1992 on her experiences with computing education](http://www.eimacs.com/blog/2011/12/learn-computer-programming-without-complicated-syntax/).

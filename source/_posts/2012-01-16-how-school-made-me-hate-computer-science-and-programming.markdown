@@ -11,6 +11,10 @@ categories:
 - teaching
 - CSEdWeek
 - Codecademy
+- Pascal
+- COBOL
+- Fortran
+- BASIC
 ---
 Some months ago, when the legendary computer scientist [John McCarthy](http://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist\)) died, I wrote a blog post in which I briefly reminisced about the way [I hated computer programming before I came to love it](http://franklinchen.com/2011/10/25/rip-john-mccarthy-but-lisp-will-never-die/). Today I am filling in some more details about how school (elementary school through college) made me fear, misunderstand, and hate computer science and programming. I am inspired to do this because
 
