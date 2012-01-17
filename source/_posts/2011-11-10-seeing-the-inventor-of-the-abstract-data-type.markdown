@@ -26,7 +26,7 @@ I had to leave Liskov's talk right after she was done (it had already run over t
 
 Basically, Liskov formalized the notion of the abstract data type (ADT) while at MIT in the early 1970s, and with some graduate students implemented ADTs as a fundamental construct in an actual programming language, [CLU](http://en.wikipedia.org/wiki/CLU_(programming_language\)).
 
-Most of you probably haven't heard of CLU, unless you went to [MIT](http://www.pmg.csail.mit.edu/CLU.html) where it's been used for ages in courses. I only know about CLU because a long time ago, I had an MIT friend who mentioned CLU when I was asking him [what to learn to become a programmer](http://franklinchen.com/2011/10/25/rip-john-mccarthy-but-lisp-will-never-die/). I never actually wrote or ran a program in CLU, although I did take a look at the language. Some features of CLU (recall that it was developed in the early 1970s):
+Most of you probably haven't heard of CLU, unless you went to [MIT](http://www.pmg.csail.mit.edu/CLU.html) where it's been used for ages in courses. I only know about CLU because a long time ago, I had an MIT friend who mentioned CLU when I was asking him [what to learn to become a programmer](http://franklinchen.com/blog/2011/10/25/rip-john-mccarthy-but-lisp-will-never-die/). I never actually wrote or ran a program in CLU, although I did take a look at the language. Some features of CLU (recall that it was developed in the early 1970s):
 
 - modules (called "clusters")
 - information hiding

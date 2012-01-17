@@ -16,9 +16,9 @@ categories:
 - Fortran
 - BASIC
 ---
-Some months ago, when the legendary computer scientist [John McCarthy](http://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist\)) died, I wrote a blog post in which I briefly reminisced about the way [I hated computer programming before I came to love it](http://franklinchen.com/2011/10/25/rip-john-mccarthy-but-lisp-will-never-die/). Today I am filling in some more details about how school (elementary school through college) made me fear, misunderstand, and hate computer science and programming. I am inspired to do this because
+Some months ago, when the legendary computer scientist [John McCarthy](http://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist\)) died, I wrote a blog post in which I briefly reminisced about the way [I hated computer programming before I came to love it](http://franklinchen.com/blog/2011/10/25/rip-john-mccarthy-but-lisp-will-never-die/). Today I am filling in some more details about how school (elementary school through college) made me fear, misunderstand, and hate computer science and programming. I am inspired to do this because
 
-- Just a few weeks ago, I came across an old article from 1992 by someone who had a similar experience, and I wanted to complete my story. Although my story also goes back more than two decades, I feel that the same fundamental stumbling blocks exist to [the universal computational competence that I now advocate](http://franklinchen.com/2011/12/09/why-everyone-should-learn-computer-science/).
+- Just a few weeks ago, I came across an old article from 1992 by someone who had a similar experience, and I wanted to complete my story. Although my story also goes back more than two decades, I feel that the same fundamental stumbling blocks exist to [the universal computational competence that I now advocate](http://franklinchen.com/blog/2011/12/09/why-everyone-should-learn-computer-science/).
 - The topic of learning "coding" has exploded into the popular media, with hundreds of thousands of people having signed up for [Code Year](http://codeyear.com/) and even New York Mayor Bloomberg stating that [he has signed up](http://www.businessinsider.com/mike-bloomberg-pledges-to-learn-to-code-on-codecademy-this-year-2012-1) for the free [Codecademy](http://codecademy.com/) online tutorial courses.
 
 My goals in telling my story:
@@ -58,7 +58,7 @@ I should note that at this time in my life, I had no interest in computers. We s
 
 ## 11th grade and Advanced Placement computer science
 
-In the 11th grade, I had the opportunity to take an Advanced Placement course in computer science, taught using the [Pascal](http://en.wikipedia.org/wiki/Pascal_(programming_language\)) programming language. (I mentioned this in [my previous article](http://franklinchen.com/2011/10/25/rip-john-mccarthy-but-lisp-will-never-die/).)
+In the 11th grade, I had the opportunity to take an Advanced Placement course in computer science, taught using the [Pascal](http://en.wikipedia.org/wiki/Pascal_(programming_language\)) programming language. (I mentioned this in [my previous article](http://franklinchen.com/blog/2011/10/25/rip-john-mccarthy-but-lisp-will-never-die/).)
 
 I signed up for the class. You might wonder why, given that I had no interest in computers or programming (in Pascal or any other language). I had a perverse incentive. Advanced Placement courses were advertised as a way to get out of equivalent courses in college. I figured that if I ended up in college with a computing course requirement, I wanted to place out of it! So I signed up for Advanced Placement computer science because I *hated* computers and wanted to get the pain over with earlier rather than later.
 
@@ -82,7 +82,7 @@ I think that to attract interest in computer programming, it is vital to give pe
 
 ## After 11th grade
 
-The rest of the story, [I already told earlier](http://franklinchen.com/2011/10/25/rip-john-mccarthy-but-lisp-will-never-die/).
+The rest of the story, [I already told earlier](http://franklinchen.com/blog/2011/10/25/rip-john-mccarthy-but-lisp-will-never-die/).
 
 ## Conclusion
 

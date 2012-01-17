@@ -63,7 +63,7 @@ I no longer run any more than every other day on average.
 
 ### Reading
 
-I've always read a lot. I still do, using not only the vast web, but also the old-fashioned [local library](http://franklinchen.com/2011/09/30/free-to-the-people-since-1895/). (Pittsburghers, please [vote on November 8](http://www.ourlibraryourfuture.org/)!)
+I've always read a lot. I still do, using not only the vast web, but also the old-fashioned [local library](http://franklinchen.com/blog/2011/09/30/free-to-the-people-since-1895/). (Pittsburghers, please [vote on November 8](http://www.ourlibraryourfuture.org/)!)
 
 However, at some point I had to make peace with the fact that I could not read everything I might be interested in reading. Abby and I worked on selling or donating over a thousand (!!) books I owned but were just taking up space. It was very difficult parting with them, since one of my childhood dreams had been to build up a large personal library, but reason prevailed.
 
