@@ -59,7 +59,7 @@ Sometimes one settles on an answer, and then later decides it is unsatisfactory.
 
 ## The third step to acting like a scientist: uncertainty
 
-Eventually even the notion of "answer" must be considered flawed. We are never *certain* about our theories. Our theories are based on *models* that we invent. The models can have explanatory or predictive power or practical applications, but they themselves are transient. The scientific models from two centuries ago are very different from the scientific models of thirty years ago, and the scientific models of today are very different from the scientific models of today. What we believed to be the "answer" thirty years ago looks today to have been an error.
+Eventually even the notion of "answer" must be considered flawed. We are never *certain* about our theories. Our theories are based on *models* that we invent. The models can have explanatory or predictive power or practical applications, but they themselves are transient. The scientific models from two centuries ago are very different from the scientific models of thirty years ago, and the scientific models of today are very different from the scientific models of thirty years ago. What we believed to be the "answer" thirty years ago looks today to have been an error.
 
 And unless we believe that we are near the "end of science" (I do not believe this for a moment), we must also take into consideration the plausibility that thirty years from now, we will laugh at the currently favored scientific models of today the way we laugh at the hair and clothing styles of the 1980s.
 
