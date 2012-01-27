@@ -59,3 +59,8 @@ Abby and I have yet to test the soil in the front yard, but in any case, we may 
 ## Conclusion
 
 Doing some serious gardening will be a new adventure for Abby and me. I am grateful that Grow Pittsburgh has promoted urban gardening for local food production, and spread the word so that more of us in the city can comfortably start getting involved ourselves. I highly recommend the "Garden Primer" course to anyone who is a novice at organic gardening (whether urban or suburban or rural).
+
+**Note**: the course is being offered again this winter two more times, so there is still time to jump in for this year:
+
+- Tuesdays: February 7, 14, 21
+- Mondays: March 12, 19, 26
