@@ -22,7 +22,7 @@ It was very strange doing this hike in early February, when Pittsburgh should be
 
 We started off following the Nine Mile Run Trail. As you can see, there was no snow to be found!
 
-{% img /images/frick-hike-2012-02-05/nine-mile-run.jpg Nine Mile Run Trail %}
+{% img /images/frick-hike-2012-02-05/nine-mile-run-trail.jpg Nine Mile Run Trail %}
 
 Then we meandered around, taking a bunch of other familiar trails, going uphill and downhill, and eventually ended back down in Fern Hollow. We took a pretty fast pace.
 
