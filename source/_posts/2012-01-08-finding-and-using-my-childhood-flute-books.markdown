@@ -6,6 +6,8 @@ comments: true
 categories:
 - music
 - flute
+- practice
+- childhood
 ---
 {% img /images/belwin-home-practice-record.jpg My 5th grade flute book practice record %}
 
@@ -36,12 +38,14 @@ Before Mr. Peters left, he gave me a list of two flute method books he recommend
 It turned out that I never used them. I may have glanced at them, and fooled around a few minutes with them, but I never used them!
 
 The Rubank Intermediate Method was one of these books. Despite the physical age of my copy, the only evidence that I ever touched it is my name crudely written in marker on the front cover. I just started using the method and had to bend back on stapled binding so that the book would open flat for my music stand! The method looks useful to me now, with lots of technical exercises for all keys, interspersed with some musical excerpts such as gavottes and minuets, but back when I was eleven years old and not a classical music fan, this book must have seemed to me
+
 - foreign
 - boring
 - hard
 - pointless
 
 At that age, I was mostly interested in playing
+
 - marches
 - syncopated rock
 - big band swing
@@ -49,12 +53,14 @@ At that age, I was mostly interested in playing
 ## Marcel Frank's 95 Classical Tunes For The Flute
 
 This is all classical stuff. Enough said: my eleven-year-old self did not find much of this music interesting. There are exceptions, however! Flipping through this book, I recognize some excerpts as music I definitely tried playing at the time. Some examples:
+
 - A Song of India
 - Sleeping Beauty
 - Roses from the South
 - Radetzky March
 
 My explanation is quite simple:
+
 - I loved *marches* of any kind (hence my later joining marching band).
 - I loved fast *waltzes*, through exposure to them from TV cartoons such as ["Tom and Jerry"](http://en.wikipedia.org/wiki/Tom_and_Jerry).
 - There were pieces I *recognized* as having heard (such as "A Song of India") because of random "Greatest Classical Masterpieces" types of LP records (and there were many varieties of this kind of material) that my mother sometimes bought at garage sales and flea markets and brought home. Being familiar with a tune (and liking it) definitely was a motivation to at least try playing it.
