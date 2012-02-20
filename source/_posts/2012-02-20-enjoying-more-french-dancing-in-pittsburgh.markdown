@@ -14,7 +14,7 @@ categories:
 - Gullifty's
 - pierogies
 ---
-A month ago I reported on how Abby and I had our [first experience of French traditional dance(http://franklinchen.com/blog/2012/01/23/discovering-french-traditional-dance-in-pittsburgh). On Saturday, we went again to Skibo Gym at Carnegie Mellon University for another fun session of French dancing from 4:00 to 7:00 PM.
+A month ago I reported on how Abby and I had our [first experience of French traditional dance](http://franklinchen.com/blog/2012/01/23/discovering-french-traditional-dance-in-pittsburgh). On Saturday, we went again to Skibo Gym at Carnegie Mellon University for another fun session of French dancing from 4:00 to 7:00 PM.
 
 We had a great time again, and afterwards joined the instructors and some other people in having dinner at [Gullifty's](http://gulliftys.us/).
 
