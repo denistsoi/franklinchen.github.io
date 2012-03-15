@@ -24,7 +24,7 @@ I did this while feeling burned out and injured.
 
 In the past couple of days, I have experienced decreased desire to practice flute, although by changing up my material, I did manage to get some decent sessions in. Still, I could tell that I was beginning to risk burnout.
 
-In addition to mental fatigue, my [left forefinger soreness](http://franklinchen.com/2012/02/14/flute-progress-report-day-of-reckoning-approaches/) got worse in the past couple of days, such that yesterday, I didn't practice before rehearsal. I started experiencing [tingling and numbness](http://www.jennifercluff.com/lineup.htm#indentation).
+In addition to mental fatigue, my [left forefinger soreness](http://franklinchen.com/blog/2012/02/14/flute-progress-report-day-of-reckoning-approaches/) got worse in the past couple of days, such that yesterday, I didn't practice before rehearsal. I started experiencing [tingling and numbness](http://www.jennifercluff.com/lineup.htm#indentation).
 
 [Sometimes it's best to call it a day.](http://theskooloflife.com/wordpress/sometimes-its-best-to-call-it-a-day/) So I decided yesterday that today, I would take a day completely off from practicing my flute, the first break I have given myself since January 19.
 
