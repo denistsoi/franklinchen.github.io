@@ -17,6 +17,10 @@ Below is the only photo I currently have of him (my parents have the family phot
 
 {% img /images/aunt-uncle/abby-mother-aunt-father-uncle.jpg Abby, Franklin's mother, Aunt Soo-kin, Franklin's father, Uncle Steve %}
 
+(Update: my brother-in-law André just sent me some more photos, from the wedding of my sister Linda and him in 2010 that he did manage to attend.)
+
+{% img /images/aunt-uncle/aunt-uncle.jpg Aunt and Uncle at Linda and André's wedding %}
+
 What do I remember most about Uncle Steve, and how did he impact my life?
 
 <!--more-->
