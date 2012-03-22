@@ -8,6 +8,7 @@ categories:
 - flute
 - recorder
 - authenticity
+- Johann Sebastian Bach
 ---
 A week ago, I [started playing the flute again after decades](http://franklinchen.com/blog/2011/11/09/taking-up-flute-again-after-decades/).
 

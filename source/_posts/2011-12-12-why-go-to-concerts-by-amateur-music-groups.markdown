@@ -7,7 +7,7 @@ categories:
 - music
 - concerts
 - Baroque flute
-- Bach
+- Johann Sebastian Bach
 - performance
 - melodica
 ---

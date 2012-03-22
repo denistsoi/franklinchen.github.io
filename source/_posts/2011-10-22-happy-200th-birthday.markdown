@@ -5,7 +5,7 @@ date: 2011-10-22 22:08
 comments: true
 categories:
 - music
-- Liszt
+- Franz Liszt
 ---
 It turns out that today is the 200th anniversary of the birth of [Franz Liszt](http://en.wikipedia.org/wiki/Franz_Liszt), the always [controversial](http://www.nytimes.com/2011/10/23/arts/music/looking-at-franz-liszt-on-his-bicentenary.html) pianist and composer of the 19th century in Europe. It has become a commonplace that Liszt was music's first ["rock star"](http://www.npr.org/2011/10/22/141617637/how-franz-liszt-became-the-worlds-first-rock-star). And there is always the debate over his [importance](http://www.npr.org/blogs/deceptivecadence/2011/10/21/141562068/franz-liszt-at-200-an-important-but-not-great-composer) as a composer.
 
