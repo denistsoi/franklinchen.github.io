@@ -12,7 +12,7 @@ categories:
 - practice
 - recorder
 ---
-[Two weeks ago, I wrote](http://franklinchen.com/blog/2012/02/01/joining-an-orchestra-learning-in-the-face-of-terror/) about joining the [Carnegie Mellon All-University Orchestra](http://www.andrew.cmu.edu/user/auo/), the first orchestra I have ever been in. I wrote of my terror as I realized that as a total beginner at flute, I was basically unable to play *any* of the music handed out.
+[Two weeks ago, I wrote](/blog/2012/02/01/joining-an-orchestra-learning-in-the-face-of-terror/) about joining the [Carnegie Mellon All-University Orchestra](http://www.andrew.cmu.edu/user/auo/), the first orchestra I have ever been in. I wrote of my terror as I realized that as a total beginner at flute, I was basically unable to play *any* of the music handed out.
 
 I decided to work very hard at improving my flute skills to see whether I could get good enough in time to make it to the April 15 concert in respectable shape. **I believe this is the most ambitious goal I have ever set for myself in my entire life.** Not because it is the *hardest* goal to achieve, but because of the *time* pressure involved. If I were given eight months, I would say, yes, I can do it; it took me eight months to start playing the recorder and then be sufficiently skilled (at merely an intermediate level) to play easy music in a concert. But *two* months is another story.
 

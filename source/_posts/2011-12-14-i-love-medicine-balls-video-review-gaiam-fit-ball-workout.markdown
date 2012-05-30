@@ -10,7 +10,7 @@ categories:
 ---
 I love medicine balls. But once upon a time, I didn't even know what a [medicine ball](http://en.wikipedia.org/wiki/Medicine_ball) was.
 
-Two months ago, I mentioned my gradual movement away from formal gyms and exercise machines toward [less technological ways to exercise](http://franklinchen.com/blog/2011/10/17/the-joys-of-convict-conditioning-bodyweight-exercising/). One of the "gadgets" I do use is a medicine ball.
+Two months ago, I mentioned my gradual movement away from formal gyms and exercise machines toward [less technological ways to exercise](/blog/2011/10/17/the-joys-of-convict-conditioning-bodyweight-exercising/). One of the "gadgets" I do use is a medicine ball.
 
 Today, I am reviewing an intense exercise video that I started using just two years ago that involves a medicine ball, the [Gaiam Fit Ball Workout](http://www.amazon.com/Gaiam-05-52846-Fit-Ball-Workout/dp/B0012K1BM8) with instructor [Tanja Djelevic](http://www.tanjadjelevic.com/).
 

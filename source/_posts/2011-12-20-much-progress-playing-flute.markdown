@@ -9,7 +9,7 @@ categories:
 - practice
 - learning
 ---
-Starting yesterday, I finally returned to practicing [flute](http://franklinchen.com/blog/categories/flute/). I had played very little flute in ten days, as a result of focusing my musical practice almost entirely on soprano [recorder](http://franklinchen.com/blog/categories/recorder/) for the performance at the [Pittsburgh Contras and Squares Holiday Ball on Friday](http://franklinchen.com/blog/2011/12/16/playing-recorder-and-flute-at-the-holiday-ball/). I did play flute just a little bit at the Holiday Ball, but nothing I needed practice on.
+Starting yesterday, I finally returned to practicing [flute](/blog/categories/flute/). I had played very little flute in ten days, as a result of focusing my musical practice almost entirely on soprano [recorder](/blog/categories/recorder/) for the performance at the [Pittsburgh Contras and Squares Holiday Ball on Friday](/blog/2011/12/16/playing-recorder-and-flute-at-the-holiday-ball/). I did play flute just a little bit at the Holiday Ball, but nothing I needed practice on.
 
 I was surprised how much better I was at flute yesterday (and today) despite no practice in ten days. How did this happen?
 
@@ -33,7 +33,7 @@ Creating a nice tone is of course what the flute is all about. On the recorder, 
 
 I did not and do not use any music accompaniment CDs when practicing recorder. I know they exist, but I had not believed it necessary to order them from a specialty shop online. At best, I have listened to recorded music featuring musicians playing recorder, and played along to some tracks.
 
-On the other hand, I have found many flute method books with accompaniment CDs at the [library](http://franklinchen.com/blog/2011/09/30/free-to-the-people-since-1895/) and have been making great use of them!
+On the other hand, I have found many flute method books with accompaniment CDs at the [library](/blog/2011/09/30/free-to-the-people-since-1895/) and have been making great use of them!
 
 I had started out with *[I Used to Play Flute](http://www.musicminusone.com/used-play-flute-innovative-method-adults-returning-play-p-60414222.html)*, which I'm still using now. Then I got hold of the *[Boosey Woodwind Method: Flute Book 1](http://www.boosey.com/shop/prod/Morgan-Chris-Boosey-Woodwind-Method-Flute-Book-1/702022)* and *[Boosey Woodwind Method: Flute Book 2](http://www.boosey.com/shop/prod/Morgan-Chris-Boosey-Woodwind-Method-Flute-Book-2/706166)*, and also the *[Moyse Collection of Easy Flute Classics](http://www.halleonard.com/product/viewproduct.do?itemid=50489868)*.
 

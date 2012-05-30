@@ -14,7 +14,7 @@ categories:
 - dancing
 - Pittsburgh
 ---
-So on Friday, after [just two weeks](http://franklinchen.com/blog/2011/12/01/im-going-to-perform-music-much-sooner-than-i-expected-monday/) of [practicing music](http://franklinchen.com/blog/2011/12/05/busy-evening-performing-at-phipps-followed-by-rehearsal-for-another-gig/) for the [Pittsburgh Contras and Squares](http://pittsburghcontra.org/) Holiday Ball, the moment of truth finally arrived.
+So on Friday, after [just two weeks](/blog/2011/12/01/im-going-to-perform-music-much-sooner-than-i-expected-monday/) of [practicing music](/blog/2011/12/05/busy-evening-performing-at-phipps-followed-by-rehearsal-for-another-gig/) for the [Pittsburgh Contras and Squares](http://pittsburghcontra.org/) Holiday Ball, the moment of truth finally arrived.
 
 The event went pretty well! Here is a report, with some photos and videos.
 
@@ -32,7 +32,7 @@ I had never been to the Swisshelm Park Community Center before, but since Abby h
 
 ## On stage
 
-Around twenty-five musicians eventually gathered on stage. There was just enough space for all of us, although it was crowded. I got put in the "wind section", armed with my main instrument I had finally decided on for this gig, soprano recorder (which I had started practicing the music for only a couple of days before!!), along with my secondary instrument, flute, which I planned to use only on the Hallelujah Chorus and some waltzes, and finally, the [tin whistle](http://franklinchen.com/blog/2011/12/11/learning-another-instrument-the-tin-whistle/), which I did not have enough time to play well enough for most of the music, and therefore planned to possibly use on only one piece.
+Around twenty-five musicians eventually gathered on stage. There was just enough space for all of us, although it was crowded. I got put in the "wind section", armed with my main instrument I had finally decided on for this gig, soprano recorder (which I had started practicing the music for only a couple of days before!!), along with my secondary instrument, flute, which I planned to use only on the Hallelujah Chorus and some waltzes, and finally, the [tin whistle](/blog/2011/12/11/learning-another-instrument-the-tin-whistle/), which I did not have enough time to play well enough for most of the music, and therefore planned to possibly use on only one piece.
 
 {% img /images/holiday-ball-2011/franklin-soprano-recorder.jpg Franklin posing with soprano recorder %}
 {% img /images/holiday-ball-2011/franklin-flute.jpg Franklin posing with flute %}

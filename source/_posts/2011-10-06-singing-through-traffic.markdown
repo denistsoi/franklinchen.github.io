@@ -12,7 +12,7 @@ Yesterday, I had a brutal drive of almost fifty minutes after work to attend a [
 
 {% img /images/mcknight-construction-traffic.jpg %}
 
-I survived the drive the same way I survived it [last week](http://franklinchen.com/blog/2011/09/27/when-jquery-attacks/), which was actually not as bad as yesterday's was!
+I survived the drive the same way I survived it [last week](/blog/2011/09/27/when-jquery-attacks/), which was actually not as bad as yesterday's was!
 
 <!--more-->
 

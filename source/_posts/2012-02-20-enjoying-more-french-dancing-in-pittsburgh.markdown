@@ -14,7 +14,7 @@ categories:
 - Gullifty's
 - pierogies
 ---
-A month ago I reported on how Abby and I had our [first experience of French traditional dance](http://franklinchen.com/blog/2012/01/23/discovering-french-traditional-dance-in-pittsburgh). On Saturday, we went again to Skibo Gym at Carnegie Mellon University for another fun session of French dancing from 4:00 to 7:00 PM.
+A month ago I reported on how Abby and I had our [first experience of French traditional dance](/blog/2012/01/23/discovering-french-traditional-dance-in-pittsburgh). On Saturday, we went again to Skibo Gym at Carnegie Mellon University for another fun session of French dancing from 4:00 to 7:00 PM.
 
 We had a great time again, and afterwards joined the instructors and some other people in having dinner at [Gullifty's](http://gulliftys.us/).
 
@@ -42,11 +42,11 @@ There were two other circle dances from last time that we did again. I really en
 
 ## Social dancing
 
-A familiar musician, [Donna Isaac](http://franklinchen.com/blog/2011/12/16/playing-recorder-and-flute-at-the-holiday-ball/), played fiddle for us, with Gregory on his Irish flute again. I liked the different texture from last month's piano and flute, but I have to confess that missing a bass line made the music harder to dance to. In fact, I ended up starting to hum my own bass line to fill in the harmonies to feel less of a musical omission and help my rhythm while dancing!
+A familiar musician, [Donna Isaac](/blog/2011/12/16/playing-recorder-and-flute-at-the-holiday-ball/), played fiddle for us, with Gregory on his Irish flute again. I liked the different texture from last month's piano and flute, but I have to confess that missing a bass line made the music harder to dance to. In fact, I ended up starting to hum my own bass line to fill in the harmonies to feel less of a musical omission and help my rhythm while dancing!
 
 Again I thank everyone who was at the workshop and dance. It was a great group. I am so happy to be dancing again. I had put it aside for a couple of years after Abby and I got married, but now I envision our making it a regular part of our lives again!
 
-(Sorry, [I took no photos or videos this time](http://franklinchen.com/blog/2012/02/19/why-i-have-not-posted-many-photos-or-videos-recently-exploitation/). I spent the whole time immersed in dancing!)
+(Sorry, [I took no photos or videos this time](/blog/2012/02/19/why-i-have-not-posted-many-photos-or-videos-recently-exploitation/). I spent the whole time immersed in dancing!)
 
 ## Dinner at Gullifty's
 

@@ -11,7 +11,7 @@ categories:
 - Summerset
 - Homewood Cemetery
 ---
-Today in Pittsburgh was a beautiful day for a run: sunny with clear, blue sky! So I went for a leisurely long run, with no particular route in mind, just going wherever I felt like going. I brought along my camera, as I did on [Monday's run](http://franklinchen.com/blog/2011/10/12/i-love-trail-running-in-frick-park/), and took a bunch of photos.
+Today in Pittsburgh was a beautiful day for a run: sunny with clear, blue sky! So I went for a leisurely long run, with no particular route in mind, just going wherever I felt like going. I brought along my camera, as I did on [Monday's run](/blog/2011/10/12/i-love-trail-running-in-frick-park/), and took a bunch of photos.
 
 {% img /images/12-mile-run/summerset-highest-view.jpg View of Pittsburgh %}
 
@@ -159,7 +159,7 @@ The rest of the run was just going back up the Falls Ravine Trail and back up th
 
 It was about 12 miles total, a pretty long run for me these days. But the weather was incredibly great, and the run was so peaceful.
 
-I wore my [KSO Trek](http://franklinchen.com/blog/2011/10/12/i-love-trail-running-in-frick-park/) shoes, as usual, but this was probably the longest run I've done in these shoes.
+I wore my [KSO Trek](/blog/2011/10/12/i-love-trail-running-in-frick-park/) shoes, as usual, but this was probably the longest run I've done in these shoes.
 
 My feet were pretty sore by the end, because of all the rocks I had to deal with, but after half an hour of stretching and recovering, and eating a large restorative meal, I felt fine. Going to take a rest day off from running tomorrow, but Monday I should be ready to enjoy the autumn changes further.
 

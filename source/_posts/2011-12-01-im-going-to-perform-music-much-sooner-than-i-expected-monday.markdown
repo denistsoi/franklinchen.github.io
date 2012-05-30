@@ -37,9 +37,9 @@ But my anxiety is lessened when I think about how bad it would be if I made vari
 
 ### Pittsburgh Contras and Squares Holiday Ball
 
-Also, I'm expecting to play in another holiday-oriented gig that Abby is playing in and wants me to join: the annual Holiday Ball of the [Pittsburgh Contras and Squares](http://pittsburghcontra.org/). I still don't know whether I'll choose to play recorder or flute or whatever other instrument in this (I do have a [melodica](http://franklinchen.com/blog/2011/10/01/run-shadyside-5k-outrunning-mickey-mouse-and-lending-a-trumpet/) too)! The first rehearsal is next week and I plan to attend.  I have been assured that this is a pretty informal affair, where musicians have fun contributing as they can and dancers appreciate the live music and get to have their fun also.
+Also, I'm expecting to play in another holiday-oriented gig that Abby is playing in and wants me to join: the annual Holiday Ball of the [Pittsburgh Contras and Squares](http://pittsburghcontra.org/). I still don't know whether I'll choose to play recorder or flute or whatever other instrument in this (I do have a [melodica](/blog/2011/10/01/run-shadyside-5k-outrunning-mickey-mouse-and-lending-a-trumpet/) too)! The first rehearsal is next week and I plan to attend.  I have been assured that this is a pretty informal affair, where musicians have fun contributing as they can and dancers appreciate the live music and get to have their fun also.
 
-(No, I'm not going to play at the Holiday Ball the [Baroque flute I just got yesterday and started to learn](http://franklinchen.com/blog/2011/11/30/bought-a-baroque-flute/).)
+(No, I'm not going to play at the Holiday Ball the [Baroque flute I just got yesterday and started to learn](/blog/2011/11/30/bought-a-baroque-flute/).)
 
 ### Carnegie Mellon All-University Orchestra
 

@@ -40,7 +40,7 @@ This article has already attracted over a hundred comments since yesterday, test
 
 ### My experience with the test
 
-I am not a violinist. Although I would like to learn the violin sometime, I have never handled one. Furthermore, although I have listened to quite a lot of violin playing, I have never been interested in the Stradivarius story or mystique (or that of competing vintage violins). To put it bluntly: I don't actually know what a Stradivarius sounds like. When I listen to a CD or go to a concert and hear a violin concerto or something, [I don't read the program notes](http://franklinchen.com/blog/2011/11/11/on-not-reading-concert-program-notes.markdown), and therefore I have no idea what kind of violin someone is playing.
+I am not a violinist. Although I would like to learn the violin sometime, I have never handled one. Furthermore, although I have listened to quite a lot of violin playing, I have never been interested in the Stradivarius story or mystique (or that of competing vintage violins). To put it bluntly: I don't actually know what a Stradivarius sounds like. When I listen to a CD or go to a concert and hear a violin concerto or something, [I don't read the program notes](/blog/2011/11/11/on-not-reading-concert-program-notes.markdown), and therefore I have no idea what kind of violin someone is playing.
 
 I got the correct answer in the listening test.
 

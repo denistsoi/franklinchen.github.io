@@ -8,7 +8,7 @@ categories:
 - free-range
 - chickens
 ---
-Welcome back from the [Thanksgiving](http://franklinchen.com/blog/2011/11/24/happy-thanksgiving-and-a-call-to-action/) long weekend! Abby and I had a wonderful time with friends and also with seeing both my parents and her parents. I enjoyed my extended [Digital Sabbath](http://franklinchen.com/blog/2011/11/12/starting-a-mini-digital-sabbath/) but here I am again.
+Welcome back from the [Thanksgiving](/blog/2011/11/24/happy-thanksgiving-and-a-call-to-action/) long weekend! Abby and I had a wonderful time with friends and also with seeing both my parents and her parents. I enjoyed my extended [Digital Sabbath](/blog/2011/11/12/starting-a-mini-digital-sabbath/) but here I am again.
 
 As we do when we happen to be in the vicinity, we loaded up some cartons of free-range eggs from [Stoney Lane Farm](http://pine-richland.patch.com/articles/stoney-lane-farm-a-little-bit-country-in-suburbia). I am always grateful for the opportunity to eat these local eggs, and grateful for the hens who run around and lay these eggs.
 

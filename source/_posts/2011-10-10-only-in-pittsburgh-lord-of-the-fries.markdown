@@ -14,4 +14,4 @@ categories:
 
 [Only in Pittsburgh](http://onlyinpgh.com/2011/10/the-one-and-only/).
 
-(More [fries](http://franklinchen.com/blog/2011/09/22/pizza-with-fries/), if you haven't already seen them.)
+(More [fries](/blog/2011/09/22/pizza-with-fries/), if you haven't already seen them.)

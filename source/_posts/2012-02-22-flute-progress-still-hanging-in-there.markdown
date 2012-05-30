@@ -12,9 +12,9 @@ categories:
 - practice
 - recorder
 ---
-It was exactly one month ago, January 22, when [I joined](http://franklinchen.com/blog/2012/02/01/joining-an-orchestra-learning-in-the-face-of-terror/) the [Carnegie Mellon All-University Orchestra](http://www.andrew.cmu.edu/user/auo/).
+It was exactly one month ago, January 22, when [I joined](/blog/2012/02/01/joining-an-orchestra-learning-in-the-face-of-terror/) the [Carnegie Mellon All-University Orchestra](http://www.andrew.cmu.edu/user/auo/).
 
-Another week has gone by, and what I thought might be a [day of reckoning](http://franklinchen.com/blog/2012/02/14/flute-progress-report-day-of-reckoning-approaches/) has come and gone, and I am still playing the flute in the CMU AUO and have not dropped out!
+Another week has gone by, and what I thought might be a [day of reckoning](/blog/2012/02/14/flute-progress-report-day-of-reckoning-approaches/) has come and gone, and I am still playing the flute in the CMU AUO and have not dropped out!
 
 Here is a sample of the hardest music from Bernstein's "Symphonic Dances from West Side Story" that I'm still struggling to play correctly, cleanly, and in tempo:
 

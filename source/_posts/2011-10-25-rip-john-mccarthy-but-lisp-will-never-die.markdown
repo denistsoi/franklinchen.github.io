@@ -16,7 +16,7 @@ categories:
 ---
 **(Updated 2012-01-16)**
 
-The legendary computer scientist [John McCarthy](http://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist\)) died yesterday. So there goes another guy without whom my life today would be unimaginably different: [Steve Jobs](http://franklinchen.com/blog/2011/10/05/i-cannot-imagine-my-life-without-the-influence-of-steve-jobs/) and [Dennis Ritchie](http://franklinchen.com/blog/2011/10/13/why-dennis-ritchie-is-important/) just left us this month!
+The legendary computer scientist [John McCarthy](http://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist\)) died yesterday. So there goes another guy without whom my life today would be unimaginably different: [Steve Jobs](/blog/2011/10/05/i-cannot-imagine-my-life-without-the-influence-of-steve-jobs/) and [Dennis Ritchie](/blog/2011/10/13/why-dennis-ritchie-is-important/) just left us this month!
 
 In a way, more than Jobs, and more than Ritchie, McCarthy indirectly got me taking seriously the whole field of computing, and actually loving it.
 
@@ -46,7 +46,7 @@ Anyway, after I returned home, I started teaching myself Lisp, but didn't get ve
 
 At the science program I had heard peers raving about the [Feynman Lectures on Physics](http://www.feynmanlectures.info/). To make a long story short, after returning home, I read as far as I could before my senior year in high school began, I fell in love with physics, took Advanced Placement physics, and ended up going to college majoring in physics.
 
-Actually, freshman year in college, I considered taking the introductory computer science sequence, since a lot of my new friends (as well as friends I made at the Research Science Institute over a year earlier) did, but although the second semester involved cool-sounding Lisp projects, the first semester involved a language called [C](http://franklinchen.com/blog/2011/10/13/why-dennis-ritchie-is-important/). Taking a quick look at Kernighan and Ritchie's book, and the first homework assignment, I bailed out. The language looked like noise to me. It seemed worse than Pascal, far worse. As a result, I never took a computer science course as an undergraduate in college at all!
+Actually, freshman year in college, I considered taking the introductory computer science sequence, since a lot of my new friends (as well as friends I made at the Research Science Institute over a year earlier) did, but although the second semester involved cool-sounding Lisp projects, the first semester involved a language called [C](/blog/2011/10/13/why-dennis-ritchie-is-important/). Taking a quick look at Kernighan and Ritchie's book, and the first homework assignment, I bailed out. The language looked like noise to me. It seemed worse than Pascal, far worse. As a result, I never took a computer science course as an undergraduate in college at all!
 
 ## I love programming
 
@@ -70,6 +70,6 @@ Thank you, John McCarthy!
 
 ## **Update 2012-01-16**
 
-I wrote a companion post on [my K-12 experiences with computing education](http://franklinchen.com/blog/2012/01/16/how-school-made-me-hate-computer-science-and-programming/).
+I wrote a companion post on [my K-12 experiences with computing education](/blog/2012/01/16/how-school-made-me-hate-computer-science-and-programming/).
 
 A near contemporary of mine, Natasha Chen (no relation), wrote an [article in 1992 on her experiences with computing education](http://www.eimacs.com/blog/2011/12/learn-computer-programming-without-complicated-syntax/).

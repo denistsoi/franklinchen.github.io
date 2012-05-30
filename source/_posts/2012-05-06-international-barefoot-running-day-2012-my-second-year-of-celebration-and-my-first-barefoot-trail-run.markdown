@@ -14,7 +14,7 @@ categories:
 ---
 {% img /images/international-barefoot-running-day-2012/ibrdposter_lg.jpg Official poster of International Barefoot Running Day 2012 %}
 
-One year ago (May 1, 2011), I celebrated the first annual [International Barefoot Running Day](http://www.thebarefootrunners.org/pages/IBRD/) by running 0.6 mile on the streets of my neighborhood. That was the very first time in my life I was "brave" enough to [run barefoot](http://franklinchen.com/blog/categories/barefoot-running/) outside (other than one failed attempt I discuss below).
+One year ago (May 1, 2011), I celebrated the first annual [International Barefoot Running Day](http://www.thebarefootrunners.org/pages/IBRD/) by running 0.6 mile on the streets of my neighborhood. That was the very first time in my life I was "brave" enough to [run barefoot](/blog/categories/barefoot-running/) outside (other than one failed attempt I discuss below).
 
 Today, I pushed the envelope by running a full 2 miles barefoot, including a 0.5 mile trail loop on Frick Park. **This was my first time ever running barefoot on the trails.**
 
@@ -48,7 +48,7 @@ So for almost a decade, I simply never tried running barefoot again, even on a t
 
 ## Transition to Vibram FiveFingers shoes
 
-I have raved repeatedly on this blog about my use of [Vibram FiveFingers](http://franklinchen.com/blog/categories/fivefingers/) minimalist shoes. They are my regular shoes now (when not in winter) for running (road and trail), street walking, trail hiking. They came to my attention through a friend in 2009, and in conjunction with my reading McDougall's book, I bought my first pair of FiveFingers shoes in fall of 2009.
+I have raved repeatedly on this blog about my use of [Vibram FiveFingers](/blog/categories/fivefingers/) minimalist shoes. They are my regular shoes now (when not in winter) for running (road and trail), street walking, trail hiking. They came to my attention through a friend in 2009, and in conjunction with my reading McDougall's book, I bought my first pair of FiveFingers shoes in fall of 2009.
 
 It took me two years of occasional use to really build up distance with the minimalist shoes and change my form in many ways such that I no longer experience any undue pain on stress on my muscles or joints. By 2011, I was ready to use them as my everyday footwear.
 

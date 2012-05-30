@@ -9,7 +9,7 @@ categories:
 - Pittsburgh
 - FiveFingers
 ---
-After finishing my road racing "season" for this year a while ago with the [Run Shadyside 5K](http://franklinchen.com/blog/2011/10/01/run-shadyside-5k-outrunning-mickey-mouse-and-lending-a-trumpet/) that, frankly, left me quite exhausted, I returned to my true love, running easy in the trails of [Frick Park](http://www.pittsburghparks.org/frick), just minutes away from where I live.
+After finishing my road racing "season" for this year a while ago with the [Run Shadyside 5K](/blog/2011/10/01/run-shadyside-5k-outrunning-mickey-mouse-and-lending-a-trumpet/) that, frankly, left me quite exhausted, I returned to my true love, running easy in the trails of [Frick Park](http://www.pittsburghparks.org/frick), just minutes away from where I live.
 
 On Monday, enjoying the strangely warm and dry weather, I did my usual five-mile route in the morning. The autumn leaves were not yet in full glorious color, but I took along my camera (for the first time ever on a run), to capture some of the experience.
 
@@ -61,7 +61,7 @@ Off road, I always run in my [Vibram FiveFingers KSO Trek](http://www.vibramfive
 
 {% img /images/franklin-kso-trek.jpg Franklin wearing KSO Trek %}
 
-These are my favorite [FiveFingers](http://www.vibramfivefingers.com/) shoes. The other two models I wear, the [Bikila LS](http://franklinchen.com/blog/2011/09/25/blistered-but-blissful-in-the-burgh/) and the [KSO](http://franklinchen.com/blog/2011/10/08/my-god-its-full-of-stairs-pittsburgh-step-trek-2011/), are less comfortable for me.
+These are my favorite [FiveFingers](http://www.vibramfivefingers.com/) shoes. The other two models I wear, the [Bikila LS](/blog/2011/09/25/blistered-but-blissful-in-the-burgh/) and the [KSO](/blog/2011/10/08/my-god-its-full-of-stairs-pittsburgh-step-trek-2011/), are less comfortable for me.
 
 ## Summary
 

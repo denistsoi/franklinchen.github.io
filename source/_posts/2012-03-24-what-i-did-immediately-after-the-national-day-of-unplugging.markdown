@@ -13,7 +13,7 @@ categories:
 - smartphone
 - information diet
 ---
-[The past 24 hours](http://franklinchen.com/blog/2012/03/22/paradox-i-will-observe-the-national-day-of-unplugging-but-just-bought-my-first-smartphone-this-week/), I observed the [National Day of Unplugging](http://nationaldayofunplugging.org/).
+[The past 24 hours](/blog/2012/03/22/paradox-i-will-observe-the-national-day-of-unplugging-but-just-bought-my-first-smartphone-this-week/), I observed the [National Day of Unplugging](http://nationaldayofunplugging.org/).
 
 This is not a report on what I learned during that experience. I will be working on that report, which will probably be spread out over multiple posts.
 

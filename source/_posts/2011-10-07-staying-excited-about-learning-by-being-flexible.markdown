@@ -9,7 +9,7 @@ categories:
 - practice
 - learning
 ---
-It's easy to get into a slump when trying to learn something or improve skill at something. I use a variety of tricks to stay excited and productive when that happens. I'll use, as an example, a few details about my [daily](http://franklinchen.com/blog/2011/09/26/i-dont-feel-like-practicing-but-im-gonna-do-it-anyway/) recorder practice, as it has unfolded this week so far. (In the future I'll discuss how I apply similar tricks to other activities as well.)
+It's easy to get into a slump when trying to learn something or improve skill at something. I use a variety of tricks to stay excited and productive when that happens. I'll use, as an example, a few details about my [daily](/blog/2011/09/26/i-dont-feel-like-practicing-but-im-gonna-do-it-anyway/) recorder practice, as it has unfolded this week so far. (In the future I'll discuss how I apply similar tricks to other activities as well.)
 
 The main key is *flexibility*.  Here is how flexibility made this week pretty good for me, through combining each of these themes:
 
@@ -23,7 +23,7 @@ The main key is *flexibility*.  Here is how flexibility made this week pretty go
 
 ## Monday: feedback
 
-On Monday, I was in a competitive mood, wanting to continue to work on being able to play some exercises faster, and start new exercises, using the [musician's best friend](http://franklinchen.com/blog/2011/09/29/a-musicians-best-friend/). I spent all my time on technical exercises for soprano and alto recorders, monitoring how far I was able to kick up the metronome from the previous day or days.
+On Monday, I was in a competitive mood, wanting to continue to work on being able to play some exercises faster, and start new exercises, using the [musician's best friend](/blog/2011/09/29/a-musicians-best-friend/). I spent all my time on technical exercises for soprano and alto recorders, monitoring how far I was able to kick up the metronome from the previous day or days.
 
 Feedback makes learning exciting because it always feels good to know that one has progressed, and to uncover areas of weakness to continue improving in the future.
 
@@ -39,7 +39,7 @@ I deserve a rest day now and then!
 
 ## Thursday: trust
 
-On Thursday, I started my day feeling rather crappy. I hadn't slept well because of the news the previous night of [Steve Jobs' death](http://franklinchen.com/blog/2011/10/05/i-cannot-imagine-my-life-without-the-influence-of-steve-jobs/). I really did not feel like practicing *at all*.
+On Thursday, I started my day feeling rather crappy. I hadn't slept well because of the news the previous night of [Steve Jobs' death](/blog/2011/10/05/i-cannot-imagine-my-life-without-the-influence-of-steve-jobs/). I really did not feel like practicing *at all*.
 
 But I knew that I should, so I did a short practice in which I took out my soprano, played over some easy pieces, trying to enjoy them, and starting to sight read a piece for alto. I tried the metronome but it was telling me I wasn't doing so well, so I put it away.
 
@@ -47,7 +47,7 @@ I didn't make any breakthroughs, but I put in the time, and trusted that I would
 
 ## Friday: variety
 
-On Friday, I was very eager to return to my brand new [bass recorder](http://franklinchen.com/blog/2011/10/03/my-new-bass-and-sopranino-recorders-and-having-fun/). I had temporarily put it aside for a while out of frustration with getting used to holding the instrument, feeling and blowing into it differently, reading bass clef, and remembering to use some mandatory different fingerings (versus alto).
+On Friday, I was very eager to return to my brand new [bass recorder](/blog/2011/10/03/my-new-bass-and-sopranino-recorders-and-having-fun/). I had temporarily put it aside for a while out of frustration with getting used to holding the instrument, feeling and blowing into it differently, reading bass clef, and remembering to use some mandatory different fingerings (versus alto).
 
 Sure enough, as I returned to the bass, I was much better than I had been the last time I had practiced it. (Yes, my friend the metronome was back!)
 

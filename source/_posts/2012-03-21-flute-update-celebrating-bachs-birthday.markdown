@@ -13,7 +13,7 @@ categories:
 - recorder
 - Goldberg Variations
 ---
-It's been eleven days since [my last blog post on my flute progress](http://franklinchen.com/blog/2012/03/10/flute-loving-it-again/). During this time, there have been various changes in my life, including *radical* changes in my musical life. It will take me a couple of additional blog posts to discuss these changes, but for now, I'll talk only about today's snapshot of my flute activity.
+It's been eleven days since [my last blog post on my flute progress](/blog/2012/03/10/flute-loving-it-again/). During this time, there have been various changes in my life, including *radical* changes in my musical life. It will take me a couple of additional blog posts to discuss these changes, but for now, I'll talk only about today's snapshot of my flute activity.
 
 <!--more-->
 
@@ -21,19 +21,19 @@ It's been eleven days since [my last blog post on my flute progress](http://fran
 
 {% img http://www.thumbport.com/images/position.jpg Thumbport %}
 
-Today I received a [Thumbport II](http://www.thumbport.com/) I ordered recently. It's a snap-on device that helps with holding a flute, by making it easier to balance the flute on the right thumb, thereby decreasing rolling of the flute and pressure on the right pinkie finger. I tried it for the first time today and it seems useful. We'll see if it helps a bit with my form and [injury issues](http://franklinchen.com/blog/2012/03/07/flute-taking-a-break-while-clarifying-my-goals/).
+Today I received a [Thumbport II](http://www.thumbport.com/) I ordered recently. It's a snap-on device that helps with holding a flute, by making it easier to balance the flute on the right thumb, thereby decreasing rolling of the flute and pressure on the right pinkie finger. I tried it for the first time today and it seems useful. We'll see if it helps a bit with my form and [injury issues](/blog/2012/03/07/flute-taking-a-break-while-clarifying-my-goals/).
 
 ## I celebrated the 327th birthday of Johann Sebastian Bach
 
 I don't follow celebrity birthdays, but I could not avoid hearing about the birthday of [Johann Sebastian Bach, born in 1685](http://en.wikipedia.org/wiki/Johann_Sebastian_Bach), thanks to some music blogs I follow.
 
-How to celebrate? The last time I celebrated a composer's birthday, it was last October, for Franz Liszt's 200th birthday. Then, I listened to a piece of music by the composer and [wrote up my impressions of it](http://franklinchen.com/blog/2011/10/22/happy-200th-birthday/). Today, I again had the option to read about Bach or his music, and but I mostly chose to play his music, in order to celebrate as *actively* as possible.
+How to celebrate? The last time I celebrated a composer's birthday, it was last October, for Franz Liszt's 200th birthday. Then, I listened to a piece of music by the composer and [wrote up my impressions of it](/blog/2011/10/22/happy-200th-birthday/). Today, I again had the option to read about Bach or his music, and but I mostly chose to play his music, in order to celebrate as *actively* as possible.
 
 ### Playing the cello suite no. 1 in G major, BWV 1007
 
 I sight read a bunch of old Bach's music that eventually I should practice seriously to play well, including various minuets and bourrées.
 
-But the main piece I sight read was the full [cello suite](http://en.wikipedia.org/wiki/Cello_Suites_(Bach\)) no. 1 in G major, using an [arrangement for flute by Peter Billam](http://www.pjb.com.au/mus/arr.html). (I had actually obtained this a long time ago intending to play it on alto [recorder](http://franklinchen.com/blog/categories/recorder/).)
+But the main piece I sight read was the full [cello suite](http://en.wikipedia.org/wiki/Cello_Suites_(Bach\)) no. 1 in G major, using an [arrangement for flute by Peter Billam](http://www.pjb.com.au/mus/arr.html). (I had actually obtained this a long time ago intending to play it on alto [recorder](/blog/categories/recorder/).)
 
 This music is deceptively simple but really quite beautiful. Even visually it is pleasing: check out Bach's handwritten score:
 

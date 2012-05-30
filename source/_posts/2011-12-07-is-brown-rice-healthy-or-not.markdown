@@ -10,7 +10,7 @@ categories:
 - cooking
 - food
 ---
-I've been thinking for a year or two now about my relationship with rice, in conjunction with reading about [paleo diets](http://franklinchen.com/blog/2011/10/23/paleo-diet-experimentation/). I've been eating rice, white or brown, for most of my life, and am now considering make some further changes to my diet (beyond [giving up oatmeal](http://franklinchen.com/blog/2011/11/03/one-of-these-breakfasts-is-not-paleo/) for an entire month now).
+I've been thinking for a year or two now about my relationship with rice, in conjunction with reading about [paleo diets](/blog/2011/10/23/paleo-diet-experimentation/). I've been eating rice, white or brown, for most of my life, and am now considering make some further changes to my diet (beyond [giving up oatmeal](/blog/2011/11/03/one-of-these-breakfasts-is-not-paleo/) for an entire month now).
 
 So what now with rice?
 

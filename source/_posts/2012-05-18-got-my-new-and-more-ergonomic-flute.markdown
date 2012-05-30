@@ -7,11 +7,11 @@ categories:
 - music
 - flute
 ---
-Three months ago, I was having [problems](http://franklinchen.com/blog/2012/02/27/flute-practice-dealing-with-burnout-and-injury/) with my left hand primarily because of my short fingers not being able to comfortably use my inline G flute. I knew that I had to go to an offset G flute. Well, now I have one!
+Three months ago, I was having [problems](/blog/2012/02/27/flute-practice-dealing-with-burnout-and-injury/) with my left hand primarily because of my short fingers not being able to comfortably use my inline G flute. I knew that I had to go to an offset G flute. Well, now I have one!
 
 {% img /images/azumi-3000-flute/azumi-for-the-growing-flutist.jpg Azumi 3000 flute packaging %}
 
-I finally got my new [Azumi flute](http://www.azumiflutes.com/), the [3000 model](http://www.azumiflutes.com/#/2000-3000-Models) with offset G and split E, as recommended on [Jen Cluff's wonderful flute blog](http://www.jennifercluff.com/flutequip.htm) as a good "intermediate" flute. As a "growing flutist" who has practiced seriously [for only a few months](http://franklinchen.com/blog/categories/flute/) in my life, I hope this new flute will serve me well for years to come, as I progress beyond my current "advanced beginner" level (see Postscript below).
+I finally got my new [Azumi flute](http://www.azumiflutes.com/), the [3000 model](http://www.azumiflutes.com/#/2000-3000-Models) with offset G and split E, as recommended on [Jen Cluff's wonderful flute blog](http://www.jennifercluff.com/flutequip.htm) as a good "intermediate" flute. As a "growing flutist" who has practiced seriously [for only a few months](/blog/categories/flute/) in my life, I hope this new flute will serve me well for years to come, as I progress beyond my current "advanced beginner" level (see Postscript below).
 
 ## Comparison with my old Yamaha YFL-381H flute
 
@@ -26,7 +26,7 @@ The new flute is very different from my old Yamaha flute. It's clearly of higher
 
 While doing some house cleaning, I found a rudimentary flute workbook called the ["Flute and Piccolo Note Speller" by Fred Weber](http://www.amazon.com/Piccolo-Speller-Elementary-Private-Method/dp/B003DKF662). I only worked through eight of the thirty-two pages of this book.
 
-As I have mentioned before, before I took up flute again last winter, the last time I played the flute was age 10-13, and [not at all seriously](http://franklinchen.com/blog/2012/01/08/finding-and-using-my-childhood-flute-books/). Page eight of the workbook I found says everything there needs to be said about my level of proficiency and seriousness when I quit at age 13. I didn't even finish part two of the worksheet!
+As I have mentioned before, before I took up flute again last winter, the last time I played the flute was age 10-13, and [not at all seriously](/blog/2012/01/08/finding-and-using-my-childhood-flute-books/). Page eight of the workbook I found says everything there needs to be said about my level of proficiency and seriousness when I quit at age 13. I didn't even finish part two of the worksheet!
 
 I did this lesson a few months before turning 13:
 

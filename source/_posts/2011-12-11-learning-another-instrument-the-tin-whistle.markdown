@@ -10,7 +10,7 @@ categories:
 - tin whistle
 - Holiday Ball
 ---
-So on this blog I've already written about [starting to play recorder](http://franklinchen.com/blog/categories/recorder/) earlier this year, then taking up [flute again](http://franklinchen.com/blog/categories/flute/), and even just barely getting started with [Baroque flute](http://franklinchen.com/blog/categories/baroque-flute/).
+So on this blog I've already written about [starting to play recorder](/blog/categories/recorder/) earlier this year, then taking up [flute again](/blog/categories/flute/), and even just barely getting started with [Baroque flute](/blog/categories/baroque-flute/).
 
 Yesterday I started playing the [tin whistle](http://en.wikipedia.org/wiki/Tin_whistle) for the first time ever!
 
@@ -24,7 +24,7 @@ Why on earth am I playing this thing, which looks like a toy?
 
 ## Upcoming performance at the Holiday Ball
 
-I've mentioned in an earlier blog post that I am going to be [performing music](http://franklinchen.com/blog/2011/12/01/im-going-to-perform-music-much-sooner-than-i-expected-monday/) in the [Pittsburgh Contras and Squares](http://pittsburghcontra.org/) annual Holiday Ball (coming up Friday). I have been [practicing hard](http://franklinchen.com/blog/2011/12/05/busy-evening-performing-at-phipps-followed-by-rehearsal-for-another-gig/), trying to get up to speed on playing the music on either recorder or flute.
+I've mentioned in an earlier blog post that I am going to be [performing music](/blog/2011/12/01/im-going-to-perform-music-much-sooner-than-i-expected-monday/) in the [Pittsburgh Contras and Squares](http://pittsburghcontra.org/) annual Holiday Ball (coming up Friday). I have been [practicing hard](/blog/2011/12/05/busy-evening-performing-at-phipps-followed-by-rehearsal-for-another-gig/), trying to get up to speed on playing the music on either recorder or flute.
 
 ## Practical considerations
 
@@ -32,7 +32,7 @@ I had early on decided that I wanted to try to play the flute instead of the rec
 
 But as a beginner, frankly, at flute (I played only aimlessly in the past as a pre-teen), I've been finding it quite difficult to play all these Irish [jigs](http://en.wikipedia.org/wiki/Jig) and [reels](http://en.wikipedia.org/wiki/Reel_(dance\)) at full speed. OK, after one week of practice I can say that I find it *impossible* at this point to play these at full speed on flute. Part of the reason is that the music is almost all in keys with sharps, and I find it much easier to play music on the flute with flats (which is all I did as a child).
 
-I use the [metronome method](http://franklinchen.com/blog/2011/09/29/a-musicians-best-friend/) of gradually improving my speed while working on getting things right at a slower speed, but even after a week, for example, I progressed on the Chorus Jig (check out the video of sample [fiddle rendition](http://www.youtube.com/watch?v=69BzrCkEvdU)) from metronome marking 78 to 80 to 90 and to 100, but I can't go any faster than yet, for just this one of around *thirty* pieces on the program! (I'm guessing from our rehearsals that we will be playing at 110 or faster.)
+I use the [metronome method](/blog/2011/09/29/a-musicians-best-friend/) of gradually improving my speed while working on getting things right at a slower speed, but even after a week, for example, I progressed on the Chorus Jig (check out the video of sample [fiddle rendition](http://www.youtube.com/watch?v=69BzrCkEvdU)) from metronome marking 78 to 80 to 90 and to 100, but I can't go any faster than yet, for just this one of around *thirty* pieces on the program! (I'm guessing from our rehearsals that we will be playing at 110 or faster.)
 
 I tried switching back to soprano recorder but it is all still pretty difficult.
 
@@ -64,6 +64,6 @@ Abby is interested in dancing with me during the second half. I've never done co
 
 I am amused and grateful that by accident I have come to yet another musical instrument of interest, the tin whistle. I will try to get better at it this week for the Holiday Ball, but I have to confess that I don't know what I'll do with it outside of that context. I don't exactly go around playing Irish dance music. As far as my musical goals are concerned: I'd like to return to my long-term project of improving a lot on the modern flute in the coming months, and continuing my recorder improvement as well. I will put Baroque flute on hold for a while, till maybe spring.
 
-There are other instruments also, but time is so limited. Some time ago, I only barely got started on [accordion](http://franklinchen.com/blog/categories/accordion/) and have no idea when I'll return to that. Also I started up on piano again, but have put that aside again. I have a ukulele that I have barely started on, but Abby and I seem to be meeting people who are getting into it lately, so at least I know that if I wanted to take it up, there would be a local community to tap into.
+There are other instruments also, but time is so limited. Some time ago, I only barely got started on [accordion](/blog/categories/accordion/) and have no idea when I'll return to that. Also I started up on piano again, but have put that aside again. I have a ukulele that I have barely started on, but Abby and I seem to be meeting people who are getting into it lately, so at least I know that if I wanted to take it up, there would be a local community to tap into.
 
 I figure that to get good eventually and rapidly at any instrument, I need to spend at least half an hour a day on average of practice, and I cannot really spend more than an hour a day total on music right now, so that means working on no more than two instruments at a time.

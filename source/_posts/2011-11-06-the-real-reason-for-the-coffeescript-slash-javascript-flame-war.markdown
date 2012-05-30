@@ -34,7 +34,7 @@ To illustrate how C++ can be considered an extension of C, compare the handwritt
 
 {% gist 1344060 %}
 
-(For amusement, see how knowing the low levels of C can enable [doing abusive things in C++](http://franklinchen.com/blog/2011/10/04/a-blast-from-the-past-c-plus-plus-abuse/).)
+(For amusement, see how knowing the low levels of C can enable [doing abusive things in C++](/blog/2011/10/04/a-blast-from-the-past-c-plus-plus-abuse/).)
 
 ## JavaScript to CoffeeScript
 

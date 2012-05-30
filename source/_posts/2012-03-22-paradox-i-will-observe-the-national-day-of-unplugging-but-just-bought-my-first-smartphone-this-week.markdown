@@ -12,7 +12,7 @@ categories:
 
 Just in February, I heard of the [National Day of Unplugging](http://nationaldayofunplugging.org/) scheduled for March 23-24, 2012, and immediately put it on my calendar, with the hope of observing it.
 
-For some time, I've been [struggling with being increasingly plugged into the Internet](http://franklinchen.com/blog/2012/02/02/2-new-daily-habits-of-mine-in-a-distracting-world/), and Clay Johnson has been advocating an [information diet](http://www.informationdiet.com/), so I decided to do this day of unplugging as an experiment, to observe what my habits have been and learn something about myself.
+For some time, I've been [struggling with being increasingly plugged into the Internet](/blog/2012/02/02/2-new-daily-habits-of-mine-in-a-distracting-world/), and Clay Johnson has been advocating an [information diet](http://www.informationdiet.com/), so I decided to do this day of unplugging as an experiment, to observe what my habits have been and learn something about myself.
 
 Ironically, on Wednesday I just bought my first smartphone, after years of never having used one. So what's going on?!
 

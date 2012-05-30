@@ -9,7 +9,7 @@ categories:
 - PodCamp Pittsburgh
 - Pittsburgh
 ---
-I created this blog one month ago, on [September 22](http://franklinchen.com/blog/2011/09/22/starting-a-new-web-site/)!
+I created this blog one month ago, on [September 22](/blog/2011/09/22/starting-a-new-web-site/)!
 
 I have achieved my short-term milestone of creating at least one post every day. This has not been a trivial task, and there have been times when I felt pressed for time or tired or was not excited about deciding what to write about and then doing it.
 

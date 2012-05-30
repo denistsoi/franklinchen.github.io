@@ -9,13 +9,13 @@ categories:
 - treadmill
 - FiveFingers
 ---
-Today I decided to do some treadmill [running](http://franklinchen.com/blog/categories/running), since I was going to the gym to do some strength training anyway, so I did just two miles of running as a "warmup" there, using my [Bikila LS shoes](http://franklinchen.com/blog/2012/01/02/new-experiment-for-a-new-year-winter-running-in-vibram-fivefingers-shoes/).
+Today I decided to do some treadmill [running](/blog/categories/running), since I was going to the gym to do some strength training anyway, so I did just two miles of running as a "warmup" there, using my [Bikila LS shoes](/blog/2012/01/02/new-experiment-for-a-new-year-winter-running-in-vibram-fivefingers-shoes/).
 
 I don't much like treadmills, so why did I deliberately plan to run on one?
 
 <!--more-->
 
-In a blog post two months ago, I was critical of the idea of [slogging through a treadmill workout as an unpleasant, mindless chore](http://franklinchen.com/blog/2011/11/04/against-just-putting-in-the-time/) and mentioned some ways that I have tried in the past to make the most of treadmill running. I think the last time I ran on a treadmill may well have been two years ago (unfortunately, for the past decade I have kept a paper notebook exercise log, and still have not converted to a searchable digital one, which I perhaps should). So I wanted to try it again, as a [meditative practice](http://franklinchen.com/blog/categories/meditation/).
+In a blog post two months ago, I was critical of the idea of [slogging through a treadmill workout as an unpleasant, mindless chore](/blog/2011/11/04/against-just-putting-in-the-time/) and mentioned some ways that I have tried in the past to make the most of treadmill running. I think the last time I ran on a treadmill may well have been two years ago (unfortunately, for the past decade I have kept a paper notebook exercise log, and still have not converted to a searchable digital one, which I perhaps should). So I wanted to try it again, as a [meditative practice](/blog/categories/meditation/).
 
 ## The treadmill
 
@@ -25,7 +25,7 @@ I was at first rather annoyed that the addition of the display on top meant that
 
 Then I realized that in fact, how is that much different from watching TV? It is different because TV programs have some kind of constructed narrative for you to attend to, while observing action outside the window is looser and not as distracting. But in a way, occasionally having my mind wander by checking out what people are doing outside goes against the "mindfulness" I have advocated.
 
-Therefore, I decided to consider the blank TV screen blocking my view a fortuitous *opportunity* to make my treadmill running more meditative. I chuckled to myself as I thought of how I do [meditation facing a blank wall](http://franklinchen.com/blog/2011/09/28/staring-at-the-wall-with-nowhere-to-go/) anyway.
+Therefore, I decided to consider the blank TV screen blocking my view a fortuitous *opportunity* to make my treadmill running more meditative. I chuckled to myself as I thought of how I do [meditation facing a blank wall](/blog/2011/09/28/staring-at-the-wall-with-nowhere-to-go/) anyway.
 
 ### Suggestion
 

@@ -10,7 +10,7 @@ categories:
 - Phipps Conservatory
 - Holiday Ball
 ---
-Tonight I left my office and walked across Flagstaff Hill to Phipps Conservatory to [play some music](http://franklinchen.com/blog/2011/12/01/im-going-to-perform-music-much-sooner-than-i-expected-monday/) with four other recorder players.
+Tonight I left my office and walked across Flagstaff Hill to Phipps Conservatory to [play some music](/blog/2011/12/01/im-going-to-perform-music-much-sooner-than-i-expected-monday/) with four other recorder players.
 
 {% img /images/recorders-at-phipps/phipps-monday-evening.jpg Phipps in evening from Flagstaff Hill %}
 

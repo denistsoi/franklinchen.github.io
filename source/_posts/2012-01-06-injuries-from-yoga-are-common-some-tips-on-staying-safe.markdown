@@ -81,13 +81,13 @@ I don't do all the poses Yee demonstrates, and the ones I do, I don't necessaril
 
 ## Current group class
 
-Abby and I sometimes attend a local free [drop-in class at the Squirrel Hill Library](http://franklinchen.com/blog/2011/09/24/roaring-like-a-lion-on-a-saturday/). We don't go often, but it is nice in small doses. Some of the reasons we don't go often:
+Abby and I sometimes attend a local free [drop-in class at the Squirrel Hill Library](/blog/2011/09/24/roaring-like-a-lion-on-a-saturday/). We don't go often, but it is nice in small doses. Some of the reasons we don't go often:
 
 - The session is very long, and we prefer shorter sessions. Some people do leave early, but breaking the flow of a complete workout (that includes a nice relaxation segment at the end) just seems inappropriate.
 - We don't get detailed technical instruction on how to do things right. This is a very large group class.
 - We are encouraged or guided to go into difficult poses that we are not comfortable with. Yes, the instructor does tell us we don't have to do them, and yes, we know to listen to our bodies, but still, it is somewhat disorienting to decide not to do something when other people are doing it.
 
-Overall, the important thing when doing yoga is [not to do it mechanically, but with awareness and no ego](http://franklinchen.com/blog/2011/11/04/against-just-putting-in-the-time/).
+Overall, the important thing when doing yoga is [not to do it mechanically, but with awareness and no ego](/blog/2011/11/04/against-just-putting-in-the-time/).
 
 ## My current practice
 

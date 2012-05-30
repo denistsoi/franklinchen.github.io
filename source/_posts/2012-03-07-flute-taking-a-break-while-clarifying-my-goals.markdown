@@ -11,9 +11,9 @@ categories:
 - practice
 - Baroque flute
 ---
-This is my first blog post in over a week. I've been very busy, and therefore have had to recently [say "no"](http://franklinchen.com/blog/2012/02/23/saying-no-in-order-to-say-yes/) to blogging while saying "yes" to many other activities.
+This is my first blog post in over a week. I've been very busy, and therefore have had to recently [say "no"](/blog/2012/02/23/saying-no-in-order-to-say-yes/) to blogging while saying "yes" to many other activities.
 
-Another thing I've said "no" to in the past three days has been playing the (modern) flute. In my last blog post I was worried about flute [burnout and injury](http://franklinchen.com/blog/2012/02/27/flute-practice-dealing-with-burnout-and-injury).
+Another thing I've said "no" to in the past three days has been playing the (modern) flute. In my last blog post I was worried about flute [burnout and injury](/blog/2012/02/27/flute-practice-dealing-with-burnout-and-injury).
 
 Here's a flute status update.
 

@@ -8,7 +8,7 @@ categories:
 - Agile
 - Pittsburgh
 ---
-On Wednesday, I left my regular [meditation session](http://franklinchen.com/blog/2011/09/28/staring-at-the-wall-with-nowhere-to-go/) early, to rush off to a meeting of the relatively new [Pittsburgh Agile meetup group](http://www.meetup.com/PittsburghAgile/). [Andrew Cox](http://andrewcox.org/) gave a very informative talk on [Agile anti-patterns](http://www.meetup.com/PittsburghAgile/events/36899642/).  (He has put up online his [slides with presentation notes](http://files.meetup.com/1792120/agile-antipatterns.pdf).)
+On Wednesday, I left my regular [meditation session](/blog/2011/09/28/staring-at-the-wall-with-nowhere-to-go/) early, to rush off to a meeting of the relatively new [Pittsburgh Agile meetup group](http://www.meetup.com/PittsburghAgile/). [Andrew Cox](http://andrewcox.org/) gave a very informative talk on [Agile anti-patterns](http://www.meetup.com/PittsburghAgile/events/36899642/).  (He has put up online his [slides with presentation notes](http://files.meetup.com/1792120/agile-antipatterns.pdf).)
 
 Around ten other people attended (a small turnout compared to some past meetings of the group). I have been to two or three of this group's meetups so far, and have found them rather useful, prodding me to reflect on my own software development processes and start to make changes to them.
 
@@ -80,4 +80,4 @@ Again, here are Andrew's [slides with notes](http://files.meetup.com/1792120/agi
 
 I happen to believe that anti-patterns in any field reflect deep facts about human imperfection and inspiration and that is why I have tried to relate Agile development anti-patterns to other areas of life.
 
-If you are in the Pittsburgh area, I highly recommend checking out the [Agile meetup group]((http://www.meetup.com/PittsburghAgile/)!
+If you are in the Pittsburgh area, I highly recommend checking out the [Agile meetup group](http://www.meetup.com/PittsburghAgile/)!

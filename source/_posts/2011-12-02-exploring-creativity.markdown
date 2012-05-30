@@ -8,7 +8,7 @@ categories:
 - Carnegie Mellon University
 - Ron Placone
 ---
-Yesterday at work, I participated in a brown bag seminar "Fostering Team Creativity" offered by [CMU](http://www.cmu.edu/hr/learning/), taught by Ron Placone, whose seminar "Communicating Through Dialogue" back in October that [I had found so useful](http://franklinchen.com/blog/2011/10/11/communicating-through-dialogue/).
+Yesterday at work, I participated in a brown bag seminar "Fostering Team Creativity" offered by [CMU](http://www.cmu.edu/hr/learning/), taught by Ron Placone, whose seminar "Communicating Through Dialogue" back in October that [I had found so useful](/blog/2011/10/11/communicating-through-dialogue/).
 
 {% blockquote %}
 Often, when we think of creativity, we think of creative individuals.

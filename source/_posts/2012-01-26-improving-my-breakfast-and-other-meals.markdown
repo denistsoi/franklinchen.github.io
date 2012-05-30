@@ -8,7 +8,7 @@ categories:
 - cooking
 - paleo
 ---
-In the past couple of months, I've made some large changes in my diet. Fundamentally, I've moved in a [paleo](http://franklinchen.com/blog/categories/paleo) direction. The largest change was breakfast, where I completely gave up my old breakfast and [replaced it](http://franklinchen.com/blog/2011/11/03/one-of-these-breakfasts-is-not-paleo/). After some experimentation, I've finally arrived at a breakfast template that seems optimal for me (as gauged by my morning energy level and other criteria I discuss below).
+In the past couple of months, I've made some large changes in my diet. Fundamentally, I've moved in a [paleo](/blog/categories/paleo) direction. The largest change was breakfast, where I completely gave up my old breakfast and [replaced it](/blog/2011/11/03/one-of-these-breakfasts-is-not-paleo/). After some experimentation, I've finally arrived at a breakfast template that seems optimal for me (as gauged by my morning energy level and other criteria I discuss below).
 
 As an example, here is what I ate this morning:
 
@@ -21,7 +21,7 @@ The ingredients, and what has changed, and why:
 ## Recipe
 
 - 1/2 tsp [coconut oil](http://www.organicfacts.net/organic-oils/organic-coconut-oil/health-benefits-of-coconut-oil.html)
-- 2 [eggs](http://franklinchen.com/blog/2011/11/28/thankful-for-the-free-range-orange-yolked-eggs/), fried
+- 2 [eggs](/blog/2011/11/28/thankful-for-the-free-range-orange-yolked-eggs/), fried
 - 1/2 clove of [garlic](http://www.garlic-central.com/garlic-health.html)
 - some shakes of seasoning mix (salt, pepper, etc.)
 - a dash of turmeric

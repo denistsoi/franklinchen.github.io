@@ -6,7 +6,7 @@ comments: true
 categories:
 - minimalism
 ---
-Yesterday, I talked about [use of **time**](http://franklinchen.com/blog/2011/10/18/disagreement-on-the-use-of-time/). Today, I am talking about **space**.
+Yesterday, I talked about [use of **time**](/blog/2011/10/18/disagreement-on-the-use-of-time/). Today, I am talking about **space**.
 
 I have too much *stuff*.
 

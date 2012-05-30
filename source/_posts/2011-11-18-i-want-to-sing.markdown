@@ -35,7 +35,7 @@ I especially liked Offenbach's ["La Belle Hélène"](http://en.wikipedia.org/wik
 
 ## College and beyond
 
-In college, I discovered the entire classical music world. (Some of the story was told in my [post about flute](http://franklinchen.com/blog/2011/11/09/taking-up-flute-again-after-decades).
+In college, I discovered the entire classical music world. (Some of the story was told in my [post about flute](/blog/2011/11/09/taking-up-flute-again-after-decades).
 
 As far as singing was concerned: I made a new friend who was into all things German (literature, music), and listened to songs ([Lieder](http://en.wikipedia.org/wiki/Lied)) by Beethoven, Schubert, Mahler, and others. I got into reading some stuff in translation and listening to instrumental music, but the language barrier prevented me from really enjoying listening to the songs. Eventually I took German to help me out, and so I finally started to sing along to Schubert, in particular.
 

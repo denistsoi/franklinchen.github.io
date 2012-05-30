@@ -6,7 +6,7 @@ comments: true
 categories: 
 - smartphone
 ---
-I got my first smartphone in my life [just two weeks ago](http://franklinchen.com/blog/2012/03/22/paradox-i-will-observe-the-national-day-of-unplugging-but-just-bought-my-first-smartphone-this-week/), a [Samsung Galaxy S II](http://en.wikipedia.org/wiki/Samsung_Galaxy_S_II). I've been too busy to actually sit down and read the [279-page manual](http://www.samsung.com/us/support/owners/product/SGH-T989ZKBTMB), but here are some observations on how I've used the smartphone so far.
+I got my first smartphone in my life [just two weeks ago](/blog/2012/03/22/paradox-i-will-observe-the-national-day-of-unplugging-but-just-bought-my-first-smartphone-this-week/), a [Samsung Galaxy S II](http://en.wikipedia.org/wiki/Samsung_Galaxy_S_II). I've been too busy to actually sit down and read the [279-page manual](http://www.samsung.com/us/support/owners/product/SGH-T989ZKBTMB), but here are some observations on how I've used the smartphone so far.
 
 <!--more-->
 

@@ -11,7 +11,7 @@ categories:
 - Carmen
 - Syrinx
 ---
-So it's been less than two weeks since I [started playing flute again](http://franklinchen.com/blog/2011/11/09/taking-up-flute-again-after-decades/). One thing I forgot to mention is that [James Galway](http://en.wikipedia.org/wiki/James_Galway) made me hate flute for decades.
+So it's been less than two weeks since I [started playing flute again](/blog/2011/11/09/taking-up-flute-again-after-decades/). One thing I forgot to mention is that [James Galway](http://en.wikipedia.org/wiki/James_Galway) made me hate flute for decades.
 
 The bottom line is that I never liked Galway's distinctive vibrato and sound. Unfortunately, for some reason, I kept on seeing him on TV and hearing him on the radio, and so he sort of represented to me "flute".
 

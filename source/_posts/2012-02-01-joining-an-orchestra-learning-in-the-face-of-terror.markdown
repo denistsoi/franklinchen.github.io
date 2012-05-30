@@ -12,9 +12,9 @@ categories:
 - practice
 - recorder
 ---
-I have not written about my [flute activities](http://franklinchen.com/blog/categories/flute/) since [a month ago](http://franklinchen.com/blog/2012/01/08/finding-and-using-my-childhood-flute-books/), but that's not for lack of action: in fact, I've been spending a lot of time on the flute, at the expense of other personal projects, including writing.
+I have not written about my [flute activities](/blog/categories/flute/) since [a month ago](/blog/2012/01/08/finding-and-using-my-childhood-flute-books/), but that's not for lack of action: in fact, I've been spending a lot of time on the flute, at the expense of other personal projects, including writing.
 
-Two months ago, I mentioned that I was [considering joining](http://franklinchen.com/blog/2011/12/01/im-going-to-perform-music-much-sooner-than-i-expected-monday/) the [Carnegie Mellon All-University Orchestra](http://www.andrew.cmu.edu/user/auo/), which I claimed was "not very good" and that "I don't have to be super good to be a part of it." *I take back those comments*.
+Two months ago, I mentioned that I was [considering joining](/blog/2011/12/01/im-going-to-perform-music-much-sooner-than-i-expected-monday/) the [Carnegie Mellon All-University Orchestra](http://www.andrew.cmu.edu/user/auo/), which I claimed was "not very good" and that "I don't have to be super good to be a part of it." *I take back those comments*.
 
 I joined the CMU AUO two Sundays ago, attending the first rehearsal then, and **it was one of the most frightening experiences in my entire life**. I almost left before even entering the rehearsal room. But I went in, stayed for the two and a half hours, and last Sunday, I went to the second rehearsal.
 
@@ -61,9 +61,9 @@ For fun, here is the CMU AUO performing last fall Bernstein's Overture to Candid
 
 ## My practice strategy for a week after the first rehearsal
 
-All January I had been working really hard for three weeks on flute practice, in anticipation of the first CMU AUO rehearsal that occurred on January 22. I was making a *huge* amount of progress working through "easy" stuff. Flute is much, much harder to play than [recorder](http://franklinchen.com/blog/categories/recorder/).
+All January I had been working really hard for three weeks on flute practice, in anticipation of the first CMU AUO rehearsal that occurred on January 22. I was making a *huge* amount of progress working through "easy" stuff. Flute is much, much harder to play than [recorder](/blog/categories/recorder/).
 
-After the first rehearsal, I decided that there was no way I could ever play the Gershwin or Bernstein without focusing really hard on pure technique. So the bulk of my practice was beginning to systematically work through the [Rubank Intermediate Method: Flute or Piccolo](http://www.amazon.com/Rubank-Intermediate-Method-Piccolo-Educational/dp/1423444221) that I mentioned [finding in early January](http://franklinchen.com/blog/2012/01/08/finding-and-using-my-childhood-flute-books/) and never having used.
+After the first rehearsal, I decided that there was no way I could ever play the Gershwin or Bernstein without focusing really hard on pure technique. So the bulk of my practice was beginning to systematically work through the [Rubank Intermediate Method: Flute or Piccolo](http://www.amazon.com/Rubank-Intermediate-Method-Piccolo-Educational/dp/1423444221) that I mentioned [finding in early January](/blog/2012/01/08/finding-and-using-my-childhood-flute-books/) and never having used.
 
 I spent a little bit of time trying to play excerpts from the Gershwin and Bernstein at a very slow tempo, but frankly, these attempts were very frustrating because I was still having problems just playing the high notes at all, for example. **I had to learn the fingerings for some notes I had never played in my life.** I also had to improve my embouchure in order to produce those notes.
 
@@ -111,11 +111,11 @@ Regarding learning, I will be writing blog posts in the future about my various 
 - style, expression
 - actual music
 
-I squeeze as much as I can out of an hour of practice at home. I've found that there are diminishing returns of all kinds after an hour. Obviously, if I were a music student or professional, I'd use multiple sessions to get more hours, but for much of my life these days I use the [80/20 rule](htpp://en.wikipedia.org/wiki/Pareto_principle) to maximize the returns on my practice.
+I squeeze as much as I can out of an hour of practice at home. I've found that there are diminishing returns of all kinds after an hour. Obviously, if I were a music student or professional, I'd use multiple sessions to get more hours, but for much of my life these days I use the [80/20 rule](http://en.wikipedia.org/wiki/Pareto_principle) to maximize the returns on my practice.
 
 ### Speed
 
-I use the [metronome](http://franklinchen.com/blog/2011/09/29/a-musicians-best-friend/) extensively in my practice to gauge my progress, by making note each day of the fastest speed at which I can execute an exercise with the best musical qualities I am capable of currently, and then trying to do it faster the next day. This method worked very well for me when I was learning the recorder from scratch, and it is working for me well now.
+I use the [metronome](/blog/2011/09/29/a-musicians-best-friend/) extensively in my practice to gauge my progress, by making note each day of the fastest speed at which I can execute an exercise with the best musical qualities I am capable of currently, and then trying to do it faster the next day. This method worked very well for me when I was learning the recorder from scratch, and it is working for me well now.
 
 For example, here is the record for one of the twenty or so exercises I have worked on in the Rubank book for the past week and a half:
 

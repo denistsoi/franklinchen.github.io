@@ -14,7 +14,7 @@ categories:
 ---
 {% img /images/left-hand.jpg Franklin's left hand %}
 
-Yesterday, I attended yet another [rehearsal](http://franklinchen.com/blog/2012/02/22/flute-progress-still-hanging-in-there/) of the [Carnegie Mellon All-University Orchestra](http://www.andrew.cmu.edu/user/auo/).
+Yesterday, I attended yet another [rehearsal](/blog/2012/02/22/flute-progress-still-hanging-in-there/) of the [Carnegie Mellon All-University Orchestra](http://www.andrew.cmu.edu/user/auo/).
 
 I did this while feeling burned out and injured.
 
@@ -24,7 +24,7 @@ I did this while feeling burned out and injured.
 
 In the past couple of days, I have experienced decreased desire to practice flute, although by changing up my material, I did manage to get some decent sessions in. Still, I could tell that I was beginning to risk burnout.
 
-In addition to mental fatigue, my [left forefinger soreness](http://franklinchen.com/blog/2012/02/14/flute-progress-report-day-of-reckoning-approaches/) got worse in the past couple of days, such that yesterday, I didn't practice before rehearsal. I started experiencing [tingling and numbness](http://www.jennifercluff.com/lineup.htm#indentation).
+In addition to mental fatigue, my [left forefinger soreness](/blog/2012/02/14/flute-progress-report-day-of-reckoning-approaches/) got worse in the past couple of days, such that yesterday, I didn't practice before rehearsal. I started experiencing [tingling and numbness](http://www.jennifercluff.com/lineup.htm#indentation).
 
 [Sometimes it's best to call it a day.](http://theskooloflife.com/wordpress/sometimes-its-best-to-call-it-a-day/) So I decided yesterday that today, I would take a day completely off from practicing my flute, the first break I have given myself since January 19.
 
@@ -48,7 +48,7 @@ I've always thought that I would like to get an offset G flute when I "upgrade" 
 
 Another book on music practice that I enjoy, Madeline Bruser's ["The Art of Practicing"](http://artofpracticing.com/), has an anecdote (page 107) about a flutist, Janet Weiss, who found that the traditional flute did not fit her hand, and became a pioneer in redesigning it. Weiss was quoted as saying, "The instrument we're playing is incorrect for many people... it's like trying to dance in a pair of shoes that don't fit."
 
-Indeed! If we love music enough, we should take the initiative to make sure that we are not hampered by our instruments. Just as, I love running and hiking, and struggled with bad footwear for years, decades, until I solved most of my problems, by moving toward [Vibram FiveFingers](http://franklinchen.com/blog/categories/fivefingers/) shoes that do not cramp my very wide feet and do not introduce cushioning that causes me to mess up my knees and shins and ankles.
+Indeed! If we love music enough, we should take the initiative to make sure that we are not hampered by our instruments. Just as, I love running and hiking, and struggled with bad footwear for years, decades, until I solved most of my problems, by moving toward [Vibram FiveFingers](/blog/categories/fivefingers/) shoes that do not cramp my very wide feet and do not introduce cushioning that causes me to mess up my knees and shins and ankles.
 
 We have to do what we have to do. We can't just complain that other people are lucky and mass-produced clothing and tools work for them. 
 

@@ -6,7 +6,7 @@ comments: true
 categories:
 - writing
 ---
-It has not yet been *three months* since I [started this blog](http://franklinchen.com/blog/2011/09/22/starting-a-new-web-site/). I have managed to post something every single day since I started, apart from my decision over a month ago to [take Saturday off](http://franklinchen.com/blog/2011/11/12/starting-a-mini-digital-sabbath/). Now that I've proved to myself that I can maintain the [habit](http://franklinchen.com/blog/2011/09/26/i-dont-feel-like-practicing-but-im-gonna-do-it-anyway/), I'm going to take a break (coinciding with the winter holidays), reflect more deeply on where my blog has explored, and plan out and implement some **major changes and improvements**.
+It has not yet been *three months* since I [started this blog](/blog/2011/09/22/starting-a-new-web-site/). I have managed to post something every single day since I started, apart from my decision over a month ago to [take Saturday off](/blog/2011/11/12/starting-a-mini-digital-sabbath/). Now that I've proved to myself that I can maintain the [habit](/blog/2011/09/26/i-dont-feel-like-practicing-but-im-gonna-do-it-anyway/), I'm going to take a break (coinciding with the winter holidays), reflect more deeply on where my blog has explored, and plan out and implement some **major changes and improvements**.
 
 I strongly believe that **[content is king](http://en.wikipedia.org/wiki/Web_content#Content_is_king)**. This is why I have deliberately focused entirely on content in the past three months, rather than on format, tone, and style, even when I became increasingly aware of areas of improvement outside the area of content. I will work on those other areas for 2012.
 

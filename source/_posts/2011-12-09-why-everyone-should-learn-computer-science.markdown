@@ -10,7 +10,7 @@ categories:
 - CSEdWeek
 ---
 On Sunday I wrote an introductory blog post for [Computer Science Education
- Week (CSEDWeek)](http://www.csedweek.org/) in which [I posed some questions](http://franklinchen.com/blog/2011/12/04/why-i-am-writing-this-week-for-csedweek/) to follow up on.
+ Week (CSEDWeek)](http://www.csedweek.org/) in which [I posed some questions](/blog/2011/12/04/why-i-am-writing-this-week-for-csedweek/) to follow up on.
 
 Today I'm going to begin exploring my central thesis that has been brewing in my mind in the past couple of years, which is that **everyone should learn computer science**.
 

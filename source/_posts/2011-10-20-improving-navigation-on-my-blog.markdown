@@ -14,7 +14,7 @@ Here are the main improvements I have made:
 
 ## Tags
 
-I finally came up with a [tags page](http://franklinchen.com/tags/), and added it to the navigation bar.
+I finally came up with a [tags page](/tags/), and added it to the navigation bar.
 
 [Octopress](http://octoopress.org) does not yet have a default plugin to create such a page, but I found and modified some [Ruby code](https://github.com/mattfoster/mattfoster.github.com/edit/master/Rakefile) for the `Rakefile` in order to generate my tags page. I hope this will be helpful to readers who may up till now have been confused because of the variety of topics I write about. I had made a decision up front to write about everything in this blog, rather than compartmentalize my life into different blogs.
 
@@ -26,8 +26,8 @@ For now, I compressed the "about me" aside, with the intention of eventually cre
 
 ## Contact me
 
-I created a [contact](http://franklinchen.com/contact/) page, and added links to it from the navigation bar and the "about me" aside.
+I created a [contact](/contact/) page, and added links to it from the navigation bar and the "about me" aside.
 
 ## 404
 
-I created a custom ["page not found"](http://franklinchen.com/404.html) page, since the default page was useless.
+I created a custom ["page not found"](/404.html) page, since the default page was useless.

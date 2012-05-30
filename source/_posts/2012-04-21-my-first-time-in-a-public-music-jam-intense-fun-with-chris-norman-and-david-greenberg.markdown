@@ -33,13 +33,13 @@ The [Facebook page of the Pittsburgh Renaissance and Baroque](http://www.faceboo
 
 ### My instruments
 
-I have been spending most of my daily music practice all year working on the modern [flute](http://franklinchen.com/blog/categories/flute/); I have not reported on my progress in over a month because I've been too busy *doing* rather than *writing*, but will catch up with the writing sometime.
+I have been spending most of my daily music practice all year working on the modern [flute](/blog/categories/flute/); I have not reported on my progress in over a month because I've been too busy *doing* rather than *writing*, but will catch up with the writing sometime.
 
 But for this jam session, I had decided very quickly that I was *not* going to be bringing my modern flute to play, because I do prefer to play older music on other instruments; I planned to bring the following instruments instead:
 
-- my [tin whistle](http://franklinchen.com/blog/categories/tin-whistle/), which I bought the week of St. Patrick's Day in March (for a party I haven't written about yet but which radically changed my life)
-- an assortment of [recorders](http://franklinchen.com/blog/categories/recorder/): I decided to just bring my soprano and alto
-- my [Baroque flute](http://franklinchen.com/blog/categories/baroque-flute/)
+- my [tin whistle](/blog/categories/tin-whistle/), which I bought the week of St. Patrick's Day in March (for a party I haven't written about yet but which radically changed my life)
+- an assortment of [recorders](/blog/categories/recorder/): I decided to just bring my soprano and alto
+- my [Baroque flute](/blog/categories/baroque-flute/)
 
 Therefore, interspersed with my continuing work on the modern flute, I have also done some maintenance practice of tin whistle and recorders. The most difficult challenge was trying to get serious about Baroque flute: the one-keyed flute is [very, very, very tricky to play in tune](http://www.oldflutes.com/charts/onekey/index.htm). Sometimes I wonder whether it's worth the bother. But I tend to be inspired by quirky challenges whose benefit I don't fully understand immediately.
 
@@ -59,7 +59,7 @@ Abby and I arrived a little late, so I scrambled to get ready while a whole bunc
 
 {% img http://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-prn1/541085_10150682067126513_55075526512_9775042_292845062_n.jpg We played lots of different instruments %}
 
-We ran into half a dozen people we knew from various of our musical circles, including Annie from recorder, a guy Abby knew from mandolin, and some fellow [Holiday Ball](http://franklinchen.com/blog/2011/12/16/playing-recorder-and-flute-at-the-holiday-ball/) musicians.
+We ran into half a dozen people we knew from various of our musical circles, including Annie from recorder, a guy Abby knew from mandolin, and some fellow [Holiday Ball](/blog/2011/12/16/playing-recorder-and-flute-at-the-holiday-ball/) musicians.
 
 I was intrigued by the couple of people who had actual keyed Irish flutes and eager to hear them play (it would turn out, of course, that they were very, very good).
 
@@ -82,7 +82,7 @@ Almost half the time, Chris would ask us for music suggestions to offer up *by e
 
 Some people were more familiar with various tunes being offered up than I was, since they had a lot more experience with Irish, Scottish and other such music than me, so I felt awkward and lost trying to learn and play on the spot, without written music, but it was part of the whole fun, really stretching what I have usually been doing with music (very oriented toward following a written score).
 
-I've mentioned before my [poor memory](http://franklinchen.com/blog/2012/03/10/flute-loving-it-again/) having a considerable impact on my life, and I worked around it again, given that I could not quickly learn the details of a melody, by just giving up and improvising around the harmony changes instead. I would like to find ways to improve my memory, but for now, I work around my limitations.
+I've mentioned before my [poor memory](/blog/2012/03/10/flute-loving-it-again/) having a considerable impact on my life, and I worked around it again, given that I could not quickly learn the details of a melody, by just giving up and improvising around the harmony changes instead. I would like to find ways to improve my memory, but for now, I work around my limitations.
 
 ### A charming tangent involving an oboe
 

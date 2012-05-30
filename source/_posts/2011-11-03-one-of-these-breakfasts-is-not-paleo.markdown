@@ -7,7 +7,7 @@ categories:
 - paleo
 - cooking
 ---
-Over a week ago, I briefly discussed my plans to experiment more with a [paleo-style diet](http://franklinchen.com/blog/2011/10/23/paleo-diet-experimentation/). I decided to quit eating oatmeal for breakfast, cold turkey (no pun intended). I was going to stay off oatmeal for at least two weeks. Well, fourteen days of no oatmeal have gone by.
+Over a week ago, I briefly discussed my plans to experiment more with a [paleo-style diet](/blog/2011/10/23/paleo-diet-experimentation/). I decided to quit eating oatmeal for breakfast, cold turkey (no pun intended). I was going to stay off oatmeal for at least two weeks. Well, fourteen days of no oatmeal have gone by.
 
 Here are some photos of actual breakfasts I've had during these two weeks.
 
@@ -22,7 +22,7 @@ Warning to the purists: one of these breakfasts is not paleo.
 ## The three breakfasts depicted
 
 - Two eggs, broccoli, walnuts, olive oil, spicy seasonings
-- One egg, leftover [lentil vegetable soup](http://franklinchen.com/blog/2011/09/24/whats-a-nice-acorn-squash-like-you-doing-in-a-pot-of-spicy-lentils/) from freezer
+- One egg, leftover [lentil vegetable soup](/blog/2011/09/24/whats-a-nice-acorn-squash-like-you-doing-in-a-pot-of-spicy-lentils/) from freezer
 - Two eggs, broccoli, other leftover vegetable soup (exact contents unknown, since Abby made it)
 
 I also often use spinach in place of broccoli, and typically also eat a handful of nuts before anything else for breakfast, and take fish oil and vitamin D (the only supplements I take regularly).

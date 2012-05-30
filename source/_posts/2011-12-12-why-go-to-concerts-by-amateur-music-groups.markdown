@@ -11,13 +11,13 @@ categories:
 - performance
 - melodica
 ---
-On Sunday, Abby and I carpooled with Helen and Mike (of the [recorder](http://franklinchen.com/blog/categories/recorder/) gang) to Ambridge for a free concert given by the [Pittsburgh Historical Music Society](http://pghhistoricalmusicsociety.org/) as part of a Christmas-themed event in [Old Economy Village](http://www.oldeconomyvillage.org/).
+On Sunday, Abby and I carpooled with Helen and Mike (of the [recorder](/blog/categories/recorder/) gang) to Ambridge for a free concert given by the [Pittsburgh Historical Music Society](http://pghhistoricalmusicsociety.org/) as part of a Christmas-themed event in [Old Economy Village](http://www.oldeconomyvillage.org/).
 
 That was a long way to drive to see an amateur group give a concert. So why did we pile into the car?
 
 <!--more-->
 
-The main draw was that there was going to be a performance of [Bach's Brandenburg concerto 4](http://en.wikipedia.org/wiki/Brandenburg_concertos#Brandenburg_Concerto_No._4_in_G_major.2C_BWV_1049), including as soloists the local [Baroque flute](http://franklinchen.com/blog/categories/baroque-flute/) players Karen Parsons and Laura Lockard, and violinist and conductor William Lockard. I was very curious to see some Baroque flutists in action, since I had only recently [bought a Baroque flute](http://franklinchen.com/blog/2011/11/30/bought-a-baroque-flute/). Also, I love Bach's Brandenburg concerto 4 (which I tried to sight read for alto recorder a while ago but is still too hard for me).
+The main draw was that there was going to be a performance of [Bach's Brandenburg concerto 4](http://en.wikipedia.org/wiki/Brandenburg_concertos#Brandenburg_Concerto_No._4_in_G_major.2C_BWV_1049), including as soloists the local [Baroque flute](/blog/categories/baroque-flute/) players Karen Parsons and Laura Lockard, and violinist and conductor William Lockard. I was very curious to see some Baroque flutists in action, since I had only recently [bought a Baroque flute](/blog/2011/11/30/bought-a-baroque-flute/). Also, I love Bach's Brandenburg concerto 4 (which I tried to sight read for alto recorder a while ago but is still too hard for me).
 
 The concert featured a variety of early music, including some music specifically written for the original orchestra of historic Old Economy Village back in the day.
 
@@ -47,7 +47,7 @@ Especially today, when some people are fearful and avoid doing anything that the
 
 ## Personal connections
 
-The recorder gang knows Laura Lockard from her involvement with a music workshop held in the summer (which I may attend next summer). They also seemed to know the other solo flutist, Karen Parsons. Also, Abby and I have our own connection to Karen Parsons: it's her farm that we sometimes get [eggs](http://franklinchen.com/blog/2011/11/28/thankful-for-the-free-range-orange-yolked-eggs) from! Very small world, this Pittsburgh or western PA region.
+The recorder gang knows Laura Lockard from her involvement with a music workshop held in the summer (which I may attend next summer). They also seemed to know the other solo flutist, Karen Parsons. Also, Abby and I have our own connection to Karen Parsons: it's her farm that we sometimes get [eggs](/blog/2011/11/28/thankful-for-the-free-range-orange-yolked-eggs) from! Very small world, this Pittsburgh or western PA region.
 
 ## Postscript
 

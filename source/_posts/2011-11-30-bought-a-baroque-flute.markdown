@@ -12,7 +12,7 @@ categories:
 
 I got a [Baroque flute](http://www.oldflutes.com/baroq.htm) today. The one I got was the plastic Aulos, since it is by far less expensive than any wooden one, and recommended by a number of people I know. Also, it was the A440-tuned one, rather than the A415-tuned one, since I want to be able to play it with people on modern instruments.
 
-Why did I suddenly get this instrument, when less than two weeks ago, when discussing [my recent return to the modern flute](http://franklinchen.com/blog/2011/11/17/flute-versus-recorder/), I explained all the reasons I didn't expect to try Baroque flute anytime soon?
+Why did I suddenly get this instrument, when less than two weeks ago, when discussing [my recent return to the modern flute](/blog/2011/11/17/flute-versus-recorder/), I explained all the reasons I didn't expect to try Baroque flute anytime soon?
 
 <!--more-->
 

@@ -15,7 +15,7 @@ categories:
 - C#
 - Haskell
 ---
-As I mentioned [on Sunday in introducing CSEdWeek](http://franklinchen.com/blog/2011/12/04/why-i-am-writing-this-week-for-csedweek/), Saturday was the ambitious [Global Day of CodeRetreat](http://blog.coderetreat.com/global-day-of-coderetreat), whose local [Pittsburgh edition](http://globalcoderetreat2011pittsburgh.eventbrite.com/) I participated in, with around 50 of us total. The global event was held simultaneously in 90 cities and had around 2000 attendees. I had a great time, although I was totally exhausted by the time it was over (it lasted from before 9 AM to after 6 PM; what a way to spend a Saturday!).
+As I mentioned [on Sunday in introducing CSEdWeek](/blog/2011/12/04/why-i-am-writing-this-week-for-csedweek/), Saturday was the ambitious [Global Day of CodeRetreat](http://blog.coderetreat.com/global-day-of-coderetreat), whose local [Pittsburgh edition](http://globalcoderetreat2011pittsburgh.eventbrite.com/) I participated in, with around 50 of us total. The global event was held simultaneously in 90 cities and had around 2000 attendees. I had a great time, although I was totally exhausted by the time it was over (it lasted from before 9 AM to after 6 PM; what a way to spend a Saturday!).
 
 What is CodeRetreat and what can you get out of it as a software developer?
 
@@ -53,7 +53,7 @@ I don't remember what specific instructions we were given for our first session,
 
 ### My first pairing experience
 
-I'd heard about [pair programming](http://en.wikipedia.org/wiki/Pair_programming) for a decade, in the context of [Extreme Programming (XP)](http://en.wikipedia.org/wiki/Extreme_programming), but had never practiced it. To be honest, as late as a year ago I found the concept very strange and distasteful. Interestingly, by this year, as a result of participating in a lot of [local programmer group meetings](http://franklinchen.com/blog/2011/10/16/pittsburgh-software-developer-communities/), I became more sociable generally and more amenable to real-time sharing of ideas.  **Part of the reason I decided to go to CodeRetreat was to experience pairing.**
+I'd heard about [pair programming](http://en.wikipedia.org/wiki/Pair_programming) for a decade, in the context of [Extreme Programming (XP)](http://en.wikipedia.org/wiki/Extreme_programming), but had never practiced it. To be honest, as late as a year ago I found the concept very strange and distasteful. Interestingly, by this year, as a result of participating in a lot of [local programmer group meetings](/blog/2011/10/16/pittsburgh-software-developer-communities/), I became more sociable generally and more amenable to real-time sharing of ideas.  **Part of the reason I decided to go to CodeRetreat was to experience pairing.**
 
 For the first session, I paired with Adam, since I knew him (in fact, I had gotten him to register at the last minute for the event) and we could work together in Java.
 

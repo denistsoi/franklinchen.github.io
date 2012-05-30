@@ -13,7 +13,7 @@ I've decided to make special efforts to improving my music-making as part of a g
 
 Friday evening, I joined four other recorder enthusiasts to sight read some ensemble music as a quintet. This is the third time I've played with this group of people (the first time as a quartet when I was filling in for someone who couldn't make it but has been present the last two times I went).
 
-Usually I mostly play alto, and secondarily soprano (and I [started learning bass recently](http://franklinchen.com/blog/2011/10/03/my-new-bass-and-sopranino-recorders-and-having-fun/)), but on Friday I tried to mostly play the fourth of five parts, on a tenor recorder.
+Usually I mostly play alto, and secondarily soprano (and I [started learning bass recently](/blog/2011/10/03/my-new-bass-and-sopranino-recorders-and-having-fun/)), but on Friday I tried to mostly play the fourth of five parts, on a tenor recorder.
 
 There are several reasons I found playing the tenor quite challenging.
 

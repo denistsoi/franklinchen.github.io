@@ -18,7 +18,7 @@ categories:
 - recorder
 - improvisation
 ---
-Yesterday, after four days of [not even touching my (modern) flute](http://franklinchen.com/blog/2012/03/07/flute-taking-a-break-while-clarifying-my-goals) and having spent the time having fun with my Baroque flute instead, I felt the urge to return to the modern flute.
+Yesterday, after four days of [not even touching my (modern) flute](/blog/2012/03/07/flute-taking-a-break-while-clarifying-my-goals) and having spent the time having fun with my Baroque flute instead, I felt the urge to return to the modern flute.
 
 I still have not regained the inclination to continue working on the orchestra music I still have to improve a lot on in the coming week, but I rediscovered the joy of simply playing my instrument.
 

@@ -29,7 +29,7 @@ I was not quite sure how to respond.
 
 ## My response
 
-Obviously, this could have been an opportunity for me to use [dialogue](http://franklinchen.com/blog/2011/10/11/communicating-through-dialogue/) and try to understand why she said what she said, and what she really meant by her words that I found disparaging. In fact, thanks to my raised awareness from learning about dialogue just recently, at least I did not get angry or lose my temper. But I decided at the time that I was just passing by and was not interested in going off on a tangent, since I was heading back to the other room to set up my instruments.
+Obviously, this could have been an opportunity for me to use [dialogue](/blog/2011/10/11/communicating-through-dialogue/) and try to understand why she said what she said, and what she really meant by her words that I found disparaging. In fact, thanks to my raised awareness from learning about dialogue just recently, at least I did not get angry or lose my temper. But I decided at the time that I was just passing by and was not interested in going off on a tangent, since I was heading back to the other room to set up my instruments.
 
 I simply replied calmly that actually, the hour of my time that went to recorder practice came out of time I used to spend on various forms of entertainment. I said that I don't watch any TV and I don't watch any movies. She didn't respond to that. For all I know, she might be one of the average Americans who watch [4 hours of TV a day](http://www.csun.edu/science/health/docs/tv&health.html), and perhaps I unintentionally offended her.
 
@@ -47,23 +47,23 @@ A lot of my choices involve trading passive experiences for active experiences. 
 
 ### Music
 
-In an earlier blog post, I already mentioned why [I don't listen to music much](http://franklinchen.com/blog/2011/10/02/i-love-music-but-rarely-listen-to-it-now/) any more, because of time constraints. In effect, I traded listening to music for playing music.
+In an earlier blog post, I already mentioned why [I don't listen to music much](/blog/2011/10/02/i-love-music-but-rarely-listen-to-it-now/) any more, because of time constraints. In effect, I traded listening to music for playing music.
 
 ### Sports
 
-Instead of watching sports, I engage in my own competitive physical activity, to become the athlete instead of the spectator. I enjoy [running races](http://franklinchen.com/blog/categories/races/). I am hardly super fast; at my fastest, I did periodically win age group medals and trophies, but only because competition happened not to be very tough.
+Instead of watching sports, I engage in my own competitive physical activity, to become the athlete instead of the spectator. I enjoy [running races](/blog/categories/races/). I am hardly super fast; at my fastest, I did periodically win age group medals and trophies, but only because competition happened not to be very tough.
 
 ### Exercise
 
 I run considerably less than I used to. One reason is that once upon a time, I got into a competitive mode, trying to see how fast I could race, and now I am no longer in that mode. It takes too much time and energy. Another reason is that I decided, based on personal experience and learning from the [paleo/primal](http://en.wikipedia.org/wiki/Paleolithic_lifestyle) movement, that too much distance running isn't actually all that great for my overall balanced health.
 
-I traded distance training time for [yoga](http://franklinchen.com/blog/2011/09/24/roaring-like-a-lion-on-a-saturday-morning/) and [strength training](http://franklinchen.com/blog/2011/10/17/the-joys-of-convict-conditioning-bodyweight-exercising/).
+I traded distance training time for [yoga](/blog/2011/09/24/roaring-like-a-lion-on-a-saturday-morning/) and [strength training](/blog/2011/10/17/the-joys-of-convict-conditioning-bodyweight-exercising/).
 
 I no longer run any more than every other day on average.
 
 ### Reading
 
-I've always read a lot. I still do, using not only the vast web, but also the old-fashioned [local library](http://franklinchen.com/blog/2011/09/30/free-to-the-people-since-1895/). (Pittsburghers, please [vote on November 8](http://www.ourlibraryourfuture.org/)!)
+I've always read a lot. I still do, using not only the vast web, but also the old-fashioned [local library](/blog/2011/09/30/free-to-the-people-since-1895/). (Pittsburghers, please [vote on November 8](http://www.ourlibraryourfuture.org/)!)
 
 However, at some point I had to make peace with the fact that I could not read everything I might be interested in reading. Abby and I worked on selling or donating over a thousand (!!) books I owned but were just taking up space. It was very difficult parting with them, since one of my childhood dreams had been to build up a large personal library, but reason prevailed.
 
@@ -75,7 +75,7 @@ Also, now I am writing for my blog, so I am trading reading time for writing tim
 
 I used to be a big computer language hobbyist. I enjoyed learning and playing with dozens of programming languages: if a language exists, I've probably at least seen sample code and written some sample code for it at some point. I was even obsessed enough with the concept of designing good programming languages that for a while I was enrolled in the Ph.D. program in computer science at CMU, specializing in [programming language theory](http://www.cs.cmu.edu/~fox/languages.html).
 
-Then as a practicing software developer, I eventually realized that to *get stuff done*, I needed to scale back on my hobby. Therefore, for example, as I mentioned in my post about [local software developer groups](http://franklinchen.com/blog/2011/10/16/pittsburgh-software-developer-communities/), I have ceased following Python. Also, I have deliberately not even looked at new languages such as [Fantom](http://fantom.org/), [Gosu](http://gosu-lang.org/), and [Kotlin](http://confluence.jetbrains.net/display/Kotlin/Welcome). (On the other hand, I am committed to learning and using [Scala](http://www.scala-lang.org/) more, because the path from Java already exists.)
+Then as a practicing software developer, I eventually realized that to *get stuff done*, I needed to scale back on my hobby. Therefore, for example, as I mentioned in my post about [local software developer groups](/blog/2011/10/16/pittsburgh-software-developer-communities/), I have ceased following Python. Also, I have deliberately not even looked at new languages such as [Fantom](http://fantom.org/), [Gosu](http://gosu-lang.org/), and [Kotlin](http://confluence.jetbrains.net/display/Kotlin/Welcome). (On the other hand, I am committed to learning and using [Scala](http://www.scala-lang.org/) more, because the path from Java already exists.)
 
 I took only a quick look at Google's [Dart](http://www.dartlang.org/) after the big hype, and am not pursuing it further.
 

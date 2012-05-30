@@ -10,13 +10,13 @@ categories:
 - piano
 - recorder
 ---
-Just a couple of days ago, I started [playing flute again](http://franklinchen.com/blog/2011/11/09/taking-up-flute-again-after-decades/), after an absence of decades. To get going again, I've been working through [*I Used to Play Flute*](http://www.musicminusone.com/used-play-flute-innovative-method-adults-returning-play-p-60414222.html) picked up from the library (it comes with a nice play-along CD of mp3 tracks). Of course, now that I'm not just an unenthusiastic kid in school, I should also get systematic on technique, as I have tried to be on [recorder](http://franklinchen.com/blog/categories/recorder/).
+Just a couple of days ago, I started [playing flute again](/blog/2011/11/09/taking-up-flute-again-after-decades/), after an absence of decades. To get going again, I've been working through [*I Used to Play Flute*](http://www.musicminusone.com/used-play-flute-innovative-method-adults-returning-play-p-60414222.html) picked up from the library (it comes with a nice play-along CD of mp3 tracks). Of course, now that I'm not just an unenthusiastic kid in school, I should also get systematic on technique, as I have tried to be on [recorder](/blog/categories/recorder/).
 
 Guess what? Today, I started picking back up on piano as well. I have a digital piano that I bought in 1998 that has not seen much use in the past half decade:
 
 {% img /images/yamaha-digital-piano.jpg Yamaha digital piano %}
 
-I've mentioned [previously playing around with piano](http://franklinchen.com/blog/2011/11/09/taking-up-flute-again-after-decades/). I will try to get real on piano too, now that I'm old enough to figure out how to maximize use of infamous Czerny and Hanon technical exercises. Meanwhile, I picked up from the library a seemingly highly-rated [*Alfred Basic Adult Piano Course*](http://www.alfred.com/AlfredPiano/PianoMethods), which also comes with a CD (which, by the way, is absolutely horrid: soulless metronomic synthesized utter crap that doesn't even belong in a mall).
+I've mentioned [previously playing around with piano](/blog/2011/11/09/taking-up-flute-again-after-decades/). I will try to get real on piano too, now that I'm old enough to figure out how to maximize use of infamous Czerny and Hanon technical exercises. Meanwhile, I picked up from the library a seemingly highly-rated [*Alfred Basic Adult Piano Course*](http://www.alfred.com/AlfredPiano/PianoMethods), which also comes with a CD (which, by the way, is absolutely horrid: soulless metronomic synthesized utter crap that doesn't even belong in a mall).
 
 With these two new musical instruments back in my life, I face a dilemma.
 

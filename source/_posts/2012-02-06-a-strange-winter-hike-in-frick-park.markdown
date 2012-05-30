@@ -10,9 +10,9 @@ categories:
 - Pittsburgh
 - Frick Park
 ---
-Yesterday morning, on a sunny day, with temperatures ranging from around 35-40F, Abby and I went on a [Meetup hike at Frick Park](http://www.meetup.com/pittsburghhikers/events/50164712/). This was actually our first Meetup hike in [Frick Park](http://franklinchen.com/blog/categories/frick-park/), because normally we just go to our local park alone and go to Meetup hikes that are further away, but we hadn't been hiking at all for months and so it was convenient to go to this one.
+Yesterday morning, on a sunny day, with temperatures ranging from around 35-40F, Abby and I went on a [Meetup hike at Frick Park](http://www.meetup.com/pittsburghhikers/events/50164712/). This was actually our first Meetup hike in [Frick Park](/blog/categories/frick-park/), because normally we just go to our local park alone and go to Meetup hikes that are further away, but we hadn't been hiking at all for months and so it was convenient to go to this one.
 
-Since we live only two miles away from the meeting place in the parking lot down in [Fern Hollow](http://franklinchen.com/blog/2011/10/15/snapshots-of-pittsburgh-from-a-12-mile-run/), we hiked straight from home there, meeting up with John, who joined us at the park entrance.
+Since we live only two miles away from the meeting place in the parking lot down in [Fern Hollow](/blog/2011/10/15/snapshots-of-pittsburgh-from-a-12-mile-run/), we hiked straight from home there, meeting up with John, who joined us at the park entrance.
 
 We ended up hiking probably around nine miles (including being on the road from and to home).
 

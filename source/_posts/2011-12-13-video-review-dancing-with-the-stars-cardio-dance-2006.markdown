@@ -20,7 +20,7 @@ One of my favorite dance workout DVDs, which I have used for almost half a decad
 
 ## The TV show
 
-The DVD came out, of course, as a result of the popularity of the TV series [Dancing with the Stars](http://en.wikipedia.org/wiki/Dancing_with_the_Stars_%28U.S._TV_series%29). I had watched several episodes in 2006, out of curiosity, since in 2000-2002 I had been pretty serious about [doing competitive ballroom dancing](http://franklinchen.com/blog/2011/10/18/disagreement-on-the-use-of-time/), so I wanted to see just how good the celebrities could get, with training. I was actually impressed by how good some of them got, although there were many who were not very good at all and really had no business trying to perform complicated routines rather than mastering basic technique (my instructors were always adamant about our not trying to do what we weren't yet ready for, lest we develop poor habits difficult to unlearn).
+The DVD came out, of course, as a result of the popularity of the TV series [Dancing with the Stars](http://en.wikipedia.org/wiki/Dancing_with_the_Stars_%28U.S._TV_series%29). I had watched several episodes in 2006, out of curiosity, since in 2000-2002 I had been pretty serious about [doing competitive ballroom dancing](/blog/2011/10/18/disagreement-on-the-use-of-time/), so I wanted to see just how good the celebrities could get, with training. I was actually impressed by how good some of them got, although there were many who were not very good at all and really had no business trying to perform complicated routines rather than mastering basic technique (my instructors were always adamant about our not trying to do what we weren't yet ready for, lest we develop poor habits difficult to unlearn).
 
 ## The content of the workout
 

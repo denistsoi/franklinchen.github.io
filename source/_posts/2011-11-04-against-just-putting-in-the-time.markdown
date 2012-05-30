@@ -19,7 +19,7 @@ I totally disagree with this with every fiber of my being, and here's why.
 
 First of all, I have to emphasize that I totally believe in putting in the time to achieve excellence and mastery of anything. The recently popularized phrase ["deliberate practice"](http://en.wikipedia.org/wiki/Practice_%28learning_method%29#Deliberate_practice) describes genuine practice (as opposed to just putting in the time) that aims at expert performance.
 
-I try to apply this to every aspect of my life, whether when [programming](http://franklinchen.com/blog/categories/programming/), [running](http://franklinchen.com/blog/categories/running/), [playing music](http://franklinchen.com/blog/categories/recorder/), [strength training](http://franklinchen.com/blog/categories/strength-training/), [cooking](http://franklinchen.com/blog/categories/cooking/), [meditating](http://franklinchen.com/blog/categories/zen/), or any other of the dozens of activities or chores that come up.
+I try to apply this to every aspect of my life, whether when [programming](/blog/categories/programming/), [running](/blog/categories/running/), [playing music](/blog/categories/recorder/), [strength training](/blog/categories/strength-training/), [cooking](/blog/categories/cooking/), [meditating](/blog/categories/zen/), or any other of the dozens of activities or chores that come up.
 
 So my disagreement with "just putting in the time" is not a disagreement with the need for hard work and even drudgery. There is no shortcut to expertise and achievement. Insofar as Scott Berkun tries to make this point, I agree with him.
 

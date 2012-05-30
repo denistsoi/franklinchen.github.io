@@ -7,7 +7,7 @@ categories:
 - meditation
 - practice
 ---
-About two weeks ago Abby and I started a [daily meditation practice](http://franklinchen.com/blog/2012/02/02/2-new-daily-habits-of-mine-in-a-distracting-world/) in the morning. We're still at it.
+About two weeks ago Abby and I started a [daily meditation practice](/blog/2012/02/02/2-new-daily-habits-of-mine-in-a-distracting-world/) in the morning. We're still at it.
 
 Recently I've seen some articles about meditation [habits](http://www.susanpiver.com/wordpress/2012/02/08/habit-2/) and [difficulty](http://www.wildmind.org/blogs/on-practice/how-we-use-effort-to-get-to-a-state-of-effortless-meditation).
 
@@ -21,7 +21,7 @@ Why is it so hard, and does putting effort into it somehow violate the point of 
 
 ### Physical
 
-For me, there is always some [physical difficulty](http://franklinchen.com/blog/2011/09/28/staring-at-the-wall-with-nowhere-to-go/) in doing sitting meditation. Sitting "perfectly upright" is not easy for me when my legs are crossed and on the floor, because I'm not all that flexible where it matters (I've been working on that for years, with real incremental progress).
+For me, there is always some [physical difficulty](/blog/2011/09/28/staring-at-the-wall-with-nowhere-to-go/) in doing sitting meditation. Sitting "perfectly upright" is not easy for me when my legs are crossed and on the floor, because I'm not all that flexible where it matters (I've been working on that for years, with real incremental progress).
 
 And because of asymmetry, I use a different "dominant" leg alternating
 days. Trying to relax is difficult because the default result is

@@ -9,7 +9,7 @@ categories:
 ---
 Happy Thanksgiving, everyone! Please take time out to give thanks today, whether out loud or silently.
 
-Yesterday I wrote about how [every day is Thanksgiving](http://franklinchen.com/blog/2011/11/23/every-day-is-thanksgiving/). At the end of the post, I wondered about further improving my gratitude practice. I woke up today with a burning desire to take action. I'd like to know what you think of my specific ideas.
+Yesterday I wrote about how [every day is Thanksgiving](/blog/2011/11/23/every-day-is-thanksgiving/). At the end of the post, I wondered about further improving my gratitude practice. I woke up today with a burning desire to take action. I'd like to know what you think of my specific ideas.
 
 <!--more-->
 
@@ -35,7 +35,7 @@ Maybe I could tweet gratitude more often. I don't want to annoy my Twitter follo
 
 ## Integrate into Digital Sabbath
 
-Recently I began to observe a little bit of a [Digital Sabbath](http://franklinchen.com/blog/2011/11/12/starting-a-mini-digital-sabbath/) on which I do not write a blog post. Maybe I could reserve the day after the Digital Sabbath for a gratitude-oriented post?
+Recently I began to observe a little bit of a [Digital Sabbath](/blog/2011/11/12/starting-a-mini-digital-sabbath/) on which I do not write a blog post. Maybe I could reserve the day after the Digital Sabbath for a gratitude-oriented post?
 
 ## Other ideas
 
