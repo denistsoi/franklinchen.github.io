@@ -1,0 +1,52 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+   "http://www.w3.org/TR/html4/loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+<link rel="stylesheet" href="castyles.css" type="text/css" />
+<script language="JavaScript" type="text/javascript" src="../common/board.js"></script><title>This is title</title>
+</head>
+<body bgcolor="#FFFFFF" leftmargin="5" topmargin="5" rightmargin="5" bottommargin="5">
+<font size="2" color="#000000" face="Arial">
+<div align="center"><!--  <form name="boardsizeform" action="" style="margin:auto;padding-top:5px;padding-bottom:5px;"> -->
+    <select title="board size" name="boardsize" size="1" onchange="brd.SetBoardSize(this.selectedIndex);">
+      <option>-</option>
+    </select>
+<!--  </form> --><!--  <form name="figureslistform" action="" style="margin:auto;padding-top:5px;padding-bottom:5px;"> -->
+    <select title="figures" name="figureslist" size="1" onchange="brd.SetFigures(this.selectedIndex);">
+      <option>-</option>
+    </select>
+<!--  </form> --><!--  <form name="backgroundlistform" action="" style="margin:auto;padding-top:5px;padding-bottom:5px;"> -->
+    <select title="backgounds" name="backgroundlist" size="1" onchange="brd.SetBackground(this.selectedIndex);">
+      <option>-</option>
+    </select>
+<!--  </form> --></div>
+<div align="center">  <div id="chessboard" style="font-family:Arial,sans-serif;font-size:12px;margin-top:3px;"></div></div>
+<div align="center">  <div id="curmove" ></div></div>
+<div align="center"><form action="" style="margin:auto;padding-top:5px;padding-bottom:5px;">
+    <input title="Start position" type="button" value=" Start " onclick="brd.GoMvStart();"/>
+    <input title="Go back one move" type="button" value=" &lt; " onclick="brd.GoMvPrev();"/>
+    <input title="Go forward one move" type="button" value=" &gt; " onclick="brd.GoMvNext();"/>
+    <input title="End of game" type="button" value=" End " onclick="brd.GoMvEnd();"/>
+    <input id="Anim" title= "Animate game" type="button" value=" Animate " onclick="brd.Animate();"/>
+</form></div>
+<div align="center"><!--  <form name="boardborderform" action="" style="margin:auto;padding-top:5px;padding-bottom:5px;"> -->
+    <input title="Show board coordinates" name="boardborder" type="checkbox" onclick="brd.SetBoardBorder(this.checked);" />
+    <label>Coordinates</label>
+<!--  </form> -->
+<!--  <form name="movenavmethodform" action="" style="margin:auto;padding-top:5px;padding-bottom:5px;"> -->
+    <input title="Show only the main line" name="movenavmethod" type="checkbox" onclick="brd.SetNavMethod(this.checked);" />
+    <label>Main line</label>
+<!--  </form> --><!--  <form name="flipboardform" action="" style="margin:auto; padding-top:5px; padding-bottom:5px;"> -->
+    <input title="Flip the board" name="flipboard" type="checkbox" onclick="brd.FlipBoard(this.checked);" />
+    <label>Flip</label>
+<!--  </form> --></div>
+<div align="center"><div class="games-link" ><a target="_top" href="game1.pgn">Games in PGN</a></div></div>
+<div align="center"><!--  <form name="gamelistform" action="" style="margin:auto;"> -->
+    <select title="show game list" name="showgamelist" size="1" onchange="brd.SetSGameList(this.selectedIndex);">
+      <option value="0">Show game list</option>
+      <option value="1">Hide game list</option>
+    </select>
+<!--  </form> --></div>
+<div align="center"><div id="gamelist" ></div></div>
+<div align="center"><div class="foot">Generated with <a target="_top" class="footer" href="http://www.chessok.com">Chess Assistant 11.0</a></div></div>
+</font>
+</body></html>
