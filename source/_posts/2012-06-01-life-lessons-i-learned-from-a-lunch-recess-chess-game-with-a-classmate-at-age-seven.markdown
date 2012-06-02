@@ -13,7 +13,7 @@ Today, I'm writing about what I learned from the only other chess game I played 
 
 {% img /images/franklin-second-grade.jpg Franklin Chen 2nd grade school photo %}
 
-{% img /images/second-grade-chess-opponent.jpg 2nd grade classmate I played one chess game with %}
+{% img /images/second-grade-chess-opponent.jpg Classmate in 2nd grade I played one chess game with %}
 
 <!--more-->
 
