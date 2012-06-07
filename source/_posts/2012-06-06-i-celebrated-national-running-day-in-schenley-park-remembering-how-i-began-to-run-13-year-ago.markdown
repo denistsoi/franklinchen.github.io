@@ -12,9 +12,9 @@ categories:
 - races
 - Pretty Good Race
 ---
-{% img http://www.flickr.com/photos/melissappc/663419600/ Inside Schenley Park %}
+{% img http://farm2.staticflickr.com/1309/663419600_66449cdcc7.jpg Schenley Park %}
 
-(Photo in Schenley Park by Melissa McMasters, May 8, 2007.)
+([Photo in Schenley Park by Melissa McMasters, May 8, 2007](http://www.flickr.com/photos/melissappc/663419600/).)
 
 Today I celebrated [National Running Day](http://www.runningday.org/) by, uh, going out for a [run](/blog/categories/running/). Here in Pittsburgh, I have come to like most to run in [Frick Park](http://pittsburghparks.org/frick), but today I decided to run in [Schenley Park](http://www.pittsburghparks.org/schenley) instead, as I was in a sentimental mood.
 
