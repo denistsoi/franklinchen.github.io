@@ -40,11 +40,13 @@ I am always a little suspicious when people tell of their memories from long ago
 
 For example, my immediate "memory" of the concert I just described, when I was not relying on any external sources, was *false* in several ways. I was lucky to be able to locate old email archives and my daily journal from twelve years ago in order to determine what really happened!
 
-### The friend who wasn't there
+### The friend who wasn't there (part 1)
 
-First of all, I was very confident that I had gone to a concert with a particular friend, and that we had looked at each other in amazement during the cadenza. It turns out that this friend had not been with me at the concert, and I had driven to it alone! It was easy for me to [confabulate](http://en.wikipedia.org/wiki/Confabulation) because back in around 1997-1999, I had in fact gone to many PSO concerts in Heinz Hall on Fridays with him.
+First of all, I was very confident that I had gone to a concert with a particular friend, and that we had looked at each other in amazement during the cadenza. It turns out that I had not gone to this concert with my friend, and I had driven to it alone! It was easy for me to [confabulate](http://en.wikipedia.org/wiki/Confabulation) because back in around 1997-1999, I had in fact gone to many PSO concerts in Heinz Hall on Fridays with him.
 
 Furthermore, I did correctly remember discussing my experience with him. It turns out that I reported back to him about the Prokofiev concerto, and we talked about it, and in fact, he lent me a CD of it to listen to as a result.
+
+(Note: please read part 2 of "the friend who wasn't there" below.)
 
 ### The wrong pianist
 
@@ -73,6 +75,8 @@ seemed great from the performance I saw.
 
 ## The correctness of memory
 
+### My reaction
+
 My journal entry for the day of the concert included this comment I jotted down into my [Palm PDA](http://en.wikipedia.org/wiki/Palm_(PDA\)) at intermission:
 
 {% blockquote %}
@@ -85,6 +89,14 @@ the Web.
 {% endblockquote %}
 
 I think I fairly accurately remembered my impression of the music that I wrote at the beginning of this post before I consulted my journal entry.
+
+### My friend who was there (part 2)
+
+After writing a draft of this blog post, I told my friend about my false memory, but he replied that he too remembers the concert!! He just doesn't remember going to it with me. This is quite possible. By 2000, because of other social circles and logistics, we did not always go to the concerts together, even if we both did end up there, sitting in different places.
+
+He remembers this concert being eye-opening also, in that although he had listened to the concerto on recordings (as I mentioned, he lent me one shortly after this concert), it had not connected with him deeply until the live concert.
+
+So it appears that my memory was partially correct: although we had not sat together at the concert, most likely we chatted during intermission and shared our amazement then.
 
 ## Conclusion
 
