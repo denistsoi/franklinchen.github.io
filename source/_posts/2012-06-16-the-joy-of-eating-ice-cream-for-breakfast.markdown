@@ -31,7 +31,7 @@ A couple of times, we managed to get ice cream into the picture. We must have fo
 
 ## But ice cream is not a good food
 
-I have to explain that Abby and I don't eat ice cream much any more. We've found that it is too sugary and makes us feel tired or bloated in large quantities. You don't have to be [paleo](/blog/paleo/) to understand and experience the drawbacks of ice cream (not that we're strictly paleo anyway).
+I have to explain that Abby and I don't eat ice cream much any more. We've found that it is too sugary and makes us feel tired or bloated in large quantities. You don't have to be [paleo](/blog/categories/paleo/) to understand and experience the drawbacks of ice cream (not that we're strictly paleo anyway).
 
 However, I'm a big believer in [intermittent cheating](http://www.t-nation.com/free_online_article/most_recent/in_defense_of_cheat_days), so I'm happy to eat ice cream now and then as a special treat, but otherwise, I don't really need it.
 
