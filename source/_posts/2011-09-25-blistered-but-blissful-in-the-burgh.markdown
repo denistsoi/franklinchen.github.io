@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "Blistered but Blissful in the 'Burgh"
+title: "Running My Ninth Pittsburgh Great Race 10K: Blistered but Blissful in the 'Burgh"
 date: 2011-09-25 15:28
 comments: true
 categories:
 - running
 - races
+- Great Race
 - Pittsburgh
 - inspirational
 - shoes
