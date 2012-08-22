@@ -14,6 +14,7 @@ categories:
 - Python
 - C#
 - Haskell
+- Corey Haines
 ---
 As I mentioned [on Sunday in introducing CSEdWeek](/blog/2011/12/04/why-i-am-writing-this-week-for-csedweek/), Saturday was the ambitious [Global Day of CodeRetreat](http://blog.coderetreat.com/global-day-of-coderetreat), whose local [Pittsburgh edition](http://globalcoderetreat2011pittsburgh.eventbrite.com/) I participated in, with around 50 of us total. The global event was held simultaneously in 90 cities and had around 2000 attendees. I had a great time, although I was totally exhausted by the time it was over (it lasted from before 9 AM to after 6 PM; what a way to spend a Saturday!).
 
