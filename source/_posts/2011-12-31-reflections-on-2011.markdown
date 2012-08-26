@@ -32,6 +32,7 @@ categories:
 - salsa dancing
 - kayaking
 - Stanford
+- Run Around The Square
 ---
 I reflect on my year of 2011 as it ends. Since I did not start blogging until September, I go into more detail of what happened before then.
 

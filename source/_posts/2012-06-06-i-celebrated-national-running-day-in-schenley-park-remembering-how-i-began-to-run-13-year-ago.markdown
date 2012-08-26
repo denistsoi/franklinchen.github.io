@@ -11,6 +11,7 @@ categories:
 - Carnegie Mellon University
 - races
 - Pretty Good Race
+- Run Around The Square
 ---
 {% img http://farm2.staticflickr.com/1309/663419600_66449cdcc7.jpg Schenley Park %}
 
