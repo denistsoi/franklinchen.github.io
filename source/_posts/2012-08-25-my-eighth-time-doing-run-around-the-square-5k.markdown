@@ -14,7 +14,7 @@ categories:
 ---
 Today Abby and I ran in the annual [Run Around The Square 5K race](http://www.runaroundthesquare.com/). As usual at this time in late August, it was a warm day.
 
-This race is special because Run Around The Square was the [first race I ever ran in my life](/blog/2012/06/06/i-celebrated-national-running-day-in-schenley-park-remembering-how-i-began-to-run-13-year-ago/), back in 2000, and because it is also the first race Abby ever ran [(just last year, 2011)](/blog/2011/12/31/reflections-on-2011/): so today was my 128th race (according to my race log I keep) and Abby's 2nd race.
+This race is special because Run Around The Square was the [first race I ever ran in my life](/blog/2012/06/06/i-celebrated-national-running-day-in-schenley-park-remembering-how-i-began-to-run-13-year-ago/), back in 2000, and because it is also the first race Abby ever ran [(just last year, 2011)](/blog/2011/12/31/reflections-on-2011/): so today was my 128th lifetime race (according to my race log I keep) and Abby's 5th lifetime race.
 
 ## My goal this year
 
@@ -60,7 +60,7 @@ Part of me wanted to shut down and quit and just watch the "4" digit arrive on t
 
 I checked my watch after I finished the race and didn't know what to think. Did I succeed or fail at my time goal? My watch made it look like I finished in 24:40, but I wasn't confident that I hit the "start" at the right time, and I was even less confident that I hit "stop" right after crossing the finish line (I was guessing that I didn't hit the button until a second or two after actually finishing).
 
-After Abby finished, I kept telling her I was upset that I didn't think I really went all out in the final minute of the race. Then I got over my disappointment and let it.
+After Abby finished, I kept telling her I was upset that I didn't think I really went all out in the final minute of the race. Then I got over my disappointment and let it go; in the grand scheme of life it hardly matters!
 
 ## More comments about the race
 
