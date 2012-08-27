@@ -28,3 +28,9 @@ Unfortunately, it turned out that when I won my first game with my father, that 
 We played our first game in decades only when I was into my thirties and I was visiting one Christmas and invited him to play. We played, and I showed no mercy, and I won, but it was an honest game. Like old days. We still play now and then when visiting each other. He knows my level, I know his level, and we know I am basically always going to win, but what can we do other than play some honest games and enjoy the artistry we create together, no matter who wins?
 
 Outside of official competitions, winning is not the only thing. It wasn't when I was a child, and it isn't now.
+
+## Photo of me playing chess with my father in summer 2010
+
+I found a photo of my father and me playing a game of chess at my parents' home when Abby and I were visiting in summer 2010. (My actual first chess game with my father in two decades was when I was visiting over Christmas 2004.)
+
+{% img /images/chess-nelson-franklin-2010.jpg Nelson versus Franklin in chess in summer 2010 %}
