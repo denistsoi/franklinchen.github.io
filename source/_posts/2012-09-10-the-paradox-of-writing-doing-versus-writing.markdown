@@ -35,3 +35,7 @@ I see people like [Seth Godin](http://sethgodin.typepad.com/) turning out very s
 ## Conclusion
 
 My goal set almost a year ago to keep my blog truly regular and active has been difficult to achieve because my desire to write long posts has conflicted with my increasing involvement in other activities. I chose to simply not write rather than write half-baked posts. But there is another option to explore: being more concise.
+
+## What is your writing strategy?
+
+If you write, how do you manage a regular writing plan and schedule, as you get busy? How do you feel about short versus long posts? Do you prefer to write nothing rather than have to write something short?
