@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Got my new Casey Burns Small-Handed Irish flute!"
+date: 2012-07-30 20:37
+comments: true
+categories: 
+- music
+- Irish flute
+---
+I'm excited that I finally got my Casey Burns Small-Handed Folk Flute, a fine keyless Irish flute, that [I ordered almost two months ago]!
+
+Here are photos of my flute, assembled and disassembled:
+
+{% img /images/irish-flute/casey-burns-small-handed-folk-flute-assembled.jpg Casey Burns Small-Handed Folk Flute, assembled %}
+{% img /images/irish-flute/casey-burns-small-handed-folk-flute-disassembled.jpg Casey Burns Small-Handed Folk Flute, disassembled %}
+
+Now I have to start breaking it in, gradually, over the next month, according to the instructions.

@@ -1,0 +1,41 @@
+[White "Chen Franklin"]
+[Black "Kirk Daniel"]
+[WhiteElo "2110"]
+[BlackElo "1700"]
+[Result "1-0"]
+[Date "2012.09.04"]
+[Event "14th Fred Sorensen Memorial"]
+[Site "Pittsburgh (USA)"]
+[Round "1.6"]
+[ECO "A09"]
+[Annotator "Chen Franklin"]
+[Source ""]
+[Remark ""]
+
+{My first game in my first tournament in almost two years. I was, of course,
+paired down, but given my rustiness, could not take for granted that I would
+win easily. I resolved to have fun and not overthink.} 1.Nf3
+d5 2.c4 dxc4 3.e3 {The first time I've ever played this in my life! I just wanted to regain the Pawn and get on with things.}
+Nf6 4.Bxc4 e6 5.O-O a6 ( 5...c5 {Most common.} ) 6.d4 {Finally transposing into a Queen's Gambit Accepted. My opponent and I have played this opening before in the past years.}
+b5 ( 6...c5 {Would have transposed into the most common lines of the Queen's Gambit Accepted.}
+) 7.Bd3 Bb7 ( 7...c5 ) 8.a4 b4 9.Nbd2 {Preparing for the thematic e4, e5 attack.}
+Be7 {Slow.} ( 9...c5 {As a rule of thumb, Black should get the c5 counterplay in as quickly as possible, to destroy White's center.}
+) 10.e4 {Carrying out the e4, e5 plan.} O-O {Slow.}
+( 10...c5 11.e5 Nfd7 12.Be4 {Black looks OK, although White has a slight edge.}
+) 11.e5 {OK, White's next step is to aim at Black's h7 square.}
+{%08DA} Nd5 12.Ne4 {
+White is happy now, not only having gained space in the center and opened up
+the White diagonal to h7, but also prevented Black's c5.} {%08DA}
+Nd7 13.Bd2 {After much thought.} ( 13.Nfg5 {I spent a lot of time thinking about this move looking for a useful sacrifice, but saw no way to break through.}
+h6 14.Nh7 Re8 15.Qh5 c5 {I believe Black is OK.} {%08DA} ) a5
+{Obviously hoping to trade Bishops with Ba6.} 14.Qe2 {Preventing Black's plan to trade Bishops with Bc8 and setting up possible ideas of the Queen eventually going to e4.}
+c5 {?} {The beginning of a terrible blunder.} ( 14...Qc8 {Still trying to get in Ba6.}
+15.Rac1 {Clamping down on c5, retaining some advantage.} ) 15.dxc5
+Nxc5 {??} {The game is over now.} 16.Nxc5 Bxc5 17.Bxh7+ {!} {
+After having distracted Black's dark Bishop away from the King side, the
+classic "Greek gift" sacrifice on h7 is immediately decisive.}
+{%08DA} Kxh7 18.Ng5+ Kg6 ( 18...Kg8 19.Qh5 {%08DA} ) 19.Qe4+
+f5 20.exf6+ Kxf6 21.Qxe6# {%08DA}
+{This was possibly my shortest Tuesday night tournament game ever, since I
+started playing in 2005. It lasted less than an hour; typically my games go the full four hours.} 1-0
+
