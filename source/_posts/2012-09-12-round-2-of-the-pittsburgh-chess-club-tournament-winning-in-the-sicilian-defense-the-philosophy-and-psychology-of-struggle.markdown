@@ -20,28 +20,32 @@ I begin with a summary of the basic *philosophical* concepts of the opening, the
 
 <!--more-->
 
-## Brief introduction to the Sicilian Defense
+## Playing as Black in chess
 
-When one is playing Black in chess, there are two philosophies of how to face White:
+When one is playing as Black in chess, there are two philosophies of how to face White:
 
 - *defend* against and neutralize White's first move advantage, by also occupying the center and holding it against White's attack
-- refuse to play into White's game plan, and choose to start an indirect *counter-attack* on White
+- ignore White's game plan, and choose to start an indirect *counter-attack* on White
 
-In the Sicilian Defense, the second option is chosen: the basic idea is the Black on the very first move unbalances the position, taunting White, saying, "attack my King if you dare, but I'm going for your Queen side".
+The first option is safest, while the second option is risky.
 
-{% img http://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Chess_d45.svg/26px-Chess_d45.svg.png Sicilian Defense %}
+## Brief introduction to the Sicilian Defense
+
+In the Sicilian Defense, the second, very aggressive option is chosen: the basic idea is the Black on the very first move unbalances the position, taunting White, saying, "attack my King if you dare, but I'm going for your Queen side". Whereas White has claimed the center with the e Pawn, Black plays on the flank with the c Pawn:
+
+{% img http://www.thechesswebsite.com/wp-content/uploads/2012/07/sicilian-big.jpg Sicilian Defense %}
 
 The [Sicilian Defense](http://en.wikipedia.org/wiki/Sicilian_Defence) in chess is, in my view, the most exciting of all chess openings for Black.
 
-The critical lines in the [open Sicilian](http://en.wikipedia.org/wiki/Sicilian_Defence#Open_Sicilian:_2.Nf3_and_3.d4) are those in which White takes up Black's challenge head on and opens up the position by allowing Black to trade the c Pawn for White's d Pawn. For example, the position in the Najdorf Variation:
+The critical lines in the [open Sicilian](http://en.wikipedia.org/wiki/Sicilian_Defence#Open_Sicilian:_2.Nf3_and_3.d4) are those in which White takes up Black's challenge head on and opens up the position by allowing Black to trade the c Pawn for White's d Pawn. For example (as in my game yesterday):
 
-{% img http://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Chess_t45.svg/22px-Chess_t45.svg.png Najdorf Variation %}
+{% img http://www.thechesswebsite.com/images/najdorf-medium.jpg Najdorf Variation %}
 
-### I play both sides
+### I have played both sides of the Sicilian
 
 Playing this opening as Black is not for the faint of heart. Famous temperamental, attacking players such as [Bobby Fischer](http://en.wikipedia.org/wiki/Bobby_Fischer) and [Garry Kasparov](http://en.wikipedia.org/wiki/Garry_Kasparov) used it as their weapon of choice during their careers.
 
-I did not play the Sicilian Defense as Black as a kid. I only started playing it as an adult as part of my reinvention of myself as a chess player when returning to the game after a twenty-year absence.
+I did not play the Sicilian Defense as Black as a kid. I only started playing it as an adult as part of my reinvention of myself as a chess player when returning to the game after a twenty-year absence. I had shied away from the Sicilian because of a desire to be different (it's a popular opening) and because of laziness (I did not want to study a lot of opening theory).
 
 In fact, when I was a kid, I liked nothing better than playing the White side of the Sicilian. I loved destroying Black in the Sicilian.
 
@@ -53,7 +57,7 @@ In the critical lines of the open Sicilian, Black's goal is to defend accurately
 
 Here is an example of a great position for Black (in the game I just played yesterday):
 
-{% img /chess/prokhov-chess-2012-09-11_files/diag3FEF16058D672C77.gif Prokhov-Chen %}
+{% img /chess/prokhov-chen-2012-09-11_files/diag3FEF16058D672C77.gif Prokhov-Chen %}
 
 Notice that Black is still far behind in King side development, but has managed to take control of the Queen side and center away from White. Black has a clear advantage here, but no win yet, and must play precisely to maintain the advantage and not fall into danger.
 
@@ -110,7 +114,7 @@ I was proud of how I came back from a seemingly lifeless, drawn position to rest
 
 ## The annotated game
 
-[Enjoy playing over the game with my annotations!](/chess/prokhov-chen-2012-09-11.htm)
+[Enjoy playing over the game with my annotations, including diagrams!](/chess/prokhov-chen-2012-09-11.htm)
 
 ## Conclusion
 
