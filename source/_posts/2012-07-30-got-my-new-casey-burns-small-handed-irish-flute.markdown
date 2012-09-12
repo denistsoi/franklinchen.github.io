@@ -7,7 +7,7 @@ categories:
 - music
 - Irish flute
 ---
-I'm excited that I finally got my Casey Burns Small-Handed Folk Flute, a fine keyless Irish flute, that [I ordered almost two months ago]!
+I'm excited that I finally got my Casey Burns Small-Handed Folk Flute, a fine keyless Irish flute, that [I ordered almost two months ago](/blog/2012/06/12/ordered-the-casey-burns-small-handed-irish-flute/)!
 
 Here are photos of my flute, assembled and disassembled:
 
