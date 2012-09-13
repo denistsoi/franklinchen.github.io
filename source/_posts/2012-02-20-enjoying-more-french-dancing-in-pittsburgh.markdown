@@ -5,7 +5,7 @@ date: 2012-02-20 01:03
 comments: true
 categories:
 - Pittsburgh
-- French
+- French dance
 - dance
 - traditional dance
 - Carnegie Mellon University

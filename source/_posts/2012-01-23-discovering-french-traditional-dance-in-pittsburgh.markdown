@@ -5,7 +5,7 @@ date: 2012-01-23 21:53
 comments: true
 categories:
 - Pittsburgh
-- French
+- French dance
 - dance
 - traditional dance
 - ballroom dance

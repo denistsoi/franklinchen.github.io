@@ -12,7 +12,7 @@ categories:
 - dance
 - ballroom dance
 - traditional dance
-- French
+- French dance
 - Pittsburgh
 - Carnegie Mellon University
 - recorder
