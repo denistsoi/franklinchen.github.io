@@ -13,30 +13,16 @@ I only by accident found out that today was Programmers' Day. It is apparently o
 
 Since the day is almost over, I hurriedly came up with this little piece of code. Guess what it does?
 
-{% codeblock Mystery Ruby http://github.com/FranklinChen/programmers-day/blob/master/ruby/mystery.rb %}
-require_relative 'utils'
-
-class Mystery
-  attr_reader :mysterious
-end
+{% codeblock Mystery Ruby lang:ruby http://github.com/FranklinChen/programmers-day/blob/master/ruby/mystery.rb %}
+  {% github FranklinChen/programmers-day b3bed2957dcff639fc8ea74017ba0d19e3aa87f0 %}
 {% endcodeblock %}
+
+<!--more-->
 
 The trick, of course, lies in what we have in `utils.rb`:
 
-{% codeblock Our utilities http://github.com/FranklinChen/programmers-day/blob/master/ruby/utils.rb %}
-class Class
-  alias orig_attr_reader attr_reader
-
-  def attr_reader(*args)
-    args.each do |arg|
-      if arg == :mysterious
-        puts "Happy Programmers' Day!"
-      end
-    end
-
-    orig_attr_reader(*args)
-  end
-end
+{% codeblock Utilities lang:ruby http://github.com/FranklinChen/programmers-day/blob/master/ruby/utils.rb %}
+  {% github FranklinChen/programmers-day 4426c73c0b79b0c5f0cc9939f38abcf2377de84c %}
 {% endcodeblock %}
 
-Very simple, nothing fancy, but perverse enough for Programmers' Day fun.
+Very simple, nothing fancy, but perverse enough for a bit of Programmers' Day fun.
