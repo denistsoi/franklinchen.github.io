@@ -8,7 +8,7 @@ categories:
 - practice
 - improvisation
 - recorder
-- baroque flute
+- Baroque flute
 - tin whistle
 - flute
 - mandolin
