@@ -34,13 +34,13 @@ So in one of my 10-minute blitz games tonight, we each played the first six move
 
 Very quickly in chess, the position becomes new, something that one has not seen before in the previous couple of thousand games of chess in one's life. This is what makes chess so fascinating: it is just not possible to memorize all the possible positions in chess. Even if you have played millions of games of chess, the very next game you will probably encounter a position different from anything you have seen before.
 
-In the blitz game, novelty began at move six, when my opponent played a non-standard move. This made me pause for just about one second before making my next move (instead of the first six moves during which I did not thinking at all). Did I do some kind of big calculation? No: from general principles and an approximate matching with the dozens of similar positions I have seen before, combined with "theoretical principles" suggesting that the move was inaccurate, I simply continued with a reasonable reply. In a slower game, I might have taken more time to figure out what a "best" reply would be, but when time is short, "good" is good enough.
+In the blitz game, novelty began at move six, when my opponent played a non-standard move. This made me pause for just about one second before making my next move (instead of the first six moves during which I did no real thinking at all). Did I do some kind of big calculation? No: from general principles and an approximate matching with the dozens of similar positions I have seen before, combined with "theoretical principles" suggesting that the move was inaccurate, I simply continued with a reasonable reply. In a slower game, I might have taken more time to figure out what a "best" reply would be, but when time is short, "good" is good enough.
 
 Meanwhile, even at move six, my pattern recognition was already kicking in. I was immediately recognizing the similarity to a game that I played 27 years ago, in 1985. Yes, we chess players who intensely love the game actually do remember elements of many of the games we have ever played in our lives; and those of who remember the most play the best. By coincidence, I was remembering a game that just three months ago I wrote about, [a game of mine that was published in Michigan Chess after it was played](/blog/2012/06/02/they-published-my-brilliant-chess-game/).
 
 ### Comparison
 
-Compare the following positions, which occurred after I played my Bishop to c4, and Black is to move.
+Compare the following positions, which occurred after I played my Bishop to `c4`, and Black is to move.
 
 The first is from 1985:
 
