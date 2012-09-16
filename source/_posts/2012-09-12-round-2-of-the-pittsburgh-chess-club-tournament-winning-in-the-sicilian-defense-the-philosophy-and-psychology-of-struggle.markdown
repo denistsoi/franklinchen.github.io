@@ -7,6 +7,7 @@ categories:
 - chess
 - Pittsburgh
 - Pittsburgh Chess Club
+- Sicilian Defense
 ---
 {% img /images/14th-fred-sorensen-memorial/round-2.jpg Second round %}
 
