@@ -1,13 +1,8 @@
 ---
 layout: page
-title: "404"
-sidebar: false
-comments: false
-sharing: false
+title: Page Not Found
 ---
 
-It seems that the page you have requested does not exist.
+Oops, I couldn't find that page! Sorry about that.
 
-Please [contact me](/contact) if you believe there was an error in this web site.
-
-Thank you!
+Maybe try the search box (top right), or look through the [archives](/archives/)?
