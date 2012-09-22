@@ -53,9 +53,9 @@ titlecase: true       # Converts page and post titles to titlecase
 
 # To change the layout's default sidebar Add a new sidebar source/_includes/sidebars/your_sidebar.html
 # then make changes below, eg. post_sidebar: your_sidebar.html
-blog_index_sidebar: blog_index_default.html
-page_sidebar: page_default.html
-post_sidebar: post_default.html
+blog_index_sidebar: blog_index.html
+page_sidebar: page.html
+post_sidebar: post.html
 
 # ----------------------- #
 #   3rd Party Settings    #
@@ -90,11 +90,13 @@ google_plus_hidden: false
 google_plus_image_size: 32
 
 # Pinboard
+#pinboard_user: franklinchen
 pinboard_user:
 pinboard_count: 3
 
 # Delicious
-delicious_user: franklinchen
+#delicious_user: franklinchen
+delicious_user:
 delicious_count: 3
 
 # Disqus Comments
