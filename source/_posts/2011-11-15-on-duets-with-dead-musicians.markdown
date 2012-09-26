@@ -5,6 +5,7 @@ date: 2011-11-15 22:05
 comments: true
 categories:
 - music
+- Glenn Gould
 - Maria Callas
 - Angela Gheorghiu
 - Joshua Bell
