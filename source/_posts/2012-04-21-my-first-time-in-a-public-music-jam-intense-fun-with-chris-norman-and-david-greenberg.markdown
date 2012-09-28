@@ -14,6 +14,7 @@ categories:
 - mandolin
 - Irish flute
 - Pittsburgh
+- Pittsburgh Renaissance and Baroque
 ---
 {% img http://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-ash3/544714_10150682065771513_55075526512_9775036_876594193_n.jpg David Greenberg and Chris Norman and the rest of us %}
 
