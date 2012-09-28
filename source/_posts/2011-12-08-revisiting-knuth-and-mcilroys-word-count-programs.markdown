@@ -32,7 +32,7 @@ I decided to bring the discussion here a quarter of a century (25 years!) to the
 
 ## Salient points of McIlroy's solution
 
-First, let's look at McIlroy's solution, which despite the passing of time is still a beautifully elegant illustration of why [Unix is timeless](/blog/2011/10/13/why-dennis-ritchie-is-important.markdown). (By the way, [Knuth is a C and Linux user to this day](http://www.informit.com/articles/article.aspx?p=1193856)).
+First, let's look at McIlroy's solution, which despite the passing of time is still a beautifully elegant illustration of why [Unix is timeless](/blog/2011/10/13/why-dennis-ritchie-is-important/). (By the way, [Knuth is a C and Linux user to this day](http://www.informit.com/articles/article.aspx?p=1193856)).
 
 {% codeblock McIlroy's shell script lang:bash %}
 tr -cs A-Za-z '\n' |
