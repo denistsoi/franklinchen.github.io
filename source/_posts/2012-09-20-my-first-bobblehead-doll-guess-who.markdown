@@ -44,7 +44,7 @@ You can find more information on the [Facebook page](http://www.facebook.com/Pit
 
 ### Food and information tables
 
-{% img http://sphotos-b.xx.fbcdn.net/hphotos-ash4/189232_472125132808229_857638441_n.jpg Food and tables %}
+{% img /images/189232_472125132808229_857638441_n.jpg Food and tables %}
 
 As we wandered around at the party, we sampled the food and checked out the tables of the five organizations. 
 
@@ -52,7 +52,7 @@ As we wandered around at the party, we sampled the food and checked out the tabl
 
 ### Live music
 
-{% img http://sphotos-b.xx.fbcdn.net/hphotos-snc6/199595_10151047722351513_1243992903_n.jpg Recorder quartet %}
+{% img /images/199595_10151047722351513_1243992903_n.jpg Recorder quartet %}
 
 We arrived in time to see my [recorder](/blog/categories/recorder/) friends perform as a recorder quartet, playing a variety of selections. Fred, Helen, Mike, and Annie were delightful.
 
