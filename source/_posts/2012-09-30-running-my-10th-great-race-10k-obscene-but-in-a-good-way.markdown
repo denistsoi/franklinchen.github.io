@@ -113,5 +113,9 @@ After some more hours of recovery, I was feeling fine. No joint pain whatsoever,
 
 Another thought: assuming a race with no rain or extreme cold or hot surfaces, I should run a race *barefoot* sometime next year. I'll think about this. I know people who have done this. Why not? Barefoot, one does not have to worry about blisters caused from laces, or sole flopping, or water slipping. One may have other worries instead, but knowing a course ahead of time can help.
 
+## Photos
+
+Official photos of me in action, including beating the guy I mentioned, are [here](http://orders.islandphoto.com/RACE/Proofs.aspx#26561404-00002-0026), but since they are copyrighted, I have not inserted them directly into my report here.
+
 ## Conclusion
 
