@@ -72,13 +72,17 @@ I didn't look back once as I focused on running the second half of the race, alm
 
 Probably no more than a quarter mile from the end, she passed me and started putting distance between us. But at my targeted location to put in my kick, I *screamed*, three or four times, while doing what I'd done in training: going into an all-out long sprint. I think I totally freaked her out, because she kind of just stepped aside and started jogging or something (that's what it seemed like as I charged past and then around the curve and then up the steep hill).
 
-I continued throwing out a periodic until I finished. For the first hundred or so races in my life, I never screamed, but I started this habit only last year, at [Run Shadyside](/blog/2011/10/01/run-shadyside-5k-outrunning-mickey-mouse-and-lending-a-trumpet/). I believe it actually helps me a lot when I'm in pain and need to "wake up" into a new gear of existence temporarily. I just worry about whether it scares people.
+I continued throwing out a periodic scream until I finished. For the first hundred or so races in my life, I never screamed, but I started this habit only last year, at [Run Shadyside](/blog/2011/10/01/run-shadyside-5k-outrunning-mickey-mouse-and-lending-a-trumpet/). I believe it actually helps me a lot when I'm in pain and need to "wake up" into a new gear of existence temporarily. I just worry about whether it scares people.
 
 It turned out that I finished ten seconds earlier than her. Mission accomplished, after all.
 
 ## What is important
 
+Here I am, shortly after finishing:
+
 {% img /images/pretty-good-race-2012/franklin-exhausted.jpg Franklin exhausted %}
+
+Here's Abby coming up the hill for the finish:
 
 {% img /images/pretty-good-race-2012/abby-finishing.jpg Abby finishing on the uphill %}
 
