@@ -8,6 +8,7 @@ categories:
 - Pittsburgh
 - Pittsburgh Chess Club
 - Sicilian Defense
+-- Maróczy Bind
 ---
 {% img /images/14th-fred-sorensen-memorial/round-3.jpg Third round %}
 

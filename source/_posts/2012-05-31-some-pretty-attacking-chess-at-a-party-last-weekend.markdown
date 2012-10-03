@@ -6,6 +6,7 @@ comments: true
 categories: 
 - chess
 - nephew
+- Benoni
 ---
 For almost two weeks, Abby and I were staying with my sister Linda (and her husband André), with whom we were staying for almost two weeks in order to help them with their three-month-old baby, my first nephew, Jack. They happened to hold a Memorial Day weekend party, inviting old friends of theirs as well as new friends with similarly-aged babies.
 
