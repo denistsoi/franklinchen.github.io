@@ -11,6 +11,7 @@ categories:
 - Pittsburgh
 - shoes
 - FiveFingers
+- Great Race
 ---
 
 Yesterday, on a late, muggy afternoon, I ran in a race, and finished 39th of 43 men in the race. I ran as hard as I could, just as I do in every race: my goal is always to run fast and beat as many competitors as I can. I don't run in a race for "fun" (in the conventional sense of the word): I race to know pain and to stretch my limits. (I save my "fun" running for when I'm not racing.)
@@ -38,6 +39,10 @@ Also, my expectations were low. [*Low expectations are the secret to happiness.*
 
 You can bet I'll be running this race again next year, and with every intention of placing higher.
 
+### (Update of 2012-09-27)
+
+It turned out that [I ended up not running this race in 2012](/blog/2012/09/27/why-i-missed-the-cmu-intramural-xc-race-this-year/).
+
 A note on shoes
 ---------------
 
@@ -53,3 +58,7 @@ On Sunday I will be running the [Pittsburgh Great Race 10K](http://www.rungreatr
 Below is a photo of my running it for the first time, in 2000, as the second race I had ever done (and I had never run more than three miles continuously in my life at that time). It was quite an ordeal. The following year I ran the race better prepared, 8:51 faster.
 
 {% img /images/great-race-2000.jpg Franklin nearing the finish of the Great Race in 2000 %}
+
+### (Update of 2011-09-25)
+
+My [Great Race 2011 report](/blog/2011/09/25/blistered-but-blissful-in-the-burgh/).
