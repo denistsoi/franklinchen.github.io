@@ -5,6 +5,7 @@ date: 2011-10-08 17:50
 comments: true
 categories: 
 - Pittsburgh
+- Pittsburgh Step Trek
 - hiking
 - shoes
 - FiveFingers
