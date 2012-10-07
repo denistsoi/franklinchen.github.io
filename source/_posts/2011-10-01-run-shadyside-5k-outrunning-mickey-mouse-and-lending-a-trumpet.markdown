@@ -5,6 +5,7 @@ date: 2011-10-01 09:47
 comments: true
 categories:
 - Pittsburgh
+- Run Shadyside
 - running
 - races
 - shoes
