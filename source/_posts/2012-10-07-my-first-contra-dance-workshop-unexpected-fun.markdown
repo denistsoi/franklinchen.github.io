@@ -62,6 +62,14 @@ There was a snack break halfway through, but I took other breaks to catch my bre
 
 As the caller pointed out, the subtlety and the fun in contra dancing comes from making all the *transitions* smooth and coordinated. I have a lot of work to do to continue improving, but during the hours of the workshop as I learned to be more aware of my immediate circle and relative positions and movements, I got a real sense of how I could really improve my experience of and enjoyment of contra dance.
 
+## French dance during break
+
+Also, during the break, Lisa taught some basic French dance to those who just couldn't get too much dancing. Hopefully this will translate into increased participation in the upcoming French dance workshops.
+
+## Waltzes
+
+As a nice typical touch, each of the two sets were concluded with a waltz. Abby and I enjoyed the opportunity to dance together, just the two of us, during the waltzes.
+
 ## What next?
 
 Abby and I have known for a while, of course, about the regular [Friday night contra dance by the Pittsburgh Contras and Squares](http://pittsburghcontra.org/). That's not a great time and day, unfortunately, because going out late on a Friday night does not appeal to me. I like the weekend afternoon schedule of the CMU French and contra dance workshops, currently held 4-7 PM. Being held at CMU also has the large advantages of being very close to home as well as encouraging a good turnout of young people to keep the energy up.
