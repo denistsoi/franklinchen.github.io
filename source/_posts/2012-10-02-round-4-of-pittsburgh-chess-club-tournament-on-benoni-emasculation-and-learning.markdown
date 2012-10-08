@@ -100,6 +100,12 @@ Next Tuesday is the last round of the six-round tournament. I am now the undispu
 
 *None of that really matters to me*. I'm in this to play as well as I can, enjoy the art, enjoy the sport, and to write up everything I learn along the way, whether I win, draw, or lose. I am, of course, grateful that I have been winning.
 
+### (Update of 2012-10-07)
+
+Oops, it turns out that I was wrong in figuring that I was the undisputed leader for first going into the final round: in fact, someone took a bye in the fifth round after a perfect score in the first four rounds, so he and I are tied for first going into the final round, and in fact, we are playing each other on Tuesday. So if I draw, that only guarantees that we split first prize. I need to win in order to get clear first prize.
+
+I am, of course, playing for a win. For better or for worse, **I have never played for a draw in my life, against anyone, even a Grandmaster.**
+
 ## Conclusion
 
 Tonight I got a chance to play an opening, reverse Benoni, that I haven't played for some time in a tournament, and I won the game through clear, thematic moves. In addition, we had a pleasant discussion after the game, and I look forward to seeing him play better in this opening in the future, and I too will refine my play in it.
