@@ -14,6 +14,7 @@ categories:
 - traditional dance
 - Pittsburgh
 - Carnegie Mellon University
+- contra dance
 ---
 {% img http://thebridge.cmu.edu/images/W170xL170/0/noshadow/Organization/603b06cbdc7847018dce159a5ed99543.jpg CATS Dance photo %}
 
@@ -59,7 +60,11 @@ Last week CATS Dance organized an outing to the regular [Pittsburgh Contras and 
 
 These workshops and dances are, of course, open to everyone, not just CMU students. Abby and I are not CMU students, but [started attending](/blog/2012/01/23/discovering-french-traditional-dance-in-pittsburgh/) these workshops at CMU in January. All ages and levels of dancers are always welcome! If you're curious, drop by and check it out.
 
-The first contra dance workshop to be hosted at CMU has also already been scheduled, for Sunday, October 7. Since I've never been to a contra dance workshop (although I had a sampling of contra dance at a birthday party earlier this year; I confess to being very confused by it then), I hope Abby and I will make it to this workshop.
+The first contra dance workshop to be hosted at CMU has also already been scheduled, for Sunday, October 7. Since I've never been to a contra dance workshop (although I had a sampling of contra dance at a birthday party [six months ago](/blog/2012/03/31/my-first-sampling-of-english-country-dance-and-contra-dance); I was very confused by it then), I hope Abby and I will make it to this workshop.
+
+### (Update of 2012-10-07)
+
+In fact, [Abby and I did make it to the contra dance workshop](/blog/2012/10/07/my-first-contra-dance-workshop-unexpected-fun/)!
 
 ## Conclusion
 

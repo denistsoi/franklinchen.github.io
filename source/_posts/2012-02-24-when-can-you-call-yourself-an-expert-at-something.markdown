@@ -5,7 +5,7 @@ date: 2012-02-24 20:47
 comments: true
 categories:
 - learning
-- dancing
+- dance
 - flute
 - programming
 ---

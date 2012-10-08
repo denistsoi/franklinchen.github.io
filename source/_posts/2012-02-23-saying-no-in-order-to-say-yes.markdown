@@ -6,7 +6,7 @@ comments: true
 categories:
 - time management
 - meditation
-- dancing
+- dance
 - exercise
 - music
 - flute

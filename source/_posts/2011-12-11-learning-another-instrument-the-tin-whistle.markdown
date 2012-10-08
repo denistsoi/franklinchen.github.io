@@ -9,6 +9,7 @@ categories:
 - flute
 - tin whistle
 - Holiday Ball
+- contra dance
 ---
 So on this blog I've already written about [starting to play recorder](/blog/categories/recorder/) earlier this year, then taking up [flute again](/blog/categories/flute/), and even just barely getting started with [Baroque flute](/blog/categories/baroque-flute/).
 
@@ -59,6 +60,12 @@ I had a tough time because there was music I hadn't even seen yet, much less sig
 Since so many musicians are expected to gather to play on Friday, and seating space is limited, we were asked whether any of us were interested in only playing for the first or second half of the program. Abby and I volunteered to play just the first half. So I'll have less music to try to go over before Friday.
 
 Abby is interested in dancing with me during the second half. I've never done contra dancing in my life. I suppose I should be a good sport and give it a try.
+
+### (Update of 2012-10-07)
+
+It turned out that at the holiday ball, [I ended up deciding not to dance at all, but just played music](/blog/2011/12/16/playing-recorder-and-flute-at-the-holiday-ball/).
+
+But 10 months later, Abby and I did do a full contra dance workshop for my first time! [And it was a lot of fun](/blog/2012/10/07/my-first-contra-dance-workshop-unexpected-fun/).
 
 ## The future
 
