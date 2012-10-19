@@ -75,6 +75,8 @@ We started off running on the road for a bit before turning onto the first stair
 
 After doing a bit of "running" up the stairs, I quickly realized that I was wasting my energy. I started just walking up the stairs instead. The plan was to walk up all stairways, but descend quickly, and run fast on the roads.
 
+Also, I was trying to pull myself up with my arms using the handrails, but it turns out that some handrail sections are missing or *loose*. Yup, we were warned!
+
 At some point, we started going off into the trails. Unfortunately, I had "forgotten" that there might be mud issues, and I was annoyed that I had worn my Bikila LS shoes instead of my KSO Trek shoes, which would have been much better in these conditions. I had to slow down a lot to avoid slipping and falling in the muddy trails.
 
 I noticed that I was a lot faster descending steps than many people, so I started passing people during the descents. At some point, I caught up to Chris and passed him. But not too long after that, we entered a grassy section of the course, outside the fenced baseball field. I *knew* that this was going to be treacherous, so I tried to grab with my right hand onto the fence as I ran, but still, at some point there was a drop and I slipped and fell hard, right on my butt. I picked myself up, luckily not really injured (although I had some hip pain for a day or two after the race), and kept going. After the race, Chris said he had seen me going down. Thanks to the indentation I made in the ground with my body, others behind me knew where not to step!
@@ -82,6 +84,14 @@ I noticed that I was a lot faster descending steps than many people, so I starte
 ### Roads
 
 I did do a good bit of running on the roads, but actually, a lot of walking too, because there were such steep hills along some of the roads. Here's my rule of thumb in these kinds of races: if by walking hard I can keep up with someone who is running up a hill, clearly I am saving more energy than my competitor.
+
+### Bridges
+
+There were various bridges, but most amusing was the bridge over I-279. When was the last time I ran in a race that crossed an interstate highway? Um, never?
+
+### The garden hose
+
+On the big stair climb near the end, I noticed while pulling myself up the handrails that one entire section was not only missing, but replaced seamlessly with a *garden hose*. Hilarious, but not safe! I didn't touch the hose.
 
 ### Fear of getting lost
 
@@ -131,4 +141,4 @@ Last year, since it fell on a different day, I also [ran the Run Shadyside 5K](/
 
 ## Conclusion
 
-I had a great time in this year's Fineview Stepathon, and I was delighted to have introduced Chris to this event. I'm grateful for all the work the volunteers did to get the route ready, handle registration, direct the race, point out directions, give us water, and provide music and food for us at the end. I totally want to do this again next year, even if schedule conflicts arise again. And I hope that maybe I'll do some targeted training in order to really conquer "man versus steps"!
+I had a great time in this year's Fineview Stepathon, and I was delighted to have introduced Chris to this event. This was one of the *most fun* races in my life! I'm grateful for all the work the volunteers did to get the route ready, handle registration, direct the race, point out directions, give us water, and provide music and food for us at the end. I totally want to do this again next year, even if schedule conflicts arise again. And I hope that maybe I'll do some targeted training in order to really conquer "man versus steps"!
