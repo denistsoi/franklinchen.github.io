@@ -3,7 +3,7 @@ layout: post
 title: "Another French music jam; also, announcing CATS Dance"
 date: 2012-09-28 20:55
 comments: true
-external-url: http://www.facebook.com/catsdancepgh
+external-url: 
 categories: 
 - music
 - flute
