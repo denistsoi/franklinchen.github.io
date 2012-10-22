@@ -70,7 +70,7 @@ I reflect on my year of 2011 as it ends. Since I did not start blogging until Se
 
 - After years of not playing any music at all, I started playing [recorder](/blog/categories/recorder/), and vowed to play every single day if possible. Ten months later, I am still playing recorder.
 
-- I began attending a lot of [local software developer group meetings](/blog/2011-10-16/pittsburgh-software-developer-communities/).
+- I began attending a lot of [local software developer group meetings](/blog/2011/10/16/pittsburgh-software-developer-communities/).
 
 - I started learning the [Scala](/blog/categories/scala/) programming language and decided to use it on a small project.
 
