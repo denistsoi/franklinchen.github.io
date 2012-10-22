@@ -8,6 +8,7 @@ categories:
 - running
 - Pittsburgh
 - races
+- Great Race
 - Invisible Shoes
 - FiveFingers
 ---
