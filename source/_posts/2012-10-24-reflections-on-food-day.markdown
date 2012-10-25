@@ -17,7 +17,7 @@ categories:
 - paleo
 - rice
 ---
-{% img /images/food-day-2012-breakfast-2.jpg Soup and veggies %}
+{% img /images/food-day-2012-breakfast-1.jpg Soup and veggies %}
 
 A year ago I celebrated [Food Day](http://www.foodday.org/) for the first time, by sharing [some reflections on what food means to me](/blog/2011/10/24/every-day-is-food-day/). Today I review my reflections and some more.
 
