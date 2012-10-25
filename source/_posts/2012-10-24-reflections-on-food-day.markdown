@@ -27,10 +27,10 @@ A year ago I celebrated [Food Day](http://www.foodday.org/) for the first time, 
 
 Abby and I still take care to shop carefully for groceries and make our own tasty meals to eat. Some of our sources:
 
-- [Kretschmann Farm] CSA subscription for local produce
+- [Kretschmann Farm](http://kretschmannfarm.com/) CSA subscription for local produce
 - [Misera's Organic Farm](http://www.localharvest.org/miseras-organic-farm-M14896) for local [chickens](/blog/2011/09/24/whats-a-nice-acorn-squash-like-you-doing-in-a-pot-of-spicy-lentils/)
 - [Lewis Family Farms](http://www.lewisfamilyfarms.com/) for local beef
-- [Stoney Lane Farm] for local [eggs](/blog/2011/11/28/thankful-for-the-free-range-orange-yolked-eggs/)
+- [Stoney Lane Farm](http://pine-richland.patch.com/articles/stoney-lane-farm-a-little-bit-country-in-suburbia) for local [eggs](/blog/2011/11/28/thankful-for-the-free-range-orange-yolked-eggs/)
 - [Trader Joe's](http://www.traderjoes.com/)
 - [East End Food Co-op](http://www.eastendfood.coop/)
 
