@@ -15,6 +15,10 @@ categories:
 ---
 It's been eleven days since [my last blog post on my flute progress](/blog/2012/03/10/flute-loving-it-again/). During this time, there have been various changes in my life, including *radical* changes in my musical life. It will take me a couple of additional blog posts to discuss these changes, but for now, I'll talk only about today's snapshot of my flute activity.
 
+## (Update of 2012-03-12)
+
+I had ended up [quitting the CMU AUO](/blog/2012/03/12/quitting-the-cmu-all-university-orchestra-one-of-the-hardest-decisions-in-my-life/), and then having a [wonderful musical experience a birthday party](/blog/2012/03/17/st-patricks-day-party-playing-tin-whistle-and-flute/).
+
 <!--more-->
 
 ## Thumbport
