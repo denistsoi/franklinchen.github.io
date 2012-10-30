@@ -66,3 +66,6 @@ Earlier, we enjoyed the official rest stops that provided beverages, bite-sized 
 
 One thing we particular enjoyed after finishing was looking at the gallery of historic photos in one of the tents. It was eerie seeing those black and white photos of streets we had walked that were once dirt roads for horses, construction of bridges and staircases, old homes that are still standing now (and renovated). I wish there were more of the before/after photos. Maybe decades from now we'll see YouTube time-lapse videos of how things are now in our neighborhoods and how things will be then!
 
+## (Update of 2012-10-06)
+
+The following year, sadly, I did not do the Pittsburgh Step Trek again, because of a schedule conflict with [the Fineview Stepathon that I did instead](/blog/2012/10/06/the-fineview-stepathon-2012-pittsburghs-grueling-urban-trail-race/). We'll have to see what the schedules are for 2013.

@@ -183,3 +183,7 @@ Obviously, my goal for the next rehearsal is to get as much up to full speed as 
 ## Conclusion
 
 By deciding to take on the challenge of joining the CMU All-University Orchestra while being pathetically incompetent at flute, I am trying to push the limits of my learning and practice abilities. I will drop out if I only manage to hold back rehearsals or feel that I will play badly at the scheduled concert. But so far, I am still hanging in there.
+
+## (Update of 2012-03-12)
+
+I ended up [quitting the CMU AUO](/blog/2012/03/12/quitting-the-cmu-all-university-orchestra-one-of-the-hardest-decisions-in-my-life/).

@@ -60,3 +60,7 @@ When I feel like it again (probably by next Monday), I'll return to continuing p
 ## Summary
 
 I'm having some musical rough spots, but I'm still very much in love with music and always find some outlet somehow.
+
+## (Update of 2012-03-12)
+
+I ended up [quitting the CMU AUO](/blog/2012/03/12/quitting-the-cmu-all-university-orchestra-one-of-the-hardest-decisions-in-my-life/).

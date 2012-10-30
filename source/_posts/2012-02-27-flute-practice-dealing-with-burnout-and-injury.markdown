@@ -64,3 +64,6 @@ Everyone else is also still improving. We don't sound very good right now, even 
 
 I'm dealing with a temporary setback in motivation and physical condition right now, but hope to bounce back tomorrow. **The show must go on.**
 
+## (Update of 2012-03-12)
+
+I ended up [quitting the CMU AUO](/blog/2012/03/12/quitting-the-cmu-all-university-orchestra-one-of-the-hardest-decisions-in-my-life/).

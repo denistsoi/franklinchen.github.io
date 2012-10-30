@@ -155,3 +155,7 @@ You can see in the photo above that Abby wore her [KomodoSport LS](http://www.vi
 Some official photos from Island Photography have appeared online. I have to confess that my original plan was to try to spot the cameras and try to look good for any photos of me that might be taken. Unfortunately, I was in such pain in the final mile of the race that I had tunnel vision and could not really perceive anything.
 
 I've added some of these photos to the beginning of this blog post.
+
+## (Update of 2012-09-30)
+
+The following year, [I ran in the Great Race again](/blog/2012/09/30/running-my-10th-great-race-10k-obscene-but-in-a-good-way/).

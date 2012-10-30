@@ -183,3 +183,7 @@ What I really like doing, and aim to do more of, is playing music in very small 
 ## Conclusion
 
 I'm still hanging in there with my crazy attempt to just jump into a new level of flute playing, with a hard deadline. It would be less stressful if I were just trying to improve at my own pace, but I have to admit that from November through December, when I was working on the flute, the fact that I did not have a concrete level of mastery as a goal definitely made my practice less effective.
+
+## (Update of 2012-03-12)
+
+I ended up [quitting the CMU AUO](/blog/2012/03/12/quitting-the-cmu-all-university-orchestra-one-of-the-hardest-decisions-in-my-life/).

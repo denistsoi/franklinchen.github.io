@@ -101,3 +101,7 @@ Procedure:
 - Mix stuff up in the slow cooker.
 - Cook for 3 hours.
 - When done, add salt to taste.
+
+## (Update of 2012-10-24)
+
+Food Day, [a year later](/blog/2012/10/24/reflections-on-food-day/).

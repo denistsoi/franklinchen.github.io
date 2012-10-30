@@ -87,3 +87,7 @@ I actually credit my study of the recorder and the Baroque flute for reawakening
 ## Conclusion
 
 I am enjoying playing the flute again, now that I know what I really want to do with it. And I would like to merge my dance and music lives, just as Abby has always played the Balkan music she also dances to.
+
+## (Update of 2012-03-12)
+
+I ended up [quitting the CMU AUO](/blog/2012/03/12/quitting-the-cmu-all-university-orchestra-one-of-the-hardest-decisions-in-my-life/).

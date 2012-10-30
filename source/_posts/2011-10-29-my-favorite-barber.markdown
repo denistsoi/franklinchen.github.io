@@ -53,3 +53,6 @@ Here I am, done after half an hour in the chair:
 
 You can see in the mirror the guy after me taking my photo for me. He said he used to get his hair cut by Joe's father Harry here sixty years ago. Now that's history!
 
+## (Update of 2012-10-26)
+
+A year later, [another haircut to remember](/blog/2012/10/26/yet-another-haircut-from-joe-always-worth-the-wait/).

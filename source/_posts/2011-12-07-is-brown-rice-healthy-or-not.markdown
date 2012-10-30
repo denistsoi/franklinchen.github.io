@@ -43,3 +43,7 @@ Sisson suggests soaking and fermenting brown rice. Having sort of tried this, I 
 So what am I to do?
 
 I eat brown rice in part to get fiber and in part to get (carb) calories. I have experimented with eating less brown rice lately, but am now considering doing an experiment in which I actually give it up for two weeks or so, to see how I feel. Giving up oatmeal has largely been a good thing for me; I rather enjoy eating a lot of veggies and more protein for breakfast. But getting rid of brown rice is much more radical.  Should I really go back to white rice?  I don't know right now.
+
+## (Update of 2012-10-24)
+
+On Food Day in 2012, I wrote more about some [dilemmas with rice](/blog/2012/10/24/reflections-on-food-day/).

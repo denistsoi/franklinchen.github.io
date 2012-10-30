@@ -164,3 +164,7 @@ I wore my [KSO Trek](/blog/2011/10/12/i-love-trail-running-in-frick-park/) shoes
 My feet were pretty sore by the end, because of all the rocks I had to deal with, but after half an hour of stretching and recovering, and eating a large restorative meal, I felt fine. Going to take a rest day off from running tomorrow, but Monday I should be ready to enjoy the autumn changes further.
 
 I feel blessed that I can regularly just hop out the door and go on little journeys like this in Frick Park.
+
+## (Update of 2012-10-13)
+
+By coincidence, almost exactly a year later, I introduced a friend to running [Frick Park largely along this route](/blog/2012/10/13/introducing-a-friend-to-the-joys-of-trail-running-in-frick-park/). I will never get tired of running in Frick Park.

@@ -103,3 +103,7 @@ Interestingly, I felt I was automatically slightly better at playing recorder ev
 ## Conclusion
 
 I'm still enjoying improving at flute and slowly getting closer to being able to play the second flute part of the Bernstein in its entirety. I get less and less panicky about being in the orchestra as I "catch up" according to plan.
+
+## (Update of 2012-03-12)
+
+I ended up [quitting the CMU AUO](/blog/2012/03/12/quitting-the-cmu-all-university-orchestra-one-of-the-hardest-decisions-in-my-life/).

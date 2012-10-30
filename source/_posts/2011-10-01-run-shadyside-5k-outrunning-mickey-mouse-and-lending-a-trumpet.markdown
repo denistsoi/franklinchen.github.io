@@ -101,3 +101,7 @@ Here's Ben with my trumpet. Enjoy playing it, Ben!
 ## Rain
 
 It started raining outside just as Ben left with the trumpet. I am *so* grateful that it did not rain during the race! I was prepared to deal with it (I have run cold half marathons during which it rained the whole time), but it would not have been so much fun.
+
+## (Update of 2012-10-06)
+
+The following year, sadly, I did not do Run Shadyside again, because of a schedule conflict with [the Fineview Stepathon that I did instead](/blog/2012/10/06/the-fineview-stepathon-2012-pittsburghs-grueling-urban-trail-race/). We'll have to see what the schedules are for 2013.
