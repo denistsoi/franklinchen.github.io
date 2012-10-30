@@ -10,7 +10,7 @@ categories:
 ---
 Lately there has been a lot of attention paid to [deliberate practice](http://expertenough.com/1423/deliberate-practice). I thought I'd give one example of my practice habits.
 
-Over a week ago, at a birthday party, I ended up playing two casual games of [chess](/blog/categories/chess/), my first games of chess in an entire year since I completely quit playing the game (either in tournaments or casually) in order to focus on rebooting my passion for playing [music](/blog/categories/music/).
+Over a week ago, [at a birthday party](/blog/2012/01/27/a-new-friends-very-musical-birthday-party-changed-my-life/), I ended up playing two casual games of [chess](/blog/categories/chess/), my first games of chess in an entire year since I completely quit playing the game (either in tournaments or casually) in order to focus on rebooting my passion for playing [music](/blog/categories/music/).
 
 The first game was against someone who opened with 1 h4, immediately marking himself as a beginner, and I won quickly.
 
