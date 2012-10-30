@@ -3,7 +3,6 @@ layout: post
 title: "Running my 10th Great Race 10K: \"obscene but in a good way\""
 date: 2012-09-30 19:08
 comments: true
-external-url: http://rungreatrace.com/
 categories: 
 - running
 - Pittsburgh

@@ -3,7 +3,6 @@ layout: post
 title: "Running my 8th Pretty Good Race 5K: dealing with disappointment"
 date: 2012-09-07 19:47
 comments: true
-external-url: http://www.cs.cmu.edu/~kalp/PGR/
 categories: 
 - running
 - Schenley Park

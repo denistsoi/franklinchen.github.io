@@ -3,7 +3,6 @@ layout: post
 title: "Thank you, Glenn Gould, for introducing me to Schönberg!"
 date: 2012-09-25 19:16
 comments: true
-external-url: http://www.npr.org/blogs/deceptivecadence/2012/09/25/160957849/glenn-gould-beyond-bachs-goldberg-variations
 categories: 
 - music
 - piano

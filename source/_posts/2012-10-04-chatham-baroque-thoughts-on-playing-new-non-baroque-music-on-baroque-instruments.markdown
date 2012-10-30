@@ -3,7 +3,6 @@ layout: post
 title: "Chatham Baroque: thoughts on playing new non-Baroque music on Baroque instruments"
 date: 2012-10-04 23:21
 comments: true
-external-url: http://www.chathambaroque.org/events/baroque-reframed
 categories: 
 - music
 - Baroque

@@ -3,7 +3,6 @@ layout: post
 title: "Is Constitution Day Constitutional?"
 date: 2012-09-18 11:01
 comments: true
-external-url: http://papers.ssrn.com/sol3/papers.cfm?abstract_id=893903
 categories: 
 - Constitution
 - Carnegie Mellon University

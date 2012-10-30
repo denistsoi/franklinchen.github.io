@@ -3,7 +3,6 @@ layout: post
 title: "My first contra dance workshop: unexpected fun!"
 date: 2012-10-07 21:19
 comments: true
-external-url: http://www.facebook.com/events/374623475947550/
 categories: 
 - dance
 - contra dance
