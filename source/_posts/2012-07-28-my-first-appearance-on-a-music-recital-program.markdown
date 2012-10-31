@@ -79,6 +79,10 @@ I chose to play a selection from Van Eyck to show off the soprano recorder. Actu
 
 A personal reason I wanted to play this was that I had not heard any interpretation that I really liked, from CDs or YouTube. Therefore, I wanted to fill a hole and try to play the music the way I felt it. This is the fundamental reason I have been playing music rather than just listening to others do it: self-expression.
 
+##### (Update of 2012-10-30)
+
+Here is the finally published post about the [Baroque jam session](/blog/2012/04/27/baroque-jam-session-at-cmu/).
+
 #### Traditional Scottish air (1700s?)
 
 A Baroque flute seemed appropriate to play this slow song. It could have used accompaniment, but I added it to the program too late to have someone accompany me on harp or mandolin or something.
