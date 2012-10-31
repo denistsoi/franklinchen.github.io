@@ -22,6 +22,12 @@ It turned out that I got more information than I had then. For one thing, when I
 
 Finally, by chance it turned out that Abby needed to buy some musical supplies from a place that had the precise Aulos Baroque flute I was looking at (and the lowest price online), and so we added it to the order to get a discount all in one order.
 
+### (Update of 2012-10-30)
+
+{% img http://www.boosey.com/imagesw/shop/product/$wm1_0x700_$_ED_12861-English_Airs_cov.jpg English Airs and Dances %}
+
+I didn't think it was important to mention at the time, but when I wrote this blog post, I had just *two weeks earlier* checked out of the library, by sheer accident since it was on display, a book/CD set called ["English Airs and Dances"](http://www.boosey.com/shop/prod/Various-English-Airs-and-Dances-Baroque-Around-the-World-series-Book-CD/918892), from a ["Baroque Around the World" series](http://www.boosey.com/shop/prod/Various-English-Airs-and-Dances-Baroque-Around-the-World-series-Book-CD/918892), and begun working on playing the music in it, on modern flute.
+
 ## What now?
 
 Well, I picked up [Boland's "Method for the One-Keyed Flute"](http://www.ucpress.edu/book.php?isbn=9780520214477) from the library, and it looks very good. At some point I'll start working on it.

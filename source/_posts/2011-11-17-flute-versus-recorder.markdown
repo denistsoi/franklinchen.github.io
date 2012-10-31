@@ -88,3 +88,10 @@ Daniel Waitzman was a prodigy on recorder and then on Baroque flute as well. I f
 
 I'm not giving up recorder, but have returned to flute in a strange, roundabout way. We'll see how far I continue with the flute.
 
+## (Update of 2011-11-30)
+
+It turned out that just days after I wrote this blog post, I reconsidered and [decided to buy a Baroque flute](/blog/2011/11/30/bought-a-baroque-flute/)!!
+
+## (Update of 2012-10-30)
+
+In fact, I would end up spending the summer months of 2012 practicing almost exclusively the Baroque flute, including going to a music camp in which I took a class devoted to Baroque flute technique.
