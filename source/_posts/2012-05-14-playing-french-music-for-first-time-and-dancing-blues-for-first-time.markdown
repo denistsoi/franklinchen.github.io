@@ -59,3 +59,7 @@ We did do a bit of blues dancing tonight, but it's not clear to me whether we wi
 This evening highlighted the contrast between my lack of ability to function as a practical musician for dancers and my comfort with improvisation as a dancer. I plan to work toward merging these two worlds.
 
 I feel sad that Gregory is leaving us, because I wanted to start working with him on French music, but his example has inspired me to want to continue playing French music after he is gone.
+
+## (Update of 2012-07-02)
+
+And less than two months later, [I joined Lisa and others in playing French music together, inspired by Gregory](/blog/2012/07/02/my-first-french-music-jam-anxious-but-excited/)!

@@ -47,3 +47,7 @@ It's really a joy playing music for people to dance to. I feel like I'm starting
 ## Conclusion
 
 The first French music jam and new format for the French dance (live music instead of iTunes) was a great start of something new. We were all so excited that we definitely want to continue doing this. I look forward to continuing to play together.
+
+## (Update of 2012-08-27)
+
+And less than two months later, I am [still involved in the new French music jam](/blog/2012/08/27/my-second-french-music-jam-playing-my-irish-flute-in-public-for-the-first-time/), and finally with my own Irish flute!

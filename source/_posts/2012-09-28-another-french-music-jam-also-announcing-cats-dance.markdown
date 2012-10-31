@@ -69,3 +69,7 @@ In fact, [Abby and I did make it to the contra dance workshop](/blog/2012/10/07/
 ## Conclusion
 
 I continue to greatly enjoy the regular French music jam and meeting and playing with more musicians. Meanwhile, although I have not done much dancing lately, I am excited about the creation of CATS Dance.
+
+## (Update of 2012-10-15)
+
+Check out the latest update on the [French music jam](/blog/2012/10/15/french-music-jam-with-unexpected-new-musicians/)!

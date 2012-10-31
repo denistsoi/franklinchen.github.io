@@ -70,3 +70,6 @@ And there's West Coast swing in town too, at [Absolute Ballroom](http://www.pghw
 
 It was a lot of fun dancing with Abby more again, and also with other people, and hanging out at dinner. I am not a dance maniac any more, and time is limited, but I am excited about continuing with Abby to further explore dances we haven't done much of before. It's great exercise and great socializing!
 
+## (Update of 2012-05-14)
+
+Three months later, I ended up beginning to [play French music on flutes](/blog/2012/05/14/playing-french-music-for-first-time-and-dancing-blues-for-first-time/)!

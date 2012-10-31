@@ -34,3 +34,7 @@ We lost some musicians from last time, because one of them left town, and the cl
 ## Conclusion
 
 Our little French music group is gaining momentum. I'm very excited! Also, as the CMU fall semester starts, there are plans to really promote French and other traditional music and dance in the form of an official CMU student organization.
+
+## (Update of 2012-09-28)
+
+In fact, [CATS Dance successfully launched in September](/blog/2012/09/28/another-french-music-jam-also-announcing-cats-dance/)!

@@ -53,3 +53,7 @@ I am grateful to Gregory and Lisa for the instruction, Ellen for the piano playi
 ## Invitation
 
 If you're in the Pittsburgh area and interested in French traditional social dance, check out the [Facebook group](http://www.facebook.com/groups/182324948478861/) for announcements.
+
+## (Update of 2012-02-20)
+
+Abby and I have [continued enjoying French dancing](/blog/2012/02/20/enjoying-more-french-dancing-in-pittsburgh/) over the year.
