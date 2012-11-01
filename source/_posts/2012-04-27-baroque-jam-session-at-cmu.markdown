@@ -87,3 +87,9 @@ Three months later, I ended up playing the Van Eyck piece in the [summer recital
 ## (Update of 2012-09-08)
 
 It took me four months from this Baroque jam session before I performed Holcombe's Air in E minor again anywhere, and that time I finally played it on a Baroque flute rather than a modern flute!
+
+## (Update of 2012-11-01)
+
+My parents were visiting me and Abby yesterday for the first time since this Baroque jam six months ago. Yes, they were stopping by for the night to break up the long drive to visit my sister in DC again to see their [baby grandson](/blog/2012/05/31/some-pretty-attacking-chess-at-a-party-last-weekend/) again and help out with care again for two weeks.
+
+I did some flute playing for them last night (on Irish flute, modern flute, and Baroque flute) and they seemed to enjoy the diversion. They still remembered how totally nervous I had been six months ago at the Baroque jam session and have been supportive of my musical activities of the past year. I am very grateful for that.
