@@ -86,7 +86,7 @@ Three months later, I ended up playing the Van Eyck piece in the [summer recital
 
 ## (Update of 2012-09-08)
 
-It took me four months from this Baroque jam session before I performed Holcombe's Air in E minor again anywhere, and that time I finally played it on a Baroque flute rather than a modern flute!
+It took me four months from this Baroque jam session before I performed Holcombe's Air in E minor again anywhere, and [that time I finally played it on a Baroque flute](/blog/2012/09/08/finally-performing-some-sonatas-for-baroque-flute/) rather than a modern flute!
 
 ## (Update of 2012-11-01)
 
