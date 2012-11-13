@@ -71,6 +71,8 @@ Since I was very pressed for time before the weekend, I didn't bother to write d
 
 ## Pirate costume
 
+{% img /images/khafif-hafla-2012/franklin-abby.jpg Franklin and Abby %}
+
 Meanwhile, having decided to perform music at the hafla, I decided that I had to wear a costume also. There was no way I was going to show up without a costume this year, given that I was going to be on stage. After throwing around some ideas, I decided that since I have a karate gi, I was going to wear it, and throw on a red belt and a red bandanna, and call myself an Asian pirate. Abby gave me a chain to wear around my neck also.
 
 ## At the hafla
