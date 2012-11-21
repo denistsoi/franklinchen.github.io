@@ -12,6 +12,7 @@ categories:
 - flute
 - melodica
 - Carnegie Mellon University
+- Phipps Conservatory
 ---
 {% img /images/s-a-t-recorders.jpg My soprano, alto, tenor recorders %}
 
@@ -41,12 +42,24 @@ Also, I'm expecting to play in another holiday-oriented gig that Abby is playing
 
 (No, I'm not going to play at the Holiday Ball the [Baroque flute I just got yesterday and started to learn](/blog/2011/11/30/bought-a-baroque-flute/).)
 
+#### (Update of 2011-12-16)
+
+I reported on [playing in the Holiday Ball](/blog/2011/12/16/playing-recorder-and-flute-at-the-holiday-ball/).
+
 ### Carnegie Mellon All-University Orchestra
 
 Finally, I am considering joining, in January after winter break, the [Carnegie Mellon All-University Orchestra](http://www.andrew.cmu.edu/user/auo/), playing (modern) flute. This is a non-audition orchestra, so I don't have to be super good to be a part of it. Nevertheless, I have a month or so to continue improving a lot on the flute before I can judge whether I should join it. If I do, then that will be the first time ever in an orchestra!
 
 Being non-audition, the CMU AUO is not a very good orchestra. And I know firsthand, because I went to one of their free concerts many years ago because I knew someone who was in it. But life would be tragic if only super good musicians could play music together, just as life would be tragic if only elite individuals in society were allowed or encouraged to read or write or do arithmetic or cook or garden or run or write computer programs. (That's my social commentary for today; I will expand on this theme in later writings.)
 
+#### (Update of 2012-03-12)
+
+[I did join the CMU AUO in January](/blog/2012/02/01/joining-an-orchestra-learning-in-the-face-of-terror/), but [quit in March](/blog/2012/03/12/quitting-the-cmu-all-university-orchestra-one-of-the-hardest-decisions-in-my-life/), one of my hardest but best decisions in my life!
+
 ## Conclusion
 
-I am excited to start performing music in public for this holiday season. I have been quite content to just play music informally without and audience, or playing it for myself, but I have to admit that even for an introvert like me, part of the entire pleasure of playing music at all is that of connecting to the minds, hearts, bodies of people who appreciate what you communicate and express to them. Even when I play alone, I imagine connecting somehow with the universe in some strange way.
+I am excited to start performing music in public for this holiday season. I have been quite content to just play music informally without an audience, or playing it for myself, but I have to admit that even for an introvert like me, part of the entire pleasure of playing music at all is that of connecting to the minds, hearts, bodies of people who appreciate what you communicate and express to them. Even when I play alone, I imagine connecting somehow with the universe in some strange way.
+
+## (Update of 2012-11-19)
+
+A year later, I reported on [preparing for the 2012 holiday gig at Phipps](/blog/2012/11/19/preparing-for-december-9-recorder-performance-in-phipps-conservatory/).

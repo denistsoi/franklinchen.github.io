@@ -35,6 +35,15 @@ I had only started looking at the music a day or two ago, and sight read some of
 
 I did try to play recorder for some of the pieces, but I think my intuition was correct: the recorder gets drowned out in the sea of more powerful instruments. But I will bring my recorders to the next rehearsal anyway, in case some of the pieces I missed this time (because of arriving late) would work acoustically and stylistically with a soprano or alto recorder.
 
+### (Update of 2011-12-16)
+
+I reported on playing at the [Holiday Ball](/blog/2011/12/16/playing-recorder-and-flute-at-the-holiday-ball/).
+
 ## Conclusion
 
 I'm excited to have played recorder at Phipps, and I'm excited about the prospect of another new musical experience: playing for dancers at the upcoming Holiday Ball. I remember many times in the past decade wondering about being on the other side of the dance floor, since I used to do a lot of dancing (ballroom, swing, tango, salsa).
+
+### (Update of 2012-05-14)
+
+Half a year later, I did [start playing music regularly for dancers](/blog/2012/05/14/playing-french-music-for-first-time-and-dancing-blues-for-first-time/).
+
