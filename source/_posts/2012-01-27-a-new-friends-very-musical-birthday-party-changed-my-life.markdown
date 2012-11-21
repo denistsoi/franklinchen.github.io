@@ -62,7 +62,7 @@ I am very excited that Abby and I have made some new friends coming to this birt
 
 ### (Update of 2012-03-17)
 
-I played tin whistle and flute at the [next party of Henry's we went to](/blog/2012/03/17/st-patricks-day-party-playing-tin-whistle-and-flute/)
+I played tin whistle and flute at the [next party of Henry's we went to](/blog/2012/03/17/st-patricks-day-party-playing-tin-whistle-and-flute/).
 
 ### (Update of 2012-03-30)
 
