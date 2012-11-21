@@ -59,3 +59,19 @@ When everyone finally started to leave the party, I silently made a resolution t
 I am very excited that Abby and I have made some new friends coming to this birthday party and hope that we will have opportunities to see them again in the future. And the warm feeling I had all evening made me realize, this is what I want my life to be like: being among musicians, playing together.
 
 **I am going to do whatever it takes in order to join this musical world.**
+
+### (Update of 2012-03-17)
+
+I played tin whistle and flute at the [next party of Henry's we went to](/blog/2012/03/17/st-patricks-day-party-playing-tin-whistle-and-flute/)
+
+### (Update of 2012-03-30)
+
+[Another party](/blog/2012/03/30/a-delayed-st-patricks-day-party-playing-tin-whistle-and-alto-recorder/): I played tin whistle again; and recorder with keyboard accompaniment for the first time in my life.
+
+### (Update of 2012-09-08)
+
+[Another party](/blog/2012/09/08/finally-performing-some-sonatas-for-baroque-flute/): I played Baroque flute sonatas for the first time in my life.
+
+### (Update of 2012-09-21)
+
+[Another party](/blog/2012/09/21/my-first-time-singing-bossa-nova-also-a-temporary-farewell-to-baroque-flute/): I played more Baroque flute sonatas, and sang as solo vocalist with accompaniment for the first time in my life.
