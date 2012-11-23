@@ -15,9 +15,15 @@ Happy Thanksgiving, everyone!
 
 Today, on a sunny Thanksgiving, I surprised myself by spontaneously deciding to thank this world, and go as far as to call it [**the best of all possible worlds**](http://en.wikipedia.org/wiki/Best_of_all_possible_worlds). I'm still not entirely sure what I mean by that, but somehow, I "believe" it; more precisely, it's an *attitude* I now have that I have never really had in my life up till now. Even [a year ago](/blog/2011/11/23/every-day-is-thanksgiving/), I would have thought it silly to adopt such an attitude.
 
+A friend of mine asked, "Dr. Pangloss?"
+
+In other words, am I being a fool?
+
+<!--more-->
+
 ## Being Dr. Pangloss?
 
-A friend of mine immediately brought up a reference to Dr. Pangloss, of course, from [Voltaire](http://en.wikipedia.org/wiki/Voltaire)'s satirical novel ["Candide"](http://en.wikipedia.org/wiki/Candide) that was required reading in high school French. I remember reading that novel in high school, of course: it was a profound influence on me at the time, instilling a certain cynicism in me that lasted years. This novel was written as an attempt to refute [Leibniz](http://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz)'s philosophy of the ["best of all possible worlds"](http://en.wikipedia.org/wiki/Best_of_all_possible_worlds): Pangloss is a buffoonish character who spouts parodies of Leibniz's reasoning.
+Dr. Pangloss is a fictional character from [Voltaire](http://en.wikipedia.org/wiki/Voltaire)'s satirical novella ["Candide"](http://en.wikipedia.org/wiki/Candide) that was required reading in high school French. I remember reading that novella in high school, of course: it was a *profound* influence on me at the time, instilling a certain cynicism in me that lasted years. Voltaire wrote this novella as a direct attempt to refute [Leibniz](http://en.wikipedia.org/wiki/Gottfried_Wilhelm_Leibniz)'s philosophy of the ["best of all possible worlds"](http://en.wikipedia.org/wiki/Best_of_all_possible_worlds): Pangloss is a buffoonish character who spouts parodies of Leibniz's reasoning.
 
 No question about it, Candide is a wickedly entertaining satire, and Voltaire is a towering figure from the French Enlightenment, one who exposed a lot of hypocrisy and was an advocate of many social reforms.
 

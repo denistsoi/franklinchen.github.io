@@ -19,9 +19,7 @@ It was the last event, J-Jam, that got me to decide to really prepare some songs
 
 Then when Henry's party invitation came up, I jumped at the opportunity to try out some of the music I was preparing for J-Jam, to perform with Henry on piano.
 
-I did it.
-
-{% img /images/pre-thanksgiving-2012/franklin-por-una-cabeza.jpg Franklin's first try at Por una Cabeza %}
+What did I do?
 
 <!--more-->
 
