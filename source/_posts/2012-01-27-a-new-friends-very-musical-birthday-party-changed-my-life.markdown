@@ -75,3 +75,7 @@ I played tin whistle and flute at the [next party of Henry's we went to](/blog/2
 ### (Update of 2012-09-21)
 
 [Another party](/blog/2012/09/21/my-first-time-singing-bossa-nova-also-a-temporary-farewell-to-baroque-flute/): I played more Baroque flute sonatas, and sang as solo vocalist with accompaniment for the first time in my life.
+
+### (Update of 2012-11-17)
+
+[Another party](/blog/2012/11/17/a-childhood-dream-come-true-i-am-now-finally-singing-for-real/): I sang a whole bunch, and also began playing Romantic music on modern flute.
