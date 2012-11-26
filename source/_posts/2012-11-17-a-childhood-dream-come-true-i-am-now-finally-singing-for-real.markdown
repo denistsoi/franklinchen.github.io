@@ -95,7 +95,9 @@ It's not only because I was focusing on other instruments all year. It's also be
 
 I have improved a lot, actually, but I'm still far from satisfied; I've only now gotten to the point at which I feel I am not an embarrassment. Developing a truly beautiful, flexible tone seems a years-long task, and I keep working at it.
 
-Anyway, I have finally jumped into the late 19th century, out of the 18th, to play Romantic music on the instrument that is suited for it, the modern flute.
+Anyway, I have finally jumped into the late 19th century, out of the 18th, to play Romantic music on the instrument that is suited for it, the modern flute:
+
+{% img /images/pre-thanksgiving-2012/franklin-flute.jpg Franklin playing Fauré, Sicilienne %}
 
 #### Unexpected singing
 
