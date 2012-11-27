@@ -47,3 +47,7 @@ Today's election I was going to turn up for, independent of all I have said abov
 There are lot of people who don't like referenda, because as a form of [direct democracy](http://en.wikipedia.org/wiki/Direct_democracy) it bypasses the overall framework of [representative democracy](http://en.wikipedia.org/wiki/Representative_democracy) in which we, the people, are supposed to elect politicians to decide matters for us, rather than act as a mob. The upsides and downsides of both forms of democracy are well-known (California's political system, incorporating both the representative process as well as its infamous [ballot propositions](http://en.wikipedia.org/wiki/California_ballot_proposition), is completely broken).
 
 In the case of the Carnegie Library referendum, I've heard a lot of very heated rhetoric on both sides of it. This time, at least, I appreciated the opportunity to have a say rather than depend on politicians to decide for me, because I feel strongly about the [importance of libraries](/blog/2011/09/30/free-to-the-people-since-1895/).
+
+## (Update of 2012-11-06)
+
+The following year, I [continued to vote](/blog/2012/11/06/i-decided-to-resign-myself-to-continue-voting/) and expect to continue, year after year.
