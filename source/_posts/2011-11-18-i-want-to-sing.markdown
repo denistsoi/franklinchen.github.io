@@ -62,3 +62,7 @@ To do all that, I need to start learning and relearning lyrics. I have a rather 
 Singing is too fun to be just outsourced to the professionals. It must become a real part of my life, not a secret part of it.
 
 Recently I came across this passionate little [speech by Brian Eno](http://www.npr.org/templates/story/story.php?storyId=97320958) about the importance of singing. It inspired me to make a plan and write this blog post. May we all go forth and sing!
+
+### (Update of 2012-11-17)
+
+Almost exactly a year later, I have made progress in getting up the courage to [really start singing](/blog/2012/11/17/a-childhood-dream-come-true-i-am-now-finally-singing-for-real/)!

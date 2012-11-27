@@ -23,6 +23,10 @@ What did I do?
 
 <!--more-->
 
+## One year anniversary of my deciding to sing
+
+By coincidence, it's almost exactly one year since [I decided here on this blog that I was going to get into singing](/blog/2011/11/18/i-want-to-sing/).
+
 ## Music plan
 
 I picked out four pieces to give Henry advance warning on, so that I could give him the piano parts for him to take a look at before the party. During the [first round of the chess tournament we were both playing in](/blog/2012/11/13/round-1-of-pittsburgh-chess-club-tournament-revenge-of-the-knight/), I gave him a big collection of music, not only for the upcoming party but for possible future projects also.
