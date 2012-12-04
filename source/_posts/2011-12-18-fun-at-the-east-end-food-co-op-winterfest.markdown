@@ -59,6 +59,12 @@ Sorry, no videos this year of Abby and me dancing! Last year John did get video 
 
 I noticed that [Bruce Foley](http://brucefoley.com/) of Bury the Cabbage was playing what looked like an oversized tin whistle, so during a break I asked him about the instrument. Indeed, it was a whistle in D an octave lower than the little tin whistle I had started playing. He said the best place to get these whistles is [Burke](http://www.burkewhistles.com/). I have to confess I'm not currently in the market for a low whistle, much less any professional-grade whistle.
 
+## Interviews about the East End Food Co-op (updated 2012-12-04)
+
+At the party, there was a call for volunteers to be interviewed about the East End Food Co-op, how they use it, and what it means to them. Here's a video that was made from the interviews.
+
+<iframe src="http://player.vimeo.com/video/37628327?badge=0" width="500" height="281" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe> <p><a href="http://vimeo.com/37628327">Winterfest with the East End Food Co-op</a> from <a href="http://vimeo.com/user10547223">East End Food Co-op</a> on <a href="http://vimeo.com">Vimeo</a>.</p>
+
 ## Conclusion
 
 It was getting to be bedtime for Julia, so Mark and Jin prepared to go home, and John, Abby, and I also packed up (we were all told to take leftover food, of which there was plenty) and went home.
