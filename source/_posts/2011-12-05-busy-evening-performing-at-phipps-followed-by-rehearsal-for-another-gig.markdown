@@ -47,3 +47,6 @@ I'm excited to have played recorder at Phipps, and I'm excited about the prospec
 
 Half a year later, I did [start playing music regularly for dancers](/blog/2012/05/14/playing-french-music-for-first-time-and-dancing-blues-for-first-time/).
 
+### (Update of 2012-12-09)
+
+[A report on performing again at Phipps the following year, 2012](/blog/2012/12/09/playing-music-on-recorders-at-a-phipps-conservatory-candlelight-evening/).

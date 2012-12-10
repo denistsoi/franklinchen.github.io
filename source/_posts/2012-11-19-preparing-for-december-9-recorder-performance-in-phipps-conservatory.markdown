@@ -51,6 +51,10 @@ A year later, I'm far better a recorder player and musician. There's no comparis
 
 This year, Sam will join us also in performance, making six of us total. He'll play not only recorder, but also bells and tambourines. This is going to be fun!
 
+### (Update of 2012-12-09)
+
+It quickly turned out that we were only five, because Karen was not going to be available.
+
 ## Anxiety
 
 After a year of playing a lot of music, both in private and in public, my anxiety has decreased considerably, and each time I perform in public, in particular, I become less self-conscious. What I've learned is to let go of my ego, and remember that I am playing so that people will enjoy the music: this is not about me, not about my mistakes, not about my brilliance, not about any of that stuff at all. It's about conveying emotion and beauty, however imperfectly, and people sense that and respond to that. With this attitude, the only thing that can truly go wrong is *failing to connect to the audience*.
@@ -62,3 +66,7 @@ Overall, I'm *orders of magnitude* less *shy* now as a musician, and more genera
 I look forward to playing again for a Phipps Conservatory "candlelight evening". We have a lot of interesting new selections to play, with almost none of it being standard overdone Christmas carols.
 
 If you're in Pittsburgh on Sunday, December 9, consider stopping by for a candlelit evening in Phipps Conservatory and hearing us play!
+
+### (Update of 2012-12-09)
+
+[A report on the performance](/blog/2012/12/09/playing-music-on-recorders-at-a-phipps-conservatory-candlelight-evening/).
