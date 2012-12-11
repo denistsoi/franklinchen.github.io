@@ -78,6 +78,12 @@ Vesko Eschkenazy:
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/kP6Vgm4k4xc" frameborder="0" allowfullscreen></iframe>
 
+### Voice
+
+Wow. Wow. Milva singing French lyrics, Piazzolla himself on bandoneón!
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/lzC1kKZGxBg" frameborder="0" allowfullscreen></iframe>
+
 ### Tango dancers
 
 Finally, here are Daniela Pucci and Luis Bianchi dancing to the piece:
