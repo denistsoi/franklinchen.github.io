@@ -9,7 +9,7 @@ categories:
 - Pittsburgh
 - Pittsburgh Chess Club
 ---
-After round 3 last week of the current Pittsburgh Chess Club Tuesday night tournament, I noted that I was going to face a difficult opponent in round 4.
+After [round 3 last week](/blog/2012/11/27/round-3-of-pittsburgh-chess-club-tournament-the-difficult-opponent-and-revenge-of-the-bishop/) of the current Pittsburgh Chess Club Tuesday night tournament, I noted that I was going to face a difficult opponent in round 4.
 
 Well, I **lost** my game against him tonight, after four hours of play (we were the last game to finish):
 
