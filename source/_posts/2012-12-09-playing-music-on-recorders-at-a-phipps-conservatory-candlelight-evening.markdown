@@ -11,6 +11,8 @@ categories:
 - Pittsburgh
 - Phipps Conservatory
 ---
+{% img /images/recorders-at-phipps-2012/group-photo.jpg Sam, Franklin, Annie, Helen, Mike %}
+
 {% img /images/recorders-at-phipps-2012/phipps-outside.jpg Entrance to Phipps %}
 
 After almost two months of weekly music rehearsals, we (Annie, Helen, Mike, Sam, and I) finally performed as planned in [Phipps Conservatory](http://www.facebook.com/events/136074939878556/). It was a lot of fun. We came up with a huge batch of music that we hadn't played [at Phipps last year](/blog/2011/12/05/busy-evening-performing-at-phipps-followed-by-rehearsal-for-another-gig/).
