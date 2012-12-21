@@ -35,6 +35,7 @@ module HighlightCode
     lang = 'perl' if lang == 'pl'
     lang = 'yaml' if lang == 'yml'
     lang = 'coffeescript' if lang == 'coffee'
+    lang = 'csharp' if lang == 'cs'
     lang = 'plain' if lang == '' or lang.nil? or !lang
 
     caption = options[:caption]   || nil
@@ -66,7 +67,7 @@ module HighlightCode
 
   def captionize (caption, url, anchor)
     figcaption  = "<figcaption><span>#{caption}</span>"
-    figcaption += "<a href='#{url}' title='Download code'> #{anchor || 'link'}</a>" if url
+    figcaption += "<a href='#{url}'>#{anchor.strip || 'link'}</a>" if url
     figcaption += "</figcaption>"
   end
 
