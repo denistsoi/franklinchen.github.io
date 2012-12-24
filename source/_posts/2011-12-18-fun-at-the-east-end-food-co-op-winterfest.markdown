@@ -72,3 +72,7 @@ It was getting to be bedtime for Julia, so Mark and Jin prepared to go home, and
 With filling our bellies, hearing a variety of music on different instruments and, dancing, hanging out with friends, people-watching, it was a fun evening.
 
 I am grateful to the East End Food Co-op for organizing this annual event and providing the food, and the Jewish Community Center for hosting its location again. I am grateful that Mark, Jin, Julia, and John were able to join Abby and me for the evening. I am grateful for the opportunity to listen to excellent live music and dance to it.
+
+### (Update of 2012-15-15)
+
+The following year, we attended the annual Winterfest [again](/blog/2012/12/15/east-end-food-co-op-winterfest-2012/).

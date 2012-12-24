@@ -98,3 +98,7 @@ I would like to thank Lynette, Donna, Allison, and Maro for all they've done for
 I would like to thank the dancers for enjoying and showing appreciation for our playing for them.
 
 And of course, I would like to thank my wife Abby for encouraging me to join her in playing for the Holiday Ball!
+
+## (Update of 2012-12-14)
+
+The following year, I [played music again in the annual Holiday Ball](/blog/2012/12/14/pittsburgh-contras-and-squares-holiday-ball-2012/).
