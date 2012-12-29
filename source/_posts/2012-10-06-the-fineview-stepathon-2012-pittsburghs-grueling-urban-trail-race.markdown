@@ -12,6 +12,7 @@ categories:
 - FiveFingers
 - Pittsburgh Step Trek
 - Run Shadyside
+- Cathedral of Learning
 ---
 {% img http://thenorthsidechronicle.com/UserFiles/Image/stepathon.jpg Stepathon steps %}
 

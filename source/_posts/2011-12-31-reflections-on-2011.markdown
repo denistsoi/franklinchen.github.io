@@ -27,6 +27,7 @@ categories:
 - yoga
 - Squirrel Hill Library
 - Rachel Carson Trail
+- Rachel Carson Trail Challenge
 - FiveFingers
 - barefoot running
 - salsa dancing

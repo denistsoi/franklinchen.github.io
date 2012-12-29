@@ -13,6 +13,7 @@ categories:
 - Pretty Good Race
 - running
 - Phipps Conservatory
+- Cathedral of Learning
 ---
 Two months ago, I [spent a whole week](/blog/2012/04/16/one-week-of-commuting-on-foot-because-of-cmu-carnival/) commuting to work at [Carnegie Mellon University](http://www.cmu.edu/) by walking instead of driving, because of the annoyances of parking during Carnival week.
 
