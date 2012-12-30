@@ -82,7 +82,7 @@ I was pleased that at the rhythm and pace I had chosen, I was going up pretty we
 
 {% img /images/cathedral-of-learning-steps/floor-31.jpg Floor 31 %}
 
-Right after the 31st floor, I was amused to see some posters people had put up for the annual [Fight for Air Climb](http://www.lung.org/pledge-events/pa/pittsburgh-climb/). I've never done this event, actually. I have to confess that an indoor stair climb is not the most exciting thing in the world for me, and I do the Cathedral of Learning climb mainly when the weather outside is not as good as I like.
+Right after the 31st floor, I was amused to see some posters people had put up for the annual [Fight for Air Climb](http://www.lung.org/pledge-events/pa/pittsburgh-climb-fy13/). I've never done this event, actually. I have to confess that an indoor stair climb is not the most exciting thing in the world for me, and I do the Cathedral of Learning climb mainly when the weather outside is not as good as I like.
 
 {% img /images/cathedral-of-learning-steps/fight-for-air-climb.jpg Posters for Fight for Air Climb %}
 
