@@ -1,0 +1,9 @@
+/* TEAM */
+Me: Franklin Chen
+Site: franklinchen.com
+Twitter: @FranklinChen
+Location: Pittsburgh, USA
+
+/* SITE */
+Language: English
+Software: Octopress, Ruby, Emacs, Git
