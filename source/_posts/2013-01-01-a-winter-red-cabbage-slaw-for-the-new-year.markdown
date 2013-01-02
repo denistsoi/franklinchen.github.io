@@ -21,7 +21,7 @@ For a party, I used what was at hand at home to make something to share. I decid
 ## Recipe for red cabbage slaw
 
 - 1/2 red cabbage, sliced thin
-- 2 golden delicious apples, peeled and sliced thin
+- 2 [Gold Rush](http://www.orangepippin.com/apples/goldrush) apples, peeled and sliced thin
 - 4 carrots, grated
 - 1 [long beet](http://www.organicgardeninfo.com/growing-cylindra-beets.html), grated
 - 1/2 red onion, sliced thin
@@ -54,3 +54,9 @@ I chose some nuts that seemed to make sense. Other nuts could be used also, or l
 I could see dried cranberries being used instead of raisins.
 
 Other substitutions are easy to imagine also; in fact, my recipe involved substitutions for ingredients in recipes I found online.
+
+## Thanks
+
+The red cabbage, Gold Rush apples, carrots, long beet happen to have come from our [winter box subscription from Kretschmann Farm](http://www.kretschmannfarm.com/Winter%20Boxes/Winter%20boxes.htm). Abby and I are really happy that they offer a winter box subscription as well as the regular season subscription, so that we can continue to get quality organic, local produce all year long.
+
+Having a subscription not only allows us to eat seasonally, but also explore foods we may not necessarily have eaten much of or even seen before. For example, I like these long beets and Gold Rush apples.
