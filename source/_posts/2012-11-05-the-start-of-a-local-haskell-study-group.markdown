@@ -9,6 +9,7 @@ categories:
 - Haskell
 - Pittsburgh
 - functional programming
+- Scala
 ---
 {% img http://www.haskell.org/wikiupload/4/4a/HaskellLogoStyPreview-1.png Haskell logo %}
 

@@ -8,6 +8,7 @@ categories:
 - Java
 - PittJUG
 - Open Spaces
+- Scala
 ---
 Yesterday evening, the [Pittsburgh Java Users Group](http://java.net/projects/pittjug/)(PittJUG) for the first time adopted an Open Spaces format. The basic idea is that instead of having someone give an hour-long presentation on something, everyone gets involved in choosing topics of discussion and we all break up into small groups to sit in a circle and chat ([more details](https://docs.google.com/document/d/1Yufdr8zGBCWawsuEfKXXkM6ddcHnuhywzGw1lJ0u5TE/edit)).
 

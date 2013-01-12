@@ -9,6 +9,7 @@ categories:
 - databases
 - Stanford University
 - Carnegie Mellon University
+- MOOC
 ---
 In October 2011, Stanford University broke new ground by offering three free online computer science courses:
 

@@ -11,7 +11,10 @@ categories:
 - CLU
 - Java
 - Lisp
+- Scala
 ---
+*(Important update added to the end of this post.)*
+
 {% img /images/liskov/power-of-abstraction.jpg Barbara Liskov accepting Katayanagi Prize at CMU %}
 
 [Today at CMU](http://events.web.cmu.edu/ecal/event/131972213534041859), I finally had the opportunity to see a living legend, [Barbara Liskov](http://en.wikipedia.org/wiki/Barbara_Liskov), computer science professor at MIT and winner of the [Turing Award](http://en.wikipedia.org/wiki/Turing_Award) in 2008. She won it largely for her invention of the [abstract data type](http://en.wikipedia.org/wiki/Abstract_data_type), a concept that is so foundational in modern software development that a programmer ignorant of history is likely to react, "What, she got a Turing Award for something so obvious?"
@@ -74,3 +77,7 @@ Sometimes I wonder whether continual reinvention could be minimized, by more sha
 Of course, the question might be moot, because it is always possible that human beings will simply make radically different choices, even when they are fully aware of all the ideas that are around at any given time.
 
 What's the next step? What will we using doing twenty years from now that is currently already brewing in a university or other research lab *right now*? From my point of view, the most interesting work being done right now is that focused on going beyond the currently most powerful statically typed languages (such as ML, Haskell, Scala) to [dependently typed languages](http://en.wikipedia.org/wiki/Dependent_type).
+
+## (Update)
+
+I have been told that it is misleading to describe Liskov as "the inventor of the abstract data type". I admit this was a terrible title for my talk report. The content of my report should make it clear that I was baffled by Liskov's omission of entire lines of research from the 1970s that address data abstraction, whether through ML or John Reynolds' work. See [Bob Harper's Disqus comment here](http://franklinchen.com/blog/2011/11/10/seeing-the-inventor-of-the-abstract-data-type/#comment-361232515) for his own elaborations.

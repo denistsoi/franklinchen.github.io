@@ -10,6 +10,7 @@ categories:
 - Stanford University
 - Carnegie Mellon University
 - Octave
+- MOOC
 ---
 Yesterday I wrote about my experience with completing, in fall 2011, the free online Stanford course [Introduction to Databases](/blog/2012/01/11/experiment-in-learning-completing-stanford-online-course-introduction-to-databases/). Today I am writing about my experience with completing [Machine Learning](http://www.ml-class.org/).
 
