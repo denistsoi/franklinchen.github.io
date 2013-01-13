@@ -6,6 +6,7 @@ comments: true
 categories:
 - music
 - singing
+- memory
 ---
 Periodically through my life, I have secretly wanted to **sing**. By that, I mean, *really* sing, as in not holding back, and doing it in the presence of other people, and longer than just a few seconds.
 

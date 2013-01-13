@@ -17,6 +17,7 @@ categories:
 - Carnegie Mellon University
 - recorder
 - improvisation
+- memory
 ---
 Yesterday, after four days of [not even touching my (modern) flute](/blog/2012/03/07/flute-taking-a-break-while-clarifying-my-goals) and having spent the time having fun with my Baroque flute instead, I felt the urge to return to the modern flute.
 

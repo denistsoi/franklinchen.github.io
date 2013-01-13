@@ -11,6 +11,7 @@ categories:
 - science
 - International Physics Olympiad
 - East Germany
+- memory
 ---
 {% img http://s3.amazonaws.com/ksr/projects/39714/photo-full.jpg?1309271700 Say no to pi %}
 
