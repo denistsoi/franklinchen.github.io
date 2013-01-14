@@ -62,8 +62,8 @@ task :generate, :no_future do |t, args|
   system "compass compile --css-dir #{source_dir}/stylesheets"
   Rake::Task['minify_and_combine'].execute
   system "jekyll --no-server --no-auto #{'--no-future' if future.nil?}"
-  unpublished = get_unpublished(Dir.glob("#{source_dir}/#{posts_dir}/*.*"), {no_future: future.nil?, message: "\nThese posts were not generated:"})
-  puts unpublished unless unpublished.empty?
+#  unpublished = get_unpublished(Dir.glob("#{source_dir}/#{posts_dir}/*.*"), {no_future: future.nil?, message: "\nThese posts were not generated:"})
+#  puts unpublished unless unpublished.empty?
 end
 
 Rake::Minify.new(:minify_and_combine) do
