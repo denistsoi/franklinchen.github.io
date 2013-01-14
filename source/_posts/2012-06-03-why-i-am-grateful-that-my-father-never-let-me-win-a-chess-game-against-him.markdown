@@ -6,6 +6,8 @@ comments: true
 categories:
 - chess
 - learning
+- father
+- childhood
 ---
 I've been writing a lot recent about life lessons learned from playing chess as a kid. Here are some life lessons I learned as a result of the fact that **my father never let me win a chess game against him**. Based on what I have seen adults doing with children, I somewhat suspect this is unusual. I get the impression that parents like to let their children "win" at something, presumably for the purpose of giving them a "self-esteem" boost.
 

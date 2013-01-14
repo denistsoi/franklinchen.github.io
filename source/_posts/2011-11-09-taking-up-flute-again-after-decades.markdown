@@ -10,6 +10,8 @@ categories:
 - band
 - practice
 - trumpet
+- father
+- childhood
 ---
 {% img /images/franklins-flute.jpg Franklin's flute %}
 

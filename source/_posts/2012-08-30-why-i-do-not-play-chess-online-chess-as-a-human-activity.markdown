@@ -7,6 +7,8 @@ categories:
 - chess
 - Pittsburgh Chess Club
 - Pittsburgh
+- father
+- childhood
 ---
 I found out, while reading the magazine ["Chess Life"](http://en.wikipedia.org/wiki/Chess_Life), to which I am subscribed to as a [member of the United States Chess Federation](/blog/2012/08/21/returning-to-chess/) (USCF), that there are apparently plans to offer [online chess play](http://uschess.org/onlineplay/).
 

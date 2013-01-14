@@ -8,6 +8,8 @@ categories:
 - family
 - ping pong
 - Uncle Steve
+- father
+- childhood
 ---
 Today I got a call from my mother informing me that my Uncle Steve, husband of my mother's sister Aunt Soo-kin, died yesterday. He had been sick for quite some time, and last year, in the hospital for something else, they found cancer in addition, so it was a very tough battle for him, and he was always a fighter.
 

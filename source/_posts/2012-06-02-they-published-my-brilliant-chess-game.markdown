@@ -9,6 +9,7 @@ categories:
 - originality
 - learning
 - Sicilian Defense
+- father
 ---
 The past couple of days, I have been writing about what I learned through playing chess as a kid. I continue today by discussion a game I played right before retiring from chess at age fifteen. This game came to my mind when I was writing about the [chess computer game I played at age seven](/blog/2012/05/30/life-lessons-i-learned-from-a-lunch-recess-chess-game-at-age-seven/), because I played against the [Accelerated Dragon of the Sicilian Defense](http://en.wikipedia.org/wiki/Sicilian_Defence,_Accelerated_Dragon) in that game, and in my retirement tournament I also played a game against that opening.
 

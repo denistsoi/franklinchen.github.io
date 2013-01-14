@@ -6,6 +6,8 @@ comments: true
 categories: 
 - chess
 - school
+- father
+- childhood
 ---
 Two days ago, I wrote about [life lessons I learned from playing a chess game against a computer in the 2nd grade during lunch recess](/blog/2012/05/30/life-lessons-i-learned-from-a-lunch-recess-chess-game-at-age-seven/).
 

@@ -7,6 +7,7 @@ categories:
 - chess
 - computers
 - school
+- father
 ---
 {% img /images/franklin-second-grade.jpg Franklin Chen 2nd grade school photo %}
 
