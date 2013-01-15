@@ -70,7 +70,7 @@ The most critical position occurred when Black made a blunder resulting in the K
 
 {% img /chess/wallnau-dean-2012-12-18_files/diag3FED45E315D4858F.gif White wins %}
 
-But then Kurt missed the instant win from `exd6` followed by `Rxed6 and then `f5`:
+But then Kurt missed the instant win from `exd6` followed by `Rxed6` and then `f5`:
 
 {% img /chess/wallnau-dean-2012-12-18_files/diag3FED45E4655FDE1E.gif White wins material %}
 
