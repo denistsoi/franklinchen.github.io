@@ -1,0 +1,112 @@
+[White "Chen Franklin"]
+[Black "Kostyak Michael"]
+[WhiteElo "2126"]
+[BlackElo "1733"]
+[Result "1-0"]
+[Date "2013.01.15"]
+[Event "73rd Pittsburgh Chess Club Championship"]
+[Site "Pittsburgh (USA)"]
+[Round "1.6"]
+[ECO "E32"]
+[Annotator "Chen Franklin"]
+[Source ""]
+[Remark ""]
+
+1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 4.Qc2 O-O 5.a3 Bxc3+ 6.Qxc3 Ne4 7.Qc2
+f5 {%08DA} 8.e3 {OK, but not the most aggressive.}
+( 8.Nh3 {The most common reply, but I decided to play a less common plan, to put my Knight eventually on e2 instead of h3.}
+{%08DA} ) b6 9.f3 {??} {I got my move order mixed up and played this blunder!}
+Nf6 {?} {Missing the strongest continuation.} ( 9...Qh4+ 10.g3
+Nxg3 11.Qf2 f4 {White has a poor position.} {%08DA} ) 10.Bd3
+Bb7 {We've now transposed into the position I was looking for.}
+{%08DA} 11.Ne2 ( 11.Nh3 {The aggressive placement of the Knight was still possible here.}
+) d6 12.O-O Nbd7 13.b4 {
+White has an advantage because of more space and because of the two Bishops.
+This is the thematic position I was aiming for and expected when I played e3 several moves ago.}
+{%08DA} c5 {?!} {Very committal. I think as Black I would aim for e5 rather than for c5.}
+14.Bb2 {Not bad, but stereotypical, and potentially weakening the e3 Pawn, which is now unprototected.}
+{%09DB} ( 14.bxc5 {White should have started opening up the position at this point.}
+{%08DA} bxc5 15.Rb1 {White has considerable advantage because of play on the Queen side as well as possibly against Black's weak e6 Pawn.}
+{%08DA} ) Rc8 {%08DA} 15.Ng3 {?} {
+Losing the thread. The Knight is not actually active here. At this point, it is
+no longer clear that White has any advantage any more.}
+( 15.Qb3 {Getting out of any pin on the c file was sensible.} )
+g6 {?!} {Trying to aim for e5. I expected this move.}
+( 15...d5 {A central break was best, and probably equalizes.}
+{%08DA} ) 16.dxc5 {!} {White continues as planned, opening the way for the dark-squared Bishop; note that Black does not have one.}
+{%08DA} dxc5 ( 16...bxc5 17.b5 {Thematic play on the Queen side favors White.}
+{%08DA} ) 17.Rae1 {?!} {A passive move with no real purpose other than to "protect" the e3 Pawn. But it needed no protection.}
+( 17.b5 {I knew this was the thematic plan in these positions, but for some reason I decided on a silly move instead.}
+{%08DA} ) cxb4 ( 17...b5 {Thematic break when there are tactics on the c file.}
+{%08DA} 18.Qe2 {White is still good.} ) 18.axb4 Qe7 {White has a very strong position.}
+( 18...b5 {Thematic but White still retains an advantage.} {%08DA}
+19.Qe2 bxc4 20.Bxc4 ) 19.Qa4 {?} {Missing a clever tactic.}
+( 19.Ra1 {Wasting the two tempos by moving the Rook back was actually strongest.}
+{%08DA} a6 20.Qd2 e5 21.Rfd1 {
+Black managed to get in e5 but White still has a dominating position because of
+the strength of the two Bishops. White even has sacrificial tactics involving a possible Bxf5.}
+{%08DA} ) a5 {!} {
+Very nice! At this point I realized that all the work into having a great
+position was lost, because now Black was going to activate a Knight onto c5.}
+{%08DA} 20.bxa5 Nc5 {%08DA} 21.Ba3 {?!} {I chose an unexpected but bad continuation in order to try to keep things complicated.}
+( 21.Qa3 {The natural move. White still retains a bit of advantage, but not much.}
+{%08DA} ) bxa5 {?} {Unexpectedly deciding to just lose the Pawn.}
+( 21...Qd8 {Getting the Queen out of the pin immediately equalizes.}
+{%08DA} 22.Bxc5 Rxc5 {With White having lost the two-Bishop advantage, the position is completely equal.}
+{%08DA} ) 22.Qxa5 {
+White is a Pawn up now. Black does have a bit of compensation because White's
+pieces are not well-placed, but there was no reason for Black to give up the Pawn.}
+{%08DA} Qd6 {?} ( 22...Nfd7 ) 23.Be2 {Playable but passive. I had decided to avoid any tactical trickery and just protect the Bishop before doing anything further.}
+( 23.Rb1 {I was originally going to play this. Active play by White would have been very strong.}
+{%08DA} ) Qe5 {%08DA} 24.Bd1 {?!} {Unfortunately, I got into a mode in which I became even more passive for no good reason at all.}
+( 24.Qd2 {Bringing the Queen back to protect the e3 Pawn retained the advantage.}
+{%08DA} ) Rfd8 {%03?} ( 24...Rf7 {Getting out of the pin offered the best chance of trying to equalize.}
+) 25.f4 {?} {
+Very committal and not necessary, but in the past few moves, I had not been
+playing actively and had entered a strange mental state.} {%09DB}
+( 25.Re2 {White has a huge advantage, having protected everything just fine.}
+{%08DA} ) Qc7 {?} {Offering a trade of Queens, incorrectly.}
+( 25...Qd6 {Keeping the active Queen on the board was best.} )
+26.Qxc7 {I was extremely happy to get rid of Black's active Queen. Now it was time to find a way to swindle a win out of the endgame.}
+Rxc7 27.Be2 {
+An important position. What should Black do to secure a draw? White has
+passively placed pieces but does have an extra Pawn and the Bishop pair.}
+{%08DA} Nce4 {%08DA} 28.Rd1 {!?} {With a fiendish idea.}
+( 28.Nxe4 Nxe4 29.Rd1 {This may have been best, but looked like a draw.}
+{%08DA} ) Ra8 29.Bb2 {?!?} {Objectively, the position is now completely equal, but I had a swindling idea.}
+{%08DA} Nxg3 {OK, but what I wanted to encourage by not exchanging on e4 earlier.}
+( 29...Ra2 30.Nxe4 Bxe4 {This is clearly a draw.} {%08DA} ) 30.hxg3
+{%08DA} Ne4 {?} {Greedily trying to win the g3 Pawn.}
+( 30...Ra2 {Activating the Rook should have given Black equality.}
+{%08DA} ) 31.Be5 Re7 {White has made some progress, by establishing a strong dark squared Bishop and forcing one of Black's Rooks into passivity.}
+{%08DA} 32.Bf3 {!?} {
+The other part of the swindle, which is to actually sacrifice the g3 Pawn in an
+attempt at better activity. Objectively this should not work, but I felt that I needed to generate winning chances.}
+( 32.Kh2 Ra2 33.Rfe1 {It's still hard for White to make progress.}
+{%08DA} ) Nxg3 33.Rf2 Ne4 34.Rb2 {At the cost of returning a Pawn, White has a comfortable position.}
+{%08DA} Nc5 {?} {
+Falling into a trap White set when sacrificing the g3 Pawn! Black suddenly
+groaned upon making this move, but the trap is not what it might seem at first.}
+( 34...Rc8 35.Rdb1 Bc6 {%08DA} 36.Rb8 Ree8 37.R8b6 {Black may be able to hold, but White has serious pressure.}
+{%08DA} ) 35.Bxb7 ( 35.Bd6 {?} {This fork does not actually work, because Black has in-between moves to save the day.}
+{%08DA} Bxf3 36.gxf3 Rd7 {Black is OK. Draw.} {%08DA} ) Nxb7
+{??} {The bad recapture.} ( 35...Rxb7 36.Rxb7 Nxb7 37.Rd7 Nc5
+38.Rg7+ Kf8 39.Rxh7 {White has regained a Pawn advantage. Objectively this is not enough to win, but White cannot lose.}
+{%08DA} ) 36.Rdb1 Nc5 {%08DA} 37.Rb8+ {??} {I completely messed up the move order for the big win.}
+( 37.Bd6 {The fork wins immediately.} {%08DA} ) Rxb8 {?}
+( 37...Re8 {It's crazy, but I missed this, and so did my opponent.} )
+38.Rxb8+ Kf7 {At this point, I suddenly realized that the fork was not going to work as planned.}
+{%08DA} 39.Rh8 {The best try is to go for the King side Pawns.}
+( 39.Bd6 {?} {%08DA} Rb7 {Black survives with a dead drawn position.}
+{%08DA} ) h5 {??} {Saving the h7 Pawn at the cost of the game.}
+( 39...Ne4 {??} {After the game, some spectators suggested this move, but it actually loses.}
+40.c5 {!} {White will Queen the Pawn unless Black loses material to stop it.}
+{%08DA} Nxc5 41.Bd6 {The fork.} ) ( 39...Rb7 {The best try is to give up the h7 Pawn but avoid losing a piece.}
+{%08DA} 40.Kh2 {This endgame may well be drawn, but I think Black's task is not so easy.}
+) 40.Bd6 {The fork now works again.} {%08DA} Ne4 41.Rh7+ {It's all over.}
+{%08DA} {In this game, I made a move order error in the opening, but then transposed
+back into a very nice middlegame for White. But then at one point I became
+passive and lost all my advantage. Luckily, Black lost a Pawn for no good
+reason and this allowed me to maintain pressure and play at no risk of losing,
+and then I came up with a sneaky swindling idea to sacrifice a Pawn for complications and activity, and it happened to work.} 1-0
+
