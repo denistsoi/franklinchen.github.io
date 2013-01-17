@@ -109,7 +109,7 @@ Black immediately blundered horribly, and we reached this position, which is win
 
 {% img /chess/chen-kostyak-2013-01-15_files/diag3FA333BE3BC0C833.gif White winning %}
 
-I got confused and made an error here which should have allowed a draw again, but Mike did not see the error, and we reached a different critical position:
+Unfortunately, I was in a state of annoyance at this point, because in his previous move, `Nxb7`, the losing move before `Nc5`, Mike had *offered a draw*!! That distracted me, I got confused, played quickly, and made an elementary error here, `Rb8+`, which should have allowed a draw again, but Mike did not see the error, and we reached a different critical position:
 
 {% img /chess/chen-kostyak-2013-01-15_files/diag3FA333CB700D27DF.gif White might win %}
 
@@ -134,6 +134,7 @@ The final position of our game:
 - When your opponent's position is passive, do not relieve the pressure by offering piece trades unnecessarily.
 - A stronger player has more to gain by entering into an advantageous (even if objectively drawable) ending.
 - Sometimes it makes sense to try a swindle, if the risk is low and psychology begs for it.
+- Do not be startled and annoyed by an opponent's offer of a draw breaking the silence after over three hours.
 - Do not get overexcited when seeing a win. Double check before moving.
 
 ## What next?
