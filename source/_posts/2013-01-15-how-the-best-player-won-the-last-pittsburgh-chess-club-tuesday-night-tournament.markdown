@@ -12,7 +12,7 @@ categories:
 ---
 {% img /chess/wallnau-dean-2012-12-18_files/diag3FED460061DDF9D4.gif Final position in scores %}
 
-One month ago, I reported on my [sixth and final game in a Pittsburgh Chess Club Tuesday night tournament](/blog/2012/12/18/round-6-of-pittsburgh-chess-club-tournament-playing-pragmatically/). A lot of things came up after the end of that tournament that led me to not finish this report on how the critical final game went between my two opponents, Kurt and Ed, who had won their games against me in the [fifth](/blog/2012/12/11/round-5-of-pittsburgh-chess-club-tournament-psychology-of-losing-another-won-game/) and [fourth](/blog/2012/12/04/round-4-of-pittsburgh-chess-club-tournament-the-agony-of-losing-a-won-game-against-the-difficult-opponent/) rounds, respectively.
+One month ago, I reported on my [sixth and final game in a Pittsburgh Chess Club Tuesday night tournament](/blog/2012/12/18/round-6-of-pittsburgh-chess-club-tournament-playing-pragmatically/). A lot of things came up after the end of that tournament that led me to not finish this report on how the critical final game went between my two opponents, Kurt Wallnau and Ed Dean, who had won their games against me in the [fifth](/blog/2012/12/11/round-5-of-pittsburgh-chess-club-tournament-psychology-of-losing-another-won-game/) and [fourth](/blog/2012/12/04/round-4-of-pittsburgh-chess-club-tournament-the-agony-of-losing-a-won-game-against-the-difficult-opponent/) rounds, respectively.
 
 Here's my report on who won and on practical psychology and style in chess, and of course, what the definition of "best chess player" should be.
 
@@ -25,6 +25,10 @@ At your convenience, you can [enjoy playing over the game Wallnau-Dean with my a
 Also, it was not until after this tournament that I learned from Ed that he has also been writing a chess blog all this time!! Check out [his blog](http://www.unwantedcapture.org/) and [his own comments about the critical sixth round game](http://www.unwantedcapture.org/2012/12/22/pcc-smith-memorial-round-6/). You might find it interesting to compare our independent analyses of the game, as I did my analysis before learning of his own.
 
 ## Overview of Wallnau-Dean
+
+### The stakes (update of 2013-01-17)
+
+I should note that since Ed entered the final round with a perfect score of 5 points out of 5, but Kurt entered it with 4.5, Kurt had to win, not draw his game, in order to get first place. So he was under pressure to play for a win at all costs if he was going to have a chance at winning the tournament; Ed needed only a draw to win.
 
 ### The opening
 
