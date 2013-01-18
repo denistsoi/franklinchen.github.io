@@ -33,3 +33,6 @@ Also, for traction, I might want to try running in my KSO Trek, although I have 
 
 Even so, it is possible that I will end up investigating a mono-toed minimalist shoe to keep my toes warm. I still don't own a pair, although I have tried on some New Balance Minimus and Merrell Glove models. I did not like the feel of any of them, although I have not yet encountered the newer [New Balance Minimus Zero](http://barefootrunninguniversity.com/2011/12/06/new-balance-minimus-zero-road-review/) [shoes](http://www.irunfar.com/2011/12/new-balance-minimus-trail-zero-and-road-zero-review.html) (to come out in February 2012) that might work better for me than the original Minimus line.
 
+## (Update of 2013-01-17)
+
+[A year later](/blog/2013/01/17/winter-running-in-vibram-fivefingers-shoes-revisited/), I reported on restarting winter running in FiveFingers under milder conditions (so far).
