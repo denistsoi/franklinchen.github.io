@@ -15,6 +15,7 @@ categories:
 - shoes
 - FiveFingers
 - Invisible Shoes
+- Xero Shoes
 - Carnegie Mellon University
 - Vonda Wright
 ---

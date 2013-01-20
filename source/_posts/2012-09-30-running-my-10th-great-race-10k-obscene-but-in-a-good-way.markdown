@@ -9,6 +9,7 @@ categories:
 - races
 - Great Race
 - Invisible Shoes
+- Xero Shoes
 - FiveFingers
 ---
 {% img /images/great-race-2012/great-race-expo.jpg Great Race quilt %}
