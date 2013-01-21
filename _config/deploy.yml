@@ -1,0 +1,7 @@
+---
+# -------------------------- #
+#   User Deployment Config   #
+# -------------------------- #
+
+#deploy_default: rsync
+deploy_default: push
