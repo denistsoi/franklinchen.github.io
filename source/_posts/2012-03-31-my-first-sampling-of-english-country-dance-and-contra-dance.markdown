@@ -29,3 +29,9 @@ I'm currently planning to attend in July the annual [Mideast early music worksho
 ## Conclusion
 
 Sampler lessons like the one at the birthday party today are nice for exposing a total beginner to something new, as an appetizer toward deeper learning, but as I learned in the past, real learning requires sustained and detailed work on basics, with incremental mastery resulting from repetition.
+
+### (Update of 2013-01-23)
+
+It turns out that I did attend the English country dance at the Mideast early music workshop in July 2012.
+
+Also, Abby and I went to [our first contra dance workshop](/blog/2012/10/07/my-first-contra-dance-workshop-unexpected-fun/) in October 2012!
