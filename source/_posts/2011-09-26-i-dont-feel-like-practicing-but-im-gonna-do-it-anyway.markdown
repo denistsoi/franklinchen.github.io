@@ -9,6 +9,7 @@ categories:
 - recorder
 - inspirational
 - Pittsburgh
+- sick
 ---
 This morning I felt pretty tired, still recovering from yesterday's [race](/blog/2011/09/25/blistered-but-blissful-in-the-burgh/), so the thought crossed my mind, "Maybe I should take a little break, and skip recorder practice today". Also, I hadn't improved as much during the past week as I had planned and felt frustrated.
 

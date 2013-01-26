@@ -8,6 +8,7 @@ categories:
 - running
 - races
 - Carnegie Mellon University
+- sick
 ---
 One thing interesting about having been writing in my blog for [just over a year now](/blog/2012/09/22/celebrating-this-blogs-one-year-anniversary/) is the opportunity to look back one year and compare where I was then with where I am now when it comes to seasonal activities and goals.
 
