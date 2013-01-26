@@ -10,6 +10,7 @@ categories:
 - Pittsburgh Chess Club
 - psychology
 - Nimzo-Indian Defense
+- sick
 ---
 {% img /chess/chen-schreiber-2012-12-18_files/diag3FEF9E5EB4A16CC5.gif Black Ne4 sacrifice %}
 

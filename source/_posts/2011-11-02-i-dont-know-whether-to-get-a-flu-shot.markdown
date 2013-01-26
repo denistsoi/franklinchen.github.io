@@ -8,6 +8,7 @@ categories:
 - science
 - experts
 - Carnegie Mellon University
+- sick
 ---
 Every fall I am bombarded by reminders to get a flu shot. The reminders come from where I work, as well as from my health insurance provider. I never know whether I should really get one.
 

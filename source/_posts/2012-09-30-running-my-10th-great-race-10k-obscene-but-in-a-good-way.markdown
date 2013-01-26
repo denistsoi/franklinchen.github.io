@@ -11,6 +11,7 @@ categories:
 - Invisible Shoes
 - Xero Shoes
 - FiveFingers
+- sick
 ---
 {% img /images/great-race-2012/great-race-expo.jpg Great Race quilt %}
 
