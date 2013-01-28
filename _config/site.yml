@@ -16,6 +16,12 @@ category_feeds: true
 # RSS feeds can list your email address if you like
 email: franklinchen@franklinchen.com
 
+# To change the layout's default sidebar Add a new sidebar source/_includes/sidebars/your_sidebar.html
+# then make changes below, eg. post_sidebar: your_sidebar.html
+blog_index_sidebar: blog_index.html
+page_sidebar: page.html
+post_sidebar: post.html
+
 # ----------------------- #
 #    Jekyll & Plugins     #
 # ----------------------- #
