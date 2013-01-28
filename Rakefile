@@ -297,8 +297,6 @@ end
 
 desc "deploy public directory to github pages"
 multitask :push do
-# TODO force
-  configuration[:deploy_branch] = 'master'
   if File.directory?(configuration[:deploy_dir])
     puts "## Deploying branch to GitHub Pages "
     (Dir["#{configuration[:deploy_dir]}/*"]).each { |f| rm_rf(f) }
@@ -436,8 +434,6 @@ task :setup_github_pages, :repo do |t, args|
   has_cname = File.exists?("#{configuration[:source]}/CNAME")
   if has_cname
     cname = IO.read("#{configuration[:source]}/CNAME").chomp
-# TODO manually put in; have no idea where it was supposed to come from
-    current_url = "http://franklinchen.com"
     current_short_url = /\/{2}(.*$)/.match(current_url)[1]
     if cname != current_short_url
       puts "!! WARNING: Your CNAME points to #{cname} but your _config.yml url is set to #{current_short_url} !!"
