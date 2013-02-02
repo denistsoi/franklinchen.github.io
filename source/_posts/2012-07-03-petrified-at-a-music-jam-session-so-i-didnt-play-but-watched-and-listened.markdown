@@ -48,3 +48,11 @@ I stayed around inside soaking in what was going on, and thought, I could see my
 I was really excited to meet more musicians and widen my musical experience at the potluck/jam session. I felt pretty inspired by what I saw going on, music as a really communal, creative experience.
 
 Noticing the huge gap between what these musicians were able to do and what I am able to do, I know that it takes a long time to get where they are, but I want to have that kind of everyday facility.
+
+### (Update of 2012-07-07)
+
+Four days later, we went to another potluck/jam session, and [I played a little bit](/blog/2012/07/07/another-terrifying-music-jam-session-but-i-played-a-little-bit-of-blues-and-old-time/).
+
+### (Update of 2013-01-28)
+
+Seven months later, I participated in [my first blues jam](/blog/2013/01/28/my-first-blues-music-jam-happened-after-the-regular-french-music-jam/). The pianist there, Anders, was the same one I first saw here.

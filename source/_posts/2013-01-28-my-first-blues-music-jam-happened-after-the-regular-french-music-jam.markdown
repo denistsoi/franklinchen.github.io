@@ -9,6 +9,7 @@ categories:
 - improvisation
 - Irish flute
 - flute
+- French dance
 - blues
 ---
 It's been over two months since the last French music jam, which was in November. I didn't write about it because there was nothing particularly remarkable about it compared to the whole past year of French music jams: there was Lisa, John, Allison, a new fiddler Liz, and Leslie joining us on banjo again.

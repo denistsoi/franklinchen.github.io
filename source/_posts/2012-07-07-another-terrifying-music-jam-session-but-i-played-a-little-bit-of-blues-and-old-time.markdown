@@ -47,3 +47,7 @@ What I remember mainly is when Mimi started some blues and at some point I came 
 ## Conclusion
 
 Attending this potluck/jam session was an immensely exciting experience for me. I feel like I am truly expanding my musical world, and getting inspired. I too would like to be singing my favorite Latin songs. And I really like blues improvisation. I will start doing these things eventually; they are no longer just remote possibilities, but what I have seen people doing in front of my own eyes and not in an impersonal concert but at a casual, fun party.
+
+### (Update of 2013-01-28)
+
+Six months later, I participated in [my first blues jam](/blog/2013/01/28/my-first-blues-music-jam-happened-after-the-regular-french-music-jam/).
