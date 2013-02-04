@@ -12,6 +12,7 @@ categories:
 - Pittsburgh
 - hiking
 - Rachel Carson Trail Challenge
+- Pittsburgh Marathon
 ---
 I had an amusing, completely impromptu Saturday afternoon tour in which I ran nine miles (including a couple of miles with a friend I've never actually seen running before or run with before), did one repetition of the Cathedral of Learning stair climb, and visited two different chess tournaments in Pittsburgh.
 
@@ -22,6 +23,8 @@ As of Friday evening, I had only planned to go for a run on Saturday. Here's how
 <!--more-->
 
 ## I did not run in the morning
+
+Earlier in the week, since I had just [signed up for the 2013 Pittsburgh Marathon](/blog/2013/01/30/why-and-how-i-am-going-to-run-the-2013-pittsburgh-marathon/), I had considered to the early Saturday morning training run of the [Steel City Road Runners](http://www.steelcityrrc.org/), but by yesterday, had felt that I didn't want to get up early on Saturday, and also it was going to be very cold, possible as low as 10 degrees F, and I felt more comfortable running near 20 degrees F as well as close to home so that I could bail out during my own long run and get back home and warm if needed.
 
 I have not run more than 5 miles continuously in a while. I anticipated running at least 7 miles out in the cold, depending on how I felt. I was certain that I would not run as long as 12 miles.
 
@@ -61,7 +64,7 @@ I went across the street to the chess tournament in progress. The games in the r
 
 Then I ran back to the Pittsburgh Chess Club in Squirrel Hill to see what was going on there. Kurt and Peter had reached a very strange and unclear position.
 
-I was planning to go back out to run some more before coming back to the club again when I spotted Jason, a chess club regular whom I have known since winter 2005 when he was one of the first people I met, in addition to [Jeff](/blog/2012/12/18/round-6-of-pittsburgh-chess-club-tournament-playing-pragmatically/), during my first visits to the Pittsburgh Chess Club.
+I was planning to go back out to run some more before coming back to the club again when I spotted Jason, a chess club regular whom I have known since winter 2005 when he was one of the first people I met, in addition to [Jeff](/blog/2012/12/18/round-6-of-pittsburgh-chess-club-tournament-playing-pragmatically/), during my first visits to the Pittsburgh Chess Club. (He also happens to have started playing in chess tournaments again for the first time in several years!)
 
 I joked to him, "How come you weren't out running with me?" and he said that actually, he was about to go out running again, having run "a couple of hours" [in Frick Park](/blog/2013/01/27/how-to-gut-out-the-tough-workout/) in the morning.
 

@@ -9,6 +9,7 @@ categories:
 - recorder
 - authenticity
 - Johann Sebastian Bach
+- marathon
 ---
 A week ago, I [started playing the flute again after decades](/blog/2011/11/09/taking-up-flute-again-after-decades/).
 
