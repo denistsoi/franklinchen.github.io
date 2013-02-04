@@ -82,7 +82,11 @@ There isn't actually much time before the marathon (three months), so I have to 
 
 ### Removing chess
 
-I've already decided on one major activity I am going to cut out: after I finish the current Tuesday night chess tournament, the [Pittsburgh Chess Club Championship](/blog/2013/01/23/pittsburgh-chess-club-championship-2013-round-2-surviving-time-trouble/), I will take a break and not play in any more Tuesday night chess tournaments until possibly the fall. Time and energy are limited. We can't do everything all the time. I'm doing well in the Pittsburgh Chess Club Championship so far, with a perfect score in my first three rounds, so I hope I'll be able to say goodbye while winning it after another three rounds!
+I've already decided on one major activity I am going to cut out: after I finish the current Tuesday night chess tournament, the [Pittsburgh Chess Club Championship](/blog/2013/02/04/pittsburgh-chess-club-championship-2013-round-3-attack-defense-and-sacrifices/), I will take a break and not play in any more Tuesday night chess tournaments until possibly the fall (in summer I'd rather be playing outside in the sun rather than hunched over a chess board indoors!).
+
+Time and energy are limited. We can't do everything all the time. In fact, as things are, I have not even been able to play in the monthly [Pittsburgh Chess League](http://www.pitt.edu/~schach/ChessPA/ChessLeague/wpapcl.htm) team matches since [November](/blog/2012/11/11/pittsburgh-chess-league-round-3-back-to-chess-after-a-month-off/): in December I was occupied with [music rehearsal](/blog/2012/12/02/oblivion-obsession-time-to-start-playing-melodica/), and just now in January I was coming off a hard week during which I was [sick and overbooked](/blog/2013/01/25/notes-on-exercising-while-sick-or-tired/). I do hope to make it to the February team match.
+
+I'm doing well in the Pittsburgh Chess Club Championship so far, with a perfect score in my first three rounds, so I hope I'll be able to say goodbye while winning it after another three rounds!
 
 ### Footwear
 

@@ -32,7 +32,7 @@ By afternoon, it was over 20 degrees F, so I felt fairly comfortable going out f
 
 ## Chess tournament 1: a delayed Pittsburgh Chess Club Championship round 3 game
 
-OK, so I was exaggerating: I did not visit two complete chess tournaments on my tour. I did visit the final unplayed game of round 3 in the [current Pittsburgh Chess Club Championship](/blog/2013/01/23/pittsburgh-chess-club-championship-2013-round-2-surviving-time-trouble/) that is played Tuesday nights. The game was between Kurt Wallnau and Peter Jansen, and had been postponed because Kurt couldn't make it on Tuesday. This game was important because likely the winner would be my opponent for round 4 on Tuesday, because of my current perfect score of three wins in the first three rounds so far.
+OK, so I was exaggerating: I did not visit two complete chess tournaments on my tour. I did visit the final unplayed game of round 3 in the [current Pittsburgh Chess Club Championship](/blog/2013/02/04/pittsburgh-chess-club-championship-2013-round-3-attack-defense-and-sacrifices/) that is played Tuesday nights. The game was between Kurt Wallnau and Peter Jansen, and had been postponed because Kurt couldn't make it on Tuesday. This game was important because likely the winner would be my opponent for round 4 on Tuesday, because of my current perfect score of three wins in the first three rounds so far.
 
 It turned out that shortly before I was about to go for a run in the afternoon, I got word from Kurt that he was about to play his rescheduled game with Peter at the Pittsburgh Chess Club. So I thought I would run there from home (just a bit over a mile away) to stop by and take a look before continuing on with my run.
 
