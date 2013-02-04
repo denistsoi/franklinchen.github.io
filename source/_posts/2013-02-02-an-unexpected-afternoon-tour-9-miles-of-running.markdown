@@ -29,7 +29,7 @@ By afternoon, it was over 20 degrees F, so I felt fairly comfortable going out f
 
 ## Chess tournament 1: a delayed Pittsburgh Chess Club Championship round 3 game
 
-OK, so I was exaggerating: I did not visit two complete chess tournaments on my tour. I did visit the final unplayed game of round 3 in the current Pittsburgh Chess Club Championship that is played Tuesday nights. The game was between Kurt Wallnau and Peter Jansen, and had been postponed because Kurt couldn't make it on Tuesday.
+OK, so I was exaggerating: I did not visit two complete chess tournaments on my tour. I did visit the final unplayed game of round 3 in the [current Pittsburgh Chess Club Championship](/blog/2013/01/23/pittsburgh-chess-club-championship-2013-round-2-surviving-time-trouble/) that is played Tuesday nights. The game was between Kurt Wallnau and Peter Jansen, and had been postponed because Kurt couldn't make it on Tuesday. This game was important because likely the winner would be my opponent for round 4 on Tuesday, because of my current perfect score of three wins in the first three rounds so far.
 
 It turned out that shortly before I was about to go for a run in the afternoon, I got word from Kurt that he was about to play his rescheduled game with Peter at the Pittsburgh Chess Club. So I thought I would run there from home (just a bit over a mile away) to stop by and take a look before continuing on with my run.
 
@@ -47,7 +47,7 @@ But as I approached, staring me in the face was the Cathedral of Learning.
 
 ## Cathedral of Learning stair climb
 
-Suddenly I decided that I would do something I had never done before, which was to do the Cathedral of Learning stair climb right after having run a couple of miles. An interesting circuit!
+Suddenly I decided that I would do something I had never done before, which was to do the [Cathedral of Learning stair climb](/blog/2013/01/31/doing-an-unexpected-workout/) right after having run a couple of miles. An interesting circuit!
 
 So I did one repetition of the 36 floors. I experimented with just continuing to run up the stairs, but quickly found that this was completely unsustainable.
 

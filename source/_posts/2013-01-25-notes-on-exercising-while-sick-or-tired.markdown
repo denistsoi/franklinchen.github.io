@@ -54,7 +54,7 @@ However, I've noticed that doing short bursts of "easier" exercises is quite hel
 
 ## My Cathedral of Learning stair climb: what to do about that?
 
-I've been reporting regularly on my [Cathedral of Learning 36-floor stair climb] regimen [lately](/blog/2013/01/19/why-ive-chosen-to-perform-only-two-repetitions-of-the-cathedral-of-learning-stair-climb/). So what happened to my routine this week when I was not feeling well?
+I've been reporting regularly on my Cathedral of Learning 36-floor stair climb regimen [lately](/blog/2013/01/19/why-ive-chosen-to-perform-only-two-repetitions-of-the-cathedral-of-learning-stair-climb/). So what happened to my routine this week when I was not feeling well?
 
 First of all, I was supposed to do it Monday, and I was feeling queasy enough that I decided to completely bail out of it.
 
