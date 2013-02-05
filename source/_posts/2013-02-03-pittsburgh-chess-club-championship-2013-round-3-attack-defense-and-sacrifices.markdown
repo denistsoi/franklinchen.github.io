@@ -23,7 +23,7 @@ This week's chess theme is [*sacrifice*](http://en.wikipedia.org/wiki/Sacrifice_
 
 ## My complete annotated game
 
-At your convenience, you can [enjoy playing over the game with my annotations, including diagrams](/chess/chen-ahlborgh-2013-01-29.htm).
+At your convenience, you can [enjoy playing over the game with my annotations, including diagrams](/chess/chen-ahlborg-2013-01-29.htm).
 
 ## Preparation
 
@@ -73,7 +73,7 @@ I got in `g4`, and then hesitated to play `g5` immediately. I decided to "prepar
 
 ### Potential attacking sacrifices
 
-It turns out from computer analysis that the quickest wins involve immediately pushing forth with `g5` and having ideas of throwing everything at Black's King, possibly sacrificing a Knight or Bishop here or there in order to tighten the net around the King while swinging the Queen and Rook over to the `h` file. See the [annotated game](/chess/chen-ahlborgh-2013-01-29.htm) for some sample lines. Here is an example position involving a `g6` sacrifice and a possible sacrifice on `d5`:
+It turns out from computer analysis that the quickest wins involve immediately pushing forth with `g5` and having ideas of throwing everything at Black's King, possibly sacrificing a Knight or Bishop here or there in order to tighten the net around the King while swinging the Queen and Rook over to the `h` file. See the [annotated game](/chess/chen-ahlborg-2013-01-29.htm) for some sample lines. Here is an example position involving a `g6` sacrifice and a possible sacrifice on `d5`:
 
 {% img /chess/chen-ahlborg-2013-01-29_files/diag3FA43BC50DD386CB.gif Possible sacrifice %}
 
