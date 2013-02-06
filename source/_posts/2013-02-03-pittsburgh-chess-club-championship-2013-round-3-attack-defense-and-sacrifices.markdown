@@ -13,7 +13,7 @@ categories:
 
 Round 3 of the annual [Pittsburgh Chess Club](http://pittsburghcc.org/) Championship had me playing another very long game, the last game to finish (which it did after four hours, when nobody else was around any more except the tournament director).
 
-For cone, I am actually fairly proud of my game, in which I pressed hard with an attack and won. I have submitted the score for consideration in the ["Best Attack" special prize category for the tournament](/blog/2013/01/16/pittsburgh-chess-club-championship-2013-round-1-the-art-of-swindling/).
+For once, I am actually fairly proud of my game, in which I pressed hard with an attack and won. I have submitted the score for consideration in the ["Best Attack" special prize category for the tournament](/blog/2013/01/16/pittsburgh-chess-club-championship-2013-round-1-the-art-of-swindling/).
 
 {% img /chess/chen-ahlborg-2013-01-29_files/final-position.jpg Our final position %}
 
@@ -120,7 +120,7 @@ Checkmate followed:
 
 ## What next?
 
-For round 5, I will be Black against Peter Jansen, who ended up winning his [game against Kurt Wallnau on Saturday](/blog/2013/02/02/an-unexpected-afternoon-tour-9-miles-of-running/). I have played a tournament game with him only once before, six years ago, when I was White. I was not at all happy with how I played that game, even though I won (although on time in a draw position), so I consider our game Tuesday to be my chance to finally actually play well against Peter. I have seen how he plays in the opening, so there's not going to be an opening surprise coming from him, I think, as White. We will take the battle to the middlegame.
+For round 5, I will be Black against Peter Jansen, who ended up winning his [game against Kurt Wallnau on Saturday](/blog/2013/02/02/an-unexpected-afternoon-tour-9-miles-of-running/). I have played a tournament game with him only once before, six years ago, when I was White. I was not at all happy with how I played that game, even though I won (although on time in a drawn position), so I consider our game Tuesday to be my chance to finally actually play well against Peter. I have seen how he plays in the opening, so there's not going to be an opening surprise coming from him, I think, as White. We will take the battle to the middlegame.
 
 ## Conclusion
 
