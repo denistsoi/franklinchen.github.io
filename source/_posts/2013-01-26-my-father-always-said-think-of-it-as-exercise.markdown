@@ -58,3 +58,6 @@ Also, brushing snow off my own car is exercise as well and again, involves lots 
 
 I'm not going to pretend that various physical chores are my favorite things to do, but by taking my father's old advice, "Think of it as exercise," I've made life more interesting and fun for myself, and it makes me feel more connected to my core humanity as a physical being. Spending much of my earlier life living only in my mind was a mistake. There is much joy in simple physical pleasures.
 
+### (Update of 2013-02-10)
+
+Abby alerted me to this article exploring the [benefits of everyday activity such as taking the stairs and raking leaves](http://www.eurekalert.org/pub_releases/2013-01/osu-sft012813.php).
