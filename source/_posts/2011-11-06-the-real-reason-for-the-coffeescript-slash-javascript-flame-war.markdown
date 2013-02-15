@@ -61,3 +61,7 @@ I believe (from anecdotal praise I have heard from converts) that the excitement
 ## Conclusion
 
 I don't see any special reason to be alarmed by the rise of CoffeeScript. Some people will enjoy and use well the features of it, and others will botch it up. But there is no threat to JavaScript. If anything, because CoffeeScript has such an obvious translation into JavaScript, CoffeeScript can only solidify the JavaScript world by bringing in extra enthusiasm from those who use it effectively.
+
+### (Update of 2013-02-12)
+
+Martin Fowler wrote about JavaScript and CoffeeScript in the context of what he calls the phenomenon of [transparent compilation](http://martinfowler.com/bliki/TransparentCompilation.html). He says that personally, he prefers to write CoffeeScript.
