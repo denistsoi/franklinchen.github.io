@@ -9,9 +9,11 @@ categories:
 - Pittsburgh
 - Pittsburgh Chess Club
 ---
-{% img /chess/chen-edahl-2013-02-12_files/diag3F9218DF932964D5.gif Final position %}
+{% img /chess/chen-edahl-2013-02-12_files/after-move-4.jpg Franklin in deep throught after move 4 %}
 
-Round 5 of the annual [Pittsburgh Chess Club](http://pittsburghcc.org/) Championship involved a very unusual (for me) situation: being surprised at move 4 out of the opening! I coped well and played what I thought to be perhaps my cleanest game yet in this tournament.
+Round 5 of the annual [Pittsburgh Chess Club](http://pittsburghcc.org/) Championship involved a very unusual (for me) situation: being surprised at move 4 out of the opening! (Amusingly, Kurt was taking a bunch of photos at the time and happened to get a photo of me being surprised, and later sent it to me.)
+
+I coped well and played what I thought to be perhaps my cleanest game yet in this tournament.
 
 I report on the psychology of how to deal with opening surprises, and other turning points in the game.
 
