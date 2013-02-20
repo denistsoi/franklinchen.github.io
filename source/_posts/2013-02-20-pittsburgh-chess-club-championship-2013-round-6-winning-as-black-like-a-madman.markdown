@@ -121,6 +121,10 @@ The final position when White resigned:
 - White lost a long-held advantage and then quickly blundered badly; this flow of "momentum" is a common feature of chess games between humans.
 - Black also lost some momentum after achieving a won game, but managed to keep the winning advantage.
 
+## Statistics
+
+Here is the final rated [crosstable for the Pittsburgh Chess Club Championship](http://www.uschess.org/msa/XtblMain.php?201302193592). As a result of my winning all six games, my rating has finally bounced back upward, from 2126 to 2164: I defeated opponents rated 1728, 1947, 2050, 1999, 2072, 2077. My lifetime peak was in 2008 when [I reached 2197](http://www.uschess.org/msa/XtblMain.php?200801273991.1-12226800) (3 points short of getting a US Chess National [Master](http://en.wikipedia.org/wiki/Chess_master) title).
+
 ## What next?
 
 I felt proud of myself for playing hard for the win and not for a draw as Black when I did not need to for tournament purposes. I am of course ecstatic that I finally won the Pittsburgh Chess Club Championship again, and that I played fairly well in this tournament, after so many years of not really performing anywhere near how I used to.
@@ -129,6 +133,8 @@ In August I wrote about my goals in returning to [tournament play again](/blog/2
 
 I wish I could say that I look forward to continuing my "streak" soon, but the reality is that in January, I had already decided, well before the conclusion of this tournament, and before Abby's fractured foot, to [stop playing in Tuesday night tournaments for several months, until possibly fall](/blog/2013/01/30/why-and-how-i-am-going-to-run-the-2013-pittsburgh-marathon/). At the time, I had already concluded that I have many projects to work on in the coming months, and it's really been quite difficult to squeeze in the time and energy to play in Tuesday night tournaments, especially given how my games seem to always last past 11 PM, and that messes up my ideal sleep schedule.
 
+ As explained in my August posts, I no longer have any particular rating or title goals; I found that having them backfired badly on me. I will never again play competitive chess with any goals other than to play logically and creatively to the best of my abilities given my real life constraints.
+ 
 ## Thanks
 
 I would like to thank tournament director Mike Holsinger for doing a fine job running yet another Tuesday night tournament, handling pairings and attending to players' questions during rounds. It is quite a commitment to direct a tournament for six straight weeks!
