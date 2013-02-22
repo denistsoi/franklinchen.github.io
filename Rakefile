@@ -6,7 +6,6 @@ require "stringex"
 require 'time'
 require 'tzinfo'
 require 'rake/minify'
-require 'time'
 require 'yaml'
 require 'octopress'
 
@@ -197,7 +196,7 @@ task :new_page, :filename do |t, args|
 end
 
 # usage rake isolate[my-post]
-desc "Move all other posts than the one currently being worked on to a temporary stash location (stash) so regenerating the site happens much quicker."
+desc "Move all other posts than the one currently being worked on to a temporary stash location (stash) so regenerating the site happens much more quickly."
 task :isolate, :filename do |t, args|
   if args.filename
     filename = args.filename
@@ -369,7 +368,7 @@ task :setup_github_pages, :repo do |t, args|
   if args.repo
     repo_url = args.repo
   else
-    puts "Enter the read/write url for your repository" 
+    puts "Enter the read/write url for your repository"
     puts "(For example, 'git@github.com:your_username/your_username.github.com)"
     repo_url = get_stdin("Repository url: ")
   end
