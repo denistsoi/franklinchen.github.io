@@ -83,6 +83,10 @@ Scala is introduced at first as a kind of standard functional language (even tho
 
 For me, the most interesting aspect of the course and assignments was the focus on using Scala's "for comprehension" syntactic sugar to write very concise and clear code. An entire week of lectures was focused on collections and explained how the syntactic sugar is translated into `map`, `flatMap`, and `filter`. With the popularity of comprehension or similar syntax in many languages these days, I think it is very important to make sure that everyone knows that it is not just magic, but is just syntactic sugar for the important concepts that underlie it. I think the course did a good job in illustrating how comprehensions can be used not only for lists, but for many other types as well, and types that one can define oneself (Scala's comprehension syntax is meant for any [monad](http://en.wikipedia.org/wiki/Monad_(functional_programming\)).
 
+#### (Update of 2013-02-27)
+
+I just saw a good recent expository example of [the use of comprehension syntax to simplify the look of code that involves writing your own monad](http://tmorris.net/posts/memoisation-with-state-using-scala/index.html).
+
 ## Conclusion
 
 I strongly recommend Martin Odersky's "Functional Programming Principles in Scala" course to all who are interested in understanding the basics behind programming language semantics and how to apply this knowledge in writing and reasoning about clear, elegant programs to solve problems. A course like this could be taught using any number of languages as a vehicle, but I think Scala works particularly well because it is a JVM-based language that interoperates seamlessly with Java and Java's entire tool chain, so anything you learn here, you can apply immediately in real-life work if you already operate in the JVM-based programming world. Scala is not a toy language, but is used at [Twitter](http://twitter.github.com/scala_school/) and many other enterprises that require reliability, performance, scalability while solving very complex problems.
