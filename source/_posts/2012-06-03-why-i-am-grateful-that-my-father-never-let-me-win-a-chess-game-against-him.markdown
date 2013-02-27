@@ -36,3 +36,9 @@ Outside of official competitions, winning is not the only thing. It wasn't when 
 I found a photo of my father and me playing a game of chess at my parents' home when Abby and I were visiting in summer 2010. (My actual first chess game with my father in two decades was when I was visiting over Christmas 2004.)
 
 {% img /images/chess-nelson-franklin-2010.jpg Nelson versus Franklin in chess in summer 2010 %}
+
+## (Update of 2013-02-27)
+
+The renowned chess instructor [Bruce Pandolfini gives a nuanced, thoughtful answer to a parent's question about whether to let a child win](http://www.chesscafe.com/bruce/bruce164.htm).
+
+I still think that how my father operated worked out well for me. I learned to value getting better, rather than winning. I trusted that getting better would eventually lead to winning, and it did. Even as an adult who has limited time and ambition, I still value getting better over winning. And [I just won the 2013 Pittsburgh Chess Club Championship](/blog/2013/02/20/pittsburgh-chess-club-championship-2013-round-6-winning-as-black-like-a-madman/). I am in the [top 40 of the active rated chess players in Pennsylvania](http://www.pscfchess.org/ratings/regtoppa.htm). I wouldn't be here if my father had not instilled in me a love of excellence and an honest self-evaluation. I don't even feel good when I win. I only feel good when I judge that I *deserved* to win.
