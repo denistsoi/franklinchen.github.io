@@ -17,6 +17,8 @@ In fall of 2012, I completed the initial offering, through [Coursera](http://www
 
 This is a review of the course, which is planned to be offered again (so those of you who missed it the first time can sign up for the second iteration when it is available).
 
+Also check out the [instructor report](http://docs.scala-lang.org/news/functional-programming-principles-in-scala-impressions-and-statistics.html).
+
 <!--more-->
 
 ## The purpose of the course
