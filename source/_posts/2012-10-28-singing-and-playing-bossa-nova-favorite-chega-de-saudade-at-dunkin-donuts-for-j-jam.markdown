@@ -5,6 +5,7 @@ date: 2012-10-28 00:54
 comments: true
 external-url: 
 categories: 
+- music
 - mandolin
 - singing
 - flute
@@ -20,7 +21,7 @@ categories:
 
 Yesterday evening, I ended up unexpectedly [singing alone in public for the first time in my life](/blog/2012/10/27/singing-an-irish-ballad-as-an-asian-pirate-at-a-halloween-belly-dance-hafla/).
 
-This evening, I ended up unexpectedly singing again, with guitarist [Cantor Ben Rosner](http://cantorben.wix.com/cantor-benjamin-rosner) accompanying me: the first time in my life singing with an accompanist for the general public, and the first time I've worked with a guitarist.
+This evening, I ended up unexpectedly singing again, with guitarist [Cantor Ben Rosner](http://cantorben.com/) accompanying me: the first time in my life singing with an accompanist for the general public, and the first time I've worked with a guitarist.
 
 We had just met for the first time this evening, and had only a minute ahead of time to agree on a suitable tempo and have him quickly sight read chords before we just launched into the music.
 
@@ -33,6 +34,10 @@ I had not come to the local Dunkin' Donuts in Squirrel Hill expecting to *sing* 
 Abby had recently just met a new guy playing in the [Pittsburgh Mandolin Orchestra], [Cantor Ben Rosner](http://cantorben.wix.com/cantor-benjamin-rosner) of [Congregation Beth Shalom](http://www.bethshalompgh.org/) in Squirrel Hill. He was passing out flyers advertising a music jam session he was organizing, "J-Jam", to be held tonight in the local Dunkin' Donuts, which happens to be [the only Dunkin' Donuts in the area that is certified kosher](http://triblive.com/home/1926901-74/hill-squirrel-dunkin-donuts-kosher-pittsburgh-says-area-jewish-restaurant).
 
 Apparently this was not the first [Jewish community oriented music jam held at Dunkin' Donuts](http://www.thejewishchronicle.net/view/full_story/19127215/article-Open-mic-night-draws-Jewish-performers-to-Dunkin%E2%80%99-Donuts?instance=news_special_coverage_right_column).
+
+### (Update of 2013-01-16)
+
+J-Jam now has its own [official Web site](http://jjampgh.webs.com/) and [Facebook page](https://www.facebook.com/jjamPGH). Check them out!
 
 ## Deciding to participate
 
@@ -127,3 +132,11 @@ As for the jazz improvisation, that's going to take me even longer to get to whe
 Abby and I had a great time at our first J-Jam, both listening and performing! It's a fantastic Squirrel Hill community event that I hope will continue regularly, and I'm grateful to Joel and Ben for organizing it and spreading the word to have people come over to listen and perform, and I was inspired by the wonderful performances by everyone who came to share their love of music.
 
 I look forward to participating again!
+
+### (Update of 2012-12-16)
+
+I did not perform in or even attend [J-Jam on December 16](https://www.facebook.com/events/347798348651757/) after all! It quickly became clear in early December, after I met up with Ben to play together, that I was getting way too busy with many other things, and even if I hadn't been, Ben himself was busy too, such that we had no opportunity to get together again anyway to work on something to play. Furthermore, the time conflicted with the monthly meeting of the Pittsburgh Recorder Society, which I hate to miss, so I did not even show up at J-Jam in December just to watch and listen.
+
+### (Update of 2013-02-10)
+
+I did not perform in the [February 2013 J-Jam](/blog/2013/02/10/attending-j-jam-in-squirrel-hill-but-not-playing-music-in-it/) either, but did attend.
