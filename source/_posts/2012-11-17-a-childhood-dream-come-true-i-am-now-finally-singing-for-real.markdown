@@ -8,6 +8,7 @@ categories:
 - music
 - singing
 - flute
+- tango
 ---
 Abby and I went to a pre-Thanksgiving party hosted by Henry and yet again, **I changed my life**.
 
@@ -66,7 +67,7 @@ I unexpected ended up providing a lot of the music this evening. There were fewe
 
 This time, I brought just my (modern) flute and my voice. I left my recorders and Baroque flute and Irish flute and tin whistle at home.
 
-I started off with singing the tango "Por una cabeza" (made famous in "Scent of a Woman"), very hesitatingly:
+I started off with singing the tango ["Por una cabeza"](http://en.wikipedia.org/wiki/Por_una_Cabeza) (made famous in "Scent of a Woman"), very hesitatingly:
 
 {% img /images/pre-thanksgiving-2012/franklin-por-una-cabeza.jpg Franklin's first try at Por una Cabeza %}
 

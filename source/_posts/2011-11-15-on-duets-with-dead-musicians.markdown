@@ -10,6 +10,7 @@ categories:
 - Angela Gheorghiu
 - Joshua Bell
 - Sergei Rachmaninoff
+- tango
 ---
 I came across a story about technology-created video and audio recordings of [current musicians "performing" with legends no longer alive](http://www.npr.org/blogs/deceptivecadence/2011/11/10/142209842/when-is-a-duet-actually-a-duet). There were vehement comments on the story.
 

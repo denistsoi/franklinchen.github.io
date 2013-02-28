@@ -11,6 +11,7 @@ categories:
 - Baroque flute
 - dance
 - ballroom dance
+- tango
 - traditional dance
 - French dance
 - Pittsburgh
