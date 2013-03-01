@@ -75,3 +75,7 @@ Here is an older sample of AquiTango, playing on the street in Squirrel Hill:
 ## Conclusion
 
 If you're in the Pittsburgh area and looking for some live traditional tango music performed with precision and fire, check out the AquiTango quartet!
+
+### (Update of 2013-02-28)
+
+I went to Bar Marco again for [another enjoyable music performance](/blog/2013/02/28/another-exciting-concert-at-bar-marco-chris-norman-and-the-chatham-baroque-playing-a-tasty-assortment-of-dynamic-music/).
