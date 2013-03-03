@@ -23,3 +23,7 @@ I was glad we did attend, however, because it's so wonderful to see local musici
 Abby had to leave early, and I myself did not stay until the very end, but saw most of the performances, and left very happy. I hope that later this year I'll perform in it again.
 
 Thank you, [Ben](http://cantorben.com/) and [Joel](http://www.boulevardoftheallies.com/), for putting this together again!
+
+## (Update of 2013-03-03)
+
+Check out a recent article in [The Jewish Chronicle](http://www.thejewishchronicle.net/view/full_story/21685320/article-Performing-for-tzedaka) about the event, without a video clip.
