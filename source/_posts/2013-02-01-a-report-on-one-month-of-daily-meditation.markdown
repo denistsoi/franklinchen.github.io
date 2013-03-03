@@ -18,9 +18,9 @@ Despite some real challenges, I managed to complete a month of daily meditation,
 
 By coincidence, as the New Year began, I found that a blog I occasionally look at, [Wildmind](http://www.wildmind.org/), had issued a [100 day meditation challenge](http://www.wildmind.org/blogs/on-practice/join-us-for-wildminds-100-day-meditation-challenge). I took this as a great opportunity to join a virtual "community" of meditators.
 
-## [Insight Timer](https://insighttimer.com/)
+## [Insight Timer](http://insighttimer.com/)
 
-It turns out that a mobile app called [Insight Timer](https://insighttimer.com/) was promoted, and I ended up immediately buying it for both iOS (for our iPad) and Android (for my [phone](/blog/2012/03/22/paradox-i-will-observe-the-national-day-of-unplugging-but-just-bought-my-first-smartphone-this-week/)). I had intended to buy a meditation app anyway, since it was time for me to stop being stingy (I had been using an adware version of a meditation app on iOS earlier).
+It turns out that a mobile app called [Insight Timer](http://insighttimer.com/) was promoted, and I ended up immediately buying it for both iOS (for our iPad) and Android (for my [phone](/blog/2012/03/22/paradox-i-will-observe-the-national-day-of-unplugging-but-just-bought-my-first-smartphone-this-week/)). I had intended to buy a meditation app anyway, since it was time for me to stop being stingy (I had been using an adware version of a meditation app on iOS earlier).
 
 I liked that this app not only existed on both iOS and Android (I expected to use the meditation app on my phone in case of travel and when finding quiet moments out of the home in general), but also provided a virtual community that showed who is meditating "with" you at any moment around the world using the app. When the going gets tough, I find it useful to remember that other people are also doing what they can to maintain their meditation practice.
 
