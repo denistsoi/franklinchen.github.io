@@ -26,6 +26,12 @@ The piling up of being "too busy" clearly wrecked my routine. In retrospect, the
 
 Note: I did manage to get in my daily meditation while at the conference, using the Android version of the app. I squeezed it in on the floor of the hotel suite I shared with Josh and Jamie while they were in the other room.
 
+## A one-minute meditation session
+
+Monday, February 11 was a tough day for me (still recovering from the conference trip, and going back to work) and more so for Abby, who broke her foot late at night coming back from mandolin rehearsal. We spent nearly two hours at the emergency room (time mostly spent waiting; we spent another two hours Tuesday morning), during which I decided to steal a quiet minute meditating, so I did a *one-minute* meditation using the mobile app at one point. In my whole meditation log, this is the only time in the past two months that I did anything other than a ten-minute meditation on a day when I meditated at all.
+
+The next two weeks of our lives were very tough. I put aside most of what I had planned to do in my life during that period, in order to take care of *our* life, but I made sure to meditate every day. I think having the meditation practice really helped a lot, actually.
+
 ## Problems with the evening schedule
 
 I never got back onto a reliable morning meditation schedule, although I did continue to meditate before bed. But because of variability in my schedule, I again missed a daily evening session, by mere minutes, on Monday, February 25, when I had a crazy busy day that concluded with [not only stopping by OpenHack Pittsburgh but also attending a music jam](/blog/2013/02/25/stepping-it-up-at-the-french-and-blues-jam/). I didn't forget to meditate; I just stayed up too late for the session to count for Monday.
@@ -34,6 +40,6 @@ Again, the real solution is to get the meditation in early in the morning. Havin
 
 ## Conclusion
 
-Despite all the setbacks, I still keep on meditating. It is easy to stop doing something when you realize you're doing it "badly". It is easy to say "what's the point?" or "I'll never get this right" or "I'm a loser". But I keep in mind that meditation is meditation, however it is done. I don't stop flossing my teeth just because I don't always do it perfectly, after all.
+Despite all the setbacks, I still keep on meditating. It is easy to stop doing something when you realize you're doing it "badly". It is easy to say "what's the point?" or "I'll never get this right" or "I'm a loser". But I keep in mind that meditation is meditation, however it is done. I don't stop flossing my teeth just because I don't always do it perfectly, after all. And sometimes the benefits do not become apparent until an unexpected turn (such as Abby's accident) that showcases the need to be present and calm in the face of challenges.
 
 It's been two months now since New Year. Do you have New Year habits that you threw yourself into with enthusiasm that you have now fallen away from or are ashamed of not keeping up the way you had hoped? How have you coped with your own imperfection?
