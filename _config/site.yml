@@ -22,6 +22,8 @@ blog_index_sidebar: blog_index.html
 page_sidebar: page.html
 post_sidebar: post.html
 
+use_comments: true
+
 # ----------------------- #
 #    Jekyll & Plugins     #
 # ----------------------- #
@@ -32,24 +34,26 @@ permalink: /blog/:year/:month/:day/:title/
 # ----------------------- #
 
 # Github repositories
-github_user: FranklinChen
-github_repo_count: 4
-github_skip_forks: false
+github_repos:
+  user: FranklinChen
+  skip_forks: false
 
 # Twitter
-twitter_user: franklinchen
-twitter_show_replies: true
-twitter_show_follower_count: true
+twitter:
+  user: franklinchen
 
-# Google+
-google_plus_one: true
+  follow-button:
+    follower_count: true
 
 # Google Plus Profile
-# Hidden: No visible button, just add author information to search results
-google_plus_user: 100967806642012078047
+googleplus:
+  user: 100967806642012078047
+  plus_one: true
+
 
 # Pinboard
-#pinboard_user: franklinchen
+#pinboard:
+#  user: franklinchen
 
 # Delicious
 #delicious_user: franklinchen
@@ -63,3 +67,6 @@ google_analytics_tracking_id: UA-24980509-1
 
 # Facebook Like
 facebook_like: true
+
+adn:
+  user: FranklinChen
