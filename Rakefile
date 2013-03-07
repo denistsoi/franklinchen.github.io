@@ -253,6 +253,11 @@ task :clean do
   puts "## Cleaned Compass-generated files, and various caches ##"
 end
 
+desc "Remove generated files (#{configuration[:destination]} directory)."
+task :clobber do
+  rm_rf [configuration[:destination]]
+end
+
 desc "Update theme source and style"
 task :update, :theme do |t, args|
   theme = args.theme || 'classic'
@@ -589,12 +594,6 @@ def now_in_timezone(timezone)
   time
 end
 
-desc "list tasks"
-task :list do
-  puts "Tasks: #{(Rake::Task.tasks - [Rake::Task[:list]]).join(', ')}"
-  puts "(type rake -T for more detail)\n\n"
-end
-
 ### The following are taken from http://www.ewal.net/2012/09/08/octopress-customizations/
 desc 'Ping pingomatic'
 task :pingomatic do
@@ -634,4 +633,3 @@ end
 desc "Notify various services about new content"
 task :notify => [:pingomatic, :sitemapgoogle, :sitemapbing] do
 end
-
