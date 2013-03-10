@@ -273,10 +273,10 @@ task :update_stylesheets, :theme do |t, args|
     rm_r "#{configuration[:assets]}.old/stylesheets", :secure=>true
     puts "Removed existing assets.old/stylesheets directory"
   end
-  mkdir "#{configuration[:assets]}.old" 
+  mkdir_p "#{configuration[:assets]}.old" 
   mv "#{configuration[:assets]}/stylesheets", "#{configuration[:assets]}.old/stylesheets"
   puts "Moved styles into #{configuration[:assets]}.old/stylesheets"
-  install_stylesheets(theme)
+  Rake::Task["install_stylesheets"].invoke(theme)
   cp_r "#{configuration[:assets]}.old/stylesheets/custom", "#{configuration[:assets]}/stylesheets/custom"
   puts "## Updated Stylesheets ##"
   rm_r ".sass-cache", :secure=>true if File.directory?(".sass-cache")
@@ -284,18 +284,17 @@ end
 
 desc "Move javascripts to #{configuration[:assets]}.old/javascripts, install javascripts theme updates."
 task :update_javascripts, :theme do |t, args|
-  if File.directory?(".themes/#{theme}/javascripts")
-    theme = args.theme || 'classic'
-    if File.directory?("#{configuration[:assets]}.old/javascripts")
-      rm_r "#{configuration[:assets]}.old/javascripts", :secure=>true
-      puts "Removed existing assets.old/javascripts directory"
-    end
-    mkdir "#{configuration[:assets]}.old" 
-    cp_r "#{configuration[:assets]}/javascripts/.", "#{configuration[:assets]}.old/javascripts"
-    puts "Copied styles into #{configuration[:assets]}.old/javascripts"
-    install_javascripts(theme)
-    puts "## Updated Javascripts ##"
+  theme = args.theme || 'classic'
+  if File.directory?("#{configuration[:assets]}.old/javascripts")
+    rm_r "#{configuration[:assets]}.old/javascripts", :secure=>true
+    puts "Removed existing assets.old/javascripts directory"
   end
+  mkdir_p "#{configuration[:assets]}.old" 
+  mv "#{configuration[:assets]}/javascripts", "#{configuration[:assets]}.old/javascripts"
+  puts "Moved javascripts into #{configuration[:assets]}.old/javascripts"
+  Rake::Task["install_javascripts"].invoke(theme)
+# TODO no custom?
+  puts "## Updated Javascripts ##"
 end
 
 desc "Move source to source.old, install source theme updates, replace source/_includes/navigation.html with source.old's navigation"
