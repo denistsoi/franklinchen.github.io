@@ -69,8 +69,12 @@ Over the years, I went out of my way to obtain some rare recordings of Charles R
 - [New York Times](http://www.nytimes.com/2012/12/11/arts/music/charles-rosen-pianist-polymath-and-author-dies-at-85.html)
 - [Guardian](http://www.guardian.co.uk/music/2012/dec/10/charles-rosen)
 - [Wall Street Journal](http://blogs.wsj.com/speakeasy/2012/12/10/master-of-piano-and-prose/)
-- [Normal Lebrecht](http://www.artsjournal.com/slippeddisc/2012/12/death-of-a-great-musical-mind.html)
+- [Norman Lebrecht](http://www.artsjournal.com/slippeddisc/2012/12/death-of-a-great-musical-mind.html)
 
 ## Conclusion
 
 The *breadth* of Charles Rosen's interests and knowledge was one of the most appealing features of his work: he talked about music theory, piano performance, art, philosophy. I'll miss his presence as an analyst and cultural commentator.
+
+### (Update of 2003-03-11)
+
+An entertaining [article by Norman Lebrecht](http://standpointmag.co.uk/music-march-13-a-fusion-of-piano-and-cerebellum-norman-lebrecht-charles-rosen).
