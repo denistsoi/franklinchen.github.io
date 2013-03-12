@@ -1,29 +1,44 @@
-$:.unshift File.expand_path("../lib", File.dirname(__FILE__)) # For use/testing when no gem is installed
-require 'octopress'
 require 'json'
 
 class ConfigTag < Liquid::Tag
   def initialize(tag_name, options, tokens)
     super
-    config = Octopress::Configuration.read_configuration
-    options = options.split(',').map {|i| i.strip }
-    options.first.split('.').each { |k| config = config[k] } #reference objects with dot notation
-    @config = vars
-    @key = options.first.sub(/_/, '-').sub(/\./, '-')
-    @tag = (options.last || 'div')
+    options = options.split(' ').map {|i| i.strip }
+    @key = options.slice!(0)
+    @tag = nil
+    @classname = nil
+    options.each do |option|
+      @tag = $1 if option =~ /tag:(\S+)/ 
+      @classname = $1 if option =~ /classname:(\S+)/
+    end
   end
 
   def render(context)
-    tag  = "<#{@tag} class='#{@key}'"
-    @config.each do |k,v|
-      unless v.nil?
-        v = v.join ',' if v.respond_to? 'join'
-        v = v.to_json if v.respond_to? 'keys'
-        tag += " data-#{k.sub'_','-'}='#{v}'"
-      end
-    end
-    tag += "></#{@tag}>"
+    config_tag(context.registers[:site].config, @key, @tag, @classname)
   end
 end
 
+def config_tag(config, key, tag=nil, classname=nil)
+  options     = key.split('.').map { |k| config[k] }.last #reference objects with dot notation
+  tag       ||= 'div'
+  classname ||= key.sub(/_/, '-').sub(/\./, '-')
+  output      = "<#{tag} class='#{classname}'"
+
+  if options.respond_to? 'keys'
+    options.each do |k,v|
+      unless v.nil?
+        v = v.join ',' if v.respond_to? 'join'
+        v = v.to_json if v.respond_to? 'keys'
+        output += " data-#{k.sub'_','-'}='#{v}'"
+      end
+    end
+  elsif options.respond_to? 'join'
+    output += " data-value='#{config[key].join(',')}'"
+  else
+    output += " data-value='#{config[key]}'"
+  end
+  output += "></#{tag}>"
+end
+
 Liquid::Template.register_tag('config_tag', ConfigTag)
+
