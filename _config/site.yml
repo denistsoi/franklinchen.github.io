@@ -3,6 +3,7 @@
 #   User Site Configuration   #
 # --------------------------- #
 
+# For Rakefile
 assets: assets
 
 url: http://franklinchen.com/
@@ -29,7 +30,9 @@ use_comments: true
 # ----------------------- #
 #    Jekyll & Plugins     #
 # ----------------------- #
-permalink: /blog/:year/:month/:day/:title/
+# Note: I use blog
+permalink: blog/:year/:month/:day/:title/
+category_dir: blog/categories
 
 # ----------------------- #
 #   3rd Party Settings    #
@@ -38,7 +41,6 @@ permalink: /blog/:year/:month/:day/:title/
 # Github repositories
 github_repos:
   user: FranklinChen
-  skip_forks: false
 
 # Twitter
 twitter:
