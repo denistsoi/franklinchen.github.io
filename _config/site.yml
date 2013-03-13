@@ -6,7 +6,7 @@
 # For Rakefile
 assets: assets
 
-url: http://franklinchen.com/
+url: http://franklinchen.com
 title: Franklin Chen's grain of sand
 subtitle: Infinity in the palm of my hand
 author: Franklin Chen
@@ -31,7 +31,7 @@ use_comments: true
 #    Jekyll & Plugins     #
 # ----------------------- #
 # Note: I use blog
-permalink: blog/:year/:month/:day/:title/
+permalink: /blog/:year/:month/:day/:title/
 category_dir: blog/categories
 
 # ----------------------- #
