@@ -9,6 +9,11 @@ categories:
 - PittJUG
 - Open Spaces
 - Scala
+- Groovy
+- ScalaCheck
+- ScalaTest
+- specs2
+- testing
 ---
 Yesterday evening, the [Pittsburgh Java Users Group](http://java.net/projects/pittjug/)(PittJUG) for the first time adopted an Open Spaces format. The basic idea is that instead of having someone give an hour-long presentation on something, everyone gets involved in choosing topics of discussion and we all break up into small groups to sit in a circle and chat ([more details](https://docs.google.com/document/d/1Yufdr8zGBCWawsuEfKXXkM6ddcHnuhywzGw1lJ0u5TE/edit)).
 
@@ -71,7 +76,7 @@ Time was running out when we started talking about how nice it would be if we co
 
 ## Scala
 
-[Josh Suereth](http://suereth.blogspot.com/) was our resident Scala expert, so a lot of questions we asked were answered by him.
+[Josh Suereth](http://jsuereth.com/) was our resident Scala expert, so a lot of questions we asked were answered by him.
 
 ### How to get into Scala
 

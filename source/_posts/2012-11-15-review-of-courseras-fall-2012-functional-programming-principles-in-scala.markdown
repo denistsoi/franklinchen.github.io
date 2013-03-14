@@ -10,6 +10,8 @@ categories:
 - functional programming
 - Coursera
 - MOOC
+- SBT
+- Java
 ---
 {% img http://www.scala-lang.org/sites/default/files/newsflash_logo.png %}
 
