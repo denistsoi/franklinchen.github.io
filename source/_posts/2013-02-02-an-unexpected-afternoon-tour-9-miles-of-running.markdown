@@ -13,6 +13,7 @@ categories:
 - hiking
 - Rachel Carson Trail Challenge
 - Pittsburgh Marathon
+- Steel City Road Runners
 ---
 I had an amusing, completely impromptu Saturday afternoon tour in which I ran nine miles (including a couple of miles with a friend I've never actually seen running before or run with before), did one repetition of the Cathedral of Learning stair climb, and visited two different chess tournaments in Pittsburgh.
 
@@ -24,7 +25,7 @@ As of Friday evening, I had only planned to go for a run on Saturday. Here's how
 
 ## I did not run in the morning
 
-Earlier in the week, since I had just [signed up for the 2013 Pittsburgh Marathon](/blog/2013/01/30/why-and-how-i-am-going-to-run-the-2013-pittsburgh-marathon/), I had considered to the early Saturday morning training run of the [Steel City Road Runners](http://www.steelcityrrc.org/), but by yesterday, had felt that I didn't want to get up early on Saturday, and also it was going to be very cold, possible as low as 10 degrees F, and I felt more comfortable running near 20 degrees F as well as close to home so that I could bail out during my own long run and get back home and warm if needed.
+Earlier in the week, since I had just [signed up for the 2013 Pittsburgh Marathon](/blog/2013/01/30/why-and-how-i-am-going-to-run-the-2013-pittsburgh-marathon/), I had considered to the [early Saturday morning training run](http://www.steelcityrrc.org/scrrcevents?eventId=582142&EventViewMode=2&CalendarViewType=1&SelectedDate=2/16/2013) of the [Steel City Road Runners](http://www.steelcityrrc.org/), but by yesterday, had felt that I didn't want to get up early on Saturday, and also it was going to be very cold, possible as low as 10 degrees F, and I felt more comfortable running near 20 degrees F as well as close to home so that I could bail out during my own long run and get back home and warm if needed.
 
 I have not run more than 5 miles continuously in a while. I anticipated running at least 7 miles out in the cold, depending on how I felt. I was certain that I would not run as long as 12 miles.
 

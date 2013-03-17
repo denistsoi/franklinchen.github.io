@@ -27,7 +27,7 @@ At your convenience, you can [enjoy playing over the game with my annotations, i
 
 As I [mentioned after last week's game](/blog/2013/02/05/pittsburgh-chess-club-championship-2013-round-4-fascinating-attacking-defending-game/), for this week I was paired against Expert Richard Edahl, whom I had never played against before, so I had nothing special prepared against him.
 
-Furthermore, on the day of the game, I was occupied with a personal emergency that had me taking the day off work and not knowing for sure whether I was going to even make it to the game. I managed to get done what I needed to do and arrive at the club for the game.
+Furthermore, I was occupied with a personal emergency (Abby broke her foot late last night, so we spent two hours at the emergency room) that had me taking the day off work and not knowing for sure whether I was going to even make it to the game (we spent another two hours in the morning at the hospital for more X-rays and a plan for recovery). I managed to get done what I needed to do and arrive at the club for the game.
 
 ## Overview of my game
 

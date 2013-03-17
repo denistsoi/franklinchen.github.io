@@ -8,6 +8,7 @@ categories:
 - tin whistle
 - flute
 - Irish music
+- St. Patrick's Day
 ---
 {% img /images/st-patricks-2012/henry-franklin.jpg Henry and Franklin %}
 

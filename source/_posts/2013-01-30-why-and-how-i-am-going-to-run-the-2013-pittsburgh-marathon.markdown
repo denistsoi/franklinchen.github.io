@@ -14,6 +14,7 @@ categories:
 - Carnegie Mellon University
 - chess
 - Rachel Carson Trail Challenge
+- Steel City Road Runners
 ---
 I surprised myself by deciding suddenly to run the [Pittsburgh Marathon](http://pittsburghmarathon.com/) this year, 2013.
 
@@ -69,6 +70,10 @@ As staff at CMU, I (and my office mate John) get a [special discount for the Pit
 
 In addition to the reduced registration fee, part of the deal is "Special access to private finish line tent with gourmet food, private massages, and more!" as well as 6 months free membership to the [Steel City Road Runners](http://www.steelcityrrc.org/). Not bad.
 
+#### (Update of 2013-03-16)
+
+I should note that the Steel City Road Runners was formed in 2011. John and I had in fact attended its "kick-off party" on Tuesday, September 13, 2011 where we did a free training run, but we ended up not joining the club or participating further, since we were not planning to do the Pittsburgh Marathon in 2012.
+
 ## How?
 
 There isn't actually much time before the marathon (three months), so I have to be smart about training and try to avoid setbacks. Some things I need to do:
@@ -97,3 +102,7 @@ The other alternative I thought about was wearing huaraches such as my [Xero Sho
 ## Conclusion
 
 I'm excited to be back for marathon running. I hope to have a stimulating adventure in the next three months as I train for and participate in the 2013 Pittsburgh Marathon!
+
+### (Update of 2013-02-24)
+
+[A progress report describes setbacks to overcome.](/blog/2013/02/24/2013-pittsburgh-marathon-training-progress-since-signing-up-three-weeks-ago/)
