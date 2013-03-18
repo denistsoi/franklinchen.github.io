@@ -7,6 +7,7 @@ require 'time'
 require 'tzinfo'
 require 'yaml'
 require 'octopress'
+require 'octopress/js_asset_manager'
 require 'rake/testtask'
 require 'colors'
 
@@ -108,7 +109,9 @@ desc "Generate jekyll site"
 task :generate do
   raise "### You haven't set anything up yet. First run `rake install` to set up an Octopress theme." if configuration[:source].nil? || !File.directory?(configuration[:source])
   configurator.write_configs_for_generation
-  puts "## Generating Site with Jekyll"
+  puts "## Generating Site with Jekyll - ENV: #{Octopress.env}"
+  js_assets = Octopress::JSAssetsManager.new
+  js_assets.compile
   system "compass compile --css-dir #{configuration[:source]}/stylesheets"
   system "jekyll --no-server --no-auto #{'--no-future' if Octopress.env == 'production'}"
   unpublished = get_unpublished(Dir.glob("#{configuration[:source]}/#{configuration[:posts_dir]}/*.*"), {env: Octopress.env, message: "\nThese posts were not generated:"})
@@ -147,6 +150,8 @@ end
 desc "preview the site in a web browser."
 task :preview do
   raise "### You haven't set anything up yet. First run `rake install` to set up an Octopress theme." if configuration[:source].nil? || !File.directory?(configuration[:source])
+  ENV['OCTOPRESS_ENV'] ||= 'development'
+  Rake::Task["generate"].execute
   guardPid = Process.spawn("guard")
   puts "Starting Rack, serving to http://#{configuration[:server_host]}:#{configuration[:server_port]}"
   rackupPid = Process.spawn("rackup --host #{configuration[:server_host]} --port #{configuration[:server_port]}")
@@ -273,14 +278,17 @@ task :update_stylesheets, :theme do |t, args|
     rm_r "assets.old/stylesheets", :secure=>true
     puts "Removed existing assets.old/stylesheets directory"
   end
-  mkdir_p "assets.old" 
+  mkdir_p "assets.old"
   if File.directory?("assets/stylesheets")
     mv "assets/stylesheets", "assets.old/stylesheets"
     puts "Moved stylesheets into assets.old/stylesheets"
   end
   Rake::Task["install_stylesheets"].invoke(theme)
   if File.directory?("assets.old/stylesheets/custom")
-    cp_r "assets.old/stylesheets/custom", "assets/stylesheets/custom"
+    cp_r "assets.old/stylesheets/custom", "assets/stylesheets"
+  end
+  if File.directory?("assets.old/stylesheets/plugins")
+    cp_r "assets.old/stylesheets/plugins", "assets/stylesheets"
   end
   rm_r ".sass-cache", :secure=>true if File.directory?(".sass-cache")
   puts "## Updated Stylesheets ##"
@@ -295,7 +303,7 @@ task :update_javascripts, :theme do |t, args|
       rm_r "assets.old/javascripts", :secure=>true
       puts "Removed existing assets.old/javascripts directory"
     end
-    mkdir_p "assets.old" 
+    mkdir_p "assets.old"
     if File.directory?("assets/javascripts")
       cp_r "assets/javascripts/.", "assets.old/javascripts"
       puts "Copied javascripts into assets.old/javascripts"
@@ -408,30 +416,37 @@ end
 
 desc "Update configurations to support publishing to root or sub directory"
 task :set_root_dir, :dir do |t, args|
-  if args.dir
-    dir = args.dir
-  else
-    dir = get_stdin("Please provide a directory: ")
+  path = args.dir || nil
+  if path.nil?
+    path = get_stdin("Please provide a directory: ")
   end
-  if dir
-    if dir == "/"
-      dir = ""
+  if path
+    if path == "/"
+      path = ""
     else
-      dir = "/" + args.dir.sub(/(\/*)(.+)/, "\\2").sub(/\/$/, '');
+      path = "/" + path.sub(/(\/*)(.+)/, "\\2").sub(/\/$/, '');
     end
     # update personal configuration
-    site_configs = configurator.read_configuration('site.yml')
-    site_configs[:destination] = "public#{dir}"
-    site_configs[:subscribe_rss] = "#{dir}/atom.xml"
-    site_configs[:root] = "/#{dir.sub(/^\//, '')}"
+    site_configs = configurator.read_config('site.yml')
+    site_configs[:destination] = "public#{path}"
+    root = "/#{path.sub(/^\//, '')}"
+    url = $1 if site_configs[:url] =~ /(https?:\/\/[^\/]+)/i
+    site_configs[:url] = url + path
+    site_configs[:subscribe_rss] = "#{path}/atom.xml"
+    site_configs[:root] = "#{root}"
     configurator.write_config('site.yml', site_configs)
 
     rm_rf configuration[:destination]
     mkdir_p site_configs[:destination]
-    puts "\n========================================================"
-    puts "Site's root directory is now '/#{dir.sub(/^\//, '')}'"
-    puts "Don't forget to update your url in _config.yml"
-    puts "\n========================================================"
+    puts "\nYour _config/site.yml has been updated to the following"
+    output = <<-EOF
+
+  url: #{url + path}
+  destination: public#{path}
+  subscribe_rss: #{path}/atom.xml
+  root: #{root}
+EOF
+    puts output.yellow
   end
 end
 
@@ -494,35 +509,44 @@ task :setup_github_pages, :repo do |t, args|
   deploy_configuration[:deploy_default] = "push"
   deploy_configuration[:deploy_branch]  = branch
   deploy_configuration = configurator.read_config('defaults/deploy/gh_pages.yml').deep_merge(deploy_configuration)
-  puts deploy_configuration
   configurator.write_config('deploy.yml', deploy_configuration)
+
+  puts "\nYour deployment configuration (_config/deploy.yml) has been updated to:"
+  deploy_config_msg = <<-EOF
+  deploy_default: push
+  deploy_branch: #{branch}
+EOF
+  puts deploy_config_msg.yellow
 
   # Configure published url
   site_configuration = configurator.read_config('site.yml')
-  site_configuration[:url] = url if site_configuration.has_key?(:url) && site_configuration[:url] == 'http://yoursite.com'
-  site_configuration = configurator.read_config('defaults/jekyll.yml').deep_merge(site_configuration)
+  if !site_configuration.has_key?(:url) or site_configuration[:url] == 'http://yoursite.com'
+    site_configuration[:url] = url
+    configurator.write_config('site.yml', site_configuration)
+    puts "\nYour site configuration (_config/site.yml) has been updated to:"
+    puts "\n  url: #{url}".yellow
+  end
+  jekyll_configuration = configurator.read_config('defaults/jekyll.yml').deep_merge(site_configuration)
 
-  puts "\n========================================================"
-  has_cname = File.exists?("#{configuration[:source]}/CNAME")
+  cname_path = "#{jekyll_configuration[:source]}/CNAME"
+  has_cname = File.exists?(cname_path)
   if has_cname
-    cname = IO.read("#{configuration[:source]}/CNAME").chomp
-    current_short_url = /\/{2}(.*$)/.match(current_url)[1]
+    cname = IO.read(cname_path).chomp
+    current_url = site_configuration[:url]
     if cname != current_short_url
-      puts "!! WARNING: Your CNAME points to #{cname} but your _config.yml url is set to #{current_short_url} !!"
-      puts "For help with setting up a CNAME follow the guide at http://help.github.com/pages/#custom_domains"
+      puts "Your CNAME points to #{cname} but your _config/site.yml is setting the url to #{current_short_url}".red
+      puts "If you need help, get it here: https://help.github.com/articles/setting-up-a-custom-domain-with-pages"
     else
-      puts "GitHub Pages will host your site at http://#{cname}"
+      url = cname
     end
   else
-    puts "GitHub Pages will host your site at #{url}."
-    puts "To host at \"your-site.com\", configure a CNAME: `echo \"your-domain.com\" > #{configuration[:source]}/CNAME`"
-    puts "Then change the url in _config.yml from #{current_url} to http://your-domain.com"
-    puts "Finally, follow the guide at http://help.github.com/pages/#custom_domains for help pointing your domain to GitHub Pages"
+    puts "To use a custom domain:".bold
+    puts "  Follow this guide: https://help.github.com/articles/setting-up-a-custom-domain-with-pages"
+    puts "  Then remember to update the url in _config/site.yml from #{url} to http://your-domain.com"
   end
-  puts "Deploy to #{repo_url} with `rake deploy`"
-  puts "Note: generated content is copied into _deploy/ which is not in version control."
-  puts "If starting with a fresh clone of this project you should re-run setup_github_pages."
-  puts "========================================================"
+  puts "\nTo deploy:".bold
+  puts "  Run `rake deploy` which will copy your site to _deploy/, commit then push to #{repo_url}"
+  puts "\nGitHub Pages will host your site at".green + " #{url}.".green.bold
 end
 
 # usage rake list_posts or rake list_posts[pub|unpub]
@@ -546,7 +570,7 @@ def get_unpublished(posts, options={})
   posts.sort.each do |post|
     file = File.read(post)
     data = YAML.load file.match(/(^-{3}\n)(.+?)(\n-{3})/m)[2]
-    
+
     if options[:env] == 'production'
       future = Time.now < Time.parse(data['date'].to_s) ? "future date: #{data['date']}" : false
     end
