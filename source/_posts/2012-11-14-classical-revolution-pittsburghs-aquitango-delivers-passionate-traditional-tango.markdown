@@ -11,6 +11,7 @@ categories:
 - AquiTango
 - Bar Marco
 - dance
+- Latin music
 ---
 So I got word of a relatively new movement called [Classical Revolution](http://classicalrevolution.org/) that is spreading [around the world](http://classicalrevolution.org/chapters/), and has reached Pittsburgh, which has its [own chapter](http://www.classicalrevolutionpgh.org/) ([Facebook page](http://www.facebook.com/classicalrevolutionpgh)). The point of Classical Revolution is to [perform chamber music in non-traditional settings](http://classicalrevolution.org/about/).
 

@@ -11,6 +11,7 @@ categories:
 - ballroom dance
 - Carnegie Mellon University
 - Pittsburgh
+- Latin music
 ---
 Recently, by coincidence, I've seen a lot of articles about the benefits of *slow* practice of a skill, whether in music or martial arts. Some good links that really apply to all physical skills:
 

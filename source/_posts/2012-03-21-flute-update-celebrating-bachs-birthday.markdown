@@ -12,6 +12,7 @@ categories:
 - improvisation
 - recorder
 - Goldberg Variations
+- Latin music
 ---
 It's been eleven days since [my last blog post on my flute progress](/blog/2012/03/10/flute-loving-it-again/). During this time, there have been various changes in my life, including *radical* changes in my musical life. It will take me a couple of additional blog posts to discuss these changes, but for now, I'll talk only about today's snapshot of my flute activity.
 

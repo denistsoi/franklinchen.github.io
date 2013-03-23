@@ -11,6 +11,7 @@ categories:
 - recorder
 - blues
 - old time
+- Latin music
 ---
 [Just earlier this week, I went to a music jam where I was afraid to play](/blog/2012/07/03/petrified-at-a-music-jam-session-so-i-didnt-play-but-watched-and-listened) and so I didn't.
 

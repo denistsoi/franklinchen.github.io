@@ -9,6 +9,7 @@ categories:
 - ballroom dance
 - exercise
 - running
+- Latin music
 ---
 When the weather is cold, I confess that I don't enjoy running outside. I have done so in the past when much more serious about running, but I do not like it much. So I end up doing exercise indoors that is something of a substitute for running. I should really take up swimming (Abby wants to get me to do that), but traditionally, I have enjoyed doing **dance** workouts to videos.
 
