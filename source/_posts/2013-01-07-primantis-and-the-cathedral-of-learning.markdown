@@ -9,6 +9,7 @@ categories:
 - Pittsburgh
 - exercise
 - Cathedral of Learning
+- Fight for Air Climb
 ---
 Today I was scheduled to do the [Cathedral of Learning stair climb again, two repetitions like last time](/blog/2013/01/04/i-had-no-choice-but-to-barefoot-climb-the-cathedral-of-learning/). Since I had stayed later at work than expected, I was hungry already, so I decided I would go do the two reps and then eat a lot of food.
 

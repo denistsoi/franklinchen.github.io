@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My first Steel City Road Runners winter 5K race"
-date: 2013-03-03T18:33:03-04:00
+date: 2013-03-03T18:33:03-05:00
 comments: true
 external-url: 
 categories: 
@@ -83,3 +83,4 @@ I am not doing any other races, because they would interfere with my long run pr
 
 ## Conclusion
 
+Doing my first 5K race this year was a confidence booster for me, being a hard workout. It was also an opportunity to start really quantifying my progress and realistic timeline of improvement over the next months.

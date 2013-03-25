@@ -8,6 +8,7 @@ categories:
 - exercise
 - Cathedral of Learning
 - Pittsburgh
+- Fight for Air Climb
 ---
 Four times now in the past two weeks, I have done exactly *two* repetitions, no less and no more, of the 36-floor Cathedral of Learning stair climb.
 

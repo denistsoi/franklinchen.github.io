@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2013 Pittsburgh Marathon training progress since signing up three weeks ago: finally coming up with a plan!"
-date: 2013-02-24T19:00:09-04:00
+date: 2013-02-24T19:00:09-05:00
 comments: true
 external-url: 
 categories: 

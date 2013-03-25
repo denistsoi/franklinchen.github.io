@@ -9,6 +9,7 @@ categories:
 - Cathedral of Learning
 - exercise
 - barefoot
+- Fight for Air Climb
 ---
 {% img /images/cathedral-of-learning-snow.jpg Cathedral of Learning in snow %}
 
