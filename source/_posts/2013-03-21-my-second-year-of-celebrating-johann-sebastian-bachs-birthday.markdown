@@ -49,6 +49,8 @@ When I [accidentally started playing modern flute again in late 2011](/blog/2011
 
 However, because Bach on the [Baroque flute](/blog/categories/baroque-flute/) has remained much more difficult for me to play than on the modern flute, I have resigned myself to mostly playing Bach's flute music on modern flute, while trying to keep the music crisply articulated and with minimal vibrato.
 
+(I played the first movement of Bach's flute sonata in E minor, BWV 1034, [at a party earlier this year](/blog/2013/01/26/music-i-just-played-for-the-first-time-recorder-sonata-tangos/).)
+
 Here are some videos illustrating a little bit of how the sounds and interpretations may differ.
 
 A performance by [Jed Wentz](http://www.jedwentz.com/jedwentz.com/Welcome.html) on Baroque flute:

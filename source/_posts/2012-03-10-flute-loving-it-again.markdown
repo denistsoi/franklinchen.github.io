@@ -19,6 +19,7 @@ categories:
 - recorder
 - improvisation
 - memory
+- Latin music
 ---
 Yesterday, after four days of [not even touching my (modern) flute](/blog/2012/03/07/flute-taking-a-break-while-clarifying-my-goals) and having spent the time having fun with my Baroque flute instead, I felt the urge to return to the modern flute.
 
@@ -93,3 +94,11 @@ I am enjoying playing the flute again, now that I know what I really want to do 
 ## (Update of 2012-03-12)
 
 I ended up [quitting the CMU AUO](/blog/2012/03/12/quitting-the-cmu-all-university-orchestra-one-of-the-hardest-decisions-in-my-life/).
+
+## (Update of 2013-01-26)
+
+Almost a year later, I finally played tangos on flute [at a party](/blog/2013/01/26/music-i-just-played-for-the-first-time-recorder-sonata-tangos/).
+
+## (Update of 2013-03-17)
+
+Almost exactly a year later, I ended up playing selections from the World Music Cuba book [at a party](/blog/2013/03/17/finally-doing-some-latin-music-jamming-on-flute/), and improvising freely with two other guys!
