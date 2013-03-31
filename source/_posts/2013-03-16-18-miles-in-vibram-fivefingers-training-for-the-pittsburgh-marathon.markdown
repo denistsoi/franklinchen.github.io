@@ -132,3 +132,8 @@ On the [Steel City Road Runners Facebook site](http://www.facebook.com/steelcity
 ## Conclusion
 
 I ran about 16 miles of the 18-mile route, as planned, but got lost, which I did not plan. I learned some lessons. In the future, I am zipping my jacket pockets, and I am also studying the printed map thoroughly before starting one of these runs. My super-sore feet have me worried about running the marathon in Vibram FiveFingers, so I will investigate alternatives. I'm still waiting for my order this week of [Luna Sandals](http://lunasandals.com/) to come in.
+
+Again, I'm thankful that Steel City Road Runners made it possible for me to do such a long run without feeling completely alone, and not having to haul all the water and fuel I needed during and after the run. Ten years ago when I was marathon training, I did carry along everything I needed, but it really is much nicer to simulate actual race conditions.
+
+I am grateful that when I was done and called home, Abby baked a pizza for us to share when I got back. Fuel! Abby has been understanding and supportive during my training for the Pittsburgh Marathon. She thinks it's a crazy thing to do, and it is, but I want to do it this once again while I have the opportunity.
+

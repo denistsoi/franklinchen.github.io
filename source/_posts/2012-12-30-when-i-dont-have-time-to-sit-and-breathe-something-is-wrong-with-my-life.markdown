@@ -42,3 +42,11 @@ Oh, and as for the iPad meditation app: I checked the app and it's making the st
 ## Conclusion
 
 Meditation is good, and I'm back. In order to commit myself to keeping up the practice, I have decided that I should write about meditation on this blog at least once a month! It's on my calendar.
+
+### (Update of 2013-02-01)
+
+A report on [my meditation in January 2013](/blog/2013/02/01/a-report-on-one-month-of-daily-meditation/).
+
+### (Update of 2013-03-01)
+
+A report on [my meditation in February 2013](/blog/2013/03/01/dealing-with-setbacks-during-my-second-month-of-meditation/).

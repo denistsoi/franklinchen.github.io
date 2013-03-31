@@ -12,6 +12,8 @@ categories:
 - FiveFingers
 - Luna Sandals
 - SPIbelt
+- Elite Runners and Walkers
+- Steel City Road Runners
 ---
 Until today, I had not run a half marathon in nine years. This distance had given me a lot of trouble the five times I did it in 2001-2004. So I was very anxious about running [Just A Short Run](http://eliterunners.com/just-a-short-run/) this morning.
 
@@ -23,11 +25,11 @@ Here's why I feared it, and how I ended up unexpectedly pleased with the experie
 
 ## Past participation in Just A Short Run
 
-This was the fifth time I participated in Just A Short Run. This race began in 2001:
+This was the fifth time I participated in Just A Short Run. This race began in 2001, when [Kevin Smith](http://eliterunners.com/running-shoes-pittsburgh/about-running-store/) of [Elite Runners and Walkers](http://eliterunners.com/) created in in memory of his younger brother who died of leukemia, to [support the Leukemia and Lymphoma Society](http://eliterunners.com/just-a-short-run-about/):
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/ipDidl-_qpM" frameborder="0" allowfullscreen></iframe>
 
-Until today I did the Just A Short Run:
+Until today I have done the Just A Short Run four times:
 
 - 5K in 2001
 - half marathon in 2002
@@ -92,6 +94,8 @@ A total disaster. I finished in 1:45:32, which is 7:44 slower than the previous 
 ## Preparation
 
 I did not go into this race truly prepared to *race* the half marathon. I know what it takes to race a half marathon for time: long tempo and race-pace runs, long intervals. I have done little of that so far this year.
+
+My hardest training run so far has been [16 miles with the Steel City Road Runners, two weeks ago, on an 18 mile course](/blog/2013/03/16/18-miles-in-vibram-fivefingers-training-for-the-pittsburgh-marathon/). I did not truly taper for the half marathon race, although this week including the race I have a reduced mileage of 25 (easy 6, easy 3, speed ladder 3, and then the race).
 
 Rather, what I am really training for is the Pittsburgh Marathon, but I felt that I should do a half marathon race in order to get a taste of what it is like to run in a long race. I have been doing long runs every week for a while now, so running the half marathon distance is not a problem: the challenge for me was to figure out if I could partially *race* it, to find my limits.
 
@@ -211,8 +215,12 @@ I did get one small blister, on my right pinkie toe, but I didn't actually notic
 
 This [race time predictor](http://www.runnersworld.co.uk/general/rws-race-time-predictor/1681.html) suggests that given that I ran a half marathon in 1:50:52, I can do a full marathon in 3:51:08. I am, frankly, skeptical that I can go under 4:00:00 at all a month from now. I know I want to be conservative in the marathon, and I rather doubt I will be able to negative-split it, and I still have concerns about late-stage cramping or other physical deterioration. We shall see how my training progresses. I am going to start adding "quality" work in the form of interval training in order to toughen up.
 
+## Thanks
+
+Many thanks to my wife Abby, who dropped me off at the race and picked me up after visiting her parents in the vicinity, saving me driving and parking hassles! And thanks to all my friends who have been supportive while I've been so nervous for weeks about this race!
+
+I like to thank [Elite Runners and Walkers](http://eliterunners.com/) for putting on a really well-organized race. The instructions were very clear, volunteers giving out water, Gatorade, and gels were everywhere, there was plenty of post-race food, bag check was convenient, and everything seemed to go smoothly. I would like to take this opportunity to say that without Elite Runners and Walkers, I do not know where I would be as a runner. Back over a decade ago, when I started running, the Internet was not what it is now. I got information about running from books and magazines and word of mouth more than anything else. I was told about the new store Elite Runners and Walkers and I got some of my first running shoes and clothing there. I even bought my very first pair of Vibram FiveFingers KSO shoes there, in 2009, before minimalist shoes suddenly became more mainstream and available in other stores, and last year when I got some rips in those first Vibram FiveFingers shoes, I got a new pair of KSO shoes through them also. And the races they put on in the winter and spring are great: I used to run their [Spring Thaw](http://eliterunners.com/events/annual-spring-thaw/) as well as Just A Short Run. And when picking up my race packet at the store this week, Abby and I bought some more shirts and shorts in preparation for summer!
+
 ## Conclusion
 
 This was my slowest half marathon ever, but one of the most satisfying, and one of the best-executed, given my actual fitness level, which is substantially lower than that of a decade ago. I may consider *really* racing a half marathon in the fall. Meanwhile, I definitely found the successful completion of this half marathon to be a confidence booster for the upcoming Pittsburgh Marathon. Yes, there is no real comparison between the two distances, but it's just the fact that this is a long race at all, compared to, say, a 5K or 10K.
-
-Many thanks to my wife Abby, who dropped me off at the race and picked me up after visiting her parents in the vicinity, saving me driving and parking hassles! And thanks to all my friends who have been supportive while I've been so nervous for weeks about this race!

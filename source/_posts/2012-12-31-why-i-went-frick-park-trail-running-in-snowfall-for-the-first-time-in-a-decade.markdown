@@ -65,3 +65,10 @@ To encourage myself to keep up my running habit, I've decided to plan on a race 
 
 I went for a run because I hadn't done that in months, and I chose to do something different in order to get over my excuses of the past for shutting down or constraining my running options. I'm excited to be back, and hope to see some of my running buddies at races next year!
 
+### (Update of 2003-03-03)
+
+I had some setbacks in running, and ended up not running any races by late February, but did end up deciding in late January, totally unexpected, [to run the Pittsburgh Marathon](/blog/2013/01/30/why-and-how-i-am-going-to-run-the-2013-pittsburgh-marathon/), in order to give myself even more motivation to continue running, then ran in a [5K](/blog/2013/03/03/my-first-steel-city-road-runners-winter-5k-race/).
+
+### (Update of 2003-03-30)
+
+In late March, I ran [my first half marathon in nine years](/blog/2013/03/30/report-on-just-a-short-run-my-first-half-marathon-in-nine-years/) and enjoyed the experience.

@@ -81,6 +81,10 @@ I do not know yet whether I will be *racing* Just A Short Run or just using it a
 
 I am not doing any other races, because they would interfere with my long run progression plans. I will wait until after the marathon to enjoy training for and running 5K and 10K races. So this year I'm going to skip the [Martha's Run 10K](http://www.marthadixon.org/) that I've only ever done once (in 2004), as well as [Burgh's Pizza and Wings Pub 10K](http://www.montourtrail.org/events/displayevent.asp?id=1) that I also did once (in 2004). Since I'm not going to be doing the Pittsburgh Marathon again next year, maybe next year I can run these races.
 
+### (Update of 2013-03-30)
+
+I ended up partially racing Just A Short Run, which I think was the correct decision. I had a [great experience](/blog/2013/03/30/report-on-just-a-short-run-my-first-half-marathon-in-nine-years/)!
+
 ## Conclusion
 
 Doing my first 5K race this year was a confidence booster for me, being a hard workout. It was also an opportunity to start really quantifying my progress and realistic timeline of improvement over the next months.

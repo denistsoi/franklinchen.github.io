@@ -16,7 +16,7 @@ categories:
 - Rachel Carson Trail Challenge
 - Steel City Road Runners
 ---
-I surprised myself by deciding suddenly to run the [Pittsburgh Marathon](http://pittsburghmarathon.com/) this year, 2013.
+I surprised myself by deciding suddenly to run the [Pittsburgh Marathon](http://pittsburghmarathon.com/) this year, 2013. This was not part of the plan when I was [thinking about my running plans for 2013 a month ago](/blog/2012/12/31/why-i-went-frick-park-trail-running-in-snowfall-for-the-first-time-in-a-decade/)!
 
 This will be my second Pittsburgh Marathon, because the last time I ran it was in 2003, and that was my first marathon ever. It was quite an ordeal to finish, because of a lot of rookie mistakes, but I made it.
 

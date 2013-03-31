@@ -165,3 +165,5 @@ I've started to figure out the gel thing. I used eat gels a decade ago, but stop
 ## Conclusion
 
 I had a very instructive and tiring training run. I have a long way to go before being ready for the marathon in less than two months, but am happy to have finally joined a group training run.
+
+I'm very grateful for the opportunity to train with the Steel City Road Runners. Sometimes, it is much easier to commit to getting up early and going for a long run when you know that you'll have company, that there will be support (in the form of a planned route and aid stations). Even for an introvert like me who usually prefers to run alone, the unique pains of marathon training cause me to value camaraderie for some tough runs.

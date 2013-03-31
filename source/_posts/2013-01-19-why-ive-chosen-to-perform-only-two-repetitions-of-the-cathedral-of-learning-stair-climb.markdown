@@ -86,3 +86,13 @@ In four workouts so far this month, I have made improvements while adhering to s
 I'm going to stick to two repetitions until I reach an inflection point at which point I will make some big change. Staying with two allows me to gauge my progress along certain dimensions.
 
 What is your preference when you work out? What variables do you change and monitor? Number of repetitions? Recovery time? Increase in distance? Increase in speed? Increase in weight load? And why? What are your goals?
+
+### (Update of 2013-03-04)
+
+Over a month later, I finally moved up to [three reps](/blog/2013/03/04/finally-moving-up-from-two-to-three-cathedral-of-learning-reps/).
+
+### (Update of 2013-03-10)
+
+And then [four reps](/blog/2013/03/10/now-at-four-reps-of-the-cathedral-of-learning-stair-climb/).
+
+A gradual progression made the improvement seem natural rather than painful and forced.
