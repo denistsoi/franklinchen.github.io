@@ -56,7 +56,7 @@ Here is the route of the 12-mile training run:
 
 The 9-minute pace group was clearly going too fast for me. I hung off the back hoping to simply keep them in sight as they kept getting more ahead of me. To my surprise, John went with the group, even though he has not run in months. I was not sure it was wise of him not to have done any running before this training run, and am worried about his going too fast all of a sudden.
 
-{% img /images/11-pittsburgh-bridge-crossings/on-our-way.jpg 9 minute pace group %}
+{% img /images/11-pittsburgh-bridge-crossings/on-our-way.jpg nine-minute pace group %}
 
 ### Rachel Carson Bridge, inbound over the Allegheny River
 
