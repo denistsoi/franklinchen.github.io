@@ -143,7 +143,7 @@ Here are the [official race results](http://www.runhigh.com/2013RESULTS/R033013A
 
 I started out with the 1:55:00 finish pacer (8:47 pace):
 
-{% img /images/just-a-short-run-2013/pacer.jpg 8:47 pacer %}
+{% img /images/just-a-short-run-2013/pacer.jpg My initial pacer %}
 
 Going up the big hill, however, he totally lost me, as I slowed down to avoid prematurely feeling the burn. In fact, a slower pacer even passed me. No problem.
 

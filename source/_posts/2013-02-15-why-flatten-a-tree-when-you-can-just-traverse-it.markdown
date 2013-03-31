@@ -22,4 +22,6 @@ So I wrote up the recursive solution. Some features of the solution:
 - it uses Ruby's idiomatic `yield` construct
 - for convenience, it creates an `Enumerable` so that you can do whatever you want while iterating through the tree
 
+Here's the code:
+
 {% gist 4963218 %}

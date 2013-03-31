@@ -15,6 +15,8 @@ categories:
 - St. Patrick's Day
 - SPIbelt
 ---
+{% img /images/18-miles/st-patricks-day-parade-prep.jpg Pittsburgh St. Patrick's Day preparation %}
+
 My second [Saturday group training run with the Steel City Runners](http://www.steelcityrrc.org/scrrcevents?eventId=619953&EventViewMode=2&CalendarViewType=1&SelectedDate=3/30/2013) happened to be on St. Patrick's Day weekend, and therefore took place just before the [Pittsburgh St. Patrick's Day parade](http://www.pittsburghirish.org/parade/), which starts at 10 AM.
 
 ## Overtraining and knees
