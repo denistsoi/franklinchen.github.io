@@ -33,7 +33,7 @@ It turned out that a lot of things went "wrong" on this run, but I got back to t
 
 ## Unknown territory
 
-I wore my Vibram FiveFingers Bikila LS shoes again. This is an important test, because I have never been on the road for 18 miles straight in these shoes before, run or walk. I need to know whether wearing these for the Pittsburgh Marathon will work out.
+I wore my Vibram FiveFingers Bikila LS shoes again. This is an important test, because I have *never* been on the road for 18 miles straight in these shoes before, run or walk! I need to know whether wearing these for the Pittsburgh Marathon will work out.
 
 ## Weather conditions
 

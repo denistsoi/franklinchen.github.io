@@ -105,9 +105,11 @@ And I wanted to fix the problems I had in my previous half marathons:
 
 ### Blistering
 
-Solving the problem of blistering has been trivial for me since I switched to wearing Vibram FiveFingers shoes. I just don't get serious blisters any more.
+Solving the problem of blistering has been trivial for me since I switched to wearing Vibram FiveFingers shoes. I just don't get serious blisters any more; my feet have adapted completely.
 
 By the way, I just got my Luna Sandals two days ago, but have not run in them yet. Friends helpfully convinced me that it would be crazy to wear them in the race without any actual test of them (I knew that, but just needed validation).
+
+This is the *first half marathon* I'm running in Vibram FiveFingers. Up till now, the longest distance I've raced in FiveFingers has been [10K, when I was still getting blistered by the Bikila LS](/blog/2011/09/25/blistered-but-blissful-in-the-burgh/).
 
 ### Going out too fast
 
@@ -165,19 +167,13 @@ At one point I asked a guy what his pace was, and he said 8:30. I was feeling go
 
 I maintained speed in the last 5 miles of the race; I might even have gone faster, but without the data, I cannot tell, since when fatigue sets in, effort does not equal actual pace. I was definitely getting tired, but I kept pushing, trying to pretend I was running a 10K race or something. I thought that I just might have a shot at finishing under 1:50:00. I didn't, but that's OK. I finished in 1:50:52.
 
-The official [split data](http://www.runhigh.com/2013RESULTS/R033013AF.html) shows that I did the last five miles in 42:03, which is about 8:25 pace.
+The official [split data](http://www.runhigh.com/2013RESULTS/R033013AF.html) shows that I did the last 5 miles in 42:03, which is about 8:25 pace. Since I averaged 8:28 pace for the whole race, I clearly ran faster in the last 5 miles than in the first 8.1 miles.
 
-If I had known what I was capable of, I could have run faster and more evenly from the start, and finished faster, but that was not the goal today. The goal was to finish strong, which I did.
-
-### Done
-
-I was very happy to be done:
-
-{% img /images/just-a-short-run-2013/franklin.jpg Franklin done %}
+If I had known what I was capable of, I could have run faster and more evenly from the start, and finished faster, but that was quite explicitly *not* the goal today. The goal was to finish strong, which I did.
 
 ## SPIbelt
 
-This was my first time running a race wearing a SPIbelt. It did not cause me any trouble at all. I will wear it during the Pittsburgh Marathon.
+This was my first time running a race wearing a SPIbelt. It did not cause me any trouble at all; I barely noticed it. I will wear it during the Pittsburgh Marathon, in order to have my phone on me in case of emergency. I did not use my phone during the race, only before and after it, but it's always nice to know that I can directly contact Abby if something goes wrong.
 
 ## Cramping
 
@@ -208,6 +204,8 @@ My feet were sore, but actually, less sore than after each of my long runs in th
 {% img /images/just-a-short-run-2013/shoes.jpg Vibram FiveFingers Bikila LS %}
 {% img /images/just-a-short-run-2013/feet.jpg Franklin's feet %}
 {% img /images/just-a-short-run-2013/soles.jpg Franklin's soles of feet %}
+
+I did get one small blister, on my right pinkie toe, but I didn't actually notice it until I was home and took a shower.
 
 ## What does all this mean for the marathon?
 
