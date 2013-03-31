@@ -68,7 +68,7 @@ We can see downtown Pittsburgh:
 
 ### 7th Street Bridge, outbound
 
-{% img /images/11-pittsburgh-bridge-crossings/7th-street-bridge On 7th Street Bridge outbound %}
+{% img /images/11-pittsburgh-bridge-crossings/7th-street-bridge.jpg On 7th Street Bridge outbound %}
 
 ### Roberto Clemente Bridge, inbound
 
