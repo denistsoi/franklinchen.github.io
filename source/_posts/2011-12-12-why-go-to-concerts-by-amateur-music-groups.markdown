@@ -10,6 +10,7 @@ categories:
 - Johann Sebastian Bach
 - performance
 - melodica
+- Brandenburg concertos
 ---
 On Sunday, Abby and I carpooled with Helen and Mike (of the [recorder](/blog/categories/recorder/) gang) to Ambridge for a free concert given by the [Pittsburgh Historical Music Society](http://pghhistoricalmusicsociety.org/) as part of a Christmas-themed event in [Old Economy Village](http://www.oldeconomyvillage.org/).
 
