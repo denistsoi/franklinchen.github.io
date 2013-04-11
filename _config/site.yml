@@ -60,8 +60,9 @@ googleplus:
 #delicious_user: franklinchen
 
 # Disqus Comments
-disqus_short_name: franklinchen
-disqus_show_comment_count: true
+disqus:
+  short_name: franklinchen
+  show_comment_count: true
 
 # Google Analytics
 google_analytics_tracking_id: UA-24980509-1
