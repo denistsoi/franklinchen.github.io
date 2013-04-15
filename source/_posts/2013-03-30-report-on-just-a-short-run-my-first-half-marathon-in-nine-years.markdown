@@ -14,6 +14,7 @@ categories:
 - SPIbelt
 - Elite Runners and Walkers
 - Steel City Road Runners
+- Gatorade
 ---
 Until today, I had not run a half marathon in nine years. This distance had given me a lot of trouble the five times I did it in 2001-2004. So I was very anxious about running [Just A Short Run](http://eliterunners.com/just-a-short-run/) this morning.
 
