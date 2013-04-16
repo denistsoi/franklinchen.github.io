@@ -30,6 +30,10 @@ You have to understand that in the 1970s, China was not taken seriously in the W
 
 From that day on, every time I walked off to the local store on Sunday morning to buy the New York Times to bring back home, my father and I would immediately clip out the chess column and study it together. We both got more serious about studying chess books we got from the public library.
 
+### (Update of 2013-04-15)
+
+The author of the New York Times chess column, Robert Byrne, [just died](/blog/2013/04/15/rip-robert-byrne/).
+
 ## Fourth grade: joining the local chess club
 
 After we moved after my third grade, my father found out that there was a chess club that met in the basement of the local community center, and he brought me there.
