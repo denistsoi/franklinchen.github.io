@@ -30,6 +30,10 @@ The main holdup eventually was that I wanted to be able to really express myself
 
 Anyway, I had fun reading through this with Henry. Eventually I want to play it for real, as performance, in a setting with harpsichord continuo, rather than with piano.
 
+### (Update of 2013-02-23)
+
+I ended up performing the recorder sonata with bass recorder accompaniment at the Pittsburgh Recorder Society's [Midwinter Musical Feast](/blog/2013/02/23/celebrating-two-years-of-playing-recorder/)!
+
 ## Bach's flute sonata in E minor, BWV 1034
 
 I played music by Johann Sebastian Bach on flute for the first time outside the home. I've held back because I feel like I'm still not doing the music justice, but decided I can't hide forever my love of Bach.
