@@ -47,7 +47,7 @@ After yesterday, I decided I needed a break from all the walking, and so on Frid
 
 ### The Mono
 
-I also finally decided to order a pair of thicker Luna Sandals, the new [Mono](http://www.lunasandals.com/products/37-mono), which are 11 mm thick rather than the 7 mm of the Venado I'm currently wearing:
+I also finally decided to order a pair of thicker Luna Sandals, the new [Mono](http://www.lunasandals.com/products/37-mono), which are 12 mm thick rather than the 7 mm of the Venado I'm currently wearing:
 
 {% img http://s3.amazonaws.com/lunastore/images/279/full.jpg?1357775828 Luna Sandals, Mono %}
 
