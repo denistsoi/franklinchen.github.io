@@ -91,7 +91,7 @@ Abby and I saw a number of familiar people. In Pittsburgh, if you meet someone f
 
 Roz, whom [I last saw over a year ago when she was trying to sell accordions](/blog/2011/09/24/roaring-like-a-lion-on-a-saturday-morning/) did some singing with the CMU Klezmer Band.
 
-[Cindy Harris](http://betterfly.com/75586018), who played autoharp so beautifully at [one of the French music jams I've gone to](/blog/2012/09/28/another-french-music-jam-also-announcing-cats-dance.markdown/) did some solo pieces on autoharp:
+[Cindy Harris](http://betterfly.com/75586018), who played autoharp so beautifully at [one of the French music jams I've gone to](/blog/2012/09/28/another-french-music-jam-also-announcing-cats-dance/) did some solo pieces on autoharp:
 
 {% img /images/j-jam-2012-10-28/8.jpg Cindy Harris on autoharp %}
 

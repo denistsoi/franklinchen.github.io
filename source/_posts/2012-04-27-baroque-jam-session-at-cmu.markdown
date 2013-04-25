@@ -48,7 +48,7 @@ Seriously: back when I was in elementary school and middle school and high schoo
 
 I had to figure out what music to play. I couldn't count necessarily on any accompanists. I quickly decided to work on something for solo recorder, and happened to recently have discovered a book of pieces for solo soprano recorder. I chose one set of theme and variations, "Doen Daphne D'over Schoone Maeght" from Jacob Van Eyck's "Der Fluyten Lust-Hof", to work on. This music is earlier than Baroque, strictly, but hey, I thought maybe it would be good to provide contrast.
 
-I also wanted to play some Baroque music, so my attention immediately turned to Henry Holcombe's Air in E minor that I had [discovered in a volume of "English Airs and Dances" half a year ago](/blog/2011/11/30/bought-a-baroque-flute.markdown/) and immediately fallen in love with. I was not prepared at all to play this on a Baroque flute, so I decided to risk embarrassment by playing on a modern flute instead.
+I also wanted to play some Baroque music, so my attention immediately turned to Henry Holcombe's Air in E minor that I had [discovered in a volume of "English Airs and Dances" half a year ago](/blog/2011/11/30/bought-a-baroque-flute/) and immediately fallen in love with. I was not prepared at all to play this on a Baroque flute, so I decided to risk embarrassment by playing on a modern flute instead.
 
 ## The event
 

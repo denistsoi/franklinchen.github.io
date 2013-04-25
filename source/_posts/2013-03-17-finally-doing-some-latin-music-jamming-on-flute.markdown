@@ -39,7 +39,7 @@ I'd asked Vasili to learn on accordion "Les Ormeaux", which I had learned just r
 
 ### Bolero
 
-The musical highlight for me was my debut in playing Latin, or more specifically, Cuban music. I fell in love with this music when I was [introduced to Latin ballroom dance back in 2000](/blog/2012/03/10/flute-loving-it-again.markdown/).
+The musical highlight for me was my debut in playing Latin, or more specifically, Cuban music. I fell in love with this music when I was [introduced to Latin ballroom dance back in 2000](/blog/2012/03/10/flute-loving-it-again/).
 
 I started off with an unnamed bolero from a World Music Cuba book I had first encountered [a year ago when I was just barely playing flute](/blog/2012/02/22/flute-progress-still-hanging-in-there/). I got on flute and Henry enthusiastically improvised along on piano and we took a couple of turns. That was great.
 
