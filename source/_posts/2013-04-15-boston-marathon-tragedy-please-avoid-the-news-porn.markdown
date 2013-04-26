@@ -7,6 +7,7 @@ external-url:
 categories: 
 - running
 - marathon
+- calf sleeves
 - Boston Marathon
 - Pittsburgh Marathon
 - Pittsburgh
@@ -15,7 +16,7 @@ categories:
 - news
 - barber
 ---
-Since I am a runner (and happening to be in the last stages of training for my second Pittsburgh Marathon, which is coming in less than three weeks), I woke up this morning knowing that it was Boston Marathon day. Also, by sheer coincidence, a fellow Pittsburgher I have never met but follow on Twitter happened to tweet a photo of his running gear while ready to run in Boston, and happened to mention some sock sleeves that he wears that I had never seen before, and I tweeted him for the first time in my life, and I got a reply from him after he finished, and I went and ordered a pair of these sock sleeves online, since I have a tendency toward calf cramping in long distance races.
+Since I am a runner (and happening to be in the last stages of training for my second Pittsburgh Marathon, which is coming in less than three weeks), I woke up this morning knowing that it was Boston Marathon day. Also, by sheer coincidence, a fellow Pittsburgher I have never met but follow on Twitter happened to tweet a photo of his running gear while ready to run in Boston, and happened to mention some sock sleeves that he wears that I had never seen before, and I tweeted him for the first time in my life, and I got a reply from him after he finished, and I went and ordered a pair of these [sock sleeves online](http://www.cepcompression.com/1922-Allsports-Sleeves.aspx), since I have a tendency toward calf cramping in long distance races.
 
 So it was particularly eerie and somewhat personal to me when in the afternoon I heard from my office mate at work that the Boston Marathon had been bombed and people were dead and horribly injured.
 

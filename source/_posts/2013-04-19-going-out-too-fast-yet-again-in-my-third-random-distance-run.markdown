@@ -15,6 +15,8 @@ categories:
 - Luna Sandals
 - Carnival
 ---
+{% img /images/random-distance-run-2013.jpg CMU Random Distance Run 2013 %}
+
 For the third time, I ran in the annual [Random Distance Run](http://www.cs.cmu.edu/~RDR/) held on the 400m outdoor track at Carnegie Mellon University. It was a cold, rainy Friday afternoon.
 
 This was also my first race ever while wearing my Luna Sandals (the 7mm Venado).
@@ -105,6 +107,12 @@ Second die:
 Amusingly, the runner I beat at the end was the same one I ended up beating near the end of the [Pretty Good Race](/blog/2012/09/07/running-my-8th-pretty-good-race-5k-dealing-with-disappointment/) last year. I hadn't actually realized during the race that it was her again that was my target.
 
 My legs felt banged up after the race, from not only the cumulative fatigue of my marathon training for the week, but also because of that sprint I did. It was probably unwise of me to have thrown that in there, given that tomorrow morning I am scheduled to do a tough training run.
+
+## Cool T-shirt
+
+{% img /images/random-distance-run-2013-t-shirt-front.jpg CMU Random Distance Run 2013 T-shirt front %}
+
+{% img /images/random-distance-run-2013-t-shirt-back.jpg CMU Random Distance Run 2013 T-shirt back %}
 
 ## Conclusion
 

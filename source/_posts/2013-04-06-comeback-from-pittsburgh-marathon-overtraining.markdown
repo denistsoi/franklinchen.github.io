@@ -14,6 +14,7 @@ categories:
 - Cathedral of Learning
 - Steel City Road Runners
 - Shadyside
+- True Runner
 - Oakland
 - Alexander technique
 - Vonda Wright
@@ -98,7 +99,7 @@ Instead of running, I did one rep of the Cathedral of Learning stair climb, just
 
 Saturday morning, I felt my right toe had recovered sufficiently that I was going to be OK doing my planned long run.
 
-The Steel City Road Runners had a 10-mile run lined up starting in Shadyside after a program of dynamics warmups by Dr. Vonda Wright, ["Warmup on Walnut"](http://www.pittsburghmarathon.com/wow.asp). My plan was to skip that program, but create a 14-mile run by running 2 miles from home to the Shadyside point and then joining the group run and then running 2 miles back home afterwards.
+The Steel City Road Runners had a 10-mile run lined up starting in Shadyside after a program of dynamics warmups by Dr. Vonda Wright, ["Warmup on Walnut"](http://www.pittsburghmarathon.com/wow.asp), outside of sponsor [True Runner](http://www.truerunner.com/). My plan was to skip that program, but create a 14-mile run by running 2 miles from home to the Shadyside point and then joining the group run and then running 2 miles back home afterwards.
 
 Here is the 10-mile loop:
 
@@ -116,7 +117,7 @@ Unfortunately, I strangely miscalculated my departure from home to run 2 miles t
 
 ### Conquering the Oakland hill
 
-I managed the Oakland hill pretty well, being very focused. I continued going hard all the way back to Shadyside. Near the end, I felt my calves getting tight, just as in the half marathon last week when my right calf seized up after I was walking after the finish line. I thought it was very useful to have triggered this exact sensation and knowing where it was, because it meant that maybe I would be able to train my body to accept that state of fatigue (after running 12 miles) and continue. Also, the feeling cleared up fairly quickly after I stopped to walk, so I think last week the real trigger was my pointless little sprint near the end. If I avoid any sprinting during the marathon, I might well be able to avoid cramping. At least, that is the plan.
+I managed the Oakland hill pretty well, being very focused. I continued going hard all the way back to True Runner in Shadyside. Near the end, I felt my calves getting tight, just as in the half marathon last week when my right calf seized up after I was walking after the finish line. I thought it was very useful to have triggered this exact sensation and knowing where it was, because it meant that maybe I would be able to train my body to accept that state of fatigue (after running 12 miles) and continue. Also, the feeling cleared up fairly quickly after I stopped to walk, so I think last week the real trigger was my pointless little sprint near the end. If I avoid any sprinting during the marathon, I might well be able to avoid cramping. At least, that is the plan.
 
 ### A decision about Gatorade
 
