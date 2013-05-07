@@ -26,7 +26,7 @@ Unfortunately, this week I overdid things and [today's 11-mile run](http://steel
 
 ### Monday
 
-After [walking 2 miles to work](/blog/2013/04/19/commuting-on-foot-during-cmu-carnival-week-as-cross-training-for-the-pittsburgh-marathon/), I did a tough [high-intensity Billat workout](/blog/2012/02/03/my-favorite-running-workout.markdown/) on the CMU track, thinking that having taken Sunday off from running, I was ready to get back into action. After doing about 12 minutes of this workout (after warming up first, of course), I was beat. I was feeling pressure on my knees and shins.
+After [walking 2 miles to work](/blog/2013/04/19/commuting-on-foot-during-cmu-carnival-week-as-cross-training-for-the-pittsburgh-marathon/), I did a tough [high-intensity Billat workout](/blog/2012/02/03/my-favorite-running-workout/) on the CMU track, thinking that having taken Sunday off from running, I was ready to get back into action. After doing about 12 minutes of this workout (after warming up first, of course), I was beat. I was feeling pressure on my knees and shins.
 
 Basically, I was not sufficiently recovered from my 16-miler on Saturday, and I made a mistake.
 

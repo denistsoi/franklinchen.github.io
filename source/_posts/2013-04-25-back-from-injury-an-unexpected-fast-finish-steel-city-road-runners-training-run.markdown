@@ -43,7 +43,7 @@ Still, I have been back to wearing Luna Sandals since two days ago.
 
 All my runs this week have been in a new pair of running shorts that I will probably use for the marathon. I bought this at Elite Runners and Walkers a month ago when picking up my race packet for the [Just A Short Run half marathon](/blog/2013/03/30/report-on-just-a-short-run-my-first-half-marathon-in-nine-years/) there, but hadn't gotten around to wearing them yet!
 
-I am liking this []Brooks Infiniti Short III](http://www.brooksrunning.com/Infiniti-Short-III/210277,default,pd.html) a lot. It seems extremely well-designed. I have not sensed chafing problems, and the pockets for a key and gel seem sturdy. Believe me, I have had all kinds of problems with many running shorts in the past decade, mostly involving chafing, deterioration of materials, and pockets becoming non-functional because of how they are sewn, so I can spot design and quality problems.
+I am liking this [Brooks Infiniti Short III](http://www.brooksrunning.com/Infiniti-Short-III/210277,default,pd.html) a lot. It seems extremely well-designed. I have not sensed chafing problems, and the pockets for a key and gel seem sturdy. Believe me, I have had all kinds of problems with many running shorts in the past decade, mostly involving chafing, deterioration of materials, and pockets becoming non-functional because of how they are sewn, so I can spot design and quality problems.
 
 ## The run
 
