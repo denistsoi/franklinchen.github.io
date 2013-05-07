@@ -41,7 +41,7 @@ In 2006, I ran/walked (after completing the Rachel Carson Trail Challenge) Sammy
 
 No cramping up, no suffering (other than increasing fatigue and leg heaviness). Here is what I looked like finishing:
 
-{% /images/franklin-finishing-sammys-birthday-run-2006.jpg Franklin finishing Sammy's Birthday Run 2006 %}
+{% img /images/franklin-finishing-sammys-birthday-run-2006.jpg Franklin finishing Sammy's Birthday Run 2006 %}
 
 In 2008, I did Sammy's Birthday Run again, with even less training and fitness. This time I timed myself. I finished my 27.5 miles in 5:55:22. Hardly a great time, but it was a finish, and without any real suffering except at one moment. At around mile 22, I made the mistake of eating some cookies that someone had brought, and was in instant agony with stomach cramps. I slowed way down for a couple of minutes. Then I sat down for 9 minutes, used the Port-a-pottie, was OK again, and continued. But other than that incident, I had no leg or foot problems. So, basically what I'm saying is that *for me*, *finishing a marathon distance by simply going slow* is *trivial*, and therefore does not give me a sense of accomplishment. *For you*, finishing might be nontrivial, in which case you definitely deserve to be proud upon finishing your marathon!
 
