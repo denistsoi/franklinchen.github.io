@@ -321,3 +321,11 @@ As [Emil Zatopek](http://www.guardian.co.uk/sport/blog/2012/jun/22/50-olympic-st
 {% blockquote %}
 If you want to run, run a mile. If you want to experience a different life, run a marathon.
 {% endblockquote %}
+
+### (Update of 2013-05-09)
+
+The second day after the marathon, I was still in physical and emotional pain, and wrote a [little rant expressing my disappointment](/blog/2013/05/07/why-i-feel-sad-when-people-congratulate-me-for-finishing-the-pittsburgh-marathon/).
+
+The third day, I was able to walk normally and was emotionally recovering as well and was embarrassed by my rant.
+
+The fourth day, I [went out for a short run and reflected on what running is really about for me](/blog/2013/05/09/back-to-what-running-is-really-about-for-me/).

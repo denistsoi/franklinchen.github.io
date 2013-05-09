@@ -92,3 +92,9 @@ So in fact, I am abandoning the marathon and returning to trying to improve my p
 I'm very emotional right now, and I felt now was as good a time as any to say something about my personal values and goals when it comes to running races, and by extension, to other aspects of my life.
 
 I actually do feel good about finishing the marathon in one respect: I proved that even if I totally screwed everything up, and deserved all the pain I experienced, and it was all my own fault that I could have avoided, I went on anyway and got the job done. When I realize that this is what people are trying to communicate to me by congratulate me, I am very appreciative.
+
+### (Update of 2013-05-09)
+
+The following day, the third day after the marathon, I was able to walk normally and was emotionally recovering as well and was embarrassed by this rant.
+
+The fourth day, I [went out for a short run and reflected on what running is really about for me](/blog/2013/05/09/back-to-what-running-is-really-about-for-me/).
