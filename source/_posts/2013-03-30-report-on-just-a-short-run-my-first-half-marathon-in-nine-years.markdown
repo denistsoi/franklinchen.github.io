@@ -138,7 +138,8 @@ Also, I used to drink too much water, resulting in sloshing in the stomach. So I
 
 ## The route
 
-<iframe id="mapmyfitness_route" src="http://snippets.mapmycdn.com/routes/view/embedded/24782?width=560&height=400&elevation=true&info=true&line_color=E60f0bdb&rgbhex=DB0B0E&distance_markers=1&unit_type=imperial&map_mode=TERRAIN&last_updated=2006-03-10T16:46:31-05:00" height="590px" width="100%" frameborder="0"></iframe><div style="text-align: right; padding-right: 20px;"><a target="_blank" href="http://mapmyrun.com/routes/create/">Create Maps</a> or <a target="_blank" href="http://mapmyrun.com/routes/">search</a> from 80 million at <a href="http://mapmyrun.com">MapMyRun</a></div>
+<iframe id="mapmyfitness_route" src="http://snippets.mapmycdn.com/routes/view/embedded/24782?width=560&height=400&elevation=true&info=true&line_color=E60f0bdb&rgbhex=DB0B0E&distance_markers=1&unit_type=imperial&map_mode=TERRAIN&last_updated=2006-03-10T16:46:31-05:00" height="590px" width="100%" frameborder="0"></iframe>
+<div style="text-align: right; padding-right: 20px;"><a target="_blank" href="http://mapmyrun.com/routes/create/">Create Maps</a> or <a target="_blank" href="http://mapmyrun.com/routes/">search</a> from 80 million at <a href="http://mapmyrun.com">MapMyRun</a></div>
         
 Note the big hill at the beginning. Control of effort going up and down hills is critical, to avoid bad spikes in energy usage.
 
@@ -234,23 +235,35 @@ This was my slowest half marathon ever, but one of the most satisfying, and one 
 
 ### From start to 1:30:00
 
+#### Start
+
 I couldn't find myself in the half marathon start, because it's too congested.
 
-I found myself arriving under "Additional loops" at 27:09 on the clock to begin the first of two 5-mile loops:
+#### Addtional loop 1
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/BukDHKvc7rk?t=12m50s" frameborder="0" allowfullscreen></iframe>
+I found myself arriving under "Additional loops" at 27:09 on the clock to begin the first of two 5-mile loops.
+
+(To jump immediately to the spot, click [here](http://youtu.be/BukDHKvc7rk?t=12m50s).)
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/BukDHKvc7rk" frameborder="0" allowfullscreen></iframe>
 
 Since I crossed the start line after 21 seconds, I really ran 26:48 for the first 3.1 miles (average 8:39 pace).
 
-Also, watch me cross "Additional loops" at around 1:09:09 on the clock, which means I did 5 miles in 42:00 (average 8:24 pace):
+#### Additional loop 2
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/BukDHKvc7rk?t=46m11s" frameborder="0" allowfullscreen></iframe>
+Also, watch me cross "Additional loops" at around 1:09:09 on the clock, which means I did 5 miles in 42:00 (average 8:24 pace).
+
+(To jump immediately to the spot, click [here](http://youtu.be/BukDHKvc7rk?t=46m11s).)
 
 ### From 1:31:00 to 3:21:00
 
-Watch my sprint finish from clock time around 1:51:03 to finish at 1:51:12 (my chip time was 1:50:51, meaning I crossed the start line after 21 seconds), which means I did the last 5 miles in 42:03, almost exactly the same time as I did the first 5-mile loop:
+#### Sprint finish
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/wdjy7eLUlwQ?t=15m41s" frameborder="0" allowfullscreen></iframe>
+Watch my sprint finish from clock time around 1:51:03 to finish at 1:51:12 (my chip time was 1:50:51, meaning I crossed the start line after 21 seconds), which means I did the last 5 miles in 42:03, almost exactly the same time as I did the first 5-mile loop.
+
+(To jump immediately to the spot, click [here](http://youtu.be/wdjy7eLUlwQ?t=15m41s).)
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/wdjy7eLUlwQ" frameborder="0" allowfullscreen></iframe>
 
 ### From 3:23:00 to 4:07:00
 
