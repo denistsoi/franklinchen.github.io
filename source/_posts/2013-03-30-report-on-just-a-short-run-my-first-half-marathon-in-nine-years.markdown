@@ -16,6 +16,8 @@ categories:
 - Steel City Road Runners
 - Gatorade
 ---
+(Updated 2013-05-09 with official race videos!)
+
 Until today, I had not run a half marathon in nine years. This distance had given me a lot of trouble the five times I did it in 2001-2004. So I was very anxious about running [Just A Short Run](http://eliterunners.com/just-a-short-run/) this morning.
 
 Here's why I feared it, and how I ended up unexpectedly pleased with the experience, including finishing over four minutes faster than my goal time.
@@ -144,6 +146,8 @@ Note the big hill at the beginning. Control of effort going up and down hills is
 
 Here are the [official race results](http://www.runhigh.com/2013RESULTS/R033013AA.html).
 
+### Start
+
 {% img /images/just-a-short-run-2013/announcements.jpg Announcements %}
 
 I started out with the 1:55:00 finish pacer (8:47 pace):
@@ -225,3 +229,31 @@ I like to thank [Elite Runners and Walkers](http://eliterunners.com/) for puttin
 ## Conclusion
 
 This was my slowest half marathon ever, but one of the most satisfying, and one of the best-executed, given my actual fitness level, which is substantially lower than that of a decade ago. I may consider *really* racing a half marathon in the fall. Meanwhile, I definitely found the successful completion of this half marathon to be a confidence booster for the upcoming Pittsburgh Marathon. Yes, there is no real comparison between the two distances, but it's just the fact that this is a long race at all, compared to, say, a 5K or 10K.
+
+## Race videos are out! (Update of 2013-05-09)
+
+### From start to 1:30:00
+
+I couldn't find myself in the half marathon start, because it's too congested.
+
+I found myself arriving under "Additional loops" at 27:09 on the clock to begin the first of two 5-mile loops:
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/BukDHKvc7rk?t=12m50s" frameborder="0" allowfullscreen></iframe>
+
+Since I crossed the start line after 21 seconds, I really ran 26:48 for the first 3.1 miles (average 8:39 pace).
+
+Also, watch me cross "Additional loops" at around 1:09:09 on the clock, which means I did 5 miles in 42:00 (average 8:24 pace):
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/BukDHKvc7rk?t=46m11s" frameborder="0" allowfullscreen></iframe>
+
+### From 1:31:00 to 3:21:00
+
+Watch my sprint finish from clock time around 1:51:03 to finish at 1:51:12 (my chip time was 1:50:51, meaning I crossed the start line after 21 seconds), which means I did the last 5 miles in 42:03, almost exactly the same time as I did the first 5-mile loop:
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/wdjy7eLUlwQ?t=15m41s" frameborder="0" allowfullscreen></iframe>
+
+### From 3:23:00 to 4:07:00
+
+I was already done, so I am not in this video.
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/t4Zwv-tSLVM" frameborder="0" allowfullscreen></iframe>
