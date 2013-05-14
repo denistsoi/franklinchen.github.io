@@ -215,8 +215,10 @@ I learned many lessons during this exhausting hike:
 - I am *never* going to completely rely on the phone again for directions or maps. I will always have backup paper printouts of all important information, and in fact, put them in plastic bags in case of rain.
 - I will turn off automatic flash in order to save the phone battery when taking photos. Also, turn off unnecessary apps, etc.
 - The FiveFingers shoes didn't work too badly, but for a truly long distance are not cushioned enough.
-- In the final hours, John and I simply were no longer enjoying the hike, but just wanted to finish. We don't really want to do a hike this long or grueling again. We did about 20 miles today (extra distance beyond 18.1 because of getting lost in various places). *Never again* do I want to hike this long on the Rachel Carson Trail. In 2006, 2007, and 2008, I did the full 34-mile Challenge just to prove I could, not because I actually enjoyed it as such. I don't need to kill myself any more. I enjoy doing long, varied, meditative hikes, but there is a limit to how much I actually enjoy. 8 or 9 miles, as in the hike a month ago, is probably optimal for me.
+- In the final hours, John and I simply were no longer enjoying the hike, but just wanted to finish. We don't really want to do a hike this long or grueling again. We did about 20 miles today (extra distance beyond 18.1 because of getting lost in various places). *Never again* do I want to hike this long on the Rachel Carson Trail. In 2005, 2006, and 2007, I did the full 34-mile Challenge just to prove I could, not because I actually enjoyed it as such. I don't need to kill myself any more. I enjoy doing long, varied, meditative hikes, but there is a limit to how much I actually enjoy. 8 or 9 miles, as in the hike a month ago, is probably optimal for me.
 
 ## Conclusion
 
 I knew that this Rachel Carson Trail hike was going to be tough, but it got a lot tougher than I expected. I learned a lot as a result of the experience.
+
+Thanks to Craig for checking up on us and leading the hike and Miranda for being with us on the sweep during the beginning, and thanks to Abby for taking us to the hike!
