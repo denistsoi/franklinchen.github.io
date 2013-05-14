@@ -148,3 +148,5 @@ The 8.9 hike took about 3:20.
 ## Conclusion
 
 I enjoyed doing my first Rachel Carson Trail hike of the year. Earlier in the year is better because the hikes are shorter and the weather is cooler.
+
+Thanks to Brian Droz for leading this hike!
