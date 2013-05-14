@@ -56,7 +56,7 @@ Furthermore, although we were ready to go with the hike leader, Donna, latecomer
 
 Waiting for latecomers:
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_08.03.20.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_08.03.20.jpg %}
 
 Because of Route 910 closures, some detours were necessary as Donna's husband drove us to North Park.
 
@@ -64,198 +64,198 @@ Because of Route 910 closures, some detours were necessary as Donna's husband dr
 
 In North Park about to begin:
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_08.45.23.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_08.45.23.jpg %}
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_08.45.26.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_08.45.26.jpg %}
 
 By the time we started, there were only a handful of us together as a group.
 
 I was momentarily confused because I saw someone running in the *wrong direction* on the trail and thought she might be one of us, and was worried. I tried to follow her to call out to her, but she disappeared quickly:
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_08.45.34.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_08.45.34.jpg %}
 
 Meanwhile, Donna called out to me, and I rejoined the group.
 
 In North Park, a few sections of the trail are on the road, but then we go into the woods for real:
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_08.51.43.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_08.51.43.jpg %}
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_08.51.49.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_08.51.49.jpg %}
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_08.52.15.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_08.52.15.jpg %}
 
 There's a whole bunch of stream crossings while in North Park. Some of them are easier than others. I should note that one of the harder ones had some fast water and basically ensured that your feet would get wet, because the logs were floating and not completely safe to step on. Some people jumped, but that's not safe. Wearing KSO Trek shoes, since the temperature was around 50, I was fine just getting my feet wet by walking through the water.
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_09.05.16.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_09.05.16.jpg %}
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_09.05.22.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_09.05.22.jpg %}
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_09.10.50.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_09.10.50.jpg %}
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_09.10.56.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_09.10.56.jpg %}
 
 Out of the woods onto the railroad tracks (note that hiking in the reverse direction is tricky because it's not well-marked where to get off the railroad tracks into the woods; John and I got lost the last time we did the reverse hike and had to backtrack!).
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_09.18.50.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_09.18.50.jpg %}
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_09.19.23.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_09.19.23.jpg %}
 
 There's a good amount of road walking on this section of the Rachel Carson Trail.
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_09.27.01.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_09.27.01.jpg %}
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_09.27.14.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_09.27.14.jpg %}
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_09.29.46.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_09.29.46.jpg %}
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_09.53.40.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_09.53.40.jpg %}
 
 Crossing Route 8:
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_10.03.01.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_10.03.01.jpg %}
 
 Finally, the power lines:
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_10.04.28.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_10.04.28.jpg %}
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_10.05.59.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_10.05.59.jpg %}
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_10.22.47.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_10.22.47.jpg %}
 
 I am a bit sentimental about this section of trail in Hampton Park because Abby and I have done some cross country skiing here in winter, when she used to live up here before we got married and she moved to Pittsburgh.
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_10.29.52.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_10.29.52.jpg %}
 
 Abby and I have also hung out here in the past watching birds.
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_10.32.38.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_10.32.38.jpg %}
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_10.37.55.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_10.37.55.jpg %}
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_10.41.13.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_10.41.13.jpg %}
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_10.48.38.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_10.48.38.jpg %}
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_10.49.37.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_10.49.37.jpg %}
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_10.54.37.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_10.54.37.jpg %}
 
 Here is where John and I got lost. I was distracted by this sight and made a turn toward it (the trail turned in the opposite direction) to check it out:
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_10.55.25.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_10.55.25.jpg %}
 
 OK, "acidic condensate collection tank".
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_10.56.02.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_10.56.02.jpg %}
 
 Hmm, this didn't look familiar.
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_10.57.12.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_10.57.12.jpg %}
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_11.05.31.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_11.05.31.jpg %}
 
 John and I turned back. We lost about ten minutes.
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_11.06.42.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_11.06.42.jpg %}
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_11.07.38.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_11.07.38.jpg %}
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_11.15.12.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_11.15.12.jpg %}
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_11.18.16.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_11.18.16.jpg %}
 
 No animals out and about today!
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_11.41.38.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_11.41.38.jpg %}
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_11.43.09.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_11.43.09.jpg %}
 
 Funny how this happens to me once or twice each hike:
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_12.01.43.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_12.01.43.jpg %}
 
 What the heck is this going on?
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_12.07.33.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_12.07.33.jpg %}
 
 Uphill.
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_12.07.53.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_12.07.53.jpg %}
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_12.11.35.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_12.11.35.jpg %}
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_12.19.47.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_12.19.47.jpg %}
 
 Finally at Emmerling Park, about 3 hours and 45 minutes into the hike.
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_12.28.15.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_12.28.15.jpg %}
 
 I hung out at Emmerling Park for about ten or fifteen minutes, using the restroom and then playing on the swing relieving my aching feet while waiting for John and the others to catch up and also use the restroom. The truth is, I was ready to stop hiking already, feeling tired. I was also sore because of two falls I had sustained earlier in the hike. One of the falls involved my tripping on my right foot, causing me to land hard on my left, reinjuring my left knee that I had hurt before the marathon in a fall down the stairs. My left knee was causing me serious pain again now in the hike. I also fell on a steep downhill earlier, landing directly on my butt and on the palm of my left hand, which reinjured my left elbow. Finally, my right Achilles was killing me, because I had not adjusted the strap of my shoe properly; I had readjusted it during the hike, but the damage was already done. I was quite ready to stop hiking, but there were still two hours to go! Oops.
 
 Red flower:
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_12.49.45.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_12.49.45.jpg %}
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_12.49.54.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_12.49.54.jpg %}
 
 And now we got to sections of the trail that are abused by ATVs and rutted and muddy. (We ended up encountering someone on an ATV, in fact.)
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_13.02.18.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_13.02.18.jpg %}
 
 Standing water:
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_13.05.17.jpg %}
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_13.14.42.jpg %}
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_13.22.04.jpg %}
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_13.24.59.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_13.05.17.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_13.14.42.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_13.22.04.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_13.24.59.jpg %}
 
 No fun at all hiking through these muddy ruts:
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_13.28.24.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_13.28.24.jpg %}
 
 Finally back into open space:
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_13.29.43.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_13.29.43.jpg %}
 
 Looking back down the big hill:
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_13.33.09.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_13.33.09.jpg %}
 
 There's John and the rest down at the bottom:
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_13.34.50.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_13.34.50.jpg %}
 
 We keep on going up:
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_13.34.55.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_13.34.55.jpg %}
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_13.38.45.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_13.38.45.jpg %}
 
 Finally at the top, looking back:
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_13.39.36.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_13.39.36.jpg %}
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_13.49.12.jpg %}
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_13.51.14.jpg %}
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_13.58.01.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_13.49.12.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_13.51.14.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_13.58.01.jpg %}
 
 What's going on here?
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_14.05.03.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_14.05.03.jpg %}
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_14.05.28.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_14.05.28.jpg %}
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_14.09.45.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_14.09.45.jpg %}
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_14.15.19.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_14.15.19.jpg %}
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_14.20.47.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_14.20.47.jpg %}
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_14.21.07.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_14.21.07.jpg %}
 
 Finally back to the parking lot!
 
-{% /images/rachel-carson-trail-2013-05-12/2013-05-12_14.25.11.jpg %}
+{% img /images/rachel-carson-trail-2013-05-12/2013-05-12_14.25.11.jpg %}
 
 ## After
 
