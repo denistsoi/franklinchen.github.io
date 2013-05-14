@@ -10,6 +10,7 @@ categories:
 - Springdale
 - Tarentum
 - FiveFingers
+- smartphone
 ---
 Every spring, I like to do one or two of the [Rachel Carson Trail Challenge goal training hikes](http://www.rachelcarsontrails.org/rct/challenge/rctc12/goaltraining) for fun even though I no longer do the [Rachel Carson Trail Challenge](http://www.rachelcarsontrails.org/rct/challenge/) because three times was enough for me. Since this year's Challenge proceeds east to west, all of the goal training hikes this year also go east to west.
 
@@ -32,7 +33,7 @@ I'm wearing my Vibram FiveFingers KSO Trek shoes as I have been doing for some t
 
 {% img /images/rachel-carson-trail-challenge-goal-training-2/franklin-cold.jpg Franklin ready to hike %}
 
-(Note: since Abby was elsewhere this morning using our camera, John and I used his to take photos during the hike.)
+(Note: since Abby was elsewhere this morning using our camera, and my brand new smartphone's camera had died and I was waiting for a replacement phone, John and I used his camera to take photos during the hike.)
 
 Note the tower that will serve as the landmark when hiking back here:
 
