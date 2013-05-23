@@ -11,6 +11,8 @@ categories:
 - Ludwig van Beethoven
 - Arnold Schönberg
 - Béla Bartók
+- German Romanticism
+- modernism
 ---
 Today, I heard that the noted pianist and musical scholar [Charles Rosen](http://en.wikipedia.org/wiki/Charles_Rosen) [died at 85 yesterday](http://www.npr.org/blogs/deceptivecadence/2012/12/10/166876593/remembering-charles-rosen-a-prodigious-pianist-and-polymath).
 
@@ -75,6 +77,10 @@ Over the years, I went out of my way to obtain some rare recordings of Charles R
 
 The *breadth* of Charles Rosen's interests and knowledge was one of the most appealing features of his work: he talked about music theory, piano performance, art, philosophy. I'll miss his presence as an analyst and cultural commentator.
 
-### (Update of 2003-03-11)
+### (Update of 2013-03-11)
 
 An entertaining [article by Norman Lebrecht](http://standpointmag.co.uk/music-march-13-a-fusion-of-piano-and-cerebellum-norman-lebrecht-charles-rosen).
+
+### (Update of 2013-05-22)
+
+In light of future discussions of the influence of Charles Rosen on my thought, I felt I should mention that what he introduced me to was a [modernist](http://en.wikipedia.org/wiki/Modernism_%28music%29) sensibility that, while unapologetic, was also honest and not rigid or doctrinaire. I respected that, given my ambivalence about the modernist philosophy and attitude, an ambivalence I still have two decades after first reading him (I do not consider myself a modernist). As mentioned, this modernist sensibility is at odds with aspects of Romanticism, which had been my default sensibility until I started immersing myself in the music of the Classical era.

@@ -9,6 +9,7 @@ categories:
 - Glenn Gould
 - Johann Sebastian Bach
 - Arnold Schönberg
+- German Romanticism
 ---
 {% img http://media.npr.org/assets/img/2012/09/11/gould-d36370bc547843a1b3c7ab16e31373b751a52b05-s3.jpg Glenn Gould at piano %}
 
