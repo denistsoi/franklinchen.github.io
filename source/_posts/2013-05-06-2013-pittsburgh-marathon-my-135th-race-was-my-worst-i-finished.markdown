@@ -201,6 +201,16 @@ And so I finished. I finished in a state of my quads twitching like firecrackers
 
 I could barely walk after I started cooling down, because I got stiffer and stiffer. It took me forever to make it to the Finish Line Festival area, and I was so mentally drained that I had to call Abby to have her tell me where the tent was.
 
+## Videos (update of 2013-05-23)
+
+[Videos of the Pittsburgh Marathon have been posted](http://pittsburgh.cbslocal.com/2013/05/05/2013-marathon-finish-line-videos/).
+
+I found myself in [one of the sets of videos](http://pittsburgh.cbslocal.com/video/8844851-2013-marathon-finish-line-44000-45000/), for those who finished in a clock time between 4:40:00 and 4:50:00.
+
+You can see me at around 4:44:35 and finishing at about 4:44:40 here:
+
+<script type='text/javascript' src='http://CBSPIT.images.worldnow.com/interface/js/WNVideo.js?rnd=998125;hostDomain=video.pittsburgh.cbslocal.com;playerWidth=615;playerHeight=365;isShowIcon=true;clipId=8844851;flvUri=;partnerclipid=;adTag=Sport;advertisingZone=CBS.PITTS%252Fworldnowplayer;enableAds=true;landingPage=;islandingPageoverride=false;playerType=STANDARD_EMBEDDEDscript;controlsType=fixed'></script><a href="http://video.pittsburgh.cbslocal.com" title=""></a>
+
 ## The tent and the Pittsburgh Campus Challenge
 
 When I signed up for the Pittsburgh Campus Challenge through Carnegie Mellon University, there was advertised to be "gourmet food, private massages, and more" in the tent. The reality was actually quite different.
