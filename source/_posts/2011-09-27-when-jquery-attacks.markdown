@@ -7,6 +7,7 @@ categories:
 - programming
 - jQuery
 - JavaScript
+- Node
 - meetup
 - Pittsburgh
 ---

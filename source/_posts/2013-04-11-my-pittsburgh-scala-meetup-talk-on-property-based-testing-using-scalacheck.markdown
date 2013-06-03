@@ -39,6 +39,8 @@ My slides are available [on slideshare](http://www.slideshare.net/FranklinChen/h
 
 Note that the slides are not in any way a substitute for the actual talk and the questions and answers and discussion during and after it! They are most useful as memory joggers for those who actually attended the presentation. A set of slides is nothing resembling a technical article or a blog post.
 
+<iframe src="http://www.slideshare.net/slideshow/embed_code/18644963" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/FranklinChen/handout-18644963" title="Beyond xUnit example-based testing: property-based testing with ScalaCheck" target="_blank">Beyond xUnit example-based testing: property-based testing with ScalaCheck</a> </strong> from <strong><a href="http://www.slideshare.net/FranklinChen" target="_blank">Franklin Chen</a></strong> </div>
+
 ## After
 
 Out of some questions during the talk, we came up with an idea for improving ScalaCheck that might be an interesting group project to work on.

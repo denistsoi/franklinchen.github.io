@@ -5,6 +5,7 @@ date: 2012-06-09 20:24
 comments: true
 external-url: 
 categories: 
+- Pittsburgh TechFest
 - programming
 - Pittsburgh
 - .NET
@@ -16,6 +17,8 @@ categories:
 - Selenium
 - Kinect
 - Scala
+- actors
+- Akka
 - UX
 - Agile
 - Backbone
@@ -43,6 +46,10 @@ LaRoche College is in the [North Hills](http://en.wikipedia.org/wiki/North_Hills
 The keynote speech was by [Michael "Doc" Norton](http://www.docondev.com/) of [LeanDog](http://leandog.com/). He talked about our shared goal, as evidenced by attending the conference, of becoming an "excellent software developer". He emphasized the *polyglot* nature of the conference, which was organized by members of various local communities including .NET and Java, among others. "We don't work alone today," he emphasized. He urged us to broaden ourselves at the conference, and go to talks about topics outside of our own comfortable experience. He used the concept of the "T" as something to aspire to: having deep knowledge in something but also having broad knowledge of other things.
 
 I enjoyed the keynote speech and resolved to check out ideas new to me that I might be able to use. The speech actually caused me to spontaneously change some of my original marked-down preferences for which sessions I would attend!
+
+### (Update of 2013-06-01)
+
+"Doc" has in the past year moved to Groupon.
 
 ## Overview of sessions
 
@@ -116,3 +123,8 @@ Here's [another participant's review of the Pittsburgh TechFest](http://updyke.c
 ## Conclusion
 
 I'd like to thank the organizers of the very first Pittsburgh TechFest, and the sponsors who made the conference so inexpensive and accessible. And of course, I appreciate everyone who signed on to give a presentation. I learned a lot over the course of the day, and look forward to another Pittsburgh TechFest in 2013!
+
+### (Update of 2013-06-01)
+
+I went to [Pittsburgh TechFest again in 2013](/blog/2013/06/01/report-on-the-second-pittsburgh-techfest-2013/), and had a great time, despite being sick. Also, as I had promised myself a year ago, I gave a presentation there! [Full report here](/blog/2013/06/01/pittsburgh-tech-fest-2013-my-talk-stop-overusing-regular-expressions/).
+
