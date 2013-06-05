@@ -58,7 +58,7 @@ GEM
     json (1.8.0)
     kramdown (0.14.2)
     liquid (2.3.0)
-    listen (1.1.5)
+    listen (1.1.6)
       rb-fsevent (>= 0.9.3)
       rb-inotify (>= 0.9)
       rb-kqueue (>= 0.2)
