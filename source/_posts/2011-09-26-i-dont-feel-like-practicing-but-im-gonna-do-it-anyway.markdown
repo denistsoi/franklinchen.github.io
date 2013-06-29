@@ -29,7 +29,9 @@ But too many times I've seen people (including myself) make up excuses to not do
 
 What it comes down to is, you have to decide what is important, and act accordingly. What is important may not be what your friends think is important. It may not be what your spouse thinks is important. It may not be what your society thinks is important. But if you truly believe, then you have a stark choice: go ahead anyway, or quit. Do not go halfway. A [wise sage](http://en.wikipedia.org/wiki/Yoda) said:
 
-    Do or do not. There is no try.
+{% blockquote %}
+Do or do not. There is no try.
+{% endblockquote %}
 
 {% img http://upload.wikimedia.org/wikipedia/en/9/96/CGIYoda.jpg Yoda with light saber %}
 
@@ -41,8 +43,10 @@ So, the day I really committed to playing recorder, March 7 of 2011 (after start
 
 I have missed probably an average of one day of recorder practice every two weeks. I can live with that. *The point of the planned schedule is not, paradoxically, to rigidly stick to it.* The point is to set a personal standard, a mind set, a reference point, an [anchor](http://en.wikipedia.org/Anchoring). When I was twelve years old, I was struck by this [quote](http://en.wikiquote.org/wiki/Robert_Browning):
 
-    Ah, but a man's reach should exceed his grasp,
-    Or what's a heaven for?
+{% blockquote %}
+Ah, but a man's reach should exceed his grasp,
+Or what's a heaven for?
+{% endblockquote %}
 
 I immediately interpreted this as meaning, if I want to achieve something, I must aim beyond it.
 

@@ -78,7 +78,7 @@ The bug came today as I was processing this week's case [11-9953](http://www.sup
 
 I got an error message when my pre-processing phase exited after an error while running the script `find-bad-ids.pl`:
 
-```
+``` console
 THOMAS not found
 ```
 
@@ -104,7 +104,7 @@ JUSTICE SOTOMAYOR: Counsel, do you want to define constitutionally adequate coun
 
 I was confused about why my script would not recognized Justice Thomas. I looked at the Perl source code, saw where I initialized a table of Justice names, and saw:
 
-```
+``` perl
 use String::Approx 'amatch';
 
 $lastNames{REHNQUIST} = -1;
@@ -123,7 +123,7 @@ $lastNames{STEVENS} = -1;
 
 I had simply forgotten seven years ago to put into the table initialization the following code:
 
-```
+``` perl
 $lastNames{THOMAS} = -1;
 ```
 

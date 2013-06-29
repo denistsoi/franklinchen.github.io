@@ -140,7 +140,7 @@ Also, I used to drink too much water, resulting in sloshing in the stomach. So I
 
 <iframe id="mapmyfitness_route" src="http://snippets.mapmycdn.com/routes/view/embedded/24782?width=560&height=400&elevation=true&info=true&line_color=E60f0bdb&rgbhex=DB0B0E&distance_markers=1&unit_type=imperial&map_mode=TERRAIN&last_updated=2006-03-10T16:46:31-05:00" height="590px" width="100%" frameborder="0"></iframe>
 <div style="text-align: right; padding-right: 20px;"><a target="_blank" href="http://mapmyrun.com/routes/create/">Create Maps</a> or <a target="_blank" href="http://mapmyrun.com/routes/">search</a> from 80 million at <a href="http://mapmyrun.com">MapMyRun</a></div>
-        
+
 Note the big hill at the beginning. Control of effort going up and down hills is critical, to avoid bad spikes in energy usage.
 
 ## The race

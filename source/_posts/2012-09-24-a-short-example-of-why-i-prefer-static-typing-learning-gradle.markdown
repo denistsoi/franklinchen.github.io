@@ -70,7 +70,7 @@ task gradleBuild << {
 
 Unfortunately, this Gradle build file, when executed under the current version of Gradle, dies with an error:
 
-```
+``` console
 $ ./run-example.bsh 
 :gradleBuild
 The repositories bridged from Ant to Gradle are:

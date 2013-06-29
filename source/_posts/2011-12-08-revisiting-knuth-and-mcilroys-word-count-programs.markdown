@@ -28,6 +28,10 @@ Knuth came up with a typically clever, lengthy, low-level implementation (unfort
 
 I decided to bring the discussion here a quarter of a century (25 years!) to the present. How would we solve the problem now?
 
+## (Update of 2013-06-29)
+
+I have changed my mind about many things I said here, and also have more clarifications and new arguments to make, which I will eventually post on my new programming blog, [The Conscientious Programmer](http://ConscientiousProgrammer.com/).
+
 <!--more-->
 
 ## Salient points of McIlroy's solution
@@ -63,7 +67,7 @@ Here is my Haskell program, in two variants. The first is a standard source code
 
 I used [GHC](http://www.haskell.org/ghc/) to compile and run the program.  Sample output:
 
-```
+``` console
 $ ghc -O6 --make WordCount
 $ ./WordCount 10 < WordCount.lhs 
 35 the
