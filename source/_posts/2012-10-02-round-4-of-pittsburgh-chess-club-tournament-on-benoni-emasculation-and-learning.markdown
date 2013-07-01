@@ -16,7 +16,7 @@ categories:
 ---
 {% img /chess/mirra-chen-2012-10-02_files/diag3FECB4B6781E764C.gif White in reverse Benoni being crushed %}
 
-Tonight was the fifth (and penultimate) round of the current six-round Tuesday night tournament at the [Pittsburgh Chess Club](http://pittsburghcc.org/), the 14th Fred Sorensen Memorial. I last reported on the [third round](/blog/2012/09/19/round-3-of-pittsburgh-chess-club-tournament-another-approach-against-the-sicilian-squeezing-with-the-bind/), rather than the fourth round, because as I [mentioned in August upon signing up for the tournament](/blog/2012/08/29/returning-to-chess/), I took a bye for the fourth round because of a schedule conflict with a [Pittsburgh Java Users Group](http://www.pghtech.org/networks/PittJug/events.aspx) meeting that I wanted to attend.
+Tonight was the fifth (and penultimate) round of the current six-round Tuesday night tournament at the [Pittsburgh Chess Club](http://pittsburghcc.org/), the 14th Fred Sorensen Memorial. I last reported on the [third round](/blog/2012/09/19/round-3-of-pittsburgh-chess-club-tournament-another-approach-against-the-sicilian-squeezing-with-the-bind/), rather than the fourth round, because as I [mentioned in August upon signing up for the tournament](/blog/2012/08/29/returning-to-chess/), I took a bye for the fourth round because of a schedule conflict with a [Pittsburgh Java User Group](http://www.pghtech.org/networks/PittJug/events.aspx) meeting that I wanted to attend.
 
 Thankfully, I came back for the fifth round finding that I was still tied for first, despite taking a half point bye in the fourth round, because nobody else had a perfect score after four rounds either.
 

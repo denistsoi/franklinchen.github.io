@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Open Spaces success at the Pittsburgh Java Users Group!"
+title: "Open Spaces success at the Pittsburgh Java User Group!"
 date: 2011-10-26 21:19
 comments: true
 categories:
@@ -15,7 +15,7 @@ categories:
 - specs2
 - testing
 ---
-Yesterday evening, the [Pittsburgh Java Users Group](http://java.net/projects/pittjug/)(PittJUG) for the first time adopted an Open Spaces format. The basic idea is that instead of having someone give an hour-long presentation on something, everyone gets involved in choosing topics of discussion and we all break up into small groups to sit in a circle and chat ([more details](https://docs.google.com/document/d/1Yufdr8zGBCWawsuEfKXXkM6ddcHnuhywzGw1lJ0u5TE/edit)).
+Yesterday evening, the [Pittsburgh Java User Group](http://java.net/projects/pittjug/) (PittJUG) for the first time adopted an Open Spaces format. The basic idea is that instead of having someone give an hour-long presentation on something, everyone gets involved in choosing topics of discussion and we all break up into small groups to sit in a circle and chat ([more details](https://docs.google.com/document/d/1Yufdr8zGBCWawsuEfKXXkM6ddcHnuhywzGw1lJ0u5TE/edit)).
 
 If you have never been to an event with this Open Spaces format and philosophy, such an idea might sound chaotic and confusing. The first time I heard about the format, I was extremely skeptical. But the first time I went to an event adopting it, the first [Pittsburgh Geek Out Day](http://www.pghgeekoutday.com/), I found it quite useful and am totally sold on its virtues.
 

@@ -54,7 +54,7 @@ There has been some talk of merging with the JavaScript meetup group.
 
 ## Java
 
-The [Pittsburgh Java Users Group](http://java.net/projects/pittjug/) has been around for quite some time. It meets at the [Pittsburgh Technology Council](http://www.pghtech.org/) on Second Avenue. When there are meetings, they are announced on the mailing list and posted at the [pghtech calendar](http://www.pghtech.org/events/default.aspx) where one should register before attending.
+The [Pittsburgh Java User Group](http://java.net/projects/pittjug/) has been around for quite some time. It meets at the [Pittsburgh Technology Council](http://www.pghtech.org/) on Second Avenue. When there are meetings, they are announced on the mailing list and posted at the [pghtech calendar](http://www.pghtech.org/events/default.aspx) where one should register before attending.
 
 PittJUG was more active in the past: I was attending fairly regularly in 2009 and 2010, but now meetings have been infrequent.
 
