@@ -394,7 +394,7 @@ multitask :push do
     (Dir["#{configuration[:deploy_dir]}/*"]).each { |f| rm_rf(f) }
     puts "Attempting pull, to sync local deployment repository"
     cd "#{configuration[:deploy_dir]}" do
-      system "git pull origin #{configuration[:deploy_branch]}"
+      system "git pull --no-rebase origin #{configuration[:deploy_branch]}"
     end
     puts "\n## copying #{configuration[:destination]} to #{configuration[:deploy_dir]}"
     cp_r "#{configuration[:destination]}/.", configuration[:deploy_dir]
