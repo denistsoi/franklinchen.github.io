@@ -19,6 +19,8 @@ The last recorder potluck/recital I went to was [half a year ago](/blog/2012/07/
 
 {% img /images/recorder-midwinter-2013/DSCN0017.JPG Abby on tamburitza %}
 
+(Additional photos of food and people are now [up on Facebook](http://www.facebook.com/media/set/?set=a.445931198818142.1073741825.330712777006652&type=3).)
+
 ## My two collaborations
 
 As for me, I prepared two pieces to play, both of which required a continuo accompanist. Because of time constraints, I did not actually get together with either of my collaborators, but did send them sound files of myself playing at home, as well as scores. So we never had any rehearsal together, but heck, this was just a party, so it wasn't a big deal that we were going to wing it.
