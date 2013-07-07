@@ -16,6 +16,7 @@ categories:
 - SCons
 - Ruby
 - Rake
+- domain-specific languages
 ---
 I make no secret of the fact the I prefer to program in [statically-typed languages](http://en.wikipedia.org/wiki/Programming_language#Static_versus_dynamic_typing). That is not to say that I don't write programs in dynamically typed languages. In fact, I have written and will continue to write programs in [Perl](/blog/categories/perl/), [Python](/blog/categories/python/), [Ruby](/blog/categories/ruby/), [JavaScript](/blog/categories/javascript/), and other dynamically typed programs, because pragmatically speaking, there is a whole lot more to programming to get something done than questions of [type systems](http://en.wikipedia.org/wiki/Type_system).
 

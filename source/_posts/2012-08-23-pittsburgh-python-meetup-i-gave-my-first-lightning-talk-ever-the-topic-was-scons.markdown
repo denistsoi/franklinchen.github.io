@@ -8,6 +8,7 @@ categories:
 - Pittsburgh
 - programming
 - SCons
+- domain-specific languages
 ---
 Yesterday I gave my first [lightning talk](http://en.wikipedia.org/wiki/Lightning_talk) in my life, as far as I can remember.
 
