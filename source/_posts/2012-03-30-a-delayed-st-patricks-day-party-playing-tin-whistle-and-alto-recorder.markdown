@@ -11,6 +11,7 @@ categories:
 - Irish music
 - chess
 - St. Patrick's Day
+- Georg Philipp Telemann
 ---
 Since so many people couldn't make it to [Henry's St. Patrick's Day party](/blog/2012/03/17/st-patricks-day-party-playing-tin-whistle-and-flute/), Henry threw another party two weeks later, a second St. Patrick's Day party! Abby and I attended this one too.
 

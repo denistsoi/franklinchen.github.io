@@ -9,6 +9,8 @@ categories:
 - singing
 - flute
 - tango
+- bolero
+- Sabor a mî
 ---
 Abby and I went to a pre-Thanksgiving party hosted by Henry and yet again, **I changed my life**.
 

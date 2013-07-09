@@ -11,6 +11,7 @@ categories:
 - Viadana
 - chess
 - George Frideric Handel
+- Georg Philipp Telemann
 ---
 Today was the first meeting of the new season (September-May) of the [Pittsburgh chapter of the American Recorder Society](http://www.andrew.cmu.edu/user/lukas/pcars/Welcome.html) (and [on Facebook](http://www.facebook.com/PittsburghRecorderSociety)). I was excited to be back, since the last time I actually played recorder at all was a month and a half ago at a [potluck/recital](/blog/2012/07/28/my-first-appearance-on-a-music-recital-program/); I've been focused recently on playing [Baroque flute](/blog/categories/baroque-flute/) and [modern flute](/blog/categories/flute/), with a tiny bit of [restarting piano](/blog/categories/piano/).
 

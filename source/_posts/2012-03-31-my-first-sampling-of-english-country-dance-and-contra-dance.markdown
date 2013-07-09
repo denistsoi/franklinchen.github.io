@@ -32,6 +32,6 @@ Sampler lessons like the one at the birthday party today are nice for exposing a
 
 ### (Update of 2013-01-23)
 
-It turns out that I did attend the English country dance at the Mideast early music workshop in July 2012.
+It turns out that I did attend the English country dance at the [Mideast early music workshop in July 2012](/blog/2012/07/21/mideast-early-music-workshop-a-life-changing-experience/).
 
 Also, Abby and I went to [our first contra dance workshop](/blog/2012/10/07/my-first-contra-dance-workshop-unexpected-fun/) in October 2012!

@@ -12,6 +12,7 @@ categories:
 - practice
 - recorder
 - Latin music
+- bolero
 ---
 It was exactly one month ago, January 22, when [I joined](/blog/2012/02/01/joining-an-orchestra-learning-in-the-face-of-terror/) the [Carnegie Mellon All-University Orchestra](http://www.andrew.cmu.edu/user/auo/).
 
@@ -58,6 +59,10 @@ This, too, is a part of life. I've found the hard way that it's *never* best to 
 For example, on Thursday I decided to put away the technique practice, which was not going well, and instead have fun sight-reading a bunch of music I had gotten out of the library earlier. I played around sight-reading [transcribed opera arias from Puccini](http://www.amazon.com/Play-Puccini-Arias-Transcribed-Flute/dp/0634046209/) (I secretly love singing them in Italian even though I'm not a soprano or female!), [transcriptions from Debussy's piano music](http://www.amazon.com/Debussy-Album-Flute-Piano/dp/9043129712/) (I want to play the original piano pieces some day), and a [World Music Cuba](http://www.amazon.com/World-Music-Cuba-Flute-play-along/dp/3702465804) album. It was a lot of fun playing real, lyrical music. I especially liked playing the Cuban music, since I always dreamed about doing that back when I was dancing salsa, rumba, cha cha, and bolero (I also have a goal of seriously singing this genre of music).
 
 Note: eventually I would like to actually practice some of these music arrangements seriously.
+
+#### (Update of 2012-11-17)
+
+Nine months after this blog post, I [sang bolero for the first time in my life, to Abby](/blog/2012/11/17/a-childhood-dream-come-true-i-am-now-finally-singing-for-real/).
 
 #### (Update of 2013-03-17)
 

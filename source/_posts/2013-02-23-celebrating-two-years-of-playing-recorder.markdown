@@ -12,6 +12,7 @@ categories:
 - viola da gamba
 - Niccolò Dôthel
 - tambura
+- Mideast early music workshop
 ---
 I was very excited to celebrate two years of playing recorder by attending the [Pittsburgh Recorder Society](http://www.andrew.cmu.edu/user/lukas/pcars/Welcome.html) "Midwinter Musical Feast" potluck and informal recital at Helen's. Last year (2012) we didn't have a winter party, but I still remember when two years ago (2011), on February 19, I started learning the alto recorder at home by myself, and then [decided to join the Pittsburgh Recorder Society](/blog/2011/09/26/i-dont-feel-like-practicing-but-im-gonna-do-it-anyway/). Helen was actually my first email contact from the group, and she had immediately invited me to come to the Midwinter Musical Feast, but not having actually met anybody yet, and also barely just beginning to play recorder, I was too intimidated and decided to skip the party and instead practice for two weeks before attending my first meeting of the group.
 
@@ -41,7 +42,7 @@ I worked rather hard on this piece, actually, in the sense of coming up with som
 
 Two months ago, I had actually run through this piece on Baroque flute with piano accompaniment [at a party](/blog/2012/12/22/playing-tango-on-melodica-and-singing-christmas-carols/), but just sight read by Henry on piano and in a noisy environment that was not ideal.
 
-This time, I actually worked on playing it in a quiet environment. Karen Parsons, whom I actually formally met just before last year's [Mideast early music workshop](http://www.mideastearlymusic.addr.com/), which we both participated in, was kind enough to agree to play the continuo part on viola da gamba.
+This time, I actually worked on playing it in a quiet environment. Karen Parsons, whom I actually formally met just before [last year's Mideast early music workshop](/blog/2012/07/21/mideast-early-music-workshop-a-life-changing-experience/), which we both participated in, was kind enough to agree to play the continuo part on viola da gamba.
 
 I had a false start and a scare though! What happened was that I had planned to play the piece on Annie's wooden Baroque flute that she had lent to me, and I had in fact practiced it on this instrument just fine for days, but somehow, I could not make a sound at all on her flute after I performed the Handel recorder sonata. I was completely mystified. Luckily, I had a backup plan: I had brought along my own plastic Aulos Baroque flute, and I was perfectly able to play it instead, and so we proceeded. I am still not entirely certain why Annie's flute suddenly failed to work for me; upon arriving at the party, I had actually warmed up the flute and played a few notes on it for confidence. My speculation is that it was a mistake to play recorder right before flute, and maybe my embouchure was slightly off on the particular instrument I had only been playing for a few days.
 

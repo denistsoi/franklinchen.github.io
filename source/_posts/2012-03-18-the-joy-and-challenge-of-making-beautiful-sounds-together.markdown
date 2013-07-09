@@ -9,6 +9,7 @@ categories:
 - flute
 - Pittsburgh
 - harmony
+- Georg Philipp Telemann
 ---
 Today I enjoyed yet another monthly meeting of the [Pittsburgh chapter of the American Recorder Society](http://www.andrew.cmu.edu/user/lukas/pcars/Welcome.html). I haven't been talking much about playing recorder, because I've been focused almost entirely on flute in my own practice, but I've been faithfully attending the monthly meetings of the recorder society, because I very much enjoy playing in an ensemble and continuing to learn to be a more aware and sensitive ensemble musician.
 

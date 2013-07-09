@@ -14,6 +14,7 @@ categories:
 - Pittsburgh
 - Pretty Good Race
 - FiveFingers
+- Invisible Shoes
 ---
 For three weeks now, I have been wearing a pair of [Invisible Shoes](http://www.invisibleshoe.com/) huaraches almost exclusively when walking and running outside. I have worn them daily walking, and I have run in them on roads, on sidewalks, on grass, and in park trails.
 
