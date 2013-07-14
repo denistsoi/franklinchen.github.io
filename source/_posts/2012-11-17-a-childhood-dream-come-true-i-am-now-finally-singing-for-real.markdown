@@ -11,6 +11,12 @@ categories:
 - tango
 - bolero
 - Sabor a mî
+- Gabriel Fauré
+- Après un rêve
+- Robert Schumann
+- Widmung
+- Carlos Gardel
+- Por una cabeza
 ---
 Abby and I went to a pre-Thanksgiving party hosted by Henry and yet again, **I changed my life**.
 

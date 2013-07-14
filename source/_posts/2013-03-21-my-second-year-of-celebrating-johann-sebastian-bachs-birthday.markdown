@@ -27,7 +27,7 @@ I have a tale of accidental love to tell.
 
 ### Alto recorder
 
-In 2011, I started playing alto [recorder](/blog/categories/recorder/), teaching myself and joining the Pittsburgh Recorder Society. I first completed the two-volume method by Orr, over the course of approximately two months, February through April 2011. Then I moved on to the two-volume method by [Mario Duschenes](http://www.aswltd.com/adultmet.htm#begin). One of the great things about the second volume of the Duschenes method is that it contains excerpts of real music. One excerpt that came up was the first movement of Bach's flute sonata in E major, transposed for alto recorder.
+In 2011, I started playing alto [recorder](/blog/categories/recorder/), teaching myself and joining the Pittsburgh Recorder Society. I first completed the two-volume method by Orr, over the course of approximately two months, February through April 2011. Then I moved on to the two-volume method by [Mario Duschenes](http://www.aswltd.com/adultmet.htm#begin). One of the great things about the second volume of the Duschenes method is that it contains excerpts of real music. One excerpt that came up was the first movement of [Bach's flute sonata in E major](http://en.wikipedia.org/wiki/Sonata_in_E_major_for_flute_or_recorder_and_basso_continuo), transposed for alto recorder.
 
 I had never heard this music before, so I looked for recordings of it. This was not so easy! The reason is that I kept on finding recordings of the original flute version, but at the time, I was not yet playing the flute, only recorder, and only interested in recorder. Then I found a recording by [Michala Petri](http://en.wikipedia.org/wiki/Michala_Petri) and Keith Jarrett. So I worked on this *adagio ma non tanto* first movement and periodically played along with Petri's recording.
 
@@ -53,13 +53,27 @@ However, because Bach on the [Baroque flute](/blog/categories/baroque-flute/) ha
 
 Here are some videos illustrating a little bit of how the sounds and interpretations may differ.
 
+### Baroque flute: Jed Wentz
+
 A performance by [Jed Wentz](http://www.jedwentz.com/jedwentz.com/Welcome.html) on Baroque flute:
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/m0CiLHDH5FQ" frameborder="0" allowfullscreen></iframe>
 
+#### (Update of 2013-07-04)
+
+I no longer like this performance as much as I did initially. It is a bit frantic, with some blazing fast playing that I would like to be a bit slower.
+
+### Modern flute: Emmanuel Pahud
+
 A performance by Emmanuel Pahud on modern flute, but playing with fine sensitivity to elements of Baroque style:
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/YyePpU1_lKo" frameborder="0" allowfullscreen></iframe>
+
+#### (Update of 2013-07-04)
+
+My, taste changes in three months: I no longer like this performance. It is simultaneously still too smooth and too restrained.
+
+### Another modern flutist: Nikos Nikopoulos
 
 A random modern flutist playing in a bland legato-all-the-time style:
 
@@ -69,3 +83,6 @@ A random modern flutist playing in a bland legato-all-the-time style:
 
 Bach's birthday is a good time to remember and re-create and re-experience what was beautiful and special about the music of the Baroque era, before changes in taste and style came along in the late 18th century and onward. For me, the flute sonatas will always be a source of rediscovery and exploration of the Baroque world.
 
+### (Update of 2013-07-04)
+
+I have more [thoughts on this sonata](/blog/2013/07/04/more-summer-musical-partying/).
