@@ -36,7 +36,7 @@ I told Henry I was much improved musically since [we played together two months 
 
 ### Telemann's flute sonata in B minor, TMV 41:h4
 
-One piece we tackled was [Telemann's flute sonata in B minor, TMV 41:h4](http://imslp.org/wiki/Flute_Sonata,_TWV_41:h4_(Telemann,_Georg_Philipp\)). I had only actually gone over the first two movements, so we were both sight reading the last two. That was something of a wreck for me, but gives me homework to do: originally I had not actually planned on learning the whole sonata, now I want to!
+One piece we tackled was [Telemann's flute sonata in B minor, TMV 41:h4](http://imslp.org/wiki/Flute_Sonata,_TWV_41:h4_%28Telemann,_Georg_Philipp%29). I had only actually gone over the first two movements, so we were both sight reading the last two. That was something of a wreck for me, but gives me homework to do: originally I had not actually planned on learning the whole sonata, now I want to!
 
 ### Bach's flute sonata in E major, BWV 1035
 

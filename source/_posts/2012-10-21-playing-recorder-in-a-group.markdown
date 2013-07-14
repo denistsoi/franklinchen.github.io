@@ -13,7 +13,7 @@ categories:
 ---
 Today was the second meeting of the current season of the [Pittsburgh chapter of the American Recorder Society](http://www.andrew.cmu.edu/user/lukas/pcars/Welcome.html). I reported last month on [how excited I was to begin the new season](/blog/2012/09/16/excited-by-the-new-season-of-the-pittsburgh-recorder-society/).
 
-{% /images/pittsburgh-recorder-dessert.jpg Pittsburgh Recorder Society dessert by Helen %}
+{% img /images/pittsburgh-recorder-dessert.jpg Pittsburgh Recorder Society dessert by Helen %}
 
 And it's not just about the tasty desserts that Helen makes for us every month, of course (which basically compel me to exercise *before* going to the meeting).
 
