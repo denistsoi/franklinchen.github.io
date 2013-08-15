@@ -29,6 +29,14 @@ I even got sucked into true geekery, memorizing nearly 50 digits of *π* in the 
 
 Doing math and physics homework in college, I got burned repeatedly by the extra work of carrying around factors of 2 and canceling them out when doing arithmetic, because of the incorrect definition of the "circle constant" as *π*.
 
+### (Update of 2013-08-06)
+
+While doing some cleaning, I happened to find in my office the very book that I had on me during the trip and that Bryan wrote into (not the inside front cover, but the inside back cover)!
+
+{% img /images/book-pi.jpg %}
+
+{% img /images/pi.jpg %}
+
 ## The mystery of *2π*
 
 *2π* keeps on popping up in places other than in high school trigonometry and calculus. As Michael Hartl points out in his excellent [Tau Manifesto](http://tauday.com/tau-manifesto), anyone who has used the Gaussian ("bell curve") distribution, through work in probability, statistics, machine learning, etc., sees the square root of *2π* all the time, and engineers and physicists see *2π* all the time when doing the Fourier transform. Eventually we just learn to immediately think that *π* is just half of something. For example, if you're doing an integral only on half the *x*-axis, you remember to use *π*. This is stupid, carrying around that extra 2 everywhere.
