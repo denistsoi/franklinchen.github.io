@@ -37,6 +37,10 @@ While doing some cleaning, I happened to find in my office the very book that I 
 
 {% img /images/pi.jpg %}
 
+### (Update of 2013-08-22)
+
+I found out that the physicist Hugh Young, the author of the book I have that Bryan wrote *π* into, [just died](http://www.cmu.edu/news/stories/archives/2013/august/aug22_hughyoungobit.html). RIP.
+
 ## The mystery of *2π*
 
 *2π* keeps on popping up in places other than in high school trigonometry and calculus. As Michael Hartl points out in his excellent [Tau Manifesto](http://tauday.com/tau-manifesto), anyone who has used the Gaussian ("bell curve") distribution, through work in probability, statistics, machine learning, etc., sees the square root of *2π* all the time, and engineers and physicists see *2π* all the time when doing the Fourier transform. Eventually we just learn to immediately think that *π* is just half of something. For example, if you're doing an integral only on half the *x*-axis, you remember to use *π*. This is stupid, carrying around that extra 2 everywhere.
