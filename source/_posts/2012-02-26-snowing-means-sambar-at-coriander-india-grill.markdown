@@ -10,6 +10,8 @@ categories:
 - exercise
 - paleo
 - fasting
+- restaurants
+- Coriander India Grill
 ---
 {% img /images/coriander-grill/store-front.jpg Coriander Grill %}
 

@@ -15,6 +15,8 @@ categories:
 - SPIbelt
 - Gatorade
 - GU
+- restaurants
+- Coriander India Grill
 ---
 {% img http://sphotos-b.xx.fbcdn.net/hphotos-ash3/602768_422297731198378_798317370_n.jpg View from Mount Washington %}
 
