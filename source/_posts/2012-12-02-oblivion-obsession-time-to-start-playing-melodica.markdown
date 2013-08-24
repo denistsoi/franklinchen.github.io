@@ -18,6 +18,7 @@ categories:
 - piano
 - Holiday Ball
 - bossa nova
+- recorder
 ---
 I have been obsessed for some time with Piazzolla's beautiful tango piece ["Oblivion"](http://www.astor-piazzolla.org/astor-piazzolla-oblivion/). I was planning to perform it some time on flute, but today, by accident, I decided that I want to play it on my [melodica](http://www.grothmusic.com/p-4654-hohner-s32-student-32-key-melodica.aspx) instead!
 
@@ -60,6 +61,12 @@ Here is someone playing melodica:
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/fG0TcCFUrBQ" frameborder="0" allowfullscreen></iframe>
 
+### Melodica and piano (discovered 2013-08-22)
+
+A Japanese duo:
+
+<iframe width="420" height="315" src="//www.youtube.com/embed/AAP4GB8T8DI" frameborder="0" allowfullscreen></iframe>
+
 ### Accordion
 
 Here's my friend Henry playing his solo arrangement for accordion:
@@ -83,6 +90,12 @@ Vesko Eschkenazy:
 Wow. Wow. Milva singing French lyrics, Piazzolla himself on bandoneón!
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/lzC1kKZGxBg" frameborder="0" allowfullscreen></iframe>
+
+### Recorder quartet (discovered 2013-08-22)
+
+A Japanese recorder quartet, [Sekishi Recorder Quartet](http://www.geocities.jp/sekishirecorderquartet/english.htm). Very nice!
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/3PmaOyZNWo8" frameborder="0" allowfullscreen></iframe>
 
 ### Tango dancers
 
