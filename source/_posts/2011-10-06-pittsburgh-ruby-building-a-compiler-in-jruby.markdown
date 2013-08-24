@@ -15,7 +15,7 @@ categories:
 - Bitescript
 - domain-specific languages
 ---
-Tonight I attended the meeting of the [Pittsburgh Ruby group](http://pghrb.heroku.com/) at Vivisimo. It's been a year now since I first discovered the Pittsburgh Ruby group and finally attended my first meeting as an initial non-Rubyist in November 2010, at the encourage of Bruce, who said it was a friendly group.
+Tonight I attended the meeting of the [Pittsburgh Ruby group](http://pghrb.heroku.com/) at Vivisimo. It's been a year now since I first discovered the Pittsburgh Ruby group and finally attended my first meeting as an initial non-Rubyist on November 4, 2010, at the encouragement of Bruce, who said it was a friendly group.
 
 ## Presentation
 
