@@ -105,3 +105,7 @@ I thought the race was pretty well-organized, especially given that this was the
 ## Conclusion
 
 The inaugural GNC Live Well Liberty Mile was a great event. I hope it is the beginning of a Pittsburgh tradition that, like the Great Race and the Pittsburgh Marathon, will continue for years and decades to come.
+
+### (Update of 2013-08-09)
+
+[I ran the second Liberty Mile a year later.](/blog/2013/08/09/getting-up-when-reality-punches-you-in-the-face-running-the-second-liberty-mile-in-pittsburgh/)
