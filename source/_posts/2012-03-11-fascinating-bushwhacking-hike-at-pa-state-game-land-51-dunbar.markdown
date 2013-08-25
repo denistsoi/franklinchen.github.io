@@ -113,9 +113,6 @@ Finally, a view of our cars!!
 
 {% img /images/pa-state-game-land-51/cars.jpg %}
 
-TODO
-video
-
 ## Conclusion
 
 A very tough hike, not the kind Abby and I would normally do every weekend, but it's really special to have people like Jeff and Terri lead us through this kind of terrain, and for all of us to be surprised by what we find.
