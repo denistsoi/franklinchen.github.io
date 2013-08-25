@@ -277,6 +277,8 @@ So I associate the Rachel Carson Trail not only with falling in love with hiking
 
 Finally, despite the strange hybrid nature of the trail, I believe in its existence and maintenance. It is a reminder that even in urban/suburban environments, there is still an underlying primitive nature that we can enjoy. The volunteers of the Rachel Carson Trails Conservancy work hard to keep this unusual resource open to the public.
 
+([Example from March 2012 of the kind of hike that Abby and I have enjoyed doing.](/blog/2012/03/11/fascinating-bushwhacking-hike-at-pa-state-game-land-51-dunbar/))
+
 ## Conclusion
 
 The Rachel Carson Trail will always have a special place in my heart.
