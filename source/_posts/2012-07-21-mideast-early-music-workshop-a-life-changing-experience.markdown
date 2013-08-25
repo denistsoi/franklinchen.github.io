@@ -16,6 +16,7 @@ categories:
 - Georg Philipp Telemann
 - Invisible Shoes
 - practice
+- Claude Debussy
 - Syrinx
 - concert
 ---

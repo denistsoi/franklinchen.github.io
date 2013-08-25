@@ -13,6 +13,7 @@ categories:
 - recorder
 - Latin music
 - bolero
+- Claude Debussy
 ---
 It was exactly one month ago, January 22, when [I joined](/blog/2012/02/01/joining-an-orchestra-learning-in-the-face-of-terror/) the [Carnegie Mellon All-University Orchestra](http://www.andrew.cmu.edu/user/auo/).
 

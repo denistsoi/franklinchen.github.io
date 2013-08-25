@@ -9,11 +9,16 @@ categories:
 - James Galway
 - Emmanuel Pahud
 - Carmen
+- Claude Debussy
 - Syrinx
 ---
 So it's been less than two weeks since I [started playing flute again](/blog/2011/11/09/taking-up-flute-again-after-decades/). One thing I forgot to mention is that [James Galway](http://en.wikipedia.org/wiki/James_Galway) made me hate flute for decades.
 
 The bottom line is that I never liked Galway's distinctive vibrato and sound. Unfortunately, for some reason, I kept on seeing him on TV and hearing him on the radio, and so he sort of represented to me "flute".
+
+### (Update of 2013-08-23)
+
+I have periodically received comments from people very unhappy with my dislike of the playing of James Galway. I mean no disrespect: everyone has different taste. I should add that I actually love and respect James Galway as a musician and as an educator. I will write a detailed blog post about that at some point.
 
 ## Revival through jazz
 
@@ -30,6 +35,10 @@ I went and found CDs by Pahud at the library. Great stuff! He is definitely my f
 Here is a beautiful video of Pahud performing "Syrinx" on YouTube:
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/aw53VrbI4l0" frameborder="0" allowfullscreen></iframe>
+
+#### (Update of 2013-08-23)
+
+[I wrote for Debussy's 151st birthday a note on unusual performances of Syrinx.](/blog/2013/08/23/celebrating-claude-debussys-151st-birthday-through-unusual-performances-of-syrinx/)
 
 ### Entr'acte from Carmen
 
