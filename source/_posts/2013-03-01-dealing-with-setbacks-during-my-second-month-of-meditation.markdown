@@ -43,3 +43,7 @@ Again, the real solution is to get the meditation in early in the morning. Havin
 Despite all the setbacks, I still keep on meditating. It is easy to stop doing something when you realize you're doing it "badly". It is easy to say "what's the point?" or "I'll never get this right" or "I'm a loser". But I keep in mind that meditation is meditation, however it is done. I don't stop flossing my teeth just because I don't always do it perfectly, after all. And sometimes the benefits do not become apparent until an unexpected turn (such as Abby's accident) that showcases the need to be present and calm in the face of challenges.
 
 It's been two months now since New Year. Do you have New Year habits that you threw yourself into with enthusiasm that you have now fallen away from or are ashamed of not keeping up the way you had hoped? How have you coped with your own imperfection?
+
+### (Update of 2013-08-10)
+
+I never wrote up a report on March meditation, or April, or my giving up meditation in May. Here is an [explanation of what happened and how I decided to get back on track](/blog/2013/08/10/emerging-from-my-three-months-of-illness-self-pitying-and-self-loathing/).
