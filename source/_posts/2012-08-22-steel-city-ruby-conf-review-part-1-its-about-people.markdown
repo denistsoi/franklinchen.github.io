@@ -10,6 +10,9 @@ categories:
 - Ruby
 - introversion
 - shyness
+- Steel City Ruby
+- Jim Weirich
+- ukulele
 ---
 The inaugural [Steel City Ruby Conf](http://steelcityrubyconf.org/) was over two weeks ago. I was so excited by it that I vowed to change my life in several ways. Although I was way too busy with work, and a wedding to fly to (that Abby and I expanded into a full-blown vacation), I knew that the excitement would fade if I did not do at least one thing in order to remember and revisit the experience, so I wrote up a [very short blog post](/blog/2012/08/07/the-first-steel-city-ruby-conference-an-amazing-experience/) immediately after the conference in order to publicly commit to both *writing* more and also *doing* something new.
 
@@ -53,6 +56,12 @@ I took the opportunity also to talk much more in depth with local people I had m
 
 I ate lunch with different groups of people, all new and some from out of town. At Saturday's party sponsored by ModCloth, I met yet more people while eating appetizers.
 
+#### (Update of 2013-08-23)
+
+One personal detail I did not make note of here in this post was that I approached Jim Weirich and thanked him for the time he came to Pittsburgh to give a talk, and played music on ukulele with some members of the Pittsburgh Ruby user group, before giving his talk, "The Polite Programmer's Guide to Ruby Etiquette" (which was a fine presentation I learned a lot from). This was on December 2, 2010, and was my second attendance of the group (my first was the November 4, 2010 meeting). I was taken totally by surprise by this musical prelude to the presentation! My gut impression was that any community that celebrated having fun with music was one worth continuing to check out.
+
+Not only did this fun draw me into the Ruby group, but also it played a role in encouraging me to take up playing music, and indeed, ukulele eventually! [The full story is here](/blog/2013/08/23/another-unexpected-life-change-one-month-of-learning-to-play-ukulele/). One part of the story is in 2012, I was afraid to participate in the lunch time music jam with Jim and other people, but in 2013, I stepped up, and played ukulele.
+
 ### After the conference
 
 I followed more people on Twitter and began connecting with more people (local and not) with LinkedIn.
@@ -69,3 +78,7 @@ If you were at Steel City Ruby Conf, I want to know what you got out of it:
 
 - Did you reflect on your experience and share it with someone, through private conversation or through a public discussion?
 - How is your personal or work life, two weeks later, different as a result?
+
+## (Update of 2013-08-23)
+
+I never finished writing a "Part 2" to this post. It was supposed to focus on the technical side of the conference, with the observation that it was not just about Ruby, but about practices that are independent of programming language and/or have to do with larger issues in the world of software development beyond the "coding" part.
