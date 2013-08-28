@@ -20,7 +20,7 @@ And if you live in the Pittsburgh area and would like to join in playing with us
 
 ## French jam
 
-I arrived somewhat late because I was coming from leaving the second [OpenHack Pittsburgh](http://openhack.github.com/pittsburgh/) early (regrettably); in retrospect, I was trying to squeeze in too much on a Monday evening and should have skipped attending OpenHack Pittsburgh, but I had too much enjoyed [the first one](/blog/2013/01/21/attending-the-first-openhack-pittsburgh-meeting/).
+I arrived somewhat late because I was coming from leaving the [second OpenHack Pittsburgh](/blog/2013/02/25/openhack-pittsburgh-studying-scala/) early (regrettably); in retrospect, I was trying to squeeze in too much on a Monday evening and should have skipped attending OpenHack Pittsburgh, but I had too much enjoyed [the first one](/blog/2013/01/21/attending-the-first-openhack-pittsburgh-meeting/).
 
 When I arrived, Lisa, John, and Allison were already playing together (on fiddle, accordion, piano), and I joined them for two hours of jamming and playing for the dancers who arrived later.
 
