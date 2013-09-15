@@ -12,6 +12,8 @@ categories:
 - melodica
 - Brandenburg concertos
 ---
+{% img /images/pittsburgh-historical-music-society-concert/program.jpg Program %}
+
 On Sunday, Abby and I carpooled with Helen and Mike (of the [recorder](/blog/categories/recorder/) gang) to Ambridge for a free concert given by the [Pittsburgh Historical Music Society](http://pghhistoricalmusicsociety.org/) as part of a Christmas-themed event in [Old Economy Village](http://www.oldeconomyvillage.org/).
 
 That was a long way to drive to see an amateur group give a concert. So why did we pile into the car?
