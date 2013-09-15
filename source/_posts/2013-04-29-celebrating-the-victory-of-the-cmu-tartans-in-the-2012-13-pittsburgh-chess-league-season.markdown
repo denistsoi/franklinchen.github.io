@@ -10,8 +10,7 @@ categories:
 - Carnegie Mellon University
 - Pittsburgh
 ---
-The CMU Tartans won the 2012-13 [Pittsburgh Chess League](http://www.pitt.edu/~schach/ChessPA/ChessLeague/wpapcl.htm
-) ([division I](http://www.pitt.edu/~schach/ChessPA/ChessLeague/pcli.htm))!
+The CMU Tartans won the 2012-13 [Pittsburgh Chess League](http://www.pitt.edu/~schach/ChessPA/ChessLeague/wpapcl.htm) ([division I](http://www.pitt.edu/~schach/ChessPA/ChessLeague/pcli.htm))!
 
 Out of 6 matches (there were 7 rounds with a bye round for each team), we won the first 5 matches, losing only the final match.
 
