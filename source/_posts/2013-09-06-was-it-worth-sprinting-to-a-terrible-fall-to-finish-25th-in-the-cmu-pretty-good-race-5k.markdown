@@ -92,7 +92,7 @@ I will keep sprinting. I will keep trying to beat whoever is beatable in front o
 
 So my response is: I will need to work on maintaining balance and running on tricky surfaces.
 
-Also, Abby and I decided we should make sure to have a first aid kid around in the future.
+Also, Abby and I decided we should make sure to have a first aid kit around in the future.
 
 ## The next race
 
