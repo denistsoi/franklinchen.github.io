@@ -21,6 +21,12 @@ I just attended [my second meeting](http://www.meetup.com/Steel-City-Ukuleles/ev
 
 Adam led a great playlist of songs for us to go through.
 
+## Steel City Ukuleles T-shirt
+
+{% img /images/steel-city-ukuleles-shirt.jpg Franklin wearing Steel City Ukuleles shirt %}
+
+The first thing I did upon arrival at the session was to pay for and put on the Steel City Ukuleles T-shirt that Sunny said was for sale at my last meeting. I picked the blue one (there is also a red one). Very nice, and I'm proud to be wearing it!
+
 ## Singing
 
 Two weeks ago, at my first meeting, I was only on my fifth week of playing the ukulele at all, and struggled to keep up with chords and their changes in real time while also strumming, much less singing, so I did very little singing (especially since I barely knew most of the songs).
@@ -37,7 +43,19 @@ I'm experiencing the same transformation of my perception and taste and enjoymen
 
 I'm still using the loaner banjolele, because the intonation of my Lanikai soprano ukulele is too far off (eventually I should figure out how to fix it).
 
-I returned Linda's electric tenor and she lent me another instrument, an inexpensive concert ukulele. It's been a good thing for me to try out different instruments, before I buy a concert sized ukulele of my own, which I should do soon, because just a week ago, I signed up to perform in a gig!
+I returned Linda's electric tenor and she lent me another instrument, an inexpensive concert ukulele (pictured):
+
+{% img /images/steel-city-ukuleles-shirt.jpg Franklin wearing Steel City Ukuleles shirt %}
+
+ It's been a good thing for me to try out different instruments, before I buy a concert sized ukulele of my own, which I should do soon, because just a week ago, I signed up to perform in a gig!
+
+## Small group and solo playing
+
+What has been really inspiring and was seeing some of the members of the group volunteer to sing and play something they wanted to share with the rest of us. I enjoy appreciating the vulnerability and individuality of soloing.
+
+For example, Heidi, Amber, and Sunny performed a song as a trio, with beautiful ukulele playing and singing in harmony.
+
+{% img /images/heidi-amber-sunny.jpg Heid, Amber, and Sunny %}
 
 ## I decided to perform before I was ready
 
@@ -57,4 +75,4 @@ I'm starting to settle in on playing ukulele. In my seventh week now, I've gotte
 
 ### (Update of 2013-09-18)
 
-Two weeks later: a report on [my third Steel City Ukuleles meeting](/blog/2013/09/18/my-third-meeting-of-the-steel-city-ukuleles/)..
+Two weeks later: a report on [my third Steel City Ukuleles meeting](/blog/2013/09/18/my-third-meeting-of-the-steel-city-ukuleles/).

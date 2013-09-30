@@ -12,6 +12,8 @@ categories:
 - Pittsburgh
 - singing
 ---
+{% img /images/steel-city-ukuleles-2013-09-18.jpg Steel City Ukuleles %}
+
 I've entered my ninth week of playing ukulele: almost two months now!
 
 Two weeks ago, I wrote about my second meeting of the Steel City Ukuleles and [why I decided to perform so quickly after joining and as a beginner to the ukulele](/blog/2013/09/04/my-second-meeting-of-the-steel-city-ukuleles/).
@@ -44,7 +46,7 @@ So I've found that other than scanning the chords and working on getting them an
 
 ## Ecofest gig
 
-Sunny gave us more details about the upcoming Ecofest gig that I signed up to take part in. We are going to receive nice little spiral-bound books containing the songs for performance.
+Sunny gave us more details about the logistics of our upcoming Ecofest gig that I signed up to take part in. We are going to receive nice little spiral-bound books containing the songs for performance.
 
 ## Study
 
@@ -57,4 +59,3 @@ Yesterday, I finally just put in an order online for a new ukulele. I am going f
 ## Conclusion
 
 I'm definitely getting serious about ukulele. I've invested not only in ukulele technique books, but also in a new instrument.
-
