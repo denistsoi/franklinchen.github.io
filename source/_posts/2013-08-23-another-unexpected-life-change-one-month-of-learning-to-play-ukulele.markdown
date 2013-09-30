@@ -232,3 +232,7 @@ I've been using it to get the feel of the concert size while continuing to pract
 It's been quite a journey, getting into music and into ukulele through seemingly chance and trivial events such as music at a Pittsburgh Ruby meetup and hearing about Jake Shimabukuro.
 
 And I'm so excited that I'm playing ukulele now. It's a whole different music world for me. I'll write more about what I mean, as I continue to progress.
+
+### (Update of 2013-09-04)
+
+Two weeks after my first Steel City Ukuleles meeting, I went back for more, attending [my second meeting](/blog/2013/09/04/my-second-meeting-of-the-steel-city-ukuleles/).
