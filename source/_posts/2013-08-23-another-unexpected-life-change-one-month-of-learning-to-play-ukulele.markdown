@@ -227,6 +227,10 @@ Meanwhile, Abby yesterday brought home a concert-sized [banjolele](http://en.wik
 
 I've been using it to get the feel of the concert size while continuing to practice and learn, and so far it's been working great, giving me confidence that I should in fact buy a concert size ukulele.
 
+### (Update of 2013-09-23)
+
+A month later, I actually did finally [buy a concert ukulele](/blog/2013/09/23/finally-got-a-nice-new-ukulele-mainland-classic-mahogony-concert/)!
+
 ## Conclusion
 
 It's been quite a journey, getting into music and into ukulele through seemingly chance and trivial events such as music at a Pittsburgh Ruby meetup and hearing about Jake Shimabukuro.
