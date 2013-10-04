@@ -5,6 +5,7 @@ date: 2011-10-08 17:50
 comments: true
 categories: 
 - Pittsburgh
+- South Side Slopes
 - Pittsburgh Step Trek
 - hiking
 - shoes
@@ -69,3 +70,9 @@ One thing we particular enjoyed after finishing was looking at the gallery of hi
 ## (Update of 2012-10-06)
 
 The following year, sadly, I did not do the Pittsburgh Step Trek again, because of a schedule conflict with [the Fineview Stepathon that I did instead](/blog/2012/10/06/the-fineview-stepathon-2012-pittsburghs-grueling-urban-trail-race/). We'll have to see what the schedules are for 2013.
+
+## (Update of 2013-9-25)
+
+Unfortunately, because of schedule conflicts again, Abby and I will not able to attend Step Trek. It seems that everything in Pittsburgh happens on the weekend of Step Trek.
+
+But I attended a special preview tour that enabled me to [catch up on changes and also promote the event](/blog/2013/09/25/why-you-should-go-out-to-the-pittsburgh-south-side-slopes-step-trek/).
