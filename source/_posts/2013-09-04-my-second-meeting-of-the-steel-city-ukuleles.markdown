@@ -55,7 +55,7 @@ What has been really inspiring and was seeing some of the members of the group v
 
 For example, Heidi, Amber, and Sunny performed a song as a trio, with beautiful ukulele playing and singing in harmony.
 
-{% img /images/heidi-amber-sunny.jpg Heid, Amber, and Sunny %}
+{% img /images/heidi-amber-sunny.jpg Heidi, Amber, and Sunny %}
 
 ## I decided to perform before I was ready
 
