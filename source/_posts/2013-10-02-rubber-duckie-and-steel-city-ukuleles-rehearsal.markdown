@@ -17,7 +17,7 @@ categories:
 
 Sunny was not present, so Amber took charge of this meetup session.
 
-{% /images/steel-city-ukuleles-2013-10-02.jpg %}
+{% img /images/steel-city-ukuleles-2013-10-02.jpg %}
 
 ## Rubber Duckie
 
@@ -29,7 +29,7 @@ One slightly crazy thing we tried was running through "Rubber Duckie", which I h
 
 This song is hard, with a lot of chord changes. I would like to actually master it and play it solo for Abby before Pittsburgh's rubber duck leaves.
 
-{% /images/steel-city-ukuleles-2013-10-02-rubber-duckie.jpg %}
+{% img /images/steel-city-ukuleles-2013-10-02-rubber-duckie.jpg %}
 
 ## Rehearsal
 
