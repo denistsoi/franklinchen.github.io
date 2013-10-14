@@ -12,6 +12,7 @@ categories:
 - Xero Shoes
 - FiveFingers
 - sick
+- Smiley Cookie
 ---
 {% img /images/great-race-2012/great-race-expo.jpg Great Race quilt %}
 

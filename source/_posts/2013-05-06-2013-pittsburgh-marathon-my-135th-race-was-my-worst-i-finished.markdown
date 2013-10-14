@@ -14,6 +14,7 @@ categories:
 - SPIbelt
 - Boston Marathon
 - Carnegie Mellon University
+- Smiley Cookie
 ---
 {% img /images/pittsburgh-marathon-2013/runner-of-steel.jpg Franklin Chen, runner of steel %}
 

@@ -15,6 +15,7 @@ categories:
 - Elite Runners and Walkers
 - Steel City Road Runners
 - Gatorade
+- Smiley Cookie
 ---
 (Updated 2013-05-09 with official race videos!)
 
