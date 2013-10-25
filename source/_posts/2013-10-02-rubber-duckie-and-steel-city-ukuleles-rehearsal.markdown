@@ -10,6 +10,7 @@ categories:
 - Steel City Ukuleles
 - Regent Square
 - singing
+- rubber duck
 - Rubber Duckie
 - Pittsburgh
 ---
@@ -23,7 +24,7 @@ Sunny was not present, so Amber took charge of this meetup session.
 
 I enjoyed learning some new songs in the first half.
 
-One slightly crazy thing we tried was running through "Rubber Duckie", which I had actually suggested to Snny in email for the playlist for the next meetup, but apparently others had also suggested, for obvious reasons here in Pittsburgh.
+One slightly crazy thing we tried was running through "Rubber Duckie", which I had actually suggested to Sunny in email for the playlist for the next meetup, but apparently others had also suggested, for obvious reasons here in Pittsburgh.
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/n-kHSXQ_wwk" frameborder="0" allowfullscreen></iframe>
 

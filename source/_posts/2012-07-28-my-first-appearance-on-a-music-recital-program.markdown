@@ -10,6 +10,8 @@ categories:
 - flute
 - Baroque flute
 - CPE Bach
+- Renaissance
+- Baroque
 - Jacob Van Eyck
 - Scottish music
 ---
