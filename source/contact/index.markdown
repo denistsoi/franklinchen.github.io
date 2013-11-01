@@ -18,7 +18,7 @@ Please send me email at <a href='&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#102;&
 ## Some social networks I'm on
 
 - [Twitter: @franklinchen](http://twitter.com/franklinchen)
-- [Google+](https://plus.google.com/100967806642012078047?rel=me)
+- [Google+](http://plus.google.com/+FranklinChen?rel=me)
 - [LinkedIn](http://www.linkedin.com/in/franklinchen)
 - [Facebook](http://www.facebook.com/franklin.chen)
 
