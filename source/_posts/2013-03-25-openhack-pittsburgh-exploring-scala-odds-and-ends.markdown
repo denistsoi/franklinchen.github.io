@@ -33,7 +33,7 @@ Here's sample code showing [how to do it](https://github.com/FranklinChen/test-l
 
 ### Property-based testing
 
-I also mentioned that I was working on a presentation on a cool Scala library supporting property-based testing, [ScalaCheck](https://github.com/rickynils/scalacheck).
+I also mentioned that I was working on a presentation on a cool Scala library supporting property-based testing, [ScalaCheck](http://www.scalacheck.org/).
 
 #### (Update of 2013-04-11)
 
