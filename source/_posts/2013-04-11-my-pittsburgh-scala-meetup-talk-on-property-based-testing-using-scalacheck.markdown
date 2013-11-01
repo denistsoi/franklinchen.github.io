@@ -27,7 +27,7 @@ This time there were only six of us in attendance, but that had its advantages, 
 
 ## Presentation
 
-I gave a presentation "Beyond xUnit example-based testing: property-based testing with ScalaCheck" as an introduction to property-based testing, with examples using [ScalaCheck](https://github.com/rickynils/scalacheck).
+I gave a presentation "Beyond xUnit example-based testing: property-based testing with ScalaCheck" as an introduction to property-based testing, with examples using [ScalaCheck](http://www.scalacheck.org/).
 
 I prepared the presentation with the goal of spreading the word on property-based testing as a complement to much more widely used methods of testing in the TDD/BDD software development communities. My impression has been that outside of the functional programming communities such as those in Haskell (the pioneer of [QuickCheck](http://en.wikipedia.org/wiki/QuickCheck)), ML, and Haskell, there has not been as much use of property-based methods of design and testing. Fortunately, this has been changing.
 
