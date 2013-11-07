@@ -20,7 +20,7 @@ Abby and I attended a music potluck party tonight. We had been unsure about whet
 
 I whipped up a large batch of roasted vegetables to bring to the potluck:
 
-{% /images/vegetables-2013-09-28.jpg Roasted vegetables %}
+{% img /images/vegetables-2013-09-28.jpg Roasted vegetables %}
 
 ## Music
 
