@@ -7,6 +7,7 @@ external-url:
 categories: 
 - chess
 - computers
+- Viswanathan Anand
 ---
 Last September, I described how a [shocking chess opening novelty](/blog/2012/09/24/a-fact-of-modern-chess-computers-shutting-down-opening-theory/) illustrates the subtlety of human chess preparation and the psychology of practical play.
 
