@@ -9,7 +9,7 @@ categories:
 - Carnegie Mellon University
 - Pittsburgh
 ---
-For several years, I've made a habit of observing [Constitution Day](http://en.wikipedia.org/wiki/Constitution_Day_(United_States\)) by attending the annual exhibit and lecture at CMU. Last year I reported on [an interesting session about the very invention of Constitution Day](/blog/2012/09/18/is-constitution-day-constitutional/).
+For several years, I've made a habit of observing [Constitution Day](http://en.wikipedia.org/wiki/Constitution_Day_\(United_States\)) by attending the annual exhibit and lecture at CMU. Last year I reported on [an interesting session about the very invention of Constitution Day](/blog/2012/09/18/is-constitution-day-constitutional/).
 
 [This year](http://events.web.cmu.edu/ecal/event/137831259599848837), the program for the event [held at the Posner Center](http://cmlibblog.wordpress.com/2013/08/13/constitution-day-celebration/) at CMU read:
 

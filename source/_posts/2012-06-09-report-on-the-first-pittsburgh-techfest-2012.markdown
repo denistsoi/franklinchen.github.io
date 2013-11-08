@@ -39,7 +39,7 @@ In the past couple of years, I have increasingly explored [Pittsburgh's growing 
 
 ## The venue
 
-LaRoche College is in the [North Hills](http://en.wikipedia.org/wiki/North_Hills_(Pennsylvania\)), about a twenty-minute drive (in light traffic conditions) from the city of Pittsburgh. This was the first time I'd been in LaRoche. They had a decent amount of space for all the sessions for the conference. I think the venue worked out great, and we were also provided lunch in the cafeteria.
+LaRoche College is in the [North Hills](http://en.wikipedia.org/wiki/North_Hills_\(Pennsylvania\)), about a twenty-minute drive (in light traffic conditions) from the city of Pittsburgh. This was the first time I'd been in LaRoche. They had a decent amount of space for all the sessions for the conference. I think the venue worked out great, and we were also provided lunch in the cafeteria.
 
 ## Keynote
 

@@ -19,7 +19,7 @@ It turned out that the unexpected fast pace that I *stupidly* went along with to
 
 ## Injury and burnout
 
-As of yesterday, I simply felt tired and sore. I've been battling burnout on marathon training for some time now, basically since my [16-mile long run of two weeks ago](/blog/2013-04-13/my-final-16-mile-long-run-before-pittsburgh-marathon-featured-two-radical-experiments/), which was the last time I felt really strong and stable. The last *two weeks* have been very worrisome to me, as I've reported on overtraining and injury [multiple](/blog/2013/04/19/going-out-too-fast-yet-again-in-my-third-random-distance-run/) [times](/blog/2013/04/20/on-overtraining-and-feeling-injured-two-weeks-before-the-pittsburgh-marathon/).
+As of yesterday, I simply felt tired and sore. I've been battling burnout on marathon training for some time now, basically since my [16-mile long run of two weeks ago](/blog/2013/04/13/my-final-16-mile-long-run-before-pittsburgh-marathon-featured-two-radical-experiments/), which was the last time I felt really strong and stable. The last *two weeks* have been very worrisome to me, as I've reported on overtraining and injury [multiple](/blog/2013/04/19/going-out-too-fast-yet-again-in-my-third-random-distance-run/) [times](/blog/2013/04/20/on-overtraining-and-feeling-injured-two-weeks-before-the-pittsburgh-marathon/).
 
 My legs are hurting. My left *knee* is a little weird, my right *shin* is hurting (I have not had shin splints all year so far!), I've been waking up with tightness and pain under my left foot (plantar fascia?). These are serious problems, not run-of-the-mill training soreness. It feels like I've run my body into the ground. It's such a shame, because I was feeling so great two weeks ago.
 

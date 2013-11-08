@@ -14,7 +14,7 @@ I just reported on a [chess game I played that featured the Veresov Opening](/bl
 
 {% img http://ecx.images-amazon.com/images/I/41iLDZTIs%2BL._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA300_SH20_OU01_.jpg Nigel Davies: The Veresov %}
 
-Back when I was playing the Veresov as White, I studied it using [GM Nigel Davies'](http://en.wikipedia.org/wiki/Nigel_Davies_(chess_player\)) book from 2003, ["The Veresov"](http://www.amazon.com/Veresov-Surprise-Your-Oponents-Tricky/dp/1857443357).
+Back when I was playing the Veresov as White, I studied it using [GM Nigel Davies'](http://en.wikipedia.org/wiki/Nigel_Davies_\(chess_player\)) book from 2003, ["The Veresov"](http://www.amazon.com/Veresov-Surprise-Your-Oponents-Tricky/dp/1857443357).
 
 On page 48 of the book, Davies claimed that `f5` "is quite weakening" and recommended against it. The computer engines disagree. I will continue, as Black, to happily play `f5` against anyone who wants to play White in the Veresov Gambit against me.
 

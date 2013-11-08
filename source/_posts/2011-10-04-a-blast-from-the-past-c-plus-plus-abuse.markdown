@@ -8,7 +8,7 @@ categories:
 - C++
 - C
 ---
-Lately I've been seeing a lot of mention of the online book ["Learn C the Hard Way"](http://c.learncodethehardway.org/), and how it quickly introduces and uses [Valgrind](http://valgrind.org/). That brought back memories of the 1990s when I programmed in C, and then C++, and [`SIGSEGV`](http://en.wikipedia.org/wiki/SIGSEGV) and `core` were part of my daily life, as well as [`dbx`](http://en.wikipedia.org/wiki/Dbx_(debugger\)) and [`gdb`](http://www.gnu.org/s/gdb/).
+Lately I've been seeing a lot of mention of the online book ["Learn C the Hard Way"](http://c.learncodethehardway.org/), and how it quickly introduces and uses [Valgrind](http://valgrind.org/). That brought back memories of the 1990s when I programmed in C, and then C++, and [`SIGSEGV`](http://en.wikipedia.org/wiki/SIGSEGV) and `core` were part of my daily life, as well as [`dbx`](http://en.wikipedia.org/wiki/Dbx_\(debugger\)) and [`gdb`](http://www.gnu.org/s/gdb/).
 
 My most important tool, however, was Purify of [Pure Software](http://en.wikipedia.org/wiki/Pure_Software). We were such good customers of Pure Software, using also Quantify, Pure Link, and Pure Coverage, that we got sent mugs, of which I still have one and drink water from daily!
 

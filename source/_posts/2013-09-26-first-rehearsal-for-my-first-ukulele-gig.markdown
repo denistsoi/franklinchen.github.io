@@ -16,7 +16,7 @@ categories:
 - recorder
 - chess
 ---
-It's now officially *two months* since [I started learning to play ukulele](/blog/2013-08-23-another-unexpected-life-change-one-month-of-learning-to-play-ukulele/). It's hard to believe, but two months ago, I was still struggling to play three chords: I could play C, of course, but had trouble with G7, and had even worse trouble with F: I had no finger strength or dexterity and could not arch my fingers and everything was a painful buzz, and I could spend only five minutes a day practicing because of the pain on my uncalloused fingers.
+It's now officially *two months* since [I started learning to play ukulele](/blog/2013/08/23/another-unexpected-life-change-one-month-of-learning-to-play-ukulele/). It's hard to believe, but two months ago, I was still struggling to play three chords: I could play C, of course, but had trouble with G7, and had even worse trouble with F: I had no finger strength or dexterity and could not arch my fingers and everything was a painful buzz, and I could spend only five minutes a day practicing because of the pain on my uncalloused fingers.
 
 And after just over a month of playing, and joining the [Steel City Ukuleles](http://www.meetup.com/Steel-City-Ukuleles/), I had volunteered to [perform in a gig for Ecofest in Regent Square](/blog/2013/09/04/my-second-meeting-of-the-steel-city-ukuleles/), as a way to force myself to maintain momentum.
 

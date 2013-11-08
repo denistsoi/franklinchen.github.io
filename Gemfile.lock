@@ -26,7 +26,7 @@ GEM
       debugger-ruby_core_source (~> 1.2.3)
     debugger-linecache (1.2.0)
     debugger-ruby_core_source (1.2.3)
-    diff-lcs (1.2.4)
+    diff-lcs (1.2.5)
     directory_watcher (1.4.1)
     execjs (2.0.2)
     faraday (0.8.8)

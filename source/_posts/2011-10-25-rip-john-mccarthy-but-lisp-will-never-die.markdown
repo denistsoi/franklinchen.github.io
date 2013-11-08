@@ -16,11 +16,11 @@ categories:
 ---
 **(Updated 2012-01-16)**
 
-The legendary computer scientist [John McCarthy](http://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist\)) died yesterday. So there goes another guy without whom my life today would be unimaginably different: [Steve Jobs](/blog/2011/10/05/i-cannot-imagine-my-life-without-the-influence-of-steve-jobs/) and [Dennis Ritchie](/blog/2011/10/13/why-dennis-ritchie-is-important/) just left us this month!
+The legendary computer scientist [John McCarthy](http://en.wikipedia.org/wiki/John_McCarthy_\(computer_scientist\)) died yesterday. So there goes another guy without whom my life today would be unimaginably different: [Steve Jobs](/blog/2011/10/05/i-cannot-imagine-my-life-without-the-influence-of-steve-jobs/) and [Dennis Ritchie](/blog/2011/10/13/why-dennis-ritchie-is-important/) just left us this month!
 
 In a way, more than Jobs, and more than Ritchie, McCarthy indirectly got me taking seriously the whole field of computing, and actually loving it.
 
-Because I *never for a moment* enjoyed computer programming until I discovered [Lisp](http://en.wikipedia.org/wiki/Lisp_(programming_language\)), the programming language that McCarthy invented and what he will surely be most remembered for most, among his other contributions to computer science.
+Because I *never for a moment* enjoyed computer programming until I discovered [Lisp](http://en.wikipedia.org/wiki/Lisp_\(programming_language\)), the programming language that McCarthy invented and what he will surely be most remembered for most, among his other contributions to computer science.
 
 My story of love and hate in computer programming:
 

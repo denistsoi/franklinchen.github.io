@@ -19,7 +19,7 @@ Yesterday, there was snow in Pittsburgh (almost all melted today, of course).
 
 Abby and I had originally planned to be going on a [Meetup hike at Ohiopyle](http://www.meetup.com/pittsburghhikers/events/50162262/), carpooling with John, but on Friday we bailed out because of the weather forecast. We've done that hike a couple of times before, and will certainly do it again when it's repeated in warmer weather anyway.
 
-Snow, however little there is of it, always makes me want to eat [sambar](http://en.wikipedia.org/wiki/Sambar_(dish\)). I love Indian food, and for some reason, I especially like sambar. Once every month or two, I crave going to [Coriander India Grill](http://www.coriandergrill.com/) in Squirrel Hill, just a couple of blocks from where we live, to eat sambar and other good stuff. We've been to Coriander Grill several times, on different days and for lunch and dinner. There has been inconsistency, but I have reason to believe that lunch buffet on Saturday is a good time to go to Coriander.
+Snow, however little there is of it, always makes me want to eat [sambar](http://en.wikipedia.org/wiki/Sambar_\(dish\)). I love Indian food, and for some reason, I especially like sambar. Once every month or two, I crave going to [Coriander India Grill](http://www.coriandergrill.com/) in Squirrel Hill, just a couple of blocks from where we live, to eat sambar and other good stuff. We've been to Coriander Grill several times, on different days and for lunch and dinner. There has been inconsistency, but I have reason to believe that lunch buffet on Saturday is a good time to go to Coriander.
 
 {% img /images/coriander-grill/sambar.jpg Sambar %}
 
@@ -109,3 +109,7 @@ I did gain quite a bit of extra weight, and pushed my fat percentage by one perc
 ## Conclusion
 
 I like eating at buffets once every month or two. Having variety and knowing that I am giving my permission to eat all I want, rather than my usual policy of being much more moderate, adds a bit of excitement to my life, while probably also giving physical health benefits.
+
+### (Update of 2013-11-08)
+
+This year a new Indian restaurant opened in Pittsburgh, [All India](http://www.allindiapgh.com/). It is by far my favorite Indian restaurant in town now.

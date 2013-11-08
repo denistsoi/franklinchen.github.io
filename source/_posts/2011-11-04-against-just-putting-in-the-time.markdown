@@ -45,7 +45,7 @@ But although sometimes the student who didn't stick it out, and maybe skipped cl
 
 ### Mindful
 
-There are many definitions of "mindfulness". The problem is that many people have used it independently. There is the [mindfulness from Buddhism](http://en.wikipedia.org/wiki/Mindfulness), and notions in Western [psychology](http://en.wikipedia.org/wiki/Mindfulness_(psychology\)), sometimes borrowed from Buddhism. Ellen Langer has written [books](http://www.ellenlanger.com/books/3/mindfulness) on what she calls "mindfulness", for example.
+There are many definitions of "mindfulness". The problem is that many people have used it independently. There is the [mindfulness from Buddhism](http://en.wikipedia.org/wiki/Mindfulness), and notions in Western [psychology](http://en.wikipedia.org/wiki/Mindfulness_\(psychology\)), sometimes borrowed from Buddhism. Ellen Langer has written [books](http://www.ellenlanger.com/books/3/mindfulness) on what she calls "mindfulness", for example.
 
 I'll just use the term loosely to refer to a basic attitude of being attuned to what you're doing, keeping your mind open and attentive, rather than dissociating, or blocking thoughts or emotions, or zoning out as though sleepwalking.
 

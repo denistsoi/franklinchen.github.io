@@ -31,7 +31,7 @@ I recognized a violinist as being someone who had played Baroque violin at a rec
 
 In any case, there were clearly a lot of professional musicians here and so I felt really intimidated. I did a lot of watching and listening and quite enjoyed experiencing joy and inventiveness unfold.
 
-It was fascinating seeing Mimi kicking off ["Summertime"](http://en.wikipedia.org/wiki/Summertime_(song)) on erhu. Hey, why not?
+It was fascinating seeing Mimi kicking off ["Summertime"](http://en.wikipedia.org/wiki/Summertime_\(song\)) on erhu. Hey, why not?
 
 Some of the Latin and Brazilian songs I knew the melodies for, and if I only knew all lyrics and could actually sing, I would have wanted to join in for.
 
@@ -52,3 +52,7 @@ Attending this potluck/jam session was an immensely exciting experience for me. 
 ### (Update of 2013-01-28)
 
 Six months later, I participated in [my first blues jam](/blog/2013/01/28/my-first-blues-music-jam-happened-after-the-regular-french-music-jam/).
+
+### (Update of 2013-09-28)
+
+Over a year later, I reported on [participating in a music jam at another one of these parties with Mimi](/blog/2013/09/28/an-erhu-player-and-a-tuba-player-at-a-party-said-lets-jam/).

@@ -15,7 +15,7 @@ categories:
 ---
 I've entered my seventh week of playing ukulele.
 
-Last month, [I wrote about](/blog/2013-08-23-another-unexpected-life-change-one-month-of-learning-to-play-ukulele/) finally starting to learn to play ukulele and then attending my first meeting of the [Steel City Ukuleles](http://www.meetup.com/Steel-City-Ukuleles/).
+Last month, [I wrote about](/blog/2013/08/23/another-unexpected-life-change-one-month-of-learning-to-play-ukulele/) finally starting to learn to play ukulele and then attending my first meeting of the [Steel City Ukuleles](http://www.meetup.com/Steel-City-Ukuleles/).
 
 I just attended [my second meeting](http://www.meetup.com/Steel-City-Ukuleles/events/117972052/) after having improved a huge amount in two weeks (oh, the joy of being a beginner).
 

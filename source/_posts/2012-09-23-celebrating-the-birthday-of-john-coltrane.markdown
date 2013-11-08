@@ -22,7 +22,7 @@ What did I mean by that remark? I meant it on philosophical, historical, and mus
 
 ## Mozart to Beethoven; Parker to Coltrane
 
-- Mozart refined the [Classical style](http://en.wikipedia.org/wiki/Classical_period_(music\)) inherited from Haydn and became a most admired practitioner of it; Mozart was accused (perhaps only fictionally) of writing "too many notes" in his music.
+- Mozart refined the [Classical style](http://en.wikipedia.org/wiki/Classical_period_\(music\)) inherited from Haydn and became a most admired practitioner of it; Mozart was accused (perhaps only fictionally) of writing "too many notes" in his music.
 - Beethoven started off in the Classical tradition and then went beyond that in his "middle" period, and then even further beyond that in his "late" period, to the point where he became completely unique and an existential challenge (to emulate or reject) to all future composers of Western art music.
 
 - Charlie Parker refined [bebop](http://en.wikipedia.org/wiki/Bebop) in jazz, which, among other things, involved packing in quite a lot of notes.

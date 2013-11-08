@@ -83,7 +83,7 @@ Even then, I cannot listen to his music much without feeling unclean. There is a
 
 ## Music is powerful
 
-But it's pretty delicious decadence. Last month a friend splurged on going to the [Metropolitan Opera's performance of the Ring](http://ringcycle.metoperafamily.org/), and I decided to indulge in listening to Siegfried's funeral march in [Götterdämmerung](http://en.wikipedia.org/wiki/G%C3%B6tterd%C3%A4mmerung. As usual, the experience left me in tears. Wagner, master psychologist, master manipulator of emotions, master composer, weaving the [leitmotifs](http://en.wikipedia.org/wiki/Leitmotif), summing up the whole tragic story of the Ring:
+But it's pretty delicious decadence. Last month a friend splurged on going to the [Metropolitan Opera's performance of the Ring](http://ringcycle.metoperafamily.org/), and I decided to indulge in listening to Siegfried's funeral march in [Götterdämmerung](http://en.wikipedia.org/wiki/G%C3%B6tterd%C3%A4mmerung). As usual, the experience left me in tears. Wagner, master psychologist, master manipulator of emotions, master composer, weaving the [leitmotifs](http://en.wikipedia.org/wiki/Leitmotif), summing up the whole tragic story of the Ring:
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/L8wHteSOwW4" frameborder="0" allowfullscreen></iframe>
 

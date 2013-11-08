@@ -17,7 +17,7 @@ For once, I am actually fairly proud of my game, in which I pressed hard with an
 
 {% img /chess/chen-ahlborg-2013-01-29_files/final-position.jpg Our final position %}
 
-This week's chess theme is [*sacrifice*](http://en.wikipedia.org/wiki/Sacrifice_(chess\)) in chess. The reason is that in my game, there were many possible points of sacrifice on my end (the attacker), but also, ironically, my opponent was the one who twice sacrificed material for a *defensive* purpose. Although the sacrifices were not sound, they had some practical merit that I will discuss.
+This week's chess theme is [*sacrifice*](http://en.wikipedia.org/wiki/Sacrifice_\(chess\)) in chess. The reason is that in my game, there were many possible points of sacrifice on my end (the attacker), but also, ironically, my opponent was the one who twice sacrificed material for a *defensive* purpose. Although the sacrifices were not sound, they had some practical merit that I will discuss.
 
 <!--more-->
 

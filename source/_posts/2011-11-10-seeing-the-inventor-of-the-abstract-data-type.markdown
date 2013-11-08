@@ -27,7 +27,7 @@ I had to leave Liskov's talk right after she was done (it had already run over t
 
 ## The invention of the abstract data type
 
-Basically, Liskov formalized the notion of the abstract data type (ADT) while at MIT in the early 1970s, and with some graduate students implemented ADTs as a fundamental construct in an actual programming language, [CLU](http://en.wikipedia.org/wiki/CLU_(programming_language\)).
+Basically, Liskov formalized the notion of the abstract data type (ADT) while at MIT in the early 1970s, and with some graduate students implemented ADTs as a fundamental construct in an actual programming language, [CLU](http://en.wikipedia.org/wiki/CLU_\(programming_language\)).
 
 Most of you probably haven't heard of CLU, unless you went to [MIT](http://www.pmg.csail.mit.edu/CLU.html) where it's been used for ages in courses. I only know about CLU because a long time ago, I had an MIT friend who mentioned CLU when I was asking him [what to learn to become a programmer](/blog/2011/10/25/rip-john-mccarthy-but-lisp-will-never-die/). I never actually wrote or ran a program in CLU, although I did take a look at the language. Some features of CLU (recall that it was developed in the early 1970s):
 
@@ -60,7 +60,7 @@ The world is globalized and connected now much more than it was back in the 1970
 
 ### The C world
 
-[C](http://en.wikipedia.org/wiki/C_(programming_language\)) was developed between 1969 and 1973.  [Dennis Ritchie](/blog/2011/10/13/why-dennis-ritchie-is-important/) wrote a little article, ["The Development of the C Language"](http://cm.bell-labs.com/cm/cs/who/dmr/chist.html), in which he acknowledged the debt to Fortran and Algol. However, its goal as a low-level language for implementing Unix meant that it cut various corners. I wonder if the history of computing would have been different had there been more attention paid, even in the constrained context of Unix implementation, to interesting academic work. I don't know what Ritchie and Thompson and others knew, if anything, about the work on modularity, types, etc. Maybe they knew, but didn't care because they were building something just for themselves and they were such good programmers they didn't need any help writing great code. It would be interesting, as a matter of historical record, to know who knew what and thought what, when.
+[C](http://en.wikipedia.org/wiki/C_\(programming_language\)) was developed between 1969 and 1973.  [Dennis Ritchie](/blog/2011/10/13/why-dennis-ritchie-is-important/) wrote a little article, ["The Development of the C Language"](http://cm.bell-labs.com/cm/cs/who/dmr/chist.html), in which he acknowledged the debt to Fortran and Algol. However, its goal as a low-level language for implementing Unix meant that it cut various corners. I wonder if the history of computing would have been different had there been more attention paid, even in the constrained context of Unix implementation, to interesting academic work. I don't know what Ritchie and Thompson and others knew, if anything, about the work on modularity, types, etc. Maybe they knew, but didn't care because they were building something just for themselves and they were such good programmers they didn't need any help writing great code. It would be interesting, as a matter of historical record, to know who knew what and thought what, when.
 
 ### The functional programming world
 

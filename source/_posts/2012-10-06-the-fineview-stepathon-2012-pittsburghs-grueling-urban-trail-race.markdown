@@ -16,7 +16,7 @@ categories:
 ---
 {% img http://thenorthsidechronicle.com/UserFiles/Image/stepathon.jpg Stepathon steps %}
 
-Today I ran in the [annual](http://www.thenorthsidechronicle.com/2061_php?calendarDate=2012-10-04) [Fineview Stepathon](http://stepathon.org/), a truly unique and grueling 5-mile race held in [Fineview](http://en.wikipedia.org/wiki/Fineview_(Pittsburgh\)), a neighborhood in the North Side of Pittsburgh.
+Today I ran in the [annual](http://www.thenorthsidechronicle.com/2061_php?calendarDate=2012-10-04) [Fineview Stepathon](http://stepathon.org/), a truly unique and grueling 5-mile race held in [Fineview](http://en.wikipedia.org/wiki/Fineview_\(Pittsburgh\)), a neighborhood in the North Side of Pittsburgh.
 
 This was not the first time I'd run the Stepathon: I'd actually done a shorter version of it (supposedly a 5K, but clearly much shorter given how quickly I finished it) in 2006. Originally, I wasn't sure I was going to run another race this year after the [Great Race](/blog/2012/09/30/running-my-10th-great-race-10k-obscene-but-in-a-good-way/), but after telling my buddy Chris about the Stepathon, and his getting excited about the concept, I decided to commit to doing it with him, rain or shine.
 

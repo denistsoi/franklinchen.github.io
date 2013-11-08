@@ -26,7 +26,7 @@ The article describes the empirical results from soda bans:
 The *economics* of the situation are obvious:
 
 - There are plenty of [substitute goods](http://en.wikipedia.org/wiki/Substitute_good) for soda that satisfy students' demand for sugary beverages.
-- Since the school is not a [monopoly](http://en.wikipedia.org/wiki/Monopoly), and there are plenty of other [suppliers](http://en.wikipedia.org/wiki/Supply_(economics\)) of soda and other sugary beverages outside of school, all that happens is that students buy from another supplier.
+- Since the school is not a [monopoly](http://en.wikipedia.org/wiki/Monopoly), and there are plenty of other [suppliers](http://en.wikipedia.org/wiki/Supply_\(economics\)) of soda and other sugary beverages outside of school, all that happens is that students buy from another supplier.
 
 Basic economic theory has a way to reduce consumption of sugary beverages, of course: a [Pigovian tax](http://en.wikipedia.org/wiki/Pigovian_tax) such as the [sin tax](http://en.wikipedia.org/wiki/Sin_tax) on [cigarettes](http://en.wikipedia.org/wiki/Cigarette_taxes_in_the_United_States). A tax on the entire category of sugary beverages would do the trick. There is reason to believe the [price elasticity](http://en.wikipedia.org/wiki/Price_elasticity_of_demand) is sufficient that such a tax would considerably reduce consumption.
 

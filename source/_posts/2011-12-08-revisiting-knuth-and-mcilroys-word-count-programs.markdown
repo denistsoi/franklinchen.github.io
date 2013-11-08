@@ -92,7 +92,7 @@ I don't currently use "literate programming" systems.
 
 I experimented with programming in C and C++ and [Standard ML](http://en.wikipedia.org/wiki/Standard_ML) using [noweb](http://www.cs.tufts.edu/~nr/noweb/) over a decade ago, but found that for myself, it was not really beneficial.
 
-There was little benefit in being able to rearrange code fragments at will. Furthermore, spreading code out interspersed with a lot of prose made it harder for me to actually [chunk](http://en.wikipedia.org/wiki/Chunking_(psychology\)) meaning out of a spatial portion of text in my editor window.
+There was little benefit in being able to rearrange code fragments at will. Furthermore, spreading code out interspersed with a lot of prose made it harder for me to actually [chunk](http://en.wikipedia.org/wiki/Chunking_\(psychology\)) meaning out of a spatial portion of text in my editor window.
 
 Also, modern languages and programming styles make it much easier to express things concisely and less monolithically, such that I find that using ordinary comments suffices for my needs.
 
@@ -117,7 +117,7 @@ The Haskell program is *statically typed*. It is type-checked by the compiler, w
 Also, the Haskell program could be refined, extended, optimized in various ways. The most important optimizations I can think of off the top of my head:
 
 - Using a better representation of strings than the default built-in "string as list of characters". Easily accessible advice can be found on [Stack Overflow](http://stackoverflow.com/questions/576213/efficient-string-implementation-in-haskell) and browsing through Haskell library documentation, such as for the [text](http://hackage.haskell.org/cgi-bin/hackage-scripts/package/text) package.
-- Loop fusion, [deforestation](http://en.wikipedia.org/wiki/Deforestation_(computer_science\)) can be applied to deal with the *apparent* allocation of lots of new lists in the pipeline. One of the selling points of using a language like Haskell is the opportunity for the compiler to perform radical optimizations that are impossible for languages that have side effects.
+- Loop fusion, [deforestation](http://en.wikipedia.org/wiki/Deforestation_\(computer_science\)) can be applied to deal with the *apparent* allocation of lots of new lists in the pipeline. One of the selling points of using a language like Haskell is the opportunity for the compiler to perform radical optimizations that are impossible for languages that have side effects.
 
 I don't write many `bash` scripts these days. General-purpose programming languages can do a decent job munging data without difficulty. The situation was different decades ago when there was C, and few standard high-level libraries for the C world.
 
