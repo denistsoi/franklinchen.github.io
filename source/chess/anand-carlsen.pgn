@@ -1,0 +1,16 @@
+[Event "FWCM 2013"]
+[Site "Chennai"]
+[Date "2013.11.09"]
+[Round "1"]
+[White "Carlsen, Magnus"]
+[Black "Anand, Viswanathan"]
+[Result "1/2-1/2"]
+[BlackElo "2775"]
+[ECO "A07"]
+[EventCountry "IND"]
+[PlyCount "32"]
+[TimeControl "40/7200:20/3600:900+30"]
+[WhiteElo "2870"]
+
+1. Nf3  {  Carlsen signals that he is probably avoiding an aggressive opening struggle and hopes to simply get an acceptable middle game and somehow outplay Anand.}  1... d5  {  The most solid response, grabbing the center and taking control of White's e4 square.}  2. g3  {  Validates my guess that Carlsen is avoiding a fight in the opening. White has no opening advantage here. More aggressive instead would have been d4 or c4.}  2... g6  {  Anand immediately goes for a Gruenfeld. I think he has already morally won the opening battle. White will eventually have to play d4 to prevent Black's e5, and then we will have a drawish symmetrical Gruenfeld.}  3. Bg2 Bg7 4. d4 c6 5. O-O Nf6 6. b3 ( 6. c4  {  Would have transposed into a typical Gruenfeld position immediately.}  ) 6... O-O 7. Bb2 Bf5  {  Continuing piece development.}  8. c4 ( 8. Nbd2  {  Supporting c4 with more protection is what I expected and would have played myself.}  ) 8... Nbd7 9. Nc3 $2  {  A surprise to me, because of the potentially weak c4 Pawn. A known drawback of g3 against the Gruenfeld is that White's light-squared Bishop is not around to protect the c4 Pawn.}  9... dxc4  {  Thematic in this type of position, where Black risks getting squeezed on the Queen side if he does not disrupt White's possible expansion plans that may begin with a suitably prepared c5.}  10. bxc4 Nb6!  {  Active and good, attacking White's c4 Pawn. White's opening experiment has completely failed.}  11. c5  {  A very ugly move, ceding the c4 and d5 light squares.}  ( 11. Ne5 $2  {  A natural attempt to protect the c4 Pawn.}  11... Ng4  {  White's c4 and d4 Pawns are under severe pressure and he is about to lose a Pawn.}  ) 11... Nc4 12. Bc1  {  Wow, what an ugly position for White.}  12... Nd5  {  Black has lovely Knight play, which is often the case in the Gruenfeld, even when White plays more accurately. Right now, Black threatens White's Knight on c3 and also opens up the a1 to h8 diagonal for the fianchettoed Bishop on g7.}  13. Qb3  {  Basically forced.}  ( 13. Nxd5 $2 cxd5  {  White stands clearly worse in this position, in which Black's pieces are all better than White's, and the c5 Pawn is not going anywhere.}  ) 13... Na5  {  Accepting the draw by repetition.}  ( 13... Nxc3 $2 14. Qxc3  {  Not good for Black, because of the stranded Knight on c4.}  ) 14. Qa3 ( 14. Qb2  {  Same consequence of a draw by repetition.}  14... Nc4 15. Qb3 ) 14... Nc4 15. Qb3 Na5 16. Qa3 Nc4  {  Anand must have been ecstatic by the outcome of this game: a quick draw as Black, without even any struggle. Carlsen cannot be happy.}   1/2-1/2
+
