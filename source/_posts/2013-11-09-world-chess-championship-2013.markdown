@@ -13,6 +13,10 @@ In the much-anticipated first round of the [World Chess Championship between Ana
 
 In accordance with [my own advice on ways to follow the match to maximize learning](/blog/2013/11/07/the-chess-improver-how-to-watch-the-anand-carlsen-world-chess-championship-to-improve-your-own-game/), today I saw the match result, downloaded a PGN file of the game score, and then walked through it *without* a computer engine running, analyzing the game with my own mind as I replayed the game. Then I double-checked my thoughts with a chess engine. I still have not bothered to read or watch any coverage of this first-round game; I will do that later.
 
+Game and notes below:
+
+<!--more-->
+
 ## Disappointment in a short draw?
 
 I'm sure a lot of people were disappointed by this short draw. But one has to realized exactly what happened.

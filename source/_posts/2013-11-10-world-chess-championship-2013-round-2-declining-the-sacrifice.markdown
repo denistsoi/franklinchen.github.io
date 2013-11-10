@@ -13,6 +13,10 @@ categories:
 
 Today, in the second round, the colors were reversed, with Anand as White and Carlsen as Black. The game also ended in a draw, but featured much more interesting positions and possibilities.
 
+Game and notes below:
+
+<!--more-->
+
 ## Summary
 
 Anand played an interesting attacking idea in the opening that featured maintaining a strong Knight on the e5 square to hamper Black's development. This idea inherently involved offering a sacrifice of his h4 Pawn.
