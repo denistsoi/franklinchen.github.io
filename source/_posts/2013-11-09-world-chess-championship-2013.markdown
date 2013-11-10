@@ -27,7 +27,7 @@ In a match situation at this level, typically the player as Black is quite happy
 
 Below is the game with annotations. My task was made easy in this case because it was such a short and clear game, without much complexity. I hope it will be harder in subsequent games in the match!
 
-<link href="/chess/pgn4web/template.css" type="text/css" rel="stylesheet" />
+<link href="/chess/pgn4web/template.css" type="text/css" rel="stylesheet"></link>
 
 <style type="text/css">
   #GameLastComment {
@@ -70,13 +70,16 @@ Below is the game with annotations. My task was made easy in this case because i
         <span class="label">Black:</span> <span id="GameBlack"></span>
         <br/>
         <span class="label">Result:</span> <span id="GameResult"></span>
-        <hr/>
+        <br/>
+        <br/>
         <span class="label">Side to move:</span> <span id="GameSideToMove"></span>
-        <hr/>
+        <br/>
+        <br/>
         <span class="label">Last move:</span> <span id="GameLastMove"></span>&nbsp; <span class="label">variations:</span> <span id="GameLastVariations"></span>
         <br/>
         <span class="label">Next move:</span> <span id="GameNextMove"></span>&nbsp; <span class="label">variations:</span> <span id="GameNextVariations"></span>
-        <hr/>
+        <br/>
+        <br/>
         <span class="label">Move comment:</span><br><span id="GameLastComment"></span>
       </td>
     </tr>
