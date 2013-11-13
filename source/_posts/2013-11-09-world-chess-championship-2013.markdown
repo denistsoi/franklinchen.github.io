@@ -6,8 +6,11 @@ comments: true
 external-url: 
 categories:
 - chess
+- World Chess Championship
 - Magnus Carlsen
 - Viswanathan Anand
+- Réti Opening
+- Grünfeld Defense
 ---
 In the much-anticipated first round of the [World Chess Championship between Anand and Carlsen](http://chennai2013.fide.com/), the game ended in a very quick 16-move draw.
 
@@ -21,7 +24,7 @@ Game and notes below:
 
 I'm sure a lot of people were disappointed by this short draw. But one has to realized exactly what happened.
 
-Carlsen played an unambitious opening as White, presumably hoping to avoid special preparation by Anand. Anand neutralized the opening early on with simple development. Carlsen attempted to place his remaining undeveloped piece, the Queen Knight, on a more active square than the more "natural" square that would have overprotected the c4 Pawn, but Anand punished this by immediately attacking the c4 Pawn, resulting in Carlsen basically having to play moves that enabled Anand to choose to repeat the position for a draw.
+Carlsen played the unambitious [Réti Opening](http://en.wikipedia.org/wiki/R%C3%A9ti_Opening) as White, presumably hoping to avoid special preparation by Anand. Anand neutralized the opening early on with simple development using a [Grünfeld Defense](http://en.wikipedia.org/wiki/Gr%C3%BCnfeld_Defence) setup. Carlsen attempted to place his remaining undeveloped piece, the Queen Knight, on a more active square than the more "natural" square that would have overprotected the c4 Pawn, but Anand punished this by immediately attacking the c4 Pawn, resulting in Carlsen basically having to play moves that enabled Anand to choose to repeat the position for a draw.
 
 Carlsen had no choice but to take the draw or stand clearly worse, so he bailed out. The question then is, should Anand tried to continue playing for a win, since it was his choice to take the draw or not?
 
@@ -58,6 +61,7 @@ Below is the game with annotations. My task was made easy in this case because i
       <td>
         <div id="GameBoard"></div>
         <div id="GameButtons"></div>
+        <span class="label">Move comment:</span><br><span id="GameLastComment"></span>
       </td>
 
       <td>
@@ -82,9 +86,6 @@ Below is the game with annotations. My task was made easy in this case because i
         <span class="label">Last move:</span> <span id="GameLastMove"></span>&nbsp; <span class="label">variations:</span> <span id="GameLastVariations"></span>
         <br/>
         <span class="label">Next move:</span> <span id="GameNextMove"></span>&nbsp; <span class="label">variations:</span> <span id="GameNextVariations"></span>
-        <br/>
-        <br/>
-        <span class="label">Move comment:</span><br><span id="GameLastComment"></span>
       </td>
     </tr>
 </table>

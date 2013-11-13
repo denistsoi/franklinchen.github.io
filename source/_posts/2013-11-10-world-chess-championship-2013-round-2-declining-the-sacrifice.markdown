@@ -6,6 +6,7 @@ comments: true
 external-url: 
 categories:
 - chess
+- World Chess Championship
 - Magnus Carlsen
 - Viswanathan Anand
 ---
@@ -58,6 +59,7 @@ This is now the second game in a row in which Anand had some advantage but rejec
       <td>
         <div id="GameBoard"></div>
         <div id="GameButtons"></div>
+        <span class="label">Move comment:</span><br><span id="GameLastComment"></span>
       </td>
 
       <td>
@@ -82,9 +84,6 @@ This is now the second game in a row in which Anand had some advantage but rejec
         <span class="label">Last move:</span> <span id="GameLastMove"></span>&nbsp; <span class="label">variations:</span> <span id="GameLastVariations"></span>
         <br/>
         <span class="label">Next move:</span> <span id="GameNextMove"></span>&nbsp; <span class="label">variations:</span> <span id="GameNextVariations"></span>
-        <br/>
-        <br/>
-        <span class="label">Move comment:</span><br><span id="GameLastComment"></span>
       </td>
     </tr>
 </table>
