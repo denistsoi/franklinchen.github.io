@@ -10,9 +10,11 @@ categories:
 - Pittsburgh Chess Club
 - Dutch Defense
 ---
-{% img /chess/jansen-chen-2013-02-05_files/final-position.jpg %}
+{% img /chess/jansen-chen-2013-02-05_files/round-4.jpg %}
 
 Round 4 of the annual [Pittsburgh Chess Club](http://pittsburghcc.org/) Championship had me playing one of the most *fascinating* games I have played in my entire life. My opponent tried to wipe me off the board with a brute-force attack in the early moves of the opening and I managed to defend, but there were various subtleties involved. He engaged in *sacrifice* after sacrifice, not all sound, but all interesting.
+
+{% img /chess/jansen-chen-2013-02-05_files/final-position.jpg %}
 
 <!--more-->
 
