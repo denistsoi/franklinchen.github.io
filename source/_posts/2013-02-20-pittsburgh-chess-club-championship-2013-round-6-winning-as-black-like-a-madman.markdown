@@ -11,6 +11,8 @@ categories:
 ---
 {% img /chess/wallnau-chen-2013-02-19_files/round-6.jpg Round 6 panorama %}
 
+{% img /chess/wallnau-chen-2013-02-19_files/round-6-game.jpg Round 6 Wallnau-Chen %}
+
 In the 6th and final round of the Pittsburgh Chess Club Championship of 2013, I was Black against Kurt Wallnau, as I mentioned I would be in [my report on round 5](/blog/2013/02/14/pittsburgh-chess-club-championship-2013-round-5-surprised-at-move-4-of-the-opening/). I'd promised him before the game that I was going to *play for a win as Black* ([Black is OK!](http://www.gmsquare.com/BlackisOKAdorjan.html)), even though I only needed a draw to secure undisputed first place in the tournament, since I went into the final round one full point ahead of him.
 
 I played aggressively like a madman and brought home the full point, thereby becoming the Pittsburgh Chess Club Champion of 2013!
