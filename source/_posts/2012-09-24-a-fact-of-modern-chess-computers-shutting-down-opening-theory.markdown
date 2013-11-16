@@ -7,6 +7,7 @@ external-url:
 categories: 
 - chess
 - computers
+- Semi-Slav
 ---
 I saw the report of a stunning chess game between Veselin Topalov and Rustam Kasimzhanov that resulted in a draw. I think this game illustrates some important points about modern chess at the highest levels.
 
