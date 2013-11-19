@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "World Chess Championship 2013 round 7: Anand catches his breath with a quiet game"
-date: 2013-11-18T19:31:52-05:00
+title: "World Chess Championship 2013 round 8: the most boring game in the match so far"
+date: 2013-11-19T08:30:00-05:00
 comments: true
 external-url: 
 categories: 
@@ -11,7 +11,7 @@ categories:
 - Viswanathan Anand
 - Berlin Defense
 ---
-In my continuing coverage of the [World Chess Championship between Anand and Carlsen](http://chennai2013.fide.com/), today I cover round seven, in which apparently Anand took a break by playing safe for a quiet draw.
+In my continuing coverage of the [World Chess Championship between Anand and Carlsen](http://chennai2013.fide.com/), today I cover round eight, in which apparently Carlsen took a break by playing safe for a quiet draw.
 
 Game and notes below:
 
@@ -19,17 +19,15 @@ Game and notes below:
 
 ## Summary
 
-As White, Anand played e4 yet again (I'm still waiting for d4, which he used effectively against Kramnik and Gelfand in past world championship matches), and as in round 4 and 6, Carlsen used the Berlin Defense. Anand played a quiet, unambitious anti-Berlin again with d3, as in round 6, but this time went for a delayed Exchange Variation, giving up the Bishop pair for doubling Black's c Pawns. Nevertheless, this opening is considered harmless, and Carlsen chose a simple, effective plan that involved trading off his light Bishop for Anand's Knight, and then after further simplifications, there was nothing left in the game and they created a draw by repetition.
+As White, Carlsen played e4 for the first time in the match. Anand countered with the Berlin Defense. Unfortunately, all hope that an interesting game with colors reversed from usual were dashed at move 5, which was implicitly a draw offer by Carlsen. Re1 is a completely harmless reply against the Berlin Defense, and leads to a lifeless position in which usually a series of trades leads to a drawn position.
 
-The only interesting points in the game to me were the obvious opportunities Anand chose *not* to take to try for more aggressive plans: playing g4 or playing fxe3. That he chose not to indicated that he was content to just get the game drawn and over with to stay safe and avoid creating complications that might allow him to lose.
+Sure enough, Carlsen basically forced the draw quickly thereafter.
+
+A total snorefest.
 
 ### The state of the match
 
-Anand is running out of time to catch up in the match, but may have bought some time to rest and recover psychologically from losing two games in a row.
-
-Some people might criticize his failure to strike back immediately in this game, but if he knew himself and knew he was not ready, then it was the wise thing to do.
-
-However, I believe that the next time he has White, Anand should switch away from opening with e4, to opening with d4 for the win, since it looks like Carlsen can easily neutralize e4.
+Carlsen has every right to play for a draw and win the match based on his two-point lead. If Anand had been ready to fight for a win at all costs, he would not have played the Berlin Defense; he could have played the Sicilian instead, for example. I hope I'm wrong, but it's looking like Anand may be going down without a fight, in fear of losing another game in the match.
 
 ## The game
 
@@ -51,7 +49,7 @@ However, I believe that the next time he has White, Anand should switch away fro
     SetHighlightOption(true);
     SetCommentsIntoMoveText(true);
     SetCommentsOnSeparateLines(true);
-    SetInitialGame(7);
+    SetInitialGame(8);
     SetShortcutKeysEnabled(true);
 </script>
 
