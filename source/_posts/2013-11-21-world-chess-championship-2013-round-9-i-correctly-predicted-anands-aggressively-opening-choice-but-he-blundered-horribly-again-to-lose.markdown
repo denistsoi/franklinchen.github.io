@@ -14,7 +14,13 @@ categories:
 ---
 In my continuing coverage of the [World Chess Championship between Anand and Carlsen](http://chennai2013.fide.com/), today I cover round nine, in which Anand finally went for the big win, but blundered horribly and lost instead.
 
-Also, I have to admit to being proud of myself for having correctly predicting the opening that both players would willingly enter in today's game! I had been thinking about this even before the match, but apparently Anand didn't pull out his weapon until just now. Today, I explain my reasoning.
+The night before the game, five hours before it started, I [tweeted](http://twitter.com/franklinchen/status/403370754336505858):
+
+{% blockquote %}
+It came to me in a dream: Anand playing d4 in the next round, then going for an f3, e4 Pawn storm against Carlsen #FWCM2013
+{% endblockquote %}
+
+I have to admit to being proud of myself for having correctly predicted the opening that both players would willingly enter in today's game! I had been thinking about this even before the match, but apparently Anand didn't pull out his weapon until just now. Today, I explain my reasoning.
 
 Game and notes below:
 
