@@ -15,7 +15,7 @@ There was a movie trivia category that we did very well in. Given a graphic, we 
 
 Well, one of the images had everyone confused and silent, except for me, it seemed:
 
-{% img /images/math-quiz.jpg Math quiz %}
+{% img /images/math-quiz.png Math quiz %}
 
 <!--more-->
 
