@@ -11,6 +11,8 @@ categories:
 - Johann Sebastian Bach
 - Baroque flute
 - recorder
+- Erin Yancek
+- trumpet
 ---
 I attended a free concert of the CMU Baroque Ensemble for the very first time!
 
@@ -33,3 +35,7 @@ By the way, here's a performance of the first movement of the Brandenburg 2, on 
 ## Conclusion
 
 I enjoyed the concert and will probably continue to attend more by the CMU Baroque Ensemble, to continue my Baroque "education". It is, of course, not a professional ensemble, but it is great to see CMU students dedicated to performing Baroque music.
+
+### (Update of 2013-11-25)
+
+The fine trumpet player in this concert was [Erin Yanacek](/blog/2013/11/25/a-fine-trumpet-recital-by-erin-yanacek), whom I'd later coincidentally encounter through her writings and from meeting her by accident.
