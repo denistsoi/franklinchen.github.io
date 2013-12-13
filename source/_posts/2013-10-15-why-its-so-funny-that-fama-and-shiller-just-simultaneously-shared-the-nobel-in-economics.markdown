@@ -41,3 +41,7 @@ Speaking of bubbles, check out what [Fama said about the housing bubble and bubb
 ## Conclusion
 
 I think it's awesome to have two very outspoken economists with radically different approaches to economics shared the Nobel this year. It may help the public understand better the nature of the field of economics.
+
+### (Update of 2013-12-10)
+
+Two months later, Fama and Shiller are still an item. Check out [this interview](http://www.theguardian.com/business/2013/dec/10/nobel-prize-economists-robert-shiller-eugene-fama).
