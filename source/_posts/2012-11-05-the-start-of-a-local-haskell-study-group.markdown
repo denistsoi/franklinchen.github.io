@@ -10,6 +10,7 @@ categories:
 - Pittsburgh
 - functional programming
 - Scala
+- Test-Driven Development
 ---
 {% img http://www.haskell.org/wikiupload/4/4a/HaskellLogoStyPreview-1.png Haskell logo %}
 

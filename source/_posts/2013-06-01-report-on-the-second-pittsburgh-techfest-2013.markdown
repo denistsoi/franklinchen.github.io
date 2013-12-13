@@ -23,6 +23,7 @@ categories:
 - actors
 - Akka
 - asynchronous
+- Test-Driven Development
 ---
 Last year ([my report here](/blog/2012/06/09/report-on-the-first-pittsburgh-techfest-2012/)), I attended the very first [Pittsburgh Tech Fest](http://pghtechfest.com/), held at [LaRoche College](http://www.laroche.edu/).
 
