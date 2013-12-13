@@ -79,7 +79,7 @@ That leads to the main problem, which is that of spaghetti code: the "Rotten Pot
 
 ## What I learned
 
-I learned a huge amount, actually. This was the first time I'd systematically work through developing an application from the ground up using [Test-Driven Development](http://en.wikipedia.org/wiki/Test-driven_development) (TDD) and [Behavior-Driven Development](http://en.wikipedia.org/wiki/Behavior-driven_development), for example. **I am completedly sold on TDD and BDD now.** It was very useful writing down, in code, scenarios to expect to happen or not happen, before implementing the behavior. I have issues with Cucumber, the tool, but the process itself, I am sold on.
+I learned a huge amount, actually. This was the first time I'd systematically work through developing an application from the ground up using [Test-Driven Development](http://en.wikipedia.org/wiki/Test-driven_development) (TDD) and [Behavior-Driven Development](http://en.wikipedia.org/wiki/Behavior-driven_development), for example. **I am completely sold on TDD and BDD now.** It was very useful writing down, in code, scenarios to expect to happen or not happen, before implementing the behavior. I have issues with Cucumber, the tool, but the process itself, I am sold on.
 
 It was also very satisfying incrementally developing a Rails application that actually did something.
 
