@@ -5,6 +5,7 @@ date: 2011-11-05 17:15
 comments: true
 categories:
 - time
+- Daylight Saving Time
 ---
 It's time for that funny ritual that takes place twice a year: making your clocks ["fall back" or "spring forward"](http://en.wikipedia.org/wiki/Daylight_saving_time).
 
