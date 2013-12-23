@@ -39,6 +39,12 @@ I found a photo of my father and me playing a game of chess at my parents' home 
 
 ## (Update of 2013-02-27)
 
-The renowned chess instructor [Bruce Pandolfini gives a nuanced, thoughtful answer to a parent's question about whether to let a child win](http://www.chesscafe.com/bruce/bruce164.htm).
+The renowned chess instructor Bruce Pandolfini gave a nuanced, thoughtful answer to a parent's question about whether to let a child win. (**Update of 2013-12-22**: Unfortunately, the link I originally provided to his article no longer works, as Chess Cafe has begun removing archives of its content).
 
 I still think that how my father operated worked out well for me. I learned to value getting better, rather than winning. I trusted that getting better would eventually lead to winning, and it did. Even as an adult who has limited time and ambition, I still value getting better over winning. And [I just won the 2013 Pittsburgh Chess Club Championship](/blog/2013/02/20/pittsburgh-chess-club-championship-2013-round-6-winning-as-black-like-a-madman/). I am in the [top 40 of the active rated chess players in Pennsylvania](http://www.pscfchess.org/ratings/regtoppa.htm). I wouldn't be here if my father had not instilled in me a love of excellence and an honest self-evaluation. I don't even feel good when I win. I only feel good when I judge that I *deserved* to win.
+
+## (Update of 2013-12-22)
+
+Hugh Patterson at The Chess Improver posted a great article ["Some Thoughts for Parents"](http://chessimprover.com/some-thoughts-for-parents/).
+
+Meanwhile, although I am not a parent yet, I am teaching chess now, so I'm personally facing practical decision-making in how I try to simultaneously install love for chess, sheer fun, and a healthy drive for excellence.
