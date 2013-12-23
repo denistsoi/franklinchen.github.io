@@ -340,3 +340,9 @@ The second day after the marathon, I was still in physical and emotional pain, a
 The third day, I was able to walk normally and was emotionally recovering as well and was embarrassed by my rant.
 
 The fourth day, I [went out for a short run and reflected on what running is really about for me](/blog/2013/05/09/back-to-what-running-is-really-about-for-me/).
+
+### (Update of 2013-12-22)
+
+I just wanted to point out a much healthier attitude and experience of a marathon gone badly: [this is a really beautiful article](http://www.letsrun.com/news/2013/11/time-life/) that every disappointed racer should read.
+
+I recognize that I trapped myself during March and April with increasingly unbalanced expectations of my marathon, and lost all calmness and perspective. I still don't know whether I will run a marathon again, but if I do, I vow to do it with a clear mind and body.
