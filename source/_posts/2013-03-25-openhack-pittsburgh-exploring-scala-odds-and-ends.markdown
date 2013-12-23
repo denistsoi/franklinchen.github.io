@@ -61,6 +61,10 @@ When I went home after OpenHack Pittsburgh, however, I coincidentally found that
 
 There has been other work to improve syntactic support for asynchronous computation. [`async`](https://github.com/scala/async) uses [macros](http://scalamacros.org/) to try to provide the nice syntactic experience without the overhead of the continuation plugin.
 
+#### (Update of 2013-12-17)
+
+[`dataflow` has been deprecated](https://github.com/akka/akka/commit/66e40084946f6f993a2c62d9921718704daf448a), now that `async` is fully mature (I have been happily using it for a while now).
+
 ### Implicits
 
 Roy asked me about other interesting features of Scala. I had to say something about implicits, of course, useful for simulating monkey patching as well as simulating Haskell type classes.
