@@ -12,7 +12,7 @@ categories:
 - salsa
 - Spanish
 ---
-{% img http://www.pbs.org/independentlens/lalupe/images/thebest.jpg La Lupe %}
+{% img /images/la-lupe-cds.jpg La Lupe CDs %}
 
 I recently listened to a great [program "La Lupe: queen of Latin soul"](http://www.npr.org/blogs/altlatino/2013/12/19/255282456/la-lupe-queen-of-latin-soul-the-original-alt-latina) about the black Cuban singer [La Lupe](http://en.wikipedia.org/wiki/La_Lupe), who died in 1992 (born in 1936) well before I was even aware of her existence.
 
@@ -34,7 +34,7 @@ The song is so raw that I can't really listen to it very often, but here it is (
 
 ## Finding more of her music
 
-I had no idea who La Lupe was at the time when hearing her sing in the film. I managed to order an Almodóvar soundtrack CD that included her "Puro Teatro", got her name, then looked her up. Eventually I found more songs by her. Of course, now with YouTube, it is easy to find anything by anybody. But there was a time when it was much harder to find music.
+I had no idea who La Lupe was at the time when hearing her sing in the film. I managed to order an Almodóvar soundtrack CD that included her "Puro Teatro", got her name, then looked her up. Eventually I found more songs by her, buying a CD of just her music. Of course, now with YouTube, it is easy to find anything by anybody. But there was a time when it was much harder to find music.
 
 The [NPR program](http://www.npr.org/blogs/altlatino/2013/12/19/255282456/la-lupe-queen-of-latin-soul-the-original-alt-latina) has embedded YouTube videos of several of her performances. She was fantastic in all kinds of music, ranging from really fast dance music to more moderate salsa or cha cha or slower boleros. She also sang, in heavily accented English, some songs in the English languages.
 
