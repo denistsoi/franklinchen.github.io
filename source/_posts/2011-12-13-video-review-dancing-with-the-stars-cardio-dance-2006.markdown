@@ -7,6 +7,11 @@ categories:
 - video reviews
 - reviews
 - ballroom dance
+- Latin dance
+- paso doble
+- samba
+- cha cha
+- jive
 - exercise
 - running
 - Latin music

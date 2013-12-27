@@ -11,6 +11,7 @@ categories:
 - bolero
 - salsa
 - Spanish
+- Pedro Almodóvar
 ---
 {% img /images/la-lupe-cds.jpg La Lupe CDs %}
 
