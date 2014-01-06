@@ -79,6 +79,12 @@ And that reminds me of the controversy over [Roman Polanski](http://en.wikipedia
 
 A lot of questions, and I think no easy answers. Of course, our actions reveal our implicit answers. What we say does not matter. What we do does.
 
+## The science (added 2014-01-05)
+
+One thing I forgot to discuss was the matter of whether people in vegetative states are actually aware of what is going on around them. Assuming they have some awareness, that makes a lot of what happened in the film kind of creepy (but also, what happens in real life in hospitals).
+
+Here's a recent post about [emotional awareness in patients in a vegetative state](http://www.spring.org.uk/2014/01/patients-in-vegetative-state-can-respond-emotionally-to-loved-ones.php).
+
 ## Conclusion
 
 For me, a great film is one that somehow makes me think about life and humanity in the broadest possible ways, even though I didn't really want to. I guess Pedro Almodóvar struck a home run with this film.
