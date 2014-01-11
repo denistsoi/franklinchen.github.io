@@ -9,15 +9,22 @@ categories:
 - Boyce-Mayview Park
 - waterfalls
 - wetlands
-- New Balance Minimus 
+- New Balance Minimus Zero
+- Montrail Rockridge
 ---
 Happy New Year 2014!
 
 Abby and I started off this new year with a lovely [hike with the Pittsburgh hiking meetup group](http://www.meetup.com/pittsburghhikers/events/157809022), led by Gary Byrdman. It was in Boyce-Mayview Park, a park we'd never been to before [in Upper St. Clair](http://www.twpusc.org/rec-leisure/parks-fields).
 
-It was a beautiful day, not too cold, and mostly not too muddy or icy either, thankfully. Abby and I did each use a pair of hiking poles, and many of us used [MICROSpikes](http://kahtoola.com/product/microspikes/) or [Yaktrax](http://www.yaktrax.com/) also during the hike, but it turned out that the spikes were actually something of a hassle because snow accumulated under them for people. If it had been more icy out, I would have used spikes, however.
+{% img /images/boyce-mayview-2014-01-01/break.jpg %}
 
-I wore my relatively new minimalist New Balance trail running shoes for this hike.
+<!--more-->
+
+It was a beautiful day, not too cold (over 20F), and mostly not too muddy or icy either, thankfully. Abby and I did each use a pair of hiking poles, and many of us used [MICROSpikes](http://kahtoola.com/product/microspikes/) or [Yaktrax](http://www.yaktrax.com/) also during the hike, but it turned out that the spikes were actually something of a hassle because snow accumulated under them for people. If it had been more icy out, I would have used spikes, however.
+
+I was originally hoping to wear my relatively new minimalist New Balance Minimus Zero trail running shoes for this hike, but quickly decided that this would be a bad idea mainly because of the risk of getting my feet cold and wet, so I wrote my old Montrail Rockridge trail running shoes, which I haven't worn in years because they have gotten a bit small for me, requiring me to wear very thin socks (which I did on this hike). Far from minimalist, but in the winter in the face of water dangers (and indeed, we had a couple of stream crossings in which I got a little wet), I don't have a true minimalist shoe yet.
+
+{% img http://s7d5.scene7.com/is/image/ColumbiaSportswear/S11_GM2098_654_f?$MTR_pdp_lg$ Montrail Rockridge %}
 
 The hike lasted about two and a half hours.
 
@@ -71,7 +78,7 @@ Up:
 
 ## Conclusion
 
-Abby and I really enjoyed this hike. We promised ourselves that we would return to it next spring and summer. There's clearly so much to enjoy and explore in Boyce-Mayview Pakr.
+Abby and I really enjoyed this hike. We promised ourselves that we would return to it next spring and summer. There's clearly so much to enjoy and explore in Boyce-Mayview Park.
 
 If you want to check it out yourself, the Pittsburgh Meetup group often has hikes in this park.
 

@@ -13,9 +13,15 @@ categories:
 - pizza
 - steps
 ---
-Abby and I wanted to go out on a hike together, but the trails tend not to be so much to hike on these winter days, so we decided to do an exploratory urbank hike.
+Abby and I wanted to go out on a hike together, but the trails tend not to be so much to hike on these winter days, so we decided to do an exploratory urban hike.
 
 I randomly chose for us to explore [Beechview](http://en.wikipedia.org/wiki/Beechview_\(Pittsburgh\)), which is actually still part of the city of Pittsburgh even though it is south, across the Monongahela River. We'd never been to this neighborhood before.
+
+Actually, the choice wasn't quite random.
+
+{% img /images/beechview-2013-12-28/mural.jpg %}
+ 
+<!--more-->
 
 ## Canton Avenue
 
@@ -37,7 +43,7 @@ One thing we didn't do was navigate all the steps we saw, because of the residua
 
 {% img /images/beechview-2013-12-28/steps-view.jpg Steps and view %}
 
-{% img /images/beechview-2013-12-28/steps-stree.jpg Steps for sidewalk %}
+{% img /images/beechview-2013-12-28/steps-street.jpg Steps for sidewalk %}
 
 It's pretty hilly in Beechview:
 
