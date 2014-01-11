@@ -400,8 +400,7 @@ multitask :push do
     cp_r "#{configuration[:destination]}/.", configuration[:deploy_dir]
     cd "#{configuration[:deploy_dir]}" do
       File.new(".nojekyll", "w").close
-      system "git add ."
-      system "git add -u"
+      system "git add -A"
       message = "Site updated at #{Time.now.utc}"
       puts "\n## Committing: #{message}"
       system "git commit -m \"#{message}\""
