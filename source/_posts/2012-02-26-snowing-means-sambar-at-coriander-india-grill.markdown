@@ -25,6 +25,14 @@ Snow, however little there is of it, always makes me want to eat [sambar](http:/
 
 So the three of us went to Coriander for lunch.
 
+## (Update of 2014-01-13)
+
+Abby and I went to Coriander Grill for a Sunday dinner buffet yesterday, because we were hungry after a long hike, and I thought it would be a good idea.
+
+We hadn't been to Coriander for a while. They restricted their buffet days and increased the price. What we didn't realize was that they also restricted the selection severely. Also, they kept on running out of food and not refilling frequently enough. Finally, we didn't feel too well afterwards. I had a sleepless night.
+
+I was very, very disappointed, and can no longer recommend Coriander Grill for their buffet. It is, of course, possible that their regular menu is still fine.
+
 <!--more-->
 
 ## More on Coriander Grill

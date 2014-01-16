@@ -49,6 +49,8 @@ Now, when I am reading a blog, and feel compelled to respond to a post, I strong
 
 At PodCamp Pittsburgh 6, I also attended "Blogging 201" by [@burghbaby](http://twitter.com/burghbaby) and [@FireMom](http://twitter.com/FireMom), another very informative session.
 
+<iframe width="560" height="315" src="//www.youtube.com/embed/HwmsFdxsJmU?list=PL6F136EEC5F65EBDA" frameborder="0" allowfullscreen></iframe>
+
 #### "Why" answers a lot
 
 The theme was repeated that a blogger should know the *why* of what they're doing, because all kinds of questions or dilemmas can be answered that way: frequency, tone, topics, appropriate language, etc.

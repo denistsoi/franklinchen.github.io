@@ -59,3 +59,9 @@ A final tradeoff to mention is that my new habit of getting off the computer ear
 "No" doesn't just mean deprivation. It means making room for "Yes" too.
 
 What have you happily said "No" to that you wanted to do this year but decided not to do?
+
+## (Update of 2014-01-16)
+
+Ironically, I was just getting going with saying too much Yes even just as I was saying No, as I ended up taking two Coursera courses starting in late February: ["Software Engineering for Software as a Service (Part I)"](/blog/2012/04/13/free-course-review-software-engineering-for-software-as-a-service-part-i-from-coursera/) and ["Model Thinking"](/blog/2012/06/16/review-of-coursera-course-model-thinking/). As a result, I was really swamped from late February to June. I didn't even have time to finish up reviews of the courses once I completed them, and only tried to fill in the gaps almost two years later!!
+
+The temptation after saying No is to take on new Yes. In retrospect, I should have been more careful.

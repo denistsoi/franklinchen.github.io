@@ -7,6 +7,7 @@ categories:
 - writing
 - blogs
 - Pittsburgh
+- PodCamp Pittsburgh
 ---
 {% img /images/liebster-award.png Liebster Blog Award %}
 
@@ -24,7 +25,9 @@ So here goes, starting with identifying the two people who gave me the award:
 ## The two who gave me an award
 
 ### Dana: [**Dana is a Geek**](http://danaisageek.com/)
-The first person to give me the Liebster award is a Pittsburgh local, Dana, who is actually inadvertently responsible for my getting into social networks such as Facebook and Twitter, through her talk on [HootSuite](http://hootsuite.com/) at [PodCamp Pittsburgh](http://podcamppittsburgh.com/) 5, in 2010. I still use HootSuite to this day. I also stopped by her talk yet again last year at PodCamp Pittsburgh 6 for a refresher, and it was actually after that when I finally decided to get serious about Twitter.
+The first person to give me the Liebster award is a Pittsburgh local, Dana, who is actually inadvertently responsible for my getting into social networks such as Facebook and Twitter, through her talk on [HootSuite](http://hootsuite.com/) at [PodCamp Pittsburgh](http://podcamppittsburgh.com/) 5, in 2010. I still use HootSuite to this day. I also stopped by her talk yet again last year at PodCamp Pittsburgh 6 for a refresher, and it was actually after that when I finally decided to get serious about Twitter:
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/DIuG4G8hOzY?list=PL6F136EEC5F65EBDA" frameborder="0" allowfullscreen></iframe>
 
 Dana gave me the award back [in November](http://danaisageek.com/2011/11/23/liebster-blog-awar/), but I was crazy busy then and decided to put off the hard work of properly accepting the award; that task went deep into my stack of to-do items, but has finally been taken out of the stack!
 

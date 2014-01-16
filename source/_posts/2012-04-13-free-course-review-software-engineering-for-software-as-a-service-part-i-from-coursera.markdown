@@ -49,6 +49,10 @@ This spring of 2012, I went crazy again and took a very heavy load of two MOOCs,
 - Software Engineering for Software as a Service (Part I) (discussed here)
 - Model Thinking
 
+### (Update on Model Thinking)
+
+[An incomplete review of Model Thinking.](/blog/2012/06/16/review-of-coursera-course-model-thinking/)
+
 ## Why did I take this course?
 
 I signed up for this course in February because I was curious about [Ruby on Rails](http://rubyonrails.org/). I have not done much Web development since the old days of Perl, so I decided to update my skills in this area, which is not what I do in my current job. Also, although I have used some Ruby at my job, I felt that the course would help me deepen my understanding of the language.
