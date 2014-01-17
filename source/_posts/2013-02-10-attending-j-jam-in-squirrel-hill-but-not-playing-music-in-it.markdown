@@ -14,7 +14,7 @@ categories:
 
 Today in Dunkin' Donuts in Squirrel Hill was another [J-Jam](http://jjampgh.webs.com/) of music. I'd performed in a [J-Jam in October over three months ago](/blog/2012/10/28/singing-and-playing-bossa-nova-favorite-chega-de-saudade-at-dunkin-donuts-for-j-jam/), but did not perform or attend the J-Jam in December. This time, I again did not perform, but did attend with Abby to watch and listen.
 
-The reason I did not perform is that I came back from a [Scala conference](http://nescala.org/) just late yesterday night, so I was yet again too busy to meet up with Ben to prepare something to perform, and also even if we had something, I was not confident I would be up to performing just after coming home. I was right: I came home exhausted and slept in today before making it to J-Jam at all.
+The reason I did not perform is that I came back from a [Scala conference](http://nescala.org/) just [late yesterday night](/blog/2013/02/10/ne-scala-2013-my-first-scala-conference/), so I was yet again too busy to meet up with Ben to prepare something to perform, and also even if we had something, I was not confident I would be up to performing just after coming home. I was right: I came home exhausted and slept in today before making it to J-Jam at all.
 
 {% img /images/j-jam-2013-02-10/j-jam.jpg J-Jam %}
 

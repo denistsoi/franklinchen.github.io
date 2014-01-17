@@ -45,3 +45,7 @@ In a flurry of email exchanges, I ended up registering for the conference with t
 ## Conclusion
 
 I'm definitely throwing myself into the Scala world now, with the Pittsburgh Scala meetup going and with my registration for the NE Scala conference.
+
+## (Update)
+
+[NE Scala 2013 was quite intense](/blog/2013/02/10/ne-scala-2013-my-first-scala-conference/).

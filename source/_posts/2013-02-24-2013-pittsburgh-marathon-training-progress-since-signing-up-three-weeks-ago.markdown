@@ -22,7 +22,7 @@ Why so *late* in the game (the marathon is just two months away, basically), and
 
 My excuse is that life seriously got in the way this February.
 
-I was out of town for days at [NE Scala](http://nescala.org/) one week. Then immediately after I came back, Abby broke her foot, throwing our lives into considerable disarray for about two weeks.
+I was out of town for days at [NE Scala](http://nescala.org/) [during one week]((/blog/2013/02/10/ne-scala-2013-my-first-scala-conference/). Then immediately after I came back, Abby broke her foot, throwing our lives into considerable disarray for about two weeks.
 
 So I never actually formulated a marathon training plan until today.
 
