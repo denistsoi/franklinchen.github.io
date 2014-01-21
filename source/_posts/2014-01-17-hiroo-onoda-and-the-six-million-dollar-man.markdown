@@ -43,12 +43,16 @@ I thought a lot about life and death after that episode. What is the meaning of 
 
 My questioning may have begun at seven, but it has not yet ended. I do not have the final answer.
 
-But that one TV episode got me started on a lifelong philosophical journey. When older, it led me to studying the Christian Bible, which is all about exploring what it means to live and die (Jesus dying and living again, and the command to be [dead to sin but alive in Christ](http://www.biblegateway.com/passage/?search=Romans%206). I also studied Nietzsche, who had his character Zarathustra say, ["Die at the right time"](http://4umi.com/nietzsche/zarathustra/21).
+But that one TV episode got me started on a lifelong philosophical journey. When I was older, I studied the Christian Bible, which is all about exploring what it means to live and die: Jesus dying and living again, and the command to be [dead to sin but alive in Christ](http://www.biblegateway.com/passage/?search=Romans%206).
 
-Of course, there is also the controversial choice of [Socrates](http://en.wikipedia.org/wiki/Socrates) to commit suicide. And the lore is that [Gautama Buddha](http://en.wikipedia.org/wiki/Gautama_Buddha) deliberately ate rotting food in order not to offend his host, and died as a result.
+Of course, there is also the controversial choice of [Socrates](http://en.wikipedia.org/wiki/Socrates) to commit suicide, which I read various conflicting opinions about: when I had just finished high school, the book ["The Trial of Socrates" by I.F. Stone came out](http://www.ifstone.org/trial_of_socrates.php) that was very provocative and turned me against Socrates, whom I had earlier considered a hero, from reading Plato's dialogues about him.
+
+I was also bothered but fascinated by the lore that [Gautama Buddha](http://en.wikipedia.org/wiki/Gautama_Buddha) deliberately ate rotting food in order not to offend his host, and died as a result.
 
 And what of the controversial mass suicide by Jews at [Masada](http://en.wikipedia.org/wiki/Masada)? Or that of [self-immolating](http://en.wikipedia.org/wiki/Self-immolation) Buddhist monks in Vietnam?
 
-Recently, Stoicism has become popularized as a living philosophy for today, with proponents such as [William Irvine](http://www.ttbook.org/book/transcript/transcript-william-irvine-stoic-life), who talk about "contemplation of death". (Don't forget that [Seneca](http://en.wikipedia.org/wiki/Seneca_the_Younger) was also forced to commit suicide.)
+In college, I took a philosophy course by [Frederick Neuhouser](http://philosophy.columbia.edu/directories/faculty/frederick-neuhouser) and studied Nietzsche, who had his character Zarathustra say, ["Die at the right time"](http://4umi.com/nietzsche/zarathustra/21). I was profoundly affected by the challenges that Nietzsche threw at his readers. That course changed my life.
+ 
+Very recently, Stoicism has become popularized as a living philosophy for today, with proponents such as [William Irvine](http://www.ttbook.org/book/transcript/transcript-william-irvine-stoic-life), who talks about "contemplation of death". I very much enjoyed his book ["A Guide to the Good Life: the Ancient Art of Stoic Joy"](http://global.oup.com/academic/product/a-guide-to-the-good-life-9780195374612) not long after it came out; reading it in early 2011, I changed the course of my life. (Don't forget that [Seneca](http://en.wikipedia.org/wiki/Seneca_the_Younger) was also forced to commit suicide.)
 
 I am fascinated by deliberate, reasoned decisions about life and death.
