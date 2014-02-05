@@ -20,3 +20,11 @@ In other words, the cookie has somehow appeal to me so much that I bother to pau
 Also, I must post publicly any cookie that I eat.
 
 We'll see how well this system works. I can sense cookie opportunities coming up already!
+
+## (Update of 2014-01-29)
+
+Check out what happened [two days later](/blog/2014/01/29/my-no-cookie-rule-a-photo-update/).
+
+## (Update of 2014-01-31)
+
+Check out what happened [four days later](/blog/2014/01/31/first-time-in-my-life-not-eating-cookies-or-cake-at-a-party/).
