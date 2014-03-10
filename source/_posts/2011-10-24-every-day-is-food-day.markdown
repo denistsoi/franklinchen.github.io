@@ -7,6 +7,7 @@ categories:
 - food
 - cooking
 - health
+- cookies
 ---
 I found out only yesterday that today is [*Food Day*](http://foodday.org/). I [looked up](http://foodday.org/about-food-day/) what it's all about and it seems that October 24 has been designated *Food Day*, sponsored by the [Center for Science in the Public Interest](http://www.cspinet.org/), a nonprofit watchdog group. I looked further, and saw that the [Wikipedia entry](http://en.wikipedia.org/wiki/Center_for_Science_in_the_Public_Interest) is informative, noting controversies concerning the group, especially the vocal opposition from the restaurant, food, and tobacco industries, but from other sources also, including former CSPI members.
 

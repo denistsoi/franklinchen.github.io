@@ -12,6 +12,7 @@ categories:
 - rubber duck
 - ukulele
 - singing
+- cookies
 ---
 At the second meeting of this season of the [Pittsburgh Recorder Society](http://www.facebook.com/PittsburghRecorderSociety), I was amazed by the huge turnout. There were **fourteen** of us, easily double the typical attendance in the past two seasons since [I first joined in 2011](/blog/2013/02/23/celebrating-two-years-of-playing-recorder/):
 
@@ -44,4 +45,3 @@ I picked up two recorders from Helen that I had bid on at the last meeting, when
 ## Conclusion
 
 I had another great time at the Pittsburgh Recorder Society monthly meeting. Every month, our Sunday afternoon meeting is something I truly look forward to.
-

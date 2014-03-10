@@ -9,7 +9,7 @@ categories:
 - recorder
 - flute
 - Baroque flute
-- CPE Bach
+- Carl Philipp Emanual Bach
 - Renaissance
 - Baroque
 - Jacob Van Eyck

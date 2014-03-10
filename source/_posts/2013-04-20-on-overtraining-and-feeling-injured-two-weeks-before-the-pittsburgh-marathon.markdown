@@ -15,6 +15,7 @@ categories:
 - Carnegie Mellon University
 - Boston Marathon
 - calf sleeves
+- cookies
 ---
 [Last week's 16-mile run with the Steel City Road Runners](/blog/2013/04/13/my-final-16-mile-long-run-before-pittsburgh-marathon-featured-two-radical-experiments/) was my longest run during the past two months of training for the Pittsburgh Marathon. I knew that it was about time to start [tapering](http://running.competitor.com/2012/08/training/the-art-of-the-marathon-taper_57754), but I felt that because of my relatively low mileage (mostly under 30 miles a week), I should put in one last hard week of training, and then have two weeks of tapering before the marathon.
 

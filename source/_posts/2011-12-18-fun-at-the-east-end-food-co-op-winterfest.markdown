@@ -10,6 +10,7 @@ categories:
 - Bury the Cabbage
 - tin whistle
 - dance
+- cookies
 ---
 Saturday, Abby and I went to the annual [East End Food Co-op](http://eastendfoodcoop.com/) [Winterfest](http://www.facebook.com/events/144638855639374/) with John, as we did last year, and were joined by Mark, Jin, and their daughter Julia.
 

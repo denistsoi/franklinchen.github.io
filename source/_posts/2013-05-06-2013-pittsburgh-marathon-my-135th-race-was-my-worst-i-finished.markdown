@@ -15,6 +15,7 @@ categories:
 - Boston Marathon
 - Carnegie Mellon University
 - Smiley Cookie
+- cookies
 ---
 {% img /images/pittsburgh-marathon-2013/runner-of-steel.jpg Franklin Chen, runner of steel %}
 

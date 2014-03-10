@@ -14,6 +14,7 @@ categories:
 - dance
 - Pittsburgh
 - contra dance
+- cookies
 ---
 So on Friday, after [just two weeks](/blog/2011/12/01/im-going-to-perform-music-much-sooner-than-i-expected-monday/) of [practicing music](/blog/2011/12/05/busy-evening-performing-at-phipps-followed-by-rehearsal-for-another-gig/) for the [Pittsburgh Contras and Squares](http://pittsburghcontra.org/) Holiday Ball, the moment of truth finally arrived.
 

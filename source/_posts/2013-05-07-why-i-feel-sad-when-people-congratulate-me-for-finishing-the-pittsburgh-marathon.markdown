@@ -10,6 +10,7 @@ categories:
 - Pittsburgh
 - Luna Sandals
 - calf sleeves
+- cookies
 ---
 {% img /images/pittsburgh-marathon-2013/medal.jpg 2013 Pittsburgh Marathon medal %}
 

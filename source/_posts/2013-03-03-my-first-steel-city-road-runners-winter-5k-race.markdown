@@ -11,6 +11,7 @@ categories:
 - Pittsburgh Marathon
 - Pittsburgh
 - FiveFingers
+- cookies
 ---
 Today was the first time I ever ran Vibram FiveFingers for a winter race! As planned [last week](/blog/2013/02/24/2013-pittsburgh-marathon-training-progress-since-signing-up-three-weeks-ago/), I ran in a [Steel City Road Runners 5K race](http://www.steelcityrrc.org/scrrcevents?eventId=620982&EventViewMode=2&CalendarViewType=1&SelectedDate=3/16/2013) to gauge my current fitness level while training for the 2013 Pittsburgh Marathon.
 
@@ -88,3 +89,7 @@ I ended up partially racing Just A Short Run, which I think was the correct deci
 ## Conclusion
 
 Doing my first 5K race this year was a confidence booster for me, being a hard workout. It was also an opportunity to start really quantifying my progress and realistic timeline of improvement over the next months.
+
+### (Update of 2014-03-01)
+
+I did not run in 2014's [Steel City Road Runners Campus Challenge 5K](http://www.steelcityrrc.org/events?eventId=797046&EventViewMode=EventDetails), sadly, because I have not been running much this winter, thanks to not signing up for either the Pittsburgh Marathon (or half marathon) or even for the annual CMU Fitness Challenge.

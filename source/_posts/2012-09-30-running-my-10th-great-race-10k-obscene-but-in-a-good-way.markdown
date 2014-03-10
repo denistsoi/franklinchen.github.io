@@ -13,6 +13,7 @@ categories:
 - FiveFingers
 - sick
 - Smiley Cookie
+- cookies
 ---
 {% img /images/great-race-2012/great-race-expo.jpg Great Race quilt %}
 

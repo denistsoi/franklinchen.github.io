@@ -9,6 +9,7 @@ categories:
 - diet
 - soda
 - politics
+- cookies
 ---
 I just saw an article, ["Soda Bans in Schools Have Limited Impact"](http://well.blogs.nytimes.com/2011/11/07/soda-bans-in-schools-have-limited-benefit/). It boggles my mind that anyone would advocate soda bans in school as a policy in isolation.
 

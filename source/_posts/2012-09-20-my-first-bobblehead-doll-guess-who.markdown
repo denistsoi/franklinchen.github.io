@@ -16,7 +16,7 @@ categories:
 - flute
 - Baroque flute
 - Emmanuel Pahud
-- CPE Bach
+- Carl Philipp Emanual Bach
 ---
 {% img /images/j-s-bach-bobblehead.jpg Johann Sebastian Bach bobblehead %}
 

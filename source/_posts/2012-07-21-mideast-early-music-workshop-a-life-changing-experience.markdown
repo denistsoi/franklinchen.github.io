@@ -20,6 +20,7 @@ categories:
 - Syrinx
 - concert
 - master class
+- cookies
 ---
 The whole past week (July 15-21, 2012), I attended my first ever music camp, the annual [Mideast early music workshop](http://www.mideastearlymusic.addr.com/) held at LaRoche College. It totally changed my life!
 

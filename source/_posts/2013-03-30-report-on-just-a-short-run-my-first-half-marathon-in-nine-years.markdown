@@ -16,6 +16,7 @@ categories:
 - Steel City Road Runners
 - Gatorade
 - Smiley Cookie
+- cookies
 ---
 (Updated 2013-05-09 with official race videos!)
 
@@ -240,7 +241,7 @@ This was my slowest half marathon ever, but one of the most satisfying, and one 
 
 I couldn't find myself in the half marathon start, because it's too congested.
 
-#### Addtional loop 1
+#### Additional loop 1
 
 I found myself arriving under "Additional loops" at 27:09 on the clock to begin the first of two 5-mile loops.
 
@@ -271,3 +272,7 @@ Watch my sprint finish from clock time around 1:51:03 to finish at 1:51:12 (my c
 I was already done, so I am not in this video.
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/t4Zwv-tSLVM" frameborder="0" allowfullscreen></iframe>
+
+## (Update of 2014-03-09)
+
+In 2014, I did not set a goal to run a spring half marathon, so I did not train in the winter months for one, and so I am sadly missing Just A Short Run. Maybe there's still time for me to get back into regular running and aim to do a half marathon in the fall.
