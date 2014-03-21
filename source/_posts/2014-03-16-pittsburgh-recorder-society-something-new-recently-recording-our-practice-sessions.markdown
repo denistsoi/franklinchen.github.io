@@ -14,7 +14,13 @@ categories:
 
 I forgot to mention in my post about [last month's Pittsburgh Recorder Society's meeting](/blog/2014/02/16/pittsburgh-recorder-society-7-part-gabrieli-and-coconut-chocolate-cookies/) that Fred has started recording our sessions; he's set up a tripod and an audio recorder. I kind of didn't pay attention because it was not emphasized and nobody talked much about it.
 
-Today, however, there was more mention of recording, and Fred made jokes about checking out what we did and how it would be useful for us to listen and see how we progress. Interestingly, this seemed to have quite an effect on what we did. I definitely felt a lot more serious and alert. Although I already always do take our meetings seriously, I will confess right now that whenever Fred said, "OK, now let's do this again, and with recording", I really perked up and gave it my all, trying to play as musically as possible, paying attention to intonation, articulation, ensemble balance, and even that terrible habit many of us have of sucking our recorders after the end of a piece.
+Today was a different story.
+
+<!--more-->
+
+## Recording
+
+There was more mention of recording than in the past, and Fred made jokes about checking out what we did and how it would be useful for us to listen and see how we progress. Interestingly, this seemed to have quite an effect on what we did. I definitely felt a lot more serious and alert. Although I already always do take our meetings seriously, I will confess right now that whenever Fred said, "OK, now let's do this again, and with recording", I really perked up and gave it my all, trying to play as musically as possible, paying attention to intonation, articulation, ensemble balance, and even that terrible habit many of us have of sucking our recorders after the end of a piece.
 
 Fred is right: it doesn't really make sense, *logically*, to goof off during rehearsal and then expect to play well in actual performance. In practice, we should do the reverse: play it as well as we can in rehearsal, so that when we perform, which is usually in less than ideal circumstances (anxiety, unusual location or acoustics, or being hectic in getting somewhere, or any number of other unexpected glitches), our performance might be *worse* than what we did, but it will still be good. On the other hand, if we don't give it our all in practice, then what miracle can get us even better in performance?
 
