@@ -15,9 +15,13 @@ Because so many people are now regularly attending the Pittsburgh Recorder Socie
 
 We also continued work on other pieces we started earlier in the season. Fred's guidance is as inspiring as ever. I feel that every meeting of our group is a wonderful opportunity to grow as a musician.
 
+After going home I found a trumpet ensemble performance of the Gabrieli online:
+
+<iframe width="420" height="315" src="//www.youtube.com/embed/PlfvhJPNuTE" frameborder="0" allowfullscreen></iframe>
+
 ## Snacks
 
-People brought in snacks to share, as usual.
+People brought in snacks to share, as usual, for break time.
 
 {% img /images/recorder-2014-02-16/snacks.jpg %}
 
