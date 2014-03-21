@@ -10,6 +10,9 @@ categories:
 - Latin music
 - jazz
 - bolero
+- Dos Gardenias
+- Buena Vista Social Club
+- Ibrahim Ferrer
 - cha cha
 - Irish flute
 - tin whistle
