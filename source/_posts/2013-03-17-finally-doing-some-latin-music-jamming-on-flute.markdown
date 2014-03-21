@@ -60,3 +60,7 @@ Finally, I pulled out an unnamed cha cha from the World Music Cuba book. We real
 ## Chess
 
 At some point in the evening, I needed a break from playing music and from socializing and decided to rest. However, it turned out that my "rest" consisted of relaxing in a chair while closing my eyes and... [playing blindfold chess](/blog/2013/03/17/my-second-ever-blindfold-chess-game/)!
+
+## (Update of 2014-03-16)
+
+Abby and I couldn't make it to Henry's St. Patrick Day party in 2014. I felt sad about this, but our other plans made earlier made it impractical to try to attend.
