@@ -33,7 +33,7 @@ Doing math and physics homework in college, I got burned repeatedly by the extra
 
 While doing some cleaning, I happened to find in my office the very book that I had on me during the trip and that Bryan wrote into (not the inside front cover, but the inside back cover)!
 
-{% img /images/book-pi.jpg %}
+{% img /images/book-with-pi.jpg %}
 
 {% img /images/pi.jpg %}
 
