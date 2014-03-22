@@ -19,7 +19,9 @@ There were three tables of food, one for "Asian", another for "Mediterranean", a
 
 Note that standard CMU catering cookies were also provided.
 
-I did try a bit of everything, including stuff I less frequently encounter. Unexpectedly, the experience of hopping from one table to another, and sampling every single item, led me to reflect on how unfamiliar some of these items were unfamiliar to me until later in life, and how my taste in food has expanded considerably in my *30s and 40s*.
+I did try a bit of everything, including stuff I less frequently encounter. Unexpectedly, the experience of hopping from one table to another, and sampling every single item, led me to reflect on how unfamiliar some of these items were to me until later in life, and how my taste in food has expanded considerably in my *30s and 40s*.
+
+<!--more-->
 
 ## Linking my history of eating to "Time to Taste the World"
 
