@@ -23,7 +23,7 @@ Here's an amusing photo I took of Abby finding a hiding place along the trail:
 
 I didn't take any photos of the new-looking signs reading "Iron Grate Trail" that we saw, but I just found out that [they were put up just days ago thanks to volunteers for the Pittsburgh Trail Advocacy Group](http://pittsburghparks.org/PTAGworkday04052014). We did notice that the trail showed other evidence of having been maintained recently. Very nice work and thank you!
 
-We also saw some chickens running around in someone's back yard, from a section of thet trail behind a residential area.
+We also saw some chickens running around in someone's back yard, from a section of the trail behind a residential area.
 
 ## Video
 
