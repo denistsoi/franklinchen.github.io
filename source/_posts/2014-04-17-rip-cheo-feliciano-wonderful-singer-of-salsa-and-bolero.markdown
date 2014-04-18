@@ -36,3 +36,5 @@ He was fantastic at uptempo salsa too, of course. Here is a video of him perform
 ## Conclusion
 
 If you love classic salsa and bolero, take some time out to review his old albums and remember how great he was. And remember to keep dancing to his fine music!
+
+**How do you feel when you learn that a favorite musician of yours has died? Do you do anything to celebrate his or her life and contribution to yours? I like to reflect on what I found so special that touched my life, and share that so that others will remember, or learn anew.**
