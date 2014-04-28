@@ -54,3 +54,7 @@ While I was packing up to leave, I couldn't resist temptation and ate my third H
 In retrospect, **this was a big mistake**. After getting home, I felt burdened by this third brownie. I would have been fine just eating the first two and the one cookie (along with some cheese and nuts that I also had).
 
 I've noticed that I have a problem when I eat a "one more for the road" cookie at events. I've decided to consciously watch out and *not* do that in the future. I should only eat as much as I can handle, and leave it at that.
+
+### (Update of 2014-04-27)
+
+By popular demand, [the following month, Helen brought in the recipe for these brownies](/blog/2014/04/27/pittsburgh-recorder-society-palestrina-gombert-and-dolly-parton-cookies/).
