@@ -85,8 +85,14 @@ One thing I forgot to discuss was the matter of whether people in vegetative sta
 
 Here's a recent post about [emotional awareness in patients in a vegetative state](http://www.spring.org.uk/2014/01/patients-in-vegetative-state-can-respond-emotionally-to-loved-ones.php).
 
+### (Update of 2014-04-27)
+
+A great article on [vegetative states](http://mosaicscience.com/story/mind-readers) just came my way, reminding me of the discomfort I felt when watching this film.
+
 ## Conclusion
 
 For me, a great film is one that somehow makes me think about life and humanity in the broadest possible ways, even though I didn't really want to. I guess Pedro Almodóvar struck a home run with this film.
 
 Not the kind of film I want to watch every night, because then I end up spending hours thinking about stuff. But there it is.
+
+**Do you find this kind of film too disturbing to watch or to think about? Are you concerned by inaccurate scientific portrayals in film? Are you concerned about films that make you sympathetic toward someone who is not only disturbed but also a criminal?**
