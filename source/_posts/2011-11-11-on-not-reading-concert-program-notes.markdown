@@ -75,8 +75,16 @@ On the web site there is a [program](http://www.aosa.org/011conference/documents
 
 I have to be honest: if I had seen the description of "Stomping La Luna", I would have planned to leave after the recorder concert. But having it foisted on me by surprise, I had to see it through to find out how it would end! It was entertaining enough, although totally bizarre. Not something I would deliberately attend.
 
+#### (Update of 2014-04-27)
+
+Over two years later, one day, for some reason, I was thinking about "Stomping La Luna", so I looked online to refresh my memory, and I found a video of excerpts:
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/gF7oxiKVjv8" frameborder="0" allowfullscreen></iframe>
+
 ## Conclusion
 
 *Not* reading program outlines or program notes can lead to more discoveries, more attention, more surprises: living in the moment rather than trying to match up someone's description of a concert or dance performance with the real thing.
 
 Embracing the unexpected can be easier if one does not have prior warning of weird it might be.
+
+**Do you like to read program notes for a concert or other performance event? Do you find them useful in improving your enjoyment of the program? Or do you prefer, as I do, to let go of reading anything, and just deliberately get surprised by something completely new, without preconceptions or prior knowledge?**
