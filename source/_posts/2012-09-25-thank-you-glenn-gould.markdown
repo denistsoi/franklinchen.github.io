@@ -5,6 +5,7 @@ date: 2012-09-25 19:16
 comments: true
 categories: 
 - music
+- atonal
 - piano
 - Glenn Gould
 - Johann Sebastian Bach
