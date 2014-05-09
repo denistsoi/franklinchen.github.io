@@ -44,3 +44,11 @@ So, Euler's identity as we know it is *not quite* the most beautiful equation. B
 But I wasn't going to get any points for the team by snidely answering the question with the nonexistent film title "Half Beauty and the Beast". What can I say, I swallowed my pride and sold out to score an important point for our team.
 
 Given how easily I sold out, it is clear that a hundred years from now, we'll all still be using pi instead of tau.
+
+## (Update of 2014-05-09)
+
+Here is an interesting video reporting on brain research into the experience of "mathematical beauty" (both in mathematicians and non-mathematicians):
+
+<iframe id="dit-video-embed" width="640" height="360"
+src="http://snagplayer.video.dp.discovery.com/855979/snag-it-player.htm?auto=no"
+frameborder="0" scrolling="no" allowtransparency="true"></iframe>
