@@ -22,11 +22,11 @@ Last year, I [vented a bit about voting](/blog/2013/05/21/voting-in-the-face-of-
 
 This year, I paid almost no attention to any media coverage before the election. This included deleting answer machine messages, and summarily recycling all campaign flyers sent to my home, with an attempt not to even see who sent them. I don't know if it's just my imagination, but these flyers have gotten louder and more annoying and inane. I made the mistake of actually seeing *one* of these flyers (and therefore know who it was from). In all caps and colored, bold text (if I recall correctly), it said something like
 
-{% quotation %}
+{% blockquote %}
 Mike knows us.
 
 And we know Mike.
-{% endquotation %}
+{% endblockquote %}
 
 That pretty much sums up what political campaigns are. And we know that psychologically, this stuff works. Just slamming someone's name into our brains, creating "familiarity", influences votes.
 
