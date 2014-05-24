@@ -23,9 +23,9 @@ The funny thing is that even as I enjoyed the staff appreciation lunch, my colle
 
 Basically, they barely had enough food for everyone, there was no potato salad, and there was no ice cream at all! It was an insult to be "appreciated" in this manner: it would have been better to cancel the event than hold one that everyone would grumble about for seven years. I think only since last year did people really start forgetting about that one incident. Time heals.
 
-For me, however, I still remember the incident if only because of a counterbalancing incident that happened the following day.
+For me, however, I still remember the incident if only because of a counterbalancing incident that happened just a few hours later, after work.
 
-Seven years ago, I had only recently started dating Abby, and the day after the CMU staff picnic she invited me to come after work to her friend's place for a little party, so I went. I had complained to her the day earlier about the ice cream sandwich disappointment (actually, before that year, although they had provided ice cream sandwiches, they were not yet homemade, but were standard brand items, nothing special). It turned out that there was ice cream present, and also cookies, so Abby just combined a pat of ice cream with two cookies and presented it to me!
+Seven years ago, when I had only recently started dating Abby, she had invited me to come after work to her friend's place for a little party the same day as the CMU staff picnic, so I went. I arrived complaining to her that I had not received my annual ice cream sandwich (in previous years of the CMU staff picnic, they always provided standard-brand ice cream sandwiches, nothing special, but at least something). It turned out that there was ice cream present at the party, and also cookies, so Abby just combined a pat of ice cream with two cookies and presented it to me! Although the ice cream melted quickly and so the "sandwich" didn't work so well after all, the gesture was funny and kind.
 
 I know it's a tiny little thing to do, but it really touched my heart seven years ago. It was a surprise, unexpected, and just very sweet. It's one of those memories that, when it pops up (spontaneously or because Abby reminds me, as she did tonight when I told her about eating a chocolate one this year rather than a vanilla one), makes me smile. There I was, disappointed by how CMU apparently didn't care enough to truly "appreciate" its staff, and then there was Abby, making a little treat for me.
 
@@ -33,6 +33,6 @@ Our fifth anniversary of marriage is coming up soon. It's been easy to start for
 
 ## Conclusion
 
-CMU must have gotten a lot of feedback from the debacle seven years ago, because the staff picnic has been excellent since then. They even got off the burgers and hot dogs entirely and went to a much more healthy and interesting menu. Meanwhile, Abby still surprises me sometimes with a treat of some kind, such as when packing lunch for us when we got for a day of hiking. Life is the little things.
+CMU must have gotten a lot of feedback from the debacle seven years ago, because the staff picnic went back to normal, and then eventually even improved further. In the past couple of years, they got away from the boring burgers and hot dogs entirely, and went to a much more healthy and interesting menu. Meanwhile, Abby still surprises me sometimes with a treat of some kind, such as when packing lunch for us when we got for a day of hiking. Life is the little things.
 
 **How do you react to either negative or positive surprises? Which do you remember more, after the passage of time?**
