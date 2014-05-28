@@ -11,6 +11,8 @@ categories:
 - Neil Newton
 - University of Pittsburgh
 ---
+{% img http://www.music.pitt.edu/sites/default/files/story-images/neil_newton-600.jpg?1401301354 %}
+
 I attended a fascinating and illuminating lecture by [Neil Newton](http://www.music.pitt.edu/faculty/newton) at the University of Pittsburgh with the title ["*The Inner Life of Harmonies: An Examination of the Middle Voice in Pop, Classical, and Early Post-Tonal Music*"](http://www.music.pitt.edu/events/lecture-neil-newton-university-pitt130925).
 
 The big question I've sometimes asked myself is, what is [atonal](http://en.wikipedia.org/wiki/Atonality) music anyway? How do we make sense of it?
@@ -34,6 +36,10 @@ Particularly interesting to me was how Newton used statistical analysis to look 
 Also, he unifies his ideas with application to other "weird" musical phenomenon, such as that found in many pop and rock songs that violate the traditional tonal system. (The music of the Beatles, for example, was quite marked in its oddity.)
 
 For details, check out Newton's paper, ["An Aspect of Functional Harmony in Schoenberg's Early Post-Tonal Music"](http://onlinelibrary.wiley.com/doi/10.1111/musa.12018/abstract). I don't pretend to understand more than a fraction of what he tries to show, since I am just an amateur musician, not a trained theorist, but the overview and audio examples he gave in his lecture gave me a glimpse of what he's doing, and I was happy to have attended.
+
+### (Update of 2014-05-28)
+
+The Pitt music department blog [just mentioned Newton's work](http://www.music.pitt.edu/blog/neil-newton-schoenberg140528) and provided a link to an [enhanced HTML version of his paper](http://onlinelibrary.wiley.com/enhanced/doi/10.1111/musa.12018/).
 
 ## Conclusion
 
