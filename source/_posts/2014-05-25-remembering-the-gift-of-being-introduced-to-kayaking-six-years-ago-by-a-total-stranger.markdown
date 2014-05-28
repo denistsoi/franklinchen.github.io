@@ -24,21 +24,21 @@ The truth is that I had to drag Abby into attending our first soup hike. Althoug
 
 We both enjoyed the hike tremendously. It's a beautiful hike.
 
-{% /images/soup-hike-2008-06-08/abby-franklin.jpg %}
+{% img /images/soup-hike-2008-06-08/abby-franklin.jpg %}
 
 When Abby saw Jackson Falls, she knew she wanted to come back again to swim!
 
-{% /images/soup-hike-2008-06-08/jackson-falls.jpg %}
+{% img /images/soup-hike-2008-06-08/jackson-falls.jpg %}
 
 ### Kayaking
 
 After the hike, I was surprised to see some people taking kayaks out to the Kisk River. Steve was letting people use his kayaks!
 
-{% /images/soup-hike-2008-06-08/kayak.jpg %}
+{% img /images/soup-hike-2008-06-08/kayak.jpg %}
 
 At this point in my life, I had *never* voluntarily been in the water before. I'm terrible at swimming, had near-drowning experiences when young, and had never touched a kayak or canoe before. But Abby was all excited, and the view on the river look so nice.
 
-{% /images/soup-hike-2008-06-08/kiski.jpg %}
+{% img /images/soup-hike-2008-06-08/kiski.jpg %}
 
 So each of us took a kayak and just briefly paddled around in the river for a fe w minutes. I was so scared the first time, and disoriented, but after a while, decided I really enjoyed this!
 
@@ -52,39 +52,39 @@ The paddling trip [we just did](http://www.meetup.com/kayaking-129/events/181882
 
 It turns out that until today, we had not paddled in two years, because of our life situations last year, so we were really excited to have this opportunity this year.
 
-{% /images/paddling-2014-05-25/finishing-loading.jpg %}
+{% img /images/paddling-2014-05-25/finishing-loading.jpg %}
 
 Cute doggie coming with us:
 
-{% /images/paddling-2014-05-25/dog.jpg %}
+{% img /images/paddling-2014-05-25/dog.jpg %}
 
 The group starting down the river while I hang back to take a photo:
 
-{% /images/paddling-2014-05-25/starting.jpg %}
+{% img /images/paddling-2014-05-25/starting.jpg %}
 
 Passing a rookery:
 
-{% /images/paddling-2014-05-25/rookery.jpg %}
+{% img /images/paddling-2014-05-25/rookery.jpg %}
 
 Lunch break on the water because the water levels were too low for us to get off on solid ground.
 
-{% /images/paddling-2014-05-25/lunch.jpg %}
+{% img /images/paddling-2014-05-25/lunch.jpg %}
 
 A panorama:
 
-{% /images/paddling-2014-05-25/panorama.jpg %}
+{% img /images/paddling-2014-05-25/panorama.jpg %}
 
 One of several bridges along the route:
 
-{% /images/paddling-2014-05-25/bridge.jpg %}
+{% img /images/paddling-2014-05-25/bridge.jpg %}
 
 Turning off to take out:
 
-{% /images/paddling-2014-05-25/turn.jpg %}
+{% img /images/paddling-2014-05-25/turn.jpg %}
 
 Panorama at take-out point:
 
-{% /images/paddling-2014-05-25/panorama-take-out.jpg %}
+{% img /images/paddling-2014-05-25/panorama-take-out.jpg %}
 
 ### Logistics
 
@@ -100,16 +100,16 @@ Abby made and brought a tasty zucchini dish, and some smoked gouda cheese, to sh
 
 I ate two leftover homemade cookies immediately!
 
-{% /images/paddling-2014-05-25/cookie1.jpg %}
-{% /images/paddling-2014-05-25/cookie2.jpg %}
+{% img /images/paddling-2014-05-25/cookie1.jpg %}
+{% img /images/paddling-2014-05-25/cookie2.jpg %}
 
 Abby's zucchini was popular:
 
-{% /images/paddling-2014-05-25/zucchini.jpg %}
+{% img /images/paddling-2014-05-25/zucchini.jpg %}
 
 Steve's burger patties, just off his grill:
 
-{% /images/paddling-2014-05-25/burgers.jpg %}
+{% img /images/paddling-2014-05-25/burgers.jpg %}
 
 ### Bonfire
 
