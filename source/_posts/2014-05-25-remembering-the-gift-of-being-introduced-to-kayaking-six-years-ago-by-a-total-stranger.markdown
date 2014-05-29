@@ -32,7 +32,7 @@ When Abby saw Jackson Falls, she knew she wanted to come back again to swim!
 
 ### Kayaking
 
-After the hike, I was surprised to see some people taking kayaks out to the Kisk River. Steve was letting people use his kayaks!
+After the hike, I was surprised to see some people taking kayaks out to the Kiski River. Steve was letting people use his kayaks!
 
 {% img /images/soup-hike-2008-06-08/kayak.jpg %}
 
@@ -40,11 +40,9 @@ At this point in my life, I had *never* voluntarily been in the water before. I'
 
 {% img /images/soup-hike-2008-06-08/kiski.jpg %}
 
-So each of us took a kayak and just briefly paddled around in the river for a fe w minutes. I was so scared the first time, and disoriented, but after a while, decided I really enjoyed this!
+So Steve said we could briefly get on the river, and each of us took a kayak and just paddled around in the river for a few minutes. I was so scared the first time, and disoriented, but after a while, decided I really enjoyed this!
 
 In summary, it was an amazing day, during which we met this great guy Steve who led us on a great hike, provided space and food in his garage, and even let us play with his kayaks. I was profoundly moved by his generosity, and the sense of fun that everyone brought to the event. Steve put us on his mailing list for his regular paddling trips, and ever since then, Abby and I have tried to join him for a couple of paddling trips a year, as our schedules and weather conditions allow.
-
-Also, Steve posts his paddling trips on the [Pittsburgh Kayakers meetup group](http://www.meetup.com/kayaking-129/), in case you are interested in joining in! You can bring your own kayaks or canoes or borrow his (as quantities allow).
 
 ## Some photos from the paddling trip we just came back from
 
@@ -88,15 +86,15 @@ Panorama at take-out point:
 
 ### Logistics
 
-It's really complicated setting up these paddling trips, because not only does Steve personally hoist up and tie up a dozen of his kayaks to tow, but a shuttle has to be arranged to get vehicles to the take-out and put-in points, and then after the paddling, all the kayaks have to be put back on, and everyone transported back to their appropriate vehicles, and some people ending back up at Steve's place while others just go back home. And those of us who used Steve's kayaks need to help unload them and clean them thoroughly and stow them where they belong. Basically, if you sign up for one of these trips, plan to spend the whole day outside.
+It's really complicated setting up these paddling trips, because not only does Steve personally hoist up and tie up several kayaks to tow himself, but also we try to consolidate people into as few vehicles as possible in order to set up an efficient shuttle between the take-out and put-in points. And after paddling, all the kayaks have to be put back on, and everyone transported back to their appropriate vehicles, and some people ending back up at Steve's place while others just go back home. Basically, if you sign up for one of these trips, plan to spend the whole day outside.
 
-For example, on this trip, which was particularly involved because of how far everything was, and because it did not end at Steve's place, we met up at 9:30 AM but didn't leave till more like 10:30 AM. After arriving at the put-in location, we unloaded, Steve went with some others to drive to the take-out location, take one car back to the put-in, and then we finally got on the river at noon! We ended up getting off the river at 3:30 PM, but then had to get back to Steve's place and help unload and clean, and by the time we were done, it was 5:00 PM, time for a quick shower and then dinner.
+For example, on this trip, which was especially involved because of how far everything was, and because it did not end at Steve's place, we met up at 9:30 AM but didn't leave till more like 10:30 AM. After arriving at the put-in location, we unloaded, Steve went with some others to drive to the take-out location, take one car back to the put-in, and then we finally got on the river at noon! We ended up getting off the river at 3:30 PM, but then had to get back to Steve's place and help unload and clean up, and by the time we were done, it was 5:00 PM, time for a quick shower and then dinner.
 
 Very time-consuming, but it's good to invest the time to just relax and go with the flow all day and enjoy the scenery and camaraderie, rather than have anything else planned for later in the day!
 
 ### Food
 
-Abby made and brought a tasty zucchini dish, and some smoked gouda cheese, to share for after paddling, and Steve provided burgers to grill. Many of the participants were newcomers and didn't realize they should bring food to contribute, but they know now. In any case, there was still leftover watermelon, chips, cookies, and beers from the previous day. People also brought in foccaccia, cole slaw, and pasta salad.
+Abby made and brought a tasty zucchini dish, and some smoked Gouda cheese, to share for after paddling, and Steve provided burgers to grill. Many of the participants were newcomers and didn't realize they should bring food to contribute, but they know now. In any case, there was still leftover watermelon, chips, cookies, and beers from the previous day. People also brought in foccacia, cole slaw, and pasta salad.
 
 I ate two leftover homemade cookies immediately!
 
