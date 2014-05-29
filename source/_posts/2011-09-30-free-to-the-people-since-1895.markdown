@@ -7,6 +7,7 @@ categories:
 - books
 - library
 - Pittsburgh
+- Carnegie Library of Pittsburgh
 ---
 Today I made my regular "pilgrimage" to one of the most special places in Pittsburgh. I never tire of going there, and I stop by usually around once a week to refresh and illuminate my soul. Yet the future of this repository of wisdom and joy is always in doubt.
 
