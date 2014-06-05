@@ -14,14 +14,14 @@ This is my third year of celebrating [National Running Day](http://www.runningda
 
 This year, I ran in Frick Park again, a shorter run, because I took such a long break from running since last October, and only recently returned to regular running.
 
-{% /images/frick-park-2014-06-04/frick.jpg %}
+{% img /images/frick-park-2014-06-04/frick.jpg %}
 
 ## Luna Venado Sandals
 
 Since it was a shorter run of just 3 miles, I wore my thin [Luna Venado Sandals](http://www.lunasandals.com/products/luna-venado) (only 7 mm thick) instead of the Luna Mono Sandals that I wore on last year's run.
 
-{% /images/frick-park-2014-06-04/luna-venado-sandals-top.jpg Luna Venado Sandals %}
-{% /images/frick-park-2014-06-04/luna-venado-sandals-side.jpg Luna Venado Sandals %}
+{% img /images/frick-park-2014-06-04/luna-venado-sandals-top.jpg Luna Venado Sandals %}
+{% img /images/frick-park-2014-06-04/luna-venado-sandals-side.jpg Luna Venado Sandals %}
 
 ## Thoughts
 
