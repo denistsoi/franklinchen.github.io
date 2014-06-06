@@ -192,3 +192,11 @@ I have had a habit of pushing myself too hard (really messing up not only my [Pi
 ### (Update of 2013-06-02)
 
 The next day, I was feeling much better, but it's clear that full recovery will take a while. I will continue taking steroid pills and applying steroid cream as needed to relieve the itching. I hope that in two weeks I'll be all good again!
+
+### (Update of 2014-06-05)
+
+A year later, I reviewed this post just before my third Pittsburgh TechFest, in 2014, where I am to give another presentation.
+
+It turned out that my health suffered tremendously for *months*. I reported on that [in August 2013](/blog/2013/08/10/emerging-from-my-three-months-of-illness-self-pitying-and-self-loathing/).
+
+**If you've attended Pittsburgh TechFest or will do so this year, I'd like to hear your thoughts about what you've learned and used, or hope to!**
