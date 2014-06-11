@@ -11,6 +11,7 @@ categories:
 - Baroque
 - Johann Sebastian Bach
 - St. Matthew Passion
+- Nathalie Stutzmann
 ---
 You might assume, since I'm talking about [Good Friday](http://en.wikipedia.org/wiki/Good_Friday), that I'm Christian, and that I'm here to talk about my faith. Actually, I'm not Christian, but I also believe that Easter is not irrelevant. Here's another non-Christian writing about [why Easter matters](http://www.rsablogs.org.uk/2014/socialbrain/meaning-easter-bunnies/).
 
@@ -51,7 +52,7 @@ A few notes on this video:
 
 On the topic of visually expressive performances, here is one of Nathalie Stutzmann as contralto and also as conductor. Both she and the violinist are totally into the music, holding nothing back physically as they express it. A rather unusual setting and view, but very powerful:
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/sLsCwgFqFYk" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/Jeil9S2exIU" frameborder="0" allowfullscreen></iframe>
 
 ### Frederick Chiu on piano
 
