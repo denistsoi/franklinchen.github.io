@@ -9,6 +9,8 @@ categories:
 - Open Spaces
 - Pittsburgh
 ---
+{% img /images/pittsburgh-geek-out-day-2013-03-02/board.jpg %}
+
 Today was the eight [Pittsburgh Geek Out Day](http://www.pghgeekoutday.com/). I hadn't been one in a whole year, because of big changes in my life that have affected my use of time and energy.
 
 A topic I proposed that we discussed was "test-driven learning".
