@@ -17,7 +17,7 @@ categories:
 ---
 [Just yesterday, I went to a music jam](/blog/2012/07/02/my-first-french-music-jam-anxious-but-excited) and was anxious but got over that and participated.
 
-Today Abby and I went to a *very different* one, a potluck/music jam hosted by Susan Waggoner, whom we've known for a long time through various Pittsburgh music and dance activities. [Susan is involved particularly in the Cajun music/dance scene], and was also in the [Accordion Pool Party](http://www.post-gazette.com/stories/local/neighborhoods-city/accordion-pool-partys-another-use-for-empty-lawrenceville-pool-357459/) that Abby played in three years ago, and also has been doing [French dancing](/blog/2012/01/23/discovering-french-traditional-dance-in-pittsburgh/) with us.
+Today Abby and I went to a *very different* one, a potluck/music jam hosted by Susan Waggoner, whom we've known for a long time through various Pittsburgh music and dance activities. Susan is involved particularly in the Cajun music/dance scene, and was also in the [Accordion Pool Party](http://www.post-gazette.com/stories/local/neighborhoods-city/accordion-pool-partys-another-use-for-empty-lawrenceville-pool-357459/) that Abby played in three years ago, and also has been doing [French dancing](/blog/2012/01/23/discovering-french-traditional-dance-in-pittsburgh/) with us.
 
 I was so *terrified* at this party that I didn't play *at all*, despite bringing my instruments. I just didn't feel up to it. But I learned a lot.
 
@@ -56,3 +56,11 @@ Four days later, we went to another potluck/jam session, and [I played a little 
 ### (Update of 2013-01-28)
 
 Seven months later, I participated in [my first blues jam](/blog/2013/01/28/my-first-blues-music-jam-happened-after-the-regular-french-music-jam/). The pianist there, Anders, was the same one I first saw here.
+
+### (Update of 2013-07-03)
+
+At [my second year](/blog/2013/07/03/second-year-at-july-3-music-party-still-only-listening-without-playing/) of this annual party, I still did not feel comfortable enough with the crowd to try to participate musically.
+
+### (Update of 2014-07-03)
+
+At [my third year](/blog/2014/07/03/third-year-at-july-3-music-party-and-finally-participated-in-jamming/) of this annual party, I actually played both piano and ukulele!

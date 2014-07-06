@@ -14,6 +14,7 @@ categories:
 - Baroque
 - Jacob Van Eyck
 - Scottish music
+- Pittsburgh Recorder Society
 ---
 {% img /images/pittsburgh-ars-recital-summer-2012.jpg Pittsburgh Recorder Society spring 2012 recital program %}
 
