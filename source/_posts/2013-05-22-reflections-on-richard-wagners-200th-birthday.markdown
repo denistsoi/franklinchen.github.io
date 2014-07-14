@@ -18,6 +18,8 @@ categories:
 - opera
 - Wilhelm Furtwängler
 - German Romanticism
+- Lorin Maazel
+- anti-Semitism
 ---
 A couple of days ago, I was driving and had the radio on and heard Richard Wagner's prelude to act 1 of his opera ["Die Meistersinger"](http://en.wikipedia.org/wiki/Die_Meistersinger_von_N%C3%BCrnberg), and was transported into the lush musical world that is so uniquely Wagner: seductive orchestral colors, chromatic harmony, melodic motifs, fine storytelling, stirring climaxes, and in this particular musical excerpt, ironic yet clever use of counterpoint. I had to pull over for a while to finish listening to the prelude and fully enjoy the *guilty* rush of emotional excitement in this fun but over-the-top piece. Why the guilt?
 
@@ -75,11 +77,15 @@ I believe Wagner failed, that his philosophy was a dead end, and that his music 
 
 This despite the fact that, of course, he changed the course of Western musical history, both by provoking the modernist backlash against his theatricalism and chromaticism, while paving the way for, say, Mahler and Bruckner.
 
-I have enjoyed and continue to occasionally listen again to marvelous music by Wagner, but *not in the way he intended*. I have never attended a performance of one of his operas. I have only seen (on TV or video) or listened to bits of his operas that are sung (rather than purely instrumental excerpts). Two decades ago, I did try to watch the mammoth [Ring cycle](http://en.wikipedia.org/wiki/Der_Ring_des_Nibelungen) broadcast on TV over four long evenings, but my attention span allowed me to only drift in and out of consciousness periodically during that attempt.
+I have enjoyed and continue to occasionally listen again to marvelous music by Wagner, but *not in the way he intended*. I have never attended a performance of one of his operas. I have only seen (on TV or video) or listened to bits of his operas that are sung (rather than purely instrumental excerpts). Two decades ago, I did try to watch the mammoth [Ring cycle](http://en.wikipedia.org/wiki/Der_Ring_des_Nibelungen) [broadcast on TV by the Metropolitan Opera](http://www.nytimes.com/1990/06/18/arts/review-television-taking-the-17-hour-plunge-with-wagner-s-ring-at-the-met.html) over four long evenings, but my attention span allowed me to only drift in and out of consciousness periodically during that attempt.
 
-Perhaps most damning of all is that two decades ago, I rather enjoyed listening to Lorin Maazel's album, ["The Ring Without Words"](http://www.amazon.com/music/dp/B000003CUJ), basically showing that for me, Wagner totally failed as a philosopher, because I like his music best without the "poetry" (his lyrics, which he wrote himself, don't make much sense to me) and without the on-stage drama.
+Perhaps most damning of all is that shortly after that TV experience, I rather enjoyed listening to Lorin Maazel's album, ["The Ring Without Words"](http://www.amazon.com/music/dp/B000003CUJ), basically showing that for me, Wagner totally failed as a philosopher, because I like his music best without the "poetry" (his lyrics, which he wrote himself, don't make much sense to me) and without the on-stage drama.
 
 Even then, I cannot listen to his music much without feeling unclean. There is a sense in which I cannot separate his music from his philosophy and his wider artistic and cultural aims. Even if he had not been an anti-Semite, there should be controversy over him and his legacy. There is a sense in which I agree with some of the old-fashioned concerns about his music: ["Wagner as mental health menace?"](http://www.guardian.co.uk/music/2013/may/22/wagner-bad-for-your-mental-health). In Nietzsche's words, Wagner and his music are *decadent*.
+
+### (Update of 2014-07-13)
+
+[RIP, Lorin Maazel](/blog/2014/07/13/what-i-remember-lorin-maazel-for/).
 
 ## Music is powerful
 
@@ -116,3 +122,7 @@ I decided I wanted to end more positively. My favorite piece of Wagner's is one 
 Furtwängler again:
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/_jlzEFg-zkY" frameborder="0" allowfullscreen></iframe>
+
+## (Update of 2014-07-11)
+
+I just saw yet another article about [Wagner and anti-Semitism](http://www.newrepublic.com/article/118331/forbidden-music-michael-haas-reviewed-james-loeffler). The topic never goes anyway, and I don't think it should. That said, I don't personally have anything to add to the discussion, but offer the link if you feel you need to engage further.
