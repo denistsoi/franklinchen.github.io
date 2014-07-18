@@ -9,6 +9,7 @@ categories:
 - Scala
 - NE Scala
 - Akka
+- actors
 - asynchronous
 - Revv Oakland
 - Pittsburgh

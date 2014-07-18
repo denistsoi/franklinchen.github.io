@@ -49,6 +49,10 @@ But I asked Roy what he really wanted continuations for anyway. They are a low-l
 
 He said that he wanted to be able to have code "look" like it was synchronous but actually be asynchronous.
 
+#### (Update of 2014-04-21)
+
+Scala continuations have been deprecated in [Scala 2.11](http://typesafe.com/blog/scala-211-has-arrived).
+
 ### Futures
 
 So I told him, that's the perfect use case for [futures](http://docs.scala-lang.org/overviews/core/futures.html), which are well-supported in Scala, especially because of their compositional monadic properties in conjunction with nice `for`-comprehension syntax.
@@ -65,15 +69,27 @@ There has been other work to improve syntactic support for asynchronous computat
 
 [`dataflow` has been deprecated](https://github.com/akka/akka/commit/66e40084946f6f993a2c62d9921718704daf448a), now that `async` is fully mature (I have been happily using it for a while now).
 
+#### (Update of 2013-12-31)
+
+More specifically, `async` was much improved just in time for it to be officially used in the Coursera course "Principles of Reactive Programming", which [I just completed and reviewed](http://conscientiousprogrammer.com/blog/2013/12/31/review-of-the-free-coursera-course-principles-of-reactive-programming/).
+
 ### Implicits
 
 Roy asked me about other interesting features of Scala. I had to say something about implicits, of course, useful for simulating monkey patching as well as simulating Haskell type classes.
 
 Implicits are probably the single most interesting language feature of Scala.
 
+#### (Update of 2014-02-13)
+
+There was a [Pittsburgh Scala Meetup session on implicits](http://conscientiousprogrammer.com/blog/2014/02/13/pittsburgh-scala-meetup-implicits/).
+
 ### Specialization of generics
 
 Roy wanted to know whether generics can be specialized in Scala (in contrast to Java, which treats generics as erasure). I said, yes, actually. Fully automatic, efficient specialization is still being improved on, but for now, there's a manual way to do specialization through the [`@specialized` annotation](http://lampwww.epfl.ch/~dragos/files/scala-spec.pdf).
+
+#### (Update of 2014-07-17)
+
+There's also [Miniboxing](http://scala-miniboxing.org/) for efficiency.
 
 ## Conclusion
 
