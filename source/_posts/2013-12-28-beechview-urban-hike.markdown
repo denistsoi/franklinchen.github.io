@@ -25,7 +25,7 @@ Actually, the choice wasn't quite random.
 
 ## Canton Avenue
 
-I originally thought of checking this place out because of recently hearing about [Canton Avenue](http://en.wikipedia.org/wiki/Canton_Avenue), which is used in the annual [Dirty Dozen](http://en.wikipedia.org/wiki/Dirty_Dozen_%28bicycle_competition%29) bike competition (see [Danny Chew's site](http://www.dannychew.com/dd.html). Canton Avenue is the "steepest officially recorded public street in the United States". I know some people who did the [Dirty Dozen this year (2013)]((http://www.npr.org/2013/12/01/248090521/hill-after-hill-hundreds-crank-away-in-pittsburgh-bike-race), so Canton Avenue was fresh in my mind.
+I originally thought of checking this place out because of recently hearing about [Canton Avenue](http://en.wikipedia.org/wiki/Canton_Avenue), which is used in the annual [Dirty Dozen](http://en.wikipedia.org/wiki/Dirty_Dozen_%28bicycle_competition%29) bike competition (see [Danny Chew's site](http://www.dannychew.com/dd.html)). Canton Avenue is the "steepest officially recorded public street in the United States". I know some people who did the [Dirty Dozen this year (2013)](http://www.npr.org/2013/12/01/248090521/hill-after-hill-hundreds-crank-away-in-pittsburgh-bike-race), so Canton Avenue was fresh in my mind.
 
 I have no intention of ever biking up Canton Avenue, but its existence got me curious and I thought, why not check out a new neighborhood and walk up this street as part of a hike.
 
