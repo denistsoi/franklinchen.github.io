@@ -20,7 +20,7 @@ For years now, I've noticed that when people find out that I do yoga, they often
 I tried yoga once and I got hurt. I thought it was supposed to be relaxing.
 {% endblockquote %}
 
-Today I read an article, ["How Yoga Can Wreck Your Body"](http://www.nytimes.com/2012/01/08/magazine/how-yoga-can-wreck-your-body.html?pagewanted=all). I urge anyone who currently does yoga, or is thinking about starting it, to read this article. It discusses cases of quite serious injury in yoga practitioner, including instructors, and reveals a world of danger that many may not be aware of, given how popular and hip yoga has become in the past decade or two.
+Today I read an article, ["How Yoga Can Wreck Your Body"](http://www.nytimes.com/2012/01/08/magazine/how-yoga-can-wreck-your-body.html?pagewanted=all). I urge anyone who currently does yoga, or is thinking about starting it, to read this article. It discusses cases of quite serious injury in yoga practitioners, including instructors, and reveals a world of danger that many may not be aware of, given how popular and hip yoga has become in the past decade or two.
 
 I'm not a yoga instructor, and I'm also not a fanatic yoga devotee, but since I once did yoga every other day for a couple of years, and found it extremely, astoundingly beneficial, I'd like to share some ideas on how I have managed to avoid being injured by yoga. I'll also discuss related issues with Pilates and sitting meditation.
 
@@ -109,4 +109,4 @@ Even in simpler positions, I can get numb or feel pressure on my ligaments or so
 
 Yoga can be very dangerous if you don't have experience paying attention to your body and being really in touch with what is painful and harmful and what is merely challenging and beneficial. I advise that beginners progress very slowly when taking up yoga, ideally with feedback from an instructor who is aware of the dangers. I advise that experienced practitioners do a full review of what they do and what might be causing undue discomfort or pain.
 
-Caveats aside, I have found yoga to be a trans formative part of my life, refreshing and rejuvenating, and recommend it as a practice to those wishing to deepen their understanding and experience of their mind, body, spirit.
+Caveats aside, I have found yoga to be a transformative part of my life, refreshing and rejuvenating, and recommend it as a practice to those wishing to deepen their understanding and experience of their mind, body, spirit.
