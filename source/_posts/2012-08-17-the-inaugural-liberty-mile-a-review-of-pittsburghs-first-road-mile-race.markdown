@@ -56,7 +56,7 @@ I hoped to finish somewhere near 6:30.
 
 I bumped into [Dr. Vonda Wright](http://vondawright.com/) while heading toward the start line, and thanked her for her support of those of us who care about maintaining our health as we get older. I want to plug her great work in promoting lifetime fitness, especially for those over 40. She has written a book ["Fitness After 40"](http://vondawright.com/index.php?option=com_content&view=article&id=62&Itemid=83) which is pretty good and has a lot of scientifically-backed tips on remaining strong and vital and even reversing what used to be considered "normal aging".
 
-I heard about Dr. Wright from a [CMU "healthy campus week" talk she gave this January](http://www.cmu.edu/athletics/news/vondawrightpre.html). Even though I had already known some of what she advocated, I was impressed that she summarized well the whole gamut of what we now know to be effective ways to increase strength and flexibility and avoid injury. Again, I recommend her books to anyone of any age who wants to be smart about diet and exercise and more than that, a whole philosophical approach to living in general.
+I heard about Dr. Wright from a [CMU "healthy campus week" talk she gave this January](/blog/2012/01/20/cmu-fitness-challenge-keynote-lecture-by-vonda-wright-stay-strong-at-any-age/). Even though I had already known some of what she advocated, I was impressed that she summarized well the whole gamut of what we now know to be effective ways to increase strength and flexibility and avoid injury. Again, I recommend her books to anyone of any age who wants to be smart about diet and exercise and more than that, a whole philosophical approach to living in general.
 
 ## The race, in waves
 
