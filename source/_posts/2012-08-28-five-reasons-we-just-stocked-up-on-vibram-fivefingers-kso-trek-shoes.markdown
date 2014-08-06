@@ -13,7 +13,7 @@ categories:
 - Atalaya
 - Rachel Carson Trail
 ---
-<a href="http://www.flickr.com/photos/85802484@N06/7858001266/" title="&quot;Run Around the Square&quot;, Regent Square by sherpes39, on Flickr"><img src="http://farm8.staticflickr.com/7253/7858001266_58020e37f8_z.jpg" width="640" height="480" alt="&quot;Run Around the Square&quot;, Regent Square"></a>
+<a href="https://www.flickr.com/photos/85802484@N06/7858001266" title="&quot;Run Around the Square&quot;, Regent Square by sherpes39, on Flickr"><img src="https://farm8.staticflickr.com/7253/7858001266_58020e37f8.jpg" width="500" height="375" alt="&quot;Run Around the Square&quot;, Regent Square"></a>
 
 Abby and I just stocked up on Vibram FiveFingers KSO Trek shoes: we got *two* brand new pairs for me and *two* for her as well. Why the extravagant purchases? Here are five reasons.
 

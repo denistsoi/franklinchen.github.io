@@ -13,9 +13,7 @@ categories:
 - Pretty Good Race
 - Run Around The Square
 ---
-{% img http://farm2.staticflickr.com/1309/663419600_66449cdcc7.jpg Schenley Park %}
-
-([Photo in Schenley Park by Melissa McMasters, May 8, 2007](http://www.flickr.com/photos/melissappc/663419600/).)
+<a href="https://www.flickr.com/photos/melissappc/663419600" title="Schenley Park by Melissa McMasters, on Flickr"><img src="https://farm2.staticflickr.com/1309/663419600_66449cdcc7.jpg" width="333" height="500" alt="Schenley Park"></a>
 
 Today I celebrated [National Running Day](http://www.runningday.org/) by, uh, going out for a [run](/blog/categories/running/). Here in Pittsburgh, I have come to like most to run in [Frick Park](http://pittsburghparks.org/frick), but today I decided to run in [Schenley Park](http://www.pittsburghparks.org/schenley) instead, as I was in a sentimental mood.
 

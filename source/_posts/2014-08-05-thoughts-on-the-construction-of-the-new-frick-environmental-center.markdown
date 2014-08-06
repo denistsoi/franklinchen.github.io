@@ -35,15 +35,15 @@ On my evening run tonight (very cool, in the 60s, this summer, unlike the summer
 
 Road sign on Beechwood Blvd:
 
-<iframe src="https://www.flickr.com/photos/franklinmingchen/14817138516/in/set-72157645802528650/player/" width="75" height="75" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<a href="https://www.flickr.com/photos/franklinmingchen/14817138516" title="Road sign for Frick Environmental Center by Franklin Chen, on Flickr"><img src="https://farm4.staticflickr.com/3882/14817138516_f9529cdba9.jpg" width="375" height="500" alt="Road sign for Frick Environmental Center"></a>
 
-Old burned Frick Environmental Center:
+Old burned building still there:
 
-<iframe src="https://www.flickr.com/photos/franklinmingchen/14653568337/in/set-72157645802528650/player/" width="75" height="75" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<a href="https://www.flickr.com/photos/franklinmingchen/14653568337" title="Old Frick Environmental Center by Franklin Chen, on Flickr"><img src="https://farm6.staticflickr.com/5581/14653568337_6f5ec39932.jpg" width="500" height="375" alt="Old Frick Environmental Center"></a>
 
-Signs for trail detours:
+Some trail detour signs:
 
-<iframe src="https://www.flickr.com/photos/franklinmingchen/14840109625/in/set-72157645802528650/player/" width="75" height="75" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
+<a href="https://www.flickr.com/photos/franklinmingchen/14840109625" title="Trails detoured for Frick Environmental Center construction by Franklin Chen, on Flickr"><img src="https://farm4.staticflickr.com/3914/14840109625_f49a9061fb.jpg" width="500" height="375" alt="Trails detoured for Frick Environmental Center construction"></a>
 
 <!--more-->
 

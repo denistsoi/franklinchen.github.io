@@ -34,7 +34,7 @@ I took care during the first mile of the race not to go out too fast.
 
 We all passed by a lot of musicians on the streets, of course: a really fun tradition that goes way back. As I expected, I saw [Kimberlee Faught](/blog/2011/12/18/fun-at-the-east-end-food-co-op-winterfest/) playing violin at one point:
 
-<a href="http://www.flickr.com/photos/85802484@N06/7857971836/" title="&quot;Run Around the Square&quot;, Regent Square by sherpes39, on Flickr"><img src="http://farm9.staticflickr.com/8286/7857971836_496cf2afe7_z.jpg" width="480" height="640" alt="&quot;Run Around the Square&quot;, Regent Square"></a>
+<a href="https://www.flickr.com/photos/85802484@N06/7857971836" title="&quot;Run Around the Square&quot;, Regent Square by sherpes39, on Flickr"><img src="https://farm9.staticflickr.com/8286/7857971836_496cf2afe7.jpg" width="375" height="500" alt="&quot;Run Around the Square&quot;, Regent Square"></a>
 
 As usual, I ignored all the champagne and beer stops on the race course. That's a charming and venerable tradition at this race, but drinking alcohol would *not* help me run as fast as I can!
 
