@@ -92,7 +92,7 @@ Here I am, looking as tired as I in fact was, still taking medication for my ski
 
 As the race began, I tried not to go too fast, but did. 1:34 for the first quarter mile, not good at all! Last year, I ran the mile in 6:39, and went out in 1:29 for the first quarter. This year, I was hoping to go under 7:00 at all.
 
-I slowed down for the second quarter, then finally found a steady pace for the third quarter. During the final quarter, I saw the finish line and eventually saw the clock ticking up toward 7:00. I was *furious* that I might not be able to finish a 7-minute mile. I sprinted all out and didn't actually finish under 7:00 according to the clock (the official race results say I finished in 7:02), but my  chip time was 6:56, so I actually did run the mile in under 7 minutes!!
+I slowed down for the second quarter, then finally found a steady pace for the third quarter. During the final quarter, I saw the finish line and eventually saw the clock ticking up toward 7:00. I was *furious* that I might not be able to finish a 7-minute mile. I sprinted all out and didn't actually finish under 7:00 according to the clock (the [official race results](http://www.areep.com/events/libertymile/) say I finished in 7:02), but my chip time was 6:56, so I actually did run the mile in under 7 minutes!!
 
 My splits:
 
