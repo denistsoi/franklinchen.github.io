@@ -16,7 +16,7 @@ I attended a [graduate trumpet recital](http://www.music.cmu.edu/events/282) by 
 
 ## (Update of 2014-07-28)
 
-Erin has posted a video from her recital:
+Erin has posted a video of the Herbert L. Clarke work from her recital:
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/oBV4u360Ats" frameborder="0" allowfullscreen></iframe>
 
