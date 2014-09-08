@@ -14,6 +14,12 @@ categories:
 - German Romanticism
 - modernism
 ---
+{% img http://yalepress.yale.edu/yupbooks/images/full13/9780300126402.jpg Charles Rosen, cover of "Music and Sentiment" %}
+
+{% blockquote %}
+This book was written from the conviction that understanding music does not come from memorizing an esoteric code. ([Charles Rosen, *Music and Sentiment*, 2010](http://yalepress.yale.edu/yupbooks/book.asp?isbn=9780300126402).)
+{% endblockquote %}
+
 Today, I heard that the noted pianist and musical scholar [Charles Rosen](http://en.wikipedia.org/wiki/Charles_Rosen) [died at 85 yesterday](http://www.npr.org/blogs/deceptivecadence/2012/12/10/166876593/remembering-charles-rosen-a-prodigious-pianist-and-polymath).
 
 {% img http://s.wsj.net/public/resources/images/OB-VQ187_rosen6_EV_20121210175859.jpg Charles Rosen %}
