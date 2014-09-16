@@ -3,11 +3,12 @@ layout: post
 title: "Happy birthday, Johannes Brahms! 3 takes on a musical favorite"
 date: 2013-05-07T20:41:13-04:00
 comments: true
-external-url: 
+external-url:
 categories:
 - music
 - piano
 - Johannes Brahms
+- intermezzi
 ---
 It turns out today is the 180th birthday of [Johannes Brahms](http://en.wikipedia.org/wiki/Johannes_Brahms), born May 7, 1833, so I thought I'd share some of my favorite music by this great composer.
 
@@ -40,6 +41,10 @@ Another interpretation along similar veins, but by someone much more famous, and
 Finally, here is a very different, fascinating interpretation by [Heinrich Neuhaus](http://en.wikipedia.org/wiki/Heinrich_Neuhaus), actually Richter's teacher, which is very fast (2:52), and emphasizes the unbroken melodic line and the drama, over the individual notes:
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/GYrgVp90jvQ" frameborder="0" allowfullscreen></iframe>
+
+### (Update of 2014-08-21)
+
+A year later, I found another interpretation, by Robert Hill, which I love for its extreme freedom. Check it out in [my blog post about Robert Hill](/blog/2014/08/21/discovering-the-beautiful-keyboard-playing-of-robert-hill-by-accident-on-youtube-changed-my-life/).
 
 ## More
 
