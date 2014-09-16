@@ -28,17 +28,17 @@ module Jekyll
       @by = nil
       @source = nil
       @title = nil
-      if markup.strip =~ FullCiteWithTitle
+      if markup =~ FullCiteWithTitle
         @by = $1
         @source = $2 + $3
         @title = $4.titlecase.strip
-      elsif markup.strip =~ FullCite
+      elsif markup =~ FullCite
         @by = $1
         @source = $2 + $3
-      elsif markup.strip =~ AuthorTitle
+      elsif markup =~ AuthorTitle
         @by = $1
         @title = $2.titlecase.strip
-      elsif markup.strip =~ Author
+      elsif markup =~ Author
         @by = $1
       end
       super
