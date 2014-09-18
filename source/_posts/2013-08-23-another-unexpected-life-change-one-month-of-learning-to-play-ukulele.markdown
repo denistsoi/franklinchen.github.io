@@ -3,8 +3,8 @@ layout: post
 title: "Another unexpected life change: one month of learning to play ukulele"
 date: 2013-08-23T21:26:10-04:00
 comments: true
-external-url: 
-categories: 
+external-url:
+categories:
 - music
 - ukulele
 - Steel City Ukuleles
@@ -67,7 +67,7 @@ Back to February 5, 2011: this very day, I immediately told Abby that I wanted t
 
 On February 15, 2011, after the last round of the 2011 Pittsburgh Chess Club Championship, I immediately "retired" from chess. (By the way, I "unretired" and [returned to tournament chess in fall 2012](/blog/2012/08/21/returning-to-chess/).)
 
-I immediately started to practice recorder regularly (because it seemed an "easy" gateway to playing any music at all without a steep learning curve: I was discouraged by my failure at flute years earlier), and also planned to start playing ukulele. 
+I immediately started to practice recorder regularly (because it seemed an "easy" gateway to playing any music at all without a steep learning curve: I was discouraged by my failure at flute years earlier), and also planned to start playing ukulele.
 
 On February 19, 2011, I wrote Farokh about my progress: "After a couple of days of spending a minute or two trying to play the G7 chord on the ukulele, I can finally sort of do it, in isolation. I will keep toughening my left hand for some more days before trying to start real work on the ukulele. Meanwhile, today I took a break from the soprano recorder and started playing the alto, finally. Fingerings are the same, but the pitches are different, so it's pretty confusing. Obviously it's not a good idea to try to learn both simultaneously. The alto is harder to play for me because it's bigger, but I like the sound a lot more, and in the long run, it's more versatile, suitable for music the modern flute can play. So I may stick with the alto for a while before going back to the soprano. I'm very much enjoying getting back to music. It had kind of exited my life around five years ago (!!) since I got back into chess in 2005. I have now completely quit chess, cold turkey, to make time for music. Music is much more rewarding, in the end."
 
@@ -167,7 +167,7 @@ But I was getting increasingly annoyed by the fact that my instrument seems defe
 
 ## Steel City Ruby 2013, August 17-18
 
-The first morning of the [Steel City Ruby](http://steelcityruby.org/) conference, as I was about to leave home, I suddenly had a thought. Originally I was going to bring my Irish flute to the conference, as I had last year, to join a music jam with Jim Weirich (a speaker again at the conference).
+The [first morning](http://conscientiousprogrammer.com/blog/2013/08/18/steel-city-ruby-2013-my-second-year-and-it-radically-changed-my-life-again-part-1/) of the [Steel City Ruby](http://steelcityruby.org/) conference, as I was about to leave home, I suddenly had a thought. Originally I was going to bring my Irish flute to the conference, as I had last year, to join a music jam with Jim Weirich (a speaker again at the conference).
 
 I tweeted, ["Was thinking of bringing my uke to #scrc13 because of @jimweirich, but been learning it only 3 weeks, feel like imposter."](https://twitter.com/franklinchen/status/368346099712786432). Jim replied, ["oh yes! Please bring!"](https://twitter.com/jimweirich/status/368348104397185024)
 
