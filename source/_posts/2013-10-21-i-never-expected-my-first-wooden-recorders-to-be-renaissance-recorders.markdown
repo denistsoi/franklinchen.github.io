@@ -3,10 +3,11 @@ layout: post
 title: "I never expected my first wooden recorders to be Renaissance recorders"
 date: 2013-10-21T21:24:54-04:00
 comments: true
-external-url: 
-categories: 
+external-url:
+categories:
 - music
 - recorder
+- Pittsburgh Recorder Society
 - Pittsburgh
 - Renaissance
 - Baroque

@@ -3,10 +3,11 @@ layout: post
 title: "Pittsburgh Recorder Society: Something new recently: recording our practice sessions"
 date: 2014-03-16T18:39:46-04:00
 comments: true
-external-url: 
-categories: 
+external-url:
+categories:
 - music
 - recorder
+- Pittsburgh Recorder Society
 - Pittsburgh
 - cookies
 ---

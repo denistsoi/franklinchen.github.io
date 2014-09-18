@@ -3,9 +3,10 @@ layout: post
 title: "Excited by the new season of the Pittsburgh Recorder Society"
 date: 2012-09-16 20:04
 comments: true
-categories: 
+categories:
 - music
 - recorder
+- Pittsburgh Recorder Society
 - Pittsburgh
 - Palestrina
 - Viadana

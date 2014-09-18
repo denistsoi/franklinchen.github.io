@@ -3,10 +3,11 @@ layout: post
 title: "Preparing for December 9 recorder performance in Phipps Conservatory"
 date: 2012-11-19 23:40
 comments: true
-external-url: 
-categories: 
+external-url:
+categories:
 - music
 - recorder
+- Pittsburgh Recorder Society
 - performance
 - Pittsburgh
 - Phipps Conservatory
@@ -22,7 +23,7 @@ I'll be performing with five other recorder players in one of the [Phipps Conser
 {% blockquote %}
 Candlelight Evenings
 
-Nov. 25, 2012 - Jan. 6, 2013 
+Nov. 25, 2012 - Jan. 6, 2013
 
 Extended Hours: Open until 10 p.m.
 

@@ -3,10 +3,11 @@ layout: post
 title: "Pittsburgh Recorder Society: 7-part Gabrieli and coconut chocolate cookies"
 date: 2014-02-16T17:41:04-05:00
 comments: true
-external-url: 
-categories: 
+external-url:
+categories:
 - music
 - recorder
+- Pittsburgh Recorder Society
 - Giovanni Gabrieli
 - Pittsburgh
 - cookies

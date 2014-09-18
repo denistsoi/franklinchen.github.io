@@ -3,10 +3,11 @@ layout: post
 title: "Playing music on recorders at a Phipps Conservatory \"candlelight evening\""
 date: 2012-12-09 20:46
 comments: true
-external-url: 
-categories: 
+external-url:
+categories:
 - music
 - recorder
+- Pittsburgh Recorder Society
 - performance
 - Pittsburgh
 - Phipps Conservatory

@@ -3,10 +3,11 @@ layout: post
 title: "Celebrating two years of playing recorder"
 date: 2013-02-23T23:33:58-05:00
 comments: true
-external-url: 
-categories: 
+external-url:
+categories:
 - music
 - recorder
+- Pittsburgh Recorder Society
 - George Frideric Handel
 - Baroque flute
 - viola da gamba

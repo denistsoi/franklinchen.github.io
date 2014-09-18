@@ -10,6 +10,7 @@ categories:
 - Pittsburgh
 - inspirational
 - recorder
+- Pittsburgh Recorder Society
 ---
 *Imagine this.*
 
@@ -42,4 +43,3 @@ This February, I made a decision to seriously practice the [recorder](http://en.
 I'm not going to lie: every time I pick up my alto or tenor recorder (I also have a soprano and am planning to get a bass), I momentarily wish my hands were bigger, my right pinky longer, and my entire left hand less messed up, but such thoughts disappear quickly, because I am no longer willing to play victim, and instead focus on doing what I need to do to make music.
 
 I wish Byron Janis well in his current mission to inspire everyone, from disadvantaged youths to injured veterans, to overcome adversity and follow their passion with perseverance!
-

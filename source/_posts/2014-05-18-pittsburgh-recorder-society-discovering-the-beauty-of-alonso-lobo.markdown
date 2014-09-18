@@ -3,10 +3,11 @@ layout: post
 title: "Pittsburgh Recorder Society: discovering the beauty of Alonso Lobo"
 date: 2014-05-18T17:48:23-04:00
 comments: true
-external-url: 
-categories: 
+external-url:
+categories:
 - music
 - recorder
+- Pittsburgh Recorder Society
 - Pittsburgh
 - cookies
 - Alonso Lobo

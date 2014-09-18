@@ -3,10 +3,11 @@ layout: post
 title: "New goals for a new season of the Pittsburgh Recorder Society"
 date: 2013-09-15T20:40:25-04:00
 comments: true
-external-url: 
-categories: 
+external-url:
+categories:
 - music
 - recorder
+- Pittsburgh Recorder Society
 - Pittsburgh
 - Johann Sebastian Bach
 - Dieterich Buxtehude

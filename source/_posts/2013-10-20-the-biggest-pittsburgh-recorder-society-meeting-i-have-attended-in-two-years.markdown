@@ -3,10 +3,11 @@ layout: post
 title: "The biggest Pittsburgh Recorder Society meeting I have attended in two years!!"
 date: 2013-10-20T18:04:10-04:00
 comments: true
-external-url: 
-categories: 
+external-url:
+categories:
 - music
 - recorder
+- Pittsburgh Recorder Society
 - Pittsburgh
 - Halloween
 - rubber duck

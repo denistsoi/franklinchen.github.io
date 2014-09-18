@@ -3,10 +3,11 @@ layout: post
 title: "Pittsburgh Recorder Society continues to add members"
 date: 2013-11-17T19:40:37-05:00
 comments: true
-external-url: 
-categories: 
+external-url:
+categories:
 - music
 - recorder
+- Pittsburgh Recorder Society
 - Pittsburgh
 - cookies
 ---

@@ -3,8 +3,8 @@ layout: post
 title: "Pittsburgh Recorder Society: Palestrina, Gombert, and Dolly Parton cookies"
 date: 2014-04-27T17:47:27-04:00
 comments: true
-external-url: 
-categories: 
+external-url:
+categories:
 - music
 - recorder
 - Pittsburgh
@@ -12,6 +12,7 @@ categories:
 - Palestrina
 - Nicolas Gombert
 - Josquin des Prez
+- Pittsburgh Recorder Society
 ---
 We had a great turnout again for the monthly meeting of the Pittsburgh Recorder Society. We even got an enthusiastic new member, Andriy. There were around fifteen of us, total; we really filled the room!
 
