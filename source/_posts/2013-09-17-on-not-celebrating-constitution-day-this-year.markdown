@@ -3,11 +3,15 @@ layout: post
 title: "On not celebrating Constitution Day this year, 2013"
 date: 2013-09-17T08:42:26-04:00
 comments: true
-external-url: 
-categories: 
+external-url:
+categories:
 - Constitution
+- Constitution Day
 - Carnegie Mellon University
 - Pittsburgh
+- David Harris
+- NSA
+- Edward Snowden
 ---
 For several years, I've made a habit of observing [Constitution Day](http://en.wikipedia.org/wiki/Constitution_Day_\(United_States\)) by attending the annual exhibit and lecture at CMU. Last year I reported on [an interesting session about the very invention of Constitution Day](/blog/2012/09/18/is-constitution-day-constitutional/).
 

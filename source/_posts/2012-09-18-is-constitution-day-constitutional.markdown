@@ -3,10 +3,13 @@ layout: post
 title: "Is Constitution Day Constitutional?"
 date: 2012-09-18 11:01
 comments: true
-categories: 
+categories:
 - Constitution
+- Constitution Day
 - Carnegie Mellon University
 - Pittsburgh
+- Hugh F. McGough
+- Bill Peduto
 ---
 {% img http://www.cmu.edu/posner-center/exhibits/special-images/billrights1.jpg Bill of Rights at CMU %}
 
@@ -45,3 +48,11 @@ I'm not a lawyer, and even if I were, the notion of what is "unconstitutional" i
 ## Conclusion
 
 I enjoyed CMU's observance of Constitution Day this year, learning some things about Pennsylvania and other state history from the Honorable Hugh McGough as well as picking up on the history of Constitution Day itself and Mr. Posner's objection to it.
+
+### (Update of 2013-09-17)
+
+I [chose not to celebrate Constitution Day in 2013](/blog/2013/09/17/on-not-celebrating-constitution-day-this-year/).
+
+### (Update of 2014-09-17)
+
+I returned to observing Constitution in [2014](/blog/2014/09/17/observing-constitution-day-with-the-supreme-court-and-privacy-the-fourth-amendment-in-the-digital-age/).
