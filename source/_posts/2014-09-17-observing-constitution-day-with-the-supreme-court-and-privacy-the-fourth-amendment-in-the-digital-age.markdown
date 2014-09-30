@@ -14,7 +14,7 @@ I have a habit of observing Constitution Day every year by attending a presentat
 
 Last year (2013), [I was too disheartened to observe Constitution Day but wrote a little bit about why](/blog/2013/09/17/on-not-celebrating-constitution-day-this-year).
 
-This year, I returned because the topic for discussion sounded interesting: [Mary Jo Miller gave a talk "The Supreme Court and Privacy: The Fourth Amendment in the Digital Age\"](http://thebridge.cmu.edu/organization/SLO/calendar/details/466499) in the Posner Center. (Miller is a Staff Attorney for the Pennsylvania State Education Association and an adjunct professor in Carnegie Mellon's Social and Decision Sciences Department.)
+This year, I returned because the topic for discussion sounded interesting: [Mary Jo Miller gave a talk "The Supreme Court and Privacy: The Fourth Amendment in the Digital Age"](http://thebridge.cmu.edu/organization/SLO/calendar/details/466499) in the Posner Center. (Miller is a Staff Attorney for the Pennsylvania State Education Association and an adjunct professor in Carnegie Mellon's Social and Decision Sciences Department.)
 
 <a href="https://www.flickr.com/photos/franklinmingchen/15274305882" title="IMG_20140917_163751 by Franklin Chen, on Flickr"><img src="https://farm4.staticflickr.com/3836/15274305882_f0eaf5d8fb.jpg" width="500" height="375" alt="IMG_20140917_163751"></a>
 
