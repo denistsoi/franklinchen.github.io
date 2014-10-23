@@ -3,8 +3,8 @@ layout: post
 title: "Oblivion obsession: time to start playing melodica!"
 date: 2012-12-02 21:32
 comments: true
-external-url: 
-categories: 
+external-url:
+categories:
 - tango
 - Piazzolla
 - music
@@ -30,7 +30,7 @@ I have been obsessed for some time with Piazzolla's beautiful tango piece ["Obli
 
 This afternoon was the first rehearsal of the ["Holiday Ball Orchestra"](/blog/2012/11/24/preparing-to-play-irish-flute-in-the-holiday-ball/). (Today was also round 4 of the Pittsburgh Chess League team matches, but as I did once before for round 1, I [prioritized music over chess](/blog/2012/09/16/excited-by-the-new-season-of-the-pittsburgh-recorder-society/) and told the team I could not play.)
 
-During the rehearsal, I played both flute and Irish flute, depending on the key. Afterward, while socializing, I happened to ask about the ukuleles that some people had. I mentioned that I still hadn't gotten around to learning ukulele, [despite having intended to](/blog/2011/12/11/learning-another-instrument-the-tin-whistle/) and bought a soprano a long while back. I just found it very hard to get started with my first string instrument, and other things came up. I joked about the other instruments I have that I don't play, including my [melodica](/blog/2011/10/01/run-shadyside-5k-outrunning-mickey-mouse-and-lending-a-trumpet/). Lynette said in all seriousness that I was welcome to play it at the Holiday Ball. 
+During the rehearsal, I played both flute and Irish flute, depending on the key. Afterward, while socializing, I happened to ask about the ukuleles that some people had. I mentioned that I still hadn't gotten around to learning ukulele, [despite having intended to](/blog/2011/12/11/learning-another-instrument-the-tin-whistle/) and bought a soprano a long while back. I just found it very hard to get started with my first string instrument, and other things came up. I joked about the other instruments I have that I don't play, including my [melodica](/blog/2011/10/01/run-shadyside-5k-outrunning-mickey-mouse-and-lending-a-trumpet/). Lynette said in all seriousness that I was welcome to play it at the Holiday Ball.
 So after I got home, I pulled out the melodica.
 
 ## What is the melodica good for?
@@ -112,3 +112,7 @@ If you are a tango fan, make sure to read Daniel Pucci's [great article on tango
 ## Conclusion
 
 By accident, I have rediscovered the melodica, and now intend to work on it as a serious melodic instrument!
+
+### (Update of 2014-10-23)
+
+[I put up more videos](/blog/2013/09/13/finally-playing-piazzollas-oblivion-on-flute/) I found of "Oblivion" while thinking back to 2013 when I did play it on flute after all.
