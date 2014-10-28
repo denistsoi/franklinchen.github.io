@@ -54,7 +54,7 @@ I watched the video, and was *totally blown away* by the beauty of the performan
 
 Listen for yourself (it's less than two minutes long):
 
-https://www.youtube.com/watch?v=woh8UHdjl1M
+<iframe width="420" height="315" src="//www.youtube.com/embed/woh8UHdjl1M" frameborder="0" allowfullscreen></iframe>
 
 ## Who is Robert Hill?
 
