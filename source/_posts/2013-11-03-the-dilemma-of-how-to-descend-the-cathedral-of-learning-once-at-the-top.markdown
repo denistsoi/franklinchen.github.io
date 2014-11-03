@@ -3,8 +3,8 @@ layout: post
 title: "The dilemma of how to descend the Cathedral of Learning once at the top"
 date: 2013-11-03T09:34:44-05:00
 comments: true
-external-url: 
-categories: 
+external-url:
+categories:
 - exercise
 - Cathedral of Learning
 - Pittsburgh
@@ -65,3 +65,7 @@ Actually, *no*. I take the experience as a challenge:
 ## Conclusion
 
 An accidental case of trashed calves during a workout has led me to treat it as a learning experience and a challenge to overcome in the future.
+
+### (Update of 2014-10-22)
+
+The ["elevator modernization project" started in September 2014 and makes it even more attractive to just walk](/blog/2014/10/22/climbing-the-cathedral-of-learning-to-get-to-the-harvard-classics/).
