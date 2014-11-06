@@ -44,7 +44,7 @@ As Black, Anand could stick with the Grunfeld setup from last year, or return to
 
 Carlsen is still the favorite to win this year, but is not invincible. He can either play like he did last year, or play differently. Because he is versatile, he can change his plans depending on what happens. I suspect that because he is champion now, he may want to prove his dominance, and play more sharply than last year, but he can always fall back on his wait-for-opponent-to-self-destruct style. Since Anand is simply not going to last forever, Carlsen needs to already start preparing to play against his younger rivals such as Caruana and might want to send a message to them in this match.
 
-I expect that his aim will be to psychologically destroy Anand one way or another, so he will do whatever might confuse Anand. I cannot really predict how he will play. I suspect his use of the Reti as White is over, however; there are plenty of ways to still control the stiuation as White while playing d4 or c4. Playing the English might be smart, actually, especially if Anand is also thinking of playing it. We could see one of those matches where both players decide to enter openings as both colors.
+I expect that his aim will be to psychologically destroy Anand one way or another, so he will do whatever might confuse Anand. I cannot really predict how he will play. I suspect his use of the Reti as White is over, however; there are plenty of ways to still control the situation as White while playing d4 or c4. Playing the English might be smart, actually, especially if Anand is also thinking of playing it. We could see one of those matches where both players decide to enter openings as both colors.
 
 ## Conclusion
 
