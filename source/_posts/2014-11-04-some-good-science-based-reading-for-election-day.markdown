@@ -30,7 +30,7 @@ I agree with this: it is quite possible (I'm not saying it's always the case) fo
 
 ## Dangers of accurate statistical prediction by data journalism
 
-A good article in the Berkeley Journal of Sociolosy about [Nate Silver's statistical journalism](http://berkeleyjournal.org/2014/11/what-should-the-fox-say/) argues that data journalism should focus on understanding rather than prediction.
+A good article in the Berkeley Journal of Sociology about [Nate Silver's statistical journalism](http://berkeleyjournal.org/2014/11/what-should-the-fox-say/) argues that data journalism should focus on understanding rather than prediction.
 
 "This extensive use of Big Data for election forecasting passively promotes our current sense of political fatalism."
 
