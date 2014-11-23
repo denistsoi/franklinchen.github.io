@@ -5,6 +5,7 @@ date: 2013-12-27T19:15:36-05:00
 comments: true
 external-url: 
 categories: 
+- literature
 - music
 - fairy tales
 - Nutcracker
