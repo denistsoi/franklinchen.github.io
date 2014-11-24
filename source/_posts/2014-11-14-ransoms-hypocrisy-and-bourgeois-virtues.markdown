@@ -33,3 +33,7 @@ A certain level of hypocrisy seems necessary for a liberal society. Many people 
 Is there an alternative to hypocrisy that doesn't just lead back to all-out wars among every possible faction believing in their principles so strongly that they are willing to die and kill for them? I don't know. I just know that on some uncomfortable level, *complaining about hypocrisy is the essence of hypocrisy itself*. This may just be how human beings have to operate. But we're not supposed to openly admit that, are we? It would be like going to your dear friend's parents' home for dinner and then screaming at them for being animal killers for serving meat if you're an ethical vegetarian. That would be such *bad manners*.
 
 **How do you feel about hypocrisy? Do you acknowledge its social value? Do you admit to it yourself? Do you call out those you consider hypocrites?**
+
+## (Update of 2014-11-19)
+
+Here is a [critique](http://www.nybooks.com/blogs/nyrblog/2014/nov/19/ransoms-real-cost/) of the original article.
