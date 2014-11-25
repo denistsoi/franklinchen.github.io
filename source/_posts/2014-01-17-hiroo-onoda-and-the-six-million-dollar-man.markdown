@@ -14,6 +14,8 @@ categories:
 - The Six Million Dollar Man
 - TV
 - history
+- philosophy
+- Stoicism
 ---
 A news article just came my way that fascinated me: ["Hiroo Onoda, Japanese soldier who hid in Philippine jungle for 29 years, dies at 91"](http://www.washingtonpost.com/world/asia_pacific/hiroo-onoda-japanese-soldier-who-hid-in-philippine-jungle-for-29-years-dies-at-91/2014/01/17/7016d806-7f8b-11e3-93c1-0e888170b723_story.html).
 

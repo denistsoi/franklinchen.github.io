@@ -8,6 +8,7 @@ categories:
 - Thanksgiving
 - gratitude
 - philosophy
+- Stoicism
 ---
 Happy Thanksgiving, everyone!
 
