@@ -37,3 +37,7 @@ Is there an alternative to hypocrisy that doesn't just lead back to all-out wars
 ## (Update of 2014-11-19)
 
 Here is a [critique](http://www.nybooks.com/blogs/nyrblog/2014/nov/19/ransoms-real-cost/) of the original article.
+
+## (Update of 2014-12-05)
+
+On a related topic, here is an interesting [critique of "human rights" by Eric Posner](http://www.theguardian.com/news/2014/dec/04/-sp-case-against-human-rights).
