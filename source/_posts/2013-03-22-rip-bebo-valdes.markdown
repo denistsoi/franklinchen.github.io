@@ -3,12 +3,17 @@ layout: post
 title: "RIP Bebo Valdés, master pianist of Cuban music"
 date: 2013-03-22T20:08:56-04:00
 comments: true
-external-url: 
-categories: 
+external-url:
+categories:
 - music
 - piano
 - Latin music
 - jazz
+- Cuba
+- Ernesto Lecuona
+- La comparsa
+- Bebo Valdés
+- Chucho Valdés
 ---
 {% img http://www.billboard.com/files/styles/promo_650/public/media/bebo-chucho-valdes-650-430.jpg Bebo and Chucho %}
 
