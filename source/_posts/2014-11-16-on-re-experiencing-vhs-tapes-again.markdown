@@ -11,7 +11,7 @@ categories:
 ---
 I stopped serious study of ballroom dance sometime around 2003, over ten years ago, because I was discouraged by not finding a maximally compatible dance partner. I ended up closing the chapter of my life that started in 2000 when ballroom dance consumed almost all of my time.
 
-Recently I brought up several boxes of ballroom dance instruction videos from those days, with the idea that even though I'm not longer doing ballroom dancing with anyone any more (Abby is not very interested in ballroom dance), I might find it enjoyable to continue developing my dance skills and use the videos as part of exercise also. Almost all of these videos are VHS tapes. I have almost dance videos on DVD, as I was very late in acquiring a DVD player: actually, one day, my mother bought me a DVD player because she was tired of visiting me and having no way to watching any DVDs she brought!
+Recently I brought up several boxes of ballroom dance instruction videos from those days, with the idea that even though I'm not longer doing ballroom dancing with anyone any more (Abby is not very interested in ballroom dance), I might find it enjoyable to continue developing my dance skills and use the videos as part of exercise also. Almost all of these videos are VHS tapes. I have almost no dance videos on DVD, as I was very late in acquiring a DVD player: actually, one day, my mother bought me a DVD player because she was tired of visiting me and having no way to watching any DVDs she brought!
 
 I had mixed emotions and memories as I started going through these videos again.
 
