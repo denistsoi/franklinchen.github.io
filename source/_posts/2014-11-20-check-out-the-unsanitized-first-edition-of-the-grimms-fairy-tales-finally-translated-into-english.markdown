@@ -22,3 +22,7 @@ A couple of years ago, after accidentally discovering Maria Tatar's 2002 ["The A
 I look forward to checking out Zipes' new translation. It's been a decade since I last revisited the Grimms' fairy tales, and I still perversely love a dark story.
 
 **What are your memories of fairy tales as a child? Have you ever read (or read about) the original unsanitized versions of well-known fairy tales? If you are a parent, do you tell your children fairy tales, thinking of them as harmless imaginative entertainment? Would you tell them unsanitized versions of the tales, as people used to do before modern Western sentimentalized views of what is appropriate for children? Or do you think it was wrong how parents used to terrify their children?**
+
+## (Update of 2014-12-23)
+
+[A beautiful essay on the importance of fairy tales](http://www.newstatesman.com/culture/2014/12/rowan-williams-why-we-need-fairy-tales-now-more-ever), by [Rowan Williams](http://en.wikipedia.org/wiki/Rowan_Williams).
