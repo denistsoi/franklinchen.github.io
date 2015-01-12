@@ -47,4 +47,4 @@ My younger sister also played chess, but retired at the age of six, after her ve
 
 When you think about your childhood, what do you remember as being special and formative between you and your father or mother? Have you ever thanked them for what they gave you? Very often they might not even realize how important something was to you. Don't wait until it is too late to show them your gratitude.
 
-And if you are parent, what do you think your children really appreciate about their relationship with you? You might be surprised. It might even be something that you think is trivial that they never talk about but is actually the most important thing to them.
+And if you are a parent, what do you think your children really appreciate about their relationship with you? You might be surprised. It might even be something that you think is trivial that they never talk about but is actually the most important thing to them.

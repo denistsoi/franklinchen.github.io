@@ -4,6 +4,7 @@ title: "Why I am grateful that my father never let me win a chess game against h
 date: 2012-06-03 20:59
 comments: true
 categories:
+- childhood
 - chess
 - learning
 - father
