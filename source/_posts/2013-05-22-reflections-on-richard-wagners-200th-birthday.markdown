@@ -3,8 +3,8 @@ layout: post
 title: "Reflections on Richard Wagner's 200th birthday: beautiful music without a future"
 date: 2013-05-22T08:14:55-04:00
 comments: true
-external-url: 
-categories: 
+external-url:
+categories:
 - music
 - Richard Wagner
 - Adolf Hitler
@@ -126,3 +126,7 @@ Furtwängler again:
 ## (Update of 2014-07-11)
 
 I just saw yet another article about [Wagner and anti-Semitism](http://www.newrepublic.com/article/118331/forbidden-music-michael-haas-reviewed-james-loeffler). The topic never goes anyway, and I don't think it should. That said, I don't personally have anything to add to the discussion, but offer the link if you feel you need to engage further.
+
+## (Update of 2015-01-14)
+
+I saw yet another (and excellent) article ["Wagner and the Jews"](http://mosaicmagazine.com/essay/2015/01/wagner-and-the-jews/).
