@@ -37,7 +37,7 @@ This is an essay by a black female writer, Roxane Gay, daughter of Haitian immig
 
 This poignant essay by a black woman discusses what it has been like to work in a predominantly white male tech community, thereby facing the dilemmas of minority status in two dimensions (race, gender). She has found it challenging to simply be who she wants to be, "...a black woman who happens to work in the tech industry", rather than something additional seemingly expected of her.
 
-### ["I taught my black kids that their elite upbringing would protect them from discrimination. I was wrong.](http://www.washingtonpost.com/posteverything/wp/2014/11/06/i-taught-my-black-kids-that-their-elite-upbringing-would-protect-them-from-discrimination-i-was-wrong/)
+### ["I taught my black kids that their elite upbringing would protect them from discrimination. I was wrong."](http://www.washingtonpost.com/posteverything/wp/2014/11/06/i-taught-my-black-kids-that-their-elite-upbringing-would-protect-them-from-discrimination-i-was-wrong/)
 
 This article by Lawrence Otis Graham talks about how he and his wife tried to shelter their children from racial discrimination by giving them an upper-middle-class upbringing. "My wife and I, both African Americans, constitute one of those Type A couples with Ivy League undergraduate and graduate degrees who, for many years, believed that if we worked hard and maintained great jobs, we could insulate our children from the blatant manifestations of bigotry that we experienced as children in the 1960s and ’70s." Especially check out the detailed "rules" of behavior that they taught their children in hope that they would not be mistakenly targeted through racial profiling!
 
