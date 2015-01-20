@@ -35,6 +35,10 @@ I find sensible the Stoic teaching of developing our "natural affection", and ex
 
 The tragic shooting and death that happened this year in [Ferguson, Missouri](http://en.wikipedia.org/wiki/Shooting_of_Michael_Brown) has been in the news for some months now, and this week the [grand jury decided not to indict](http://en.wikipedia.org/wiki/Shooting_of_Michael_Brown#Announcement_of_no_bill). I haven't commented in public or in private on any of these events, or on any of the commentary about them, but I do not dismiss what has happened as irrelevant to my life. In fact, I feel that what has happened has been so important, in the biggest possible picture of what has been going on in American history for a long time, that I cannot afford to lightly spew sound bites about it. I do ask myself, how can I best talk about what I am feeling? How can I make a positive difference, in the Stoic "cosmopolitan" "love of all humanity"? I don't know the answer yet, but I know what is not the answer: fanning the flames of passion. But simply being silent is also not the answer.
 
+### (Update of 2015-01-19)
+
+I wrote something in [observation of Martin Luther King, Jr. Day](/blog/2015/01/19/for-martin-luther-king-jr-day-some-black-american-voices-that-spoke-to-me-recently/).
+
 ## Conclusion
 
 I take seriously the Stoic call that we are ethically responsible for more than just ourselves, that we are to develop ourselves outward (not just on inner virtues) and work to honestly consider all human beings our brothers and sisters. I see how I have been treated in such a way by others through my life and aspire to expand beyond myself.
