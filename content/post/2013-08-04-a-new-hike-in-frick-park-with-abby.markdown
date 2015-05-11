@@ -28,34 +28,34 @@ Basically, Abby showed me some trails she had discovered when taking her own wal
 
 Abby leading the way:
 
-{% img /images/frick-hike-2013-08-04/abby.jpg Abby %}
+{{< figure src="/images/frick-hike-2013-08-04/abby.jpg" title="Abby" >}}
 
 Some views:
-{% img /images/frick-hike-2013-08-04/view.jpg View from trail %}
+{{< figure src="/images/frick-hike-2013-08-04/view.jpg" title="View from trail" >}}
 
-{% img /images/frick-hike-2013-08-04/another-view.jpg Another view from trail %}
+{{< figure src="/images/frick-hike-2013-08-04/another-view.jpg" title="Another view from trail" >}}
 
 Fungi:
 
-{% img /images/frick-hike-2013-08-04/fungi.jpg Fungi %}
+{{< figure src="/images/frick-hike-2013-08-04/fungi.jpg" title="Fungi" >}}
 
 A little bridge:
 
-{% img /images/frick-hike-2013-08-04/bridge.jpg A bridge %}
+{{< figure src="/images/frick-hike-2013-08-04/bridge.jpg" title="A bridge" >}}
 
 We ended up in Fern Hollow, familiar territory:
 
-{% img /images/frick-hike-2013-08-04/fern-hollow.jpg View from Fern Hollow %}
+{{< figure src="/images/frick-hike-2013-08-04/fern-hollow.jpg" title="View from Fern Hollow" >}}
 
 Do you see the spider web?
 
-{% img /images/frick-hike-2013-08-04/spider-web.jpg Spider web %}
+{{< figure src="/images/frick-hike-2013-08-04/spider-web.jpg" title="Spider web" >}}
 
 We went up the Falls Ravine Trail from Fern Hollow, and then Abby showed me a small trail that leads back up to "civilization", emerging behind a bench near the meadow across from the [Blue Slide Playground](http://www.pittsburghparks.org/frick-kids).
 
 This meadow is popular for sledding in the snowy winter, but right now it is popular for some kind of medieval play fighting:
 
-{% img /images/frick-hike-2013-08-04/fighting.jpg Play fighting in the meadow %}
+{{< figure src="/images/frick-hike-2013-08-04/fighting.jpg" title="Play fighting in the meadow" >}}
 
 ## Conclusion
 

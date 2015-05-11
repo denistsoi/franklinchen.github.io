@@ -6,7 +6,7 @@ comments: true
 categories: 
 - chess
 ---
-{% img http://www.chessbase.com/news/2012/london/london-gp18.jpg Gelfand-Wang %}
+{{< figure src="http://www.chessbase.com/news/2012/london/london-gp18.jpg" title="Gelfand-Wang" >}}
 
 As happens periodically, in the chess world recently there was mention of how Wang Hao, one of the top players in the world, in a drawn position slipped into a lost position: his opponent Boris Gelfand made an easy move that forced checkmate the next move. How could such a strong player make such a terrible blunder?
 
@@ -16,7 +16,7 @@ This was hardly the worst move a top chess player has ever made. The fact is, *e
 
 Former world champion Vladimir Kramnik has even directly [allowed a mate in one](http://www.chessbase.com/newsdetail.asp?newsid=3509):
 
-{% img http://www.chessbase.com/news/2006/vkdf/diag2-01.gif Kramnik allowed mate in one %}
+{{< figure src="http://www.chessbase.com/news/2006/vkdf/diag2-01.gif" title="Kramnik allowed mate in one" >}}
 
 These kinds of blunders are so terrible that a novice chess player could be expected to find the winning moves.
 
@@ -28,11 +28,11 @@ In an important tournament game some years ago, I was White against an Expert ra
 
 In this position, all I had to do was take his Knight with check, and then take his Rook:
 
-{% img /chess/worst-winning.gif White to play and win %}
+{{< figure src="/chess/worst-winning.gif" title="White to play and win" >}}
 
 But instead I took the Rook with my Queen and announced checkmate!!
 
-{% img /chess/worst-not-checkmate.gif White played a non-checkmate %}
+{{< figure src="/chess/worst-not-checkmate.gif" title="White played a non-checkmate" >}}
 
 The problem was that it was not checkmate; my opponent calmly took my Queen, I struggled in an ending a piece down, and finally lost (at one point I had actually fought back to a drawn position, miraculously, but the energy drain of having had to continue playing after my blunder caused me to falter).
 

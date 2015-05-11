@@ -11,8 +11,8 @@ categories:
 - Squirrel Hill
 - FiveFingers
 ---
-{% img /images/your-day-without-shoes-abby-franklin.jpg Abby and Franklin without shoes in DC %}
-{% img /images/your-day-without-shoes-musicians.jpg Abby and Franklin without shoes in DC %}
+{{< figure src="/images/your-day-without-shoes-abby-franklin.jpg" title="Abby and Franklin without shoes in DC" >}}
+{{< figure src="/images/your-day-without-shoes-musicians.jpg" title="Abby and Franklin without shoes in DC" >}}
 May 26, 2012 was [Your Day Without Shoes](http://www.primalfootalliance.org/ydws/), which Abby and I tried to observe, even though we were in DC at my sister's at the time, visiting our new [nephew](/blog/categories/nephew/), and therefore we were in an unfamiliar environment.
 
 It turned out that although Abby did spend the day without shoes, I wore shoes once in the morning and then not again the rest of the day. I'll explain why, and also describe my actual very first day without shoes (while being out and about), which was today.
@@ -76,8 +76,8 @@ Yesterday I went for a [nice run for National Running Day](/blog/2012/06/06/i-ce
 
 The run was great, and over the months I have adapted (thanks to periodic barefooting) to landing even more subtly and efficiently so that even with the KSO shoes, I do not find the rocks or tree roots out on the trail to be too uncomfortable to deal with. Unfortunately, I still got a blister at my usual rubbing spot at the side of my big toe joint. (You may be able to spot it in the photos below.)
 
-{% img /images/national-running-day-vibram-fivefingers-kso.jpg Franklin's Vibram FiveFingers KSO shoes %}
-{% img /images/national-running-day-barefoot.jpg Franklin's Vibram FiveFingers KSO shoes %}
+{{< figure src="/images/national-running-day-vibram-fivefingers-kso.jpg" title="Franklin's Vibram FiveFingers KSO shoes" >}}
+{{< figure src="/images/national-running-day-barefoot.jpg" title="Franklin's Vibram FiveFingers KSO shoes" >}}
 
 It turned out yesterday that because of the blister, I just didn't want to wear any shoes for the rest of the day, and in fact I didn't. I went barefoot from the time I finished my run to the time I left work and drove home, and I was barefoot the rest of the day.
 

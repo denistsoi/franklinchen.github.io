@@ -65,7 +65,7 @@ Lectures on video were provided. I found them useful but fairly poor in producti
 
 Somewhat controversially, the instructors' [textbook that was still in rough alpha condition](http://beta.saasbook.info/) was recommended for the course. Originally I wasn't going to buy it, but I found references from the course that made it sound like it would be useful, so I bought it. It was rather poorly formatted and repeated a lot that was already in the lecture videos and slides, but did have additional material. The book was inexpensive enough that its flaws did not annoy me excessively. (Eventually the book finally entered beta!)
 
-{% img http://sites.google.com/site/longlastingsoftware/_/rsrc/1366223530547/config/cover.jpg Book cover %}
+{{< figure src="http://sites.google.com/site/longlastingsoftware/_/rsrc/1366223530547/config/cover.jpg" title="Book cover" >}}
 
 Confusingly, we were also to watch the [videos for the book](http://screencast.saasbook.info/). Having course material spread out like this was annoying.
 

@@ -48,7 +48,7 @@ We drove downtown and parked and walked to the packet pickup area in Market Squa
 
 Because we arrived later than other people, they had run out of Small T-shirts and so I got a Medium.
 
-{% img /images/liberty-mile-2013/abby.jpg Abby holding my T-shirt %}
+{{< figure src="/images/liberty-mile-2013/abby.jpg" title="Abby holding my T-shirt" >}}
 
 ## Changes in the course
 
@@ -60,7 +60,7 @@ My plan was to do my best to avoid going out too fast, and try to push hard in t
 
 I wore my Vibram FiveFingers Bikila LS shoes again.
 
-{% img /images/liberty-mile-2013/before-start.jpg Franklin before race %}
+{{< figure src="/images/liberty-mile-2013/before-start.jpg" title="Franklin before race" >}}
 
 At the GNC booth, I saw they were giving out free samples of energy bars and other stuff. I was feeling hungry, and although I know that it is best not to race having just eaten, especially unfamiliar foods, I took a [GNC Pro Performance Pro Crunch Lite](http://www.gnc.com/product/index.jsp?productId=4468895) energy bar, and ate a couple of bites before giving the remainder to Abby to put away.
 
@@ -70,25 +70,25 @@ It was probably a big mistake to have eaten from the energy bar, because it didn
 
 We checked out the start and finish lines.
 
-{% img /images/liberty-mile-2013/start-line.jpg Start line %}
+{{< figure src="/images/liberty-mile-2013/start-line.jpg" title="Start line" >}}
 
-{% img /images/liberty-mile-2013/finish-line.jpg Finish line %}
+{{< figure src="/images/liberty-mile-2013/finish-line.jpg" title="Finish line" >}}
 
 ## First heat (at 7:00 PM)
 
 We watched as the first "fun run" heat went.
 
-{% img /images/liberty-mile-2013/first-heat-start.jpg %}
+{{< figure src="/images/liberty-mile-2013/first-heat-start.jpg" >}}
 
 ## My race (heat at 7:20 PM)
 
 I got to the start line and lined up *at the back*, where I knew I belonged. I was not sure that I would not be last place in my heat!
 
-{% img /images/liberty-mile-2013/my-heat-start.jpg %}
+{{< figure src="/images/liberty-mile-2013/my-heat-start.jpg" >}}
 
 Here I am, looking as tired as I in fact was, still taking medication for my skin problem that is not completely gone (usually showing up as spots on my neck or hands and arms):
 
-{% img /images/liberty-mile-2013/franklin-before.jpg Franklin before the race %}
+{{< figure src="/images/liberty-mile-2013/franklin-before.jpg" title="Franklin before the race" >}}
 
 As the race began, I tried not to go too fast, but did. 1:34 for the first quarter mile, not good at all! Last year, I ran the mile in 6:39, and went out in 1:29 for the first quarter. This year, I was hoping to go under 7:00 at all.
 
@@ -109,7 +109,7 @@ More photos of the entire event can be seen [here](http://petemadia.photoshelter
 
 Afterwards, I felt really, really crappy:
 
-{% img /images/liberty-mile-2013/done-in-pain.jpg Franklin done for a while but still in pain %}
+{{< figure src="/images/liberty-mile-2013/done-in-pain.jpg" title="Franklin done for a while but still in pain" >}}
 
 In fact, for a full half hour after the race, all I could do was walk and sit around with Abby trying to feel less crappy. **I have never felt so bad for so long after any race of any distance.**
 

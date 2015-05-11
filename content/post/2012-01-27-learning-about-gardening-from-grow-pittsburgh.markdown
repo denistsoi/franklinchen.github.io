@@ -10,11 +10,11 @@ categories:
 - Pittsburgh
 - Kretschmann Farm
 ---
-{% img https://lh4.googleusercontent.com/-8fnzFicG66o/Ts0QOtxEeUI/AAAAAAAABvU/aZOUP36NlJo/s576/GardenPrimerSOCIAL.jpg A Garden Primer %}
+{{< figure src="https://lh4.googleusercontent.com/-8fnzFicG66o/Ts0QOtxEeUI/AAAAAAAABvU/aZOUP36NlJo/s576/GardenPrimerSOCIAL.jpg" title="A Garden Primer" >}}
 
 Yesterday, Abby and I finished the third and final session of ["A Garden Primer"](http://www.showclix.com/search/A%20Garden%20Primer), a basic course on organic gardening offered by [Grow Pittsburgh](http://www.growpittsburgh.org/). We took this course because we would like to start our own little urban garden.
 
-{% img /images/a-garden-primer.jpg Third meeting of A Garden Primer %}
+{{< figure src="/images/a-garden-primer.jpg" title="Third meeting of A Garden Primer" >}}
 
 As an utter beginner with no experience, I thought the course was a very useful and friendly introduction to organic gardening.
 

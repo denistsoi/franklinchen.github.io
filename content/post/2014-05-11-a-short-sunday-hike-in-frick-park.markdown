@@ -13,16 +13,16 @@ Abby and I had planned to go on a hike yesterday, but rain discouraged us, plus 
 
 A little stream crossing:
 
-{% img /images/frick-park-2014-05-11/stream-crossing.jpg %}
+{{< figure src="/images/frick-park-2014-05-11/stream-crossing.jpg" >}}
 
 Poison ivy lurks everywhere:
 
-{% img /images/frick-park-2014-05-11/poison-ivy.jpg %}
+{{< figure src="/images/frick-park-2014-05-11/poison-ivy.jpg" >}}
 
 A bridge that has gotten lopsided:
 
-{% img /images/frick-park-2014-05-11/bridge.jpg %}
+{{< figure src="/images/frick-park-2014-05-11/bridge.jpg" >}}
 
 Ducks:
 
-{% img /images/frick-park-2014-05-11/ducks.jpg %}
+{{< figure src="/images/frick-park-2014-05-11/ducks.jpg" >}}

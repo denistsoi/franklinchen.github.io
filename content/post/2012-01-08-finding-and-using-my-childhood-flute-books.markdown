@@ -10,7 +10,7 @@ categories:
 - childhood
 - father
 ---
-{% img /images/belwin-home-practice-record.jpg My 5th grade flute book practice record %}
+{{< figure src="/images/belwin-home-practice-record.jpg" title="My 5th grade flute book practice record" >}}
 
 I was in my basement looking for stuff and happened to find three of my childhood [flute](/blog/categories/flute/) books:
 

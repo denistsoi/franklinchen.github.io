@@ -9,13 +9,13 @@ categories:
 - Pittsburgh
 - Pittsburgh Chess Club
 ---
-{% img /chess/chen-ahlborg-2013-01-29_files/round-3.jpg PCC Championship Round 3 %}
+{{< figure src="/chess/chen-ahlborg-2013-01-29_files/round-3.jpg" title="PCC Championship Round 3" >}}
 
 Round 3 of the annual [Pittsburgh Chess Club](http://pittsburghcc.org/) Championship had me playing another very long game, the last game to finish (which it did after four hours, when nobody else was around any more except the tournament director).
 
 For once, I am actually fairly proud of my game, in which I pressed hard with an attack and won. I have submitted the score for consideration in the ["Best Attack" special prize category for the tournament](/blog/2013/01/16/pittsburgh-chess-club-championship-2013-round-1-the-art-of-swindling/).
 
-{% img /chess/chen-ahlborg-2013-01-29_files/final-position.jpg Our final position %}
+{{< figure src="/chess/chen-ahlborg-2013-01-29_files/final-position.jpg" title="Our final position" >}}
 
 This week's chess theme is [*sacrifice*](http://en.wikipedia.org/wiki/Sacrifice_\(chess\)) in chess. The reason is that in my game, there were many possible points of sacrifice on my end (the attacker), but also, ironically, my opponent was the one who twice sacrificed material for a *defensive* purpose. Although the sacrifices were not sound, they had some practical merit that I will discuss.
 
@@ -37,11 +37,11 @@ So my "preparation" consisted of nothing other than deciding to play a different
 
 John reacted to my English Opening surprise in an unexpectedly passive if solid way, allowing me permanent pressure against his `d` Pawn:
 
-{% img /chess/chen-ahlborg-2013-01-29_files/diag3FA43B22549ECDAE.gif Black d Pawn weak %}
+{{< figure src="/chess/chen-ahlborg-2013-01-29_files/diag3FA43B22549ECDAE.gif" title="Black d Pawn weak" >}}
 
 We both played a bit stereotypically in the opening, missing chances for an aggressive advantage or counterplay, but instead reached a completely thematic position:
 
-{% img /chess/chen-ahlborg-2013-01-29_files/diag3FA43B3240DCC894.gif Thematic position %}
+{{< figure src="/chess/chen-ahlborg-2013-01-29_files/diag3FA43B3240DCC894.gif" title="Thematic position" >}}
 
 Black has a passive but actually very solid position. The only way White can possibly make progress is reorganize and find a way to launch a King side attack with `f4` and `g4` eventually, while Black should obtain counterplay on the Queen side.
 
@@ -49,13 +49,13 @@ Black has a passive but actually very solid position. The only way White can pos
 
 However, my opponent faltered by not playing on the Queen side but instead trying to get counterplay by redeploying the King Knight to `e5`:
 
-{% img /chess/chen-ahlborg-2013-01-29_files/diag3FA43B50283E7411.gif Knight maneuver to g4 %}
+{{< figure src="/chess/chen-ahlborg-2013-01-29_files/diag3FA43B50283E7411.gif" title="Knight maneuver to g4" >}}
 
 I correctly punished this error by bringing my Knight to `h4` aiming to go to `f5`.
 
 We reached a position that is beautiful for White:
 
-{% img /chess/chen-ahlborg-2013-01-29_files/diag3FA43B72B8AC0516.gif %}
+{{< figure src="/chess/chen-ahlborg-2013-01-29_files/diag3FA43B72B8AC0516.gif" >}}
 
 White not only has the two Bishops, but also has the `f5` Pawn controlling `e5` as well as ready to participate in a Pawn storm involving `g4` and then either `f6` or `g6`. Black's two Knights optically look active but have no real threats at all.
 
@@ -65,7 +65,7 @@ At this point, my opponent decided to engage in an unsound sacrifice but one he 
 
 However, after I took the Pawn and returned my Knight to `c3`, it became clear that the only open lines were for my Bishop pair, and Black is objectively lost.
 
-{% img /chess/chen-ahlborg-2013-01-29_files/diag3FA43B979D9F88DF.gif %}
+{{< figure src="/chess/chen-ahlborg-2013-01-29_files/diag3FA43B979D9F88DF.gif" >}}
 
 The only question was, how to conduct the winning attack on Black's King?
 
@@ -75,13 +75,13 @@ I got in `g4`, and then hesitated to play `g5` immediately. I decided to "prepar
 
 It turns out from computer analysis that the quickest wins involve immediately pushing forth with `g5` and having ideas of throwing everything at Black's King, possibly sacrificing a Knight or Bishop here or there in order to tighten the net around the King while swinging the Queen and Rook over to the `h` file. See the [annotated game](/chess/chen-ahlborg-2013-01-29.htm) for some sample lines. Here is an example position involving a `g6` sacrifice and a possible sacrifice on `d5`:
 
-{% img /chess/chen-ahlborg-2013-01-29_files/diag3FA43BC50DD386CB.gif Possible sacrifice %}
+{{< figure src="/chess/chen-ahlborg-2013-01-29_files/diag3FA43BC50DD386CB.gif" title="Possible sacrifice" >}}
 
 ### Critical position
 
 The actual game continuation led to a critical position:
 
-{% img /chess/chen-ahlborg-2013-01-29_files/diag3FA43BEB1D0A03F6.gif Black's King exposed %}
+{{< figure src="/chess/chen-ahlborg-2013-01-29_files/diag3FA43BEB1D0A03F6.gif" title="Black's King exposed" >}}
 
 An opened up position like this tends to be critical because
 
@@ -90,27 +90,27 @@ An opened up position like this tends to be critical because
 
 It turns out that while I did not continue most precisely, my opponent also did not choose the best defense, so we reached a position that is very bad for Black because a piece will soon be lost:
 
-{% img /chess/chen-ahlborg-2013-01-29_files/diag3FA43C0522371AD8.gif %}
+{{< figure src="/chess/chen-ahlborg-2013-01-29_files/diag3FA43C0522371AD8.gif" >}}
 
 ### The second defensive sacrifice
 
 My opponent chose an interesting practical try, sacrificing the Knight for an attempt to block White's dark Bishop and advance some Pawns and lock out White's stray Knight:
 
-{% img /chess/chen-ahlborg-2013-01-29_files/diag3FA43C112C408121.gif Black's sacrifice of a piece %}
+{{< figure src="/chess/chen-ahlborg-2013-01-29_files/diag3FA43C112C408121.gif" title="Black's sacrifice of a piece" >}}
 
 Objectively, White has a totally won game. But at this point, time was running low for both sides.
 
 Under time pressure, I missed a quick win at one point. I also somehow walked into a less and less winning position, eventually hanging an exchange inadvertently!
 
-{% img /chess/chen-ahlborg-2013-01-29_files/diag3FA43C2A6A964717.gif White can lose an exchange %}
+{{< figure src="/chess/chen-ahlborg-2013-01-29_files/diag3FA43C2A6A964717.gif" title="White can lose an exchange" >}}
 
 But under worse time pressure, my opponent did not see the win of an exchange (after which White is luckily still winning because he was a piece up originally) and *completely collapsed*, playing into this lost position:
 
-{% img /chess/chen-ahlborg-2013-01-29_files/diag3FA43C36749FAD60.gif Black is lost %}
+{{< figure src="/chess/chen-ahlborg-2013-01-29_files/diag3FA43C36749FAD60.gif" title="Black is lost" >}}
 
 Checkmate followed:
 
-{% img /chess/chen-ahlborg-2013-01-29_files/diag3FA43C4FB2F57356.gif Checkmate %}
+{{< figure src="/chess/chen-ahlborg-2013-01-29_files/diag3FA43C4FB2F57356.gif" title="Checkmate" >}}
 
 ## Lessons learned from my game
 

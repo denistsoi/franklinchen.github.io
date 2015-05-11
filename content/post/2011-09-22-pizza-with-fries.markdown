@@ -14,6 +14,6 @@ categories:
 
 *French fries, yum yum!*
 
-{% img /images/ranch-steak-pizza.jpg Rialto's ranch steak pizza %}
+{{< figure src="/images/ranch-steak-pizza.jpg" title="Rialto's ranch steak pizza" >}}
 
 Only in Pittsburgh?

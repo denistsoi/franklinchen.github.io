@@ -9,11 +9,11 @@ categories:
 - Irish flute
 - belly dancing
 ---
-{% img /images/khafif-hafla-2012/franklin-flute.jpg Franklin as pirate playing Irish flute %}
+{{< figure src="/images/khafif-hafla-2012/franklin-flute.jpg" title="Franklin as pirate playing Irish flute" >}}
 
 Tonight, I dressed as an Asian pirate and sang an Irish pirate ballad on stage at [Khafif](http://www.khafif.com/)'s [annual Halloween belly dance hafla](http://www.facebook.com/events/269693989803391/).
 
-{% img /images/khafif-hafla-2012/group-photo.jpg Group photo %}
+{{< figure src="/images/khafif-hafla-2012/group-photo.jpg" title="Group photo" >}}
 
 Three days ago, I would not have guessed I would be playing this small role in the hafla!
 
@@ -71,7 +71,7 @@ Since I was very pressed for time before the weekend, I didn't bother to write d
 
 ## Pirate costume
 
-{% img /images/khafif-hafla-2012/franklin-abby.jpg Franklin and Abby %}
+{{< figure src="/images/khafif-hafla-2012/franklin-abby.jpg" title="Franklin and Abby" >}}
 
 Meanwhile, having decided to perform music at the hafla, I decided that I had to wear a costume also. There was no way I was going to show up without a costume this year, given that I was going to be on stage. After throwing around some ideas, I decided that since I have a karate gi, I was going to wear it, and throw on a red belt and a red bandanna, and call myself an Asian pirate. Abby gave me a chain to wear around my neck also.
 
@@ -79,7 +79,7 @@ Meanwhile, having decided to perform music at the hafla, I decided that I had to
 
 The program:
 
-{% img /images/khafif-hafla-2012/program.jpg Program %}
+{{< figure src="/images/khafif-hafla-2012/program.jpg" title="Program" >}}
 
 The event began with several nice belly dance performances. (I expect photos and videos to pop up on the event site eventually.)
 
@@ -93,7 +93,7 @@ So the Balkan Babes got on stage instead while I tried to retrieve the melody by
 
 Here are the Balkan Babes in action, a photo I took backstage after I had figured out my song (Abby is on the right):
 
-{% img /images/khafif-hafla-2012/balkan-babes.jpg Balkan Babes after intermission %}
+{{< figure src="/images/khafif-hafla-2012/balkan-babes.jpg" title="Balkan Babes after intermission" >}}
 
 Luckily, I was able to get the melody back into my head with the aid of my smartphone.
 

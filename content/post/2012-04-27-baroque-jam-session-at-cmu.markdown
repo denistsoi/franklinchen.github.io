@@ -14,7 +14,7 @@ categories:
 ---
 Three days ago, I suddenly saw this poster on a bulletin board in the hallway at work at CMU:
 
-{% img /images/baroque-jam-session/poster.jpg CMU poster for Baroque jam session %}
+{{< figure src="/images/baroque-jam-session/poster.jpg" title="CMU poster for Baroque jam session" >}}
 
 <blockquote>
 A night of music by some of these cool dead dudes.

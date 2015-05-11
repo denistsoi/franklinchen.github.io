@@ -14,7 +14,7 @@ Every fall I am bombarded by reminders to get a flu shot. The reminders come fro
 
 Today, I got my flu shot after all. Why? And why my resistance?
 
-{% img /images/franklin-flu-shot-2011.jpg Franklin getting flu shot at CMU in 2011 %}
+{{< figure src="/images/franklin-flu-shot-2011.jpg" title="Franklin getting flu shot at CMU in 2011" >}}
 
 <!--more-->
 

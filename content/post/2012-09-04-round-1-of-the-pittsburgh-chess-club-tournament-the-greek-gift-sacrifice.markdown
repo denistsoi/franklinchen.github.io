@@ -8,7 +8,7 @@ categories:
 - Pittsburgh
 - Pittsburgh Chess Club
 ---
-{% img /images/14th-fred-sorensen-memorial/round-1.jpg Start of first round %}
+{{< figure src="/images/14th-fred-sorensen-memorial/round-1.jpg" title="Start of first round" >}}
 
 Tonight was the first round of the latest six-round Tuesday night tournament at the [Pittsburgh Chess Club](http://pittsburghcc.org/), [my first tournament in almost two years](/blog/2012/08/29/returning-to-chess/), the 14th Fred Sorensen Memorial.
 
@@ -32,7 +32,7 @@ My opponent and I both played fairly quickly. The last time I played in tourname
 
 I ended up winning in less than an hour, by smashing through as White using the classic [Greek gift sacrifice](http://en.wikipedia.org/wiki/Greek_gift_sacrifice). I have used this sacrifice in several games over my life. It's always cute to use it. I have accidentally fallen victim to it in the past also!
 
-{% img /images/14th-fred-sorensen-memorial/chen-kirk.jpg The Greek gift sacrifice in action %}
+{{< figure src="/images/14th-fred-sorensen-memorial/chen-kirk.jpg" title="The Greek gift sacrifice in action" >}}
 
 ## The annotated game
 

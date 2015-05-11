@@ -13,7 +13,7 @@ categories:
 ---
 At work today, there was a little celebration in honor of the bizarre winning streak of the Pittsburgh Pirates ("let's go Bucs!"). I've lived in Pittsburgh for sixteen years now, so it's been pretty weird seeing the Pirates doing so well. I don't follow baseball these days, but I've been to a handful of games over the years: each time but once, we lost. It was kind of a sad sight, because almost every time I went to a game, there were so few fans out there.
 
-{% img /images/bucco-cookie.jpg Bucco Cookie %}
+{{< figure src="/images/bucco-cookie.jpg" title="Bucco Cookie" >}}
 
 I enjoyed having my first [Bucco Cookie](http://www.smileycookie.com/pittsburgh-pirates-cookie.html).
 

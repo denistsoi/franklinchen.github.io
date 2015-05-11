@@ -21,7 +21,7 @@ We had a fun [session this week](http://www.meetup.com/Steel-City-Ukuleles/event
 
 We did various other member-contributed selections also, including a ["Cups" song](http://en.wikipedia.org/wiki/Cups_%28song%29) that apparently has become all the craze because of moving cups around as part of percussion! Three of us had practiced ahead of time to play the cups. I have to say I was impressed:
 
-{% img /images/cups.jpg Cups %}
+{{< figure src="/images/cups.jpg" title="Cups" >}}
 
 ## Rubber Duckie
 
@@ -31,7 +31,7 @@ We went over "Rubber Duckie" again. I love this song. I'm getting better at sing
 
 I finally bought a cheap kazoo for use in the future (several of us used kazoos in the Ecofest performance, but I did not have a kazoo at the time), as Jack got a whole bunch to sell to us:
 
-{% img /images/kazoo.jpg Kazoo %}
+{{< figure src="/images/kazoo.jpg" title="Kazoo" >}}
 
 ## Conclusion
 

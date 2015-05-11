@@ -11,7 +11,7 @@ categories:
 - Pittsburgh
 - mayor
 ---
-{% img /images/voter-receipt-primary-2013.jpg My voter receipt, May 2013 %}
+{{< figure src="/images/voter-receipt-primary-2013.jpg" title="My voter receipt, May 2013" >}}
 
 Those of you who follow my blog know that I have been conflicted about voting, but go and do it anyway, *most of the time*, e.g., [in November 2011 for the municipal election](/blog/2011/11/08/i-dont-know-if-i-should-vote-but-i-did/) and [in November 2012 for the general election](/blog/2012/11/06/i-decided-to-resign-myself-to-continue-voting/), when I felt there were some politicians very important to *vote against*.
 

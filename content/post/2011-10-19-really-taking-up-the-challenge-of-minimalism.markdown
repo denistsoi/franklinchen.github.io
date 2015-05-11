@@ -16,7 +16,7 @@ And I **still** have too much *stuff*. I've been promising to get rid of more, b
 
 **This time is different.**
 
-{% img http://www.missminimalist.com/jol-mmfront-180-bb.jpg Front cover of The Joy of Less by Francine Jay %}
+{{< figure src="http://www.missminimalist.com/jol-mmfront-180-bb.jpg" title="Front cover of The Joy of Less by Francine Jay" >}}
 
 <!--more-->
 

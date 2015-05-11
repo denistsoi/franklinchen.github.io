@@ -26,7 +26,7 @@ The event went pretty well! Here is a report, with some photos and videos.
 
 Abby had said that we were supposed to show up dressed "festively", so I thought, OK, I'll wear something green and something red, for the holiday season. I immediately thought of a green shirt and red pants I have. Abby came up with the idea that I should wear a hat, and so I picked out one of my hats (which I only wear for costume parties) and she put a green band around it. I feared being cold (and rightfully so, it turned out), and so I added a blazer and a tie to the outfit. A good number of people seemed to like this colorful outfit!
 
-{% img /images/holiday-ball-2011/abby-franklin-holiday-ball.jpg Abby and Franklin posing before event %}
+{{< figure src="/images/holiday-ball-2011/abby-franklin-holiday-ball.jpg" title="Abby and Franklin posing before event" >}}
 
 ## Venue
 
@@ -36,12 +36,12 @@ I had never been to the Swisshelm Park Community Center before, but since Abby h
 
 Around twenty-five musicians eventually gathered on stage. There was just enough space for all of us, although it was crowded. I got put in the "wind section", armed with my main instrument I had finally decided on for this gig, soprano recorder (which I had started practicing the music for only a couple of days before!!), along with my secondary instrument, flute, which I planned to use only on the Hallelujah Chorus and some waltzes, and finally, the [tin whistle](/blog/2011/12/11/learning-another-instrument-the-tin-whistle/), which I did not have enough time to play well enough for most of the music, and therefore planned to possibly use on only one piece.
 
-{% img /images/holiday-ball-2011/franklin-soprano-recorder.jpg Franklin posing with soprano recorder %}
-{% img /images/holiday-ball-2011/franklin-flute.jpg Franklin posing with flute %}
+{{< figure src="/images/holiday-ball-2011/franklin-soprano-recorder.jpg" title="Franklin posing with soprano recorder" >}}
+{{< figure src="/images/holiday-ball-2011/franklin-flute.jpg" title="Franklin posing with flute" >}}
 
 Abby sat to my right with her tamburitza. This was the first time we have ever played music together at an event!
 
-{% img /images/holiday-ball-2011/abby-tamburitza.jpg Abby posing with tamburitza %}
+{{< figure src="/images/holiday-ball-2011/abby-tamburitza.jpg" title="Abby posing with tamburitza" >}}
 
 ## Off and running
 

@@ -13,7 +13,7 @@ categories:
 - Ruby
 - FiveFingers
 ---
-{% img /images/pretty-good-race-2012/registration.jpg Registration table %}
+{{< figure src="/images/pretty-good-race-2012/registration.jpg" title="Registration table" >}}
 
 This year I ran, for the eighth time in my life, the [CMU Pretty Good Race 5K](http://www.cs.cmu.edu/~kalp/PGR/); on National Running Day earlier this year, I described [how special this race has been to me](/blog/2012/06/06/i-celebrated-national-running-day-in-schenley-park-remembering-how-i-began-to-run-13-year-ago/).
 
@@ -49,7 +49,7 @@ This year, during some training runs on the course, I experimented with running 
 
 ## The race
 
-{% img /images/pretty-good-race-2012/franklin-before-race.jpg Franklin before the race %}
+{{< figure src="/images/pretty-good-race-2012/franklin-before-race.jpg" title="Franklin before the race" >}}
 
 ### Beginning
 
@@ -79,11 +79,11 @@ It turned out that I finished ten seconds earlier than her. Mission accomplished
 
 Here I am, shortly after finishing:
 
-{% img /images/pretty-good-race-2012/franklin-exhausted.jpg Franklin exhausted %}
+{{< figure src="/images/pretty-good-race-2012/franklin-exhausted.jpg" title="Franklin exhausted" >}}
 
 Here's Abby coming up the hill for the finish:
 
-{% img /images/pretty-good-race-2012/abby-finishing.jpg Abby finishing on the uphill %}
+{{< figure src="/images/pretty-good-race-2012/abby-finishing.jpg" title="Abby finishing on the uphill" >}}
 
 I was pretty proud of having executed the most demanding sprint finish of my entire life. I know that my final race time of 26:05 is far slower than my 24:36 of last year, but as far as my effort was concerned, I did give it my all. *It's not about how fast I went, but how much I gave of what I had.* (Apparently, at the London Olympics, some runner was banned for ["not trying hard enough"](http://www.telegraph.co.uk/sport/olympics/athletics/9456916/Algerian-runner-banned-for-not-trying-hard-enough-at-London-2012.html).)
 

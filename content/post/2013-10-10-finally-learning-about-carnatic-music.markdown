@@ -13,7 +13,7 @@ categories:
 - jazz
 - Carnegie Mellon University
 ---
-{% img http://f0.bcbits.com/img/a2399391511_2.jpg Sandeep Narayan %}
+{{< figure src="http://f0.bcbits.com/img/a2399391511_2.jpg" title="Sandeep Narayan" >}}
 
 I attended the Thursday CMU music school convocation that featured a [lecture/performance by Sandeep Narayan and his brother Nirmal Narayan](http://music.cmu.edu/events/267). I very much enjoyed the presentation.
 

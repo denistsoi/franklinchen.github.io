@@ -9,9 +9,9 @@ categories:
 - Pittsburgh
 - Pittsburgh Chess Club
 ---
-{% img /chess/wallnau-chen-2013-02-19_files/round-6.jpg Round 6 panorama %}
+{{< figure src="/chess/wallnau-chen-2013-02-19_files/round-6.jpg" title="Round 6 panorama" >}}
 
-{% img /chess/wallnau-chen-2013-02-19_files/round-6-game.jpg Round 6 Wallnau-Chen %}
+{{< figure src="/chess/wallnau-chen-2013-02-19_files/round-6-game.jpg" title="Round 6 Wallnau-Chen" >}}
 
 In the 6th and final round of the Pittsburgh Chess Club Championship of 2013, I was Black against Kurt Wallnau, as I mentioned I would be in [my report on round 5](/blog/2013/02/14/pittsburgh-chess-club-championship-2013-round-5-surprised-at-move-4-of-the-opening/). I'd promised him before the game that I was going to *play for a win as Black* ([Black is OK!](http://www.gmsquare.com/BlackisOKAdorjan.html)), even though I only needed a draw to secure undisputed first place in the tournament, since I went into the final round one full point ahead of him.
 
@@ -19,7 +19,7 @@ I played aggressively like a madman and brought home the full point, thereby bec
 
 I have to admit that objectively, my opening choice was risky, but I'll explain why I played so wildly as Black.
 
-{% img /chess/wallnau-chen-2013-02-19_files/final-position.jpg Final position %}
+{{< figure src="/chess/wallnau-chen-2013-02-19_files/final-position.jpg" title="Final position" >}}
 
 <!--more-->
 
@@ -45,13 +45,13 @@ Amusingly, it did not matter that I did not prepare anything against any of what
 
 I "threatened" to go into an ultra-aggressive reversed [King's Indian](http://en.wikipedia.org/wiki/King%27s_Indian_Defence) against him (normally Black does not play the White side of a King's Indian one tempo down), and he allowed me to do so, and so I did!
 
-{% img /chess/wallnau-chen-2013-02-19_files/diag3FA2AF509B32EED9.gif Reversed King's Indian %}
+{{< figure src="/chess/wallnau-chen-2013-02-19_files/diag3FA2AF509B32EED9.gif" title="Reversed King's Indian" >}}
 
 #### Subtleties of playing Black
 
 What was really crazy of me, however, was playing a provocative and surely not quite sound wing attack `g5` against him:
 
-{% img /chess/wallnau-chen-2013-02-19_files/diag3FA2AF68AF45BB6D.gif %}
+{{< figure src="/chess/wallnau-chen-2013-02-19_files/diag3FA2AF68AF45BB6D.gif" >}}
 
 I was inspired to do this by profoundly technical as well as philosophical thoughts both by [András Adorján](http://en.wikipedia.org/wiki/Andr%C3%A1s_Adorj%C3%A1n) and [John Watson](http://en.wikipedia.org/wiki/John_L._Watson) about the nature of playing Black in "reversed" openings. The idea is that in many variations, being one tempo down is not necessarily a disadvantage, because White's extra tempo means having committed to something, and therefore "giving" Black some *information* that can be useful. In this particular case, for example, I started off with a reversed [Averbakh variation](http://en.wikipedia.org/wiki/King%27s_Indian_Defence#Averbakh_Variation), but then because I had not yet committed to putting a Bishop on `g4` or on `e6`, and White has committed to castling already, the flank attack `g5` looks interesting, because of ideas Black might have of not only getting in `g4`, but maybe also prying open the `h` file while lifting the Queen possibly to `d6` and to `g6`. The point is that there are very *concrete* reasons to justify this bizarre attack. This is not to say that it is entirely sound (I don't believe it is!), but at least this attack has some real basis.
 
@@ -63,57 +63,57 @@ In any case, I also played `g5` because I was sure that Kurt would be completely
 
 As I expected, Kurt went into a reversed [Benko Gambit](http://en.wikipedia.org/wiki/Benko_Gambit) sacrificial attack against me (and it is completely sound here for White):
 
-{% img /chess/wallnau-chen-2013-02-19_files/diag3FA2AF75802672A2.gif Reversed Benko %}
+{{< figure src="/chess/wallnau-chen-2013-02-19_files/diag3FA2AF75802672A2.gif" title="Reversed Benko" >}}
 
 #### I fell into a bad position
 
 At an important point, after some not entirely accurate play on both sides, I could have engaged in a consistent and good `h4` attack as follows:
 
-{% img /chess/wallnau-chen-2013-02-19_files/diag3FA2AFA162ABCEB7.gif h4 was best %}
+{{< figure src="/chess/wallnau-chen-2013-02-19_files/diag3FA2AFA162ABCEB7.gif" title="h4 was best" >}}
 
 But I got cold feet and decided to try to castle. This was actually a serious mistake and led to very frightening positions in which I was not confident that I would be able to defend against White's initiative.
 
 Even after I managed to get in a thematic Rook lift to `a6`, I was not confident in my position:
 
-{% img /chess/wallnau-chen-2013-02-19_files/diag3FA2AFC8FF90EDBA.gif Black Rook lift %}
+{{< figure src="/chess/wallnau-chen-2013-02-19_files/diag3FA2AFC8FF90EDBA.gif" title="Black Rook lift" >}}
 
 ### The middlegame
 
 After much complex play, we arrived at an important position in which the question is, how can White continue to press?
 
-{% img /chess/wallnau-chen-2013-02-19_files/diag3FA2AFEF0EC76AE5.gif Tense %}
+{{< figure src="/chess/wallnau-chen-2013-02-19_files/diag3FA2AFEF0EC76AE5.gif" title="Tense" >}}
 
 White erred by moving his Bishop to `c7` to chase the Black Queen to `d7`, which is not really a problem for Black at all:
 
-{% img /chess/wallnau-chen-2013-02-19_files/diag3FA2AFF7FD738D7E.gif Bishop at c7 is useless %}
+{{< figure src="/chess/wallnau-chen-2013-02-19_files/diag3FA2AFF7FD738D7E.gif" title="Bishop at c7 is useless" >}}
 
 Then White allowed Black to develop both `Ba6` and `Rc8` led to a decent position for Black at last:
 
-{% img /chess/wallnau-chen-2013-02-19_files/diag3FA2B0021662A97A.gif Black is OK %}
+{{< figure src="/chess/wallnau-chen-2013-02-19_files/diag3FA2B0021662A97A.gif" title="Black is OK" >}}
 
 I was finally feeling safe in the game.
 
-{% img /chess/wallnau-chen-2013-02-19_files/white-thinking.jpg Kurt thinking  %}
+{{< figure src="/chess/wallnau-chen-2013-02-19_files/white-thinking.jpg" title="Kurt thinking" >}}
 
 #### White's first blunder was a terrible one
 
 White then blundered away two pieces (the Knight on `b5` and the Bishop on `d5` for a Rook. After this, I was finally happy, knowing I had a completely won game. The only question was, how to consolidate?
 
-{% img /chess/wallnau-chen-2013-02-19_files/diag3FA2B025D11333E1.gif White blundered %}
+{{< figure src="/chess/wallnau-chen-2013-02-19_files/diag3FA2B025D11333E1.gif" title="White blundered" >}}
 
 It turned out that we both started running low on time, and also I started playing less than perfectly. I was obsessed with winning the `d5` Pawn, but it was not really necessary to go for that in order to win the game. Focusing on the passed Pawns on the Queen side was best, because White could not break through on the King side anyway.
 
 I allowed White some counterplay, but still had a won position anyway. Then White tried an idea with `h4` to get the Queen to `g5`, but this was too slow:
 
-{% img /chess/wallnau-chen-2013-02-19_files/diag3FA2B078263AB597.gif h4 %}
+{{< figure src="/chess/wallnau-chen-2013-02-19_files/diag3FA2B078263AB597.gif" title="h4" >}}
 
 Black's `Rd6` guaranteed winning the `d5` Pawn and therefore the game along the long diagonal to `h1`:
 
-{% img /chess/wallnau-chen-2013-02-19_files/diag3FA2B07F87383659.gif White is lost %}
+{{< figure src="/chess/wallnau-chen-2013-02-19_files/diag3FA2B07F87383659.gif" title="White is lost" >}}
 
 The final position when White resigned:
 
-{% img /chess/wallnau-chen-2013-02-19_files/diag3FA2B0DA043489BC.gif Final position %}
+{{< figure src="/chess/wallnau-chen-2013-02-19_files/diag3FA2B0DA043489BC.gif" title="Final position" >}}
 
 ## Lessons learned from my game
 

@@ -16,15 +16,15 @@ categories:
 ---
 I'm temporarily using a walking stick right now, because of bad blisters I got on my right foot this morning. But I am very happy today, and it was a [Great](http://rungreatrace.com/) day in the 'Burgh.
 
-{% img /images/franklin-finishing-great-race-10k-2011.jpg Franklin finishing Great Race 10K (photo by Abby) %}
+{{< figure src="/images/franklin-finishing-great-race-10k-2011.jpg" title="Franklin finishing Great Race 10K (photo by Abby)" >}}
 
-{% img /images/great-race-2011-official/0020.jpg Franklin giving it all he has %}
+{{< figure src="/images/great-race-2011-official/0020.jpg" title="Franklin giving it all he has" >}}
 
-{% img /images/great-race-2011-official/0093.jpg Franklin crossing finish line %}
+{{< figure src="/images/great-race-2011-official/0093.jpg" title="Franklin crossing finish line" >}}
 
-{% img /images/great-race-2011-official/0094.jpg Franklin over finish line %}
+{{< figure src="/images/great-race-2011-official/0094.jpg" title="Franklin over finish line" >}}
 
-{% img /images/great-race-2011-official/0072.jpg Franklin stopping his watch %}
+{{< figure src="/images/great-race-2011-official/0072.jpg" title="Franklin stopping his watch" >}}
 
 <!--more-->
 
@@ -32,18 +32,18 @@ I have now run the Pittsburgh [Great Race](http://rungreatrace.com/) 10K nine ti
 
 But beyond that, today's race was special because Abby participated in it, for the first time. She did not run the 10K, but did run the 5K (and took the photo of me above nearing the finish line). She just started running in races with me this year, and I am very proud of her for getting into running! Having once been a non-runner, it gives me great pleasure to encourage others to take up this wonderful form of exercise.
 
-{% img /images/abby-before-great-race-5k-2011.jpg Abby in Oakland before Great Race 5K start %}
+{{< figure src="/images/abby-before-great-race-5k-2011.jpg" title="Abby in Oakland before Great Race 5K start" >}}
 
 Of course, right after catching my breath and finding Abby, my first instinct was to ask her, "Where are the [Smiley Cookies](http://www.eatnpark.com/smiley.asp)?" I limped over to pick one up, even as sweat was still dripping down my face, and eagerly gobbled it!
 
-{% img /images/franklin-great-race-2011-smiley-cookie.jpg Franklin with Smiley Cookie after race %}
+{{< figure src="/images/franklin-great-race-2011-smiley-cookie.jpg" title="Franklin with Smiley Cookie after race" >}}
 
 ## Tradition
 
 The Great Race is a wonderful Pittsburgh tradition. It is not only thrilling to be on the Boulevard of the Allies heading downtown getting a fine view of our city (although the uphill during mile 5 of the race is admittedly tough), but the sight of so many people participating in this event is heartwarming.
 
-{% img /images/great-race-2011-crowd.jpg %}
-{% img /images/great-race-2011-crowd-2.jpg %}
+{{< figure src="/images/great-race-2011-crowd.jpg" >}}
+{{< figure src="/images/great-race-2011-crowd-2.jpg" >}}
 
 ## My Great Race stats
 

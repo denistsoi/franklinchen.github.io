@@ -21,7 +21,7 @@ This year, I did something different.
 
 First of all, I learned that I had gotten his birthday "wrong" in the past two years! This year I decided to celebrate the actual birthday (in terms of passing of time) rather than his birth date (which was March 21 according to the old Julian calendar). A minor detail, but symbolic of my intention.
 
-{% img /images/bach-gardiner.jpg Bobblehead and Gardiner's book about J S Bach %}
+{{< figure src="/images/bach-gardiner.jpg" title="Bobblehead and Gardiner's book about J S Bach" >}}
 
 <!--more-->
 

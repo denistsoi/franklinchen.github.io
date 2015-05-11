@@ -9,7 +9,7 @@ categories:
 - Pittsburgh
 - PodCamp Pittsburgh
 ---
-{% img /images/liebster-award.png Liebster Blog Award %}
+{{< figure src="/images/liebster-award.png" title="Liebster Blog Award" >}}
 
 Recently, my neighbor gave me a Liebster Blog Award. This is actually my second one, but I had not yet claimed the first one, under the rules of acceptance of the award. I've had difficulty finding the origin of this award and the official documentation of the award, but from what I can tell, the rules are that I must give the award to five other bloggers who have fewer than 200 followers:
 

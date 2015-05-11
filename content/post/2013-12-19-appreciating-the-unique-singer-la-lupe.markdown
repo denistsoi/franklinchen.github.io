@@ -13,7 +13,7 @@ categories:
 - Spanish
 - Pedro Almodóvar
 ---
-{% img /images/la-lupe-cds.jpg La Lupe CDs %}
+{{< figure src="/images/la-lupe-cds.jpg" title="La Lupe CDs" >}}
 
 I recently listened to a great [program "La Lupe: queen of Latin soul"](http://www.npr.org/blogs/altlatino/2013/12/19/255282456/la-lupe-queen-of-latin-soul-the-original-alt-latina) about the black Cuban singer [La Lupe](http://en.wikipedia.org/wiki/La_Lupe), who died in 1992 (born in 1936) well before I was even aware of her existence.
 

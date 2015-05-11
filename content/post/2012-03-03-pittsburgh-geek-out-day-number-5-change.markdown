@@ -9,7 +9,7 @@ categories:
 - Open Spaces
 - Pittsburgh
 ---
-{% img http://lh6.googleusercontent.com/-CnVxxnybT44/T1ORwo74oOI/AAAAAAAAADk/9pWgPeeCN3k/s912/DSC_2585.jpg Pittsburgh Geek Out Day %}
+{{< figure src="http://lh6.googleusercontent.com/-CnVxxnybT44/T1ORwo74oOI/AAAAAAAAADk/9pWgPeeCN3k/s912/DSC_2585.jpg" title="Pittsburgh Geek Out Day" >}}
 
 Today was the fifth session held of [Pittsburgh Geek Out Day](http://www.pghgeekoutday.com/). We met this time at Vivisimo. The topic was "change".
 

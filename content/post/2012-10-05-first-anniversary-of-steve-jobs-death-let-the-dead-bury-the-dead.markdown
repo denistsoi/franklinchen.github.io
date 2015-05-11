@@ -7,7 +7,7 @@ external-url:
 categories: 
 - Steve Jobs
 ---
-{% img http://4.mshcdn.com/wp-content/gallery/steve-jobs-life-amp-times/jobs_1980s.jpg %}
+{{< figure src="http://4.mshcdn.com/wp-content/gallery/steve-jobs-life-amp-times/jobs_1980s.jpg" >}}
 
 A year ago I dashed off an [emotional blog post upon learning of the death of Steve Jobs](/blog/2011/10/05/i-cannot-imagine-my-life-without-the-influence-of-steve-jobs/).
 

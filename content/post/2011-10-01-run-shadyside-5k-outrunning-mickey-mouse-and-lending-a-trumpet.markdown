@@ -24,7 +24,7 @@ My alarm starts blaring at 6:30 AM on a cold, dark Saturday morning, and I'm tir
 
 Little do I know that today I will just manage to outrun Mickey Mouse, far exceed my race time goal, and lend someone my trumpet that has been lying around unused!
 
-{% img /images/franklin-and-mickey-mouse-eric.jpg Franklin and Eric after the race %}
+{{< figure src="/images/franklin-and-mickey-mouse-eric.jpg" title="Franklin and Eric after the race" >}}
 
 <!--more-->
 
@@ -44,7 +44,7 @@ The gun went off and the race played out for me as most largish races do: I took
 
 After a mile, things were mostly settled down. I noticed a guy ahead of me wearing a hat with Mickey Mouse ears.
 
-{% img /images/mickey-mouse-ears-hat-profile.jpg Mickey Mouse ears hat %}
+{{< figure src="/images/mickey-mouse-ears-hat-profile.jpg" title="Mickey Mouse ears hat" >}}
 
 Furthermore, the gap between the guy and me was ever so slowly increasing. I decided at that moment that with two miles to go, I was going to do what I could to beat this guy. This goal was going to be the single purpose of my life for the next 15 minutes (approximately).
 
@@ -70,17 +70,17 @@ On the way back from my car, I saw Mickey Mouse, but without the ears. He was wa
 
 I got back to the post-race party and happened to see a guy I know from lots of previous races in the past decade, Ron Romanoff, and had him take a photo of me:
 
-{% img /images/run-shadyside-2011-franklin.jpg Franklin after Run Shadyside 5K 2011 %}
+{{< figure src="/images/run-shadyside-2011-franklin.jpg" title="Franklin after Run Shadyside 5K 2011" >}}
 
 ## Bumping into Ben Paul
 
-{% img /images/run-shadyside-2011-festivities.jpg Festivities after Run Shadyside 5K 2011 %}
+{{< figure src="/images/run-shadyside-2011-festivities.jpg" title="Festivities after Run Shadyside 5K 2011" >}}
 
-{% img /images/run-shadyside-2011-pancakes.jpg Pancakes after Run Shadyside 5K 2011 %}
+{{< figure src="/images/run-shadyside-2011-pancakes.jpg" title="Pancakes after Run Shadyside 5K 2011" >}}
 
 I saw a sign for pancakes, and suddenly realized that I had totally forgotten about the post-race pancake breakfast. I put away the half-eaten bagel I was munching on and headed toward the pancakes, and whom did I see but [Ben Paul](http://blog.communiteach.com/post/10818529188).
 
-{% img /images/run-shadyside-2011-ben-paul.jpg Ben Paul with coffee after Run Shadyside 5K 2011 %}
+{{< figure src="/images/run-shadyside-2011-ben-paul.jpg" title="Ben Paul with coffee after Run Shadyside 5K 2011" >}}
 
 I had first met and talked with Ben at [PodCamp Pittsburgh](/blog/2011/09/22/starting-a-new-web-site/), although I had heard his name much earlier since he was one of the founders of [CommuniTeach](http://communiteach.com/). CommuniTeach is a really great concept, providing a way for people who want to learn stuff, or teach it, or both, to get together. Back in June, Abby and I had attended a CommuniTeach session on [fermentation](http://communiteach.com/learnitss.php?glid=151). We learned to make kefir and sauerkraut and experiment with various fermented veggie combinations involving radishes, carrots, zucchini, onion, fennel seeds, you name it. Since July (when our first batch was ready), we've been enjoying tasty fermented veggies to complement our meals.
 
@@ -96,7 +96,7 @@ We looked at the posted race results and Ben couldn't find himself listed. He wa
 
 Here's Ben with my trumpet. Enjoy playing it, Ben!
 
-{% img /images/ben-paul-with-franklins-trumpet.jpg Ben Paul with Franklin's trumpet %}
+{{< figure src="/images/ben-paul-with-franklins-trumpet.jpg" title="Ben Paul with Franklin's trumpet" >}}
 
 ## Rain
 

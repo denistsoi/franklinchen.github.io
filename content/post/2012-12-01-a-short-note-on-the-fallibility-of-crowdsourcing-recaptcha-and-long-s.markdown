@@ -9,11 +9,11 @@ categories:
 ---
 Periodically I encounter a [reCAPTCHA](http://en.wikipedia.org/wiki/ReCAPTCHA) whose answer is *obvious* to anyone who has read old texts in English, but is easily misread by anyone who has not. When I enter the *correct*, intended word, my answer is always rejected as incorrect. This suggests that most people believe the wrong answer. So this is just one example of how [crowdsourcing](http://en.wikipedia.org/wiki/Crowdsourcing) can easily fail.
 
-{% img /images/recaptcha-s-f.png reCAPTCHA with long s %}
+{{< figure src="/images/recaptcha-s-f.png" title="reCAPTCHA with long s" >}}
 
 The letter in the word that looks like an "f" in "Composition" is in fact an "s". It is not a typo. It is a [long s](http://en.wikipedia.org/wiki/Long_s).
 
-{% img http://upload.wikimedia.org/wikipedia/commons/b/b8/Milton_paradise.jpg Paradise Lost %}
+{{< figure src="http://upload.wikimedia.org/wikipedia/commons/b/b8/Milton_paradise.jpg" title="Paradise Lost" >}}
 
 ## Language evolution
 

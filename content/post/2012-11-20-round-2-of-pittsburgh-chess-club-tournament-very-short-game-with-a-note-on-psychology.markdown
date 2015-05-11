@@ -10,7 +10,7 @@ categories:
 - Pittsburgh Chess Club
 - Grünfeld Defense
 ---
-{% img /chess/chen-prokhov-2012-11-20_files/round2.jpg Round 2 in progress %}
+{{< figure src="/chess/chen-prokhov-2012-11-20_files/round2.jpg" title="Round 2 in progress" >}}
 
 After the [complex game in round 1](/blog/2012/11/13/round-1-of-pittsburgh-chess-club-tournament-revenge-of-the-knight/), I was hoping for another interesting fight in round 2, in which I played White.
 
@@ -78,7 +78,7 @@ Given that I suspected he did not play this opening often, I simply chose to pla
 
 He clearly did not know how to continue properly, and simply fell apart, making poor moves until he lost a piece, after which he should have resigned, but did not:
 
-{% img /chess/chen-prokhov-2012-11-20_files/diag3FEBA8FB8FA7808B.gif Black is totally lost %}
+{{< figure src="/chess/chen-prokhov-2012-11-20_files/diag3FEBA8FB8FA7808B.gif" title="Black is totally lost" >}}
 
 ## Lessons
 

@@ -11,7 +11,7 @@ categories:
 ---
 Today, Abby forwarded me an email she just got about a tribute to [Esther Allen](http://www.alleghenyfront.org/story.html?storyid=200907171046080.244858), to be held this Thursday (December 1) at the [Wissahickon Nature Club](http://web.me.com/babyowl/Wissahickon/Home.html). Esther died in June at the age of 93. I only met her once: back in April, Abby and I went on a [Raccoon Creek State Park](http://www.dcnr.state.pa.us/stateparks/findapark/raccooncreek/) wildflower walk on a beautifully clear spring day. But even just being around her for a couple of hours, I found her an inspiration!
 
-{% img /images/raccoon-creek-wildflower-walk/esther-allen-trillium.jpg Esther Allen examining trillium %}
+{{< figure src="/images/raccoon-creek-wildflower-walk/esther-allen-trillium.jpg" title="Esther Allen examining trillium" >}}
 
 I didn't even know who she was that April morning. I looked her up the day after the walk. What was special about her?
 
@@ -23,13 +23,13 @@ When Abby and I showed up for the wildflower walk, it turned out that there were
 
 Then it became clear that our group was going very slowly, following an old woman (whose age was not obvious to me). We stopped frequently while she pointed out and identified wildflowers and often told stories about the first time she had seen something. What struck me about Esther was how *curious* and *excited* she was about everything we saw, treating everything as a unique individual specimen rather than "oh, that's an X".  In the photo at the top of this blog post, she spent quite a bit of time puzzling over the trillium we saw, and wondering whether it was a hybrid, because of its strange color.
 
-{% img /images/raccoon-creek-wildflower-walk/esther-allen-shafer-rock.jpg Esther Allen on trail %}
+{{< figure src="/images/raccoon-creek-wildflower-walk/esther-allen-shafer-rock.jpg" title="Esther Allen on trail" >}}
 
 We saw quite a few wildflowers, as well as interesting fungi.
 
 Here's a cute closeup of a phlox I saw:
 
-{% img /images/raccoon-creek-wildflower-walk/phlox.jpg Closeup of phlox %}
+{{< figure src="/images/raccoon-creek-wildflower-walk/phlox.jpg" title="Closeup of phlox" >}}
 
 ## More on Esther
 

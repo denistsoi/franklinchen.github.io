@@ -13,7 +13,7 @@ categories:
 - restaurants
 - Coriander India Grill
 ---
-{% img /images/coriander-grill/store-front.jpg Coriander Grill %}
+{{< figure src="/images/coriander-grill/store-front.jpg" title="Coriander Grill" >}}
 
 Yesterday, there was snow in Pittsburgh (almost all melted today, of course).
 
@@ -21,7 +21,7 @@ Abby and I had originally planned to be going on a [Meetup hike at Ohiopyle](htt
 
 Snow, however little there is of it, always makes me want to eat [sambar](http://en.wikipedia.org/wiki/Sambar_\(dish\)). I love Indian food, and for some reason, I especially like sambar. Once every month or two, I crave going to [Coriander India Grill](http://www.coriandergrill.com/) in Squirrel Hill, just a couple of blocks from where we live, to eat sambar and other good stuff. We've been to Coriander Grill several times, on different days and for lunch and dinner. There has been inconsistency, but I have reason to believe that lunch buffet on Saturday is a good time to go to Coriander.
 
-{% img /images/coriander-grill/sambar.jpg Sambar %}
+{{< figure src="/images/coriander-grill/sambar.jpg" title="Sambar" >}}
 
 So the three of us went to Coriander for lunch.
 
@@ -75,10 +75,10 @@ At an Indian buffet, I'm not really going to eat paleo-style. However, I'll try 
 
 The lunch buffet offers two soups, a good selection of hot foods (including both meat/poultry/fish and vegetarian selections), and a cold section of salad, fruit, dessert.
 
-{% img /images/coriander-grill/two-soups.jpg Two soups provided %}
-{% img /images/coriander-grill/buffet-left.jpg Left side of warm buffet %}
-{% img /images/coriander-grill/buffet-right.jpg Right side of warm buffet %}
-{% img /images/coriander-grill/buffet-cold.jpg Cold buffet %}
+{{< figure src="/images/coriander-grill/two-soups.jpg" title="Two soups provided" >}}
+{{< figure src="/images/coriander-grill/buffet-left.jpg" title="Left side of warm buffet" >}}
+{{< figure src="/images/coriander-grill/buffet-right.jpg" title="Right side of warm buffet" >}}
+{{< figure src="/images/coriander-grill/buffet-cold.jpg" title="Cold buffet" >}}
 
 ## What I ate
 
@@ -88,19 +88,19 @@ The first round (which I forgot to take a photo of), I ate a plate of hot food (
 
 For round 2, I had a bit of creamy chicken, vegetable korma, chickpeas, lentil dal, and more of the cauliflower/potatoes (I love that stuff). I am not a fan of creamy chicken or korma, but I always try a little bit of it because it's there. I do very much like chickpeas and dal.
 
-{% img /images/coriander-grill/round-2.jpg Round 2 %}
+{{< figure src="/images/coriander-grill/round-2.jpg" title="Round 2" >}}
 
 For round 3, I got more chickpeas, more dal, more spinach, more cauliflower/potatoes, my last veggie fritter, and a Tandoori-style chicken leg.
 
-{% img /images/coriander-grill/round-3.jpg Round 3 %}
+{{< figure src="/images/coriander-grill/round-3.jpg" title="Round 3" >}}
 
 For round 4, I got more Indian-Chinese chicken, more spinach, more chickpeas, more cauliflower/potatoes, and another cup of sambar! Halfway through this plate, I knew I was basically done eating.
 
-{% img /images/coriander-grill/round-4.jpg Round 4 %}
+{{< figure src="/images/coriander-grill/round-4.jpg" title="Round 4" >}}
 
 For my final round, I got a bit of salad (tomato, cucumber, lettuce, pickle, with some chutney), and a bit of cantaloupe and honeydew, and a wedge of lime. I like sucking lemon or lime at the end of a meal.
 
-{% img /images/coriander-grill/round-5.jpg Round 5 %}
+{{< figure src="/images/coriander-grill/round-5.jpg" title="Round 5" >}}
 
 That was a lot of food! That was even more food than I normally eat at a buffet.
 

@@ -17,7 +17,7 @@ categories:
 - Floating Echo
 - Pittsburgh
 ---
-{% img /images/eddie-palmieri-2013-06-08/stage.jpg Music stage %}
+{{< figure src="/images/eddie-palmieri-2013-06-08/stage.jpg" title="Music stage" >}}
 
 Abby and I went downtown in Pittsburgh to check out the great Eddie Palmieri and his salsa orchestra, one of the main attractions of [this year's Pittsburgh JazzLive International Festival](http://pressroom.trustarts.org/2013/04/02/pittsburgh-jazzlive-international-festival-2013-artist-biographies/). Although I have a number of Eddie Palmieri's music recordings, this was the first time I saw him live.
 
@@ -43,7 +43,7 @@ I admit to being slightly disappointed (but not surprised at all) that Palmieri 
 
 ## Crowded
 
-{% img /images/eddie-palmieri-2013-06-08/stage2.jpg Music stage %}
+{{< figure src="/images/eddie-palmieri-2013-06-08/stage2.jpg" title="Music stage" >}}
 
 Because it got more and more crowded, and also the music was rather loud anywhere near the stage, at some point we left the designated dancing section and exited. We continued dancing for a bit on a side street off Penn Ave. Eventually we had enough and decided to wander off to Point State Park for a cool-down walk and to check out other acts for the Three Rivers Arts Festival (which the jazz portion is a subset of).
 
@@ -51,11 +51,11 @@ Because it got more and more crowded, and also the music was rather loud anywher
 
 The fountain:
 
-{% img /images/eddie-palmieri-2013-06-08/fountain.jpg %}
+{{< figure src="/images/eddie-palmieri-2013-06-08/fountain.jpg" >}}
 
 A curiosity that we saw at the bridge to Point State Park was ["Floating Echo"](http://changjinlee.net/floating_echo/index.html), a translucent floating Buddha as public art:
 
-{% img /images/eddie-palmieri-2013-06-08/buddha.jpg %}
+{{< figure src="/images/eddie-palmieri-2013-06-08/buddha.jpg" >}}
 
 ## Conclusion
 

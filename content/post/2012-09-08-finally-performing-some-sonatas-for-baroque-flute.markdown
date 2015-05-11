@@ -8,7 +8,7 @@ categories:
 - music
 - Baroque flute
 ---
-{% img http://www.boosey.com/imagesw/shop/product/$wm1_0x700_$_ED_12861-English_Airs_cov.jpg English Airs and Dances %}
+{{< figure src="http://www.boosey.com/imagesw/shop/product/$wm1_0x700_$_ED_12861-English_Airs_cov.jpg" title="English Airs and Dances" >}}
 
 Abby and I went to another party at Henry's, the first one we've been to [in five months](/blog/2012/03/30/a-delayed-st-patricks-day-party-playing-tin-whistle-and-alto-recorder/). He's had other parties, but we've been very busy all spring and summer.
 

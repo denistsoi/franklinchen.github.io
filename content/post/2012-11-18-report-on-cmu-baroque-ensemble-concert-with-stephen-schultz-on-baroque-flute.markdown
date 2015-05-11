@@ -19,7 +19,7 @@ I attended a free concert of the CMU Baroque Ensemble concert for the second tim
 
 What I really looked forward to was simply seeing Stephen Schultz playing Baroque flute (amplified), premiering a new piece by [Nancy Galbraith](http://www.nancygalbraith.com/), "Effervescent Air". I had never seen him playing Baroque flute before, other than a demo of a few seconds when I was taking his course "Survey of Western Musical History" in 2006. That was actually the very first time I had ever seen a Baroque flute, and the first time I learned that anyone still played this instrument.
 
-{% img /images/cmu-baroque-2012-11-18.jpg Stephen Schulz %}
+{{< figure src="/images/cmu-baroque-2012-11-18.jpg" title="Stephen Schulz" >}}
 
 I enjoyed the concert. The standard Baroque pieces were performed with energy, and the newly composed piece for electric, amplified Baroque flute and piano, with orchestra, was a pleasant, fluttery soundscape, with some lovely textures as well as special echo effects.
 

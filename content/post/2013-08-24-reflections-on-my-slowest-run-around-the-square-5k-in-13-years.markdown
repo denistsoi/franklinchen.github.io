@@ -34,7 +34,7 @@ This year, I went into the 5K race so untrained (two weeks of slowly ramping up 
 
 I decided that this was the race in which I debut my new orange running singlet, to replace my over-decade use of a blue singlet that Abby has gotten very annoyed with:
 
-{% img /images/run-around-the-square-2013/franklin-orange.jpg Franklin wearing orange singlet %}
+{{< figure src="/images/run-around-the-square-2013/franklin-orange.jpg" title="Franklin wearing orange singlet" >}}
 
 Also, note that since I bought a SPIbelt earlier this year, I now always run races wearing a SPIbelt to carry my phone. This is particularly convenient when running a race where you have to park far from the start line and want access to your phone after a race.
 
@@ -42,13 +42,13 @@ I wore my Vibram FiveFingers KSO Trek shoes again. Since last year's fiasco in w
 
 Hanging out before the race start in Regent Square:
 
-{% img /images/run-around-the-square-2013/before.jpg Before start %}
+{{< figure src="/images/run-around-the-square-2013/before.jpg" title="Before start" >}}
 
-{% img /images/run-around-the-square-2013/franklin-ready.jpg Franklin ready %}
+{{< figure src="/images/run-around-the-square-2013/franklin-ready.jpg" title="Franklin ready" >}}
 
 Start line just a few minutes before race start:
 
-{% img /images/run-around-the-square-2013/start-line.jpg Start line %}
+{{< figure src="/images/run-around-the-square-2013/start-line.jpg" title="Start line" >}}
 
 ## The race
 
@@ -88,11 +88,11 @@ So I finished in 25:38, just a bit longer than a minute over last year's 24:35.6
 
 Although I was not pukey, I was certainly breathing hard when I finished.
 
-{% img /images/run-around-the-square-2013/franklin-after.jpg Franklin after the race %}
+{{< figure src="/images/run-around-the-square-2013/franklin-after.jpg" title="Franklin after the race" >}}
 
 I went off to drink water and start eating some food.
 
-{% img /images/run-around-the-square-2013/view.jpg View %}
+{{< figure src="/images/run-around-the-square-2013/view.jpg" title="View" >}}
 
 ## Improvement
 
@@ -102,25 +102,25 @@ Then I went back to the finish line to wait for Abby to finish. I saw Todd and h
 
 Abby finished. She was out of breath and pukey, but I was proud of her for finishing. Because of the tremendous decline in health and fitness she has experienced this year, I was not sure she would actually finish the race.
 
-{% img /images/run-around-the-square-2013/abby-finish.jpg Abby finishing %}
+{{< figure src="/images/run-around-the-square-2013/abby-finish.jpg" title="Abby finishing" >}}
 
 ## More food and refreshments
 
 We lined up to sample more food and recovered. It was a beautiful day to be outside.
 
-{% img /images/run-around-the-square-2013/abby-recovered.jpg %}
+{{< figure src="/images/run-around-the-square-2013/abby-recovered.jpg" >}}
 
-{% img /images/run-around-the-square-2013/franklin-recovered.jpg %}
+{{< figure src="/images/run-around-the-square-2013/franklin-recovered.jpg" >}}
 
 The hot dogs and beer line was particularly long, but we finally reached the tables.
 
-{% img /images/run-around-the-square-2013/hot-dogs-beer.jpg Hot dogs and beer %}
+{{< figure src="/images/run-around-the-square-2013/hot-dogs-beer.jpg" title="Hot dogs and beer" >}}
 
 ## Walking out of Frick Park back to the car
 
 I couldn't help taking a photo of the sign for beer and champagne that was still up on the trail entrance as we passed by:
 
-{% img /images/run-around-the-square-2013/beer-champagne.jpg Dunning's beer and champagne stop %}
+{{< figure src="/images/run-around-the-square-2013/beer-champagne.jpg" title="Dunning's beer and champagne stop" >}}
 
 ## Concern about Abby
 

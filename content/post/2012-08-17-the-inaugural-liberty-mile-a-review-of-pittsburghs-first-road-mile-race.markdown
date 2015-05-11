@@ -19,7 +19,7 @@ categories:
 - Carnegie Mellon University
 - Vonda Wright
 ---
-{% img /images/liberty-mile-2012.jpg Franklin's race number and Bikila LS shoes %}
+{{< figure src="/images/liberty-mile-2012.jpg" title="Franklin's race number and Bikila LS shoes" >}}
 
 Tonight I was really excited to race in, and also watch, the inaugural [GNC Live Well Liberty Mile](http://www.libertymile.org/), a road race that runs along Liberty Avenue in Pittsburgh, starting from the Strip District and ending downtown.
 
@@ -52,7 +52,7 @@ I hoped to finish somewhere near 6:30.
 
 ## Dr. Vonda Wright
 
-{% img http://vondawright.com/images/stories/vonda-at-work.png Vonda Wright %}
+{{< figure src="http://vondawright.com/images/stories/vonda-at-work.png" title="Vonda Wright" >}}
 
 I bumped into [Dr. Vonda Wright](http://vondawright.com/) while heading toward the start line, and thanked her for her support of those of us who care about maintaining our health as we get older. I want to plug her great work in promoting lifetime fitness, especially for those over 40. She has written a book ["Fitness After 40"](http://vondawright.com/index.php?option=com_content&view=article&id=62&Itemid=83) which is pretty good and has a lot of scientifically-backed tips on remaining strong and vital and even reversing what used to be considered "normal aging".
 

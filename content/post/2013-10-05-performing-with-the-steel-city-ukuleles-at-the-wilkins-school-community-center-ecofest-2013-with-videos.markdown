@@ -11,9 +11,9 @@ categories:
 - Regent Square
 - singing
 ---
-{% img /images/ecofest-2013.png Ecofest 2013 poster %}
+{{< figure src="/images/ecofest-2013.png" title="Ecofest 2013 poster" >}}
 
-{% img /images/ecofest-2013/steel-city-ukuleles-banner.jpg %}
+{{< figure src="/images/ecofest-2013/steel-city-ukuleles-banner.jpg" >}}
 
 It was a beautiful day outside at the Wilkins School Community Center Ecofest in Regent Square: warm and sunny, and *dry*. It had been raining, and was even drizzling rain in the morning just before we performed at around 11:15 AM for an hour.
 
@@ -79,19 +79,19 @@ I packed up right after we were done performing, because I could only stay aroun
 
 But others of us hung around to do more jamming:
 
-{% img /images/ecofest-2013/after-jamming.jpg %}
+{{< figure src="/images/ecofest-2013/after-jamming.jpg" >}}
 
 A view of Ecofest from front:
 
-{% img /images/ecofest-2013/front.jpg %}
+{{< figure src="/images/ecofest-2013/front.jpg" >}}
 
 Panoramic view of Ecofest from the back dining area outside:
 
-{% img /images/ecofest-2013/panorama.jpg %}
+{{< figure src="/images/ecofest-2013/panorama.jpg" >}}
 
 Some vendors and information booths:
 
-{% img /images/ecofest-2013/sample.jpg %}
+{{< figure src="/images/ecofest-2013/sample.jpg" >}}
 
 ## Reflections on our performance
 

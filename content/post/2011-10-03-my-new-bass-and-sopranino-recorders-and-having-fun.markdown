@@ -15,7 +15,7 @@ However, a friend of mine has been wondering whether I am too competitive or dri
 
 First, some eye candy: today I finally got the new bass recorder that I ordered last week:
 
-{% img /images/brand-new-yamaha-bass-recorder.jpg Franklin's brand new Yamaha bass recorder %}
+{{< figure src="/images/brand-new-yamaha-bass-recorder.jpg" title="Franklin's brand new Yamaha bass recorder" >}}
 
 <!--more-->
 

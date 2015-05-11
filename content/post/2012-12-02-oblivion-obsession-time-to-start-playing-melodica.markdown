@@ -22,7 +22,7 @@ categories:
 ---
 I have been obsessed for some time with Piazzolla's beautiful tango piece ["Oblivion"](http://www.astor-piazzolla.org/astor-piazzolla-oblivion/). I was planning to perform it some time on flute, but today, by accident, I decided that I want to play it on my [melodica](http://www.grothmusic.com/p-4654-hohner-s32-student-32-key-melodica.aspx) instead!
 
-{% img /images/hohner-student-32-melodica.jpg Hohner Student 32 Melodica %}
+{{< figure src="/images/hohner-student-32-melodica.jpg" title="Hohner Student 32 Melodica" >}}
 
 <!--more-->
 

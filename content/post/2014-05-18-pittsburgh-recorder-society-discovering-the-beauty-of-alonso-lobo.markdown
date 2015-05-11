@@ -15,7 +15,7 @@ categories:
 ---
 We had another great turnout for the monthly meeting of the Pittsburgh Recorder Society. We got another new member, Joanna. I counted fifteen of us, total.
 
-{% img /images/pittsburgh-recorder-society-2014-05-18/group.jpg %}
+{{< figure src="/images/pittsburgh-recorder-society-2014-05-18/group.jpg" >}}
 
 Today, the highlight for me was discovering some music I don't remember encountering before, by [Alonso Lobo](http://en.wikipedia.org/wiki/Alonso_Lobo), who lived roughly 1555-1617. Fred passed out parts for his "Versa est in luctum", a sacred motet for voice (which we are playing as a recorder ensemble instead).
 
@@ -51,15 +51,15 @@ For reference, here is a fine performance by the Gabrieli Consort I discovered:
 
 Fred brought in a little boombox so we could hear the recording he had made earlier of us playing [two months ago](/blog/2014/03/16/pittsburgh-recorder-society-something-new-recently-recording-our-practice-sessions/). We didn't sound terrible, actually!
 
-{% img /images/pittsburgh-recorder-society-2014-05-18/recording.jpg %}
+{{< figure src="/images/pittsburgh-recorder-society-2014-05-18/recording.jpg" >}}
 
 ## Snacks
 
 I ate three cookies.
 
-{% img /images/pittsburgh-recorder-society-2014-05-18/cookie1.jpg %}
-{% img /images/pittsburgh-recorder-society-2014-05-18/cookie2.jpg %}
-{% img /images/pittsburgh-recorder-society-2014-05-18/cookie3.jpg %}
+{{< figure src="/images/pittsburgh-recorder-society-2014-05-18/cookie1.jpg" >}}
+{{< figure src="/images/pittsburgh-recorder-society-2014-05-18/cookie2.jpg" >}}
+{{< figure src="/images/pittsburgh-recorder-society-2014-05-18/cookie3.jpg" >}}
 
 In retrospect, I should not have eaten three cookies. Maybe two, or maybe one. I know, I made this observation [last month](/blog/2014/04/27/pittsburgh-recorder-society-palestrina-gombert-and-dolly-parton-cookies/). This time, I'm serious. Next meeting, I will eat no more than *two* cookies.
 

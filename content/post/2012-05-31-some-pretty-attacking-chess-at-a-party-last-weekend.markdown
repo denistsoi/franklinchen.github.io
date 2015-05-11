@@ -14,7 +14,7 @@ As people started arriving in the afternoon, I noticed a boy who was wearing a T
 
 ## How to play chess with a stranger at a party
 
-{% img /chess/giorgio_files/benjamin-benoni.jpg Me playing a Benoni against Benjamin while holding Jack %}
+{{< figure src="/chess/giorgio_files/benjamin-benoni.jpg" title="Me playing a Benoni against Benjamin while holding Jack" >}}
 
 There are actually some subtle considerations in playing chess at a party with someone I've never met before. Here are a few:
 
@@ -48,9 +48,9 @@ Then the boys called for their father to play me. They said he was really good o
 
 It was definitely intense. I started out in the opening as though I were playing someone of equal or higher strength than me in a serious tournament setting. When Giorgio weakened his King side, I went on an attack, sacrificing a Pawn and throwing all my pieces at his King:
 
-{% img /chess/giorgio_files/giorgio-deep-in-thought.jpg Giorgio deep in thought after Ba3 %}
+{{< figure src="/chess/giorgio_files/giorgio-deep-in-thought.jpg" title="Giorgio deep in thought after Ba3" >}}
 
-{% img /chess/giorgio_files/giorgio-side-view.jpg Giorgio and Franklin thinking %}
+{{< figure src="/chess/giorgio_files/giorgio-side-view.jpg" title="Giorgio and Franklin thinking" >}}
 
 I ended up winning the game with some pretty tactical ideas throughout. I was proud of having taken part in the most interesting chess game I have ever played at a party, and proud of having won through calculating my attack correctly and well.
 

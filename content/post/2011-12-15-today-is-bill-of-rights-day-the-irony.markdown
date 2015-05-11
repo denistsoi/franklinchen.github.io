@@ -8,7 +8,7 @@ categories:
 - US Constitution
 - SOPA
 ---
-{% img /images/us-constitution-at-cmu.jpg Actual copy of the US Constitution at Carnegie Mellon University %}
+{{< figure src="/images/us-constitution-at-cmu.jpg" title="Actual copy of the US Constitution at Carnegie Mellon University" >}}
 
 Today, in the United States, is December 15, [Bill of Rights](http://en.wikipedia.org/wiki/United_States_Bill_of_Rights) Day, the day in 1791 when the new nation of the United States amended its Constitution by adding the "bill of rights" in order to address the concerns of those who feared that the Constitution as proposed without the amendments did not sufficiently protect Americans' rights.
 

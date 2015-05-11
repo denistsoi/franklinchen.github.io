@@ -27,17 +27,17 @@ I never expected just how much I would give this year.
 
 I walked over from my office across Flagstaff Hill to Schenley Park.
 
-{% img /images/pretty-good-race-2013/flagstaff-hill.jpg Flagstaff Hill %}
+{{< figure src="/images/pretty-good-race-2013/flagstaff-hill.jpg" title="Flagstaff Hill" >}}
 
 For some reason, Abby decided to use our dinky Razor kick scooter to come in from home for the race. Unfortunately, she showed up before the race with a bloody hand and knee, having had a nasty fall while using the scooter on the way to Schenley Park. Oops. She's been tired a lot lately (I previously mentioned her dangerous [decline in fitness all year](/blog/2013/08/24/reflections-on-my-slowest-run-around-the-square-5k-in-13-years/)) and was regretting signing up to do the Pretty Good Race with me.
 
 She tried to be a good sport despite the accident coming in.
 
-{% img /images/pretty-good-race-2013/abby-before.jpg Abby before race %}
+{{< figure src="/images/pretty-good-race-2013/abby-before.jpg" title="Abby before race" >}}
 
 Here I am in orange:
 
-{% img /images/pretty-good-race-2013/franklin-before.jpg Franklin before race %}
+{{< figure src="/images/pretty-good-race-2013/franklin-before.jpg" title="Franklin before race" >}}
 
 ## Weather conditions
 
@@ -63,10 +63,10 @@ I heard people asking me, "Was it worth it?" I didn't know how to answer that. I
 
 This wasn't the worst falling injury I've had in my life, but it's probably my worst since a fall off a bike (also spinning off loose gravel) twenty years ago.
 
-{% img /images/pretty-good-race-2013/left-palm.jpg Left palm %}
-{% img /images/pretty-good-race-2013/left-thigh.jpg Left thigh %}
-{% img /images/pretty-good-race-2013/right-knee.jpg Right knee %}
-{% img /images/pretty-good-race-2013/left-arm.jpg Left arm %}
+{{< figure src="/images/pretty-good-race-2013/left-palm.jpg" title="Left palm" >}}
+{{< figure src="/images/pretty-good-race-2013/left-thigh.jpg" title="Left thigh" >}}
+{{< figure src="/images/pretty-good-race-2013/right-knee.jpg" title="Right knee" >}}
+{{< figure src="/images/pretty-good-race-2013/left-arm.jpg" title="Left arm" >}}
 
 Abby returned, and had to explain to the volunteers that she wasn't just finishing, but had dropped out earlier. While I was trying to clean myself up some, she said that she had fallen early on during the race and decided that that was enough and she wasn't going to finish the race. So this is her first Did Not Finish (DNF) in a race.
 

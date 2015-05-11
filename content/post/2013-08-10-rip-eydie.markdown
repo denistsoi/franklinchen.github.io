@@ -19,7 +19,7 @@ I actually knew very little about her until reading about her death.
 
 But she made a huge difference in my life!
 
-{% img http://upload.wikimedia.org/wikipedia/commons/c/ca/Eydie_Gorme.jpg Eydie Gormé %}
+{{< figure src="http://upload.wikimedia.org/wikipedia/commons/c/ca/Eydie_Gorme.jpg" title="Eydie Gormé" >}}
 
 <!--more-->
 

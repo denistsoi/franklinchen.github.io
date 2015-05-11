@@ -24,14 +24,14 @@ After going home I found a trumpet ensemble performance of the Gabrieli online:
 
 People brought in snacks to share, as usual, for break time.
 
-{% img /images/recorder-2014-02-16/snacks.jpg %}
+{{< figure src="/images/recorder-2014-02-16/snacks.jpg" >}}
 
 Helen made super-tasty-looking "cookies" (I asked if they counted as cookies, and she said yes). Coconut plus coconut plus homemade equals *difficult to resist*!!
 
 According to [my new rule](/blog/2014/01/16/a-system-for-quitting-eating-cookies/), here are the three cookies I ate.
 
-{% img /images/recorder-2014-02-16/cookie1.jpg My first cookie %}
-{% img /images/recorder-2014-02-16/cookie2.jpg My second cookie %}
-{% img /images/recorder-2014-02-16/cookie3.jpg My third cookie %}
+{{< figure src="/images/recorder-2014-02-16/cookie1.jpg" title="My first cookie" >}}
+{{< figure src="/images/recorder-2014-02-16/cookie2.jpg" title="My second cookie" >}}
+{{< figure src="/images/recorder-2014-02-16/cookie3.jpg" title="My third cookie" >}}
 
 I stopped at three, which was a good thing, because after I went home, I did feel a little bloated. I should really have eaten only two, I think. I did take one home for Abby to enjoy.

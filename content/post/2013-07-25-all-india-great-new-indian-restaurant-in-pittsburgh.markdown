@@ -24,4 +24,4 @@ I took Abby there for a dinner date tonight. Unfortunately, I accidentally crack
 
 My first plate, which I finished:
 
-{% img /images/all-india.jpg All India %}
+{{< figure src="/images/all-india.jpg" title="All India" >}}

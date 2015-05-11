@@ -20,7 +20,7 @@ Unfortunately, there was something of a schedule conflict, because I was also lo
 
 I felt bad about leaving early, when everyone was so excited about the projects they were working on for the evening. There was even a [3d printer](http://en.wikipedia.org/wiki/3D_printing) in action!
 
-{% img http://openhack.github.io/pittsburgh/images/2013-01/whit-coin-counter.jpg Chad and the coin counter %}
+{{< figure src="http://openhack.github.io/pittsburgh/images/2013-01/whit-coin-counter.jpg" title="Chad and the coin counter" >}}
 
 Because I knew I was leaving early, I spent the time there just continuing to learn more Scala on my own.
 

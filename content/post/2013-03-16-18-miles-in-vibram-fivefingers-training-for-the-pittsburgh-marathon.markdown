@@ -15,7 +15,7 @@ categories:
 - St. Patrick's Day
 - SPIbelt
 ---
-{% img /images/18-miles/st-patricks-day-parade-prep.jpg Pittsburgh St. Patrick's Day preparation %}
+{{< figure src="/images/18-miles/st-patricks-day-parade-prep.jpg" title="Pittsburgh St. Patrick's Day preparation" >}}
 
 My second [Saturday group training run with the Steel City Runners](http://www.steelcityrrc.org/scrrcevents?eventId=619953&EventViewMode=2&CalendarViewType=1&SelectedDate=3/30/2013) happened to be on St. Patrick's Day weekend, and therefore took place just before the [Pittsburgh St. Patrick's Day parade](http://www.pittsburghirish.org/parade/), which starts at 10 AM.
 
@@ -43,7 +43,7 @@ I had watched the forecast all week with concern that it might be pouring rain, 
 
 It turned out that we lucked out; although it was cold, there was drizzling rain but no downpour!
 
-{% img /images/18-miles/start.jpg Start of run %}
+{{< figure src="/images/18-miles/start.jpg" title="Start of run" >}}
 
 ## The route
 
@@ -61,7 +61,7 @@ Immediately and throughout the run, I saw people in green who were a little loud
 
 We ended up running on Liberty Avenue through the setup for St. Patrick's Day parade downtown (which begins at 10 AM). We got some cheers (many of us were wearing green) as well as some jeers. It was a strange experience, and I felt a bit embarrassed to be running through parade preparation.
 
-{% img /images/18-miles/st-patricks-day-parade-prep.jpg Pittsburgh St. Patrick's Day preparation %}
+{{< figure src="/images/18-miles/st-patricks-day-parade-prep.jpg" title="Pittsburgh St. Patrick's Day preparation" >}}
 
 ### First water stop
 
@@ -87,7 +87,7 @@ I did find two other people who were willing to go at a faster pace along with m
 
 The three of us crossed the Birmingham Bridge together to the South Side. I remarked that the last time I did the Pittsburgh Marathon ten years ago, I was humbled by the uphill going *into* Oakland (in the other direction) on the bridge.
 
-{% img /images/18-miles/birmingham-bridge.jpg Birmingham Bridge to South Side %}
+{{< figure src="/images/18-miles/birmingham-bridge.jpg" title="Birmingham Bridge to South Side" >}}
 
 ### South Side and falling behind
 
@@ -121,9 +121,9 @@ I made it back OK. I grabbed two energy bars and went inside to get warm and str
 
 Although my feet are sore, everything seems to be OK.
 
-{% img /images/18-miles/feet.jpg Franklin's feet %}
-{% img /images/18-miles/shoes.jpg Vibram FiveFingers Bikila LS shoes %}
-{% img /images/18-miles/soles.jpg Franklin's soles of feet %}
+{{< figure src="/images/18-miles/feet.jpg" title="Franklin's feet" >}}
+{{< figure src="/images/18-miles/shoes.jpg" title="Vibram FiveFingers Bikila LS shoes" >}}
+{{< figure src="/images/18-miles/soles.jpg" title="Franklin's soles of feet" >}}
 
 ## Photos
 

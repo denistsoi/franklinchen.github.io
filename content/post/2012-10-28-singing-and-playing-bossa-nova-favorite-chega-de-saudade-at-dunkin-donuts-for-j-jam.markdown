@@ -17,7 +17,7 @@ categories:
 - Squirrel Hill
 - Pittsburgh
 ---
-{% img /images/j-jam-2012-10-28/5.jpg CMU Klezmer Band performing %}
+{{< figure src="/images/j-jam-2012-10-28/5.jpg" title="CMU Klezmer Band performing" >}}
 
 Yesterday evening, I ended up unexpectedly [singing alone in public for the first time in my life](/blog/2012/10/27/singing-an-irish-ballad-as-an-asian-pirate-at-a-halloween-belly-dance-hafla/).
 
@@ -59,11 +59,11 @@ Dunkin' Donuts was amazingly crowded. There were people of all ages, from toddle
 
 Since we had arrived an hour and a half past the begin time of the music jam, we had missed no shortage of performances already, I was sure. There were musicians singing and playing guitar and cello; I saw who I presumed to be Ben Rosner accompanying on mandolin at the time:
 
-{% img /images/j-jam-2012-10-28/1.jpg Musicians in the middle of performing %}
+{{< figure src="/images/j-jam-2012-10-28/1.jpg" title="Musicians in the middle of performing" >}}
 
 ### Meeting Ben and deciding what to do
 
-{% img /images/j-jam-2012-10-28/2.jpg Patrons in Dunkin' Donuts %}
+{{< figure src="/images/j-jam-2012-10-28/2.jpg" title="Patrons in Dunkin' Donuts" >}}
 
 After the current musicians' set, Ben came up to Abby and me, and said we could play after a couple more groups had their turn. He asked what I wanted to play. We took a few seconds to flip through that stuff I had brought, and decided to play one of the bossa nova songs I had brought, "Chega de Saudade": he would sight read the chords and accompany me. I chose "Chega de Saudade" because I had given a shot at it spontaneously [at a party a month ago](/blog/2012/09/21/my-first-time-singing-bossa-nova-also-a-temporary-farewell-to-baroque-flute/).
 
@@ -73,17 +73,17 @@ I immediately made an interesting decision: although I had originally intended t
 
 I was really impressed by the soulful performances of everyone who showed up to sing and play instruments. Really high quality stuff.
 
-{% img /images/j-jam-2012-10-28/3.jpg I-forgot-her-name %}
+{{< figure src="/images/j-jam-2012-10-28/3.jpg" title="I-forgot-her-name" >}}
 
 So I heard a lot of traditional songs and Klezmer (in fact, the [CMU Klezmer Band](http://cmuklezmer.weebly.com/index.html) was there). Not what I usually listen to or encounter, but it was really great soaking in the different kinds of music.
 
 When one of the CMU Klezmer Band guys, the clarinetist, passed out lyrics to a particularly popular song, I even sang along, stumbling through Yiddish for the first time in my life!
 
-{% img /images/j-jam-2012-10-28/4.jpg CMU Klezmer Band waiting for turn %}
+{{< figure src="/images/j-jam-2012-10-28/4.jpg" title="CMU Klezmer Band waiting for turn" >}}
 
 [Joel](http://www.boulevardoftheallies.com/), the J-Jam co-organizer who was handling the sound system throughout, performed one of his own compositions, and then one of his young guitar students performed along with him.
 
-{% img /images/j-jam-2012-10-28/7.jpg Joel and student %}
+{{< figure src="/images/j-jam-2012-10-28/7.jpg" title="Joel and student" >}}
 
 ### Familiar faces
 
@@ -93,7 +93,7 @@ Roz, whom [I last saw over a year ago when she was trying to sell accordions](/b
 
 [Cindy Harris](http://betterfly.com/75586018), who played autoharp so beautifully at [one of the French music jams I've gone to](/blog/2012/09/28/another-french-music-jam-also-announcing-cats-dance/) did some solo pieces on autoharp:
 
-{% img /images/j-jam-2012-10-28/8.jpg Cindy Harris on autoharp %}
+{{< figure src="/images/j-jam-2012-10-28/8.jpg" title="Cindy Harris on autoharp" >}}
 
 At some point, Chuck from Pittsburgh recorder showed up. He wasn't here to play, but came to watch.
 
@@ -119,7 +119,7 @@ The next J-Jam is already scheduled for Sunday, December 16. I hope Ben and I ca
 
 If you love music and can make it to J-Jam, please come on over to Dunkin' Donuts in Squirrel Hill then! And if you would like to perform something, email Cantor Ben Rosner at the email address in the flyer below:
 
-{% img /images/j-jam-2012-10-28/flyer-for-2012-12-16.jpg Flyer for J-Jam 2012-12-16 %}
+{{< figure src="/images/j-jam-2012-10-28/flyer-for-2012-12-16.jpg" title="Flyer for J-Jam 2012-12-16" >}}
 
 ## Next?
 

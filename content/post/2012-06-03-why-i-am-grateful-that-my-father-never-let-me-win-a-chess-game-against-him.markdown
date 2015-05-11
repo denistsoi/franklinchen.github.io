@@ -36,7 +36,7 @@ Outside of official competitions, winning is not the only thing. It wasn't when 
 
 I found a photo of my father and me playing a game of chess at my parents' home when Abby and I were visiting in summer 2010. (My actual first chess game with my father in two decades was when I was visiting over Christmas 2004.)
 
-{% img /images/chess-nelson-franklin-2010.jpg Nelson versus Franklin in chess in summer 2010 %}
+{{< figure src="/images/chess-nelson-franklin-2010.jpg" title="Nelson versus Franklin in chess in summer 2010" >}}
 
 ## (Update of 2013-02-27)
 

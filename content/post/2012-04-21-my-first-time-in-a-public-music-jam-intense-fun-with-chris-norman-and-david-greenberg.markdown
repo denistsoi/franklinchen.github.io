@@ -19,7 +19,7 @@ categories:
 - Chris Norman
 - David Greenberg
 ---
-{% img http://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-ash3/544714_10150682065771513_55075526512_9775036_876594193_n.jpg David Greenberg and Chris Norman and the rest of us %}
+{{< figure src="http://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-ash3/544714_10150682065771513_55075526512_9775036_876594193_n.jpg" title="David Greenberg and Chris Norman and the rest of us" >}}
 
 Friday evening, Abby and I packed up various musical instruments of ours, and attended an event that I had been eagerly awaiting for over three weeks since I first found out about it from Annie of the local [Pittsburgh recorder gang](http://www.andrew.cmu.edu/user/lukas/pcars/Welcome.html): a [jam session open to the public](http://www.rbsp.org/Jam%20Session%20Flyer.pdf) being offered by [Chris Norman](http://chrisnorman.com/), flutist, and [David Greenberg](http://www.davidgreenberg.ca/), violinist the day before [their concert](http://www.rbsp.org/11-12c6.aspx) the next evening to close the current season of the [Renaissance and Baroque of Pittsburgh](http://www.rbsp.org/).
 
@@ -61,7 +61,7 @@ She also brought a frame drum.
 
 Abby and I arrived a little late, so I scrambled to get ready while a whole bunch of people were already gathered. Many people were sitting in back just to watch and listen, while maybe twenty of us were armed with instruments of all kinds, ready to have some fun!
 
-{% img http://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-prn1/541085_10150682067126513_55075526512_9775042_292845062_n.jpg We played lots of different instruments %}
+{{< figure src="http://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-prn1/541085_10150682067126513_55075526512_9775042_292845062_n.jpg" title="We played lots of different instruments" >}}
 
 We ran into half a dozen people we knew from various of our musical circles, including Annie from recorder, a guy Abby knew from mandolin, and some fellow [Holiday Ball](/blog/2011/12/16/playing-recorder-and-flute-at-the-holiday-ball/) musicians.
 
@@ -94,13 +94,13 @@ So it turned out that a young woman among us had come with a Baroque oboe tuned 
 
 In any case, Chris and David repeatedly wanted to play with her and asked her what music she had on her, and she had a variety of Baroque music scores with her (she said she was actually giving a recital the next day), and so they tried to play some stuff just with her while doing their own mental transposition so that she would get to play without mental transposition! Check out Chris hovering over the score trying to do the really hard work of transposing on the fly:
 
-{%img http://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-ash4/s720x720/295215_10150682067841513_395463764_n.jpg Baroque oboist with Chris and David %}
+{{< figure src="http://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-ash4/s720x720/295215_10150682067841513_395463764_n.jpg" title="Baroque oboist with Chris and David" >}}
 
 ### Dancing
 
 Periodically, a number of people got up to dance in the space at the side, especially when we played waltzes. It was nice to see people moving.
 
-{% img http://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-ash3/529154_10150682066471513_55075526512_9775039_758574985_n.jpg A couple dancing %}
+{{< figure src="http://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-ash3/529154_10150682066471513_55075526512_9775039_758574985_n.jpg" title="A couple dancing" >}}
 
 ### I'm caught on a photo playing Baroque flute
 
@@ -108,7 +108,7 @@ I spent a fair amount of time playing the tin whistle, and some time on my recor
 
 It turned out that a photo was taken that included me when I was playing my Baroque flute. In this photo, you can also see a guy playing tin whistle (this guy also at one point volunteered to sing a tune, and did so with quite a powerful voice, a great rendition).
 
-{% img http://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-ash2/35507_10150682067581513_55075526512_9775044_1738151368_n.jpg A fellow tin whistle player, and me on Baroque flute %}
+{{< figure src="http://fbcdn-sphotos-a.akamaihd.net/hphotos-ak-ash2/35507_10150682067581513_55075526512_9775044_1738151368_n.jpg" title="A fellow tin whistle player, and me on Baroque flute" >}}
 
 My posture is really bad here. I need to sit up straight and keep my head over my body rather than straining over my neck. My only excuse is that this photo was probably taken two hours into the jam session when it was almost over, and I was having energy issues.
 

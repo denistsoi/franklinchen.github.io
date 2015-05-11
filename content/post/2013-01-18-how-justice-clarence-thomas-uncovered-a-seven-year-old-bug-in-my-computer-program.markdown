@@ -12,7 +12,7 @@ categories:
 - testing
 - Supreme Court
 ---
-{% img http://www.supremecourt.gov/about/justice_pictures/CThomas.jpg Justice Clarence Thomas %}
+{{< figure src="http://www.supremecourt.gov/about/justice_pictures/CThomas.jpg" title="Justice Clarence Thomas" >}}
 
 Today, [Justice Clarence Thomas](http://en.wikipedia.org/wiki/Clarence_Thomas) of the [Supreme Court of the United States](http://www.supremecourt.gov/) uncovered a seven-year-old bug in a computer program I wrote years ago.
 

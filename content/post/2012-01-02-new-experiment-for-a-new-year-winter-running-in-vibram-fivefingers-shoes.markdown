@@ -13,7 +13,7 @@ I first started wearing [Vibram FiveFingers](/blog/categories/fivefingers/) mini
 
 Somehow, today as I saw a bit of snow fall outside (with very little accumulation), I decided to do a short run (less than two miles) in my Bikila LS shoes while returning some items to the local library, to get a taste of whether it is practical to try regular winter running in these shoes, as the temperature drops and more snow falls.
 
-{% img /images/vibram-fivefingers-winter-new-year-2012.jpg Franklin wearing Vibram FiveFingers Bikila LS with snow on the ground %}
+{{< figure src="/images/vibram-fivefingers-winter-new-year-2012.jpg" title="Franklin wearing Vibram FiveFingers Bikila LS with snow on the ground" >}}
 
 Last year, sometime in early spring, I ran in regular mono-toed running shoes for the last time in my life. Every "normal" running shoe I have ever used (and I have worn probably two dozen different models in the past decade) had caused me some kind of disappointment. Switching completely to Vibram FiveFingers shoes had solved all my problems.
 

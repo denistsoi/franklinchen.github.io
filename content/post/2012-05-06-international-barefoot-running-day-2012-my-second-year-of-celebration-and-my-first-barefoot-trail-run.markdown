@@ -12,14 +12,14 @@ categories:
 - FiveFingers
 - shoes
 ---
-{% img /images/international-barefoot-running-day-2012/ibrdposter_lg.jpg Official poster of International Barefoot Running Day 2012 %}
+{{< figure src="/images/international-barefoot-running-day-2012/ibrdposter_lg.jpg" title="Official poster of International Barefoot Running Day 2012" >}}
 
 One year ago (May 1, 2011), I celebrated the first annual [International Barefoot Running Day](http://www.thebarefootrunners.org/pages/IBRD/) by running 0.6 mile on the streets of my neighborhood. That was the very first time in my life I was "brave" enough to [run barefoot](/blog/categories/barefoot-running/) outside (other than one failed attempt I discuss below).
 
 Today, I pushed the envelope by running a full 2 miles barefoot, including a 0.5 mile trail loop on Frick Park. **This was my first time ever running barefoot on the trails.**
 
-{% img /images/international-barefoot-running-day-2012/barefoot.jpg My two feet %}
-{% img /images/international-barefoot-running-day-2012/barefoot-soles.jpg Soles of my two feet after barefoot run %}
+{{< figure src="/images/international-barefoot-running-day-2012/barefoot.jpg" title="My two feet" >}}
+{{< figure src="/images/international-barefoot-running-day-2012/barefoot-soles.jpg" title="Soles of my two feet after barefoot run" >}}
 
 Here's the story of why I got into barefoot running, and what progress I've made in the past year.
 

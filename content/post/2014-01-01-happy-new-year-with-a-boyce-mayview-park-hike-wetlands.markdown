@@ -16,7 +16,7 @@ Happy New Year 2014!
 
 Abby and I started off this new year with a lovely [hike with the Pittsburgh hiking meetup group](http://www.meetup.com/pittsburghhikers/events/157809022), led by Gary Byrdman. It was in Boyce-Mayview Park, a park we'd never been to before [in Upper St. Clair](http://www.twpusc.org/rec-leisure/parks-fields).
 
-{% img /images/boyce-mayview-2014-01-01/break.jpg %}
+{{< figure src="/images/boyce-mayview-2014-01-01/break.jpg" >}}
 
 <!--more-->
 
@@ -24,7 +24,7 @@ It was a beautiful day, not too cold (over 20F), and mostly not too muddy or icy
 
 I was originally hoping to wear my relatively new minimalist New Balance Minimus Zero trail running shoes for this hike, but quickly decided that this would be a bad idea mainly because of the risk of getting my feet cold and wet, so I wrote my old Montrail Rockridge trail running shoes, which I haven't worn in years because they have gotten a bit small for me, requiring me to wear very thin socks (which I did on this hike). Far from minimalist, but in the winter in the face of water dangers (and indeed, we had a couple of stream crossings in which I got a little wet), I don't have a true minimalist shoe yet.
 
-{% img http://s7d5.scene7.com/is/image/ColumbiaSportswear/S11_GM2098_654_f?$MTR_pdp_lg$ Montrail Rockridge %}
+{{< figure src="http://s7d5.scene7.com/is/image/ColumbiaSportswear/S11_GM2098_654_f?$MTR_pdp_lg$" title="Montrail Rockridge" >}}
 
 The hike lasted about two and a half hours.
 
@@ -38,43 +38,43 @@ I'm posting just a few here, to whet your appetite for this park. There was such
 
 Parking at the trail head:
 
-{% img /images/boyce-mayview-2014-01-01/trail-parking.jpg %}
+{{< figure src="/images/boyce-mayview-2014-01-01/trail-parking.jpg" >}}
 
 Breakfast by Gary:
 
-{% img /images/boyce-mayview-2014-01-01/gary-breakfast.jpg %}
+{{< figure src="/images/boyce-mayview-2014-01-01/gary-breakfast.jpg" >}}
 
 A beaver was at this tree:
 
-{% img /images/boyce-mayview-2014-01-01/beaver-tree.jpg %}
+{{< figure src="/images/boyce-mayview-2014-01-01/beaver-tree.jpg" >}}
 
 Stream crossing:
 
-{% img /images/boyce-mayview-2014-01-01/stream-crossing.jpg %}
+{{< figure src="/images/boyce-mayview-2014-01-01/stream-crossing.jpg" >}}
 
 On a trail:
 
-{% img /images/boyce-mayview-2014-01-01/trail.jpg %}
+{{< figure src="/images/boyce-mayview-2014-01-01/trail.jpg" >}}
 
 Waterfall:
 
-{% img /images/boyce-mayview-2014-01-01/waterfall.jpg %}
+{{< figure src="/images/boyce-mayview-2014-01-01/waterfall.jpg" >}}
 
 Going uphill:
 
-{% img /images/boyce-mayview-2014-01-01/uphill.jpg %}
+{{< figure src="/images/boyce-mayview-2014-01-01/uphill.jpg" >}}
 
 Short break:
 
-{% img /images/boyce-mayview-2014-01-01/break.jpg %}
+{{< figure src="/images/boyce-mayview-2014-01-01/break.jpg" >}}
 
 One of the meadows we crossed:
 
-{% img /images/boyce-mayview-2014-01-01/meadow.jpg %}
+{{< figure src="/images/boyce-mayview-2014-01-01/meadow.jpg" >}}
 
 Up:
 
-{% img /images/boyce-mayview-2014-01-01/up.jpg %}
+{{< figure src="/images/boyce-mayview-2014-01-01/up.jpg" >}}
 
 ## Conclusion
 

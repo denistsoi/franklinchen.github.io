@@ -19,7 +19,7 @@ I was very excited to celebrate two years of playing recorder by attending the [
 
 The last recorder potluck/recital I went to was [half a year ago](/blog/2012/07/28/my-first-appearance-on-a-music-recital-program/), when I played a bit on soprano recorder, Baroque flute, and modern flute. Abby had come with me, and her parents also attended. This time, Abby came again, as did her parents, and Abby brought her [http://en.wikipedia.org/wiki/Tamburica](tambura) to play some Balkan music selections:
 
-{% img /images/recorder-midwinter-2013/DSCN0017.JPG Abby on tamburitza %}
+{{< figure src="/images/recorder-midwinter-2013/DSCN0017.JPG" title="Abby on tamburitza" >}}
 
 (Additional photos of food and people are now [up on Facebook](http://www.facebook.com/media/set/?set=a.445931198818142.1073741825.330712777006652&type=3).)
 
@@ -35,11 +35,11 @@ I actually rehearsed this with Annie, with her playing my portable electronic ke
 
 I worked rather hard on this piece, actually, in the sense of coming up with some fluency to be able to come up with spontaneous and personally expressive Baroque ornamentation in all the movements, especially the first. (I did not want to compose a fixed ornamentation to play.) I believe I had some success doing so, and felt that my effort was a respectful way to celebrate two years of recorder playing.
 
-{% img /images/recorder-midwinter-2013/DSCN0018.JPG Franklin and Mike playing Handel %}
+{{< figure src="/images/recorder-midwinter-2013/DSCN0018.JPG" title="Franklin and Mike playing Handel" >}}
 
 ### Niccolò Dôthel's first flute and cello sonata, first movement
 
-{% img /images/recorder-midwinter-2013/DSCN0020.JPG Franklin and Karen playing Dôthel %}
+{{< figure src="/images/recorder-midwinter-2013/DSCN0020.JPG" title="Franklin and Karen playing Dôthel" >}}
 
 Two months ago, I had actually run through this piece on Baroque flute with piano accompaniment [at a party](/blog/2012/12/22/playing-tango-on-melodica-and-singing-christmas-carols/), but just sight read by Henry on piano and in a noisy environment that was not ideal.
 

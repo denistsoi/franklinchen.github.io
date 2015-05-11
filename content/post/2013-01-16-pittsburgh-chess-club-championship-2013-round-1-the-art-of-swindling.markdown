@@ -10,7 +10,7 @@ categories:
 - Pittsburgh
 - Nimzo-Indian Defense
 ---
-{% img /chess/chen-kostyak-2013-01-15_files/round-1.jpg PCC Championship 2013 round 1 %}
+{{< figure src="/chess/chen-kostyak-2013-01-15_files/round-1.jpg" title="PCC Championship 2013 round 1" >}}
 
 Yesterday was the first round in the annual [Pittsburgh Chess Club](http://pittsburghcc.org/) Championship, and I am playing in it for the first time in two years. I [mentioned earlier](/blog/2012/10/09/final-round-of-pittsburgh-chess-club-tournament-clawing-back-from-a-terrible-position-to-draw-and-tie-for-first/) that I have won the PCC Champion title twice, in 2006 and 2007.
 
@@ -56,7 +56,7 @@ As I did in [my last-played tournament game](/blog/2012/12/18/round-6-of-pittsbu
 
 Other than my bafflingly messing up a move order that could have been punished, we arrived at a thematic position out of the opening in which I had the advantage of the two Bishops as well as more space. I considered this a large advantage, but Black's position is solid and not the easiest to penetrate.
 
-{% img /chess/chen-kostyak-2013-01-15_files/diag3FA3327DD5CEE3F6.gif Nimzo %}
+{{< figure src="/chess/chen-kostyak-2013-01-15_files/diag3FA3327DD5CEE3F6.gif" title="Nimzo" >}}
 
 ### The middlegame
 
@@ -64,11 +64,11 @@ I began missing the most promising continuations during the middlegame, but stil
 
 Things got complicated after Mike found a nice move to break up my Queen side Pawn structure and activate his Knight with `a5`:
 
-{% img /chess/chen-kostyak-2013-01-15_files/diag3FA332FBAA10194B.gif Nice tactic by Black %}
+{{< figure src="/chess/chen-kostyak-2013-01-15_files/diag3FA332FBAA10194B.gif" title="Nice tactic by Black" >}}
 
 Inexplicably, he decided to actually sacrifice the `a` Pawn rather than regain it, and I was of course happy to get an extra Pawn. Nevertheless, I started making very strange passive moves, and even panicked and make a weakening move `f4` that I knew would considerably reduce winning chances for me, because of giving up control over the `e4` square. `Re2` would have retained a large advantage instead:
 
-{% img /chess/chen-kostyak-2013-01-15_files/diag3FA33340CAEB3B55.gif White faltered with f4 %}
+{{< figure src="/chess/chen-kostyak-2013-01-15_files/diag3FA33340CAEB3B55.gif" title="White faltered with f4" >}}
 
 ### The endgame
 
@@ -84,7 +84,7 @@ However, from my perspective as the stronger player, it was clear that the way t
 
 I decided to deliberately sacrifice a Pawn in order to gain enough time to activate some of my pieces. I entered an entire line with the purpose of trying to sacrifice my `g3` Pawn. Mike followed the line I wanted him to play:
 
-{% img /chess/chen-kostyak-2013-01-15_files/diag3FA333807BE326EB.gif g3 Pawn sacrifice %}
+{{< figure src="/chess/chen-kostyak-2013-01-15_files/diag3FA333807BE326EB.gif" title="g3 Pawn sacrifice" >}}
 
 Instead of protecting the Pawn, I gave it up deliberately.
 
@@ -101,17 +101,17 @@ Also, I hate to say it given my love for the aspect of chess that is purely logi
 
 We reached a position I aimed at all along:
 
-{% img /chess/chen-kostyak-2013-01-15_files/diag3FA3338E7706D783.gif After sacrifice %}
+{{< figure src="/chess/chen-kostyak-2013-01-15_files/diag3FA3338E7706D783.gif" title="After sacrifice" >}}
 
 At the cost of a Pawn, I managed to fully activate all of my pieces. My Rooks are ready for action, and my dark Bishop is optimally placed, and has forced Black's Rook into passivity on `e7`. Objectively, Black should still be able to draw, but this kind of position is very different from the kind of position that would exist if I had not sacrificed the `g3` Pawn.
 
 Black immediately blundered horribly, and we reached this position, which is winning for White, who can fork the Rook and Knight with `Bd6`:
 
-{% img /chess/chen-kostyak-2013-01-15_files/diag3FA333BE3BC0C833.gif White winning %}
+{{< figure src="/chess/chen-kostyak-2013-01-15_files/diag3FA333BE3BC0C833.gif" title="White winning" >}}
 
 Unfortunately, I was in a state of annoyance at this point, because in his previous move, `Nxb7`, the losing move before `Nc5`, Mike had *offered a draw*!! That distracted me, I got confused, played quickly, and made an elementary error here, `Rb8+`, which should have allowed a draw again, but Mike did not see the error, and we reached a different critical position:
 
-{% img /chess/chen-kostyak-2013-01-15_files/diag3FA333CB700D27DF.gif White might win %}
+{{< figure src="/chess/chen-kostyak-2013-01-15_files/diag3FA333CB700D27DF.gif" title="White might win" >}}
 
 #### Reassessment
 
@@ -123,11 +123,11 @@ Then Mike blundered for the final time, trying to save the `h7` Pawn rather than
 
 Some spectators afterwards thought Mike should have played `Ne4` to save the Knight, but actually, it loses quickly, because of `c5`, after which the Pawn is taboo because of the fork, but will advance to Queen if Black does not take it:
 
-{% img /chess/chen-kostyak-2013-01-15_files/diag3FA333DEDB140EEA.gif White may Queen %}
+{{< figure src="/chess/chen-kostyak-2013-01-15_files/diag3FA333DEDB140EEA.gif" title="White may Queen" >}}
 
 The final position of our game:
 
-{% img /chess/chen-kostyak-2013-01-15_files/diag3FA333F30CF246E2.gif Final position %}
+{{< figure src="/chess/chen-kostyak-2013-01-15_files/diag3FA333F30CF246E2.gif" title="Final position" >}}
 
 ## Lessons to take away from the game
 

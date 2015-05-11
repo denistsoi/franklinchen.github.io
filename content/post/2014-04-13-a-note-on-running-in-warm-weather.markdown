@@ -18,7 +18,7 @@ I had a really tough time out there, going less than three miles before I turned
 
 I treated myself to some cookies after my run. These are cookies I saved from an event at work last week, specifically for only after hiking or running. [I would not eat](/blog/2014/01/16/a-system-for-quitting-eating-cookies/) these unremarkable cookies otherwise!
 
-{% img /images/frick-park-2014-04-13/cookie1.jpg Cookie 1 %}
-{% img /images/frick-park-2014-04-13/cookie2.jpg Cookie 2 %}
+{{< figure src="/images/frick-park-2014-04-13/cookie1.jpg" title="Cookie 1" >}}
+{{< figure src="/images/frick-park-2014-04-13/cookie2.jpg" title="Cookie 2" >}}
 
-{% img /images/frick-park-2014-04-13/franklin.jpg Franklin %}
+{{< figure src="/images/frick-park-2014-04-13/franklin.jpg" title="Franklin" >}}

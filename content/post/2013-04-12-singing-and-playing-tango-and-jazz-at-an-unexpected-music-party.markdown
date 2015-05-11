@@ -13,7 +13,7 @@ categories:
 - saxophone
 - piano
 ---
-{% img /images/bob-party-2013-04-12/henry-franklin.jpg Henry and Franklin performing El Choclo %}
+{{< figure src="/images/bob-party-2013-04-12/henry-franklin.jpg" title="Henry and Franklin performing El Choclo" >}}
 
 I suddenly got email from Henry on a Friday afternoon while I was at work. He invited me to join him at some guy's party in the evening to play some tangos, since the party was going to have an "Argentina" theme. My first thought was that Abby was not going to be able to go, and I myself had made plans to rest up before my very important training run Saturday morning for the Pittsburgh Marathon, but the opportunity to meet some new musicians and other people, and express my love for passionate tango music, made me decide, after consulting with Abby, to attend the party.
 

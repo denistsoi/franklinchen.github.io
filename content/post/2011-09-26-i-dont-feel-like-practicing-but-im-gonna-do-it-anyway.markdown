@@ -13,7 +13,7 @@ categories:
 ---
 This morning I felt pretty tired, still recovering from yesterday's [race](/blog/2011/09/25/blistered-but-blissful-in-the-burgh/), so the thought crossed my mind, "Maybe I should take a little break, and skip recorder practice today". Also, I hadn't improved as much during the past week as I had planned and felt frustrated.
 
-{% img /images/s-a-t-recorders.jpg Franklin's soprano, alto, and tenor recorders %}
+{{< figure src="/images/s-a-t-recorders.jpg" title="Franklin's soprano, alto, and tenor recorders" >}}
 
 **No effing way!**
 
@@ -33,7 +33,7 @@ What it comes down to is, you have to decide what is important, and act accordin
 Do or do not. There is no try.
 </blockquote>
 
-{% img http://upload.wikimedia.org/wikipedia/en/9/96/CGIYoda.jpg Yoda with light saber %}
+{{< figure src="http://upload.wikimedia.org/wikipedia/en/9/96/CGIYoda.jpg" title="Yoda with light saber" >}}
 
 Why waste time aimlessly practicing recorder only maybe once a week, and not getting anywhere at all, if I could spend that one hour doing something that I could find that I cared more about?
 
@@ -58,4 +58,4 @@ So I picked up my recorder and [practiced](http://musiciansway.com/).
 
 [Namaste](http://en.wikipedia.org/wiki/Namaste).
 
-{% img /images/alto-recorder-practice.jpg %}
+{{< figure src="/images/alto-recorder-practice.jpg" >}}

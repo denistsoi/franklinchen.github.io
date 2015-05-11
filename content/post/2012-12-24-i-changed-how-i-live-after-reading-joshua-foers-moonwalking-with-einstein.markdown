@@ -9,7 +9,7 @@ categories:
 - learning
 - reviews
 ---
-{% img http://www.strangehistory.net/blog/wp-content/uploads/2011/02/memory.jpg Memory %}
+{{< figure src="http://www.strangehistory.net/blog/wp-content/uploads/2011/02/memory.jpg" title="Memory" >}}
 
 Recently I heard about the journalist [Joshua Foer](http://joshuafoer.com/) who embarked on a remarkable journey in which he ended up covering a story about memory and then actually training his own and in the process becoming the United States Memory champion. I watched his hilarious and inspiring [TED talk](http://www.ted.com/talks/joshua_foer_feats_of_memory_anyone_can_do.html) and ended up reading his book ["Moonwalking with Einstein: The Art and Science of Remembering Everything"](http://joshuafoer.com/moonwalking-with-einstein/).
 

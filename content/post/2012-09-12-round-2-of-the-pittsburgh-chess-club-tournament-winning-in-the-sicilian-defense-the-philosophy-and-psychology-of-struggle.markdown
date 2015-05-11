@@ -9,7 +9,7 @@ categories:
 - Pittsburgh Chess Club
 - Sicilian Defense
 ---
-{% img /images/14th-fred-sorensen-memorial/round-2.jpg Second round %}
+{{< figure src="/images/14th-fred-sorensen-memorial/round-2.jpg" title="Second round" >}}
 
 Yesterday was the second round of the current six-round Tuesday night tournament at the [Pittsburgh Chess Club](http://pittsburghcc.org/), the 14th Fred Sorensen Memorial.
 
@@ -34,13 +34,13 @@ The first option is safest, while the second option is risky.
 
 In the Sicilian Defense, the second, very aggressive option is chosen: the basic idea is the Black on the very first move unbalances the position, taunting White, saying, "attack my King if you dare, but I'm going for your Queen side". Whereas White has claimed the center with the e Pawn, Black plays on the flank with the c Pawn:
 
-{% img http://www.thechesswebsite.com/wp-content/uploads/2012/07/sicilian-big.jpg Sicilian Defense %}
+{{< figure src="http://www.thechesswebsite.com/wp-content/uploads/2012/07/sicilian-big.jpg" title="Sicilian Defense" >}}
 
 The [Sicilian Defense](http://en.wikipedia.org/wiki/Sicilian_Defence) in chess is, in my view, the most exciting of all chess openings for Black.
 
 The critical lines in the [open Sicilian](http://en.wikipedia.org/wiki/Sicilian_Defence#Open_Sicilian:_2.Nf3_and_3.d4) are those in which White takes up Black's challenge head on and opens up the position by allowing Black to trade the c Pawn for White's d Pawn. For example (as in my game yesterday):
 
-{% img http://www.thechesswebsite.com/images/najdorf-medium.jpg Najdorf Variation %}
+{{< figure src="http://www.thechesswebsite.com/images/najdorf-medium.jpg" title="Najdorf Variation" >}}
 
 ### I have played both sides of the Sicilian
 
@@ -58,7 +58,7 @@ In the critical lines of the open Sicilian, Black's goal is to defend accurately
 
 Here is an example of a great position for Black (in the game I just played yesterday):
 
-{% img /chess/prokhov-chen-2012-09-11_files/diag3FEF16058D672C77.gif Prokhov-Chen %}
+{{< figure src="/chess/prokhov-chen-2012-09-11_files/diag3FEF16058D672C77.gif" title="Prokhov-Chen" >}}
 
 Notice that Black is still far behind in King side development, but has managed to take control of the Queen side and center away from White. Black has a clear advantage here, but no win yet, and must play precisely to maintain the advantage and not fall into danger.
 
@@ -70,7 +70,7 @@ In the critical lines of the open Sicilian, White's goal is to find tactics in o
 
 Here is an example of a great position for White, from a ["brilliancy" I played in 1985](/blog/2012/06/02/they-published-my-brilliant-chess-game/):
 
-{% img /chess/accelerated-dragon-trap_files/diag3FDFE53F3ECA481F.gif Chen-Winfield, Michigan Open 1985 %}
+{{< figure src="/chess/accelerated-dragon-trap_files/diag3FDFE53F3ECA481F.gif" title="Chen-Winfield, Michigan Open 1985" >}}
 
 Notice that Black is far behind in piece development, and White already has pieces mobilized against Black's King, and in fact has a won game.
 

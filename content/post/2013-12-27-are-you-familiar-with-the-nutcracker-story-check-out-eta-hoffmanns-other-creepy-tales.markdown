@@ -17,7 +17,7 @@ It's the season when many of us either watch for the first time a production of 
 
 But how many of you have actually read the original story by the [German Romantic](http://en.wikipedia.org/wiki/German_Romanticism) [ETA Hoffmann](http://en.wikipedia.org/wiki/E._T._A._Hoffmann), ["The Nutcracker and the Mouse King"](http://en.wikipedia.org/wiki/The_Nutcracker_and_the_Mouse_King)?
 
-{% img http://www.press.uchicago.edu/dms/ucp/books/jacket/0226/34/0226347893.jpeg Tales of ETA Hoffmann %}
+{{< figure src="http://www.press.uchicago.edu/dms/ucp/books/jacket/0226/34/0226347893.jpeg" title="Tales of ETA Hoffmann" >}}
 
 ## ETA Hoffmann, a forgotten writer?
 
@@ -41,7 +41,7 @@ As I immersed myself more in the music of the era, I grew increasingly intereste
 
 I bought [this really good English translation of selected stories of his](http://www.press.uchicago.edu/ucp/books/book/chicago/T/bo3627741.html) and was not disappointed.
 
-{% img http://www.press.uchicago.edu/dms/ucp/books/jacket/0226/34/0226347893.jpeg Tales of ETA Hoffmann %}
+{{< figure src="http://www.press.uchicago.edu/dms/ucp/books/jacket/0226/34/0226347893.jpeg" title="Tales of ETA Hoffmann" >}}
 
 I looked online and there are more recent English translations since my college days.
 

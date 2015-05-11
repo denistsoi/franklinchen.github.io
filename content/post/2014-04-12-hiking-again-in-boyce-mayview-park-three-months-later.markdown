@@ -40,45 +40,45 @@ Then we made our way back to our start. At one point it wasn't clear how to get 
 
 View from where we parked:
 
-{% img /images/boyce-mayview-2014-04-12/parking.jpg Parking %}
+{{< figure src="/images/boyce-mayview-2014-04-12/parking.jpg" title="Parking" >}}
 
 The Outdoor Classroom and the restroom building:
 
-{% img /images/boyce-mayview-2014-04-12/outdoor-classroom.jpg %}
+{{< figure src="/images/boyce-mayview-2014-04-12/outdoor-classroom.jpg" >}}
 
 Abby spotting an interesting bird:
 
-{% img /images/boyce-mayview-2014-04-12/critter.jpg %}
+{{< figure src="/images/boyce-mayview-2014-04-12/critter.jpg" >}}
 
 A view of Chartiers Creek:
 
-{% img /images/boyce-mayview-2014-04-12/chartiers-creek.jpg %}
+{{< figure src="/images/boyce-mayview-2014-04-12/chartiers-creek.jpg" >}}
 
 A little garter snake crossed our path. You might be able spot it in this photo. At my request, Abby did *not* pick it up to show to me.
 
-{% img /images/boyce-mayview-2014-04-12/garter-snake.jpg %}
+{{< figure src="/images/boyce-mayview-2014-04-12/garter-snake.jpg" >}}
 
 A sample trail winding around a hill:
 
-{% img /images/boyce-mayview-2014-04-12/hill-trail.jpg %}
+{{< figure src="/images/boyce-mayview-2014-04-12/hill-trail.jpg" >}}
 
 Rapids! We did see someone in a canoe further upstream.
 
-{% img /images/boyce-mayview-2014-04-12/rapids.jpg %}
+{{< figure src="/images/boyce-mayview-2014-04-12/rapids.jpg" >}}
 
 Flowers (sorry, I know very little about identifying flowers):
 
-{% img /images/boyce-mayview-2014-04-12/flowers.jpg %}
+{{< figure src="/images/boyce-mayview-2014-04-12/flowers.jpg" >}}
 
 Crossing over to the "island":
 
-{% img /images/boyce-mayview-2014-04-12/island.jpg %}
+{{< figure src="/images/boyce-mayview-2014-04-12/island.jpg" >}}
 
 We saw woodpeckers, geese, vultures, groundhogs, and other critters during the hike.
 
 Without leaves on trees obstructing the view, it is fairly easy to see where one is, as far as elevation and landmarks (we knew we had to get back down to the creek level and then back upward to where we parked):
 
-{% img /images/boyce-mayview-2014-04-12/elevation.jpg %}
+{{< figure src="/images/boyce-mayview-2014-04-12/elevation.jpg" >}}
 
 ## Conclusion
 

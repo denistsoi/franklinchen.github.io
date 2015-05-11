@@ -10,7 +10,7 @@ categories:
 - running
 - Carnegie Mellon University
 ---
-{% img http://athletics.cmu.edu/athletics/directory/headshots/vonda_wright_hs.jpg?max_height=200&max_width=150 Dr. Vonda Wright %}
+{{< figure src="http://athletics.cmu.edu/athletics/directory/headshots/vonda_wright_hs.jpg?max_height=200&max_width=150" title="Dr. Vonda Wright" >}}
 
 I attended a [much-anticipated talk at CMU](http://athletics.cmu.edu/generalnews/2011-2012/vondawright) by [Dr. Vonda Wright](http://www.drvondawright.com/) of UPMC in McConomy Auditorium, given to the CMU community as a keynote lecture for the CMU Fitness Challenge I participate in.
 

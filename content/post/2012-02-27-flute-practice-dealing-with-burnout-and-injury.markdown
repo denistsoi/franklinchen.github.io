@@ -12,7 +12,7 @@ categories:
 - practice
 - FiveFingers
 ---
-{% img /images/left-hand.jpg Franklin's left hand %}
+{{< figure src="/images/left-hand.jpg" title="Franklin's left hand" >}}
 
 Yesterday, I attended yet another [rehearsal](/blog/2012/02/22/flute-progress-still-hanging-in-there/) of the [Carnegie Mellon All-University Orchestra](http://www.andrew.cmu.edu/user/auo/).
 
@@ -40,7 +40,7 @@ The next time I pick up my flute, I will focus on what I might be doing that cau
 
 One problem that I definitely have is that the instrument I have is not optimal for me, and I know it. My main fundamental problem (and this has been a problem for me with piano, guitar, ukulele) is that I have a small hand and short fingers. There are solutions to this problem for the flute. One very common option that would immediately solve some of my problems is the [offset G](http://www.flutesonline.com/in_offg.htm).
 
-{% img http://www.flutesonline.com/shopping/in_offg.jpg Offset G flute %}
+{{< figure src="http://www.flutesonline.com/shopping/in_offg.jpg" title="Offset G flute" >}}
 
 I've always thought that I would like to get an offset G flute when I "upgrade" from my intermediate student flute. **Now I'm thinking I should do this sooner rather than later.**
 

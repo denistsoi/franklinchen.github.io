@@ -20,4 +20,4 @@ A big "thank you" to everyone at [PodCamp Pittsburgh](http://podcamppittsburgh.c
 
 (Me below wearing today the nice T-shirt we got.)
 
-{% img /images/podcamp6-shirt.jpg Franklin wearing the PodCamp 6 T-shirt %}
+{{< figure src="/images/podcamp6-shirt.jpg" title="Franklin wearing the PodCamp 6 T-shirt" >}}

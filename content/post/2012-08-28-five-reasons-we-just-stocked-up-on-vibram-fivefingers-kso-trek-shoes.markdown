@@ -41,7 +41,7 @@ My first KSO Trek hiking experience was on a hike that was only 6 miles long. Bu
 
 ### Moving up to 20 miles
 
-{% img /images/kso-trek/rachel-carson-trail.jpg On the Rachel Carson Trail %}
+{{< figure src="/images/kso-trek/rachel-carson-trail.jpg" title="On the Rachel Carson Trail" >}}
 
 This May, I decided I wanted to really put the KSO Trek to the test. I wore the shoes on my most extreme hike of this year, a 20-mile training hike on the [Rachel Carson Trail](http://rachelcarsontrails.org/rct). I finished the hike with no blisters whatsoever, no knee pain. Yes, my feet were sore as heck after all the banging on rocks and tree roots and down the hills, but foot soreness always happened anyway whenever I did a 20-mile hike on the Rachel Carson Trail in any footwear. The interesting thing is that I recovered from this foot soreness extremely quickly, much more quickly than I ever recovered from foot soreness wearing more padded shoes.
 
@@ -55,15 +55,15 @@ However, earlier, in March, I had gone on a really tough hilly, bushwhacking exp
 
 Abby and I enjoyed [Atalaya Mountain](http://www.trails.com/tcatalog_trail.aspx?trailid=HGS212-001) in Santa Fe this month when we were in New Mexico. She wore her Trek Sport, I wore my KSO Trek.
 
-{% img /images/kso-trek/atalaya-abby.jpg Abby with Trek Sport %}
+{{< figure src="/images/kso-trek/atalaya-abby.jpg" title="Abby with Trek Sport" >}}
 
-{% img /images/kso-trek/atalaya-franklin.jpg Franklin with KSO Trek %}
+{{< figure src="/images/kso-trek/atalaya-franklin.jpg" title="Franklin with KSO Trek" >}}
 
 ## Reason 3: paddling
 
 At some point, Abby and I decided to start wearing Vibram FiveFingers shoes kayaking. I started off wearing the KSO, but then realized that wearing the KSO Trek offered a lot of advantages with no down side. Being thicker and leather, they protected better against being under the sun. The extra protection when stepping out into the water and onto rocky shores was also welcome.
 
-{% img /images/rio-grande-paddling.jpg Kayaking down the Rio Grande %}
+{{< figure src="/images/rio-grande-paddling.jpg" title="Kayaking down the Rio Grande" >}}
 
 (Down the Rio Grande in New Mexico, with view of Sandia Crest.)
 
@@ -77,31 +77,31 @@ Finally, there is the [infamous problem that the synthetic Vibram shoes tend to 
 
 I don't know when holes started forming in my KSO Trek shoes from 2010, because I did not have a habit of checking regularly for holes. I only know that I started feeling the ground with my toes only after a particular outing during which I spent over an hour running the [three Petroglyph volcanoes](http://www.nps.gov/petr/planyourvisit/volcanoes.htm) near Albuquerque this month.
 
-{% img /images/kso-trek/petroglyph-volcanoes.jpg Panorama of Petroglyph volcanoes %}
+{{< figure src="/images/kso-trek/petroglyph-volcanoes.jpg" title="Panorama of Petroglyph volcanoes" >}}
 
-{% img /images/kso-trek/franklin-petroglyph-volcanoes.jpg Franklin getting ready to run the volcanoes %}
+{{< figure src="/images/kso-trek/franklin-petroglyph-volcanoes.jpg" title="Franklin getting ready to run the volcanoes" >}}
 
 I was fairly high up on Vulcan and descending when I first noticed the sensations of volcanic rock rubbing on my bare toe.
 
 (Here's Abby hiking toward Vulcan after I had already run down and was headed the other way.)
 
-{% img /images/kso-trek/abby-hiking-to-vulcan.jpg Abby hiking to Vulcan %}
+{{< figure src="/images/kso-trek/abby-hiking-to-vulcan.jpg" title="Abby hiking to Vulcan" >}}
 
 ### Examining the holes
 
 Here are the holes, which occurred at the sides of the second toes of both my feet:
 
-{% img /images/kso-trek/hole-in-left.jpg Hole in left shoe %}
-{% img /images/kso-trek/hole-in-right.jpg Hole in right shoe %}
+{{< figure src="/images/kso-trek/hole-in-left.jpg" title="Hole in left shoe" >}}
+{{< figure src="/images/kso-trek/hole-in-right.jpg" title="Hole in right shoe" >}}
 
 After Abby and I ordered and received our new shoes (Abby decided to finally also go for KSO Treks, after seeing how much I loved them in the past two years), I took some photos to illustrate the wear and tear:
 
-{% img /images/kso-trek/old-and-new.jpg %}
+{{< figure src="/images/kso-trek/old-and-new.jpg" >}}
 
 As you can see, the old shoes are pretty worn down:
 
-{% img /images/kso-trek/old-new-bottom.jpg %}
-{% img /images/kso-trek/old-new-side.jpg %}
+{{< figure src="/images/kso-trek/old-new-bottom.jpg" >}}
+{{< figure src="/images/kso-trek/old-new-side.jpg" >}}
 
 I'm not going to retire the old shoes yet, of course. I kind of like that they have, through being worn down, become more minimalist; feeling a little bit of dirt touch my toes once in a while is no problem at all (especially given my experiments with entirely barefoot running). I expect to continue to wear the old shoes for years to come; I did just start wearing a new pair (which [I just ran a race in and Abby also](/blog/2012/08/25/my-eighth-time-doing-run-around-the-square-5k/), but will come up with a rotation system.
 

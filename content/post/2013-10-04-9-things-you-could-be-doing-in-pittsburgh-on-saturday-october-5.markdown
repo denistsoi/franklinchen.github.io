@@ -66,7 +66,7 @@ I'm not running in it this year, just because I have too many other things to do
 
 ## Free: 5th annual Wilkins School Community Center Ecofest in Regent Square
 
-{% img /images/ecofest-2013.png 5th annual Wilkins School Community Center Ecofest in Regent Square %}
+{{< figure src="/images/ecofest-2013.png" title="5th annual Wilkins School Community Center Ecofest in Regent Square" >}}
 
 Interested in green living? Check out the [5th annual Wilkins School Community Center Ecofest in Regent Square](http://foresthills-regentsquare.patch.com/groups/around-town/p/ecofest-encourages-recycling-green-living). Abby has regularly attended for the clothing swap. There will also be food, information, and entertainment.
 

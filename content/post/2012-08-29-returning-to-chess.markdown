@@ -8,7 +8,7 @@ categories:
 - Pittsburgh
 - Java
 ---
-{% img /images/federico-franklin-2006.jpg Federico Garcia vs. Franklin Chen in 2006 %}
+{{< figure src="/images/federico-franklin-2006.jpg" title="Federico Garcia vs. Franklin Chen in 2006" >}}
 
 (A chess tournament in 2006.)
 

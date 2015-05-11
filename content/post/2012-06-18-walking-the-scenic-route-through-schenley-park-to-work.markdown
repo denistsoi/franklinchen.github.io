@@ -29,23 +29,23 @@ Here are some photos of my walk to CMU last week.
 
 I went barefoot the entire way from home to Schenley Park.
 
-{% img /images/commute-schenley-park/barefoot.jpg Barefoot %}
+{{< figure src="/images/commute-schenley-park/barefoot.jpg" title="Barefoot" >}}
 
 Reaching the Schenley Park sign on Hobart Street:
 
-{% img /images/commute-schenley-park/hobart.jpg Schenley Park sign on Hobart Street %}
+{{< figure src="/images/commute-schenley-park/hobart.jpg" title="Schenley Park sign on Hobart Street" >}}
 
 About to enjoy barefoot running on the grass to cross Beacon Street and Bartlett Street to reach the [Bartlett Playground](http://www.examiner.com/article/schenley-park-bartlett-street-playground). Note that the [Cathedral of Learning](http://www.tour.pitt.edu/tour-080.html) is visible in the background.
 
-{% img /images/commute-schenley-park/beacon-bartlett-grass.jpg Grass at Hobart Street and Beacon Street %}
+{{< figure src="/images/commute-schenley-park/beacon-bartlett-grass.jpg" title="Grass at Hobart Street and Beacon Street" >}}
 
 Arriving at the Bartlett Shelter sign:
 
-{% img /images/commute-schenley-park/bartlett-shelter.jpg Sign for Bartlett Shelter %}
+{{< figure src="/images/commute-schenley-park/bartlett-shelter.jpg" title="Sign for Bartlett Shelter" >}}
 
 Right behind the playground is the entrance to the Panther Hollow Trail:
 
-{% img /images/commute-schenley-park/bartlett-panther-hollow-trail.jpg Sign for Panther Hollow Trail %}
+{{< figure src="/images/commute-schenley-park/bartlett-panther-hollow-trail.jpg" title="Sign for Panther Hollow Trail" >}}
 
 ## Panther Hollow Trail to Schenley Park Cafe and Visitor Center
 
@@ -53,45 +53,45 @@ This section of the Panther Hollow Trail that I followed all the way to the [Sch
 
 My apologies to the barefoot purists, but I immediately found the trail too rough for my bare feet and put on my Vibram FiveFingers KSO shoes:
 
-{% img /images/commute-schenley-park/vibram-fivefingers-kso.jpg Vibram FiveFingers KSO shoes on Panther Hollow Trail %}
+{{< figure src="/images/commute-schenley-park/vibram-fivefingers-kso.jpg" title="Vibram FiveFingers KSO shoes on Panther Hollow Trail" >}}
 
 A typical view while running downhill on the Panther Hollow Trail for about 0.9 mile:
 
-{% img /images/commute-schenley-park/panther-hollow-trail-downhill.jpg Panther Hollow Trail going downhill %}
+{{< figure src="/images/commute-schenley-park/panther-hollow-trail-downhill.jpg" title="Panther Hollow Trail going downhill" >}}
 
 A sign at the base of the steps that lead up to the Schenley Park Cafe and Visitor Center. I appreciate the renovations in the Pittsburgh parks in the past several years that include such features as the new signs that I think help visitors a lot.
 
-{% img /images/commute-schenley-park/steps-sign.jpg Schenley Park sign at base of steps %}
+{{< figure src="/images/commute-schenley-park/steps-sign.jpg" title="Schenley Park sign at base of steps" >}}
 
 Finally out of the trail:
 
-{% img /images/commute-schenley-park/schenley-park-cafe-and-visitor-center.jpg Schenley Park Cafe and Visitor Center %}
+{{< figure src="/images/commute-schenley-park/schenley-park-cafe-and-visitor-center.jpg" title="Schenley Park Cafe and Visitor Center" >}}
 
 ## Across Flagstaff Hill to my office at Carnegie Mellon University
 
 A view of Phipps Conservatory as well as the [Cathedral of Learning](http://www.tour.pitt.edu/tour-080.html) in the distance:
 
-{% img /images/commute-schenley-park/phipps-cathedral.jpg Phipps Conservatory %}
+{{< figure src="/images/commute-schenley-park/phipps-cathedral.jpg" title="Phipps Conservatory" >}}
 
 One is probably not supposed to do so, but I climbed up the stone border (about four feet high) to enter Flagstaff Hill. The more circuitous route to my office would be to take Schenley Drive, which curves around, but it's shorter (and also more scenic and strenuous) to go up the hill directly and steeply, and then descend.
 
-{% img /images/commute-schenley-park/flagstaff-hill.jpg Flagstaff Hill %}
+{{< figure src="/images/commute-schenley-park/flagstaff-hill.jpg" title="Flagstaff Hill" >}}
 
 Taking in the view of the Cathedral of Learning against the lovely blue sky, while running through the grass on Flagstaff Hill:
 
-{% img /images/commute-schenley-park/cathedral-of-learning-from-flagstaff-hill.jpg Cathedral of Learning visible from Flagstaff Hill %}
+{{< figure src="/images/commute-schenley-park/cathedral-of-learning-from-flagstaff-hill.jpg" title="Cathedral of Learning visible from Flagstaff Hill" >}}
 
 My office is barely visible through the trees as I descend:
 
-{% img /images/commute-schenley-park/office-through-trees.jpg Office visible through trees %}
+{{< figure src="/images/commute-schenley-park/office-through-trees.jpg" title="Office visible through trees" >}}
 
 A convenient path to Frew Street:
 
-{% img /images/commute-schenley-park/path-to-frew-street.jpg Path to Frew Street %}
+{{< figure src="/images/commute-schenley-park/path-to-frew-street.jpg" title="Path to Frew Street" >}}
 
 At my office building:
 
-{% img /images/commute-schenley-park/office-building.jpg My office building %}
+{{< figure src="/images/commute-schenley-park/office-building.jpg" title="My office building" >}}
 
 ## Summary
 

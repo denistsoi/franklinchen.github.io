@@ -13,7 +13,7 @@ categories:
 - father
 - childhood
 ---
-{% img /images/franklins-flute.jpg Franklin's flute %}
+{{< figure src="/images/franklins-flute.jpg" title="Franklin's flute" >}}
 
 Tonight, on a whim, I decided to try out my flute yet again.  Every couple of months for several years now I have pulled it out to see if I might want to start playing it again.  Each time, I encountered serious problems with producing a decent sound at all, and thought that maybe I wasn't meant to play the flute, because the embouchure is such a problem.
 

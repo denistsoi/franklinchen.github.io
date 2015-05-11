@@ -10,11 +10,11 @@ categories:
 - Pittsburgh Chess Club
 - Dutch Defense
 ---
-{% img /chess/jansen-chen-2013-02-05_files/round-4.jpg %}
+{{< figure src="/chess/jansen-chen-2013-02-05_files/round-4.jpg" >}}
 
 Round 4 of the annual [Pittsburgh Chess Club](http://pittsburghcc.org/) Championship had me playing one of the most *fascinating* games I have played in my entire life. My opponent tried to wipe me off the board with a brute-force attack in the early moves of the opening and I managed to defend, but there were various subtleties involved. He engaged in *sacrifice* after sacrifice, not all sound, but all interesting.
 
-{% img /chess/jansen-chen-2013-02-05_files/final-position.jpg %}
+{{< figure src="/chess/jansen-chen-2013-02-05_files/final-position.jpg" >}}
 
 <!--more-->
 
@@ -36,43 +36,43 @@ In particular, I remembered that some years ago, Peter had been White against Gr
 
 Peter played *exactly* as I predicted he would, and we reached a position that I had concluded was fine for Black. After playing `h6` to kick White's Bishop, I fully expected a retreat and then a slow progression to an interesting middlegame:
 
-{% img /chess/jansen-chen-2013-02-05_files/diag3FA63606B7AA25D9.gif Dutch after h6 %}
+{{< figure src="/chess/jansen-chen-2013-02-05_files/diag3FA63606B7AA25D9.gif" title="Dutch after h6" >}}
 
 Instead, Peter uncorked a series of remarkable disruptive sacrificial ideas!
 
 First, he did not retreat the Bishop, but instead played `Qb3` exploiting the weakness of Black's `e6` and `f7` squares:
 
-{% img /chess/jansen-chen-2013-02-05_files/diag3FA6361ECBBCF26C.gif Qb3 %}
+{{< figure src="/chess/jansen-chen-2013-02-05_files/diag3FA6361ECBBCF26C.gif" title="Qb3" >}}
 
 White's Bishop cannot be captured by Black. (See the annotations for details.) So I calmly developed with `Bg7`. Then Peter went totally wild with `h5`, which is not really sound, but is definitely *interesting*. Not only did he leave the Bishop unprotected, but he was sacrificing the `h` Pawn.
 
-{% img /chess/jansen-chen-2013-02-05_files/diag3FA636625EE9729E.gif h5 %}
+{{< figure src="/chess/jansen-chen-2013-02-05_files/diag3FA636625EE9729E.gif" title="h5" >}}
 
 I calmly took the Pawn. He followed up with the wild `Nh4` that continued to offer the Bishop as a sacrifice while attacking Black's `g6` Pawn:
 
-{% img /chess/jansen-chen-2013-02-05_files/diag3FA6366A23529BD6.gif %}
+{{< figure src="/chess/jansen-chen-2013-02-05_files/diag3FA6366A23529BD6.gif" >}}
 
 I did not take, but defended `g6` while also opening up a defense of the `e6` square. He then continued by sacrificing his Knight on `g6`.
 
-{% img /chess/jansen-chen-2013-02-05_files/diag3FA6368FCF1D708B.gif Nxg6 %}
+{{< figure src="/chess/jansen-chen-2013-02-05_files/diag3FA6368FCF1D708B.gif" title="Nxg6" >}}
 
 This is not a true sacrifice, because he gets the Knight on `h5` in return. But the Bishop on `g5` is still being offered.
 
 It turns out that this whole series of blows by White was unsound, and could have been refuted calmly by `Kf8`:
 
-{% img /chess/jansen-chen-2013-02-05_files/diag3FA636A01EC713E7.gif Kf8 refutes attack %}
+{{< figure src="/chess/jansen-chen-2013-02-05_files/diag3FA636A01EC713E7.gif" title="Kf8 refutes attack" >}}
 
 But I saw a related idea and did not play the correct refutation, so the game continued to be interesting rather than ending quickly. I played `d5`, which has a similar idea but has the drawback of allowing a good tactical save by White.
 
-{% img /chess/jansen-chen-2013-02-05_files/diag3FA63697F6F24239.gif d5 %}
+{{< figure src="/chess/jansen-chen-2013-02-05_files/diag3FA63697F6F24239.gif" title="d5" >}}
 
 White could have used a tactic to win the Pawn on `d5` while saving his Bishop from being trapped by attacking Black's Knight on `g6`. Oops! But neither Peter nor I saw this resource, and he did not play it.
 
-{% img /chess/jansen-chen-2013-02-05_files/diag3FA636D4EFF89295.gif %}
+{{< figure src="/chess/jansen-chen-2013-02-05_files/diag3FA636D4EFF89295.gif" >}}
 
 Instead, he played a completely unsound sacrifice `e4` that I could have punished by taking the Bishop on `g5`:
 
-{% img /chess/jansen-chen-2013-02-05_files/diag3FA636DCB461BBCD.gif Black wins a piece for real %}
+{{< figure src="/chess/jansen-chen-2013-02-05_files/diag3FA636DCB461BBCD.gif" title="Black wins a piece for real" >}}
 
 But in a collective hallucination, neither of us saw that the Bishop was in danger, because for so many moves up till `d5`, it was *not* in danger!
 
@@ -84,27 +84,27 @@ So White's opening attack finally came to an end, and we reached a middlegame in
 
 After some natural moves, after which both sides were castled Queen side, I expected some kind of struggle on the King side in which White had pressure against Black's `h6` Pawn and possibly could regain it at some point.
 
-{% img /chess/jansen-chen-2013-02-05_files/diag3FA6371A10D3B49F.gif Both castled %}
+{{< figure src="/chess/jansen-chen-2013-02-05_files/diag3FA6371A10D3B49F.gif" title="Both castled" >}}
 
 Instead, Peter *blundered* with another sacrifice, or *so I thought*. It turns out from extensive computer analysis that the sacrifice was actually *sound* and should have led to an equal position through some extremely fascinating play. Let me explain.
 
 Peter played `Nxe4`, with the idea of regaining the piece after `Qf7`:
 
-{% img /chess/jansen-chen-2013-02-05_files/diag3FA6372171D13561.gif Nxe4 sacrifice %}
+{{< figure src="/chess/jansen-chen-2013-02-05_files/diag3FA6372171D13561.gif" title="Nxe4 sacrifice" >}}
 
-{% img /chess/jansen-chen-2013-02-05_files/diag3FA6372A607D57FB.gif Qf7 %}
+{{< figure src="/chess/jansen-chen-2013-02-05_files/diag3FA6372A607D57FB.gif" title="Qf7" >}}
 
 It turns out that White does *not* regain the piece, after Black defends (as I did) with `Qd6`:
 
-{% img /chess/jansen-chen-2013-02-05_files/diag3FA637315E0F3046.gif %}
+{{< figure src="/chess/jansen-chen-2013-02-05_files/diag3FA637315E0F3046.gif" >}}
 
 It turns out that White has a miraculously deep move `Ra5` that equalizes through threats on Black's King!! But neither of us saw this.
 
-{% img /chess/jansen-chen-2013-02-05_files/diag3FA6373985E401F4.gif Ra5 %}
+{{< figure src="/chess/jansen-chen-2013-02-05_files/diag3FA6373985E401F4.gif" title="Ra5" >}}
 
 Instead, Peter blundered straight into having his Queen trapped:
 
-{% img /chess/jansen-chen-2013-02-05_files/diag3FA6378607BCA4C0.gif Queen trapped %}
+{{< figure src="/chess/jansen-chen-2013-02-05_files/diag3FA6378607BCA4C0.gif" title="Queen trapped" >}}
 
 The game was effectively over at this point.
 
@@ -112,13 +112,13 @@ The game was effectively over at this point.
 
 However, Peter kept playing, and we ended up going into an endgame that was clearly lost for him (being a piece down):
 
-{% img /chess/jansen-chen-2013-02-05_files/diag3FA6379E1BCF7153.gif Lost endgame for White %}
+{{< figure src="/chess/jansen-chen-2013-02-05_files/diag3FA6379E1BCF7153.gif" title="Lost endgame for White" >}}
 
 The rest of the game is only worth looking at for its efficient technique.
 
 Peter finally resigned after losing more and more material:
 
-{% img /chess/jansen-chen-2013-02-05_files/diag3FA6CCA14DB3192E.gif White resigned %}
+{{< figure src="/chess/jansen-chen-2013-02-05_files/diag3FA6CCA14DB3192E.gif" title="White resigned" >}}
 
 ## Lessons learned from my game
 

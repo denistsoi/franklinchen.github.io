@@ -14,7 +14,7 @@ categories:
 - Run Shadyside
 - Cathedral of Learning
 ---
-{% img http://thenorthsidechronicle.com/UserFiles/Image/stepathon.jpg Stepathon steps %}
+{{< figure src="http://thenorthsidechronicle.com/UserFiles/Image/stepathon.jpg" title="Stepathon steps" >}}
 
 Today I ran in the [annual](http://www.thenorthsidechronicle.com/2061_php?calendarDate=2012-10-04) [Fineview Stepathon](http://stepathon.org/), a truly unique and grueling 5-mile race held in [Fineview](http://en.wikipedia.org/wiki/Fineview_\(Pittsburgh\)), a neighborhood in the North Side of Pittsburgh.
 
@@ -110,9 +110,9 @@ I cheered Chris on as he came in some minutes later.
 
 Here is a view from the finish:
 
-{% img http://bbbigdawgs.weebly.com/uploads/4/4/9/1/4491611/5685188_orig.jpg Welcome to Fineview %}
+{{< figure src="http://bbbigdawgs.weebly.com/uploads/4/4/9/1/4491611/5685188_orig.jpg" title="Welcome to Fineview" >}}
 
-{% img http://bbbigdawgs.weebly.com/uploads/4/4/9/1/4491611/5390106_orig.jpg View from finish %}
+{{< figure src="http://bbbigdawgs.weebly.com/uploads/4/4/9/1/4491611/5390106_orig.jpg" title="View from finish" >}}
 
 (It's probably too hard to see my "indentation" in the ground in this photo outside the fenced ball field where I fell!)
 

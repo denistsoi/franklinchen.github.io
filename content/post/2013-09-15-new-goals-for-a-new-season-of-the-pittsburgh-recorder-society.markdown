@@ -13,7 +13,7 @@ categories:
 - Dieterich Buxtehude
 - ukulele
 ---
-{% img /images/pittsburgh-recorder-society-2013-09-15.jpg Recorder group %}
+{{< figure src="/images/pittsburgh-recorder-society-2013-09-15.jpg" title="Recorder group" >}}
 
 I was delighted to pay my membership dues at the first meeting of the new 2013-2014 season of the [Pittsburgh Recorder Society](http://www.facebook.com/PittsburghRecorderSociety). I hadn't played recorder much since this July's Mideast early music workshop, because of my having [taken up ukulele the day after I got back from that](/blog/2013/08/23/another-unexpected-life-change-one-month-of-learning-to-play-ukulele/); in fact, apart from that week-long workshop, I had not attended any meetings of the Pittsburgh Recorder Society since April (since I had to miss the May one on travel), and although there are meetings all through the summer as well, they only take place in the North Hills, which is kind of far for me.
 

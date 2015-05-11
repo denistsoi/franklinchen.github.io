@@ -19,6 +19,6 @@ It was good to be out together again. We miss hiking so much.
 
 ## Boyce Park
 
-{% img /images/boyce-park-2013-06-15/sign.jpg %}
-{% img /images/boyce-park-2013-06-15/ski.jpg %}
-{% img /images/boyce-park-2013-06-15/playground.jpg %}
+{{< figure src="/images/boyce-park-2013-06-15/sign.jpg" >}}
+{{< figure src="/images/boyce-park-2013-06-15/ski.jpg" >}}
+{{< figure src="/images/boyce-park-2013-06-15/playground.jpg" >}}

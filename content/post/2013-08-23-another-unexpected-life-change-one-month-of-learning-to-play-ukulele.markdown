@@ -159,7 +159,7 @@ I still had trouble with the most basic barre chord, but actually, when I counte
 
 Ukulele calluses after one month:
 
-{% img /images/ukulele-calluses.jpg Ukulele calluses %}
+{{< figure src="/images/ukulele-calluses.jpg" title="Ukulele calluses" >}}
 
 ### Bad instrument?
 
@@ -177,9 +177,9 @@ I was nervous, and couldn't keep up with everything, but had a great time. It al
 
 Some photos of us (sadly without Carol, who was sitting opposite the three of us):
 
-{% img https://pbs.twimg.com/media/BR4fd0xCUAEwWRq.jpg Looking for music to play %}
+{{< figure src="https://pbs.twimg.com/media/BR4fd0xCUAEwWRq.jpg" title="Looking for music to play" >}}
 
-{% img https://pbs.twimg.com/media/BR4mjIUCYAIde9U.jpg PJ, Franklin, Jim %}
+{{< figure src="https://pbs.twimg.com/media/BR4mjIUCYAIde9U.jpg" title="PJ, Franklin, Jim" >}}
 
 So I ended up playing ukulele with others sooner than I had originally intended or expected. Also, at one point I briefly swapped instruments with Jim so that I could feel what it was like to play a tenor. Surprisingly to me, although it was of course "big", it was not as unmanageable as I feared it might be. I always imagined that eventually I'd "graduate" to playing a tenor, after first playing soprano, then concert size, sort of like my progression on recorder of first soprano, then alto, then tenor, then finally [bass](/blog/2011/10/03/my-new-bass-and-sopranino-recorders-and-having-fun/).
 
@@ -197,11 +197,11 @@ When I arrived, Linda lent me an electric tenor for me to try out. I ended up pl
 
 Some photos:
 
-{% img http://photos4.meetupstatic.com/photos/event/6/d/1/c/highres_274467932.jpeg Steel City Ukuleles group photo %}
+{{< figure src="http://photos4.meetupstatic.com/photos/event/6/d/1/c/highres_274467932.jpeg" title="Steel City Ukuleles group photo" >}}
 
 As you can see, I ended up just leaving my soprano ukulele on the ground unused during this session:
 
-{% img http://photos1.meetupstatic.com/photos/event/6/d/2/6/highres_274467942.jpeg Another group photo %}
+{{< figure src="http://photos1.meetupstatic.com/photos/event/6/d/2/6/highres_274467942.jpeg" title="Another group photo" >}}
 
 As the meetup was winding down, because it got dark outside, and my fingers were tired, I captured some footage of "Has Anybody Seen My Gal?" being done by the group:
 
@@ -223,7 +223,7 @@ Linda warned me that her electric tenor ukulele has a high action. After playing
 
 Meanwhile, Abby yesterday brought home a concert-sized [banjolele](http://en.wikipedia.org/wiki/Banjo_uke) borrowed from a friend:
 
-{% img /images/banjolele.jpg Banjolele %}
+{{< figure src="/images/banjolele.jpg" title="Banjolele" >}}
 
 I've been using it to get the feel of the concert size while continuing to practice and learn, and so far it's been working great, giving me confidence that I should in fact buy a concert size ukulele.
 

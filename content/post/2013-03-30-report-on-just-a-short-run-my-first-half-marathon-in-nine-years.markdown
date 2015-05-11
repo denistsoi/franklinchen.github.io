@@ -24,7 +24,7 @@ Until today, I had not run a half marathon in nine years. This distance had give
 
 Here's why I feared it, and how I ended up unexpectedly pleased with the experience, including finishing over four minutes faster than my goal time.
 
-{% img /images/just-a-short-run-2013/franklin.jpg Franklin done %}
+{{< figure src="/images/just-a-short-run-2013/franklin.jpg" title="Franklin done" >}}
 
 <!--more-->
 
@@ -151,11 +151,11 @@ Here are the [official race results](http://www.runhigh.com/2013RESULTS/R033013A
 
 ### Start
 
-{% img /images/just-a-short-run-2013/announcements.jpg Announcements %}
+{{< figure src="/images/just-a-short-run-2013/announcements.jpg" title="Announcements" >}}
 
 I started out with the 1:55:00 finish pacer (8:47 pace):
 
-{% img /images/just-a-short-run-2013/pacer.jpg My initial pacer %}
+{{< figure src="/images/just-a-short-run-2013/pacer.jpg" title="My initial pacer" >}}
 
 Going up the big hill, however, he totally lost me, as I slowed down to avoid prematurely feeling the burn. In fact, a slower pacer even passed me. No problem.
 
@@ -199,13 +199,13 @@ So I have not entirely solved the cramping problem. Apparently sprinting was eno
 
 My stomach was entirely OK during the race. No water sloshing, no indigestion, no gnawing hunger. I was hungry after finishing, of course.
 
-{% img /images/just-a-short-run-2013/food.jpg Post-race food %}
+{{< figure src="/images/just-a-short-run-2013/food.jpg" title="Post-race food" >}}
 
 I made some mistakes after finishing, however. I ate not only a banana, but also a bagel, a Smiley Cookie, a little bag of chips, and a little bag of cookies. I believe I should have excluded the bag of cookies and the chips, and saved the Smiley Cookie for later. I had some digestive discomfort (nothing serious though) for a while after everything I ate. I will remember next time. After a 5K or 10K, I can eat anything, but apparently, after a half marathon, digestion is trickier.
 
 But it is hard not to gobble up a Smiley Cookie:
 
-{% img /images/just-a-short-run-2013/smiley-cookie.jpg Smiley Cookie %}
+{{< figure src="/images/just-a-short-run-2013/smiley-cookie.jpg" title="Smiley Cookie" >}}
 
 At home, I ended up deciding to eat familiar leftovers rather than going out to a buffet as I had originally thought of doing with Abby.
 
@@ -213,9 +213,9 @@ At home, I ended up deciding to eat familiar leftovers rather than going out to 
 
 My feet were sore, but actually, less sore than after each of my long runs in the past month. I think I've become more efficient. No knee pain either. After the race, just general inflammation. I think I'll be OK tomorrow.
 
-{% img /images/just-a-short-run-2013/shoes.jpg Vibram FiveFingers Bikila LS %}
-{% img /images/just-a-short-run-2013/feet.jpg Franklin's feet %}
-{% img /images/just-a-short-run-2013/soles.jpg Franklin's soles of feet %}
+{{< figure src="/images/just-a-short-run-2013/shoes.jpg" title="Vibram FiveFingers Bikila LS" >}}
+{{< figure src="/images/just-a-short-run-2013/feet.jpg" title="Franklin's feet" >}}
+{{< figure src="/images/just-a-short-run-2013/soles.jpg" title="Franklin's soles of feet" >}}
 
 I did get one small blister, on my right pinkie toe, but I didn't actually notice it until I was home and took a shower.
 

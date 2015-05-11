@@ -12,7 +12,7 @@ categories:
 ---
 Happy Thanksgiving, everyone!
 
-{% img http://3.bp.blogspot.com/-Lc7Oc2PreKI/T3U0A6pSPBI/AAAAAAAABxY/iTXcrFFn1sQ/s1600/tumblr_kx61vvQHfG1qz82gvo1_500.jpg Oppenheimer quote %}
+{{< figure src="http://3.bp.blogspot.com/-Lc7Oc2PreKI/T3U0A6pSPBI/AAAAAAAABxY/iTXcrFFn1sQ/s1600/tumblr_kx61vvQHfG1qz82gvo1_500.jpg" title="Oppenheimer quote" >}}
 
 Today, on a sunny Thanksgiving, I surprised myself by spontaneously deciding to thank this world, and go as far as to call it [**the best of all possible worlds**](http://en.wikipedia.org/wiki/Best_of_all_possible_worlds). I'm still not entirely sure what I mean by that, but somehow, I "believe" it; more precisely, it's an *attitude* I now have that I have never really had in my life up till now. Even [a year ago](/blog/2011/11/23/every-day-is-thanksgiving/), I would have thought it silly to adopt such an attitude.
 

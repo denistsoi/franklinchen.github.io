@@ -11,7 +11,7 @@ categories:
 - winter
 - snow
 ---
-{% img /images/asics-gel-flash-ds-snow.jpg Asics Gel Flash DS in the snow %}
+{{< figure src="/images/asics-gel-flash-ds-snow.jpg" title="Asics Gel Flash DS in the snow" >}}
 
 Today, New Year's Eve, I went for my last [run](/blog/categories/running/) of 2012.
 

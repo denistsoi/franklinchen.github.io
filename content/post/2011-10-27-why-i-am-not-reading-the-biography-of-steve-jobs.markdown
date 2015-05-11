@@ -8,7 +8,7 @@ categories:
 ---
 I have been surprised by how many people recently have been asking me if I am reading Walter Isaacson's much-anticipated biography of Steve Jobs.
 
-{% img https://d28hgpri8am2if.cloudfront.net/book_images/cvr9781451648539_9781451648539.jpg Cover of Walter Isaacson's biography of Steve Jobs %}
+{{< figure src="https://d28hgpri8am2if.cloudfront.net/book_images/cvr9781451648539_9781451648539.jpg" title="Cover of Walter Isaacson's biography of Steve Jobs" >}}
 
 The funny thing is that many occurrences of this question of me are obviously just small talk, because other than on my blog and to a few people directly, I have never expressed publicly my deep admiration for Steve Jobs.
 

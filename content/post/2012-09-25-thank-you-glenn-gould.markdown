@@ -12,7 +12,7 @@ categories:
 - Arnold Schönberg
 - German Romanticism
 ---
-{% img http://media.npr.org/assets/img/2012/09/11/gould-d36370bc547843a1b3c7ab16e31373b751a52b05-s3.jpg Glenn Gould at piano %}
+{{< figure src="http://media.npr.org/assets/img/2012/09/11/gould-d36370bc547843a1b3c7ab16e31373b751a52b05-s3.jpg" title="Glenn Gould at piano" >}}
 
 Today would have been the 80th birthday of the eccentric Canadian pianist [Glenn Gould](http://en.wikipedia.org/wiki/Glenn_Gould), who actually died at age 50 in 1982, before I ever knew about him.
 
@@ -22,7 +22,7 @@ To be honest, I had mixed feelings about almost all of his recordings, because h
 
 ## Arnold Schönberg
 
-{% img http://upload.wikimedia.org/wikipedia/commons/a/ad/Arnold_Schoenberg_la_1948.jpg Arnold Schönberg %}
+{{< figure src="http://upload.wikimedia.org/wikipedia/commons/a/ad/Arnold_Schoenberg_la_1948.jpg" title="Arnold Schönberg" >}}
 
 Fascinatingly, it was through Glenn Gould that I came to enjoy (some of) the music of [Arnold Schönberg](http://en.wikipedia.org/wiki/Arnold_Schoenberg). I have to confess that I don't (yet?) understand or like Schönberg's [twelve-tone](http://en.wikipedia.org/wiki/Twelve-tone_technique) music, but I rather enjoy his very brief free [atonal](http://en.wikipedia.org/wiki/Atonality) piano music, which Gould played with such love that it reflected the late [German romantic](http://en.wikipedia.org/wiki/German_Romanticism) roots and sensibilities that were Schönberg's heritage. The three [Klavierstücke Op. 11](http://en.wikipedia.org/wiki/Drei_Klavierst%C3%BCcke), that I discovered purely from browsing through Gould's recordings as lent to me in college, are beautiful and expressive works, deeply *emotional*.
 
@@ -34,7 +34,7 @@ I think it is not an accident that Gould took to this music, because I perceive 
 
 ## Other recordings
 
-{% img http://www.bruceduffie.com/pollini8.jpg Maurizio Pollini %}
+{{< figure src="http://www.bruceduffie.com/pollini8.jpg" title="Maurizio Pollini" >}}
 
 Actually, since my first discovery of this music, I prefer other performances to those of Gould. I like [Maurizio Pollini](http://en.wikipedia.org/wiki/Maurizio_Pollini): below are performances of all three by him.
 

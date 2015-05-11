@@ -22,11 +22,11 @@ This will be my second Pittsburgh Marathon, because the last time I ran it was i
 
 Here I am in 2003 near the finish line (photo courtesy of my sister Linda):
 
-{% img /images/pittsburgh-marathon-2003/P5040055.JPG Franklin near finish line in 2003 %}
+{{< figure src="/images/pittsburgh-marathon-2003/P5040055.JPG" title="Franklin near finish line in 2003" >}}
 
 And here I am wearing my medal for finishing in 2003:
 
-{% img /images/pittsburgh-marathon-2003/P5040061.JPG Franklin inside with medal %}
+{{< figure src="/images/pittsburgh-marathon-2003/P5040061.JPG" title="Franklin inside with medal" >}}
 
 So: why am I running the Pittsburgh Marathon again, *now*, ten years later? What do I hope to accomplish? And how?
 

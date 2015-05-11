@@ -19,7 +19,7 @@ Today I celebrated [National Running Day](http://www.runningday.org/) by, uh, go
 
 I ran the out and back [Pretty Good Race](http://www.cs.cmu.edu/~kalp/PGR/) course on the Panther Hollow Trail in Schenley Park, as I have done at least several dozen times in the past thirteen years. My favorite part is always the long downhill return back to the start, during which I try to really fly down fast, feeling the wind rush past me. It's the reward for having run uphill in the first half of the course!
 
-{% img http://www.cs.cmu.edu/~kalp/PGR/pg-race.gif Pretty Good Race 5K course %}
+{{< figure src="http://www.cs.cmu.edu/~kalp/PGR/pg-race.gif" title="Pretty Good Race 5K course" >}}
 
 I was not always a runner. I only started to run at age 29, during a turning point in my life. And it turned out that Schenley Park played a vital role in getting me out the door and on my feet.
 
@@ -127,7 +127,7 @@ I silently vowed to beat my friends in [2001](http://www.cs.cmu.edu/~kalp/PGR/20
 
 Here I am outsprinting my friend Sungwoo at the finish:
 
-{% img /images/pgr-2001-sungwoo-franklin.jpg Pretty Good Race 5K, 2001, closeup of Sungwoo and Franklin %}
+{{< figure src="/images/pgr-2001-sungwoo-franklin.jpg" title="Pretty Good Race 5K, 2001, closeup of Sungwoo and Franklin" >}}
 
 A mutual friend asked me why I was so intent on beating Sungwoo, and asked whether I had something against him. I said no, not at all. It was just a personal challenge, a goal, just like when I first starting running in races, and got beaten by a certain 70-something hunched-over old man repeatedly, I made him a concrete target to surpass in the future, and eventually I did. In this case, I had earlier judged that Sungwoo was closest in speed to me, and therefore I would aim to beat him.
 

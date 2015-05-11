@@ -9,7 +9,7 @@ categories:
 - Pittsburgh
 - Pittsburgh Chess League
 ---
-{% img /chess/chen-osipovich-2012-10-14_files/final.jpg Final position %}
+{{< figure src="/chess/chen-osipovich-2012-10-14_files/final.jpg" title="Final position" >}}
 
 Today I played in a round at the [Pittsburgh Chess League](http://www.pitt.edu/~schach/ChessPA/ChessLeague/wpapcl.htm) for the first time in almost two years!
 
@@ -47,7 +47,7 @@ Also a serious issue for me going into this game was the fact that I was enterin
 
 My opponent surprised me with the bizarre *first move* he played!!
 
-{% img /chess/chen-osipovich-2012-10-14_files/diag3FDC28E3E53716F5.gif St. George Defense %}
+{{< figure src="/chess/chen-osipovich-2012-10-14_files/diag3FDC28E3E53716F5.gif" title="St. George Defense" >}}
 
 Objectively, his opening, the infamous [St. George Defense](http://en.wikipedia.org/wiki/St._George_Defence) was bad, and I knew it, but I decided to play calmly and "normally".
 
@@ -57,7 +57,7 @@ Being calm is always good, but being overly cautious deprived me of playing stro
 
 #### Ignoring the obvious
 
-{% img /chess/chen-osipovich-2012-10-14_files/diag3FDC28F4E2DD211F.gif e5 outpost %}
+{{< figure src="/chess/chen-osipovich-2012-10-14_files/diag3FDC28F4E2DD211F.gif" title="e5 outpost" >}}
 
 We reached a position in which Black's `e5` square is obviously weak. If I had not been in my overly cautious, slow mode, I would have occupied it and secured a clear advantage immediately. Instead, I chose to just "naturally" "develop" my Queen Bishop and Knight, as though playing like a beginner who is told to "develop" pieces before starting any attack.
 
@@ -67,13 +67,13 @@ An expert is not supposed to just play "naturally", but evaluate the position as
 
 In fact, in just a few moves, all my opening advantage had evaporated, as Black slowly deployed his pieces optimally:
 
-{% img /chess/chen-osipovich-2012-10-14_files/diag3FDC28FFCF110316.gif e5 OK for Black %}
+{{< figure src="/chess/chen-osipovich-2012-10-14_files/diag3FDC28FFCF110316.gif" title="e5 OK for Black" >}}
 
 ### The middle
 
 When I realized that I had messed up the late opening, I tried to recover, by fighting for the `e5` square afresh. My opponent returned my early favor by not playing the most critical fighting moves and instead also playing "naturally", developing his final Bishop rather than beginning an attack on my King side that would have disrupted my late buildup and guaranteed equality. So I planted my Knight on `e5`:
 
-{% img /chess/chen-osipovich-2012-10-14_files/diag3FDC2905BB3ACC1D.gif e5 taken %}
+{{< figure src="/chess/chen-osipovich-2012-10-14_files/diag3FDC2905BB3ACC1D.gif" title="e5 taken" >}}
 
 **The game was basically over as soon as I occupied that outpost.**
 
@@ -85,21 +85,21 @@ The rest of the game was mostly anti-climactic, because Black is so lost. But th
 
 After Black played terribly and quickly lost the Exchange (a Rook for a Bishop) and was dead lost, this position arose:
 
-{% img /chess/chen-osipovich-2012-10-14_files/diag3FDC29117AB3740E.gif What to do with the attacked Bishop? %}
+{{< figure src="/chess/chen-osipovich-2012-10-14_files/diag3FDC29117AB3740E.gif" title="What to do with the attacked Bishop?" >}}
 
 The "natural" move, `Bb1`, saving the Bishop and keeping it attacking Black along the diagonal, happens to be *obvious* and also *best*. But for once in the game, I didn't play the "natural" move. I got sloppy. I played a "clever" move instead, `g3`, attacking Black's remaining Rook.
 
 That was stupid, and cost me some hard thinking I could have avoided, because Black just "naturally" sacrificed another Exchange in order to reach this bizarre position:
 
-{% img /chess/chen-osipovich-2012-10-14_files/diag3FDC2913C2CBF1C4.gif White is attacked %}
+{{< figure src="/chess/chen-osipovich-2012-10-14_files/diag3FDC2913C2CBF1C4.gif" title="White is attacked" >}}
 
 White is obviously totally winning, but at a price: Black has some kind of "attack" going on now whereas if the Bishop had retreated, Black would have had nothing. So I had to actually defend for a couple of moves to consolidate before finally beating back Black's (admittedly futile) "attack" once and for all:
 
-{% img /chess/chen-osipovich-2012-10-14_files/diag3FDC291C66E75605.gif White smashes through %}
+{{< figure src="/chess/chen-osipovich-2012-10-14_files/diag3FDC291C66E75605.gif" title="White smashes through" >}}
 
 And the game finally ended:
 
-{% img /chess/chen-osipovich-2012-10-14_files/diag3FDC291EC7DABDD8.gif Black resigned %}
+{{< figure src="/chess/chen-osipovich-2012-10-14_files/diag3FDC291EC7DABDD8.gif" title="Black resigned" >}}
 
 ## Lessons learned
 

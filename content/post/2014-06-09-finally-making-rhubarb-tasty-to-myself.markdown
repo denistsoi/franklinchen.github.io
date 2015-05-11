@@ -24,7 +24,7 @@ Almost exactly a year ago, Abby and I accidentally did not specify rhubarb exclu
 
 I didn't know what the heck to do with it. I decided to make an Indian-style lentil dish and "hide" rhubarb in it. At first I thought it was OK, but then I decided it was weird. Unfortunately, I had to finish the whole batch. Abby didn't help me finish it.
 
-{% img /images/rhubarb-lentils-2013-06-10.jpg Rhubarb lentils %}
+{{< figure src="/images/rhubarb-lentils-2013-06-10.jpg" title="Rhubarb lentils" >}}
 
 ## Abby's experiment didn't work for me
 
@@ -34,7 +34,7 @@ Abby also tried an experiment, cooking rhubarb with banana on the stove. The res
 
 Today I decided that instead of randomly making crap up, I would look for some kind of "recipe", and also incorporate the advice of friends from last year. The following is what I made. I found it surprisingly edible, and even had to stop myself from eating too much after dinner:
 
-{% img /images/rhubarb-2014-06-09.jpg Rhubarb crisp %}
+{{< figure src="/images/rhubarb-2014-06-09.jpg" title="Rhubarb crisp" >}}
 
 My ingredients:
 

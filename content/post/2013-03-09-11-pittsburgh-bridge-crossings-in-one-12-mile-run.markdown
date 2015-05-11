@@ -18,7 +18,7 @@ categories:
 - restaurants
 - Coriander India Grill
 ---
-{% img http://sphotos-b.xx.fbcdn.net/hphotos-ash3/602768_422297731198378_798317370_n.jpg View from Mount Washington %}
+{{< figure src="http://sphotos-b.xx.fbcdn.net/hphotos-ash3/602768_422297731198378_798317370_n.jpg" title="View from Mount Washington" >}}
 
 My first ever [Steel City Road Runners Saturday morning training run](http://www.steelcityrrc.org/scrrcevents?eventId=568739&EventViewMode=2&CalendarViewType=1&SelectedDate=3/16/2013) was a 12-mile run. My office mate John went with me.
 
@@ -38,17 +38,17 @@ John and I signed in at 8 AM. It was going to be a beautiful, sunny day.
 
 We received printed maps of the route. I did have my smartphone with me, wearing it in my SPIbelt, so I felt pretty safe about knowing where I am or where to go in case I got lost.
 
-{% img /images/11-pittsburgh-bridge-crossings/sign-in.jpg Steel City Road Runners sign in %}
+{{< figure src="/images/11-pittsburgh-bridge-crossings/sign-in.jpg" title="Steel City Road Runners sign in" >}}
 
 There is indoor access to restrooms, water fountains, and warmth at these Steel City Road Runners training run meetings. Very nice for winter!
 
 There were designated pacers. I was uncertain about which pace group I should join, if any at all. I felt that probably the 10-minute pace group might be on the slow side, but definitely I did not expect to keep up with the 9-minute pace group for a long run. But we decided to start off with the 9-minute pace group and see what happens.
 
-{% img /images/11-pittsburgh-bridge-crossings/pace-groups.jpg Pacers %}
+{{< figure src="/images/11-pittsburgh-bridge-crossings/pace-groups.jpg" title="Pacers" >}}
 
 I wore my Vibram FiveFingers Bikila LS shoes, which have been my main running shoes all winter (when there is no snow or water on the ground):
 
-{% img /images/11-pittsburgh-bridge-crossings/vibram-fivefingers-bikila-ls.jpg Franklin wearing Vibram FiveFingers Bikila LS %}
+{{< figure src="/images/11-pittsburgh-bridge-crossings/vibram-fivefingers-bikila-ls.jpg" title="Franklin wearing Vibram FiveFingers Bikila LS" >}}
 
 ## The route
 
@@ -60,79 +60,79 @@ Here is the route of the 12-mile training run:
 
 The 9-minute pace group was clearly going too fast for me. I hung off the back hoping to simply keep them in sight as they kept getting more ahead of me. To my surprise, John went with the group, even though he has not run in months. I was not sure it was wise of him not to have done any running before this training run, and am worried about his going too fast all of a sudden.
 
-{% img /images/11-pittsburgh-bridge-crossings/on-our-way.jpg nine-minute pace group %}
+{{< figure src="/images/11-pittsburgh-bridge-crossings/on-our-way.jpg" title="nine-minute pace group" >}}
 
 ### Rachel Carson Bridge, inbound over the Allegheny River
 
-{% img /images/11-pittsburgh-bridge-crossings/rachel-carson-bridge.jpg On Rachel Carson Bridge inbound %}
+{{< figure src="/images/11-pittsburgh-bridge-crossings/rachel-carson-bridge.jpg" title="On Rachel Carson Bridge inbound" >}}
 
 We can see downtown Pittsburgh:
 
-{% img /images/11-pittsburgh-bridge-crossings/rachel-carson-bridge-see-downtown.jpg On Rachel Carson Bridge, seeing downtown %}
+{{< figure src="/images/11-pittsburgh-bridge-crossings/rachel-carson-bridge-see-downtown.jpg" title="On Rachel Carson Bridge, seeing downtown" >}}
 
 ### 7th Street Bridge, outbound
 
-{% img /images/11-pittsburgh-bridge-crossings/7th-street-bridge.jpg On 7th Street Bridge outbound %}
+{{< figure src="/images/11-pittsburgh-bridge-crossings/7th-street-bridge.jpg" title="On 7th Street Bridge outbound" >}}
 
 ### Roberto Clemente Bridge, inbound
 
-{% img /images/11-pittsburgh-bridge-crossings/roberto-clemente-bridge.jpg Approaching Roberto Clemente Bridge inbound %}
+{{< figure src="/images/11-pittsburgh-bridge-crossings/roberto-clemente-bridge.jpg" title="Approaching Roberto Clemente Bridge inbound" >}}
 
 ### Fort Duquesne Bridge, outbound
 
-{% img /images/11-pittsburgh-bridge-crossings/fort-duquesne-bridge.jpg On Fort Duquesne Bridge outbound %}
+{{< figure src="/images/11-pittsburgh-bridge-crossings/fort-duquesne-bridge.jpg" title="On Fort Duquesne Bridge outbound" >}}
 
 ### West End Bridge, south over the Monongahela River
 
-{% img /images/11-pittsburgh-bridge-crossings/west-end-bridge.jpg On West End Bridge south %}
+{{< figure src="/images/11-pittsburgh-bridge-crossings/west-end-bridge.jpg" title="On West End Bridge south" >}}
 
 ### First water stop and getting lost!
 
 Our first water stop was after 4 miles:
 
-{% img /images/11-pittsburgh-bridge-crossings/first-water-stop.jpg First water stop %}
+{{< figure src="/images/11-pittsburgh-bridge-crossings/first-water-stop.jpg" title="First water stop" >}}
 
 By the time I had reached this water stop, John and the rest of the 9-minute pace group were way ahead of me and barely visible. Unfortunately, after I drank some Gatorade, I noticed that I didn't see them at all any more. So for almost the rest of the run, the following 8 miles, I was mostly alone! This was disconcerting because it meant that I'd have to try to follow the printed map and directions, and avoid getting lost. It would turn out that I would get lost a couple of times.
 
 ### Fort Pitt Bridge, inbound
 
-{% img /images/11-pittsburgh-bridge-crossings/fort-pitt-bridge.jpg On Fort Pitt Bridge inbound %}
+{{< figure src="/images/11-pittsburgh-bridge-crossings/fort-pitt-bridge.jpg" title="On Fort Pitt Bridge inbound" >}}
 
 ### Smithfield Street Bridge, outbound
 
-{% img /images/11-pittsburgh-bridge-crossings/smithfield-street-bridge.jpg On Smithfield Street Bridge outbound %}
+{{< figure src="/images/11-pittsburgh-bridge-crossings/smithfield-street-bridge.jpg" title="On Smithfield Street Bridge outbound" >}}
 
 Check out this view of bridges along the Monongahela River:
 
-{% img /images/11-pittsburgh-bridge-crossings/monongahela-river.jpg Monongahela River %}
+{{< figure src="/images/11-pittsburgh-bridge-crossings/monongahela-river.jpg" title="Monongahela River" >}}
 
 ### 10th Street Bridge, inbound
 
 Leaving the South Side:
 
-{% img /images/11-pittsburgh-bridge-crossings/10th-street-bridge.jpg On 10th Street Bridge inbound %}
+{{< figure src="/images/11-pittsburgh-bridge-crossings/10th-street-bridge.jpg" title="On 10th Street Bridge inbound" >}}
 
 ### Liberty Bridge, outbound
 
 Not having anyone to follow, I got confused about how to get onto the Liberty Bridge, missing the steps, and had to do some backtracking to find the way to get on.
 
-{% img /images/11-pittsburgh-bridge-crossings/liberty-bridge-outbound.jpg On Liberty Bridge outbound %}
+{{< figure src="/images/11-pittsburgh-bridge-crossings/liberty-bridge-outbound.jpg" title="On Liberty Bridge outbound" >}}
 
 ### To Mount Washington
 
 This training run featured a big, long uphill to Mount Washington, with a water stop at the very top!
 
-{% img /images/11-pittsburgh-bridge-crossings/to-mount-washington.jpg To Mount Washington %}
+{{< figure src="/images/11-pittsburgh-bridge-crossings/to-mount-washington.jpg" title="To Mount Washington" >}}
 
 After being alone for quite some time, I did encounter John and other runners coming back down Mount Washington when I was still going up. They were going really fast downhill!
 
-{% img /images/11-pittsburgh-bridge-crossings/up-to-mount-washington.jpg Uphill to Mount Washington %}
+{{< figure src="/images/11-pittsburgh-bridge-crossings/up-to-mount-washington.jpg" title="Uphill to Mount Washington" >}}
 
 ### Second water stop
 
 My phone started acting funny when I got to the water stop at the top of Mount Washington, so I did not bother to try take any more photos after that. I was bummed that I didn't get a photo of the view of Pittsburgh from the top, but someone did and posted it on Facebook, so here it is:
 
-{% img http://sphotos-b.xx.fbcdn.net/hphotos-ash3/602768_422297731198378_798317370_n.jpg View from Mount Washington %}
+{{< figure src="http://sphotos-b.xx.fbcdn.net/hphotos-ash3/602768_422297731198378_798317370_n.jpg" title="View from Mount Washington" >}}
 
 At this water stop, at mile 9, I felt hungry, and saw some GU gels, and took one and ate it before continuing my run. It was [GU Roctane](http://guenergy.com/products/products-roctane-gels). I didn't look at the ingredients till after I got home and did a Web search on it. That explained a lot.
 
@@ -154,9 +154,9 @@ John had finished well before me, but he himself had gotten lost near the end al
 
 We snacked on provided orange slices and chips:
 
-{% img /images/11-pittsburgh-bridge-crossings/after.jpg Steel City Road Runners snacks %}
+{{< figure src="/images/11-pittsburgh-bridge-crossings/after.jpg" title="Steel City Road Runners snacks" >}}
 
-{% img /images/11-pittsburgh-bridge-crossings/franklin.jpg Franklin %}
+{{< figure src="/images/11-pittsburgh-bridge-crossings/franklin.jpg" title="Franklin" >}}
 
 Then I drove us back to our places. After both of us had showered and changed, we met up for lunch buffet at Coriander India Grill, a favorite place to eat [after getting very hungry after a lot of exercise](/blog/2012/02/26/snowing-means-sambar-at-coriander-india-grill/).
 

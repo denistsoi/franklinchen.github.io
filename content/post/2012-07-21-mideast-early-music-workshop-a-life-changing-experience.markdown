@@ -86,13 +86,13 @@ The introduction to the workshop happened after dinner
 
 Marilyn introduced the workshop, along with the instructors. Marilyn has been the organizer of this workshop for something like 45 years, I believe: wow!
 
-{% img /images/mideast-workshop-2012/intro.jpg Instructors on the left %}
+{{< figure src="/images/mideast-workshop-2012/intro.jpg" title="Instructors on the left" >}}
 
-{% img /images/mideast-workshop-2012/intro2.jpg The rest of the instructors %}
+{{< figure src="/images/mideast-workshop-2012/intro2.jpg" title="The rest of the instructors" >}}
 
 Immediately following the introduction was the first meeting of the all-workshop ensemble. We had substantial-looking spiral-bound books of ensemble music and I wondered how much of it we would go through!
 
-{% img /images/mideast-workshop-2012/all-workshop-music.jpg Book and people ready to play %}
+{{< figure src="/images/mideast-workshop-2012/all-workshop-music.jpg" title="Book and people ready to play" >}}
 
 ### English country dance
 
@@ -100,7 +100,7 @@ After that was the first meeting of English country dance. I was sad not to be d
 
 Also, given that I was the young baby of the bunch, going a bit slowly was helpful to me.
 
-{% img /images/mideast-workshop-2012/english-country-dance.jpg %}
+{{< figure src="/images/mideast-workshop-2012/english-country-dance.jpg" >}}
 
 ## Day 2: Monday (July 16)
 
@@ -120,9 +120,9 @@ I took a lot of notes, as well as made annotations in the music we got.
 
 Eric taught voice class. There was a good balance of men and women. He handed us spiral-bound books of musical selections.
 
-{% img /images/mideast-workshop-2012/voice-eric.jpg Eric Haas %}
+{{< figure src="/images/mideast-workshop-2012/voice-eric.jpg" title="Eric Haas" >}}
 
-{% img /images/mideast-workshop-2012/voice-men.jpg Other men in voice class %}
+{{< figure src="/images/mideast-workshop-2012/voice-men.jpg" title="Other men in voice class" >}}
 
 We went through a bunch of songs, and I . It was tremendous fun. I had never in my life sight-sung before (!!!), so I was very nervous. I tried not to let on that I was a total novice (unlike everyone else there). I took a lot of notes on what was tricky and marked up the song book for further study.
 
@@ -132,7 +132,7 @@ The somewhat nerve-wracking thing was that no men were really tenors, and a bunc
 
 I totally stuffed myself for lunch. So much good food.
 
-{% img /images/mideast-workshop-2012/monday-lunch.jpg %}
+{{< figure src="/images/mideast-workshop-2012/monday-lunch.jpg" >}}
 
 ### Recorder consort
 
@@ -154,7 +154,7 @@ Alan taught improvisation. I had never actually specifically learned improvisati
 
 On a whim, I checked out the medieval fiddle class. I borrowed a medieval fiddle to take back to my room after class. (But it would turn out that the instrument had problems, and I had too much other stuff to do, and had never played a string instrument before, so I ended up returning it and not returning to the class.)
 
-{% img /images/mideast-workshop-2012/medieval-fiddle.jpg A medieval fiddle %}
+{{< figure src="/images/mideast-workshop-2012/medieval-fiddle.jpg" title="A medieval fiddle" >}}
 
 ### Dinner
 
@@ -249,19 +249,19 @@ I found these insights profoundly useful, and found it inspiring to see Karen an
 
 Karen prepared one of the twelve [Telemann fantasias for solo flute](http://en.wikipedia.org/wiki/12_Fantasias_for_Solo_Flute_%28Telemann%29), no. 2.
 
-{% img /images/mideast-workshop-2012/master-class-karen.jpg Karen %}
+{{< figure src="/images/mideast-workshop-2012/master-class-karen.jpg" title="Karen" >}}
 
-{% img /images/mideast-workshop-2012/master-class-karen-majbritt.jpg Majbritt feedback for Karen %}
+{{< figure src="/images/mideast-workshop-2012/master-class-karen-majbritt.jpg" title="Majbritt feedback for Karen" >}}
 
 #### Mike
 
 By coincidence, Mike played another of the Telemann fantasias for solo flute, no. 10, but he played it on alto recorder instead of flute.
 
-{% img /images/mideast-workshop-2012/master-class-mike.jpg Mike %}
+{{< figure src="/images/mideast-workshop-2012/master-class-mike.jpg" title="Mike" >}}
 
 There was a funny moment in which Mike used his leg to play a high F-sharp. Later, Emily and James showed him a good technique hint, preparing the F-sharp by bringing up the leg already in anticipation, and then bringing the head down toward the leg instead of vice versa.
 
-{% img /images/mideast-workshop-2012/master-class-mike-james-leg.jpg Mike raising leg, with James and Emily %}
+{{< figure src="/images/mideast-workshop-2012/master-class-mike-james-leg.jpg" title="Mike raising leg, with James and Emily" >}}
 
 ### Lunch
 
@@ -283,33 +283,33 @@ After dinner, I browsed around at the [White Elephant Sale](http://en.wikipedia.
 
 I had been so busy that I had not bothered to think about signing up for playing with Chris on harpsichord. Unfortunately, by the time I checked the signup sheet, I saw that it was full (empty slots conflicted with my class time).
 
-{% img /images/mideast-workshop-2012/harpsichord-signup.jpg Chris harpsichord signup sheet %}
+{{< figure src="/images/mideast-workshop-2012/harpsichord-signup.jpg" title="Chris harpsichord signup sheet" >}}
 
 There were signup sheets all along for other stuff too, such as people wanting to find others to play with. That is actually a large part of the appeal of the workshop. I didn't participate in any of that because as a newcomer, I was focused on exploring classes. But obviously, those who had come to the workshop for years and decades did not necessarily need or want to spend all their time on classes.
 
-{% img /images/mideast-workshop-2012/other-signup.jpg Other signup sheets %}
+{{< figure src="/images/mideast-workshop-2012/other-signup.jpg" title="Other signup sheets" >}}
 
 ### Faculty concert
 
 Another highlight of Wednesday was the faculty concert. This was great. Bagpipes, recorders, Renaissance flutes, Baroque flutes, harpsichord, viola da gamba, even sackbut! It was a real treat to see all our instructors performing.
 
-{% img /images/mideast-workshop-2012/bagpipes.jpg Alan on bagpipes %}
+{{< figure src="/images/mideast-workshop-2012/bagpipes.jpg" title="Alan on bagpipes" >}}
 
-{% img /images/mideast-workshop-2012/faculty-concert-2.jpg Group %}
+{{< figure src="/images/mideast-workshop-2012/faculty-concert-2.jpg" title="Group" >}}
 
-{% img /images/mideast-workshop-2012/faculty-concert-3.jpg Group %}
+{{< figure src="/images/mideast-workshop-2012/faculty-concert-3.jpg" title="Group" >}}
 
-{% img /images/mideast-workshop-2012/faculty-concert-james-majbritt.jpg James and Majbritt in duet %}
+{{< figure src="/images/mideast-workshop-2012/faculty-concert-james-majbritt.jpg" title="James and Majbritt in duet" >}}
 
 I was intrigued by Emily playing Debussy's "Syrinx" on a special tenor recorder.
 
-{% img /images/mideast-workshop-2012/emily-syrinx.jpg Emily playing Syrinx on special tenor recorder %}
+{{< figure src="/images/mideast-workshop-2012/emily-syrinx.jpg" title="Emily playing Syrinx on special tenor recorder" >}}
 
-{% img /images/mideast-workshop-2012/chris-harpsichord.jpg Chris solo on harpsichord %}
+{{< figure src="/images/mideast-workshop-2012/chris-harpsichord.jpg" title="Chris solo on harpsichord" >}}
 
-{% img /images/mideast-workshop-2012/faculty-concert-flutes.jpg Eric, Emily, Majbritt on flutes %}
+{{< figure src="/images/mideast-workshop-2012/faculty-concert-flutes.jpg" title="Eric, Emily, Majbritt on flutes" >}}
 
-{% img /images/mideast-workshop-2012/judith-viol.jpg Judith on viol %}
+{{< figure src="/images/mideast-workshop-2012/judith-viol.jpg" title="Judith on viol" >}}
 
 A short video clip from the faculty concert (I found out that my phone made an unstoppable annoying click when taking video, so I never used my phone again for video after this; other videos I post here came from the camera Abby brought on Friday):
 
@@ -339,7 +339,7 @@ By the way, it came in really handy this week that I have at least basic compete
 
 I got to class early enough (a rarity, since usually I was rushing from voice class) to take a photo.
 
-{% img /images/mideast-workshop-2012/bass-setup.jpg Mike and James %}
+{{< figure src="/images/mideast-workshop-2012/bass-setup.jpg" title="Mike and James" >}}
 
 By the way, since I had hardly played bass before coming to this workshop, I hadn't realized that my bass tended to be sharp and I learned I had to keep the head joint pulled out to a certain degree. Useful to finally find that out.
 
@@ -374,7 +374,7 @@ A lot of participants in the workshop look forward to this as one of their highl
 
 Each selection was short, and there were a whole lot of individuals and groups that came up to present something. Some people had prepared something before the workshop. Others had met up and were playing for the first time together. It was a fun time.
 
-{% img /images/mideast-workshop-2012/ad-hoc-audience.jpg Ad hoc student concert audience %}
+{{< figure src="/images/mideast-workshop-2012/ad-hoc-audience.jpg" title="Ad hoc student concert audience" >}}
 
 ### Practice
 
@@ -412,23 +412,23 @@ Abby had come up for dinner on Monday. I hadn't seen her since then, and she cam
 
 The final student concert showcased what everyone had worked on so hard for the week. Because I took so many classes, I was in several groups that performed. Here are just a sample of photos and videos from the concert. I apologize for not having full coverage, but as I was occupied with performing, after my first performance, I completely stopped messing around with my phone and just focused on enjoying others' performances and getting ready to switch in when one of my groups was up! Abby did take some photos and videos, but only when I was involved!
 
-{% img /images/mideast-workshop-2012/harps.jpg %}
+{{< figure src="/images/mideast-workshop-2012/harps.jpg" >}}
 
-{% img /images/mideast-workshop-2012/recorder-eric.jpg %}
+{{< figure src="/images/mideast-workshop-2012/recorder-eric.jpg" >}}
 
-{% img /images/mideast-workshop-2012/recorder-eric-2.jpg %}
+{{< figure src="/images/mideast-workshop-2012/recorder-eric-2.jpg" >}}
 
 #### Me in flute
 
 Abby took this photo of me in Majbritt's flute group:
 
-{% img /images/mideast-workshop-2012/flute-majbritt.jpg %}
+{{< figure src="/images/mideast-workshop-2012/flute-majbritt.jpg" >}}
 
 #### Me in voice ensemble
 
 Eric tuning for the voice ensemble (I'm standing next to Chris as usual):
 
-{% img /images/mideast-workshop-2012/voice-tuning.jpg %}
+{{< figure src="/images/mideast-workshop-2012/voice-tuning.jpg" >}}
 
 Clips from our two selections:
 
@@ -440,23 +440,23 @@ Immediately after the voice ensemble performance, Abby commented to me that duri
 
 #### Bass ensemble
 
-{% img /images/mideast-workshop-2012/bass-final.jpg %}
+{{< figure src="/images/mideast-workshop-2012/bass-final.jpg" >}}
 
-{% img http://www.mideastearlymusic.addr.com/P1160081.jpeg %}
+{{< figure src="http://www.mideastearlymusic.addr.com/P1160081.jpeg" >}}
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/NY8YQfYErfc" frameborder="0" allowfullscreen></iframe>
 
 #### Concluding all-workshop ensemble performance
 
-{% img /images/mideast-workshop-2012/all-workshop-final.jpg %}
+{{< figure src="/images/mideast-workshop-2012/all-workshop-final.jpg" >}}
 
 Me and Chris:
 
-{% img /images/mideast-workshop-2012/all-workshop-final-franklin-chris.jpg %}
+{{< figure src="/images/mideast-workshop-2012/all-workshop-final-franklin-chris.jpg" >}}
 
-{% img http://www.mideastearlymusic.addr.com/P1160084.jpeg All-workshop ensemble %}
+{{< figure src="http://www.mideastearlymusic.addr.com/P1160084.jpeg" title="All-workshop ensemble" >}}
 
-{% img http://www.mideastearlymusic.addr.com/P1160083.jpeg All-workshop ensemble %}
+{{< figure src="http://www.mideastearlymusic.addr.com/P1160083.jpeg" title="All-workshop ensemble" >}}
 
 <iframe width="420" height="315" src="//www.youtube.com/embed/CBGZlAWB7BI" frameborder="0" allowfullscreen></iframe>
 

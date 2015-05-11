@@ -9,7 +9,7 @@ categories:
 - Pittsburgh
 - Pittsburgh Chess Club
 ---
-{% img /chess/chen-edahl-2013-02-12_files/after-move-4.jpg Franklin in deep throught after move 4 %}
+{{< figure src="/chess/chen-edahl-2013-02-12_files/after-move-4.jpg" title="Franklin in deep throught after move 4" >}}
 
 Round 5 of the annual [Pittsburgh Chess Club](http://pittsburghcc.org/) Championship involved a very unusual (for me) situation: being surprised at move 4 out of the opening! (Amusingly, Kurt was taking a bunch of photos at the time and happened to get a photo of me being surprised, and later sent it to me.)
 
@@ -35,7 +35,7 @@ Furthermore, I was occupied with a personal emergency (Abby broke her foot late 
 
 Richard as Black played the first moves in the opening very quickly, then spent two minutes on his fourth move, playing a move, `e5`, that I had *never* seen before or considered in this opening, and rose and walked away from the board:
 
-{% img /chess/chen-edahl-2013-02-12_files/diag3F920BBB96735C8F.gif e5 %}
+{{< figure src="/chess/chen-edahl-2013-02-12_files/diag3F920BBB96735C8F.gif" title="e5" >}}
 
 So what should one do when encountering a totally unexpected move in the opening? There are only a few possible explanations for an unexpected move:
 
@@ -53,7 +53,7 @@ However, I had to consider the possibility that Black could try to regain the Pa
 
 It took a while for me to find and verify the refutation of `Qe7`, which in fact does *not* regain the Pawn. The trick is the sacrificial pin `Bg5` threatening `Nd5`:
 
-{% img /chess/chen-edahl-2013-02-12_files/diag3F920E33D716AAE6.gif %}
+{{< figure src="/chess/chen-edahl-2013-02-12_files/diag3F920E33D716AAE6.gif" >}}
 
 So I offer this as an example of thinking a long time about a possible game continuation that did *not* take place, but *could have*, and therefore had to be considered.
 
@@ -61,35 +61,35 @@ So I offer this as an example of thinking a long time about a possible game cont
 
 After Black played `Nxe4`, I forced the following position, clearly favorable to White:
 
-{% img /chess/chen-edahl-2013-02-12_files/diag3F92125B2C8668D4.gif Forced line after Nxe4 %}
+{{< figure src="/chess/chen-edahl-2013-02-12_files/diag3F92125B2C8668D4.gif" title="Forced line after Nxe4" >}}
 
 What next? I decided to keep my options open and possibly aim to attack on the King side. Things were helped when my opponent moved his Queen away from the King side:
 
-{% img /chess/chen-edahl-2013-02-12_files/diag3F92156C70DAFCC2.gif %}
+{{< figure src="/chess/chen-edahl-2013-02-12_files/diag3F92156C70DAFCC2.gif" >}}
 
 ### The middlegame
 
 At this point, I had a choice: either safely castle King side with a huge positional advantage in the center and in development, or continue my King side attack plan, while setting a diabolical trap. I opted to set the trap with `h4`; my opponent fell into the trap by playing `h5`, after which my `Nd5` won a Pawn, at the cost of a Queen trade and my giving up a Bishop for a Knight:
 
-{% img /chess/chen-edahl-2013-02-12_files/diag3F92164A95676463.gif Win a Pawn %}
+{{< figure src="/chess/chen-edahl-2013-02-12_files/diag3F92164A95676463.gif" title="Win a Pawn" >}}
 
 ### The endgame
 
 After I grabbed the Pawn on `c7`, we arrived at this position:
 
-{% img /chess/chen-edahl-2013-02-12_files/diag3F9217CA48E58BC1.gif White a Pawn up %}
+{{< figure src="/chess/chen-edahl-2013-02-12_files/diag3F9217CA48E58BC1.gif" title="White a Pawn up" >}}
 
 Then after some inaccurate play by Black, we arrived at an important position:
 
-{% img /chess/chen-edahl-2013-02-12_files/diag3F92182DB48E01BE.gif Black in trouble %}
+{{< figure src="/chess/chen-edahl-2013-02-12_files/diag3F92182DB48E01BE.gif" title="Black in trouble" >}}
 
 Here, `Nd5` was best, but instead I passively defended against `Bd3+` with `R1c3`, after which Black could have played actively with `Ba5` and caused trouble, equalizing into a drawn position. Instead, he immediately lost with `Rd7??`, which fell victim to `Be5+` followed by `Nd5` winning an exchange:
 
-{% img /chess/chen-edahl-2013-02-12_files/diag3F9218981DC85007.gif White wins the exchange %}
+{{< figure src="/chess/chen-edahl-2013-02-12_files/diag3F9218981DC85007.gif" title="White wins the exchange" >}}
 
 Black could have resigned, but did not; the rest of the game was anticlimactic, with Black blundering further and hanging a piece on `h4` and immediately resigning:
 
-{% img /chess/chen-edahl-2013-02-12_files/diag3F9218DF932964D5.gif Final position %}
+{{< figure src="/chess/chen-edahl-2013-02-12_files/diag3F9218DF932964D5.gif" title="Final position" >}}
 
 ## Lessons learned from my game
 

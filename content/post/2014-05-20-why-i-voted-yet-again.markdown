@@ -12,7 +12,7 @@ categories:
 ---
 I voted again, as I've been doing regularly for some years now.
 
-{% img /images/voter-receipt-primary-2014.jpg 2014 PA primary election voter receipt %}
+{{< figure src="/images/voter-receipt-primary-2014.jpg" title="2014 PA primary election voter receipt" >}}
 
 But why?
 

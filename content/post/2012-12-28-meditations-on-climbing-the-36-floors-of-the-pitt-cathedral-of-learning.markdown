@@ -11,11 +11,11 @@ categories:
 - Rachel Carson Trail Challenge
 - marriage
 ---
-{% img /images/cathedral-of-learning-steps/cathedral.jpg Cathedral of Learning %}
+{{< figure src="/images/cathedral-of-learning-steps/cathedral.jpg" title="Cathedral of Learning" >}}
 
 Tonight I climbed the steps of the 36 accessible floors of the [University of Pittsburgh Cathedral of Learning](http://en.wikipedia.org/wiki/Cathedral_of_Learning) for the first time in probably a couple of years. As I mentioned after my last big stair climb, [this year's Fineview Stepathon](/blog/2012/10/06/the-fineview-stepathon-2012-pittsburghs-grueling-urban-trail-race/), I used to do some training here, when preparing for the tortuous annual 35-mile [Rachel Carson Trail Challenge](http://rachelcarsontrails.org/rct/challenge) held in June, which I did in 2005, 2006, and 2007.
 
-{% img http://upload.wikimedia.org/wikipedia/commons/6/6b/Cathedral_of_Learning_stitch_1.jpg Wikipedia photo %}
+{{< figure src="http://upload.wikimedia.org/wikipedia/commons/6/6b/Cathedral_of_Learning_stitch_1.jpg" title="Wikipedia photo" >}}
 
 I thought a lot about how my physical fitness took a sharp turn downward in the past five years, and how for the coming new year of 2013 I plan to get back into the shape I was in five years ago, and why that is important.
 
@@ -37,7 +37,7 @@ Yet, my exercise schedule has more or less fallen apart in the last five years, 
 
 Here's the ground floor of the Cathedral of Learning, with stairway entrance in sight:
 
-{% img /images/cathedral-of-learning-steps/floor-g.jpg Floor G %}
+{{< figure src="/images/cathedral-of-learning-steps/floor-g.jpg" title="Floor G" >}}
 
 ### Habits and social support
 
@@ -55,11 +55,11 @@ This indirect effect, combined with the addition of a lot more into my life that
 
 ## Going up
 
-{% img /images/cathedral-of-learning-steps/warning.jpg Warning sign %}
+{{< figure src="/images/cathedral-of-learning-steps/warning.jpg" title="Warning sign" >}}
 
 The famous warning sign about the stairwell not being meant for "exercise or other athletic activity" certainly did not deter people like Danny Chew, who did [101 repetitions in over 17 hours](http://www.dannychew.com/101timesupCoL.html). I've never done more than a single repetition.
 
-{% img /images/cathedral-of-learning-steps/stairway.jpg Stairway %}
+{{< figure src="/images/cathedral-of-learning-steps/stairway.jpg" title="Stairway" >}}
 
 ## A rhythm established
 
@@ -80,23 +80,23 @@ Two days ago, I resolved on a major life change. I'm going to become a genuine m
 
 I was pleased that at the rhythm and pace I had chosen, I was going up pretty well, without running out of breath or having to use the handrails for support. I suspect that a couple of things I've done in the past couple of years have helped a lot. I know I've improved my [core strength](/blog/2011/10/17/the-joys-of-convict-conditioning-bodyweight-exercising/) through doing bodyweight exercises such as pushups, pullups, squats, and lunges. As a result, despite my overall being less fit than years ago, I have better balance and stability, enabling me to activate my glutes rather than lean on my quads when climbing stairs.  
 
-{% img /images/cathedral-of-learning-steps/floor-31.jpg Floor 31 %}
+{{< figure src="/images/cathedral-of-learning-steps/floor-31.jpg" title="Floor 31" >}}
 
 Right after the 31st floor, I was amused to see some posters people had put up for the annual [Fight for Air Climb](http://www.lung.org/pledge-events/pa/pittsburgh-climb-fy13/). I've never done this event, actually. I have to confess that an indoor stair climb is not the most exciting thing in the world for me, and I do the Cathedral of Learning climb mainly when the weather outside is not as good as I like.
 
-{% img /images/cathedral-of-learning-steps/fight-for-air-climb.jpg Posters for Fight for Air Climb %}
+{{< figure src="/images/cathedral-of-learning-steps/fight-for-air-climb.jpg" title="Posters for Fight for Air Climb" >}}
 
 ## The top
 
 The 36th floor is the last one accessible. There are a couple more going up, but the door after the 36th floor is locked.
 
-{% img /images/cathedral-of-learning-steps/floor-36.jpg Floor 36 %}
+{{< figure src="/images/cathedral-of-learning-steps/floor-36.jpg" title="Floor 36" >}}
 
 Some night views out the windows on the 36th floor:
 
-{% img /images/cathedral-of-learning-steps/night-view.jpg Night view %}
+{{< figure src="/images/cathedral-of-learning-steps/night-view.jpg" title="Night view" >}}
 
-{% img /images/cathedral-of-learning-steps/night-view-2.jpg Another night view %}
+{{< figure src="/images/cathedral-of-learning-steps/night-view-2.jpg" title="Another night view" >}}
 
 I arrived at the 36th floor without any distress. It felt "easy", even, but then again, I was going slowly and one step at a time. Nevertheless, this gives me confidence. I will continue to do the stair climb this winter. Also, perhaps next time I will do two repetitions, which I've never done before.
 

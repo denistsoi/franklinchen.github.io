@@ -15,7 +15,7 @@ categories:
 - Bebo Valdés
 - Chucho Valdés
 ---
-{% img http://www.billboard.com/files/styles/promo_650/public/media/bebo-chucho-valdes-650-430.jpg Bebo and Chucho %}
+{{< figure src="http://www.billboard.com/files/styles/promo_650/public/media/bebo-chucho-valdes-650-430.jpg" title="Bebo and Chucho" >}}
 
 I just heard about the death of [Bebo Valdés](http://en.wikipedia.org/wiki/Bebo_Vald%C3%A9s) [at age 94 in Sweden](http://www.npr.org/blogs/ablogsupreme/2013/03/22/175080694/bebo-vald-s-giant-of-cuban-music-is-dead?ft=1&f=1039).
 

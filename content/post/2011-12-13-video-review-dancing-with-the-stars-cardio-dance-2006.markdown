@@ -20,7 +20,7 @@ When the weather is cold, I confess that I don't enjoy running outside. I have d
 
 One of my favorite dance workout DVDs, which I have used for almost half a decade now since it came out, is [Dancing with the Stars: Cardio Dance (2006)](http://www.amazon.com/Dancing-Stars-Cardio-Dance/dp/B000MMMTC8). I have never tired of it (as long as I don't use it all the time, of course; I have a number of other exercise videos I will review later).
 
-{% img http://ecx.images-amazon.com/images/I/51j9ihJucML._SL500_AA300_.jpg Dancing with the Stars: Cardio Dance (2006) DVD %}
+{{< figure src="http://ecx.images-amazon.com/images/I/51j9ihJucML._SL500_AA300_.jpg" title="Dancing with the Stars: Cardio Dance (2006) DVD" >}}
 
 <!--more-->
 

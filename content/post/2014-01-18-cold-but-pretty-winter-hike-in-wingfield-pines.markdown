@@ -26,7 +26,7 @@ It was a beautiful day, clear sky.
 
 But it was pretty freaking cold, hovering around 10F, I think, maybe a bit higher. I was slightly underdressed, and paid the price. I should have worn my thicker gloves and also long underwear. After getting home, it took a long time for my body to return to normal. The problem is that in previous winters of my life, I have not gone out hiking when the temperature is below 20F, so this was a first for me. Now I know better what I need to wear.
 
-{% img /images/wingfield-pines-abby-franklin.jpg Wingfield Pines %}
+{{< figure src="/images/wingfield-pines-abby-franklin.jpg" title="Wingfield Pines" >}}
 
 ## About the park
 

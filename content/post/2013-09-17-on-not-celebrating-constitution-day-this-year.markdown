@@ -25,7 +25,7 @@ I ended up deciding not to attend today, for several reasons. One is that I have
 
 ## How will America be remembered?
 
-{% img http://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Edward_Snowden-2.jpg/199px-Edward_Snowden-2.jpg %}
+{{< figure src="http://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Edward_Snowden-2.jpg/199px-Edward_Snowden-2.jpg" >}}
 
 Because the story is still far from over, I haven't said much on my blog about the events that have been unfolding for some months now since [Edward Snowden](http://en.wikipedia.org/wiki/Edward_Snowden) exposed information about the [surveillance activities of the National Security Agency](http://en.wikipedia.org/wiki/2013_mass_surveillance_disclosures). He [explained his actions as justified by the violation of the 4th and 5th Amendments to the Constitution](http://www.theguardian.com/world/2013/jul/12/edward-snowden-full-statement-moscow):
 

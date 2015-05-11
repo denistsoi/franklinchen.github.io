@@ -11,7 +11,7 @@ categories:
 ---
 I decided last night, after eating too many cookies at the [Steel City Ukuleles meetup](http://www.meetup.com/Steel-City-Ukuleles/events/154668232/), that I have to stop eating cookies. I cannot justify them on the grounds of health (and how crappy I sometimes feel after eating them).
 
-{% img /images/scu-desserts.jpg Steel City Ukuleles after new year party %}
+{{< figure src="/images/scu-desserts.jpg" title="Steel City Ukuleles after new year party" >}}
 
 My "creative" idea that I shared with Abby: I will never eat a cookie again in my life unless I take a photo of it.
 

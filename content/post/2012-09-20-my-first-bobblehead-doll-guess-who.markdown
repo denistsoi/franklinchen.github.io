@@ -18,7 +18,7 @@ categories:
 - Emmanuel Pahud
 - Carl Philipp Emanual Bach
 ---
-{% img /images/j-s-bach-bobblehead.jpg Johann Sebastian Bach bobblehead %}
+{{< figure src="/images/j-s-bach-bobblehead.jpg" title="Johann Sebastian Bach bobblehead" >}}
 
 I now own my first [bobblehead doll](http://en.wikipedia.org/wiki/Bobblehead)! Abby was reluctant to let me take him home, but I argued that he would inspire me in the playing of his music.
 
@@ -44,7 +44,7 @@ You can find more information on the [Facebook page](http://www.facebook.com/Pit
 
 ### Food and information tables
 
-{% img /images/189232_472125132808229_857638441_n.jpg Food and tables %}
+{{< figure src="/images/189232_472125132808229_857638441_n.jpg" title="Food and tables" >}}
 
 As we wandered around at the party, we sampled the food and checked out the tables of the five organizations. 
 
@@ -52,7 +52,7 @@ As we wandered around at the party, we sampled the food and checked out the tabl
 
 ### Live music
 
-{% img /images/199595_10151047722351513_1243992903_n.jpg Recorder quartet %}
+{{< figure src="/images/199595_10151047722351513_1243992903_n.jpg" title="Recorder quartet" >}}
 
 We arrived in time to see my [recorder](/blog/categories/recorder/) friends perform as a recorder quartet, playing a variety of selections. Fred, Helen, Mike, and Annie were delightful.
 
@@ -62,7 +62,7 @@ Afterwards, members of the five music organizations took turns performing for us
 
 We saw approximately ten bobbleheads, each in its unopened box, sitting around. I got very excited. It turned out that they were being given away. I secretly always wanted one since seeing my friend Henry with one on top of his piano; he had one of Beethoven:
 
-{% img /images/beethoven-bobblehead.jpg Beethoven bobblehead %}
+{{< figure src="/images/beethoven-bobblehead.jpg" title="Beethoven bobblehead" >}}
 
 By the bobbleheads, there was a sheet saying something like, "Name a piece I wrote and you can take me home." It seemed that nobody was really enforcing this, but when I offered to take one, I said the bobblehead would help me as I worked on the composer's [flute sonatas]().
 

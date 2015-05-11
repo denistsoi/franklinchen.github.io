@@ -15,7 +15,7 @@ categories:
 ---
 *(Important update added to the end of this post.)*
 
-{% img /images/liskov/power-of-abstraction.jpg Barbara Liskov accepting Katayanagi Prize at CMU %}
+{{< figure src="/images/liskov/power-of-abstraction.jpg" title="Barbara Liskov accepting Katayanagi Prize at CMU" >}}
 
 [Today at CMU](http://events.web.cmu.edu/ecal/event/131972213534041859), I finally had the opportunity to see a living legend, [Barbara Liskov](http://en.wikipedia.org/wiki/Barbara_Liskov), computer science professor at MIT and winner of the [Turing Award](http://en.wikipedia.org/wiki/Turing_Award) in 2008. She won it largely for her invention of the [abstract data type](http://en.wikipedia.org/wiki/Abstract_data_type), a concept that is so foundational in modern software development that a programmer ignorant of history is likely to react, "What, she got a Turing Award for something so obvious?"
 

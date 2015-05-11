@@ -10,7 +10,7 @@ categories:
 - Sicilian Defense
 - Maróczy Bind
 ---
-{% img /images/14th-fred-sorensen-memorial/round-3.jpg Third round %}
+{{< figure src="/images/14th-fred-sorensen-memorial/round-3.jpg" title="Third round" >}}
 
 Yesterday was the third round of the current six-round Tuesday night tournament at the [Pittsburgh Chess Club](http://pittsburghcc.org/), the 14th Fred Sorensen Memorial.
 
@@ -33,7 +33,7 @@ I have also written about one way of playing White in the Sicilian, aiming for q
 
 Yesterday, I played White in the Sicilian, but in a very different style: the slow, "positional" style of the [Maróczy Bind](http://en.wikipedia.org/wiki/Mar%C3%B3czy_Bind). I was using a bit of psychology, entering the game with the intention of playing a space-gaining type of game to squeeze my opponent to death. I had never played my opponent before, but based on general experience, like to use a squeeze when facing younger opponents rather than a direct attack on the King.
 
-{% img /chess/chen-ahlborg-2012-09-18_files/diag3FA8F84867B77F6E.gif Maróczy Bind %}
+{{< figure src="/chess/chen-ahlborg-2012-09-18_files/diag3FA8F84867B77F6E.gif" title="Maróczy Bind" >}}
 
 The point of the Bind is to gain space using the `c4` and `e4` Pawns, and start off the game really just defending these Pawns and the `d4` square, and preventing Black from gaining counterplay. The plan then is to complete development and fortifying the position, and only after that begin some kind of attack on Black, whether on the Queen side, center, or King side, depending on the concrete direction of the game.
 
@@ -55,11 +55,11 @@ The game didn't even originally start out as a Sicilian. It started out with wha
 
 At a critical point near the end of the opening phase, I chose a less familiar, more aggressive continuation than what most people play (and what my opponent expected). My opponent fell in with my plans and allowed me to achieve what I considered a pleasant Bind on his position.
 
-{% img /chess/chen-ahlborg-2012-09-18_files/diag3FA8F875D7EB7D5A.gif Maróczy Bind in action %}
+{{< figure src="/chess/chen-ahlborg-2012-09-18_files/diag3FA8F875D7EB7D5A.gif" title="Maróczy Bind in action" >}}
 
 To my surprise, instead of letting me continue the slow strangle, my opponent responded violently with an interesting Pawn sacrifice to open up the position. However, he tried to hard to not make it a sacrifice, and to regain the Pawn, but that resulted in my keeping the Pawn anyway and also smashing into his King side. I pressed on with the attack, and quickly achieved a winning position by force.
 
-{% img /chess/chen-ahlborg-2012-09-18_files/diag3FA8F8B20A1A7CCB.gif Winning attack %}
+{{< figure src="/chess/chen-ahlborg-2012-09-18_files/diag3FA8F8B20A1A7CCB.gif" title="Winning attack" >}}
 
 But then I strangely faltered, losing mental energy. In retrospect it is hard to see how I missed what I missed, but sometimes that happens. I had not budgeted my energy expenditure well during the game: I spent a lot of energy playing almost perfectly, like a computer, earlier in the game, to achieve the won position, and then once I achieved the won position, I somehow relaxed and got careless.
 
@@ -67,13 +67,13 @@ But then I strangely faltered, losing mental energy. In retrospect it is hard to
 
 I played what I thought was the winning move, and expected resignation, when all of a sudden I noticed that I missed a single move by Black, a move that completely altered the nature of the position. I even momentarily thought I might be losing!!
 
-{% img /chess/chen-ahlborg-2012-09-18_files/diag3FA8F90A3290DD6A.gif Queen checks %}
+{{< figure src="/chess/chen-ahlborg-2012-09-18_files/diag3FA8F90A3290DD6A.gif" title="Queen checks" >}}
 
 I regrouped and saw that I was not losing, but Black could simplify into an endgame one Pawn down that might be good enough for a draw. I had a possible winning plan in case Black entered into this endgame and was prepared to fight it out.
 
 But then it was Black's turn to falter badly, and he chose not to enter the endgame, but this resulted in my winning by means of a threat against his King. The only way for Black to stop checkmate was to enter a worse endgame, a King and Pawn endgame that was hopeless. I marched my `a` Pawn toward its Queening square and he resigned. What an end to the game!
 
-{% img /chess/chen-ahlborg-2012-09-18_files/diag3FD4A5619D8204E9.gif Final position %}
+{{< figure src="/chess/chen-ahlborg-2012-09-18_files/diag3FD4A5619D8204E9.gif" title="Final position" >}}
 
 ## The complete annotated game
 

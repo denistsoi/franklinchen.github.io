@@ -12,7 +12,7 @@ categories:
 - Scala
 - Test-Driven Development
 ---
-{% img http://www.haskell.org/wikiupload/4/4a/HaskellLogoStyPreview-1.png Haskell logo %}
+{{< figure src="http://www.haskell.org/wikiupload/4/4a/HaskellLogoStyPreview-1.png" title="Haskell logo" >}}
 
 Recently, I had a conversation with [Bill](http://billlaboon.com/), who was asking about resources for learning more about functional programming. I did some serious thinking about how to advise, but eventually decided to recommend that he use the [Haskell](http://haskell.org/) programming language as a vehicle for getting into the theory and practice of functional programming.
 

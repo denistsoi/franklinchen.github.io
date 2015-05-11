@@ -50,7 +50,7 @@ I was having so much fun working on some songs for myself on ukulele while singi
 
 I had a great time! I especially enjoyed, in the final minutes of the session, when it was request time, that I requested ["My Favorite Things"](http://en.wikipedia.org/wiki/My_Favorite_Things_%28song%29) and we went through it. I love that song (and this was also when I noticed that I could play an E chord without much effort, actually).
 
-{% img /images/scu-2014-03-05/group.jpg Steel City Ukuleles %}
+{{< figure src="/images/scu-2014-03-05/group.jpg" title="Steel City Ukuleles" >}}
 
 ### Cookies
 
@@ -60,12 +60,12 @@ Apparently the New Year party featuring wine and snacks was so popular that ever
 
 I was really hungry and ate some cookies, so here are photos according to [my rule](/blog/2014/01/16/a-system-for-quitting-eating-cookies/):
 
-{% img /images/scu-2014-03-05/cookie1.jpg %}
-{% img /images/scu-2014-03-05/cookie2.jpg %}
+{{< figure src="/images/scu-2014-03-05/cookie1.jpg" >}}
+{{< figure src="/images/scu-2014-03-05/cookie2.jpg" >}}
 
 The following turned out not to really be a cookie, but was some kind of bread with cheese or something. It was not my thing, and if I had known, I would not have taken it, but once I bit into it, I had to finish it:
 
-{% img /images/scu-2014-03-05/cookie3.jpg %}
+{{< figure src="/images/scu-2014-03-05/cookie3.jpg" >}}
 
 ## Conclusion
 

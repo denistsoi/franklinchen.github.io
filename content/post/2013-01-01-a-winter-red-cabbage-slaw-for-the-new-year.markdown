@@ -12,7 +12,7 @@ categories:
 ---
 Happy New Year!
 
-{% img /images/red-cabbage-slaw.jpg Red cabbage slaw %}
+{{< figure src="/images/red-cabbage-slaw.jpg" title="Red cabbage slaw" >}}
 
 For a party, I used what was at hand at home to make something to share. I decided on a red cabbage slaw, after doing a Google search for ingredients and seeing some recipes. I didn't follow any one recipe, but merged a couple of ideas. Since people seemed to eat up the cabbage slaw, and several complimented me on it and asked for the recipe, here it is:
 

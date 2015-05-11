@@ -14,7 +14,7 @@ categories:
 - saxophone
 - Pittsburgh
 ---
-{% img http://www.music.pitt.edu/sites/default/files/jazz-2012-cropped.jpg?1350921512 42nd Pitt Jazz Seminar poster %}
+{{< figure src="http://www.music.pitt.edu/sites/default/files/jazz-2012-cropped.jpg?1350921512" title="42nd Pitt Jazz Seminar poster" >}}
 
 This year I decided to attend events of the 42nd annual [Pitt Jazz Seminar](http://www.music.pitt.edu/events/november-3-2012-42nd-annual-jazz-se120813) for the first time. I've never had any instruction in jazz, and frankly have only a little bit of experience trying to play it myself, so I enjoyed the opportunity to attend presentations by great performers who could talk about what they do, where they've come from, and demonstrate their craft.
 

@@ -9,7 +9,7 @@ categories:
 - music
 - Baroque flute
 ---
-{% img /images/new-mexico/wedding.jpg Steve and Kelly %}
+{{< figure src="/images/new-mexico/wedding.jpg" title="Steve and Kelly" >}}
 
 Today was a very special day.
 
@@ -37,7 +37,7 @@ I was touched that a number of people came up to me later and said they enjoyed 
 
 <!-- no photo of niece because of privacy -->
 
-{% img /images/new-mexico/franklin-flute.jpg Franklin playing Baroque flute %}
+{{< figure src="/images/new-mexico/franklin-flute.jpg" title="Franklin playing Baroque flute" >}}
 
 ## Conclusion
 

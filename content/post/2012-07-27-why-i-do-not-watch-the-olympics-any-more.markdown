@@ -8,7 +8,7 @@ categories:
 - sports
 - running
 ---
-{% img http://www.london2012.com/imgml/partners/olympic/olympic-logo.jpg Olympic logo %}
+{{< figure src="http://www.london2012.com/imgml/partners/olympic/olympic-logo.jpg" title="Olympic logo" >}}
 
 The [2012 summer Olympics in London](http://www.london2012.com/) have begun.
 

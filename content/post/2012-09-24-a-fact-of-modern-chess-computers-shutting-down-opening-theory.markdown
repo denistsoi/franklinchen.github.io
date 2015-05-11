@@ -15,7 +15,7 @@ I saw the report of a stunning chess game between Veselin Topalov and Rustam Kas
 
 Black to move:
 
-{% img http://chess-news.ru/sites/default/files/u5/Foto-raznoe/2012-09-23_183645.jpg Black to move %}
+{{< figure src="http://chess-news.ru/sites/default/files/u5/Foto-raznoe/2012-09-23_183645.jpg" title="Black to move" >}}
 
 For *decades*, this kind of position has been standard opening theory, and usually it has been considered that Black's setup is not so good because it allows White to gain a lock on Black's Queen side by setting up `a3` and `b4` preventing Black from ever playing the freeing `...c5`.
 

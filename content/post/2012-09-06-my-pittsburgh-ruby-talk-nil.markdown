@@ -9,7 +9,7 @@ categories:
 - Pittsburgh
 - Ruby
 ---
-{% img /images/franklin-ruby-nil.jpg Franklin speaking at Pittsburgh Ruby on nil %}
+{{< figure src="/images/franklin-ruby-nil.jpg" title="Franklin speaking at Pittsburgh Ruby on nil" >}}
 
 [As promised](/blog/2012/08/07/the-first-steel-city-ruby-conference-an-amazing-experience/), I finally [gave a talk](http://www.meetup.com/pittsburgh-ruby/events/79619402/) at our local [Pittsburgh Ruby group](http://pghrb.heroku.com/)!
 

@@ -20,7 +20,7 @@ I'm not completely new to English country dance music. It was almost two years a
 
 It turns out that I'd already played some of this kind of music for myself as a result of my study of the Baroque flute, because method books I have for the instrument include a good amount of dance music from the era. In any case, the book we use for many tunes is the volume by [Peter Barnes](http://www.canispublishing.com/), ["The Barnes Book of English Country Dance Tunes"](http://mysite.verizon.net/peterabarnes/books.htm), a fine anthology. Actually, I ordered my copy only last week and was lucky it arrived in the mail just in time!
 
-{% img http://mysite.verizon.net/peterabarnes/Book1.jpg %}
+{{< figure src="http://mysite.verizon.net/peterabarnes/Book1.jpg" >}}
 
 ## Instruments
 

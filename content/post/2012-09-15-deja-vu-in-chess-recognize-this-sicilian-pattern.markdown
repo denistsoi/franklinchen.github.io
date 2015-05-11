@@ -16,7 +16,7 @@ Tonight I stopped by the [Pittsburgh Chess Club](http://pittsburghcc.org/) brief
 
 How did that come about?
 
-{% img /chess/sicilian-f7_files/diag3FEBC9EEA07BFC02.gif Black resigned, 2012 %}
+{{< figure src="/chess/sicilian-f7_files/diag3FEBC9EEA07BFC02.gif" title="Black resigned, 2012" >}}
 
 <!--more-->
 
@@ -44,11 +44,11 @@ Compare the following positions, which occurred after I played my Bishop to `c4`
 
 The first is from 1985:
 
-{% img /chess/accelerated-dragon-trap_files/diag3FDFE53CD1696B3D.gif Black to move, 1985 %}
+{{< figure src="/chess/accelerated-dragon-trap_files/diag3FDFE53CD1696B3D.gif" title="Black to move, 1985" >}}
 
 The second is from tonight:
 
-{% img /chess/sicilian-f7_files/diag3FEBC9EC3F88942F.gif Black to move, 2012 %}
+{{< figure src="/chess/sicilian-f7_files/diag3FEBC9EC3F88942F.gif" title="Black to move, 2012" >}}
 
 The similarities are obvious: both are positions out of the Accelerated Dragon of the Sicilian, and Black is behind on King-side development, and has played an early `a6`.
 
@@ -62,11 +62,11 @@ The critical position has White to move and win.
 
 The first is from 1985:
 
-{% img /chess/accelerated-dragon-trap_files/diag3FDFE53F3ECA481F.gif White to move, 1985 %}
+{{< figure src="/chess/accelerated-dragon-trap_files/diag3FDFE53F3ECA481F.gif" title="White to move, 1985" >}}
 
 The second is from tonight:
 
-{% img /chess/sicilian-f7_files/diag3FEBC9ED44832E65.gif White to move, 2012 %}
+{{< figure src="/chess/sicilian-f7_files/diag3FEBC9ED44832E65.gif" title="White to move, 2012" >}}
 
 In both positions, the winning move is `Bxf7+` followed by `Ne6`.
 

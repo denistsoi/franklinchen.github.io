@@ -16,7 +16,7 @@ categories:
 - Pittsburgh
 - contra dance
 ---
-{% img http://pittsburghcontra.org/wp-content/uploads/2011/12/contra_header21.png Pittsburgh Contras and Squares %}
+{{< figure src="http://pittsburghcontra.org/wp-content/uploads/2011/12/contra_header21.png" title="Pittsburgh Contras and Squares" >}}
 
 A very important event for me last year was joining Abby in playing music at the annual [Pittsburgh Contras and Squares](http://pittsburghcontra.org/) Holiday Ball at the Swisshelm Park Community Center as part of the "Holiday Ball Orchestra".
 

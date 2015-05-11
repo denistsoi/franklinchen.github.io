@@ -21,7 +21,7 @@ I saw that the local Pittsburgh tango group [AquiTango](http://www.aquitango.com
 
 AquiTango was to perform traditional [Argentine tango](http://en.wikipedia.org/wiki/Argentine_tango) music. I had actually encountered, a decade ago, an earlier incarnation (with some member changes since then) of the group, when I was taking Argentine tango classes and dancing; it was formerly Tangueros de Ley. I remember when Julieta Ugartemendia was in the group, playing clarinet and singing, and she also danced! In any case, the group has been revived after she left, as a quartet.
 
-{% img http://lh5.ggpht.com/hopUhptskdqtJ-rQfGKZ2awY2KUwuQS9waErFnvkkmdrot9eRTguZRgn--7a8JHRNfGuU2R73hzDssjWGfO5=s615 AquiTango %}
+{{< figure src="http://lh5.ggpht.com/hopUhptskdqtJ-rQfGKZ2awY2KUwuQS9waErFnvkkmdrot9eRTguZRgn--7a8JHRNfGuU2R73hzDssjWGfO5=s615" title="AquiTango" >}}
 
 I decided to attend, not only to check out what the experience of "Classical Revolution" in such a venue is like, but also for my own special reason: to be inspired by some good tango performances, because I am actually planning to soon play tango on flute and also sing it for the first time!
 

@@ -25,7 +25,7 @@ So he touched my life in a single, unusual, but quite *positive* way. Ironically
 
 ## My story
 
-{% img http://ecx.images-amazon.com/images/I/51lK9-us16L._SY300_.jpg The Ring Without Words %}
+{{< figure src="http://ecx.images-amazon.com/images/I/51lK9-us16L._SY300_.jpg" title="The Ring Without Words" >}}
 
 In my senior year of college, I came across a CD in the campus library on the Telarc label of Maazel's recording of the "Ring Without Words". At the time, I knew fairly little about Richard Wagner or his music, but I was intrigued by the concept, since I was *not* an opera fan, and didn't mind trying out what some immediately criticized as a gimmicky "Reader's Digest" concept by Maazel.
 

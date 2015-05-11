@@ -11,7 +11,7 @@ I've always had trouble keeping up an optimal exercise routine in the winter mon
 
 So I have been very happy that at Carnegie Mellon University, a "fitness challenge" has been in place in the winter since January 2011. The fitness challenge was very helpful last winter in getting me to stay active, and it is being helpful right now as well: I am starting the second of six weeks now:
 
-{% img /images/cmu-fitness-challenge-2012-02.jpg CMU fitness challenge for winter 2012, week 2 %}
+{{< figure src="/images/cmu-fitness-challenge-2012-02.jpg" title="CMU fitness challenge for winter 2012, week 2" >}}
 
 <blockquote>
 Welcome to the fitness-challenge for 2012 "Strive to Thrive" - you have

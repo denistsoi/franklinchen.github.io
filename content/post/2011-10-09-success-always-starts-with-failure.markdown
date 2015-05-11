@@ -9,7 +9,7 @@ categories:
 ---
 I've been reading a fascinating book, [*Adapt: Why Success Always Starts with Failure*](http://timharford.com/books/adapt/), by Tim Harford, an "economic journalist". The book is surprisingly readable and impressive in the breadth of its case studies. His thesis is that in a complex world (which we in fact live in and is getting even more complex), succeeding at a project requires adaptation to changing circumstances and our failures.
 
-{% img http://timharford.com/wp-content/themes/timharford-v4/img/bookcover-adp-us.png Adapt book cover %}
+{{< figure src="http://timharford.com/wp-content/themes/timharford-v4/img/bookcover-adp-us.png" title="Adapt book cover" >}}
 
 Harford discusses with clarity issues such as how the Iraq war was carried out, the financial crisis of 2008, how to help people in developing nations, and a whole lot more.
 

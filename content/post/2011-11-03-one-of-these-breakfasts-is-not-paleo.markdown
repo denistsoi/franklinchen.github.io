@@ -15,9 +15,9 @@ Warning to the purists: one of these breakfasts is not paleo.
 
 <!--more-->
 
-{% img /images/breakfast/2011-11-01-eggs-broccoli-walnuts.jpg Eggs, broccoli, walnuts %}
-{% img /images/breakfast/2011-11-02-egg-lentil-soup.jpg Egg, lentil soup %}
-{% img /images/breakfast/2011-11-03-eggs-broccoli-soup.jpg Eggs, broccoli, soup %}
+{{< figure src="/images/breakfast/2011-11-01-eggs-broccoli-walnuts.jpg" title="Eggs, broccoli, walnuts" >}}
+{{< figure src="/images/breakfast/2011-11-02-egg-lentil-soup.jpg" title="Egg, lentil soup" >}}
+{{< figure src="/images/breakfast/2011-11-03-eggs-broccoli-soup.jpg" title="Eggs, broccoli, soup" >}}
 
 ## The three breakfasts depicted
 

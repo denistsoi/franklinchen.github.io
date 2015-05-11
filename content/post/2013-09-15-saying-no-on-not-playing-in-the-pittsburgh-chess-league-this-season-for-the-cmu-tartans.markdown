@@ -11,7 +11,7 @@ categories:
 - Pittsburgh
 - Pittsburgh Chess Club
 ---
-{% img http://twitchfilm.com/assets/2011/07/120889.jpg Chess %}
+{{< figure src="http://twitchfilm.com/assets/2011/07/120889.jpg" title="Chess" >}}
 
 Later today, the first round of the 2013-14 season of the [Pittsburgh Chess League](http://www.pitt.edu/~schach/ChessPA/ChessLeague/wpapcl.htm) will start, and I will not be there to play.
 

@@ -12,7 +12,7 @@ categories:
 - Pittsburgh
 - singing
 ---
-{% img /images/steel-city-ukuleles-2013-09-18.jpg Steel City Ukuleles %}
+{{< figure src="/images/steel-city-ukuleles-2013-09-18.jpg" title="Steel City Ukuleles" >}}
 
 I've entered my ninth week of playing ukulele: almost two months now!
 

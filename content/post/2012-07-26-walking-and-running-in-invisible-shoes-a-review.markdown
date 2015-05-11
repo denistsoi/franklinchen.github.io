@@ -22,19 +22,19 @@ This is a review of the 4mm sole Connect model (I might get a 6mm sole Contact l
 
 Here is what the shoes look like with "slip-on/slip-off" lacing:
 
-{% img /images/invisible-shoes-connect/without-feet.jpg %}
+{{< figure src="/images/invisible-shoes-connect/without-feet.jpg" >}}
 
-{% img /images/invisible-shoes-connect/bottom.jpg %}
+{{< figure src="/images/invisible-shoes-connect/bottom.jpg" >}}
 
 As you can see, the sole is quite thin, just 4mm:
 
-{% img /images/invisible-shoes-connect/side-view.jpg %}
+{{< figure src="/images/invisible-shoes-connect/side-view.jpg" >}}
 
 Here are some photos of me wearing the shoes:
 
-{% img /images/invisible-shoes-connect/grass.jpg %}
+{{< figure src="/images/invisible-shoes-connect/grass.jpg" >}}
 
-{% img /images/invisible-shoes-connect/asphalt.jpg %}
+{{< figure src="/images/invisible-shoes-connect/asphalt.jpg" >}}
 
 <!--more-->
 

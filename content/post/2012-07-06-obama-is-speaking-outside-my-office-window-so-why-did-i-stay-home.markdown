@@ -13,11 +13,11 @@ Right now, President Obama is [speaking](http://www.cmu.edu/news/stories/archive
 
 Yesterday at work I saw a lot of setup going on out on the lawn:
 
-{% img /images/obama-cmu-setup.jpg CFA lawn being set up for Obama %}
+{{< figure src="/images/obama-cmu-setup.jpg" title="CFA lawn being set up for Obama" >}}
 
 Anyway, today I stayed at home. Why did I stay at home when I could have picked up a free ticket yesterday for this event? (Below is a photo of someone else's ticket since I did not get one.)
 
-{% img /images/obama-cmu-ticket.jpg Ticket for Obama event at CMU %}
+{{< figure src="/images/obama-cmu-ticket.jpg" title="Ticket for Obama event at CMU" >}}
 
 <!--more-->
 

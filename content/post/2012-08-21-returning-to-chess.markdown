@@ -8,7 +8,7 @@ categories:
 - Pittsburgh
 - Carnegie Mellon University
 ---
-{% img /images/uscf-life-member-certificate.jpg Franklin's United States Chess Federation Life Member certificate %}
+{{< figure src="/images/uscf-life-member-certificate.jpg" title="Franklin's United States Chess Federation Life Member certificate" >}}
 
 So far, I've only [written a few times here about chess](/blog/categories/chess/), because over a year ago, I deliberately decided (for the nth time) to quit my involvement in chess.
 
@@ -28,7 +28,7 @@ I have determined that chess will *never* again will be one of the most importan
 
 ### Introduction to the Pittsburgh Chess League
 
-{% img /images/pittsburgh-chess-league-2007-other.jpg Pittsburgh Chess League round in fall 2007 %}
+{{< figure src="/images/pittsburgh-chess-league-2007-other.jpg" title="Pittsburgh Chess League round in fall 2007" >}}
 
 I'd like to take the opportunity to promote the Pittsburgh Chess League, which is a great way for chess enthusiasts of *all ages* and of *all strengths* to have fun playing in teams one Sunday afternoon a month, starting in September and ending in April for summer break. It's especially great seeing the number of happy young children who play in the lower divisions, in addition to those who have over years become strong and play in the upper divisions (many of whom have beaten me). Please contact [Tom Martinak](http://www.pitt.edu/~schach/ChessPA/wpastate.htm) if you have any interest in participating in this venerable Pittsburgh chess tradition and would like to join a team or create your own.
 
@@ -38,9 +38,9 @@ The team I was on years ago, Rocky's Rooks, has sadly disbanded. I played for Ro
 
 We actually won the Pittsburgh Chess League in the 2006-2007 season, and I won the second board prize:
 
-{% img /images/pittsburgh-chess-league-2006-champion-rockys-rooks.jpg Pittsburgh Chess League 2006-2007 champion: Rocky's Rooks %}
+{{< figure src="/images/pittsburgh-chess-league-2006-champion-rockys-rooks.jpg" title="Pittsburgh Chess League 2006-2007 champion: Rocky's Rooks" >}}
 
-{% img /images/pittsburgh-chess-league-2006-second-board.jpg Franklin with Pittsburgh Chess League 2006-2007 second board trophy %}
+{{< figure src="/images/pittsburgh-chess-league-2006-second-board.jpg" title="Franklin with Pittsburgh Chess League 2006-2007 second board trophy" >}}
 
 Those were the days when I was very competitive.
 

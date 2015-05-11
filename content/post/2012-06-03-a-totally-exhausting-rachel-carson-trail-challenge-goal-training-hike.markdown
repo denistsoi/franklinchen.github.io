@@ -47,7 +47,7 @@ John and I had a weird carpooling arrangement to get to North Park. Only John an
 
 Parked at Harmar Shelter:
 
-{% img /images/rachel-carson-trail-2012-06-03/2012-06-03_08.11.20.jpg %}
+{{< figure src="/images/rachel-carson-trail-2012-06-03/2012-06-03_08.11.20.jpg" >}}
 
 ## Hike
 
@@ -55,132 +55,132 @@ It took quite a while to ride back in a carpool to Springdale for the start. Tha
 
 Here I am, ready to start hiking:
 
-{% img /images/rachel-carson-trail-2012-06-03/2012-06-03_08.52.05.jpg %}
+{{< figure src="/images/rachel-carson-trail-2012-06-03/2012-06-03_08.52.05.jpg" >}}
 
 Denser and higher greenery in June than a month ago:
 
-{% img /images/rachel-carson-trail-2012-06-03/2012-06-03_09.00.53.jpg %}
+{{< figure src="/images/rachel-carson-trail-2012-06-03/2012-06-03_09.00.53.jpg" >}}
 
 Years ago, when I did the Rachel Carson Trail Challenge, the trail in Springdale went through a section of land called the "roller coaster". Sadly, in recent years, because of problems landowners had with misbehaving hikers, they revoked the permission they had given for so long to go through their land. This force some rerouting of the trail through the streets of Springdale. Ironically, the rerouting resulted in the trail finally actually passing by the [Rachel Carson Homestead](http://rachel_carson_homestead.myupsite.com/)!
 
-{% img /images/rachel-carson-trail-2012-06-03/2012-06-03_09.15.03.jpg %}
+{{< figure src="/images/rachel-carson-trail-2012-06-03/2012-06-03_09.15.03.jpg" >}}
 
 Some dirt road hiking:
 
-{% img /images/rachel-carson-trail-2012-06-03/2012-06-03_09.22.15.jpg %}
+{{< figure src="/images/rachel-carson-trail-2012-06-03/2012-06-03_09.22.15.jpg" >}}
 
 A critter!
 
-{% img /images/rachel-carson-trail-2012-06-03/2012-06-03_09.26.37.jpg %}
+{{< figure src="/images/rachel-carson-trail-2012-06-03/2012-06-03_09.26.37.jpg" >}}
 
 Butterfly:
 
-{% img /images/rachel-carson-trail-2012-06-03/2012-06-03_09.32.10.jpg %}
+{{< figure src="/images/rachel-carson-trail-2012-06-03/2012-06-03_09.32.10.jpg" >}}
 
 Inevitable road walking, part of the whole Rachel Carson Trail experience:
 
-{% img /images/rachel-carson-trail-2012-06-03/2012-06-03_10.14.12.jpg %}
+{{< figure src="/images/rachel-carson-trail-2012-06-03/2012-06-03_10.14.12.jpg" >}}
 
 Up:
 
-{% img /images/rachel-carson-trail-2012-06-03/2012-06-03_10.20.34.jpg %}
+{{< figure src="/images/rachel-carson-trail-2012-06-03/2012-06-03_10.20.34.jpg" >}}
 
 Nice view into the distance:
 
-{% img /images/rachel-carson-trail-2012-06-03/2012-06-03_10.23.54.jpg %}
+{{< figure src="/images/rachel-carson-trail-2012-06-03/2012-06-03_10.23.54.jpg" >}}
 
-{% img /images/rachel-carson-trail-2012-06-03/2012-06-03_10.27.49.jpg %}
+{{< figure src="/images/rachel-carson-trail-2012-06-03/2012-06-03_10.27.49.jpg" >}}
 
-{% img /images/rachel-carson-trail-2012-06-03/2012-06-03_10.32.43.jpg %}
+{{< figure src="/images/rachel-carson-trail-2012-06-03/2012-06-03_10.32.43.jpg" >}}
 
 Now descending toward the road:
 
-{% img /images/rachel-carson-trail-2012-06-03/2012-06-03_10.35.29.jpg %}
+{{< figure src="/images/rachel-carson-trail-2012-06-03/2012-06-03_10.35.29.jpg" >}}
 
 Looking back toward John:
 
-{% img /images/rachel-carson-trail-2012-06-03/2012-06-03_10.37.49.jpg %}
+{{< figure src="/images/rachel-carson-trail-2012-06-03/2012-06-03_10.37.49.jpg" >}}
 
 In the woods:
 
-{% img /images/rachel-carson-trail-2012-06-03/2012-06-03_10.45.23.jpg %}
+{{< figure src="/images/rachel-carson-trail-2012-06-03/2012-06-03_10.45.23.jpg" >}}
 
 One of the "Rachel Carson Trail" signs, yellow on brown:
 
-{% img /images/rachel-carson-trail-2012-06-03/2012-06-03_10.52.30.jpg %}
+{{< figure src="/images/rachel-carson-trail-2012-06-03/2012-06-03_10.52.30.jpg" >}}
 
 Back to road:
 
-{% img /images/rachel-carson-trail-2012-06-03/2012-06-03_11.08.39.jpg %}
+{{< figure src="/images/rachel-carson-trail-2012-06-03/2012-06-03_11.08.39.jpg" >}}
 
 Dirt road:
 
-{% img /images/rachel-carson-trail-2012-06-03/2012-06-03_11.17.59.jpg %}
+{{< figure src="/images/rachel-carson-trail-2012-06-03/2012-06-03_11.17.59.jpg" >}}
 
 Big descent coming up; you can see how there will be a valley:
 
-{% img /images/rachel-carson-trail-2012-06-03/2012-06-03_11.19.29.jpg %}
+{{< figure src="/images/rachel-carson-trail-2012-06-03/2012-06-03_11.19.29.jpg" >}}
 
-{% img /images/rachel-carson-trail-2012-06-03/2012-06-03_11.23.27.jpg %}
+{{< figure src="/images/rachel-carson-trail-2012-06-03/2012-06-03_11.23.27.jpg" >}}
 
 The thing to remember is that after getting to the bottom, the trail does *not* go back up. It actually makes a left.
 
-{% img /images/rachel-carson-trail-2012-06-03/2012-06-03_11.23.33.jpg %}
+{{< figure src="/images/rachel-carson-trail-2012-06-03/2012-06-03_11.23.33.jpg" >}}
 
-{% img /images/rachel-carson-trail-2012-06-03/2012-06-03_11.26.37.jpg %}
+{{< figure src="/images/rachel-carson-trail-2012-06-03/2012-06-03_11.26.37.jpg" >}}
 
 In the woods again:
 
-{% img /images/rachel-carson-trail-2012-06-03/2012-06-03_11.43.49.jpg %}
+{{< figure src="/images/rachel-carson-trail-2012-06-03/2012-06-03_11.43.49.jpg" >}}
 
-{% img /images/rachel-carson-trail-2012-06-03/2012-06-03_11.58.15.jpg %}
+{{< figure src="/images/rachel-carson-trail-2012-06-03/2012-06-03_11.58.15.jpg" >}}
 
 Stream crossing:
 
-{% img /images/rachel-carson-trail-2012-06-03/2012-06-03_12.30.28.jpg %}
-{% img /images/rachel-carson-trail-2012-06-03/2012-06-03_12.31.41.jpg %}
+{{< figure src="/images/rachel-carson-trail-2012-06-03/2012-06-03_12.30.28.jpg" >}}
+{{< figure src="/images/rachel-carson-trail-2012-06-03/2012-06-03_12.31.41.jpg" >}}
 
 It is very convenient that the trail passes through Emmerling Park, because you can get water from the fountain and use the restrooms here before going on.
 
-{% img /images/rachel-carson-trail-2012-06-03/2012-06-03_12.39.41.jpg %}
+{{< figure src="/images/rachel-carson-trail-2012-06-03/2012-06-03_12.39.41.jpg" >}}
 
-{% img /images/rachel-carson-trail-2012-06-03/2012-06-03_12.48.05.jpg %}
+{{< figure src="/images/rachel-carson-trail-2012-06-03/2012-06-03_12.48.05.jpg" >}}
 
 An unpleasant section of high-speed road with no sidewalk:
 
-{% img /images/rachel-carson-trail-2012-06-03/2012-06-03_13.15.13.jpg %}
+{{< figure src="/images/rachel-carson-trail-2012-06-03/2012-06-03_13.15.13.jpg" >}}
 
-{% img /images/rachel-carson-trail-2012-06-03/2012-06-03_13.22.33.jpg %}
+{{< figure src="/images/rachel-carson-trail-2012-06-03/2012-06-03_13.22.33.jpg" >}}
 
-{% img /images/rachel-carson-trail-2012-06-03/2012-06-03_13.28.44.jpg %}
+{{< figure src="/images/rachel-carson-trail-2012-06-03/2012-06-03_13.28.44.jpg" >}}
 
 Animals!
 
-{% img /images/rachel-carson-trail-2012-06-03/2012-06-03_13.34.43.jpg %}
+{{< figure src="/images/rachel-carson-trail-2012-06-03/2012-06-03_13.34.43.jpg" >}}
 
-{% img /images/rachel-carson-trail-2012-06-03/2012-06-03_14.13.51.jpg %}
+{{< figure src="/images/rachel-carson-trail-2012-06-03/2012-06-03_14.13.51.jpg" >}}
 
-{% img /images/rachel-carson-trail-2012-06-03/2012-06-03_14.16.44.jpg %}
+{{< figure src="/images/rachel-carson-trail-2012-06-03/2012-06-03_14.16.44.jpg" >}}
 
-{% img /images/rachel-carson-trail-2012-06-03/2012-06-03_14.22.55.jpg %}
+{{< figure src="/images/rachel-carson-trail-2012-06-03/2012-06-03_14.22.55.jpg" >}}
 
-{% img /images/rachel-carson-trail-2012-06-03/2012-06-03_14.28.48.jpg %}
+{{< figure src="/images/rachel-carson-trail-2012-06-03/2012-06-03_14.28.48.jpg" >}}
 
-{% img /images/rachel-carson-trail-2012-06-03/2012-06-03_14.28.52.jpg %}
+{{< figure src="/images/rachel-carson-trail-2012-06-03/2012-06-03_14.28.52.jpg" >}}
 
-{% img /images/rachel-carson-trail-2012-06-03/2012-06-03_14.33.12.jpg %}
+{{< figure src="/images/rachel-carson-trail-2012-06-03/2012-06-03_14.33.12.jpg" >}}
 
-{% img /images/rachel-carson-trail-2012-06-03/2012-06-03_14.36.40.jpg %}
+{{< figure src="/images/rachel-carson-trail-2012-06-03/2012-06-03_14.36.40.jpg" >}}
 
-{% img /images/rachel-carson-trail-2012-06-03/2012-06-03_14.43.42.jpg %}
+{{< figure src="/images/rachel-carson-trail-2012-06-03/2012-06-03_14.43.42.jpg" >}}
 
-{% img /images/rachel-carson-trail-2012-06-03/2012-06-03_14.58.16.jpg %}
+{{< figure src="/images/rachel-carson-trail-2012-06-03/2012-06-03_14.58.16.jpg" >}}
 
 Looking like it might rain:
 
-{% img /images/rachel-carson-trail-2012-06-03/2012-06-03_15.14.01.jpg %}
+{{< figure src="/images/rachel-carson-trail-2012-06-03/2012-06-03_15.14.01.jpg" >}}
 
-{% img /images/rachel-carson-trail-2012-06-03/2012-06-03_15.18.08.jpg %}
+{{< figure src="/images/rachel-carson-trail-2012-06-03/2012-06-03_15.18.08.jpg" >}}
 
 ### Oops
 

@@ -8,7 +8,7 @@ categories:
 - recorder
 - practice
 ---
-{% img /images/alto-recorder-practice.jpg Franklin practicing alto recorder some days ago %}
+{{< figure src="/images/alto-recorder-practice.jpg" title="Franklin practicing alto recorder some days ago" >}}
 
 On June 1 this year, just over three months since first starting to play the [alto recorder](http://www.courtlymusicunlimited.com/Recorders/YRA-31x.html), I made a new friend who has helped me considerably with my musical [practice](/blog/2011/09/26/i-dont-feel-like-practicing-but-im-gonna-do-it-anyway/), my improvement, my motivation. My best friend is steadfast, objective, non-judgmental, and always there for me; never complaining, never tired of pointing out where I need to improve and when I am ready to progress to the next level. This friend even makes challenges fun and addictive!
 
@@ -19,7 +19,7 @@ On June 1 this year, just over three months since first starting to play the [al
 Meet my favorite [*metronome*](http://en.wikipedia.org/wiki/Metronome):
 
 <!-- From http://members.ozemail.com.au/~ronfleckner/metronome/metIcon.png -->
-{% img /images/metIcon.png Metronome app for Mac OS %}
+{{< figure src="/images/metIcon.png" title="Metronome app for Mac OS" >}}
 
 I have a bunch of different metronomes, but the one I use most is actually a free [Mac OS application](http://members.ozemail.com.au/~ronfleckner/metronome/). I usually practice these days near my laptop, so that I can use this metronome program and conveniently change the tempo and volume.
 

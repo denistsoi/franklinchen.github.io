@@ -14,7 +14,7 @@ categories:
 - Carnegie Mellon University
 - Phipps Conservatory
 ---
-{% img /images/s-a-t-recorders.jpg My soprano, alto, tenor recorders %}
+{{< figure src="/images/s-a-t-recorders.jpg" title="My soprano, alto, tenor recorders" >}}
 
 Next week on Monday, I am to join a handful of [local recorder players](http://www.andrew.cmu.edu/user/lukas/pcars/Welcome.html) in playing holiday-themed music at a [Candlelit Evening at Phipps Conservatory](http://phipps.conservatory.org/exhibits-and-events/featured-event.aspx?eventid=259)!
 

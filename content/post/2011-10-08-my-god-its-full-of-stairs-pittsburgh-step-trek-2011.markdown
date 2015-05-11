@@ -13,7 +13,7 @@ categories:
 ---
 Today was a beautiful, sunny, warm day, as promised earlier by the weather forecasts.  Abby and I did the 11th annual [Pittsburgh Step Trek](http://www.southsideslopes.org/steptrek) for the first time. I wish I'd known about this event in earlier years! It was a truly unique event, an urban hike of the Pittsburgh [South Side Slopes](http://www.wqed.org/tv/sebak/neighborhoods/so_side.php), with all its many staircases, zig-zagging streets, historic buildings, and great views of the city.
 
-{% img /images/step-trek-stairs-down.jpg ? %}
+{{< figure src="/images/step-trek-stairs-down.jpg" title="?" >}}
 
 We did about six miles of fantastic sightseeing (and got a pretty good workout while at it):
 
@@ -25,7 +25,7 @@ After we checked in with our tickets (pre-registered earlier) and were given a b
 
 We started off with the Gold route, entering South Side Park and immediately taking the 72 serpentine steps up.
 
-{% img /images/step-trek-first-steps.jpg Serpentine steps at South Side Park %}
+{{< figure src="/images/step-trek-first-steps.jpg" title="Serpentine steps at South Side Park" >}}
 
 ## Photos
 
@@ -33,31 +33,31 @@ Below is just a minuscule sample of what else we saw. You'd have to do the Step 
 
 Here's a nice view of Pittsburgh during the trek:
 
-{% img /images/step-trek-view-of-pittsburgh.jpg Nice view of Pittsburgh %}
+{{< figure src="/images/step-trek-view-of-pittsburgh.jpg" title="Nice view of Pittsburgh" >}}
 
 Here's another one:
 
-{% img /images/step-trek-view-of-pittsburgh-2.jpg Another nice view of Pittsburgh %}
+{{< figure src="/images/step-trek-view-of-pittsburgh-2.jpg" title="Another nice view of Pittsburgh" >}}
 
 Here is a [paper street](http://en.wikipedia.org/wiki/Paper_street), Caesar Way, which is actually a staircase rather than an actual street! Pittsburgh has a number of these I have encountered before.
 
-{% img /images/step-trek-caesar-way.jpg Caesar Way (paper street) %}
+{{< figure src="/images/step-trek-caesar-way.jpg" title="Caesar Way (paper street)" >}}
 
 A typical staircase leading connecting areas of different elevation:
 
-{% img /images/step-trek-some-steps.jpg A staircase %}
+{{< figure src="/images/step-trek-some-steps.jpg" title="A staircase" >}}
 
 A beautiful view while descending on a road. The old St. Josaphat church is visible down the road:
 
-{% img /images/step-trek-descent.jpg Descent on road %}
+{{< figure src="/images/step-trek-descent.jpg" title="Descent on road" >}}
 
 One of the bi-level streets we saw, with fencing separating the two levels:
 
-{% img /images/step-trek-lower-level-street.jpg One of the bi-level streets %}
+{{< figure src="/images/step-trek-lower-level-street.jpg" title="One of the bi-level streets" >}}
 
 Me just enjoying a little break at the Eleanor Street parklet:
 
-{% img /images/step-trek-franklin-swing.jpg Franklin on swing at the Eleanor Street parklet %}
+{{< figure src="/images/step-trek-franklin-swing.jpg" title="Franklin on swing at the Eleanor Street parklet" >}}
 
 ## Done
 

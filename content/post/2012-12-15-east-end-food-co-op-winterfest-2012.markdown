@@ -13,13 +13,13 @@ categories:
 ---
 Abby and I went to the annual [East End Food Co-op](http://eastendfoodcoop.com/) [Winterfest](http://www.facebook.com/events/433775433346947/) again, as we have done with John for the third year now. It was held again at the Jewish Community Center in Squirrel Hill.
 
-{% img /images/eefc-winterfest-2012/flyer.jpg Flyer %}
+{{< figure src="/images/eefc-winterfest-2012/flyer.jpg" title="Flyer" >}}
 
 <!--more-->
 
 ## People
 
-{% img /images/eefc-winterfest-2012/people.jpg People %}
+{{< figure src="/images/eefc-winterfest-2012/people.jpg" title="People" >}}
 
 There seemed to be more people than last year, possibly because of the very mild weather this December. I remember marching or driving in the snow in the past.
 
@@ -27,7 +27,7 @@ As usual, there were children of all ages, from a tiny baby to older kids runnin
 
 ## Food
 
-{% img /images/eefc-winterfest-2012/food.jpg Food %}
+{{< figure src="/images/eefc-winterfest-2012/food.jpg" title="Food" >}}
 
 There was a relatively limited selection of vegetarian and vegan food. There was not as much food as last year, and not as much variety either. Some items (such as the tasty latkes) ran out quickly, so that when I went back for seconds, they were already gone. I guess it's hard to calculate how much food is needed each year; last year there was so much left over that we were told to box up leftovers to take home.
 
@@ -41,11 +41,11 @@ I was a little confused this year because the local live musical entertainment w
 
 In any case, we went and there were three local guitarists who performed solo sets, one after another, while we were stuffing ourselves with food and hanging out, running into some people we knew.
 
-{% img /images/eefc-winterfest-2012/guitarist1.jpg Guitarist %}
+{{< figure src="/images/eefc-winterfest-2012/guitarist1.jpg" title="Guitarist" >}}
 
-{% img /images/eefc-winterfest-2012/guitarist2.jpg Guitarist %}
+{{< figure src="/images/eefc-winterfest-2012/guitarist2.jpg" title="Guitarist" >}}
 
-{% img /images/eefc-winterfest-2012/guitarist3.jpg Guitarist %}
+{{< figure src="/images/eefc-winterfest-2012/guitarist3.jpg" title="Guitarist" >}}
 
 Abby and I felt bad because the musical format didn't seem to work so well. A solo guitarist speaking about his or her musical selections and then performing from the heart seems out of place at an event like this that is not quiet and intimate, where the musicians are just background entertainment. A bigger, louder group commands more attention and engagement, especially if playing uptempo dance-oriented music. Here, we could barely hear the solo guitarists talk and sing.
 

@@ -12,7 +12,7 @@ categories:
 - Nimzo-Indian Defense
 - sick
 ---
-{% img /chess/chen-schreiber-2012-12-18_files/diag3FEF9E5EB4A16CC5.gif Black Ne4 sacrifice %}
+{{< figure src="/chess/chen-schreiber-2012-12-18_files/diag3FEF9E5EB4A16CC5.gif" title="Black Ne4 sacrifice" >}}
 
 Last week in [round 5](/blog/2012/12/11/round-5-of-pittsburgh-chess-club-tournament-psychology-of-losing-another-won-game/), I reported on a disastrous game I played in which I was mentally unbalanced and lost, for the second time in the current [Pittsburgh Chess Club](http://www.pittsburghcc.org/) tournament, a game in which I was winning and went into an endgame one Pawn up.
 
@@ -47,13 +47,13 @@ So I did only two things to prepare for the final (whew) round of the chess tour
 
 As I half-expected, Jeff played the Nimzo-Indian against me. We entered a variation that favors White.
 
-{% img /chess/chen-schreiber-2012-12-18_files/diag3FEF9E591F75D725.gif Nimzo-Indian %}
+{{< figure src="/chess/chen-schreiber-2012-12-18_files/diag3FEF9E591F75D725.gif" title="Nimzo-Indian" >}}
 
 ### The middle game
 
 We ended up in a strange position in which Jeff for some reason chose to sacrifice his `g7` Pawn for some activity.
 
-{% img /chess/chen-schreiber-2012-12-18_files/diag3FEF9E5EB4A16CC5.gif Black Ne4 sacrifice %}
+{{< figure src="/chess/chen-schreiber-2012-12-18_files/diag3FEF9E5EB4A16CC5.gif" title="Black Ne4 sacrifice" >}}
 
 I took the Pawn, and then made a pragmatic decision to start simplifying to an endgame. This was not the strongest continuation, but I made this decision because frankly, I was very tired and my highest priority was to avoid a pointless loss caused by inability to calculate properly. So I wanted to simplify. In my last two games, I also deliberately chose to simplify, but then did not follow up consistently.
 
@@ -63,7 +63,7 @@ My plan this time was to be consistent: play into a Pawn-up endgame where I had 
 
 So I forced an exchange of Queens and even traded off Bishops.
 
-{% img /chess/chen-schreiber-2012-12-18_files/diag3FEF9E61CFFEB075.gif Drawn endgame? %}
+{{< figure src="/chess/chen-schreiber-2012-12-18_files/diag3FEF9E61CFFEB075.gif" title="Drawn endgame?" >}}
 
 Objectively, this endgame should be a draw, of course.
 
@@ -71,13 +71,13 @@ But what is "objectivity" when I'm tired, and my opponent is over 200 rating poi
 
 In a single move, pushing `d5`, Jeff finally blundered into a lost game.
 
-{% img /chess/chen-schreiber-2012-12-18_files/diag3FEF9E6666666666.gif Black loses %}
+{{< figure src="/chess/chen-schreiber-2012-12-18_files/diag3FEF9E6666666666.gif" title="Black loses" >}}
 
 Again, after this blunder, which loses a second Pawn (because Black ends up with too many weak isolated Pawns), I continued to play pragmatically. I didn't look for the fastest win, the most elegant. I looked for what I felt to be the *safest* win. I played to prevent Black from any chances at *counterplay*. I slowly pushed my central Pawn mass, rather than go for some faster win that would rely on fewer of my forces but require more calculation. The last two weeks of playing in a tired physical and mental state showed that I could not trust my calculations. On the other hand, if I played relatively mindless but obviously good moves, rather than looking for the "best" moves, I could guarantee a win eventually.
 
 And so I did.
 
-{% img /chess/chen-schreiber-2012-12-18_files/diag3FEF9E712D51E931.gif Black resigned %}
+{{< figure src="/chess/chen-schreiber-2012-12-18_files/diag3FEF9E712D51E931.gif" title="Black resigned" >}}
 
 ## Lessons learned
 

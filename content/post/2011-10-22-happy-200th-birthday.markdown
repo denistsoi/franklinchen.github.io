@@ -33,7 +33,7 @@ It is the late 1800s, and we are lucky enough to have the opportunity to travel 
 
 We find ourselves at the garden in Villa d'Este, rich with Renaissance history and architecture. It is quiet and peaceful. Nobody else is around.
 
-{% img /images/Tivoli-large-fountain-close-da-as-m4-as-m4.jpg Fountains %}
+{{< figure src="/images/Tivoli-large-fountain-close-da-as-m4-as-m4.jpg" title="Fountains" >}}
 
 We sit down and admire the fountains and let our thoughts wander as the water flows. We hear and see the spraying and trickling, glistening under the sun. The air is cool from the movement, and we smell the freshness of the air amidst the trees and the earth.
 

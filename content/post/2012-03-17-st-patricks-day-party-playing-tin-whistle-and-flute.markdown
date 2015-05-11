@@ -10,9 +10,9 @@ categories:
 - Irish music
 - St. Patrick's Day
 ---
-{% img /images/st-patricks-2012/henry-franklin.jpg Henry and Franklin %}
+{{< figure src="/images/st-patricks-2012/henry-franklin.jpg" title="Henry and Franklin" >}}
 
-{% img /images/st-patricks-2012/henry-franklin-abby.jpg Henry and Franklin and Abby %}
+{{< figure src="/images/st-patricks-2012/henry-franklin-abby.jpg" title="Henry and Franklin and Abby" >}}
 
 Abby and I went to [Henry's](/blog/2012/01/27/a-new-friends-very-musical-birthday-party-changed-my-life/) place for a St. Patrick's Day party, for which [I had promised to play some music](/blog/2012/03/12/quitting-the-cmu-all-university-orchestra-one-of-the-hardest-decisions-in-my-life/).
 
@@ -26,13 +26,13 @@ All week, of course, I've been practicing [tin whistle](/blog/2012/03/12/quittin
 
 Actually, I bought a brand new tin whistle just yesterday at the local music store down the street from home, [Acoustic Music Works](http://www.acousticmusicworks.com/).
 
-{% img /images/clarke-sweetone.jpg My new Clarke Sweetone tin whistle %}
+{{< figure src="/images/clarke-sweetone.jpg" title="My new Clarke Sweetone tin whistle" >}}
 
 It was a cheap [Clarke](http://www.clarketinwhistle.com/) [Sweetone](http://www.clarketinwhistle.com/products/sweetone-tin-whistle.aspx). I got this to replace the Feadóg tin whistle that [I used initially to learn](/blog/2011/12/11/learning-another-instrument-the-tin-whistle/) but was badly out of tune.
 
 I had picked up from the library a [nice little tutorial](http://www.lemccullough.com/Music-WhistleDVD.html) on tin whistle and learned a few tunes and some basics of ornamentation:
 
-{% img http://www.lemccullough.com/Music-WhistleDVD_files/DVD%20cover-front-sm-filtered.jpg Learn to Play Irish Tinwhistle %}
+{{< figure src="http://www.lemccullough.com/Music-WhistleDVD_files/DVD%20cover-front-sm-filtered.jpg" title="Learn to Play Irish Tinwhistle" >}}
 
 Completely unlike the classical orchestra world, here, the tunes are very easy, but all the interest is in the personal solo expression and ornamentation.
 
@@ -40,13 +40,13 @@ Completely unlike the classical orchestra world, here, the tunes are very easy, 
 
 There were, of course, fewer guests than at Henry's birthday party. That was good, because it meant it was easier to get to know some people better (whom we had met at the earlier party) and also some new people we hadn't met before. Actually, since Abby and I arrived very early, we got to know Henry better and vice versa before other guests arrived.
 
-{% img /images/st-patricks-2012/abby-franklin-st-patricks.jpg Abby and Franklin in green %}
+{{< figure src="/images/st-patricks-2012/abby-franklin-st-patricks.jpg" title="Abby and Franklin in green" >}}
 
 ### Chess
 
 There's always chess at Henry's parties, because the kids like to play, and some adults too. I didn't play this time; last time I did, but it was very time-consuming (Abby had to drag me away so we could go home), and I wasn't playing any music then!
 
-{% img /images/st-patricks-2012/chess.jpg Boys playing chess %}
+{{< figure src="/images/st-patricks-2012/chess.jpg" title="Boys playing chess" >}}
 
 ### Music jamming
 
@@ -58,7 +58,7 @@ It turns out that Vassily is interested in a wide variety of music, including Ba
 
 Any time I hear someone on accordion playing a waltz or polka, I just have to dance with Abby!
 
-{% img /images/st-patricks-2012/abby-franklin.jpg Abby and Franklin dancing %}
+{{< figure src="/images/st-patricks-2012/abby-franklin.jpg" title="Abby and Franklin dancing" >}}
 
 #### Tin whistle
 

@@ -12,7 +12,7 @@ categories:
 ---
 I just reported on a [chess game I played that featured the Veresov Opening](/blog/2012/11/27/round-3-of-pittsburgh-chess-club-tournament-the-difficult-opponent-and-revenge-of-the-bishop/).
 
-{% img http://ecx.images-amazon.com/images/I/41iLDZTIs%2BL._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA300_SH20_OU01_.jpg Nigel Davies: The Veresov %}
+{{< figure src="http://ecx.images-amazon.com/images/I/41iLDZTIs%2BL._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA300_SH20_OU01_.jpg" title="Nigel Davies: The Veresov" >}}
 
 Back when I was playing the Veresov as White, I studied it using [GM Nigel Davies'](http://en.wikipedia.org/wiki/Nigel_Davies_\(chess_player\)) book from 2003, ["The Veresov"](http://www.amazon.com/Veresov-Surprise-Your-Oponents-Tricky/dp/1857443357).
 

@@ -17,7 +17,7 @@ categories:
 - Pittsburgh
 - contra dance
 ---
-{% img /images/holiday-ball-2012/grand-march.jpg Grand March %}
+{{< figure src="/images/holiday-ball-2012/grand-march.jpg" title="Grand March" >}}
 
 So this year I joined Abby again to play in the "Holiday Ball Orchestra" as I had [done for the first time last year](/blog/2011/12/16/playing-recorder-and-flute-at-the-holiday-ball/), for the annual [Pittsburgh Contras and Squares Holiday Ball](http://www.facebook.com/pages/Pittsburgh-Holiday-Ball/283731778337030).
 
@@ -33,11 +33,11 @@ Of course, I was much more [prepared](/blog/2012/11/24/preparing-to-play-irish-f
 
 Abby wanted me to dress up again. Since people enjoyed my wearing red pants last year, I wore them again this year. I was tired of the whole green thing, however, and so I wore a pink shirt and red vest to go all out on the red theme. I added a sport jacket also, one that had been too big for me my whole life till now; it turns out that my blazer that I wore last year is too small now, as my chest has noticeably expanded in the past year (probably because of weight lifting, posture changes, and playing wind instruments). I added a beret that I'd never worn before.
 
-{% img /images/holiday-ball-2012/franklin.jpg Franklin %}
+{{< figure src="/images/holiday-ball-2012/franklin.jpg" title="Franklin" >}}
 
 Abby came up with her own colorful outfit.
 
-{% img /images/holiday-ball-2012/abby-octave-mandolin.jpg Abby %}
+{{< figure src="/images/holiday-ball-2012/abby-octave-mandolin.jpg" title="Abby" >}}
 
 ## Venue
 
@@ -55,11 +55,11 @@ I also brought my melodica! I had practiced playing the Hallelujah Chorus part o
 
 Abby brought an [octave mandolin](http://en.wikipedia.org/wiki/Octave_mandolin) she had been borrowing. She started playing mandolin just this year, and octave mandolin just in the past couple of weeks, I think. This instrument is so much better suited to the music, she says, than her tamburitza she played last year.
 
-{% img /images/holiday-ball-2012/instruments.jpg Our instruments %}
+{{< figure src="/images/holiday-ball-2012/instruments.jpg" title="Our instruments" >}}
 
 Several "kazumpets" (kazoo trumpets) were also provided by Lynette and Jim, and passed out to whoever wanted to play them during certain songs. Abby took one.
 
-{% img /images/holiday-ball-2012/abby-kazumpet.jpg Abby with kazumpet %}
+{{< figure src="/images/holiday-ball-2012/abby-kazumpet.jpg" title="Abby with kazumpet" >}}
 
 ## Dancing
 
@@ -73,7 +73,7 @@ I saw a lot of familiar faces among the dancers, thanks to having met some of th
 
 Marlin was the caller again as usual and the evening proceeded with the Grand March and then the whole big assortment of jigs, reels, waltzes, Christmas songs, and a couple of interesting new pieces for this year.
 
-{% img /images/holiday-ball-2012/grand-march.jpg Grand March %}
+{{< figure src="/images/holiday-ball-2012/grand-march.jpg" title="Grand March" >}}
 
 I don't have additional interesting photos or videos to share from during the event, because I took none: after the initial Grand March, I was entirely focused just on playing music.
 

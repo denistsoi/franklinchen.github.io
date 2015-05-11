@@ -10,7 +10,7 @@ categories:
 - MOOCs
 - edX
 ---
-{% img http://www.edx.org/sites/default/files/course/image/banner/jazz_608x211.jpg Course banner %}
+{{< figure src="http://www.edx.org/sites/default/files/course/image/banner/jazz_608x211.jpg" title="Course banner" >}}
 
 By coincidence, it is now [Jazz Appreciation Month](http://www.smithsonianjazz.org/), which is observed every April. So it is fitting that I just completed the free MOOC from [edX](http://www.edx.org/) on ["Jazz Appreciation", UT.8.01X](http://www.edx.org/course/utaustinx/utaustinx-ut-8-01x-jazz-appreciation-1149), through UT Austin, taught by Jeffrey Hellmer.
 

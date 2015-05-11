@@ -35,17 +35,17 @@ I did not do any preparation for the game, because I had no idea what opening he
 
 As Black, I responded to `e4` with the Sicilian Defense, which has been featured in many of my previous games. My opponent played the [Rossolimo](http://en.wikipedia.org/wiki/Nicolas_Rossolimo) variation, and I responded with an aggressive if a bit risky continuation:
 
-{% img /chess/wallnau-chen-2012-12-11_files/diag3FEF6640572FE93B.gif Rossolimo variation %}
+{{< figure src="/chess/wallnau-chen-2012-12-11_files/diag3FEF6640572FE93B.gif" title="Rossolimo variation" >}}
 
 The point is to try to hold on to the two Bishops and the center at the same time. We reached a typical position in which Black is behind in development and has a weaker Pawn structure, but does have the two Bishops:
 
-{% img /chess/wallnau-chen-2012-12-11_files/diag3FEF664483F53C30.gif Rossolimo variation %}
+{{< figure src="/chess/wallnau-chen-2012-12-11_files/diag3FEF664483F53C30.gif" title="Rossolimo variation" >}}
 
 ### The middle
 
 My opponent started going astray, conceding equality and then reaching a clearly worse position in which he was the one underdeveloped and I was about to take over the center:
 
-{% img /chess/wallnau-chen-2012-12-11_files/diag3FEF6647612F3696.gif White worse %}
+{{< figure src="/chess/wallnau-chen-2012-12-11_files/diag3FEF6647612F3696.gif" title="White worse" >}}
 
 I was very happy at this point, having coming out of the opening with a clear advantage.
 
@@ -55,7 +55,7 @@ But the stronger my position got, the more anxious and confused I got! I think t
 
 We reached this position that is just plain good for Black:
 
-{% img /chess/wallnau-chen-2012-12-11_files/diag3FEF664D08FEFBCC.gif %}
+{{< figure src="/chess/wallnau-chen-2012-12-11_files/diag3FEF664D08FEFBCC.gif" >}}
 
 Now, I could have achieved a very strong position, by trading my bad Bishop on `g6` for his Knight on `f5`.
 
@@ -69,7 +69,7 @@ What happened instead was very strange, and does not happen to me often.
 
 Step one: I played a bad move, `Rfe8`, that could have been punished by an equalizing tactical continuation:
 
-{% img /chess/wallnau-chen-2012-12-11_files/diag3FEF6650FDD7BFFE.gif Rfe8 bad %}
+{{< figure src="/chess/wallnau-chen-2012-12-11_files/diag3FEF6650FDD7BFFE.gif" title="Rfe8 bad" >}}
 
 *The moment I released my Rook*, I immediately saw that `exd5` would regain the Pawn, because Black cannot retake, given the tactical idea of `f4` attacking the pinned Black Bishop.
 
@@ -77,13 +77,13 @@ But he either missed it or wanted to try for more, and played a different move!
 
 So the psychological game continued. Now that I saw `f4`, I played a move designed to encourage my opponent yet again to try `f4`, except that this time it would be a bad move. And he fell for it!
 
-{% img /chess/wallnau-chen-2012-12-11_files/diag3FEF665D144E9B57.gif f4?? %}
+{{< figure src="/chess/wallnau-chen-2012-12-11_files/diag3FEF665D144E9B57.gif" title="f4??" >}}
 
 I calmly retreated my Bishop to `f6`, and (correctly) evaluated that I had a won game: it was just a question of how to deliver the final blow.
 
 My opponent sensed that it was time to try to sacrifice one Pawn to develop his Bishop with `Bd2` and hope for a draw:
 
-{% img /chess/wallnau-chen-2012-12-11_files/diag3FEF665F438C2EEE.gif Sacrificing b Pawn %}
+{{< figure src="/chess/wallnau-chen-2012-12-11_files/diag3FEF665F438C2EEE.gif" title="Sacrificing b Pawn" >}}
 
 #### Mentally falling apart
 
@@ -99,7 +99,7 @@ Instead, after spending too much time with my mind doing *who knows what*, I los
 
 Note: the fastest winning continuation was to trade pieces and push `d4`.
 
-{% img /chess/wallnau-chen-2012-12-11_files/diag3FEF6668ECA22D65.gif Black winning %}
+{{< figure src="/chess/wallnau-chen-2012-12-11_files/diag3FEF6668ECA22D65.gif" title="Black winning" >}}
 
 ### The end
 
@@ -107,7 +107,7 @@ The endgame was not even forced. My opponent could have varied anywhere along th
 
 We reached the endgame position I had calculated all along:
 
-{% img /chess/wallnau-chen-2012-12-11_files/diag3FEF667CD3EFA704.gif Endgame %}
+{{< figure src="/chess/wallnau-chen-2012-12-11_files/diag3FEF667CD3EFA704.gif" title="Endgame" >}}
 
 #### Rejecting the Pawn-up unlosable endgame
 
@@ -115,7 +115,7 @@ At this point, I *suddenly* changed my plans. I was originally going to trade Ro
 
 We reached this position:
 
-{% img /chess/wallnau-chen-2012-12-11_files/diag3FEF66801ACC0468.gif Rook came down %}
+{{< figure src="/chess/wallnau-chen-2012-12-11_files/diag3FEF66801ACC0468.gif" title="Rook came down" >}}
 
 #### Hallucinating a win
 
@@ -123,13 +123,13 @@ At this point, I suddenly hallucinated a variation that I thought would result i
 
 It ended with my playing `c2` and **grabbing the Black Queen from my opponent's side of the table**, expecting to Queen my `c` Pawn!!
 
-{% img /chess/wallnau-chen-2012-12-11_files/diag3FEF6682312EADE2.gif Hallucination %}
+{{< figure src="/chess/wallnau-chen-2012-12-11_files/diag3FEF6682312EADE2.gif" title="Hallucination" >}}
 
 #### No more win in a drawn position, about to lose the Pawn back
 
 I was left in shock after my opponent played the obvious `Ba3`:
 
-{% img /chess/wallnau-chen-2012-12-11_files/diag3FEF6682CC86E51A.gif No Queening %}
+{{< figure src="/chess/wallnau-chen-2012-12-11_files/diag3FEF6682CC86E51A.gif" title="No Queening" >}}
 
 It's not fun realizing that your mental state has deteriorated so much in the past hour that you hallucinated a win that did not exist.
 
@@ -137,17 +137,17 @@ It's not fun realizing that your mental state has deteriorated so much in the pa
 
 So I did the right thing: I spent precious time calming down, I acknowledged that it was a draw, and I spent the time (I was starting to get into time pressure, under 10 minutes left on the clock) calculating and deciding on a clear *forced* draw, by trading off White's `f5` Pawn in order to free my King, and I proceeded as planned:
 
-{% img /chess/wallnau-chen-2012-12-11_files/diag3FEF668415DB8321.gif Trying to force a draw %}
+{{< figure src="/chess/wallnau-chen-2012-12-11_files/diag3FEF668415DB8321.gif" title="Trying to force a draw" >}}
 
 If White plays the obvious `fxg6`, then the forced line leads to this drawn position I aimed for:
 
-{% img /chess/wallnau-chen-2012-12-11_files/diag3FEF6686BB28EEC5.gif Obvious draw %}
+{{< figure src="/chess/wallnau-chen-2012-12-11_files/diag3FEF6686BB28EEC5.gif" title="Obvious draw" >}}
 
 #### Getting swindled
 
 My opponent cleverly did not play the obvious move, but left his `f5` Pawn hanging, playing `Kd3`:
 
-{% img /chess/wallnau-chen-2012-12-11_files/diag3FEF6684DCB2D40D.gif Swindle %}
+{{< figure src="/chess/wallnau-chen-2012-12-11_files/diag3FEF6684DCB2D40D.gif" title="Swindle" >}}
 
 I call this a swindle because it is a move that is based on the hope that Black will
 
@@ -162,19 +162,19 @@ Instead, I took the Pawn, sensing that maybe I could *win* if my opponent was th
 
 But under increasing time pressure, I started playing mindlessly, and my position got weirder and weirder, even if still drawn:
 
-{% img /chess/wallnau-chen-2012-12-11_files/diag3FEF668D7A977DC7.gif White making progress %}
+{{< figure src="/chess/wallnau-chen-2012-12-11_files/diag3FEF668D7A977DC7.gif" title="White making progress" >}}
 
 #### Losing the drawn position
 
 Because of time pressure, I stopped keeping score after this position, which is still drawn:
 
-{% img /chess/wallnau-chen-2012-12-11_files/diag3FEF66916F7041F9.gif Drawn position %}
+{{< figure src="/chess/wallnau-chen-2012-12-11_files/diag3FEF66916F7041F9.gif" title="Drawn position" >}}
 
 All I had to do was play `Bd8` and White can make no more progress.
 
 But the moment I stopped keeping score was also the moment I stopped thinking about my moves and just played randomly. The rest of the game is not interesting. The final position:
 
-{% img /chess/wallnau-chen-2012-12-11_files/diag3FEF669347AFA22A.gif Black resigned %}
+{{< figure src="/chess/wallnau-chen-2012-12-11_files/diag3FEF669347AFA22A.gif" title="Black resigned" >}}
 
 ## Lessons learned
 

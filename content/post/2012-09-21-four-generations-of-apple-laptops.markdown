@@ -8,7 +8,7 @@ categories:
 - Apple
 - Macintosh
 ---
-{% img /images/transferring-macbook.jpg Transferring MacBook to MacBook Pro %}
+{{< figure src="/images/transferring-macbook.jpg" title="Transferring MacBook to MacBook Pro" >}}
 
 I just bought a new [Apple MacBook Pro](http://www.apple.com/macbook-pro/) to replace my old black plastic 2008 MacBook, in order to get more memory and hard drive space, plus be able to run Mountain Lion. Abby and I also used this upgrade of mine as an opportunity to give her the old MacBook and switch her from running Windows computers. We have various reasons to switch her to Mac, one of them simply being that it's easier for me to administer Macs (which I primarily use, at work and at home) than for me to have to deal with Windows computers also. Much easier to troubleshoot just one type of machine!
 
@@ -20,7 +20,7 @@ My first Apple laptop was a PowerBook Duo 280c that I sold not long after I boug
 
 ## [PowerBook 145B](http://en.wikipedia.org/wiki/PowerBook_140#PowerBook_145B), bought used in 1995
 
-{% img /images/powerbook-145b/finder.jpg PowerBook 145B up in System 7 Finder %}
+{{< figure src="/images/powerbook-145b/finder.jpg" title="PowerBook 145B up in System 7 Finder" >}}
 
 I [mentioned this laptop earlier]((/blog/2011/11/14/my-powerbook-145b/). It actually came out in 1993.
 
@@ -38,7 +38,7 @@ Note how in 3 years, from 1995 to 1998, I multiplied my amount of RAM by a facto
 
 Here's a photo of my (still running [Mac OS Leopard](http://en.wikipedia.org/wiki/Mac_OS_X_Leopard) PowerBook G4 next to my new MacBook Pro:
 
-{% img /images/powerbook-g4-2003-macbook-pro-2012.jpg PowerBook G4 2003 and MacBook Pro 2012 %}
+{{< figure src="/images/powerbook-g4-2003-macbook-pro-2012.jpg" title="PowerBook G4 2003 and MacBook Pro 2012" >}}
 
 ## [MacBook, 13-inch](http://en.wikipedia.org/wiki/MacBook), bought new in 2008
 
@@ -54,7 +54,7 @@ Eventually I had to replace the battery, which swelled. I also upgraded to 4 GB 
 
 Here's a photo of my (still running [Mac OS Lion](http://en.wikipedia.org/wiki/Mac_OS_X_Lion) PowerBook G4 next to my new MacBook Pro:
 
-{% img /images/macbook-2008-macbook-pro-2012.jpg MacBook 2008 and MacBook Pro 2012 %}
+{{< figure src="/images/macbook-2008-macbook-pro-2012.jpg" title="MacBook 2008 and MacBook Pro 2012" >}}
 
 I've given this laptop to Abby as her first Mac.
 
@@ -68,7 +68,7 @@ I am very happy with my new MacBook Pro. I was having difficulties with my old l
 
 In 4 years, from 2008 to 2012, I multiplied RAM by *2.7*, and hard drive by *3*. I bet that in another 4 years, I'll feel pinched again and need yet another upgrade! But for now, I am totally content. This machine is *fast* and *spacious*.
 
-{% img /images/macbook-pro-in-box.jpg MacBook Pro 2012 in box %}
+{{< figure src="/images/macbook-pro-in-box.jpg" title="MacBook Pro 2012 in box" >}}
 
 ## Conclusion
 

@@ -13,7 +13,7 @@ categories:
 - Python
 - Clojure
 ---
-{% img http://openhack.github.com/images/logo-green.png OpenHack logo %}
+{{< figure src="http://openhack.github.com/images/logo-green.png" title="OpenHack logo" >}}
 
 I was excited to attend the [very first meeting](http://www.meetup.com/pittsburgh-ruby/events/96033112/) of [OpenHack Pittsburgh](http://openhack.github.com/pittsburgh/), out of curiosity and as a way to force myself to make progress on a personal programming project of mine using Scala (ironically, after spending the day at work on Scala; apparently I couldn't get enough of it).
 
@@ -21,13 +21,13 @@ The point of [OpenHack](http://openhack.github.com/) is to provide a space for p
 
 Some people come with something to work on, others come to meet other programmers and pitch in on a project, others come to learn something. It was cool that some people left the first meeting finally getting set up on Ruby or Python or Clojure, and working on a project, with help from other people.
 
-{% img /images/openhack-pittsburgh-2013-01-21/room.jpeg One room %}
+{{< figure src="/images/openhack-pittsburgh-2013-01-21/room.jpeg" title="One room" >}}
 
-{% img /images/openhack-pittsburgh-2013-01-21/conference-room.jpeg Conference room %}
+{{< figure src="/images/openhack-pittsburgh-2013-01-21/conference-room.jpeg" title="Conference room" >}}
 
 And yes, in the two hours I was there, I did make good progress on my project. It's not finished yet though.
 
-{% img /images/openhack-pittsburgh-2013-01-21/closeup.jpeg Franklin and others %}
+{{< figure src="/images/openhack-pittsburgh-2013-01-21/closeup.jpeg" title="Franklin and others" >}}
 
 ## Thanks
 

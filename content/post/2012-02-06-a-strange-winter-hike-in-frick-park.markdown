@@ -22,11 +22,11 @@ It was very strange doing this hike in early February, when Pittsburgh should be
 
 We started off following the Nine Mile Run Trail. As you can see, there was no snow to be found!
 
-{% img /images/frick-hike-2012-02-05/nine-mile-run-trail.jpg Nine Mile Run Trail %}
+{{< figure src="/images/frick-hike-2012-02-05/nine-mile-run-trail.jpg" title="Nine Mile Run Trail" >}}
 
 Then we meandered around, taking a bunch of other familiar trails, going uphill and downhill, and eventually ended back down in Fern Hollow. We took a pretty fast pace.
 
-{% img /images/frick-hike-2012-02-05/up.jpg Going uphill %}
+{{< figure src="/images/frick-hike-2012-02-05/up.jpg" title="Going uphill" >}}
 
 "Officially", the hike was done, but some of us wanted to do more, so we ended up going up the steep Fire Lane Trail Extension. Abby, John, and I said goodbye to the group when we reached the Lower Riverview Trail, since that was the way to start heading home rather than going back down to Fern Hollow again. We'd already gone down to Fern Hollow twice and I figured that we didn't need to go down it yet again.
 
@@ -34,7 +34,7 @@ Then we meandered around, taking a bunch of other familiar trails, going uphill 
 
 This hike was the first time I'd worn my Vibram FiveFingers KSO Trek shoes out in sub-40 temperatures, and with the expectation of getting my feet wet. I wore Injinji toe socks to try to keep my feet warm.
 
-{% img /images/frick-hike-2012-02-05/kso-trek-with-injinji.jpg Franklin wearing KSO Trek shoes with Injinji socks %}
+{{< figure src="/images/frick-hike-2012-02-05/kso-trek-with-injinji.jpg" title="Franklin wearing KSO Trek shoes with Injinji socks" >}}
 
 Abby wore her FiveFingers Trek Sport shoes along with her modified tights.
 
@@ -42,7 +42,7 @@ There were not a lot of very wet spots on the trails, but there were sections th
 
 Because of the shade, parts of the Riverview Trail actually still had residual snow from whenever.
 
-{% img /images/frick-hike-2012-02-05/snow-mud.jpg Snow and mud on trail %}
+{{< figure src="/images/frick-hike-2012-02-05/snow-mud.jpg" title="Snow and mud on trail" >}}
 
 ## Conclusion
 

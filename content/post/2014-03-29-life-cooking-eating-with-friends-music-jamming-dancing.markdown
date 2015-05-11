@@ -32,7 +32,7 @@ While I was taking a break, John played a multi-section hanter dro that Fabien a
 
 This seemed to me the biggest French potluck party yet, with almost twenty people present, I believe. We met some new people as well as old friends.
 
-{% img /images/french-potluck-2014-03-29/dinner.jpg At dinner %}
+{{< figure src="/images/french-potluck-2014-03-29/dinner.jpg" title="At dinner" >}}
 
 I baked a butternut squash to bring. I only very, very lightly seasoned it, to not detract from the natural flavor of the squash:
 
@@ -44,46 +44,46 @@ I baked a butternut squash to bring. I only very, very lightly seasoned it, to n
 - extra virgin olive oil
 - brown sugar
 
-{% img /images/french-potluck-2014-03-29/squash.jpg Butternut squash %}
+{{< figure src="/images/french-potluck-2014-03-29/squash.jpg" title="Butternut squash" >}}
 
 Abby made a kale and mushroom dish:
 
-{% img /images/french-potluck-2014-03-29/kale.jpg Kale %}
+{{< figure src="/images/french-potluck-2014-03-29/kale.jpg" title="Kale" >}}
 
 The other guests all brought a lot of great homemade food, and Lisa and Alex provided tasty and filling entrees and desserts. A fantastic meal!
 
-{% img /images/french-potluck-2014-03-29/food1.jpg Food %}
-{% img /images/french-potluck-2014-03-29/food2.jpg Food %}
-{% img /images/french-potluck-2014-03-29/food3.jpg Food %}
+{{< figure src="/images/french-potluck-2014-03-29/food1.jpg" title="Food" >}}
+{{< figure src="/images/french-potluck-2014-03-29/food2.jpg" title="Food" >}}
+{{< figure src="/images/french-potluck-2014-03-29/food3.jpg" title="Food" >}}
 
 Yes, there were [Brussels sprouts, and I enjoyed them](/blog/2014/03/21/time-to-taste-the-world-thoughts-on-expanding-my-food-tastes-as-an-adult/)!
 
-{% img /images/french-potluck-2014-03-29/brussels-sprouts.jpg Brussels sprouts %}
+{{< figure src="/images/french-potluck-2014-03-29/brussels-sprouts.jpg" title="Brussels sprouts" >}}
 
 ### Cookies (and other desserts)
 
 In accordance with [my rule](/blog/2014/01/16/a-system-for-quitting-eating-cookies/):
 
 Music-themed cookies homemade from molds:
-{% img /images/french-potluck-2014-03-29/musical-cookies.jpg Musical cookies %}
+{{< figure src="/images/french-potluck-2014-03-29/musical-cookies.jpg" title="Musical cookies" >}}
 
 I ate one, of a dancing couple:
 
-{% img /images/french-potluck-2014-03-29/dance-cookie.jpg %}
+{{< figure src="/images/french-potluck-2014-03-29/dance-cookie.jpg" >}}
 
 A slice of yummy chocolatey thing:
-{% img /images/french-potluck-2014-03-29/chocolatey.jpg Chocolatey %}
+{{< figure src="/images/french-potluck-2014-03-29/chocolatey.jpg" title="Chocolatey" >}}
 
 A slice of chocolate cake:
-{% img /images/french-potluck-2014-03-29/chocolate-cake.jpg Chocolate cake %}
+{{< figure src="/images/french-potluck-2014-03-29/chocolate-cake.jpg" title="Chocolate cake" >}}
 
 (Unfortunately, I think I should have cut myself a smaller slice, instead of accepting a precut slice.)
 
 A tiny piece of a very rich, buttery thing:
-{% img /images/french-potluck-2014-03-29/another-dessert.jpg %}
+{{< figure src="/images/french-potluck-2014-03-29/another-dessert.jpg" >}}
 
 A non-homemade cookie from a box (I didn't need to eat this):
-{% img /images/french-potluck-2014-03-29/box-cookie.jpg %}
+{{< figure src="/images/french-potluck-2014-03-29/box-cookie.jpg" >}}
 
 ## Dancing
 
@@ -95,9 +95,9 @@ After that, there was a break, and since it was already "late" (for Abby and me 
 
 Some photos of dancing that I took before we left early:
 
-{% img /images/french-potluck-2014-03-29/dancing1.jpg %}
-{% img /images/french-potluck-2014-03-29/dancing2.jpg %}
-{% img /images/french-potluck-2014-03-29/dancing3.jpg %}
+{{< figure src="/images/french-potluck-2014-03-29/dancing1.jpg" >}}
+{{< figure src="/images/french-potluck-2014-03-29/dancing2.jpg" >}}
+{{< figure src="/images/french-potluck-2014-03-29/dancing3.jpg" >}}
 
 ## Conclusion
 

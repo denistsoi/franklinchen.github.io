@@ -15,7 +15,7 @@ categories:
 - Luna Sandals
 - Carnival
 ---
-{% img /images/random-distance-run-2013.jpg CMU Random Distance Run 2013 %}
+{{< figure src="/images/random-distance-run-2013.jpg" title="CMU Random Distance Run 2013" >}}
 
 For the third time, I ran in the annual [Random Distance Run](http://www.cs.cmu.edu/~RDR/) held on the 400m outdoor track at Carnegie Mellon University. It was a cold, rainy Friday afternoon.
 
@@ -84,7 +84,7 @@ Again, this year, [2013](http://www.cs.cmu.edu/~RDR/results-2013.html), I had no
 
 Worst of all, I had eaten a rather large, heavy lunch, thanks to the annual CMU Carnival BBQ:
 
-{% img /images/cmu-carnival-bbq-2013.jpg CMU Carnival BBQ 2013 %}
+{{< figure src="/images/cmu-carnival-bbq-2013.jpg" title="CMU Carnival BBQ 2013" >}}
 
 Not the kind of food I eat every day, and certain not just before a serious race!
 
@@ -110,9 +110,9 @@ My legs felt banged up after the race, from not only the cumulative fatigue of m
 
 ## Cool T-shirt
 
-{% img /images/random-distance-run-2013-t-shirt-front.jpg CMU Random Distance Run 2013 T-shirt front %}
+{{< figure src="/images/random-distance-run-2013-t-shirt-front.jpg" title="CMU Random Distance Run 2013 T-shirt front" >}}
 
-{% img /images/random-distance-run-2013-t-shirt-back.jpg CMU Random Distance Run 2013 T-shirt back %}
+{{< figure src="/images/random-distance-run-2013-t-shirt-back.jpg" title="CMU Random Distance Run 2013 T-shirt back" >}}
 
 ## Conclusion
 

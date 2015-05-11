@@ -60,13 +60,13 @@ Helen not only brought in the recipe for her delicious brownies from [last month
 
 The recipe for last month's brownies:
 
-{% img /images/pittsburgh-recorder-society-2014-04-27/recipe.jpg %}
+{{< figure src="/images/pittsburgh-recorder-society-2014-04-27/recipe.jpg" >}}
 
 I ate three of this month's "Dolly Parton" squares:
 
-{% img /images/pittsburgh-recorder-society-2014-04-27/cookie1.jpg %}
-{% img /images/pittsburgh-recorder-society-2014-04-27/cookie2.jpg %}
-{% img /images/pittsburgh-recorder-society-2014-04-27/cookie3.jpg %}
+{{< figure src="/images/pittsburgh-recorder-society-2014-04-27/cookie1.jpg" >}}
+{{< figure src="/images/pittsburgh-recorder-society-2014-04-27/cookie2.jpg" >}}
+{{< figure src="/images/pittsburgh-recorder-society-2014-04-27/cookie3.jpg" >}}
 
 Although setting a limit on three was better than no limit at all, after I got home, I did wonder whether maybe I should have limited myself to two; these were quite substantial and filling!
 

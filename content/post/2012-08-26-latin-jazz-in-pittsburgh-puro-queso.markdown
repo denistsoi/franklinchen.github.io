@@ -20,9 +20,9 @@ One great thing about Pittsburgh is the free cultural programs at the Carnegie L
 
 I was amused to notice that when we arrived, I recognized the saxophonist! It was someone I had seen around a lot on campus at work at CMU. I figured he must be staff or faculty. (I looked him up and sure enough, he is [Paul Eiss, professor in the history department](http://www.history.cmu.edu/faculty/eiss.html).)
 
-{% img /images/puro-queso/soprano-sax.jpg Paul Eiss on soprano sax %}
+{{< figure src="/images/puro-queso/soprano-sax.jpg" title="Paul Eiss on soprano sax" >}}
 
-{% img /images/puro-queso/tenor-sax.jpg Paul Eiss on tenor sax %}
+{{< figure src="/images/puro-queso/tenor-sax.jpg" title="Paul Eiss on tenor sax" >}}
 
 As usual at these library events, where time is limited and the purpose is to spark interest not only in the music but also to encourage concert attendance and CD purchases, the mustical selections tended toward well-known classic crowd pleasers, rather than more adventurous material or wilder improvisation. In any case, it was fun, and Abby and I danced a little too. Some of the selections I recognized:
 

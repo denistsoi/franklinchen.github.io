@@ -13,7 +13,7 @@ It's 4:30 PM, and I scramble to finish up my work early for this day, and rush o
 
 There may be six other people in the room. Or there may be fifteen. Or just three. It doesn't matter how many. In this room, our main mission is to line up facing the wall and sit down on [cushions](http://en.wikipedia.org/wiki/Zafu) on the floor and remain silent, and just see what the heck happens.
 
-{% img /images/franklin-zafu.jpg Franklin's zafu %}
+{{< figure src="/images/franklin-zafu.jpg" title="Franklin's zafu" >}}
 
 <!--more-->
 

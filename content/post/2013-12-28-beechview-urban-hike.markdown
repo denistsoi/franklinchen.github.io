@@ -19,7 +19,7 @@ I randomly chose for us to explore [Beechview](http://en.wikipedia.org/wiki/Beec
 
 Actually, the choice wasn't quite random.
 
-{% img /images/beechview-2013-12-28/mural.jpg %}
+{{< figure src="/images/beechview-2013-12-28/mural.jpg" >}}
  
 <!--more-->
 
@@ -41,48 +41,48 @@ One thing we didn't do was navigate all the steps we saw, because of the residua
 
 ## Some photos
 
-{% img /images/beechview-2013-12-28/steps-view.jpg Steps and view %}
+{{< figure src="/images/beechview-2013-12-28/steps-view.jpg" title="Steps and view" >}}
 
-{% img /images/beechview-2013-12-28/steps-street.jpg Steps for sidewalk %}
+{{< figure src="/images/beechview-2013-12-28/steps-street.jpg" title="Steps for sidewalk" >}}
 
 It's pretty hilly in Beechview:
 
-{% img /images/beechview-2013-12-28/hilly.jpg Hilly streets %}
+{{< figure src="/images/beechview-2013-12-28/hilly.jpg" title="Hilly streets" >}}
 
 We braved this staircase that involved a little bit of snow:
 
-{% img /images/beechview-2013-12-28/steps-snowy.jpg Steps with snow %}
+{{< figure src="/images/beechview-2013-12-28/steps-snowy.jpg" title="Steps with snow" >}}
 
 There was this weird short trail:
 
-{% img /images/beechview-2013-12-28/trail.jpg Trail %}
+{{< figure src="/images/beechview-2013-12-28/trail.jpg" title="Trail" >}}
 
 Emerging from the trail:
 
-{% img /images/beechview-2013-12-28/after-trail.jpg After trail %}
+{{< figure src="/images/beechview-2013-12-28/after-trail.jpg" title="After trail" >}}
 
 Well, this is the view going up Canton Avenue. It's steep but short:
 
-{% img /images/beechview-2013-12-28/canton-avenue.jpg Canton Avenue %}
+{{< figure src="/images/beechview-2013-12-28/canton-avenue.jpg" title="Canton Avenue" >}}
 
 Some steps along a street:
 
-{% img /images/beechview-2013-12-28/steps-sloping-street.jpg Steps sloping on a street %}
+{{< figure src="/images/beechview-2013-12-28/steps-sloping-street.jpg" title="Steps sloping on a street" >}}
 
 The trolley in action:
 
-{% img /images/beechview-2013-12-28/trolley.jpg %}
+{{< figure src="/images/beechview-2013-12-28/trolley.jpg" >}}
 
 The station where the trolley had come from:
 
-{% img /images/beechview-2013-12-28/station.jpg %}
+{{< figure src="/images/beechview-2013-12-28/station.jpg" >}}
 
 More steps, but we were getting hungry, and so we did not follow them:
 
-{% img /images/beechview-2013-12-28/steps-to-where.jpg %}
+{{< figure src="/images/beechview-2013-12-28/steps-to-where.jpg" >}}
 
-{% img /images/beechview-2013-12-28/mural.jpg %}
+{{< figure src="/images/beechview-2013-12-28/mural.jpg" >}}
 
 Pizza! I almost forgot to take a photo as we already started devouring the pizza:
 
-{% img /images/beechview-2013-12-28/pizza.jpg Pizza %}
+{{< figure src="/images/beechview-2013-12-28/pizza.jpg" title="Pizza" >}}

@@ -24,15 +24,15 @@ I've settled on the Uncle Sam's Special Steak as my usual selection these days, 
 
 Uncle Sam's Special steak:
 
-{% img /images/uncle-sams-subs/uneaten.jpg Uncle Sam's Special Steak %}
+{{< figure src="/images/uncle-sams-subs/uneaten.jpg" title="Uncle Sam's Special Steak" >}}
 
 I ate the whole thing! It took me some time:
 
-{% img /images/uncle-sams-subs/eaten.jpg Finished eating %}
+{{< figure src="/images/uncle-sams-subs/eaten.jpg" title="Finished eating" >}}
 
 I was very satisfied afterwards.
 
-{% img /images/uncle-sams-subs/franklin.jpg Full Franklin %}
+{{< figure src="/images/uncle-sams-subs/franklin.jpg" title="Full Franklin" >}}
 
 ## Conclusion
 

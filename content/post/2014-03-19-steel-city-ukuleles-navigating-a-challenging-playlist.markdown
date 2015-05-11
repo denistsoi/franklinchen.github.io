@@ -12,7 +12,7 @@ categories:
 - Stevie Wonder
 - Simon and Garfunkel
 ---
-{% img /images/steel-city-ukuleles-2014-03-19.jpg Group photo %}
+{{< figure src="/images/steel-city-ukuleles-2014-03-19.jpg" title="Group photo" >}}
 
 Two weeks ago, I [returned to attending Steel City Ukuleles meetings](/blog/2014/03/05/thoughts-on-returning-to-ukulele-after-almost-two-months-off/) after almost two months off, and I [attended again tonight](http://www.meetup.com/Steel-City-Ukuleles/events/158392572/); my habit since starting out last summer has been to attend the regular first and third Wednesday meetings in Regent Square. Although I have been thinking of cutting back to attending once a month instead of twice a month, I was intrigued by the rather ambitious playlist Adam created for this week, so I couldn't resist going, even though it meant conflicting with a newly revived regular [French dance music jam](/blog/categories/french-dance/) that I haven't attended in half a year.
 
@@ -36,4 +36,4 @@ As we were all packing up to leave, Jack said we needed a group photo because it
 
 After I got home, I realized my left fingertips were so sore that I could barely type at the computer. I was OK, but that was a really intense two-hour meetup! I'm still getting all my callouses back.
 
-{% img /images/steel-city-ukuleles-2014-03-19-fingers.jpg My fingers %}
+{{< figure src="/images/steel-city-ukuleles-2014-03-19-fingers.jpg" title="My fingers" >}}

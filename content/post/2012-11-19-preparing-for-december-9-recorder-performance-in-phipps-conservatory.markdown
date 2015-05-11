@@ -14,7 +14,7 @@ categories:
 ---
 It's *that* time of year.
 
-{% img /images/phipps-candlelight.jpg Phipps Conservatory candlelight evening %}
+{{< figure src="/images/phipps-candlelight.jpg" title="Phipps Conservatory candlelight evening" >}}
 
 I just came back from another two-hour rehearsal (we've been having one every week) for an upcoming music gig.
 

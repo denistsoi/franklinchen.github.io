@@ -10,7 +10,7 @@ categories:
 - traditional dance
 - ballroom dance
 ---
-{% img /images/bourree.jpg Dancing to bourree %}
+{{< figure src="/images/bourree.jpg" title="Dancing to bourree" >}}
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/LwyH1viCibo" frameborder="0" allowfullscreen></iframe>
 

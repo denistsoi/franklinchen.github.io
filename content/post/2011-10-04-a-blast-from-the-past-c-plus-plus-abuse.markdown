@@ -12,7 +12,7 @@ Lately I've been seeing a lot of mention of the online book ["Learn C the Hard W
 
 My most important tool, however, was Purify of [Pure Software](http://en.wikipedia.org/wiki/Pure_Software). We were such good customers of Pure Software, using also Quantify, Pure Link, and Pure Coverage, that we got sent mugs, of which I still have one and drink water from daily!
 
-{% img /images/pure-software-mug.jpg Pure Software mug %}
+{{< figure src="/images/pure-software-mug.jpg" title="Pure Software mug" >}}
 
 In the spirit of reminiscence about C and C++ programming, I hereby share my first code excerpt of this blog.
 

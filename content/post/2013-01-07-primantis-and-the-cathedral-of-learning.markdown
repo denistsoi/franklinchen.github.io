@@ -39,4 +39,4 @@ Then we went to [Primanti's](http://primantibros.com/) in Oakland, as planned. I
 
 I heard recently that Primanti's may be [expanding nationwide](http://www.wpxi.com/news/news/local/primanti-bros-receives-investment-hopes-expanding-/nTmGP/). Cool! Why should the Pittsburgh area be the only one privileged to enjoy the huge "fully loaded" sandwiches with fries and cole slaw inside?
 
-{% img /images/primantis-roast-beef-oakland.jpg Primanti's roast beef sandwich %}
+{{< figure src="/images/primantis-roast-beef-oakland.jpg" title="Primanti's roast beef sandwich" >}}

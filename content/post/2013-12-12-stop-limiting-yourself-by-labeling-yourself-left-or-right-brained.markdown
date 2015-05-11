@@ -7,7 +7,7 @@ external-url:
 categories: 
 - psychology
 ---
-{% img http://en.sommer-sommer.com/braintest/img/brain_result.png Brain %}
+{{< figure src="http://en.sommer-sommer.com/braintest/img/brain_result.png" title="Brain" >}}
 
 It is popular in some circles to obsess over so-called "left-brained" versus "left-brained" characteristics, or even people. There are whole books hyping up such a distinction, and even promoting one or the other.
 

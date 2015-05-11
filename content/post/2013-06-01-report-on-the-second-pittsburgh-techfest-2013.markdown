@@ -29,7 +29,7 @@ Last year ([my report here](/blog/2012/06/09/report-on-the-first-pittsburgh-tech
 
 ## My second year
 
-{% img http://pghtechfest.com/images/pt_logo_2.png Pittsburgh TechFest 2013 %}
+{{< figure src="http://pghtechfest.com/images/pt_logo_2.png" title="Pittsburgh TechFest 2013" >}}
 
 I was very excited to attend it again this year, with a twist: I reported last year that I was inspired by seeing people I know giving talks, and two months later, after the very first [Steel City Ruby Conf](http://steelcityruby.org/) [decided to finally start giving talks myself](/blog/2012/08/07/the-first-steel-city-ruby-conference-an-amazing-experience/), starting with user group talks. When the organizers of this year's Pittsburgh TechFest put out a call for presentations four months ago, I knew I wanted to submit some, and so I did. My talk "Stop overusing regular expressions!" was accepted!
 

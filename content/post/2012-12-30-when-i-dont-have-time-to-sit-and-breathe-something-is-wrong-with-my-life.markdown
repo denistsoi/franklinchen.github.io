@@ -9,7 +9,7 @@ categories:
 - practice
 - time management
 ---
-{% img /images/zafus.jpg Our two zafus %}
+{{< figure src="/images/zafus.jpg" title="Our two zafus" >}}
 
 It's been a long time since I've mentioned *meditation* here. In fact, it's been [ten months](/blog/2012/02/23/saying-no-in-order-to-say-yes/)! This despite my knowledge of [how beneficial it is](/blog/2012/02/02/2-new-daily-habits-of-mine-in-a-distracting-world/).
 

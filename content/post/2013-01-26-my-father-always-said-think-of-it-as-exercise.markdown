@@ -8,7 +8,7 @@ categories:
 - exercise
 - father
 ---
-{% img /images/shoveled-sidewalk.jpg Shoveled sidewalk %}
+{{< figure src="/images/shoveled-sidewalk.jpg" title="Shoveled sidewalk" >}}
 
 Maybe you have a father like mine.
 
@@ -52,7 +52,7 @@ So I've not only gone out to shovel snow from my sidewalk when needed, but I've 
 
 Also, brushing snow off my own car is exercise as well and again, involves lots of interesting movements. I like using long cross-body swipes to be efficient at getting snow down and off my car.
 
-{% img /images/car-snow.jpg My car with snow off %}
+{{< figure src="/images/car-snow.jpg" title="My car with snow off" >}}
 
 ## Conclusion
 

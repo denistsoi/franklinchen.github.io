@@ -15,7 +15,7 @@ categories:
 - dance
 - gender roles
 ---
-{% img http://upload.wikimedia.org/wikipedia/en/4/43/Talk_to_Her_English_movie_poster_fairuse.jpg Talk to her %}
+{{< figure src="http://upload.wikimedia.org/wikipedia/en/4/43/Talk_to_Her_English_movie_poster_fairuse.jpg" title="Talk to her" >}}
 
 After a decade of putting it off, I finally watched [Pedro Almodóvar](http://en.wikipedia.org/wiki/Pedro_Almod%C3%B3var)'s 2002 film, ["Hable con ella" ("Talk to her")](http://en.wikipedia.org/wiki/Talk_to_Her). I was actually on the verge of going to a local movie theater to watch it a decade ago when circumstances in my life changed and I put it on hold. But Abby and I just watched it together, partially because Almodóvar has been on my mind since [I re-listened to some music sung by La Lupe a couple of days ago](/blog/2013/12/19/appreciating-the-unique-singer-la-lupe/).
 

@@ -11,7 +11,7 @@ categories:
 - Alia Musica
 - Pittsburgh
 ---
-{% img http://www.pittsburghnewmusicnet.com/wp-content/uploads/2013/03/RD-bass-fl-by-Scott-Friedlander-web.jpg Robert Dick %}
+{{< figure src="http://www.pittsburghnewmusicnet.com/wp-content/uploads/2013/03/RD-bass-fl-by-Scott-Friedlander-web.jpg" title="Robert Dick" >}}
 
 I attended [Robert Dick](http://www.robertdick.net/)'s [solo flute recital](http://www.facebook.com/events/135297873312141/) in Pittsburgh with [Alia Musica](http://www.alia-musica.org/).
 

@@ -14,7 +14,7 @@ But I've been missing chess in the past week or so. I can tell because I've been
 
 I stopped by the Pittsburgh Chess Club to check out the action. Henry was playing against Ed Dean; I wanted to say hello, but he didn't even see me during the several minutes I was present watching people's games. He was so focused and deep in thought, never looking up!
 
-{% img /images/dean-doktorski.jpg Dean-Doktorski chess game %}
+{{< figure src="/images/dean-doktorski.jpg" title="Dean-Doktorski chess game" >}}
 
 ## (Update of 2013-07-31)
 

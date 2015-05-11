@@ -8,7 +8,7 @@ categories:
 - National Day of Unplugging
 - information diet
 ---
-{% img /images/unplug.jpg National Day of Unplugging 2012 %}
+{{< figure src="/images/unplug.jpg" title="National Day of Unplugging 2012" >}}
 
 Just in February, I heard of the [National Day of Unplugging](http://nationaldayofunplugging.org/) scheduled for March 23-24, 2012, and immediately put it on my calendar, with the hope of observing it.
 
@@ -16,7 +16,7 @@ For some time, I've been [struggling with being increasingly plugged into the In
 
 Ironically, on Wednesday I just bought my first smartphone, after years of never having used one. So what's going on?!
 
-{% img /images/phones/samsung-galaxy-s-ii.jpg Brand new Samsung Galaxy S II %}
+{{< figure src="/images/phones/samsung-galaxy-s-ii.jpg" title="Brand new Samsung Galaxy S II" >}}
 
 <!--more-->
 
@@ -40,7 +40,7 @@ If you have not already made plans that require being plugged in on Saturday, I 
 
 ### Old phone died
 
-{% img /images/phones/motorola-razr-v3t.jpg Motorola Razr V3t with blank display %}
+{{< figure src="/images/phones/motorola-razr-v3t.jpg" title="Motorola Razr V3t with blank display" >}}
 
 The short story is that on Tuesday, the display of my five-year-old cell phone, a Motorola Razr V3t I bought in January 2007, went blank, and so it was time to finally upgrade my phone. I had been thinking for a year or two now of getting a smartphone, because the display had become flaky and battery life decreasing, but had not because
 

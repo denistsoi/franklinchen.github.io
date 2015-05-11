@@ -27,6 +27,6 @@ I enjoyed getting a taste of what all these different kids had to offer musicall
 
 Afterwards, cookies at a reception. I was hungry. I could not [resist](/blog/2014/01/16/a-system-for-quitting-eating-cookies/).
 
-{% img /images/cookies-2014-03-08/cupcake.jpg %}
+{{< figure src="/images/cookies-2014-03-08/cupcake.jpg" >}}
 
-{% img /images/cookies-2014-03-08/cookie.jpg %}
+{{< figure src="/images/cookies-2014-03-08/cookie.jpg" >}}

@@ -23,7 +23,7 @@ Adam led a great playlist of songs for us to go through.
 
 ## Steel City Ukuleles T-shirt
 
-{% img /images/steel-city-ukuleles-shirt.jpg Franklin wearing Steel City Ukuleles shirt %}
+{{< figure src="/images/steel-city-ukuleles-shirt.jpg" title="Franklin wearing Steel City Ukuleles shirt" >}}
 
 The first thing I did upon arrival at the session was to pay for and put on the Steel City Ukuleles T-shirt that Sunny said was for sale at my last meeting. I picked the blue one (there is also a red one). Very nice, and I'm proud to be wearing it!
 
@@ -45,7 +45,7 @@ I'm still using the loaner banjolele, because the intonation of my Lanikai sopra
 
 I returned Linda's electric tenor and she lent me another instrument, an inexpensive concert ukulele (pictured):
 
-{% img /images/steel-city-ukuleles-shirt.jpg Franklin wearing Steel City Ukuleles shirt %}
+{{< figure src="/images/steel-city-ukuleles-shirt.jpg" title="Franklin wearing Steel City Ukuleles shirt" >}}
 
  It's been a good thing for me to try out different instruments, before I buy a concert sized ukulele of my own, which I should do soon, because just a week ago, I signed up to perform in a gig!
 
@@ -55,11 +55,11 @@ What has been really inspiring and was seeing some of the members of the group v
 
 For example, Heidi, Amber, and Sunny performed a song as a trio, with beautiful ukulele playing and singing in harmony.
 
-{% img /images/heidi-amber-sunny.jpg Heidi, Amber, and Sunny %}
+{{< figure src="/images/heidi-amber-sunny.jpg" title="Heidi, Amber, and Sunny" >}}
 
 ## I decided to perform before I was ready
 
-{% img /images/ecofest-2013.png Wilkins Center Community Center Ecofest 2013 %}
+{{< figure src="/images/ecofest-2013.png" title="Wilkins Center Community Center Ecofest 2013" >}}
 
 Last week, Sunny put out a call for volunteers to perform for a gig in a month, at the second annual [Wilkins Center Community Center](http://www.wsccpgh.org/) Ecofest.
 

@@ -48,7 +48,7 @@ A note on shoes
 
 I ran yesterday's race in my [Vibram FiveFingers Bikila LS shoes](http://www.vibramfivefingers.com/products/Five-Fingers-BikilaLS-Mens.htm), the first time I'd worn this pair of shoes in a race. I will run the Great Race in these shoes also. (More later on this blog about "minimalist shoes" and how they saved my life.)
 
-{% img /images/my-bikila-ls.jpg Franklin's Vibram FiveFingers Bikila LS shoes %}
+{{< figure src="/images/my-bikila-ls.jpg" title="Franklin's Vibram FiveFingers Bikila LS shoes" >}}
 
 Preview for Sunday
 ------------------
@@ -57,7 +57,7 @@ On Sunday I will be running the [Pittsburgh Great Race 10K](http://www.rungreatr
 
 Below is a photo of my running it for the first time, in 2000, as the second race I had ever done (and I had never run more than three miles continuously in my life at that time). It was quite an ordeal. The following year I ran the race better prepared, 8:51 faster.
 
-{% img /images/great-race-2000.jpg Franklin nearing the finish of the Great Race in 2000 %}
+{{< figure src="/images/great-race-2000.jpg" title="Franklin nearing the finish of the Great Race in 2000" >}}
 
 ### (Update of 2011-09-25)
 

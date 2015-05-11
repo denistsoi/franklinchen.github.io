@@ -14,7 +14,7 @@ Just a couple of days ago, I started [playing flute again](/blog/2011/11/09/taki
 
 Guess what? Today, I started picking back up on piano as well. I have a digital piano that I bought in 1998 that has not seen much use in the past half decade:
 
-{% img /images/yamaha-digital-piano.jpg Yamaha digital piano %}
+{{< figure src="/images/yamaha-digital-piano.jpg" title="Yamaha digital piano" >}}
 
 I've mentioned [previously playing around with piano](/blog/2011/11/09/taking-up-flute-again-after-decades/). I will try to get real on piano too, now that I'm old enough to figure out how to maximize use of infamous Czerny and Hanon technical exercises. Meanwhile, I picked up from the library a seemingly highly-rated [*Alfred Basic Adult Piano Course*](http://www.alfred.com/AlfredPiano/PianoMethods), which also comes with a CD (which, by the way, is absolutely horrid: soulless metronomic synthesized utter crap that doesn't even belong in a mall).
 

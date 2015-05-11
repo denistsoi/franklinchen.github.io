@@ -31,7 +31,7 @@ Earlier this week, I did take Sunday off from running (and from wearing Luna San
 
 My left foot skin injuries are healing; two days ago there was still some rawness:
 
-{% img /images/left-foot-healing.jpg Left foot healing %}
+{{< figure src="/images/left-foot-healing.jpg" title="Left foot healing" >}}
 
 But today, everything is completely scabbed over.
 
@@ -61,7 +61,7 @@ My impression was that we shot out noticeably faster, and I fell off the pack an
 
 Running in the Shadyside area at this time of day is stressful, it turns out, because of all the road traffic, the narrow sidewalks, and stop lights. We had to stop more often than I prefer:
 
-{% img /images/shadyside-run-stopped.jpg Waiting for light in Shadyside run %}
+{{< figure src="/images/shadyside-run-stopped.jpg" title="Waiting for light in Shadyside run" >}}
 
 Well, this was a learning experience, reminding me of why I prefer to run in the morning, and in less congested areas such as Beechwood Boulevard or Homewood Cemetery in Squirrel Hill, or Frick or Schenley Park!
 

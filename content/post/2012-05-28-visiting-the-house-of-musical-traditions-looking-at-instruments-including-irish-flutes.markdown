@@ -8,7 +8,7 @@ categories:
 - Irish flute
 - mandolin
 ---
-{% img /images/house-of-musical-traditions.jpg House of Musical Traditions in Takoma Park, MD %}
+{{< figure src="/images/house-of-musical-traditions.jpg" title="House of Musical Traditions in Takoma Park, MD" >}}
 
 One thing Abby and I wanted to do before we left Washington DC was to visit the [House of Musical Traditions](http://www.hmtrad.com/) in Takoma Park, MD. We wanted to check out all their musical instruments. Abby wanted to look at their mandolin section, while I wanted to look at Irish flutes. I've been kind of thinking about getting an Irish flute since February when [seeing again Gregory play his Irish flute at French dancing](/blog/2012/02/20/enjoying-more-french-dancing-in-pittsburgh/).
 
@@ -18,7 +18,7 @@ We weren't planning to buy anything, but we had fun looking at a large variety o
 
 At the store, I looked at the [Tony Dixon plastic flutes](http://www.hmtrad.com/catalog/winds/dixon.html) that I'd read about before the trip to DC. Unfortunately, as I suspected, they were rather large for my hands. Also, the plastic flutes did not produce a very attractive sound.
 
-{% img http://www.tonydixonmusic.co.uk/grafix/instruments/tb021.jpg Tony Dixon tuneable flute %}
+{{< figure src="http://www.tonydixonmusic.co.uk/grafix/instruments/tb021.jpg" title="Tony Dixon tuneable flute" >}}
 
 ## Casey Burns Folk Flute
 

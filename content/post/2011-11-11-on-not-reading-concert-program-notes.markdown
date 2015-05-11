@@ -63,7 +63,7 @@ Abby and I would have liked it even more if Nina and Peter had told us exactly w
 
 Now we get to the really weird stuff.
 
-{% img http://www.aosa.org/011conference/images/Das-Collectif-web.jpg Das Collectif %}
+{{< figure src="http://www.aosa.org/011conference/images/Das-Collectif-web.jpg" title="Das Collectif" >}}
 
 Because I didn't know the full program for the evening, only having seen the announcement of the "Wanderings" recorder concert, I hadn't known that after the intermission, there was going to be a one-hour long modern dance performance by a group called "Das Collectif" from Austria. So when Abby and I sat down, we assumed there was going to be more music, not that the recorder concert was over and something completely different was going to come. If I had checked the time, I would have known, but I didn't. The announcement for the recorder concert did say 7:45 to 8:45. Well, what happened was we sat down, and "Das Collectif" came on stage, as scheduled, to perform ["Stomping La Luna"](http://www.aosa.org/pittsburgh/das_collectif.html).
 

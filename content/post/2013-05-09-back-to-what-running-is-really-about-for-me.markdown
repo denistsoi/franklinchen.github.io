@@ -12,7 +12,7 @@ categories:
 - Frick Park
 - psychology
 ---
-{% img /images/cloudy-frick-park.jpg Cloudy day drizzling rain in Frick Park %}
+{{< figure src="/images/cloudy-frick-park.jpg" title="Cloudy day drizzling rain in Frick Park" >}}
 
 So, four days after my [disappointing](/blog/2013/05/07/why-i-feel-sad-when-people-congratulate-me-for-finishing-the-pittsburgh-marathon/) [Pittsburgh Marathon](/blog/2013/05/06/2013-pittsburgh-marathon-my-135th-race-was-my-worst-i-finished/), I've recovered enough to first walk, and now do some light running as well. I did a very slow, short 3-mile run in Frick Park.
 

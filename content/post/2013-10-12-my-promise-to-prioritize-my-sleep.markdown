@@ -32,12 +32,12 @@ Today, after I slept almost all day, I found myself with energy to go for a run 
 
 It was huge confirmation to me, that just catching up on sleep enabled me to enjoy a ten-mile run when I've barely been feeling like running at all in the past week.
 
-{% img /images/run-2013-10-12/1.jpg %}
-{% img /images/run-2013-10-12/2.jpg %}
-{% img /images/run-2013-10-12/3.jpg %}
-{% img /images/run-2013-10-12/4.jpg %}
-{% img /images/run-2013-10-12/5.jpg %}
-{% img /images/run-2013-10-12/6.jpg %}
+{{< figure src="/images/run-2013-10-12/1.jpg" >}}
+{{< figure src="/images/run-2013-10-12/2.jpg" >}}
+{{< figure src="/images/run-2013-10-12/3.jpg" >}}
+{{< figure src="/images/run-2013-10-12/4.jpg" >}}
+{{< figure src="/images/run-2013-10-12/5.jpg" >}}
+{{< figure src="/images/run-2013-10-12/6.jpg" >}}
 
 ## Conclusion
 

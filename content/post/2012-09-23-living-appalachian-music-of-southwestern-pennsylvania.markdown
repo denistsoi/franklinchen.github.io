@@ -22,9 +22,9 @@ As I periodically do, I went to the Carnegie Library of Pittsburgh on a Sunday a
 
 Mark talked a good bit about going through the materials collected by the historian Samuel Bayard. It was interesting to me that his research in reviving the music that Bayard documented forced Mark to get more involved in reading music, since as a traditional musician he was used to learning everything by ear, but nobody is alive any more who originally played some of this music, and all that is left to document it is scores!
 
-{% img /images/appalachian-music/three.jpg Mark Tamsula, Richard Withers, Ellen Gozion %}
+{{< figure src="/images/appalachian-music/three.jpg" title="Mark Tamsula, Richard Withers, Ellen Gozion" >}}
 
-{% img /images/appalachian-music/irish-flute.jpg Richard Withers on Irish flute %}
+{{< figure src="/images/appalachian-music/irish-flute.jpg" title="Richard Withers on Irish flute" >}}
 
 The two instrumentalists played quite a variety of instruments: fiddle, banjo, flute, guitar, harmonica, accordion, Irish flute. I enjoyed the variety.
 

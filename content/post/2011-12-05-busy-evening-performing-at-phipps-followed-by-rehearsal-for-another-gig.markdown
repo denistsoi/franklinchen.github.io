@@ -12,13 +12,13 @@ categories:
 ---
 Tonight I left my office and walked across Flagstaff Hill to Phipps Conservatory to [play some music](/blog/2011/12/01/im-going-to-perform-music-much-sooner-than-i-expected-monday/) with four other recorder players.
 
-{% img /images/recorders-at-phipps/phipps-monday-evening.jpg Phipps in evening from Flagstaff Hill %}
+{{< figure src="/images/recorders-at-phipps/phipps-monday-evening.jpg" title="Phipps in evening from Flagstaff Hill" >}}
 
 ## At Phipps
 
 Sorry, no photos or videos of me playing, because I didn't want to bother or confuse any Phipps visitors on how to use my camera! I did take a photo of the rest of us playing a piece that I did not participate in:
 
-{% img /images/recorders-at-phipps/deck-the-halls.jpg Recorder quartet playing Deck the Halls %}
+{{< figure src="/images/recorders-at-phipps/deck-the-halls.jpg" title="Recorder quartet playing Deck the Halls" >}}
 
 We played for about an hour and a half.  It was a slow Monday night at Phipps, with not many people around. On average there may have been up to ten people standing or sitting around somewhere in sight, in addition to people roaming around. A good number of young children seemed to come and go, sometimes making noises.
 That was OK; it was nice to see them around enjoying our playing.

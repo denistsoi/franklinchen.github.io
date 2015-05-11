@@ -8,7 +8,7 @@ categories:
 - Baroque flute
 - music
 ---
-{% img http://static.musiciansfriend.com/derivates/18/001/590/857/DV016_Jpg_Large_464489.901_black_matte.jpg Aulos Baroque flute A440 %}
+{{< figure src="http://static.musiciansfriend.com/derivates/18/001/590/857/DV016_Jpg_Large_464489.901_black_matte.jpg" title="Aulos Baroque flute A440" >}}
 
 I got a [Baroque flute](http://www.oldflutes.com/baroq.htm) today. The one I got was the plastic Aulos, since it is by far less expensive than any wooden one, and recommended by a number of people I know. Also, it was the A440-tuned one, rather than the A415-tuned one, since I want to be able to play it with people on modern instruments.
 
@@ -24,7 +24,7 @@ Finally, by chance it turned out that Abby needed to buy some musical supplies f
 
 ### (Update of 2012-10-30)
 
-{% img http://www.boosey.com/imagesw/shop/product/$wm1_0x700_$_ED_12861-English_Airs_cov.jpg English Airs and Dances %}
+{{< figure src="http://www.boosey.com/imagesw/shop/product/$wm1_0x700_$_ED_12861-English_Airs_cov.jpg" title="English Airs and Dances" >}}
 
 I didn't think it was important to mention at the time, but when I wrote this blog post, I had just *two weeks earlier* checked out of the library, by sheer accident since it was on display, a book/CD set called ["English Airs and Dances"](http://www.boosey.com/shop/prod/Various-English-Airs-and-Dances-Baroque-Around-the-World-series-Book-CD/918892), from a ["Baroque Around the World" series](http://www.boosey.com/shop/prod/Various-English-Airs-and-Dances-Baroque-Around-the-World-series-Book-CD/918892), and begun working on playing the music in it, on modern flute.
 

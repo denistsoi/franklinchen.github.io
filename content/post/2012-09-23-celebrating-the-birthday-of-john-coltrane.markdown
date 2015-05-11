@@ -12,7 +12,7 @@ categories:
 - Charlie Parker
 - Wolfgang Amadeus Mozart
 ---
-{% img http://userserve-ak.last.fm/serve/252/50664911.jpg John Coltrane %}
+{{< figure src="http://userserve-ak.last.fm/serve/252/50664911.jpg" title="John Coltrane" >}}
 
 So today is the birthday of [John Coltrane](http://en.wikipedia.org/wiki/John_Coltrane) (1926-1967), a towering figure in the history of jazz like no other. Several years ago, in a moment of inspiration, I quipped to a friend that while it was clear to me that [Charlie Parker](http://en.wikipedia.org/wiki/Charlie_Parker) the [Mozart](http://en.wikipedia.org/wiki/Mozart) of jazz, it was even more clear that Coltrane was the [Beethoven](http://en.wikipedia.org/wiki/Beethoven) of jazz.
 

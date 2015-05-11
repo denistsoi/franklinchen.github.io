@@ -8,7 +8,7 @@ categories:
 - Pittsburgh
 - Primanti's
 ---
-{% img /images/primantis-roast-beef.jpg Primanti's roast beef sandwich %}
+{{< figure src="/images/primantis-roast-beef.jpg" title="Primanti's roast beef sandwich" >}}
 
 *Fries*.  Cole slaw.  [Primanti's](http://www.primantibros.com/) roast beef sandwich.
 

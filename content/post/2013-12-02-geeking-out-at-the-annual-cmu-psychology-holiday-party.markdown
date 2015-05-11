@@ -15,7 +15,7 @@ There was a movie trivia category that we did very well in. Given a graphic, we 
 
 Well, one of the images had everyone confused and silent, except for me, it seemed:
 
-{% img /images/math-quiz.png Math quiz %}
+{{< figure src="/images/math-quiz.png" title="Math quiz" >}}
 
 <!--more-->
 
@@ -33,7 +33,7 @@ However, I have to add a disclaimer: Euler's identity as we know it is *not real
 
 [pi is a terrible mistake in the history of mathematics](/blog/2012/03/14/for-real-geeks-today-is-not-pi-day-but-half-tau-day/). The correct equation, had history adopted [tau instead of pi](http://tauday.com/), would have been more beautiful:
 
-{% img http://img.spikedmath.com/comics/fact-005-embrace-the-tau.png Euler with tau %}
+{{< figure src="http://img.spikedmath.com/comics/fact-005-embrace-the-tau.png" title="Euler with tau" >}}
 
 (Images from [Spiked Math](http://spikedmath.com/fact-005.html))
 

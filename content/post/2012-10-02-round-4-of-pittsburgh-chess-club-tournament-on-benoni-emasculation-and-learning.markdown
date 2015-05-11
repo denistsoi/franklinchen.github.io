@@ -14,7 +14,7 @@ categories:
 - Benoni
 - learning
 ---
-{% img /chess/mirra-chen-2012-10-02_files/diag3FECB4B6781E764C.gif White in reverse Benoni being crushed %}
+{{< figure src="/chess/mirra-chen-2012-10-02_files/diag3FECB4B6781E764C.gif" title="White in reverse Benoni being crushed" >}}
 
 Tonight was the fifth (and penultimate) round of the current six-round Tuesday night tournament at the [Pittsburgh Chess Club](http://pittsburghcc.org/), the 14th Fred Sorensen Memorial. I last reported on the [third round](/blog/2012/09/19/round-3-of-pittsburgh-chess-club-tournament-another-approach-against-the-sicilian-squeezing-with-the-bind/), rather than the fourth round, because as I [mentioned in August upon signing up for the tournament](/blog/2012/08/29/returning-to-chess/), I took a bye for the fourth round because of a schedule conflict with a [Pittsburgh Java User Group](http://www.pghtech.org/networks/PittJug/events.aspx) meeting that I wanted to attend.
 
@@ -53,7 +53,7 @@ As expected, my opponent played `1 c4`, the English Opening. After some more mov
 
 Again, there are dangers in playing reversed openings, in which Black takes the aggressive role White ordinarily takes but with a tempo down, but in this case, because of a positional subtlety, I was allowed to play a good version of the reversed Benoni as Black:
 
-{% img /chess/mirra-chen-2012-10-02_files/diag3FECB4B2327E393B.gif A good reversed Benoni for Black %}
+{{< figure src="/chess/mirra-chen-2012-10-02_files/diag3FECB4B2327E393B.gif" title="A good reversed Benoni for Black" >}}
 
 The problem for White is that he used his extra moves to play `b3` and `Bb2`, but now the Bishop is blocked up and is misplaced. This is an example of what proponents of the Black pieces such as John Watson and [András Adorján](http://en.wikipedia.org/wiki/Andr%C3%A1s_Adorj%C3%A1n) have observed about the subtleties of having extra moves: sometimes they are committal and do not help the side which has them!
 
@@ -71,13 +71,13 @@ The *counter-attacker* has less space, and hopes to launch a flank attack on the
 
 The game tonight had the counter-attacker never getting Queen side counterplay off the ground, while the attacker (Black) broke through without resistance in the center: note that Black has played `e4` successfully and White's thematic `b4` is nowhere near possible.
 
-{% img /chess/mirra-chen-2012-10-02_files/diag3FECB4B5607FAC81.gif e pawn advance against the Benoni %}
+{{< figure src="/chess/mirra-chen-2012-10-02_files/diag3FECB4B5607FAC81.gif" title="e pawn advance against the Benoni" >}}
 
 ### The end
 
 There was no real end game to speak of, since by the time Queens came off the board, the game was lost for White.
 
-{% img /chess/mirra-chen-2012-10-02_files/diag3FECB4B9B8C41929.gif Queens are off, but game is over %}
+{{< figure src="/chess/mirra-chen-2012-10-02_files/diag3FECB4B9B8C41929.gif" title="Queens are off, but game is over" >}}
 
 ## Discussion with my opponent
 

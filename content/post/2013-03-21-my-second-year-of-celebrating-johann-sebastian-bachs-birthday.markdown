@@ -17,7 +17,7 @@ I have progressed tremendously on flute in the past year; the difference between
 
 Of course, [my Bach bobblehead](/blog/2012/09/20/my-first-bobblehead-doll-guess-who/) still watches over me.
 
-{% img /images/bach-and-franklin.jpg J S Bach bobblehead and Franklin %}
+{{< figure src="/images/bach-and-franklin.jpg" title="J S Bach bobblehead and Franklin" >}}
 
 I have a tale of accidental love to tell.
 

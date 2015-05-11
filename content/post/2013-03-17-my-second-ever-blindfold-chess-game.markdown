@@ -36,17 +36,17 @@ I don't remember all the moves in the game, but remember most of them and the mo
 
 I took White and won a Pawn out of the opening but then gave it back. Although I eventually acquired a clear advantage in the middle game, I decided to simplify rather than lose track of my pieces. This was an important position in which I was White, to move:
 
-{% img /chess/blindfold/middle.jpg Middle game %}
+{{< figure src="/chess/blindfold/middle.jpg" title="Middle game" >}}
 
 I ended up winning a Pawn going into a Rook and Pawn endgame, which was clearly supposed to be drawn:
 
-{% img /chess/blindfold/end.jpg Ending %}
+{{< figure src="/chess/blindfold/end.jpg" title="Ending" >}}
 
 But I acquired some winning chances after a while. I squandered my best chance, as a result of starting to lose track of what pieces were where. It was unexpectedly difficult (without a deliberate attempt on my part at a system) to keep track of exactly where our Rooks and Kings were, since there was so much shuffling around. If I were playing blindfold again, I would come up with a simple system to remember this kind of information.
 
 I had some other winning chances later, because of my active King, but as a result of some simplification, we finally reached a clearly dead drawn position:
 
-{% img /chess/blindfold/dead-draw.jpg Draw is imminent %}
+{{< figure src="/chess/blindfold/dead-draw.jpg" title="Draw is imminent" >}}
 
 The game ended when, after several more moves, I clearly could not make further progress and offered a draw, which Henry accepted.
 

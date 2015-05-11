@@ -11,7 +11,7 @@ categories:
 - Hugh F. McGough
 - Bill Peduto
 ---
-{% img http://www.cmu.edu/posner-center/exhibits/special-images/billrights1.jpg Bill of Rights at CMU %}
+{{< figure src="http://www.cmu.edu/posner-center/exhibits/special-images/billrights1.jpg" title="Bill of Rights at CMU" >}}
 
 Yesterday was [Constitution Day](http://en.wikipedia.org/wiki/Constitution_Day_\(United_States\)), which I've "observed" in some fashion since 2005, which was when I saw the first annual announcement of its observance at Carnegie Mellon University. My memory is fuzzy about what I actually did on Constitution Day on most years, but I remember that in 2005 I stopped by the Posner Center to look at [one of the four existing copies of the US Bill of Rights](http://www.cmu.edu/posner-center/exhibits/bill-of-rights.html).
 
@@ -29,7 +29,7 @@ It turns out (and I did not know this until it was discussed during the presenta
 
 Happening to be present at the [Posner Center](http://www.cmu.edu/posner-center/), and in fact sitting next to me during the presentation, were [Henry Posner III](http://www.rrdc.com/mgmt_bio_posner.html) and his wife. When a question was asked of them near the end of the presentation, regarding whether they thought the institution of Constitution Day was a good idea, Mr. Posner responded in a very interesting way.
 
-{% img http://www.rrdc.com/images/posner.jpg Henry Posner III %}
+{{< figure src="http://www.rrdc.com/images/posner.jpg" title="Henry Posner III" >}}
 
 Mr. Posner quite emphatically stated that he objected to how Constitution Day was slipped into the spending bill with a "political" agenda and with a mandate and a condition (in order for a school to receive federal funding).
 

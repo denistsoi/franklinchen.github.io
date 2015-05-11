@@ -11,7 +11,7 @@ categories:
 ---
 I have a confession to make.
 
-{% img http://upload.wikimedia.org/wikipedia/en/thumb/c/c4/TempleRun.jpg/150px-TempleRun.jpg Temple Run logo %}
+{{< figure src="http://upload.wikimedia.org/wikipedia/en/thumb/c/c4/TempleRun.jpg/150px-TempleRun.jpg" title="Temple Run logo" >}}
 
 Two years ago, when I finally got my first [smartphone](/blog/2012/03/22/paradox-i-will-observe-the-national-day-of-unplugging-but-just-bought-my-first-smartphone-this-week/), I downloaded a free game, [Temple Run](http://en.wikipedia.org/wiki/Temple_Run), and quickly became a bit obsessed with it.
 

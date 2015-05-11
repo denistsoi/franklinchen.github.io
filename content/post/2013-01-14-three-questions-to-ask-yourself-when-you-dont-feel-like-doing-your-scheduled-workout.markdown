@@ -13,7 +13,7 @@ If, like me, you believe that you should get regular exercise, you probably have
 
 This post is about three questions I ask myself when I am supposed to be doing a workout, but don't feel like it. I hope this checklist will be helpful to you as it is to me.
 
-{% img /images/cathedral-of-learning-two-reps/franklin-after-two-reps.jpg Franklin after two reps up the Cathedral of Learning %}
+{{< figure src="/images/cathedral-of-learning-two-reps/franklin-after-two-reps.jpg" title="Franklin after two reps up the Cathedral of Learning" >}}
 
 <!--more-->
 
@@ -73,7 +73,7 @@ I finished in 8:47 (last week my first rep was in 9:07).
 
 I was really beat after the first rep. My quads and calves were burning and I was gasping for air. I rested for a while looking out the window.
 
-{% img /images/cathedral-of-learning-two-reps/franklin-after-two-reps.jpg Floor 36 panoramic view %}
+{{< figure src="/images/cathedral-of-learning-two-reps/franklin-after-two-reps.jpg" title="Floor 36 panoramic view" >}}
 
 I waited till my breathing was back under control and my leg muscles were no longer completely burning.
 

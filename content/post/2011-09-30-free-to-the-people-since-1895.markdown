@@ -13,7 +13,7 @@ Today I made my regular "pilgrimage" to one of the most special places in Pittsb
 
 What can we do to safeguard our community resource?
 
-{% img /images/clpgh.jpg Carnegie Library of Pittsburgh, Oakland %}
+{{< figure src="/images/clpgh.jpg" title="Carnegie Library of Pittsburgh, Oakland" >}}
 
 <!--more-->
 
@@ -23,7 +23,7 @@ I remember many years of my life during which buying books was simply not afford
 
 Abby and I proudly support the Carnegie Library by contributing to it and receiving a [Donor Plus Card](http://www.clpgh.org/about/DonorPlus/) as a sign of appreciation. We have also donated our own books to the library when we no longer need them.
 
-{% img /images/clpgh-books-checked-out.jpg Picking up books on hold for me %}
+{{< figure src="/images/clpgh-books-checked-out.jpg" title="Picking up books on hold for me" >}}
 
 ## How to help
 

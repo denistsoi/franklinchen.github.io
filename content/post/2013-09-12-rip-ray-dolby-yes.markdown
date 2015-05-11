@@ -20,7 +20,7 @@ I still have a cassette tape deck with Dolby B, C, and S. I don't use it any mor
 
 Here are some of the few cassette tapes I still own, simply because I don't have LPs or CDs of these recordings by Sviatoslav Richter. I don't remember which music store I walked out of with these finds way back in the early 1990s! But it was a real treasure finding a variety of Schubert performances by Richter. For example, one of these Monitor label cassette tapes has an old performance of [Schubert's unfinished C major piano sonata, D. 840](http://en.wikipedia.org/wiki/Piano_Sonata_in_C_major,_D._840_%28Schubert%29) that differs considerably from his later performance that I have a CD of.
 
-{% img /images/dolby/richter.jpg Sviatoslav Richter on cassette tapes %}
+{{< figure src="/images/dolby/richter.jpg" title="Sviatoslav Richter on cassette tapes" >}}
 
 I did some research. Apparently the [Monitor release is of a 1961 performance](http://www.classicalmusicguide.com/viewtopic.php?f=10&t=35776) and the later recording is from 1979.
 

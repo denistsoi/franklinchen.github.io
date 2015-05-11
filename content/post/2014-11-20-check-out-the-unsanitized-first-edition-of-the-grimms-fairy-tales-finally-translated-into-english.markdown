@@ -17,7 +17,7 @@ I have always been so fascinated by fairy tales, mythology, Biblical and other a
 
 A couple of years ago, after accidentally discovering Maria Tatar's 2002 ["The Annotated Classic Fairy Tales"](http://scholar.harvard.edu/tatar/publications/annotated-classic-fairy-tales) while browsing a library "new book" shelf, I also learned that she was blogging, so I started following [her blog, "Breezes from Wonderland"](http://blogs.law.harvard.edu/tatar/). It was from this blog that I just learned now that [Jack Zipes](http://press.princeton.edu/titles/10300.html) has finally [translated the first edition of the Grimms' fairy tales into English](http://blogs.law.harvard.edu/tatar/2014/11/20/the-grimms-straight-up/).
 
-{% img http://press.princeton.edu/images/k10300.gif Jack Zipes' book %}
+{{< figure src="http://press.princeton.edu/images/k10300.gif" title="Jack Zipes' book" >}}
 
 I look forward to checking out Zipes' new translation. It's been a decade since I last revisited the Grimms' fairy tales, and I still perversely love a dark story.
 

@@ -10,7 +10,7 @@ categories:
 - Carnegie Mellon University
 - Pittsburgh
 ---
-{% img http://static.erinyanacek.com/img/home_page_new_photo_3.jpg Erin Yancek %}
+{{< figure src="http://static.erinyanacek.com/img/home_page_new_photo_3.jpg" title="Erin Yancek" >}}
 
 I attended a [graduate trumpet recital](http://www.music.cmu.edu/events/282) by [Erin Yanacek](http://erinyanacek.com/), in which she performed works of Robert Planel, Camille Saint-Saens, George Enescu, Franz Joseph Haydn, and Herbert L. Clarke.
 

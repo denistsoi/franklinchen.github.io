@@ -46,11 +46,11 @@ The numbers don't mean much to me right now, except as a checkpoint for the futu
 
 I am now running only in Luna Sandals. I still have chafing issues, but we'll see if they clear up with time.
 
-{% img /images/luna-sandals-2013-04-09/wearing.jpg Wearing Luna Sandals %}
+{{< figure src="/images/luna-sandals-2013-04-09/wearing.jpg" title="Wearing Luna Sandals" >}}
 
-{% img /images/luna-sandals-2013-04-09/luna-sandals.jpg Luna Sandals %}
+{{< figure src="/images/luna-sandals-2013-04-09/luna-sandals.jpg" title="Luna Sandals" >}}
 
-{% img /images/luna-sandals-2013-04-09/feet.jpg Bare feet %}
+{{< figure src="/images/luna-sandals-2013-04-09/feet.jpg" title="Bare feet" >}}
 
 ## What about high-intensity interval training?
 

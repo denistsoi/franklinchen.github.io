@@ -10,7 +10,7 @@ categories:
 - Pittsburgh Chess Club
 - Sicilian Defense
 ---
-{% img /chess/sax-chen-2012-11-13_files/round1.jpg Panoramic view of round 1 %}
+{{< figure src="/chess/sax-chen-2012-11-13_files/round1.jpg" title="Panoramic view of round 1" >}}
 
 So I started another [Pittsburgh Chess Club](http://pittsburghcc.org/) 6-round Tuesday night tournament, the 16th Robert P. Smith Memorial. (I reported on my previous Tuesday night tournament [here](/blog/2012/10/09/final-round-of-pittsburgh-chess-club-tournament-clawing-back-from-a-terrible-position-to-draw-and-tie-for-first/).)
 
@@ -46,27 +46,27 @@ My opponent played the [Grand Prix Attack](http://en.wikipedia.org/wiki/Grand_Pr
 
 He chose an unusual sub-variation I had not seen before, `Bd3`, after which I made a positionally rather risky decision that I would not make again, but just happened to feel like engaging in at the time: I decided to develop my King Knight not to a "normal" square such as `f6`, but to the "rim" at `h6` instead:
 
-{% img /chess/sax-chen-2012-11-13_files/diag3FEEA2EBE9513819.gif Knight on h6 %}
+{{< figure src="/chess/sax-chen-2012-11-13_files/diag3FEEA2EBE9513819.gif" title="Knight on h6" >}}
 
 My justification was that I wanted the option of playing my own attack with `f5`. I was in the mood for dynamic complications rather than a more sedate middle game:
 
-{% img /chess/sax-chen-2012-11-13_files/diag3FEEA2FCBB78288F.gif After f5 %}
+{{< figure src="/chess/sax-chen-2012-11-13_files/diag3FEEA2FCBB78288F.gif" title="After f5" >}}
 
 ### The middle
 
 White made a strategic mistake in allowing my Knight on `h6` to get to a great outpost on `f5`:
 
-{% img /chess/sax-chen-2012-11-13_files/diag3FEEA315583EFCC5.gif Knight on f5 %}
+{{< figure src="/chess/sax-chen-2012-11-13_files/diag3FEEA315583EFCC5.gif" title="Knight on f5" >}}
 
 The position was still roughly equal at this point, but gradually White made more inaccurate moves, ceding an advantage to me. In fact, by the position, I already had a won game (but missed the best continuation):
 
-{% img /chess/sax-chen-2012-11-13_files/diag3FEEA375BB2E5EA8.gif White is actually lost %}
+{{< figure src="/chess/sax-chen-2012-11-13_files/diag3FEEA375BB2E5EA8.gif" title="White is actually lost" >}}
 
 Note how poor White's Bishop on `d2` is, while Black's Knight on `f5` is clearly the strongest of all the remaining minor pieces (four Bishops and two Knights).
 
 In the following position, I have just played the Pawn advance `e4`:
 
-{% img /chess/sax-chen-2012-11-13_files/diag3FEEA39EC079C057.gif e4 advance by Black %}
+{{< figure src="/chess/sax-chen-2012-11-13_files/diag3FEEA39EC079C057.gif" title="e4 advance by Black" >}}
 
 ### The good Knight
 
@@ -74,19 +74,19 @@ Perhaps White had thought that I would play `Ne3` trading my Knight for White's 
 
 In fact, in the game I proceeded to make White's bad Bishop even worse:
 
-{% img /chess/sax-chen-2012-11-13_files/diag3FEEA3B5152816D7.gif White's Bishop back on c1 %}
+{{< figure src="/chess/sax-chen-2012-11-13_files/diag3FEEA3B5152816D7.gif" title="White's Bishop back on c1" >}}
 
 ## The end
 
 In the final blow in the game, I set a trap, offering White a "free" Pawn, which he mistakenly took (but I had a completely won position anyway; this is not "hope chess" where an idea only works if you hope your opponent falls into a trap). I moved the Knight from `f5` to `d6`, not only threatening White's Rook, but also with the intention of redeploying the Knight to `e4` and then `f2`. And I did so.
 
-{% img /chess/sax-chen-2012-11-13_files/diag3FEEA3CB57323DC1.gif White's Rook threatened and trap set %}
+{{< figure src="/chess/sax-chen-2012-11-13_files/diag3FEEA3CB57323DC1.gif" title="White's Rook threatened and trap set" >}}
 
-{% img /chess/sax-chen-2012-11-13_files/diag3FEEA3CFED99F3B3.gif White's Rook trapped %}
+{{< figure src="/chess/sax-chen-2012-11-13_files/diag3FEEA3CFED99F3B3.gif" title="White's Rook trapped" >}}
 
 White struggled on for a few more bizarre moves before resigning:
 
-{% img /chess/sax-chen-2012-11-13_files/diag3FEEA3E9E022DAFE.gif White resigned %}
+{{< figure src="/chess/sax-chen-2012-11-13_files/diag3FEEA3E9E022DAFE.gif" title="White resigned" >}}
 
 ## Lessons learned
 

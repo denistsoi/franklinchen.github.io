@@ -16,7 +16,7 @@ Saturday, Abby and I went to the annual [East End Food Co-op](http://eastendfood
 
 This family-friendly annual event serves as a fund raiser, and features a variety of vegetarian and vegan food as well as live music. This year, the draw was [Bury the Cabbage](http://davidshelow.com/guitar/performance/ensemble.php), a group playing Irish traditional music.
 
-{% img /images/eefc-winterfest-2011/bury-the-cabbage.jpg Bury the Cabbage %}
+{{< figure src="/images/eefc-winterfest-2011/bury-the-cabbage.jpg" title="Bury the Cabbage" >}}
 
 Every year, I've bumped into a good number of people here that I haven't seen for a while, and this year was no exception.
 
@@ -26,17 +26,17 @@ Every year, I've bumped into a good number of people here that I haven't seen fo
 
 The little kids quickly and spontaneously found one another other and started running around and playing, so Julia had her fun. They all seemed to like the balloon man.
 
-{% img /images/eefc-winterfest-2011/balloons.jpg Young children love balloons %}
+{{< figure src="/images/eefc-winterfest-2011/balloons.jpg" title="Young children love balloons" >}}
 
 ## Food
 
 There was plenty of food available at the Winterfest. It was all vegetarian and vegan. I stuffed myself silly, especially enjoying the roasted peppers, eggplant, zucchini, and sweet potato pancakes. There was pasta with tofu, falafel, mushroom, salad, fruit, and other selection. I sampled them all.
 
-{% img /images/eefc-winterfest-2011/getting-food.jpg People getting food %}
+{{< figure src="/images/eefc-winterfest-2011/getting-food.jpg" title="People getting food" >}}
 
 There was a wide selection of cookies, carefully classified. Some were vegan, others were gluten-free. There were too many varieties for me to even try one of each.
 
-{% img /images/eefc-winterfest-2011/cookies.jpg Wide selection of cookies %}
+{{< figure src="/images/eefc-winterfest-2011/cookies.jpg" title="Wide selection of cookies" >}}
 
 ## People in Pittsburgh
 

@@ -13,7 +13,7 @@ After [round 3 last week](/blog/2012/11/27/round-3-of-pittsburgh-chess-club-tour
 
 Well, I **lost** my game against him tonight, after four hours of play (we were the last game to finish):
 
-{% img /chess/chen-dean-2012-12-04_files/diag3FA87EB839109B01.gif White resigned %}
+{{< figure src="/chess/chen-dean-2012-12-04_files/diag3FA87EB839109B01.gif" title="White resigned" >}}
 
 This is the *first* chess game I've reported on in this blog in which I lost!
 
@@ -45,37 +45,37 @@ I made some inaccuracies in the opening by not playing an early `Be3` that would
 
 Still, I achieved a solid position:
 
-{% img /chess/chen-dean-2012-12-04_files/diag3FA87D80C1CAD95E.gif Opening %}
+{{< figure src="/chess/chen-dean-2012-12-04_files/diag3FA87D80C1CAD95E.gif" title="Opening" >}}
 
 ### The middle
 
 Then, out of the blue, my opponent creatively embarked on a Pawn sacrifice.
 
-{% img /chess/chen-dean-2012-12-04_files/diag3FA87D980F065505.gif Unsound sacrifice by Black %}
+{{< figure src="/chess/chen-dean-2012-12-04_files/diag3FA87D980F065505.gif" title="Unsound sacrifice by Black" >}}
 
 The way he played it was actually completely unsound, such that if I had taken the time to find the best moves, I would have won. But it was a creative idea: it was meant to be a positional sacrifice, choosing to lose a Pawn in order to gain the advantage of the two Bishops and better development. It should not have worked, however.
 
-{% img /chess/chen-dean-2012-12-04_files/diag3FA87DBB02DF8E80.gif White is a solid Pawn up but lost the two Bishops %}
+{{< figure src="/chess/chen-dean-2012-12-04_files/diag3FA87DBB02DF8E80.gif" title="White is a solid Pawn up but lost the two Bishops" >}}
 
 His bluff worked, and I fell into a position in which although I was one Pawn up and had the advantage, it was not going to be trivial to actually win rather than draw. 
 
 After I finished developing my pieces, I immediately traded into an endgame in which I was a Pawn up and objectively had **no chance of losing**.
 
-{% img /chess/chen-dean-2012-12-04_files/diag3FA87E1E0B1C5C08.gif Traded off %}
+{{< figure src="/chess/chen-dean-2012-12-04_files/diag3FA87E1E0B1C5C08.gif" title="Traded off" >}}
 
 ### The end
 
 Here's where things got weird. When I realized that I did not have much of a chance of winning, I started dreaming up strange attacks that ended up not working at all. I started losing Pawns, my Knight ended up much worse than his Bishop (thereby justifying his positional sacrifice in the first place to get the Bishop), and I was dead lost.
 
-{% img /chess/chen-dean-2012-12-04_files/diag3FA87E55F7AB1E66.gif White in bad shape %}
+{{< figure src="/chess/chen-dean-2012-12-04_files/diag3FA87E55F7AB1E66.gif" title="White in bad shape" >}}
 
 Then magically, at some point he started playing poorly, to the point at which I finally achieved a drawn position!
 
-{% img /chess/chen-dean-2012-12-04_files/diag3FA87EAB04C43B56.gif Drawn position %}
+{{< figure src="/chess/chen-dean-2012-12-04_files/diag3FA87EAB04C43B56.gif" title="Drawn position" >}}
 
 But at that very moment, I played an incomprehensibly terrible move, and immediately after that, realized I was lost. The rest of the game was meaningless given that. I resigned when he was about to Queen a Pawn.
 
-{% img /chess/chen-dean-2012-12-04_files/diag3FA87EB839109B01.gif White resigned %}
+{{< figure src="/chess/chen-dean-2012-12-04_files/diag3FA87EB839109B01.gif" title="White resigned" >}}
 
 ## Lessons learned
 

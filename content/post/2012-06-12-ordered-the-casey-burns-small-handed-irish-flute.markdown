@@ -7,7 +7,7 @@ categories:
 - music
 - Irish flute
 ---
-{% img http://www.caseyburnsflutes.com/img/FFBWST.jpg Casey Burns Folk Flute %}
+{{< figure src="http://www.caseyburnsflutes.com/img/FFBWST.jpg" title="Casey Burns Folk Flute" >}}
 
 I have finally submitted an order for the [Casey Burns Small-Handed Folk Flute](http://www.caseyburnsflutes.com/ff.php), after having sat on the decision for two weeks and discussing it with Abby.
 

@@ -17,8 +17,8 @@ categories:
 
 They were these [Renaissance](http://www.vonhuene.com/Default.aspx?tabid=42) instruments:
 
-{% img /images/mollenhauer-kynseker-recorders/boxed.jpg In boxes %}
-{% img /images/mollenhauer-kynseker-recorders/assembled.jpg Assembled %}
+{{< figure src="/images/mollenhauer-kynseker-recorders/boxed.jpg" title="In boxes" >}}
+{{< figure src="/images/mollenhauer-kynseker-recorders/assembled.jpg" title="Assembled" >}}
 
 Nice maple recorders, Mollenhauer Kynseker models:
 

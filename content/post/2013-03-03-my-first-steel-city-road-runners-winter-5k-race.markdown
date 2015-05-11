@@ -17,7 +17,7 @@ Today was the first time I ever ran Vibram FiveFingers for a winter race! As pla
 
 I was a little disappointed by how "slow" I ran, but actually, given the amount of training I've had so far this winter, I'm not doing too badly.
 
-{% img /images/scrrc-5k-2013-03-04/franklin-finish.jpg Franklin finishing 5K %}
+{{< figure src="/images/scrrc-5k-2013-03-04/franklin-finish.jpg" title="Franklin finishing 5K" >}}
 
 (explanation of misleading clock time below)
 
@@ -41,19 +41,19 @@ I happened to bump into [Kurt](/blog/2013/02/20/pittsburgh-chess-club-championsh
 
 I encountered Pattye Stragar, who is so instrumental in the [fitness program at CMU](/blog/2012/02/08/public-shame-a-great-way-to-maintain-a-habit/), and in publicizing the Pittsburgh Marathon and the Steel City Road Runners, and notifying the CMU community of the special deal that I ended up taking advantage of. I asked her if she was doing the marathon and she said she did it the year it came back (it was canceled 2004-2008 and came back in 2009) and she was done with marathons.
 
-{% img http://pbs.twimg.com/media/BEek8kdCYAAcX2v.jpg:large Pattye Stragar and others %}
+{{< figure src="http://pbs.twimg.com/media/BEek8kdCYAAcX2v.jpg:large" title="Pattye Stragar and others" >}}
 
 ### During the race
 
 Yes, my feet did get wet, but I did not have any problems with them freezing. Also, although there were some slippery, icy spots and wet, muddy spots on the trails, they were not too bad. After I got home, my shoes and socks looked like this:
 
-{% img /images/scrrc-5k-2013-03-04/vibram-and-injinji.jpg Shoes and socks afterwards %}
+{{< figure src="/images/scrrc-5k-2013-03-04/vibram-and-injinji.jpg" title="Shoes and socks afterwards" >}}
 
 The race course was hilly and not so easy, even if it weren't slippery out there.
 
 After about the first mile, I noticed a guy running around my pace ahead of me. I decided he was going to be my target to beat in the race. There was plenty of time to make up the gap. It turned out that I actually passed him at one point, but later he passed me; I am used to this kind of thing because I tend to run downhills much better than I run uphills. In the final quarter mile or so, I took off and passed him for the last time. You can see him way back in this photo of me crossing the finish line:
 
-{% img /images/scrrc-5k-2013-03-04/franklin-finish.jpg Franklin finishing 5K %}
+{{< figure src="/images/scrrc-5k-2013-03-04/franklin-finish.jpg" title="Franklin finishing 5K" >}}
 
 An explanation about the clock: the race was held in two ways, with bib numbers 1-50 arbitrarily assigned to the first wave, then the rest (including me) assigned to the second wave two minutes later, to avoid congestion on the trails. So in fact, my official finish time was 25:11. I'd hoped I would be in shape to run faster than that, but this number is important real data to have, in forming my expectations for how fast I might be able to do the Pittsburgh Marathon. I think it is unlikely I'll be in shape to attempt a four-hour marathon in two months.
 

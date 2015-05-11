@@ -13,11 +13,11 @@ categories:
 ---
 Yesterday, right after I left one of the sessions of the [annual Pittsburgh Jazz Seminar](http://www.music.pitt.edu/events/43rd-annual-jazz-seminar-concert130813) at the William Pitt Union, I immediately crossed the street to the Cathedral of Learning, in order to climb up to the 36th floor (I last climbed the Cathedral [three days ago](/blog/2013/10/29/an-early-start-on-cathedral-of-learning-stair-climbing/)):
 
-{% img /images/cathedral-2013-11-02.jpg View of Cathedral of Learning %}
+{{< figure src="/images/cathedral-2013-11-02.jpg" title="View of Cathedral of Learning" >}}
 
 I took off my shoes, stuffed my jacket into my backpack, and went up at an "easy" pace, taking about nine minutes:
 
-{% img /images/cathedral-2013-11-02-at-top.jpg View from 36th floor window of Cathedral of Learning %}
+{{< figure src="/images/cathedral-2013-11-02-at-top.jpg" title="View from 36th floor window of Cathedral of Learning" >}}
 
 Then I faced the usual dilemma of how to get back down, except this time, the dilemma was magnified because of my time constraints: I really needed to get down and out *quickly*, in order to make it to an important appointment.
 

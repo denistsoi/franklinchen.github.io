@@ -10,7 +10,7 @@ Yesterday, I did not have my usual afternoon coffee.
 
 Two days ago, I had decided to give up coffee (for at least two or three weeks). My final cup of espresso made at work:
 
-{% img /images/espresso.jpg Cup of espresso at work %}
+{{< figure src="/images/espresso.jpg" title="Cup of espresso at work" >}}
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/NFVlDMmp_ho" frameborder="0" allowfullscreen></iframe>
 

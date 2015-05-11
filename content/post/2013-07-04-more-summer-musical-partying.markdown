@@ -76,7 +76,7 @@ By the way, here's a nice performance on flute that inspires me:
 
 The surprise of the day was when, after watching me mess around with bass recorder, Henry got the idea of playing recorder duets with me. I hadn't known that he played recorder. He said he could play recorders in C (soprano and tenor), and since I didn't have my tenor on me, I gave him my soprano recorder. He picked up a book and went through it to find some early music duets that we could do on recorders. We did some with soprano and bass, then I switched to alto and we did soprano and alto for the rest we found in the book. It was immense fun!
 
-{% img /images/recorder-duets-with-henry.jpg Henry and Franklin on recorders %}
+{{< figure src="/images/recorder-duets-with-henry.jpg" title="Henry and Franklin on recorders" >}}
 
 ## Conclusion
 

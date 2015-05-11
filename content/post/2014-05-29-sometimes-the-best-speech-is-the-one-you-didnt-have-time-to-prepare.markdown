@@ -23,8 +23,8 @@ The current dean, [John Lehoczky](http://www.stat.cmu.edu/GSS/lehoczky.html), wh
 
 Lunch was pretty good, for me anyway. I had steak, potatoes, steamed vegetables, and salad, and topped off with some coffee and cake.
 
-{% img /images/dietrich-appreciation-lunch-2014-05-29/lunch.jpg Lunch %}
-{% img /images/dietrich-appreciation-lunch-2014-05-29/cake.jpg Coffee and cake %}
+{{< figure src="/images/dietrich-appreciation-lunch-2014-05-29/lunch.jpg" title="Lunch" >}}
+{{< figure src="/images/dietrich-appreciation-lunch-2014-05-29/cake.jpg" title="Coffee and cake" >}}
 
 But I was surprised by the absence of vegetarian entrees. I myself am not vegetarian, but I know many people who are, or are almost-vegetarian, and I enjoy vegetarian options, so I am always sensitive to the variety of food options at events. Vegetarians at this lunch today had to make do by loading up on only simple salad and steamed vegetables.
 
@@ -38,7 +38,7 @@ Instead, he gave a little talk that is the only one of his that I expect to reme
 
 I guarantee you that I will *never* forget this story he told, as long as I live, it was so funny and personal. I will remember this story for decades. Up till this moment, John Lehoczky was to me just some guy I saw around at events. I don't remember anything he might have said at any ceremonial speech I may have attended by him. But after yesterday, I saw a really funny guy who shared a personal story at his last staff appreciation lunch. The first thing when I got home from work was to tell Abby the story.
 
-{% img /images/dietrich-appreciation-lunch-2014-05-29/lehoczky.jpg John Lehoczky %}
+{{< figure src="/images/dietrich-appreciation-lunch-2014-05-29/lehoczky.jpg" title="John Lehoczky" >}}
 
 ## Conclusion
 

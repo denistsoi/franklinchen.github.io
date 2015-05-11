@@ -17,7 +17,7 @@ I saw an announcement for a lunch talk at CMU with the intriguing title "Theoret
 
 Abstract: **Philosophy of science has pointed out a circularity problem in empirical sciences that arises if all known measuring procedures for a quantity of a theory presuppose the validity of this theory. We discuss how this problem relates to empirical computational linguistics, and define a criterion of T-non-theoretical grounding as guidance to avoid such circularities. We exemplify how this criterion can be met by crowdsourcing, task-related data annotation, or data in the wild. In particular, we illustrate the benefits of grounded learning in the area of statistical machine translation, e.g., by grounding machine translation in semantic parsing and in cross-lingual information retrieval.**
 
-{% img /images/nlp-2014-05-13/presentation.jpg %}
+{{< figure src="/images/nlp-2014-05-13/presentation.jpg" >}}
 
 I attended the talk because of my long-standing interest in the philosophy of science, a subject I spent a lot of time studying in college (although my degree was in physics). 
 
@@ -47,8 +47,8 @@ Answer: talk to a social scientist!
 
 Cookies were available as part of lunch. In accordance with my promise, here are photos of two I ate:
 
-{% img /images/nlp-2014-05-13/cookie1.jpg %}
-{% img /images/nlp-2014-05-13/cookie2.jpg %}
+{{< figure src="/images/nlp-2014-05-13/cookie1.jpg" >}}
+{{< figure src="/images/nlp-2014-05-13/cookie2.jpg" >}}
 
 They were big. I should probably have eaten just the first one.
 

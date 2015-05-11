@@ -16,7 +16,7 @@ categories:
 - Scottish music
 - Pittsburgh Recorder Society
 ---
-{% img /images/pittsburgh-ars-recital-summer-2012.jpg Pittsburgh Recorder Society spring 2012 recital program %}
+{{< figure src="/images/pittsburgh-ars-recital-summer-2012.jpg" title="Pittsburgh Recorder Society spring 2012 recital program" >}}
 
 A month and a half ago, [I reported on an upcoming music recital I was going to perform in](/blog/2012/06/15/preparing-for-my-first-solo-flute-performance-notes-on-perfectionism-and-high-standards/). In fact, I did perform, on Sunday, June 17, 2012. *It was my first appearance in my life on a musical recital program, and my first time solo on modern flute.*
 
@@ -48,11 +48,11 @@ Actually, it did not even occur to me at the time that I would perform at all an
 
 It should be noted that at this point in my life last year, *I had not played music in front of a sitting audience in decades*, and never with any seriousness; I was thirteen when I was last stumbling around playing in marching band with no enthusiasm and just an anonymous figure in a crowd:
 
-{% img /images/lamphere-high-marching-band.jpg Franklin in Lamphere High School marching band uniform %}
+{{< figure src="/images/lamphere-high-marching-band.jpg" title="Franklin in Lamphere High School marching band uniform" >}}
 
 Anyway, I survived playing casually in the group, as Abby watched and took photos that day:
 
-{% img /images/pittsburgh-ars-recital-summer-2011/group.jpg Pittsburgh Recorder Society group performing at summer 2011 recital %}
+{{< figure src="/images/pittsburgh-ars-recital-summer-2011/group.jpg" title="Pittsburgh Recorder Society group performing at summer 2011 recital" >}}
 
 I have to confess that I was actually shaking and hyperventilating at times, messing up my breathing. It all seems so silly now, but that's how it was. We do what we need to do, eventually become less sensitive, and move on.
 

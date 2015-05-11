@@ -14,7 +14,7 @@ I don't like politics, and I don't like voting. When I turned eighteen years old
 
 Why?
 
-{% img /images/voter-receipt-2011.jpg Franklin's voter receipt for 2011 %}
+{{< figure src="/images/voter-receipt-2011.jpg" title="Franklin's voter receipt for 2011" >}}
 
 <!--more-->
 

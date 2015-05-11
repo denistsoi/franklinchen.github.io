@@ -44,13 +44,13 @@ Around thirty people showed up for the group hike.
 
 Terri had her trail map ready, accompanied by Jeff who acted as the sweep. By the way, this hike is part of an extended camping weekend that they organize, running from Friday through Sunday, so many of the hikers had already camped one night, and many planned to camp another night. Abby and I did not feel ready to do camping yet this year, so we went just for the hike.
 
-{% img /images/coopers-rock-2014-05-03/terri-and-jeff.jpg %}
+{{< figure src="/images/coopers-rock-2014-05-03/terri-and-jeff.jpg" >}}
 
 Before we started the hike proper, we checked out the main overlook. It's beautiful. You can see Cheat River and beyond.
 
-{% img /images/coopers-rock-2014-05-03/overlook.jpg %}
+{{< figure src="/images/coopers-rock-2014-05-03/overlook.jpg" >}}
 
-{% img /images/coopers-rock-2014-05-03/overlook2.jpg %}
+{{< figure src="/images/coopers-rock-2014-05-03/overlook2.jpg" >}}
 
 ### Heading down
 
@@ -58,7 +58,7 @@ The main hike was an out (mostly down, all the way to the river) and back up, ro
 
 A lot of rhododendron around:
 
-{% img /images/coopers-rock-2014-05-03/rhododendron.jpg %}
+{{< figure src="/images/coopers-rock-2014-05-03/rhododendron.jpg" >}}
 
 There were also many little wildflowers along the trails during the hike.
 
@@ -66,59 +66,59 @@ We took the rocky, Rattlesnake Trail winding along cliffs. By the way, **using a
 
 I liked how peaceful and quiet most of the hike was. Sometimes Abby and I have gone on hikes where the hum of civilization never really goes away. Here, the main hum was of water, which was usually not too far away.
 
-{% img /images/coopers-rock-2014-05-03/up.jpg %}
+{{< figure src="/images/coopers-rock-2014-05-03/up.jpg" >}}
 
 Abby spotted a huge toad!
 
-{% img /images/coopers-rock-2014-05-03/toad.jpg %}
+{{< figure src="/images/coopers-rock-2014-05-03/toad.jpg" >}}
 
 ### Lunch break
 
 We were warned about poison ivy where we stopped for lunch by the river:
 
-{% img /images/coopers-rock-2014-05-03/poison-ivy.jpg %}
+{{< figure src="/images/coopers-rock-2014-05-03/poison-ivy.jpg" >}}
 
-{% img /images/coopers-rock-2014-05-03/lunch-break.jpg %}
+{{< figure src="/images/coopers-rock-2014-05-03/lunch-break.jpg" >}}
 
 ### Back up
 
 I always find it strangely appealing to hike along running water. Water makes me feel like I am not alone or lost, that there is something soothing and dependable out there:
 
-{% img /images/coopers-rock-2014-05-03/water.jpg %}
+{{< figure src="/images/coopers-rock-2014-05-03/water.jpg" >}}
 
 It was fun to see ferns unfurling here and there:
 
-{% img /images/coopers-rock-2014-05-03/ferns.jpg %}
+{{< figure src="/images/coopers-rock-2014-05-03/ferns.jpg" >}}
 
 We went back a different way than we came, and that involved a bunch of stream crossings over bridges. Here, some of us sat on a bridge for a photo:
 
-{% img /images/coopers-rock-2014-05-03/bridge.jpg %}
+{{< figure src="/images/coopers-rock-2014-05-03/bridge.jpg" >}}
 
 ### Henry Clay Iron Furnace
 
 We took a detour to the historic [Henry Clay Iron Furnace](http://en.wikipedia.org/wiki/Henry_Clay_Furnace).
 
-{% img /images/coopers-rock-2014-05-03/henry-clay-iron-furnace.jpg %}
+{{< figure src="/images/coopers-rock-2014-05-03/henry-clay-iron-furnace.jpg" >}}
 
-{% img /images/coopers-rock-2014-05-03/henry-clay-iron-furnace-back.jpg %}
+{{< figure src="/images/coopers-rock-2014-05-03/henry-clay-iron-furnace-back.jpg" >}}
 
 I crawled inside to take a look.
 
-{% img /images/coopers-rock-2014-05-03/henry-clay-iron-furnace-up.jpg %}
+{{< figure src="/images/coopers-rock-2014-05-03/henry-clay-iron-furnace-up.jpg" >}}
 
-{% img /images/coopers-rock-2014-05-03/henry-clay-iron-furnace-entrance.jpg %}
+{{< figure src="/images/coopers-rock-2014-05-03/henry-clay-iron-furnace-entrance.jpg" >}}
 
 ### Lost?
 
 We got "lost" on the way back to the parking lot, but not really. We missed a turn, but quickly, Terri noticed that things did not look right, and we backtracked, and turned onto the Rhododenron Trail as we should have. All good!
 
-{% img /images/coopers-rock-2014-05-03/rhododendron-trail.jpg %}
+{{< figure src="/images/coopers-rock-2014-05-03/rhododendron-trail.jpg" >}}
 
-{% img /images/coopers-rock-2014-05-03/map.jpg %}
+{{< figure src="/images/coopers-rock-2014-05-03/map.jpg" >}}
 
 Back to civilization:
 
-{% img /images/coopers-rock-2014-05-03/done.jpg %}
+{{< figure src="/images/coopers-rock-2014-05-03/done.jpg" >}}
 
 ## Missing the optional hike
 

@@ -12,7 +12,7 @@ In the past couple of months, I've made some large changes in my diet. Fundament
 
 As an example, here is what I ate this morning:
 
-{% img /images/breakfast-with-prune.jpg Breakfast with flax seeds and prune %}
+{{< figure src="/images/breakfast-with-prune.jpg" title="Breakfast with flax seeds and prune" >}}
 
 The ingredients, and what has changed, and why:
 

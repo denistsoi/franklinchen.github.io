@@ -17,7 +17,7 @@ categories:
 ---
 Just this week, Annie of the [Pittsburgh Recorder Society](http://www.facebook.com/PittsburghRecorderSociety) sent out email reminding us of upcoming musical performances of interest, including some by the [Chatham Baroque](http://www.chathambaroque.org/) joined by visiting [Chris Norman](http://chrisnorman.com/).
 
-{% img http://chrisnorman.com/images/home_feature.jpg Chris Norman %}
+{{< figure src="http://chrisnorman.com/images/home_feature.jpg" title="Chris Norman" >}}
 
 When I heard that Chris Norman was coming, I frantically started rethinking my schedule for the week, because I really wanted to see him playing his wooden flutes. He has been one of my primary musical heroes since I first encountered him at a [public music jam session last year](/blog/2012/04/21/my-first-time-in-a-public-music-jam-intense-fun-with-chris-norman-and-david-greenberg/) sponsored by the [Renaissance and Baroque of Pittsburgh](http://www.rbsp.org/). That day was one of the most important days of my life, which I will never forget, because not only did I see and hear a real master, but also was encouraged to participate myself in playing music.
 

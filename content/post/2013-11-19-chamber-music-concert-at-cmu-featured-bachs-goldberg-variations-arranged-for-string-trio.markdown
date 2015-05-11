@@ -18,7 +18,7 @@ categories:
 - Johann Sebastian Bach
 - Goldberg Variations
 ---
-{% img http://www.cmu.edu/news/stories/archives/2013/november/images/chamber-recital_400x340.jpg David Harding, Noah Bendix-Balgley, Lorna McGhee, Amit Peled %}
+{{< figure src="http://www.cmu.edu/news/stories/archives/2013/november/images/chamber-recital_400x340.jpg" title="David Harding, Noah Bendix-Balgley, Lorna McGhee, Amit Peled" >}}
 
 I attended a special [chamber music concert at CMU](http://www.cmu.edu/news/stories/archives/2013/november/nov8_chambermusic.html) that featured some truly excellent musicians.
 

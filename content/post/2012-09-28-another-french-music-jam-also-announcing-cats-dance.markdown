@@ -16,7 +16,7 @@ categories:
 - Carnegie Mellon University
 - contra dance
 ---
-{% img http://thebridge.cmu.edu/images/W170xL170/0/noshadow/Organization/603b06cbdc7847018dce159a5ed99543.jpg CATS Dance photo %}
+{{< figure src="http://thebridge.cmu.edu/images/W170xL170/0/noshadow/Organization/603b06cbdc7847018dce159a5ed99543.jpg" title="CATS Dance photo" >}}
 
 On Monday I participated for my third time in Lisa's French traditional dance music jam.
 

@@ -17,7 +17,7 @@ I saw an interesting article recently, ["Why the Mona Lisa stands out"](http://m
 
 One example used was the ["Mona Lisa" painting by Leonardo da Vinci](http://en.wikipedia.org/wiki/Mona_Lisa).
 
-{% img http://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/402px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg %}
+{{< figure src="http://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/402px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg" >}}
 
 Somehow this painting became famous and praised widely. Everyone knows the "Mona Lisa".
 
@@ -49,13 +49,13 @@ For example, I don't remember when I first saw the art of Vincent Van Gogh, but 
 
 For example, "Sunflowers" popped out at me the first time I saw it in a book:
 
-{% img https://upload.wikimedia.org/wikipedia/commons/1/1a/Van_Gogh_Vase_with_Fifteen_Sunflowers.jpg %}
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Van_Gogh_Vase_with_Fifteen_Sunflowers.jpg" >}}
 
 More generally, if pressed, I would say I am drawn toward [expressionist](http://www.artyfactory.com/art_appreciation/art_movements/expressionism.htm) art, because it "pops out" and speaks boldly and directly, intensely reflecting some aspect of reality. That said, this kind of art also often makes me uncomfortable, so I don't actively seek it out.
 
 For example, Emil Nolde's "The Prophet":
 
-{% img https://upload.wikimedia.org/wikipedia/en/2/23/%27The_Prophet%27%2C_woodcut_by_Emil_Nolde%2C_1912.jpg %}
+{{< figure src="https://upload.wikimedia.org/wikipedia/en/2/23/%27The_Prophet%27%2C_woodcut_by_Emil_Nolde%2C_1912.jpg" >}}
 
 ## Conclusion
 

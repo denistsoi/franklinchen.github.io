@@ -21,7 +21,7 @@ If you have never been to an event with this Open Spaces format and philosophy, 
 
 This is a report on the two sessions that I attended. The [PittJUG mailing list](http://java.net/projects/pittjug/lists/pittjug/archive) has some discussion already of the two sessions that I had to miss.
 
-{% img /images/pittjug/first-open-spaces.jpg First Open Spaces at PittJUG %}
+{{< figure src="/images/pittjug/first-open-spaces.jpg" title="First Open Spaces at PittJUG" >}}
 
 <!--more-->
 

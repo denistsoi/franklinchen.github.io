@@ -19,7 +19,7 @@ But one thing was sure: today's [16-mile run with the Steel City Road Runners](h
 
 I used this run as an opportunity to perform two radical experiments, which succeeded beyond expectation!
 
-{% img /images/steel-valley-trail-run/trail.jpg Steel Valley Trail %}
+{{< figure src="/images/steel-valley-trail-run/trail.jpg" title="Steel Valley Trail" >}}
 
 <!--more-->
 
@@ -69,7 +69,7 @@ So I will keep on refining my use of the Luna Sandals, but I fully expect, after
 
 The lack of cushioning is a virtue of these minimalist sandals, I believe: being less cushioned than the Bikila LS, I can better feel if my form is poor, because then I feel jarring impact. And I can also feel when I make subtle form adjustments, which the minimal sole enable me to make at all (in the Bikila LS shoes, I feel they induce too much lateral motion sometimes). The feedback cycle enables me to refine my form constantly.
 
-{% img /images/steel-valley-trail-run/luna-sandals-feet.jpg Wearing Luna Sandals %}
+{{< figure src="/images/steel-valley-trail-run/luna-sandals-feet.jpg" title="Wearing Luna Sandals" >}}
 
 ### Speed
 
@@ -85,7 +85,7 @@ That translates to a marathon finish time of 3:56, which I'd be completely happy
 
 I went home and immediately slurped down a planned snack, before eating more food. My first snack was potatoes I had boiled earlier, along with some garlic salt:
 
-{% img /images/steel-valley-trail-run/potatoes.jpg Boiled potatoes with garlic salt %}
+{{< figure src="/images/steel-valley-trail-run/potatoes.jpg" title="Boiled potatoes with garlic salt" >}}
 
 Boiled potatoes go down really well for me. That gives me an idea: on marathon day I will carb-load with potatoes for breakfast, and maybe even bring a potato to the start line to eat before the gun goes off. Despite my fuel-less experiment succeeding for 16 miles, I have every intention of somehow packing in the fuel before marathon day. I need to figure out a plan to top off the fuel without upsetting my stomach.
 

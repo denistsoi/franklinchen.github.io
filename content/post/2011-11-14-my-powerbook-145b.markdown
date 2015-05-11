@@ -11,15 +11,15 @@ I'm not sure what to do with my old Apple Macintosh [PowerBook 145B](http://en.w
 
 Here it is booting [System 7](http://en.wikipedia.org/wiki/System_7):
 
-{% img /images/powerbook-145b/booting-system-7.jpg PowerBook 145B booting System 7 %}
+{{< figure src="/images/powerbook-145b/booting-system-7.jpg" title="PowerBook 145B booting System 7" >}}
 
 The machine had crashed years ago before I booted it:
 
-{% img /images/powerbook-145b/last-crashed.jpg PowerBook 145B booting after crash %}
+{{< figure src="/images/powerbook-145b/last-crashed.jpg" title="PowerBook 145B booting after crash" >}}
 
 Finally, boot is complete:
 
-{% img /images/powerbook-145b/finder.jpg PowerBook 145B up in System 7 Finder %}
+{{< figure src="/images/powerbook-145b/finder.jpg" title="PowerBook 145B up in System 7 Finder" >}}
 
 Some personal history and observations:
 

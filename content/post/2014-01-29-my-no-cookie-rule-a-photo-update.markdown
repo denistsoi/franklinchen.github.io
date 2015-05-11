@@ -14,8 +14,8 @@ I was at a party tonight, and originally saw no cookies, so I thought I was safe
 
 I was wrong. After hours of eating a lot of pretty good food, I saw that cookies were brought out and place next to the coffee in back. I paused, remembering my promise, but then thought, "what the heck", and "carefully" chose just two cookies, photographed them, and ate them.
 
-{% img /images/cookie1.jpg Cookie %}
-{% img /images/cookie2.jpg Cookie %}
+{{< figure src="/images/cookie1.jpg" title="Cookie" >}}
+{{< figure src="/images/cookie2.jpg" title="Cookie" >}}
 
 ## Consequences
 

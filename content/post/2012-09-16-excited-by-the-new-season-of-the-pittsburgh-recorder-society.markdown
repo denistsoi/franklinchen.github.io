@@ -40,7 +40,7 @@ We also started work on "Jubilate Deo", which is divided into two choirs:
 
 Someone donated a whole bunch of music to us and even some instruments. Here are the scores I picked up (there were plenty left over that others did not pick up, but I resisted the temptation to take more than I was ever going to work on):
 
-{% img /images/donated-recorder-music.jpg Selection of recorder music someone donated to the Pittsburgh Recorder Society %}
+{{< figure src="/images/donated-recorder-music.jpg" title="Selection of recorder music someone donated to the Pittsburgh Recorder Society" >}}
 
 Baroque stuff, Handel, Telemann, sopranino "bird" tunes, old English airs and dances, a three volume set of [Van Eyck](/blog/2012/07/28/my-first-appearance-on-a-music-recital-program)!
 

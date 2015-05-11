@@ -52,13 +52,13 @@ Here are some photos of me dancing in 2002 with my last dance partner, Amy, befo
 
 Here we are at the [DC DanceSport Inferno](http://www.dcdancesportinferno.com/) in 2002 doing a hockey stick in international rumba:
 
-{% img /images/ballroom/dcdi-2002-hockey-stick.jpg Amy and Franklin at DCDI 2002 in rumba %}
+{{< figure src="/images/ballroom/dcdi-2002-hockey-stick.jpg" title="Amy and Franklin at DCDI 2002 in rumba" >}}
 
 And here were are at the [Cornell DanceSport Classic](http://comp.cornelldancesport.org/) in 2002 in cha cha, rumba, and tango:
 
-{% img /images/ballroom/cornell-2002-new-yorker.jpg Amy and Franklin at Cornell 2002 in cha cha %}
-{% img /images/ballroom/cornell-2002-hockey-stick.jpg Amy and Franklin at Cornell 2002 in rumba %}
-{% img /images/ballroom/cornell-2002-tango-promenade.jpg Amy and Franklin at Cornell 2002 in tango %}
+{{< figure src="/images/ballroom/cornell-2002-new-yorker.jpg" title="Amy and Franklin at Cornell 2002 in cha cha" >}}
+{{< figure src="/images/ballroom/cornell-2002-hockey-stick.jpg" title="Amy and Franklin at Cornell 2002 in rumba" >}}
+{{< figure src="/images/ballroom/cornell-2002-tango-promenade.jpg" title="Amy and Franklin at Cornell 2002 in tango" >}}
 
 ## Dancing with Abby
 
@@ -72,9 +72,9 @@ It was through dancing that I met Abby in the first place. After quitting dancin
 
 There are not many photos of Abby dancing with me, because when I'm dancing, I'm not holding my camera, but here are some photos a friend took at a big salsa dance weekend at the Palisades in McKeesport in April 2008, a year after we started dating in 2007.
 
-{% img /images/palisades-2008/abby-franklin.jpg Abby and Franklin dancing salsa at Palisades %}
+{{< figure src="/images/palisades-2008/abby-franklin.jpg" title="Abby and Franklin dancing salsa at Palisades" >}}
 
-{% img /images/palisades-2008/abby-franklin-hair.jpg Abby and Franklin dancing salsa at Palisades, hair flying %}
+{{< figure src="/images/palisades-2008/abby-franklin-hair.jpg" title="Abby and Franklin dancing salsa at Palisades, hair flying" >}}
 
 ## Expression and improvisation in dance and in music
 

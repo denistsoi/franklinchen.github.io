@@ -23,7 +23,7 @@ categories:
 - Well-Tempered Clavier
 - intermezzi
 ---
-{% img http://www.mh-freiburg.de/typo3temp/_processed_/csm_prof.-dr.-robert-hill_c7981b16bc.jpg Robert Hill %}
+{{< figure src="http://www.mh-freiburg.de/typo3temp/_processed_/csm_prof.-dr.-robert-hill_c7981b16bc.jpg" title="Robert Hill" >}}
 
 Recently, I completely accidentally discovered a fascinating musician, [Robert Hill](http://en.wikipedia.org/wiki/Robert_Hill_%28musician%29), on [YouTube](http://www.youtube.com/user/earlymus).
 

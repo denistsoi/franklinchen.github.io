@@ -13,7 +13,7 @@ categories:
 - Brentwood Firecracker 5K
 - Frick Park
 ---
-{% img /images/coffee-bean-blast.jpg Trader Joe's Coffee Bean Blast ice cream %}
+{{< figure src="/images/coffee-bean-blast.jpg" title="Trader Joe's Coffee Bean Blast ice cream" >}}
 
 Recently I started eating ice cream for breakfast. I was amused because this was something I haven't done since I was a child, when my sister and I managed for a while to convince our parents to let us eat ice cream for breakfast.
 
@@ -47,7 +47,7 @@ Frustrated, I didn't know when I *could* eat this coffee ice cream. Clearly, the
 
 I went for a five-mile [run](/blog/categories/running/) in [Frick Park](/blog/categories/frick-park/). I wore my Vibram FiveFingers Bikila LS shoes.
 
-{% img /images/vibram-fivefingers-bikila-ls.jpg Vibram FiveFingers Bikila LS shoes %}
+{{< figure src="/images/vibram-fivefingers-bikila-ls.jpg" title="Vibram FiveFingers Bikila LS shoes" >}}
 
 ## My real breakfast
 
@@ -55,7 +55,7 @@ At breakfast, I eat only two spoons of ice cream, actually. That is enough to sa
 
 I followed up with the rest of my breakfast, which is typical of what I've been eating since [completely abandoning my former oatmeal breakfast](/blog/2011/10/23/paleo-diet-experimentation/).
 
-{% img /images/breakfast-brentwood.jpg My breakfast along with Brentwood 5K entry form %}
+{{< figure src="/images/breakfast-brentwood.jpg" title="My breakfast along with Brentwood 5K entry form" >}}
 
 - Two [eggs](/blog/2011/11/28/thankful-for-the-free-range-orange-yolked-eggs/) fried with spice mix and olive oil
 - Spinach from our [Kretschmann Farm](http://www.kretschmannfarm.com/) box

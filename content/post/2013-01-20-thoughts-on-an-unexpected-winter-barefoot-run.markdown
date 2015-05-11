@@ -11,7 +11,7 @@ categories:
 - Xero Shoes
 - global climate change
 ---
-{% img /images/barefoot-running-winter.jpg Barefoot running in winter %}
+{{< figure src="/images/barefoot-running-winter.jpg" title="Barefoot running in winter" >}}
 
 Yesterday, I went on my first ever *winter barefoot run*.
 
@@ -40,7 +40,7 @@ I ended up running less than about three miles, because I faced some annoyances:
 
 I ended up going back home and putting on my [Xero Shoes (4mm Connect)](/blog/2012/07/26/walking-and-running-in-invisible-shoes-a-review) that have become my favorite running footwear (when the weather allows; I stopped wearing them last fall shortly after the Great Race 10K, which was [my first race running in them](/blog/2012/09/30/running-my-10th-great-race-10k-obscene-but-in-a-good-way/)). I felt much better wearing these huaraches and went back out to run another three miles.
 
-{% img /images/xero-shoes-winter.jpg Xero Shoes 4mm Connect %}
+{{< figure src="/images/xero-shoes-winter.jpg" title="Xero Shoes 4mm Connect" >}}
 
 ## Somber thoughts
 

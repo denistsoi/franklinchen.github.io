@@ -29,8 +29,8 @@ I still [do not listen to music much](/blog/2011/10/02/i-love-music-but-rarely-l
 
 The group [Flute Force](http://www.fluteforce.org/) was here about a month ago for a convocation and of course I had to go, given how I'd gotten serious about playing flute. They gave a nice concert of a variety of music, all of which was unfamiliar to me and stimulating.
 
-{% img /images/flute-force/flute-force-1.jpg Flute Force %}
-{% img /images/flute-force/flute-force-2.jpg Flute Force %}
+{{< figure src="/images/flute-force/flute-force-1.jpg" title="Flute Force" >}}
+{{< figure src="/images/flute-force/flute-force-2.jpg" title="Flute Force" >}}
 
 Today I went to a rather moving and thought-provoking presentation and performance by the violinist [Sangeet-Richard Downs](http://www.myspace.com/sangeetosho), who was a CMU graduate. (I will write a blog post later about [him](http://www.facebook.com/RichardDownsmusic) and his message that completely resonates with me.)
 

@@ -17,7 +17,7 @@ Today I noticed that some people recommended doing the reset multiple times in a
 
 I was so amused, never having personally zapped PRAM in my 28 years of using Macintosh computers, much less continuously, that I had to have a photo taken:
 
-{% img /images/zapping-pram-mountain-lion-install.jpg Franklin zapping PRAM to install Mountain Lion %}
+{{< figure src="/images/zapping-pram-mountain-lion-install.jpg" title="Franklin zapping PRAM to install Mountain Lion" >}}
 
 ## Conclusion
 

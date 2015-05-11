@@ -13,7 +13,7 @@ categories:
 ---
 Yesterday there was a concert, [much-anticipated](http://www.post-gazette.com/pg/11272/1178247-388.stm), part of the current season of the [Pittsburgh Renaissance & Baroque](http://www.rbsp.org/), that I didn't attend. I felt slightly sad because I'm sure it was interesting, and also because fellow members of the [local chapter](http://www.andrew.cmu.edu/user/lukas/pcars/Welcome.html) of the American Recorder Society had been talking about going and urging me to come along.
 
-{% img http://www.post-gazette.com/pg/images/201109/renbar0929_juilliard_baroqu_330.jpg Juilliard Baroque Ensemble %}
+{{< figure src="http://www.post-gazette.com/pg/images/201109/renbar0929_juilliard_baroqu_330.jpg" title="Juilliard Baroque Ensemble" >}}
 
 This was not the only concert in the past couple of years that I have chosen not to attend. So why have I chosen to skip these opportunities?
 
@@ -53,4 +53,4 @@ Of course, now and then I still watch a movie or pull out a CD or attend a conce
 
 And since the Eroica symphony is a permanent and profound part of my psyche, sometimes I find myself humming it to myself from memory. This tends to happen when it's a nice sunny day and I'm on a run in the woods and feeling in a "heroic" mood. The music then fits perfectly because I will then run at a decent stride rate of [180 steps per minute](http://runningtimes.com/Article.aspx?ArticleID=11419), corresponding exactly to [breathing in a 3-3 rhythm](http://www.marathonguide.com/training/coachmindy/everybreath.cfm) and following Beethoven's infamous (but I believe appropriate) metronome marking of 60 for the first movement! Great running music, 15 minutes of genius.
 
-{% img http://www.dlib.indiana.edu/variations/scores/adh1166/large/sco10001.gif Beethoven's Eroica, first page %}
+{{< figure src="http://www.dlib.indiana.edu/variations/scores/adh1166/large/sco10001.gif" title="Beethoven's Eroica, first page" >}}

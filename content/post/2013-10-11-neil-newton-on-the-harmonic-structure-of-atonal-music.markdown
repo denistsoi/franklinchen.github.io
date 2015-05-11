@@ -11,7 +11,7 @@ categories:
 - Neil Newton
 - University of Pittsburgh
 ---
-{% img http://www.music.pitt.edu/sites/default/files/story-images/neil_newton-600.jpg?1401301354 %}
+{{< figure src="http://www.music.pitt.edu/sites/default/files/story-images/neil_newton-600.jpg?1401301354" >}}
 
 I attended a fascinating and illuminating lecture by [Neil Newton](http://www.music.pitt.edu/faculty/newton) at the University of Pittsburgh with the title ["*The Inner Life of Harmonies: An Examination of the Middle Voice in Pop, Classical, and Early Post-Tonal Music*"](http://www.music.pitt.edu/events/lecture-neil-newton-university-pitt130925).
 

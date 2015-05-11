@@ -7,7 +7,7 @@ categories:
 - food
 - cooking
 ---
-{% img /images/end-of-summer-vegetable-medley.jpg Franklin's end-of-summer vegetable medley %}
+{{< figure src="/images/end-of-summer-vegetable-medley.jpg" title="Franklin's end-of-summer vegetable medley" >}}
 
 I whipped up what I'll call my "end-of-summer vegetable medley" (since summer is basically over now), using ingredients we happened to have on hand, from [Kretschmann Farm](/blog/categories/kretschmann-farm/) as well as from Abby's parents.
 

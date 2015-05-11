@@ -17,7 +17,7 @@ categories:
 ---
 At the second meeting of this season of the [Pittsburgh Recorder Society](http://www.facebook.com/PittsburghRecorderSociety), I was amazed by the huge turnout. There were **fourteen** of us, easily double the typical attendance in the past two seasons since [I first joined in 2011](/blog/2013/02/23/celebrating-two-years-of-playing-recorder/):
 
-{% img /images/pittsburgh-recorder-society-2013-10-20/panorama.jpg %}
+{{< figure src="/images/pittsburgh-recorder-society-2013-10-20/panorama.jpg" >}}
 
 Fred was very excited by the attendance and told us he would like for us to perform as an entire group sometime.
 
@@ -27,11 +27,11 @@ As [promised after last month's meeting](/blog/2013/09/15/new-goals-for-a-new-se
 
 Since it is almost Halloween, Helen brought in some "scary" cupcakes that were, to me anyway, a sight to behold.
 
-{% img /images/pittsburgh-recorder-society-2013-10-20/snacks.jpg %}
+{{< figure src="/images/pittsburgh-recorder-society-2013-10-20/snacks.jpg" >}}
 
-{% img /images/pittsburgh-recorder-society-2013-10-20/scary-cupcake.jpg %}
+{{< figure src="/images/pittsburgh-recorder-society-2013-10-20/scary-cupcake.jpg" >}}
 
-{% img /images/pittsburgh-recorder-society-2013-10-20/scary-cupcake-bottom.jpg %}
+{{< figure src="/images/pittsburgh-recorder-society-2013-10-20/scary-cupcake-bottom.jpg" >}}
 
 ## Pittsburgh's rubber duck
 

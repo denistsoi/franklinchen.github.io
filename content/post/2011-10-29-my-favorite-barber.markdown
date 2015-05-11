@@ -13,7 +13,7 @@ Joe Feldman doesn't take appointments or reservations. You come, you stay, and d
 
 A world of reasons.
 
-{% img /images/haircut/franklin-before.jpg Franklin before haircut %}
+{{< figure src="/images/haircut/franklin-before.jpg" title="Franklin before haircut" >}}
 
 <!--more-->
 
@@ -49,7 +49,7 @@ I was so happy that the next time I was due, I saw Joe working again. He had sli
 
 Here I am, done after half an hour in the chair:
 
-{% img /images/haircut/franklin-after.jpg Franklin after haircut %}
+{{< figure src="/images/haircut/franklin-after.jpg" title="Franklin after haircut" >}}
 
 You can see in the mirror the guy after me taking my photo for me. He said he used to get his hair cut by Joe's father Harry here sixty years ago. Now that's history!
 

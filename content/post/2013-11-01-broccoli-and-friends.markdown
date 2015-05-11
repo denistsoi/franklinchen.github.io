@@ -23,7 +23,7 @@ My mother was unsuccessful in nagging me to eat my brocolli. It was when my fath
 
 ## Simple vegetable medley
 
-{% img /images/broccoli-medley.jpg Broccoli and other vegetables %}
+{{< figure src="/images/broccoli-medley.jpg" title="Broccoli and other vegetables" >}}
 
 I used a wok, but for the volume, not at high heat.
 

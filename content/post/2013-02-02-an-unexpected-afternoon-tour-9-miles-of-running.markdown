@@ -19,7 +19,7 @@ I had an amusing, completely impromptu Saturday afternoon tour in which I ran ni
 
 As of Friday evening, I had only planned to go for a run on Saturday. Here's how I ended up on my unexpected tour instead.
 
-{% img /images/cathedral-of-learning-full.jpg Cathedral of Learning %}
+{{< figure src="/images/cathedral-of-learning-full.jpg" title="Cathedral of Learning" >}}
 
 <!--more-->
 
@@ -37,7 +37,7 @@ OK, so I was exaggerating: I did not visit two complete chess tournaments on my 
 
 It turned out that shortly before I was about to go for a run in the afternoon, I got word from Kurt that he was about to play his rescheduled game with Peter at the Pittsburgh Chess Club. So I thought I would run there from home (just a bit over a mile away) to stop by and take a look before continuing on with my run.
 
-{% img /images/wallnau-jansen.jpg Wallnau-Jansen from round 3 %}
+{{< figure src="/images/wallnau-jansen.jpg" title="Wallnau-Jansen from round 3" >}}
 
 When I arrived, the game had barely begun, so I just immediately went back out to continue running.
 
@@ -47,7 +47,7 @@ Originally I had planned to maybe run in Homewood Cemetery for a bit, but I sudd
 
 But as I approached, staring me in the face was the Cathedral of Learning.
 
-{% img /images/cathedral-of-learning-on-run.jpg Cathedral of Learning %}
+{{< figure src="/images/cathedral-of-learning-on-run.jpg" title="Cathedral of Learning" >}}
 
 ## Cathedral of Learning stair climb
 
@@ -59,7 +59,7 @@ As another experiment, I did not just sit down and rest after finishing the stai
 
 I went across the street to the chess tournament in progress. The games in the round were mostly done, so there wasn't that much to see:
 
-{% img /images/2013-pa-state-game-75.jpg 2013 PA State Game/75 Championship %}
+{{< figure src="/images/2013-pa-state-game-75.jpg" title="2013 PA State Game/75 Championship" >}}
 
 ## Run with Jason
 

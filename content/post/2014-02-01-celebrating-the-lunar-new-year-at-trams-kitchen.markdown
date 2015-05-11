@@ -16,15 +16,15 @@ Although Abby and I don't regularly celebrate [Lunar New Year](http://en.wikiped
 
 ## Lawrenceville
 
-{% img /images/trams-kitchen-2014-02-01/lawrenceville.jpg Lawrenceville %}
+{{< figure src="/images/trams-kitchen-2014-02-01/lawrenceville.jpg" title="Lawrenceville" >}}
 
 Since it was warm out (over 40 degrees Fahrenheit!), I decided we should go out for an urban hike and end with a meal. We drove to Lawrenceville, where I planned for us to check out a Thai place we hadn't been to before, [Pusadee's Garden](http://www.pusadeesgarden.com/).
 
 We walked around a bit, and saw a strange amount of abandoned footwear. Some samples:
 
-{% img /images/trams-kitchen-2014-02-01/footwear1.jpg %}
+{{< figure src="/images/trams-kitchen-2014-02-01/footwear1.jpg" >}}
 
-{% img /images/trams-kitchen-2014-02-01/footwear2.jpg %}
+{{< figure src="/images/trams-kitchen-2014-02-01/footwear2.jpg" >}}
 
 ## Food
 
@@ -32,8 +32,8 @@ When we went to Pusadee's Garden, we found that the place was closed for vacatio
 
 We shared a pho (noodle soup) and a large vegetable/meat appetizer. Filling and pretty good.
 
-{% img /images/trams-kitchen-2014-02-01/horses.jpg Horses %}
+{{< figure src="/images/trams-kitchen-2014-02-01/horses.jpg" title="Horses" >}}
 
-{% img /images/trams-kitchen-2014-02-01/pho.jpg Pho %}
+{{< figure src="/images/trams-kitchen-2014-02-01/pho.jpg" title="Pho" >}}
 
-{% img /images/trams-kitchen-2014-02-01/appetizer.jpg Appetizer %}
+{{< figure src="/images/trams-kitchen-2014-02-01/appetizer.jpg" title="Appetizer" >}}

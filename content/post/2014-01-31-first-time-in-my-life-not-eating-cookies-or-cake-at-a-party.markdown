@@ -20,7 +20,7 @@ There was plenty of good, healthy food at the party: the hosts provided great ap
 
 For example, a salad Abby assembled when we arrived at the party:
 
-{% img /images/abby-salad.jpg %}
+{{< figure src="/images/abby-salad.jpg" >}}
 
 ## Future
 

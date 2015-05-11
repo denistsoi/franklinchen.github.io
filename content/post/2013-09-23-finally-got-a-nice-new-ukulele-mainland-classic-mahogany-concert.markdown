@@ -9,7 +9,7 @@ categories:
 - ukulele
 - Steel City Ukuleles
 ---
-{% img /images/mainland-classic-mahogany-concert.jpg Mainland Classic Mahogany Concert ukulele %}
+{{< figure src="/images/mainland-classic-mahogany-concert.jpg" title="Mainland Classic Mahogany Concert ukulele" >}}
 
 Exactly two months after beginning to learn ukulele, I finally got a quality instrument for myself, ordered online from [Mainland Ukes](http://www.mainlandukuleles.com/) in Indiana (yes, there are good ukuleles made outside of Hawaii).
 

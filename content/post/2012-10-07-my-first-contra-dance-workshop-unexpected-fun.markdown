@@ -11,7 +11,7 @@ categories:
 - Carnegie Mellon University
 - music
 ---
-{% img /images/first-contra-dance/motion.jpg Dancers in motion %}
+{{< figure src="/images/first-contra-dance/motion.jpg" title="Dancers in motion" >}}
 
 Today Abby and I attended the [first CMU contra dance workshop](http://www.facebook.com/events/374623475947550/) put on by the [Carnegie Alliance of Traditional and Social Dance](http://www.facebook.com/catsdancepgh), as I mentioned we might when I wrote about the [formation of CATS Dance](/blog/2012/09/28/another-french-music-jam-also-announcing-cats-dance/).
 
@@ -31,7 +31,7 @@ The turnout was great. I estimate there were about thirty to forty participants.
 
 ## Caller
 
-{% img http://www.cdss.org/system/html/gayefifer-579cfde1.jpg Gaye Fifer %}
+{{< figure src="http://www.cdss.org/system/html/gayefifer-579cfde1.jpg" title="Gaye Fifer" >}}
 
 We were really blessed today to have a great caller, [Gaye Fifer](http://wa64.com/Waltz.html), who is not only clear in her instruction and calling, but also was always very observant and helpful to anyone who was in her line of sight. Whenever I was near her and messing up, she noticed and efficiently got me back on track. She did that for everyone, not just me. Given the size of the crowd, I found that care and attention to detail really impressive.
 
@@ -39,7 +39,7 @@ Gaye made the whole learning experience effective, friendly, and joyful!
 
 ## Band
 
-{% img /images/first-contra-dance/gallimaufry.jpg Gallimaufry %}
+{{< figure src="/images/first-contra-dance/gallimaufry.jpg" title="Gallimaufry" >}}
 
 We also had a fantastic live band, [Gallimaufry](http://www.facebook.com/gallimaufryband), from Oberlin. This is a group of five youthful and very skilled musicians playing a whole bunch of instruments. I saw fiddle, cello, electric guitar, accordion, piano, drums.
 
@@ -55,7 +55,7 @@ By the way, I got pretty sweaty during the four-hour workshop. It was intense. T
 
 ### Watching
 
-{% img /images/first-contra-dance/abby-david.jpg Abby partnering with David %}
+{{< figure src="/images/first-contra-dance/abby-david.jpg" title="Abby partnering with David" >}}
 
 There was a snack break halfway through, but I took other breaks to catch my breath and rest my mind, since the dances got progressively more complicated and faster (counting in four rather than eight, for example, and traveling more). It was fun to take a break and watch people dance, because the more experienced dancers added their own ornaments and spins and looked so smooth.
 

@@ -27,7 +27,7 @@ Last week I reported on running Just A Short Run, [my first half marathon in nin
 
 But the overtraining this week was partly my doing. Here I explain how I ended up feeling like I was falling apart, and how I recovered and felt pretty good during today's long run.
 
-{% img /images/wow-run.jpg Pittsburgh Marathon Warmup on Walnut run %}
+{{< figure src="/images/wow-run.jpg" title="Pittsburgh Marathon Warmup on Walnut run" >}}
 
 <!--more-->
 
@@ -37,7 +37,7 @@ As I mentioned in my report, I had some issues after the race: my right lower ca
 
 Sure enough, a day later, I was feeling very sore in my right lower calf and second toe. I should mention that I have [Morton's toe](http://en.wikipedia.org/wiki/Morton%27s_toe) on both feet, although my left second toe is only barely longer than the big toe, while it is my right second toe that is noticeably longer than the big toe and therefore has a real tendency to cause me some problems:
 
-{% img /images/mortons-toe.jpg My Morton's toes %}
+{{< figure src="/images/mortons-toe.jpg" title="My Morton's toes" >}}
 
 So I did take a day off running after the half marathon.
 
@@ -47,7 +47,7 @@ But even on Monday, I was still feeling sore. I decided that I should do some li
 
 Also, I very much wanted to finally start running in my new Luna Sandals, which I had received last week but put aside because of the half marathon. These are the [Venado with ATS laces and MGT footbed](http://www.lunasandals.com/products/33-venado):
 
-{% img https://s3.amazonaws.com/lunastore/images/255/full.jpg?1351720427 Luna Sandals: Venado, ATS laces, MGT footbed %}
+{{< figure src="https://s3.amazonaws.com/lunastore/images/255/full.jpg?1351720427" title="Luna Sandals: Venado, ATS laces, MGT footbed" >}}
 
 I ended up running just an easy 2 miles on the treadmill in the morning in my Vibram FiveFingers Bikila LS shoes, and then after work, running 1.5 miles in the Luna Sandals.
 
@@ -57,13 +57,13 @@ Tuesday, I was still not yet completely recovered either from the half marathon,
 
 I encountered various problems while trying out the Luna Sandals, beginning to break them in. I got chafed in various places from the straps and buckle:
 
-{% img /images/luna-sandals-2013-04-02/feet.jpg Feet chafed %}
+{{< figure src="/images/luna-sandals-2013-04-02/feet.jpg" title="Feet chafed" >}}
 
-{% img /images/luna-sandals-2013-04-02/side.jpg Side view %}
+{{< figure src="/images/luna-sandals-2013-04-02/side.jpg" title="Side view" >}}
 
-{% img /images/luna-sandals-2013-04-02/wearing.jpg Feet in %}
+{{< figure src="/images/luna-sandals-2013-04-02/wearing.jpg" title="Feet in" >}}
 
-{% img /images/luna-sandals-2013-04-02/heel.jpg View of heel %}
+{{< figure src="/images/luna-sandals-2013-04-02/heel.jpg" title="View of heel" >}}
 
 And it was tricky keeping the sandals on at all. I fidgeted a lot with the laces to try to keep my heels from slipping. I kept on having problems with my right heel slipping.
 

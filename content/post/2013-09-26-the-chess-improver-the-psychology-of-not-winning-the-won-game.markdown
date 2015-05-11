@@ -8,7 +8,7 @@ categories:
 - chess
 - Pittsburgh Chess Club
 ---
-{% img /images/15th-fred-sorensen-memorial/round-3.jpg Round 3 %}
+{{< figure src="/images/15th-fred-sorensen-memorial/round-3.jpg" title="Round 3" >}}
 
 I published my third post on the blog [The Chess Improver](http://chessimprover.com/). It covers my third round game in the current Pittsburgh Chess Club Tuesday night tournament, in which I was very disappointed because I had a won game but failed to actually win the game!
 

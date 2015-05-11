@@ -9,7 +9,7 @@ categories:
 - voting
 - Pennsylvania
 ---
-{% img /images/voter-receipt-2012.jpg My voter receipt 2012 %}
+{{< figure src="/images/voter-receipt-2012.jpg" title="My voter receipt 2012" >}}
 
 Last year I [wondered aloud about the act of voting](/blog/2011/11/08/i-dont-know-if-i-should-vote-but-i-did/), being unsure about how to justify my annual participation in this ritual.  
 

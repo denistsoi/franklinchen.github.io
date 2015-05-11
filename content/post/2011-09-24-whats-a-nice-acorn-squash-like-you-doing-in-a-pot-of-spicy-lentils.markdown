@@ -13,7 +13,7 @@ A nice acorn squash was sitting on the kitchen counter, lonely since arriving da
 
 When some lentils decided to soak in a bowl next to her on the counter, she decided she wanted to join them. Next thing she knew, there was a whole party gathering!
 
-{% img /images/lentil-acorn-squash-soup-ingredients.jpg Ingredients for lentil acorn squash soup %}
+{{< figure src="/images/lentil-acorn-squash-soup-ingredients.jpg" title="Ingredients for lentil acorn squash soup" >}}
 
 <!--more-->
 
@@ -25,4 +25,4 @@ The acorn squash and the carrots came from Kretschmann. The soup was not vegetar
 
 Yummy!
 
-{% img /images/lentil-acorn-squash-soup-done.jpg Cooked lentil acorn squash soup %}
+{{< figure src="/images/lentil-acorn-squash-soup-done.jpg" title="Cooked lentil acorn squash soup" >}}

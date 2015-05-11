@@ -15,7 +15,7 @@ categories:
 - dance
 - waltz
 ---
-{% img /images/dan-possumato/flyer.jpg World Kaleidoscope Flyer %}
+{{< figure src="/images/dan-possumato/flyer.jpg" title="World Kaleidoscope Flyer" >}}
 
 Abby and I checked out a musical performance at the Carnegie Library of Pittsburgh, main branch. They have a regular Sunday afternoon "World Kaleidoscope" series featuring world sounds from local musicians: two months ago I reported on some delightful [local Appalachian music](/blog/2012/09/23/living-appalachian-music-of-southwestern-pennsylvania/).
 
@@ -28,8 +28,8 @@ We had a good time. Among the selections:
 - Irish waltz "Planxty Irwin" that Abby and I danced to
 - a French [hanter dro](http://fr.wikipedia.org/wiki/Hanter-dro)
 
-{% img /images/dan-possumato/back.jpg View from back %}
+{{< figure src="/images/dan-possumato/back.jpg" title="View from back" >}}
 
-{% img /images/dan-possumato/right.jpg View from right %}
+{{< figure src="/images/dan-possumato/right.jpg" title="View from right" >}}
 
-{% img /images/dan-possumato/dan-possumato.jpg Dan Possumato %}
+{{< figure src="/images/dan-possumato/dan-possumato.jpg" title="Dan Possumato" >}}

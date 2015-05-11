@@ -11,7 +11,7 @@ categories:
 - Pittsburgh
 - cookies
 ---
-{% img /images/pittsburgh-recorder-society-2014-03-16/group.jpg Pittsburgh Recorder Society %}
+{{< figure src="/images/pittsburgh-recorder-society-2014-03-16/group.jpg" title="Pittsburgh Recorder Society" >}}
 
 I forgot to mention in my post about [last month's Pittsburgh Recorder Society's meeting](/blog/2014/02/16/pittsburgh-recorder-society-7-part-gabrieli-and-coconut-chocolate-cookies/) that Fred has started recording our sessions; he's set up a tripod and an audio recorder. I kind of didn't pay attention because it was not emphasized and nobody talked much about it.
 
@@ -35,22 +35,22 @@ This is the first recorder meeting in my three years in which I did not play sop
 
 People brought in snacks to share, as usual, for the mid-meeting break.
 
-{% img /images/pittsburgh-recorder-society-2014-03-16/snacks.jpg Snacks %}
+{{< figure src="/images/pittsburgh-recorder-society-2014-03-16/snacks.jpg" title="Snacks" >}}
 
 And of course, this being St. Patrick's Day weekend, Helen had to bring special Irish-themed snacks to share. In addition to Irish cheese, she also brought homemade brownies that she said were from an actual Irish recipe! These were *fantastic brownies*: chocolate, cocoa, good stuff. I had to eat them, again and again.
 
 In accordance with my [promise about "cookies"](/blog/2014/01/16/a-system-for-quitting-eating-cookies/), here is a photo of each individual one I ate.
 
-{% img /images/pittsburgh-recorder-society-2014-03-16/brownie1.jpg Brownie 1 %}
-{% img /images/pittsburgh-recorder-society-2014-03-16/brownie2.jpg Brownie 2 %}
+{{< figure src="/images/pittsburgh-recorder-society-2014-03-16/brownie1.jpg" title="Brownie 1" >}}
+{{< figure src="/images/pittsburgh-recorder-society-2014-03-16/brownie2.jpg" title="Brownie 2" >}}
 
 Someone brought in a box of castle cookies. I ate one:
 
-{% img /images/pittsburgh-recorder-society-2014-03-16/castle-cookie.jpg %}
+{{< figure src="/images/pittsburgh-recorder-society-2014-03-16/castle-cookie.jpg" >}}
 
 While I was packing up to leave, I couldn't resist temptation and ate my third Helen brownie:
 
-{% img /images/pittsburgh-recorder-society-2014-03-16/brownie3.jpg Brownie 3 %}
+{{< figure src="/images/pittsburgh-recorder-society-2014-03-16/brownie3.jpg" title="Brownie 3" >}}
 
 In retrospect, **this was a big mistake**. After getting home, I felt burdened by this third brownie. I would have been fine just eating the first two and the one cookie (along with some cheese and nuts that I also had).
 

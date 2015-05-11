@@ -17,9 +17,9 @@ categories:
 - Smiley Cookie
 - cookies
 ---
-{% img /images/pittsburgh-marathon-2013/runner-of-steel.jpg Franklin Chen, runner of steel %}
+{{< figure src="/images/pittsburgh-marathon-2013/runner-of-steel.jpg" title="Franklin Chen, runner of steel" >}}
 
-{% img /images/pittsburgh-marathon-2013/lying-down.jpg Franklin lying down %}
+{{< figure src="/images/pittsburgh-marathon-2013/lying-down.jpg" title="Franklin lying down" >}}
 
 Yesterday, for my birthday, I ran the Pittsburgh Marathon for the second time. The first time was [ten years ago, in 2003](/blog/2013/01/30/why-and-how-i-am-going-to-run-the-2013-pittsburgh-marathon/). That was an ordeal in which I had aimed at finishing in 3:30 and in fact run the first half in 1:45, but then faltered badly to struggle to finish in a [chip time of 3:53:25](http://runhigh.com/.2003%20Results%20A/R050403AA.html).
 
@@ -43,17 +43,17 @@ I got zero sleep the night before the race. Terrible, but my body was probably c
 
 Super early, Abby drove us to the [North Shore](http://www.visitpittsburgh.com/essentials/neighborhoods/north-shore/) to park. Then we napped for a bit before heading to the nearest [light rail (aka "T")](http://en.wikipedia.org/wiki/Pittsburgh_Light_Rail) station to wait for a ride downtown:
 
-{% img /images/pittsburgh-marathon-2013/go-downtown.jpg Abby and I wait for T %}
+{{< figure src="/images/pittsburgh-marathon-2013/go-downtown.jpg" title="Abby and I wait for T" >}}
 
 We got downtown finally, I dropped off a bag of post-race flip-flops at Gear Check, time was starting to run out, and I got in line for a Port-a-pottie:
 
-{% img /images/pittsburgh-marathon-2013/port-a-potties.jpg Port-a-potties %}
+{{< figure src="/images/pittsburgh-marathon-2013/port-a-potties.jpg" title="Port-a-potties" >}}
 
 It was 15 minutes before I did what I needed to do. Then I had to quickly head to my corral.
 
 ## Clothing
 
-{% img /images/pittsburgh-marathon-2013/franklin-before-marathon.jpg Franklin before marathon %}
+{{< figure src="/images/pittsburgh-marathon-2013/franklin-before-marathon.jpg" title="Franklin before marathon" >}}
 
 What I wore:
 
@@ -69,7 +69,7 @@ What I wore:
 
 This is the second race in my life in which I have carried a phone. I planned to use it only in case of emergency, and in order to meet up with Abby afterwards, but as you can see, while I had a chance, I took some photos also.
 
-{% img /images/pittsburgh-marathon-2013/corral-c.jpg Corral C %}
+{{< figure src="/images/pittsburgh-marathon-2013/corral-c.jpg" title="Corral C" >}}
 
 I was assigned to corral C because of my estimated finish time of 4:00 that I had written down when signing up for the marathon months ago.
 
@@ -89,7 +89,7 @@ There was a moment of silence for Boston.
 
 Star-Spangled Banner, then the waves began. A photo as mine was approaching the start line, around 7:05 AM:
 
-{% img /images/pittsburgh-marathon-2013/start-line.jpg About to reach the start line %}
+{{< figure src="/images/pittsburgh-marathon-2013/start-line.jpg" title="About to reach the start line" >}}
 
 Then we went.
 
@@ -97,7 +97,7 @@ Then we went.
 
 I honestly thought I was going slow. I was hardly breathing at all. I was going so "slow" that I pulled out my phone to take some photos. But then I got very confused, because the 3:50 pacer was still in my sight after many minutes:
 
-{% img /images/pittsburgh-marathon-2013/early.jpg Early in the marathon %}
+{{< figure src="/images/pittsburgh-marathon-2013/early.jpg" title="Early in the marathon" >}}
 
 I could not process this information. Part of me wanted to slow down, but I felt like I was barely running. Part of me believed that the pacer must be slow, but come on, these pacers are supposed to be reliable.
 
@@ -107,15 +107,15 @@ So I *made the mistake* of not trusting the pacer. It sounds crazy, but I really
 
 At some point, I lost sight of the pacer, so I felt reassured that I must have slowed down properly. Here's another problem: I did not keep track of my mile splits because the mass of people made it hard for me to actually reliably spot any mile markers on the course; I don't even know how many actually existed.
 
-{% img /images/pittsburgh-marathon-2013/bridge.jpg Crossing bridge %}
+{{< figure src="/images/pittsburgh-marathon-2013/bridge.jpg" title="Crossing bridge" >}}
 
 I even took a photo of myself 40 minutes into the marathon feeling fine.
 
-{% img /images/pittsburgh-marathon-2013/franklin-early.jpg Franklin %}
+{{< figure src="/images/pittsburgh-marathon-2013/franklin-early.jpg" title="Franklin" >}}
 
 There were spectators on bridges, some of them positioned seemingly precariously.
 
-{% img /images/pittsburgh-marathon-2013/spectators-on-bridges.jpg Spectators on bridge %}
+{{< figure src="/images/pittsburgh-marathon-2013/spectators-on-bridges.jpg" title="Spectators on bridge" >}}
 
 At some point I realized that I could see the 3:50 pacer up ahead. I got worried. It was unlikely that I was magically super-fit now. But I didn't feel like slowing down.
 
@@ -127,7 +127,7 @@ Still, it appears from the alert system that I signed up for (to notify my paren
 
 I started really slowing down before even reaching the Birmingham Bridge. I knew I was getting into serious trouble. It was crazy, but my left knee was bothering me, and my left quads had started to twitch. So I had gone only about 11 miles and I was already struggling.
 
-{% img /images/pittsburgh-marathon-2013/birmingham-bridge.jpg On Birmingham Bridge %}
+{{< figure src="/images/pittsburgh-marathon-2013/birmingham-bridge.jpg" title="On Birmingham Bridge" >}}
 
 You have to understand how *nonsensical* it is for me to be having muscle cramping after running only 11 miles at a pace that is actually slow for an 11-mile run.
 
@@ -153,13 +153,13 @@ I was so not going to make it for 10 AM. But I wanted to go slowly enough that I
 
 At around 9:49 AM, [Chris](http://www.runoverit.com/) passed me and said hello. I told him I was doing very badly. He wasn't doing as well as he had hoped, but was moving along, unlike me. Here's a photo I had the presence of mind to take only as he had already gone way ahead (in the blue shirt):
 
-{% img /images/pittsburgh-marathon-2013/chris.jpg Chris up ahead in blue shirt %}
+{{< figure src="/images/pittsburgh-marathon-2013/chris.jpg" title="Chris up ahead in blue shirt" >}}
 
 At 9:54 AM, I made a video statement on my phone, just for myself: "I'm after mile 17 or something, in Homewood. I'm doing really badly, but I'm still running, and that's all I can say about that."
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/12inzKGZGRU" frameborder="0" allowfullscreen></iframe>
 
-{% img /images/pittsburgh-marathon-2013/despair.jpg Despair after mile 17 in Pittsburgh Marathon %}
+{{< figure src="/images/pittsburgh-marathon-2013/despair.jpg" title="Despair after mile 17 in Pittsburgh Marathon" >}}
 
 ## Annie
 
@@ -171,7 +171,7 @@ A note on the blistering and chafing: it got really warm and I got sweaty, so th
 
 I kept running/walking. I saw Annie. I decided there and then, seeing her, that I was going to finish, rather than just bail out and crash on her couch or something pathetic like that. I shouted that I was in severe pain but planned to continue on! She took a photo of me, which I knew was going to be on Facebook before too long, so I'd better make good on my promise to her!
 
-{% img /images/pittsburgh-marathon-2013/franklin-in-highland-park.jpg Franklin in Highland Park %}
+{{< figure src="/images/pittsburgh-marathon-2013/franklin-in-highland-park.jpg" title="Franklin in Highland Park" >}}
 
 At 10:29, I texted Abby: "Got to Annie. Running again."
 
@@ -181,17 +181,17 @@ I then focused on just continuing to move, slowing to a walk if I needed to in o
 
 At 10:51, I reached S Aiken, just before mile 22. This is an important point in the course for me, not only because it begins a downhill, but also because it is where my friend Nathaniel cheered me on ten years ago when I was also suffering.
 
-{% img /images/pittsburgh-marathon-2013/aiken.jpg S Aiken %}
+{{< figure src="/images/pittsburgh-marathon-2013/aiken.jpg" title="S Aiken" >}}
 
 ## Strip District
 
 At some point, I was getting discouraged again and started walking, when I accidentally spotted Deb and Mark watching. Seeing familiar faces among the spectators is definitely helpful! Upon seeing them, I felt ashamed of my walking and my negative thoughts. I went up to them, and they were going to take a picture of me, and I got all determined, and *screamed*, "I'm going to finish this thing!!"
 
-{% img /images/pittsburgh-marathon-2013/im-going-to-finish-this-thing.jpg Franklin determined to finish %}
+{{< figure src="/images/pittsburgh-marathon-2013/im-going-to-finish-this-thing.jpg" title="Franklin determined to finish" >}}
 
 I kept on running, and did not stop, even though I saw many people walking, and also saw many relay runners zooming by. I decided that I was not only going to finish (it was now clear that I could), but that I was going to finish as strong as I could, even though it would count for nothing. I was going to run at the edge of quad twitching, all the way to the end. It was going to hurt far more than if I just ran very slowly to finish, but I didn't come this far just to walk if I could run. I was determined to push.
 
-{% img /images/pittsburgh-marathon-2013/franklin-in-strip.jpg Franklin in Strip District %}
+{{< figure src="/images/pittsburgh-marathon-2013/franklin-in-strip.jpg" title="Franklin in Strip District" >}}
 
 As I got closer and closer, I periodically texted Abby the street I had just crossed, so that she would know roughly when I was going to finish.
 
@@ -199,7 +199,7 @@ As I got closer and closer, I periodically texted Abby the street I had just cro
 
 And so I finished. I finished in a state of my quads twitching like firecrackers. I got my medal. I kept on walking. I grabbed a bag of chips and water. I forgot to look for other stuff, like Smiley Cookies (that Abby later said she saw were being handed out). I just wanted to stop the twitching, get my bag from Gear Check, get out of my Luna Sandals into some comfortable, cushioned flip-flops, use a Port-a-potty, and finally find Abby and the "CMU tent", which I assumed was just a section of the [Pittsburgh Corporate Challenge Tent](http://www.pittsburghmarathon.com/PCC). (I had bought a bracelet for Abby earlier so that she could have access to the tent.)
 
-{% img /images/pittsburgh-marathon-2013/after.jpg After finishing %}
+{{< figure src="/images/pittsburgh-marathon-2013/after.jpg" title="After finishing" >}}
 
 I could barely walk after I started cooling down, because I got stiffer and stiffer. It took me forever to make it to the Finish Line Festival area, and I was so mentally drained that I had to call Abby to have her tell me where the tent was.
 
@@ -219,9 +219,9 @@ When I signed up for the Pittsburgh Campus Challenge through Carnegie Mellon Uni
 
 Abby said it was a good thing she made it to the tent before too late (she had gone back to nap in the car after seeing me off), because by 10 AM, half marathoners had eaten much of the food already, and she had remembered to save some for me for later! There was still food left, but much of the good stuff was gone. And it wasn't really "gourmet". There was dry fried chicken, rolls, pasta left, as far as I could tell, other than the pancakes Abby had saved from earlier, and  a Panera Bread sandwiches she also saved for me.
 
-{% img /images/pittsburgh-marathon-2013/abby.jpg Abby %}
+{{< figure src="/images/pittsburgh-marathon-2013/abby.jpg" title="Abby" >}}
 
-{% img /images/pittsburgh-marathon-2013/tent-food.jpg Tent food %}
+{{< figure src="/images/pittsburgh-marathon-2013/tent-food.jpg" title="Tent food" >}}
 
 There was a signup sheet for massage by Massage Envy, however, and a very long wait, as I got my massage after one hour and twenty minutes, which was actually OK because I was so sore I simply needed to be left alone for a while to just eat and eat and rest.
 
@@ -231,17 +231,17 @@ When I came into the tent, there was confusion because I didn't have a sticker o
 
 When they learned I was with CMU, however, they gave me the prize for CMU winning the Pittsburgh Campus Challenge, to hand over to Pattye at CMU. We beat Pitt!
 
-{% img /images/pittsburgh-marathon-2013/pittsburgh-campus-challenge.jpg Pittsburgh Campus Challenge prize %}
+{{< figure src="/images/pittsburgh-marathon-2013/pittsburgh-campus-challenge.jpg" title="Pittsburgh Campus Challenge prize" >}}
 
 ## Feet
 
 My feet were terribly sore. I got one blood-filled blister:
 
-{% img /images/pittsburgh-marathon-2013/blister.jpg Blister on right foot %}
+{{< figure src="/images/pittsburgh-marathon-2013/blister.jpg" title="Blister on right foot" >}}
 
 But otherwise, the damage was not as bad as I had thought. During the marathon, I had wondered sometimes about all the stickiness I felt on my feet, but it was not blood after all; it was a mixture of energy gel, Gatorade, orange juice, and whatever else was left on the road that got onto my feet:
 
-{% img /images/pittsburgh-marathon-2013/feet.jpg %}
+{{< figure src="/images/pittsburgh-marathon-2013/feet.jpg" >}}
 
 I had two chafing spots from the straps, but they were not serious. All in all, my feet were in much condition after wearing the Luna Sandals than they were ten years ago after wearing standard socks and running shoes. The drawback is that my feet were horribly sore, although after one night of rest, the foot soreness is actually all gone.
 
@@ -251,7 +251,7 @@ However, I do have a different problem: one day later, numbness in my left foot 
 
 In all my previous runs, my left foot has never fallen out. I hope the numbness goes away in another day.
 
-{% img /images/pittsburgh-marathon-2013/feet-day-after.jpg My feet the day after %}
+{{< figure src="/images/pittsburgh-marathon-2013/feet-day-after.jpg" title="My feet the day after" >}}
 
 ## Legs
 
@@ -259,7 +259,7 @@ My legs were utterly trashed, as might be expected given how I had tortured them
 
 Em of Massage Envy was very helpful in getting me able to sort of walk, so that I could go with Abby back over to the North Shore to our car (I had to walk across the bridge, then waited as she brought the car over).
 
-{% img /images/pittsburgh-marathon-2013/massage-envy.jpg Massage Envy %}
+{{< figure src="/images/pittsburgh-marathon-2013/massage-envy.jpg" title="Massage Envy" >}}
 
 Overall, I think wearing the Luna Sandals was the correct decision, despite the drawbacks. I did *not* have toe jamming, toe blistering, toe cramping that I believe I would have had in other footwear. I did not have ankle soreness of any kind. Or shin splints. I did not have any right knee pain at all, just left (and almost certainly because of my fall on Thursday). I could have used more cushioning though. But my order of the thicker Luna Sandals (the new Mono model) has not yet shipped.
 

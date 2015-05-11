@@ -20,7 +20,7 @@ The last French potluck dance party I attended was [almost four months ago](/blo
 
 I made a huge batch of vegetables for the potluck.
 
-{% img /images/french-potluck-2013-09-14/broccoli.jpg %}
+{{< figure src="/images/french-potluck-2013-09-14/broccoli.jpg" >}}
 
 My simple recipe:
 
@@ -35,7 +35,7 @@ My simple recipe:
 
 Here's a photo of some dancing in action.
 
-{% img /images/french-potluck-2013-09-14/dancing.jpg %}
+{{< figure src="/images/french-potluck-2013-09-14/dancing.jpg" >}}
 
 I did not actually do much dancing this evening at all, because of my slow recovery from a [really bad injury from a week ago](/blog/2013/09/06/was-it-worth-sprinting-to-a-terrible-fall-to-finish-25th-in-the-cmu-pretty-good-race-5k/). I only did one dance. My left arm, left hip, and right knee are in constant pain.
 

@@ -15,20 +15,20 @@ I limited myself to just three "cookies" (Jim repeatedly teased me for my explan
 
 Some kind of tart:
 
-{% img /images/easter-2014/cookie1.jpg %}
+{{< figure src="/images/easter-2014/cookie1.jpg" >}}
 
 Birthday cake:
 
-{% img /images/easter-2014/cookie2.jpg %}
+{{< figure src="/images/easter-2014/cookie2.jpg" >}}
 
 Tiramisu:
 
-{% img /images/easter-2014/cookie3.jpg %}
+{{< figure src="/images/easter-2014/cookie3.jpg" >}}
 
 I also did not eat any bread rolls, and limited my potato intake at Easter dinner. And I drank no wine. All this helped me.
 
 Maybe it's time for me to go down from three to two "cookies". I will consider this. Also, maybe I should start counting ice cream and candy as "cookies" as well. I do regret eating one [Lindt "chocolate carrot"](http://www.lindtusa.com/shop/chocolate-carrot-gift-bag) that in retrospect I did not really need to eat. (I did not eat any ice cream at this party, however.)
 
-{% img http://cdn.lindtusa.com/wcsstore/ExtendedSitesCatalogAssetStore/images/catalog/products/main/450x/chocolate-carrot-gift-bag_main_450x_8325-M.png Lindt chocolate carrot %}
+{{< figure src="http://cdn.lindtusa.com/wcsstore/ExtendedSitesCatalogAssetStore/images/catalog/products/main/450x/chocolate-carrot-gift-bag_main_450x_8325-M.png" title="Lindt chocolate carrot" >}}
 
 **Other than quitting something cold turkey, do you have a working system for reducing your consumption of desserts that you know are not so healthy for you? What makes your system work? Do you have an incremental reduction plan like mine, and self-punishment such as promising to post individual photos online of what you eat?**

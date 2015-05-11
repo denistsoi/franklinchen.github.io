@@ -26,7 +26,7 @@ However, I found that when pressed for time, I would not necessarily be in the m
 
 Recently, I gravitated toward a whole philosophy of "exercise anywhere, anytime, with no equipment necessary" that removes all excuses and mental friction. Welcome to [convict conditioning](http://www.dragondoor.com/shop-by-department/books/b41/)!
 
-{% img http://www.dragondoor.com/assets/item/large/b411.jpg Convict Conditioning cover %}
+{{< figure src="http://www.dragondoor.com/assets/item/large/b411.jpg" title="Convict Conditioning cover" >}}
 
 <!--more-->
 

@@ -10,7 +10,7 @@ categories:
 - glucosamine
 - MSM
 ---
-{% img http://www.drug3k.com/img2/msm_16804_4_%28big%29_.jpg MSM %}
+{{< figure src="http://www.drug3k.com/img2/msm_16804_4_%28big%29_.jpg" title="MSM" >}}
 
 I just saw an article ["Glucosamine and MSM for Joint Pain?"](http://well.blogs.nytimes.com/2013/10/28/ask-well-glucosamine-and-msm-for-joint-pain/) that brought up some old memories. The article examined whether these supplements are actually useful.
 
@@ -32,7 +32,7 @@ But the complete disappearance of my impact pain and injuries said it all.
 
 Now, a decade later, there is much more widespread knowledge of the differences in *impact* forces depending on shoe style and foot strike. Obviously, there are many variables and individual differences in biomechanics, but here is a [good overview of the sorts of things that happen during foot strike](http://barefootrunning.fas.harvard.edu/4BiomechanicsofFootStrike.html).
 
-{% img http://barefootrunning.fas.harvard.edu/Fig1b.jpg Shoe heel strike %}
+{{< figure src="http://barefootrunning.fas.harvard.edu/Fig1b.jpg" title="Shoe heel strike" >}}
 
 I seem particularly susceptible to the forces on my knees when running in shoes with a built-up heel, so I have *finally* decided to completely abandon them. Up till now, I had abandoned them except for [winter running when I did not have a good alternative](/blog/2012/12/31/why-i-went-frick-park-trail-running-in-snowfall-for-the-first-time-in-a-decade/).
 

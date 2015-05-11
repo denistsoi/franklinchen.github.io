@@ -61,7 +61,7 @@ A blog post about Food Day is probably not complete with at least some photo and
 
 The photo is not glamorous, but it is a real photo of real food, simple and tasty.
 
-{% img /images/chicken-curry-cauliflower.jpg Chicken curry with cauliflower %}
+{{< figure src="/images/chicken-curry-cauliflower.jpg" title="Chicken curry with cauliflower" >}}
 
 Prep time:
 

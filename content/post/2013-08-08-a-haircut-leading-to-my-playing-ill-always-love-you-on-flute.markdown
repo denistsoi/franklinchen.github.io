@@ -15,15 +15,15 @@ categories:
 - Tito Nieves
 - salsa
 ---
-{% img /images/haircut-2013-08-08/floor.jpg New floor %}
+{{< figure src="/images/haircut-2013-08-08/floor.jpg" title="New floor" >}}
 
-{% img /images/haircut-2013-08-08/wall.jpg Celebrity wall %}
+{{< figure src="/images/haircut-2013-08-08/wall.jpg" title="Celebrity wall" >}}
 
 I got a haircut from my barber Joe, whom I have been seeing [for sixteen years now](/blog/2011/10/29/my-favorite-barber/) since moving to Pittsburgh. Unexpectedly, this led me to "discovering" a piece of music and going home to play it on flute.
 
 I was happy to arrive with only one other person in line, just getting into the chair, because Joe has a policy of not taking reservations, and "if you leave, you lose your turn":
 
-{% img /images/haircut-2013-08-08/lose-your-turn.jpg Lose your turn %}
+{{< figure src="/images/haircut-2013-08-08/lose-your-turn.jpg" title="Lose your turn" >}}
 
 In practice, Joe usually takes 20-25 minutes per person, I figured on being out within 50 minutes. Since I was pretty exhausted because of a tough week, I took the opportunity to do some napping. In practice, I don't really sleep, but do get rest. Since Joe always has his oldies radio station on, I try to enjoy the music (which is not the kind of music I ordinarily listen to these days) and identify songs and singers I recognize.
 
@@ -53,8 +53,8 @@ In any case, I was delighted not only to have gotten a haircut, but also learned
 
 Before:
 
-{% img /images/haircut-2013-08-08/before.jpg Franklin before haircut %}
+{{< figure src="/images/haircut-2013-08-08/before.jpg" title="Franklin before haircut" >}}
 
 After:
 
-{% img /images/haircut-2013-08-08/after.jpg Franklin after haircut %}
+{{< figure src="/images/haircut-2013-08-08/after.jpg" title="Franklin after haircut" >}}

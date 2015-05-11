@@ -18,7 +18,7 @@ categories:
 - piano
 - Pittsburgh
 ---
-{% img http://www.music.pitt.edu/sites/default/files/jazz-2012-cropped.jpg?1350921512 42nd Pitt Jazz Seminar poster %}
+{{< figure src="http://www.music.pitt.edu/sites/default/files/jazz-2012-cropped.jpg?1350921512" title="42nd Pitt Jazz Seminar poster" >}}
 
 [Yesterday](/blog/2012/11/02/attending-the-annual-pitt-jazz-seminar-for-the-first-time-day-1/), I attended some morning sessions of the annual Pitt Jazz Seminar. I went back for more today.
 

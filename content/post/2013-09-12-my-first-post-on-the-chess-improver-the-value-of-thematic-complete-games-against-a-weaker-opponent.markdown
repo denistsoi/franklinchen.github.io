@@ -17,9 +17,9 @@ Note that although the blog does not support comments, Nigel Davies hosts lively
 
 Since it turns out that I have just finished two of the six rounds in the current Pittsburgh Chess Club Tuesday night tournament, the 15th Fred Sorensen Memorial, I began my debut by using my first round game as material for a post to beginn a discussion about [learning from imperfectly played games that, however, illustrate chess themes well](http://chessimprover.com/the-value-of-thematic-complete-games-against-a-weaker-opponent/).
 
-{% img /images/15th-fred-sorensen-memorial/round-1.jpg Round 1 %}
+{{< figure src="/images/15th-fred-sorensen-memorial/round-1.jpg" title="Round 1" >}}
 
-{% img /images/15th-fred-sorensen-memorial/round-1-in-progress.jpg Round 1 in progress %}
+{{< figure src="/images/15th-fred-sorensen-memorial/round-1-in-progress.jpg" title="Round 1 in progress" >}}
 
 I will have a post up next week about my second round game of this week, which was quite interesting. I will not always be writing about my own games on the blog, of course. They just happen to be, right now, a timely source of relevant material, since I am in the middle of a tournament.
 

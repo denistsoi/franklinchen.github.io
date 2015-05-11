@@ -23,8 +23,8 @@ As I mentioned [on Sunday in introducing CSEdWeek](/blog/2011/12/04/why-i-am-wri
 
 What is CodeRetreat and what can you get out of it as a software developer?
 
-{% img /images/global-day-of-coderetreat/code-retreat-start.jpg Pittsburgh CodeRetreat starting %}
-{% img /images/global-day-of-coderetreat/code-retreat-start-2.jpg Pittsburgh CodeRetreat starting %}
+{{< figure src="/images/global-day-of-coderetreat/code-retreat-start.jpg" title="Pittsburgh CodeRetreat starting" >}}
+{{< figure src="/images/global-day-of-coderetreat/code-retreat-start-2.jpg" title="Pittsburgh CodeRetreat starting" >}}
 
 <!--more-->
 
@@ -46,7 +46,7 @@ We were told that our task was to implement [Conway's game of life](http://en.wi
 
 I don't remember what specific instructions we were given for our first session, other than to pair up. I may have been too distracted by the socializing at the time. **It would have been useful to have received handouts to guide us.** I do know that at some point in the morning, before the first or second session, we were directed to look at the whiteboard that had the "four rules of simple design" written on it:
 
-{% img /images/global-day-of-coderetreat/four-rules-of-simple-design Four rules of simple design %}
+{{< figure src="/images/global-day-of-coderetreat/four-rules-of-simple-design" title="Four rules of simple design" >}}
 
 ### Four rules of simple design
 
@@ -65,7 +65,7 @@ We gathered around his laptop, and spent quite a bit of time (of the allotted 45
 
 Then we were told to *delete all our code*. That was kind of shocking. We weren't allowed to just archive it somewhere. We had to delete it right there and then:
 
-{% img /images/global-day-of-coderetreat/code-deleted %}
+{{< figure src="/images/global-day-of-coderetreat/code-deleted" >}}
 
 ### Observations
 
@@ -77,7 +77,7 @@ Meanwhile, at some point I realized that we had violated the "rules of simple de
 
 I think that for the second session we were instructed to use [test-driven development](http://en.wikipedia.org/wiki/Test-driven_development):
 
-{% img /images/global-day-of-coderetreat/tdd-cycle.jpg %}
+{{< figure src="/images/global-day-of-coderetreat/tdd-cycle.jpg" >}}
 
 I looked for another Java programmer, and paired with Heath, whom I had met earlier in various events but never worked with. We had some ideas based on what we each had done in the first session and got going. This time, we used my laptop, and the first thing I did was start writing tests with [JUnit](http://www.junit.org/).
 

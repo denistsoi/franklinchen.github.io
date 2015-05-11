@@ -25,7 +25,7 @@ So there was a lot of emotional baggage for me going into tonight's game.
 
 ## Today's lessons
 
-{% img /chess/booth-j-chen-2012-11-27_files/diag3F904FA9A35B8A82.gif White resigned %}
+{{< figure src="/chess/booth-j-chen-2012-11-27_files/diag3F904FA9A35B8A82.gif" title="White resigned" >}}
 
 - In a very long and tough game (almost four hours), I managed to avoid psychologically falling apart, and came through.
 - As opposed to [my game from round 1](/blog/2012/11/13/round-1-of-pittsburgh-chess-club-tournament-revenge-of-the-knight/), this game saw the revenge of the Bishop versus the Knight.
@@ -48,7 +48,7 @@ Since I have been very busy, I did not really do any opening preparation for thi
 
 Ironically, if I had actually studied the Veresov Opening more for this game, it would have helped a lot, because my opponent actually did play the Veresov against me!! We played *exactly* the first nine moves that I had played with his son two years ago, the Veresov Gambit, in which White sacrifices a Pawn in hope that Black's weakened King side will allow White to eventually break through to the King.
 
-{% img /chess/booth-j-chen-2012-11-27_files/diag3F904C6072783436.gif After f5 in the Veresov Gambit %}
+{{< figure src="/chess/booth-j-chen-2012-11-27_files/diag3F904C6072783436.gif" title="After f5 in the Veresov Gambit" >}}
 
 Black's task is conceptually very simple: hold onto the Pawn, protect the King, and eventually catch up on development, especially, the Queen Bishop that is temporarily quite blocked in.
 
@@ -60,13 +60,13 @@ Since a prominent book on the Veresov Opening advised against the line I choose 
 
 At move 10, my opponent deviated from the poor move that his son had played against me two years ago. That move had led to a much better game for me:
 
-{% img /chess/booth-j-chen-2012-11-27_files/diag3F904C9E95C17DF4.gif Qh5+ did not help %}
+{{< figure src="/chess/booth-j-chen-2012-11-27_files/diag3F904C9E95C17DF4.gif" title="Qh5+ did not help" >}}
 
 #### Important position
 
 In the current game, the following important position was reached:
 
-{% img /chess/booth-j-chen-2012-11-27_files/diag3F904CF1B1C05096.gif Veresov Gambit position %}
+{{< figure src="/chess/booth-j-chen-2012-11-27_files/diag3F904CF1B1C05096.gif" title="Veresov Gambit position" >}}
 
 Objectively, White has compensation for the Pawn, but Black is fairly safe so far.
 
@@ -74,11 +74,11 @@ Objectively, White has compensation for the Pawn, but Black is fairly safe so fa
 
 I had not studied this position ahead of time, alas, so I started going astray somewhat. We reached this equal position:
 
-{% img /chess/booth-j-chen-2012-11-27_files/diag3F904D125113974D.gif Black's Pawn has reached e3 %}
+{{< figure src="/chess/booth-j-chen-2012-11-27_files/diag3F904D125113974D.gif" title="Black's Pawn has reached e3" >}}
 
 My intention all along had been to follow up logically, protecting the `e3` Pawn by playing `f4`:
 
-{% img /chess/booth-j-chen-2012-11-27_files/diag3F904D2367948B94.gif Black should have played f4 %}
+{{< figure src="/chess/booth-j-chen-2012-11-27_files/diag3F904D2367948B94.gif" title="Black should have played f4" >}}
 
 This would have maintained equality.
 
@@ -88,7 +88,7 @@ I've made this kind of error before, so it's disconcerting to report that I did 
 
 Anyway, we reached this position, in which White could and should have regained his Pawn:
 
-{% img /chess/booth-j-chen-2012-11-27_files/diag3F904D4279393073.gif White can win the e3 Pawn %}
+{{< figure src="/chess/booth-j-chen-2012-11-27_files/diag3F904D4279393073.gif" title="White can win the e3 Pawn" >}}
 
 **My opponent refused to play the obvious and best move to regain the Pawn.**
 
@@ -98,27 +98,27 @@ Actually, I had gone into this line partially expecting that he might not feel l
 
 As a result of White keeping the position blocked, the game remained equal, and we reached this important position:
 
-{% img /chess/booth-j-chen-2012-11-27_files/diag3F904D4279393073.gif White has compensation %}
+{{< figure src="/chess/booth-j-chen-2012-11-27_files/diag3F904D4279393073.gif" title="White has compensation" >}}
 
 We both started playing inaccurately; for example, at this position, I could have pressed for an advantage by beginning a Queen side attack properly with `a5` to drive back White's Knight and then `c6` and `b5` to attack White's Bishop:
 
-{% img /chess/booth-j-chen-2012-11-27_files/diag3F904D7E47FC876E.gif Black could attack %}
+{{< figure src="/chess/booth-j-chen-2012-11-27_files/diag3F904D7E47FC876E.gif" title="Black could attack" >}}
 
 Instead, I messed up my move order and went for White's Bishop first instead, weakening my `c5` square for White's Knight:
 
-{% img /chess/booth-j-chen-2012-11-27_files/diag3F904DBF86A314DC.gif White has c5 %}
+{{< figure src="/chess/booth-j-chen-2012-11-27_files/diag3F904DBF86A314DC.gif" title="White has c5" >}}
 
 Black is a Pawn up, but the Bishop is *extremely bad*. You might wonder how this game illustrates the "revenge of the Bishop"! You'll see how this accidentally happened.
 
 After some more moves (many non-optimal), we reached a position in which I (correctly) felt that Black was in some trouble, and so I decided to try to bail out into an ending by trading Queens:
 
-{% img /chess/booth-j-chen-2012-11-27_files/diag3F904DE9780E26A3.gif Black offers Queen trade %}
+{{< figure src="/chess/booth-j-chen-2012-11-27_files/diag3F904DE9780E26A3.gif" title="Black offers Queen trade" >}}
 
 ### The ending
 
 White made the error of allowing the Queen trade, after which, magically, Black's Bishop escaped its prison:
 
-{% img /chess/booth-j-chen-2012-11-27_files/diag3F904E136979386A.gif Knight vs. Bishop %}
+{{< figure src="/chess/booth-j-chen-2012-11-27_files/diag3F904E136979386A.gif" title="Knight vs. Bishop" >}}
 
 Now, White's Knight is extremely powerful, so objectively, the game is probably a draw, since Black's extra Pawn on `e3` is not going anywhere.
 
@@ -128,19 +128,19 @@ But White started slipping, in an attempt to break through on the King side.
 
 At a critical position, in which White was trying to win my unprotected `f5` Pawn, I offered a sacrifice in order to break open the `c` file:
 
-{% img /chess/booth-j-chen-2012-11-27_files/diag3F904E327B1DDD49.gif Black sacrificing a Pawn %}
+{{< figure src="/chess/booth-j-chen-2012-11-27_files/diag3F904E327B1DDD49.gif" title="Black sacrificing a Pawn" >}}
 
 White faltered, accepting the sacrifice, regaining the originally gambited Pawn, but this was a losing plan.
 
 #### Move order subtlety again
 
-{% img /chess/booth-j-chen-2012-11-27_files/diag3F904E5D33603FFC.gif Black to play and win %}
+{{< figure src="/chess/booth-j-chen-2012-11-27_files/diag3F904E5D33603FFC.gif" title="Black to play and win" >}}
 
 In this critical position, I should have played `Re7` winning immediately. I used a different move order in my plan, but White should have been able to defend.
 
 Finally, I made another move order error, playing `e2` first and then `Re7`, instead of vice versa, that also should have resulted in a draw. In this critical position, White has an amazing resource to draw (which the computer found; see the [fully annotated game](/chess/booth-j-chen-2012-11-27.htm)):
 
-{% img /chess/booth-j-chen-2012-11-27_files/diag3F904F4C6E6D9BE5.gif White can draw %}
+{{< figure src="/chess/booth-j-chen-2012-11-27_files/diag3F904F4C6E6D9BE5.gif" title="White can draw" >}}
 
 The annotations also contain analysis showing that if Black had changed his move order, this drawing resource would have amazingly not been possible.
 
@@ -148,11 +148,11 @@ The annotations also contain analysis showing that if Black had changed his move
 
 Instead of finding the drawing resource, White spent twenty minutes thinking and finding nothing, and playing an obviously losing move:
 
-{% img /chess/booth-j-chen-2012-11-27_files/diag3F904F9A1A893813.gif White is lost %}
+{{< figure src="/chess/booth-j-chen-2012-11-27_files/diag3F904F9A1A893813.gif" title="White is lost" >}}
 
 White finally resigned:
 
-{% img /chess/booth-j-chen-2012-11-27_files/diag3F904FA9A35B8A82.gif White resigned %}
+{{< figure src="/chess/booth-j-chen-2012-11-27_files/diag3F904FA9A35B8A82.gif" title="White resigned" >}}
 
 ## Lessons learned
 

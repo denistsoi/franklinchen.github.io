@@ -10,7 +10,7 @@ categories:
 - Carnegie Mellon University
 - Pittsburgh
 ---
-{% img http://www.chathambaroque.org/sites/default/files/coverimages/DSC_0070.jpg Chatham Baroque press photo %}
+{{< figure src="http://www.chathambaroque.org/sites/default/files/coverimages/DSC_0070.jpg" title="Chatham Baroque press photo" >}}
 
 Today I went to the weekly CMU music convocation, which featured the [Chatham Baroque](http://www.chathambaroque.org/). They provided some interesting discussions and performances of musical excerpts of newly commissioned works as a preview before their [official premiere tomorrow](http://www.chathambaroque.org/events/baroque-reframed) in Pittsburgh.
 

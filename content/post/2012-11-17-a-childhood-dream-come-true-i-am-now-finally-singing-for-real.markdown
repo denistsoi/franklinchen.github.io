@@ -57,7 +57,7 @@ I made my own very small contributions:
 
 #### Cabbage with leeks and potatoes
 
-{% img /images/pre-thanksgiving-2012/cabbage.jpg Cabbage with leeks and potatoes %}
+{{< figure src="/images/pre-thanksgiving-2012/cabbage.jpg" title="Cabbage with leeks and potatoes" >}}
 
 Cabbage with leeks and potatoes, with olive oil and butter and seasoning.
 
@@ -65,7 +65,7 @@ Cabbage with leeks and potatoes, with olive oil and butter and seasoning.
 
 #### Turnips and carrots
 
-{% img /images/pre-thanksgiving-2012/turnips.jpg Roasted turnips and carrots %}
+{{< figure src="/images/pre-thanksgiving-2012/turnips.jpg" title="Roasted turnips and carrots" >}}
 
 Roasted turnips and carrots, with olive oil and seasoning.
 
@@ -77,7 +77,7 @@ This time, I brought just my (modern) flute and my voice. I left my recorders an
 
 I started off with singing the tango ["Por una cabeza"](http://en.wikipedia.org/wiki/Por_una_Cabeza) (made famous in "Scent of a Woman"), very hesitatingly:
 
-{% img /images/pre-thanksgiving-2012/franklin-por-una-cabeza.jpg Franklin's first try at Por una Cabeza %}
+{{< figure src="/images/pre-thanksgiving-2012/franklin-por-una-cabeza.jpg" title="Franklin's first try at Por una Cabeza" >}}
 
 I was so nervous that my legs were shaking and my arms trembling as I began; it was exactly as what happened *eight months ago* at the first of Henry's parties at which [I played an instrument](/blog/2012/03/17/st-patricks-day-party-playing-tin-whistle-and-flute/). The difference was that although that one time, I knew I was playing the flute *badly*, this time, I was confident that I was singing OK: not great yet, but not badly. I'd worked two weeks on singing.
 
@@ -110,7 +110,7 @@ I have improved a lot, actually, but I'm still far from satisfied; I've only now
 
 Anyway, I have finally jumped into the late 19th century, out of the 18th, to play Romantic music on the instrument that is suited for it, the modern flute:
 
-{% img /images/pre-thanksgiving-2012/franklin-flute.jpg Franklin playing Fauré, Sicilienne %}
+{{< figure src="/images/pre-thanksgiving-2012/franklin-flute.jpg" title="Franklin playing Fauré, Sicilienne" >}}
 
 #### Unexpected singing
 
@@ -124,7 +124,7 @@ Then, finally, before Abby and I had to leave, I decided that I wanted to sing a
 
 Dancing with Abby at these parties is always a special pleasure for us... Vasili on accordion.
 
-{% img /images/pre-thanksgiving-2012/abby-franklin-dance.jpg Abby and Franklin dancing waltz %}
+{{< figure src="/images/pre-thanksgiving-2012/abby-franklin-dance.jpg" title="Abby and Franklin dancing waltz" >}}
 
 ## Why did so few other people sing?
 

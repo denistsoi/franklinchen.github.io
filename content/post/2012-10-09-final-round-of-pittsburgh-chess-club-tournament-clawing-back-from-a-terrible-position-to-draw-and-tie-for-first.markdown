@@ -10,7 +10,7 @@ categories:
 - Pittsburgh Chess Club
 - Philidor Defense
 ---
-{% img /chess/chen-dean-2012-10-09_files/final-position.jpg Final position %}
+{{< figure src="/chess/chen-dean-2012-10-09_files/final-position.jpg" title="Final position" >}}
 
 Tonight was the sixth (and final) round of the current six-round Tuesday night tournament at the [Pittsburgh Chess Club](http://pittsburghcc.org/), the 14th Fred Sorensen Memorial. As mentioned in my report on the [fifth round](/blog/2012/10/02/round-4-of-pittsburgh-chess-club-tournament-on-benoni-emasculation-and-learning/), I was going into this final round paired against the only other player with my score so far, which meant that tonight, it was **him or me**, for first prize!
 
@@ -58,27 +58,27 @@ I have to confess that I have paid the price repeatedly over the years, losing g
 
 So we in fact did end up in a Philidor Defense, as expected. We arrived at a very standard opening position, one which I've never played on either side, but one that I studied.
 
-{% img /chess/chen-dean-2012-10-09_files/diag3FA98051F1BBD940.gif Standard position %}
+{{< figure src="/chess/chen-dean-2012-10-09_files/diag3FA98051F1BBD940.gif" title="Standard position" >}}
 
 Black's goal in the Philidor Defense is similar to the goal in the open Sicilian Defense or King's Indian: accept less space initially, but eventually put pressure on White's center. White's task is to hold the center, stop Black's counterplay on the Queen side and center, and basically rip apart Black's position with a King side attack.
 
 It turned out that I executed White's attack very well, actually, to a point. I reached a very good attacking position as White:
 
-{% img /chess/chen-dean-2012-10-09_files/diag3FA980674DDD0A99.gif King side attack %}
+{{< figure src="/chess/chen-dean-2012-10-09_files/diag3FA980674DDD0A99.gif" title="King side attack" >}}
 
 ### The middle
 
 I totally fell apart in the early middle game, because of impatience and hubris upon *knowing* that I had achieved a great position. Here is the first critical position, at which White has an overwhelming advantage, but at which I became extremely careless:
 
-{% img /chess/chen-dean-2012-10-09_files/diag3FA980F44784E9E7.gif King side attack %}
+{{< figure src="/chess/chen-dean-2012-10-09_files/diag3FA980F44784E9E7.gif" title="King side attack" >}}
 
 I became fixated on the idea of winning Black's `d6` Pawn, but neglected to keep my own center protected:
 
-{% img /chess/chen-dean-2012-10-09_files/diag3FA9812599ED7C70.gif White losing advantage %}
+{{< figure src="/chess/chen-dean-2012-10-09_files/diag3FA9812599ED7C70.gif" title="White losing advantage" >}}
 
 I tried to complicate things, but my opponent was precise in maintaining an advantage and winning a Pawn.
 
-{% img /chess/chen-dean-2012-10-09_files/diag3FA9816DD625E22A.gif White down a Pawn %}
+{{< figure src="/chess/chen-dean-2012-10-09_files/diag3FA9816DD625E22A.gif" title="White down a Pawn" >}}
 
 At this point, my only hope was to fight on with the Bishops being of opposite colors, in order to make a draw.
 
@@ -88,11 +88,11 @@ The task of drawing was made more complicated by the fact that my emotional turm
 
 For hours, I defended, and eventually after a Queen trade, I grew confident that I could hold the draw:
 
-{% img /chess/chen-dean-2012-10-09_files/diag3FA9821CFCCFAA07.gif Queens are off %}
+{{< figure src="/chess/chen-dean-2012-10-09_files/diag3FA9821CFCCFAA07.gif" title="Queens are off" >}}
 
 Time became very short for both sides, and my opponent agreed to a draw only after he was down to almost one minute left on his clock while I had two minutes on mine, and an error on his side had made the draw trivial.
 
-{% img /chess/chen-dean-2012-10-09_files/diag3FA9829F16B11C6D.gif Draw agreed %}
+{{< figure src="/chess/chen-dean-2012-10-09_files/diag3FA9829F16B11C6D.gif" title="Draw agreed" >}}
 
 I was all sweaty from the intense effort.
 

@@ -8,7 +8,7 @@ categories:
 - Pittsburgh
 - meetup
 ---
-{% img http://img2.meetupstatic.com/9602342981488429316/img/header/logo.png Meetup logo %}
+{{< figure src="http://img2.meetupstatic.com/9602342981488429316/img/header/logo.png" title="Meetup logo" >}}
 
 Recently, I was informed by the message board of the Pittsburgh hiking meetup group that there was a recent [local article about Pittsburgh meetups](http://triblive.com/lifestyles/morelifestyles/5356571-74/meetup-group-internet), and it quoted one of the organizers of the hiking meetup, Jennifer Braun (who happens to be one of us participating in a [beautiful New Year hike](/blog/2014/01/01/happy-new-year-with-a-boyce-mayview-park-hike-wetlands/) led by Gary Byrdman that Abby and I went on):
 

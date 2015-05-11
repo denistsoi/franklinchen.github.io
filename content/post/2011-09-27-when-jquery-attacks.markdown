@@ -15,7 +15,7 @@ It's Tuesday night. After spending the day at work testing and debugging a new f
 
 Apparently, the answer must be that I look forward to a *hellish* 30 minute drive at 6:30 PM in the opposite direction of home (which is only two miles away), taking a planned detour to avoid an insane [I-579 construction-caused backup](http://www.dot.state.pa.us/PENNDOT/Districts/district11.nsf/befa2937349a7160852570a70047899a/1cf78bf5840af8b8852578c5006741a3?OpenDocument), then weaving through a horrible [*McKnightmare* construction zone](http://northhills.patch.com/articles/mcknight-road-construction-creates-headache-for-many), in order to meet up with a handful of fellow [JavaScript](http://en.wikipedia.org/wiki/JavaScript) geeks, for another hour or so of more staring at computer code!
 
-{% img http://o1.aolcdn.com/dims-shared/dims3/PATCH/resize/600x450/http://hss-prod.hss.aol.com/hss/storage/patch/ff1b44dbd49a2a149de987454f154ba1 McKnight Road construction %}
+{{< figure src="http://o1.aolcdn.com/dims-shared/dims3/PATCH/resize/600x450/http://hss-prod.hss.aol.com/hss/storage/patch/ff1b44dbd49a2a149de987454f154ba1" title="McKnight Road construction" >}}
 
 <!--more-->
 

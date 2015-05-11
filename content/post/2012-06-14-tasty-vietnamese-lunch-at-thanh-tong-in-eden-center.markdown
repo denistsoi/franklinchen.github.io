@@ -17,9 +17,9 @@ We didn't feel like looking up reviews or anything to get a quick lunch. While w
 
 How did Abby choose where to eat, given the bewildering number of choices?
 
-{% img /images/thanh-tong-salad.jpg Salad at Thanh Tòng %}
+{{< figure src="/images/thanh-tong-salad.jpg" title="Salad at Thanh Tòng" >}}
 
-{% img /images/thanh-tong-soup.jpg Soup at Thanh Tòng %}
+{{< figure src="/images/thanh-tong-soup.jpg" title="Soup at Thanh Tòng" >}}
 
 <!--more-->
 
@@ -29,7 +29,7 @@ There were quite a few restaurants in Eden Center that we saw as we were just wa
 
 Abby basically just saw this one little hole-in-the-wall place, remembered it, and we came back to it after looking for alternatives, and she said, "Let's eat here." I asked her why, and she noted that the place was small, there were *only* Vietnamese people (as opposed to "foreigners") in there eating (and a reasonable number of them) and they looked happy.
 
-{% img http://edencenter.com/wp-content/uploads/2011/06/thanhtong-150x150.jpg Store front %}
+{{< figure src="http://edencenter.com/wp-content/uploads/2011/06/thanhtong-150x150.jpg" title="Store front" >}}
 (Photo by Corbo E. from Eden Center web site)
 
 That sounded like reasonable logic to me. I've applied similar logic in the past, when in an unfamiliar city looking for Chinese or Indian food. We're not really interested in fancy furniture or elaborately [purple-prosed](http://en.wikipedia.org/wiki/Purple_prose) menu items, just affordable and tasty "authentic" meals.
@@ -38,7 +38,7 @@ Abby's choice worked out pretty well.
 
 ## Lunch
 
-{% img http://edencenter.com/wp-content/uploads/2011/06/thanhtong2.jpg Menu board %}
+{{< figure src="http://edencenter.com/wp-content/uploads/2011/06/thanhtong2.jpg" title="Menu board" >}}
 (Photo by Corbo E. from Eden Center web site)
 
 ### Salad

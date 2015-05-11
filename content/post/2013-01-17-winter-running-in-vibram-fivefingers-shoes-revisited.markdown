@@ -23,8 +23,8 @@ Here are the conditions under which I am able to do this:
 
 One drawback is that even when the trails of Frick Park are runnable (with a bit of residual snow and ice), wearing FiveFingers out there is not advisable. [I wear standard mono-toed shoes when trail running now](/blog/2012/12/31/why-i-went-frick-park-trail-running-in-snowfall-for-the-first-time-in-a-decade/) if I do it at all.
 
-{% img /images/vibram-winter-2013-01-12.jpg Vibram Bikila LS by ice %}
+{{< figure src="/images/vibram-winter-2013-01-12.jpg" title="Vibram Bikila LS by ice" >}}
 
-{% img /images/vibram-winter-frick-2013-01-12.jpg Vibram Bikila LS by ice on Frick trail %}
+{{< figure src="/images/vibram-winter-frick-2013-01-12.jpg" title="Vibram Bikila LS by ice on Frick trail" >}}
 
 As long as there are no cold water or ice danger issues, I will experiment with continuing to run in FiveFingers shoes, adding Injinji socks when it gets colder.

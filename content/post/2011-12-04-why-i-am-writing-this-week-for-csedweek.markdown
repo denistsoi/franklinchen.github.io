@@ -13,7 +13,7 @@ categories:
 - Pittsburgh
 - programming
 ---
-{% img /images/csedweek-2011.png Logo for CSEdWeek 2011 %}
+{{< figure src="/images/csedweek-2011.png" title="Logo for CSEdWeek 2011" >}}
 
 This week (December 4 through 10, 2011) has been designed as [Computer Science Education Week (CSEDWeek)](http://www.csedweek.org/) by the US House of Representatives to recognize the importance of computer science education for students at all levels.
 

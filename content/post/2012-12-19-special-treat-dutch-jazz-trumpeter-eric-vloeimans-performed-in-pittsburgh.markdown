@@ -13,7 +13,7 @@ categories:
 - Eric Vloeimans
 - Pittsburgh
 ---
-{% img http://www.pghcitypaper.com/imager/b/original/1596939/9540/music2_50.jpg Eric Vloeimans %}
+{{< figure src="http://www.pghcitypaper.com/imager/b/original/1596939/9540/music2_50.jpg" title="Eric Vloeimans" >}}
 
 A while ago, I heard through a fantastic [Pittsburgh City paper article](http://www.pghcitypaper.com/pittsburgh/jazz-goes-dutch/Content?oid=1596938) and the [Pittsburgh Jazz Fan meetup](http://www.meetup.com/Pittsburgh-Jazz-Fan-Meetup-Group/events/93376692) about Dutch jazz trumpeter [Eric Vloeimans](http://www.ericvloeimans.com/) coming to Pittsburgh to perform as part of an "international progressive jazz trio" including himself, German [Florian Weber](http://www.florianweber.net/) on piano, and Syrian [Kinan Azmeh](http://www.kinanazmeh.com) on clarinet.
 

@@ -19,7 +19,7 @@ Last year, I reported on deciding to [walk to work and back home during CMU Carn
 
 I considered my commute to be a deliberate part of cross-training for the Pittsburgh Marathon.
 
-{% img /images/schenley-drive-carnival-week-2013.jpg Walking on Schenley Drive during CMU Carnival week 2013 %}
+{{< figure src="/images/schenley-drive-carnival-week-2013.jpg" title="Walking on Schenley Drive during CMU Carnival week 2013" >}}
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/2YjLH7SIHaQ" frameborder="0" allowfullscreen></iframe>
 
@@ -49,7 +49,7 @@ After yesterday, I decided I needed a break from all the walking, and so on Frid
 
 I also finally decided to order a pair of thicker Luna Sandals, the new [Mono](http://www.lunasandals.com/products/37-mono), which are 12 mm thick rather than the 7 mm of the Venado I'm currently wearing:
 
-{% img http://s3.amazonaws.com/lunastore/images/279/full.jpg?1357775828 Luna Sandals, Mono %}
+{{< figure src="http://s3.amazonaws.com/lunastore/images/279/full.jpg?1357775828" title="Luna Sandals, Mono" >}}
 
 There's a review of these huaraches on [Birthday Shoes](http://birthdayshoes.com/luna-mono-huaraches-barefoot-sandals-review). I will almost certainly *not* be receiving these huaraches in time to break in and use in the Pittsburgh Marathon, but I expect to use them this summer for walking around in and longer runs.
 

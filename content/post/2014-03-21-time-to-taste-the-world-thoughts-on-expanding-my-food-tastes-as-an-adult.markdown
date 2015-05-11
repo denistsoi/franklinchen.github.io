@@ -13,9 +13,9 @@ This evening, right after work, I attended an event called "Time to Taste the Wo
 
 There were three tables of food, one for "Asian", another for "Mediterranean", and another for "European". Obviously, only a very tiny fraction of the world was actually represented in this event, and the selections were mostly not very exciting, but it was interesting and even jarring going from one table to another.
 
-{% img /images/time-to-taste-the-world-2014/mediterranean.jpg Mediterranean %}
-{% img /images/time-to-taste-the-world-2014/asian.jpg Asian %}
-{% img /images/time-to-taste-the-world-2014/european.jpg European %}
+{{< figure src="/images/time-to-taste-the-world-2014/mediterranean.jpg" title="Mediterranean" >}}
+{{< figure src="/images/time-to-taste-the-world-2014/asian.jpg" title="Asian" >}}
+{{< figure src="/images/time-to-taste-the-world-2014/european.jpg" title="European" >}}
 
 Note that standard CMU catering cookies were also provided.
 
@@ -81,9 +81,9 @@ I'm even learning to eat [Brussels sprouts](http://en.wikipedia.org/wiki/Brussel
 
 I did eat some cookies at the event, but only three, in accordance with [my recent findings about how many I should eat at a time](/blog/2014/03/16/pittsburgh-recorder-society-something-new-recently-recording-our-practice-sessions/).
 
-{% img /images/time-to-taste-the-world-2014/cookie1.jpg Cookie 1 %}
-{% img /images/time-to-taste-the-world-2014/cookie2.jpg Cookie 2 %}
-{% img /images/time-to-taste-the-world-2014/cookie3.jpg Cookie 3 %}
+{{< figure src="/images/time-to-taste-the-world-2014/cookie1.jpg" title="Cookie 1" >}}
+{{< figure src="/images/time-to-taste-the-world-2014/cookie2.jpg" title="Cookie 2" >}}
+{{< figure src="/images/time-to-taste-the-world-2014/cookie3.jpg" title="Cookie 3" >}}
 
 ## Conclusion
 

@@ -10,7 +10,7 @@ categories:
 - attachment
 - gratitude
 ---
-{% img /images/immortal-poems.jpg Immortal Poems of the English Language %}
+{{< figure src="/images/immortal-poems.jpg" title="Immortal Poems of the English Language" >}}
 
 For a party last night, hostess Gina announced some weeks ahead of time that we were to bring *"a favorite quote, poem, lyric or inspired thought to share as we look forward to 2014 with gratitude"*.
 
@@ -30,7 +30,7 @@ First of all, I want to say something about an accident that led to my discoveri
 
 For now, I just want to mention that I came across the poetry of William Blake through one of these volumes that I got from the trash in 1979, "Immortal Poems of the English Language". This book was already old and yellow when I got it from the trash then, having been printed in 1952, but they used to make books differently back in the day: really high-quality paper that stands the test of time. I still have this anthology on my book shelf at home. In fact, here's a photo of it:
 
-{% img /images/immortal-poems.jpg Immortal Poems of the English Language %}
+{{< figure src="/images/immortal-poems.jpg" title="Immortal Poems of the English Language" >}}
 
 I didn't browse through this book as a 9-year-old because I was interested in poetry. I did it because it was sitting there at home. A child who is at home and bored (this was before computers and video games and iPads, and we didn't even have a working TV at the time: our old 1960s black and white vacuum tube TV had not survived the move to Michigan) will find *anything* at least *potentially* interesting.
 
@@ -48,7 +48,7 @@ He means so much to me that one of these poems is actually the "secret" inspirat
 
 Read ["Auguries of Innocence"](http://en.wikipedia.org/wiki/Auguries_of_Innocence):
 
-{% img /images/auguries-of-innocence.jpg Auguries of Innocence %}
+{{< figure src="/images/auguries-of-innocence.jpg" title="Auguries of Innocence" >}}
 
 ## The poem for yesterday's party: "Eternity"
 
@@ -63,7 +63,7 @@ Lives in eternity's sun rise.
 
 (The old edition I have has "bends" instead of "binds".)
 
-{% img /images/eternity.jpg Eternity %}
+{{< figure src="/images/eternity.jpg" title="Eternity" >}}
 
 This is a very powerful poem. I have not always abided by its advice, but I believe in its wisdom.
 

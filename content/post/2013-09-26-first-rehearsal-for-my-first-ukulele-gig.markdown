@@ -22,7 +22,7 @@ And after just over a month of playing, and joining the [Steel City Ukuleles](ht
 
 And this week, just in time, I got my [brand new concert-sized ukulele](/blog/2013/09/23/finally-got-a-nice-new-ukulele-mainland-classic-mahogany-concert/).
 
-{% img /images/ecofest-2013-rehearsal-1.jpg First Ecofest rehearsal %}
+{{< figure src="/images/ecofest-2013-rehearsal-1.jpg" title="First Ecofest rehearsal" >}}
 
 The gig is in just over a week. I attended my first rehearsal with extreme anxiety. I was even thinking about bailing out instead of attending. Here's why.
 
@@ -30,9 +30,9 @@ The gig is in just over a week. I attended my first rehearsal with extreme anxie
 
 ## New music for me
 
-{% img /images/steel-city-ukuleles-bound-thing-1.jpg %}
+{{< figure src="/images/steel-city-ukuleles-bound-thing-1.jpg" >}}
 
-{% img /images/steel-city-ukuleles-bound-thing-2.jpg %}
+{{< figure src="/images/steel-city-ukuleles-bound-thing-2.jpg" >}}
 
 I went into rehearsal with basically *none* of the songs we were going to perform. So it was basically a sight reading and singing session for me.
 

@@ -12,19 +12,19 @@ categories:
 - Pittsburgh
 - Phipps Conservatory
 ---
-{% img /images/recorders-at-phipps-2012/group-photo.jpg Sam, Franklin, Annie, Helen, Mike %}
+{{< figure src="/images/recorders-at-phipps-2012/group-photo.jpg" title="Sam, Franklin, Annie, Helen, Mike" >}}
 
-{% img /images/recorders-at-phipps-2012/phipps-outside.jpg Entrance to Phipps %}
+{{< figure src="/images/recorders-at-phipps-2012/phipps-outside.jpg" title="Entrance to Phipps" >}}
 
 After almost two months of weekly music rehearsals, we (Annie, Helen, Mike, Sam, and I) finally performed as planned in [Phipps Conservatory](http://www.facebook.com/events/136074939878556/). It was a lot of fun. We came up with a huge batch of music that we hadn't played [at Phipps last year](/blog/2011/12/05/busy-evening-performing-at-phipps-followed-by-rehearsal-for-another-gig/).
 
 As people wandered around in the garden, sometimes they gathered to sit for a while to enjoy our music before moving on. We had our largest audiences earlier rather than later in the evening.
 
-{% img /images/recorders-at-phipps-2012/audience.jpg Audience at one point %}
+{{< figure src="/images/recorders-at-phipps-2012/audience.jpg" title="Audience at one point" >}}
 
 A sample photo and video, which I took while Sam, Helen, and Mike were playing in a trio, while Annie and I took a break. (Since there were five of us, we took turns playing either as a quartet or trio or as a quartet with a part doubled.)
 
-{% img /images/recorders-at-phipps-2012/trio.jpg Trio %}
+{{< figure src="/images/recorders-at-phipps-2012/trio.jpg" title="Trio" >}}
 
 <iframe width="420" height="315" src="http://www.youtube.com/embed/1ExrZyU5cAU" frameborder="0" allowfullscreen></iframe>
 
@@ -34,7 +34,7 @@ My full report on the event:
 
 ## Several weeks of preparation
 
-{% img /images/recorders-at-phipps-2012/music-scores.jpg My music score binder %}
+{{< figure src="/images/recorders-at-phipps-2012/music-scores.jpg" title="My music score binder" >}}
 
 We spent something like 16 hours in rehearsal, spread out over almost two months, before we performed. We first sight read a huge amount of music, nearly half of which we ended up deciding not to play this time, and worked on what we chose. I also spent time at home working on some trickier passages in some of the music. It was a pretty big time commitment, and at one point, the week before Thanksgiving, when I was really low on time and energy because of other commitments, I was feeling overwhelmed and suggested to the group that I might bail out this year because I was too tired to make it to one of the rehearsals.
 

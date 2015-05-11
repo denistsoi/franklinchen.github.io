@@ -33,7 +33,7 @@ Inside, the main guy who plays guitar and ukulele unpacked his soprano ukulele, 
 
 I felt very intimidated, because although I've gotten some experience jamming while on recorder or flute or tin whistle, my ukulele experience *without written music* is still very minimal. Nevertheless, I joined in. I fumbled around, and had to ask what key each song was being played in, and even then, I'm still quite shaky in anticipating and knowing chord changes beyond the simplest I, IV, V, and some dominant and major 7th chords. I strummed very softly.
 
-{% img /images/music-2014-07-04/jamming.jpg Music jamming %}
+{{< figure src="/images/music-2014-07-04/jamming.jpg" title="Music jamming" >}}
 
 They're a great bunch, improvising melodic lines at will and even making up lyrics right on the spot, just as they had at the last two years when I only watched. And the singing in harmony was fantastic.
 

@@ -51,7 +51,7 @@ Next Sunday there is no orchestra rehearsal because of spring break. So the pres
 
 Because of all the recent negative associations, I decided to take a short break from the modern flute altogether. For fun, I finally started getting serious about the Baroque flute.
 
-{% img http://static.musiciansfriend.com/derivates/18/001/590/857/DV016_Jpg_Large_464489.901_black_matte.jpg Aulos Baroque flute A440 %}
+{{< figure src="http://static.musiciansfriend.com/derivates/18/001/590/857/DV016_Jpg_Large_464489.901_black_matte.jpg" title="Aulos Baroque flute A440" >}}
 
 I've begun practicing the Baroque flute, starting with D major work and now adding G major also. The technique is rather different from that for the modern flute. I have to admit it is a frustrating instrument, but it has its own odd charm.
 

@@ -15,7 +15,7 @@ categories:
 - Smiley Cookie
 - cookies
 ---
-{% img /images/great-race-2012/great-race-expo.jpg Great Race quilt %}
+{{< figure src="/images/great-race-2012/great-race-expo.jpg" title="Great Race quilt" >}}
 
 Today I ran in Pittsburgh's [Great Race 10K](http://rungreatrace.com/) for the [tenth time in my life](/blog/2011/09/25/blistered-but-blissful-in-the-burgh/). For various reasons, I performed a number of experiments for this tenth running of the race, doing things I've never done before.
 
@@ -43,7 +43,7 @@ Eventually, after my two-week absence from running, my left foot injury resolved
 
 Just to start running again, I began going out for 2-3 mile casual runs in my [Invisible Shoes](/blog/2012/07/26/walking-and-running-in-invisible-shoes-a-review/) that I'd been wearing all summer for walking, and sometimes for running. I enjoyed my short runs in these huaraches.
 
-{% img /images/great-race-2012/invisible-shoes-rolled.jpg Invisible Shoes rolled up %}
+{{< figure src="/images/great-race-2012/invisible-shoes-rolled.jpg" title="Invisible Shoes rolled up" >}}
 
 Given that I was just getting back into running after such a long break, I never ran more than 3 miles during any of my runs leading up to the Great Race. And I never wore anything other than the Invisible Shoes. So that led me to the idea that since I wasn't going to be able to achieve a goal of running super fast this year, I could set a *different goal* for myself.
 
@@ -65,9 +65,9 @@ One experiment I did today that I deem a big success: *I ate almost nothing befo
 
 ### Shoes
 
-{% img /images/great-race-2012/franklin-before.jpg Franklin wearing Invisible Shoes and race number 1853 %}
+{{< figure src="/images/great-race-2012/franklin-before.jpg" title="Franklin wearing Invisible Shoes and race number 1853" >}}
 
-{% img /images/great-race-2012/feet-before.jpg Franklin wearing Invisible Shoes %}
+{{< figure src="/images/great-race-2012/feet-before.jpg" title="Franklin wearing Invisible Shoes" >}}
 
 As usual, I jogged a mile from home to the start line as my warmup.
 
@@ -109,7 +109,7 @@ I got some water, was given two Smiley Cookies, and ate a bagel and a banana als
 
 Here are my feet after I got home:
 
-{% img /images/great-race-2012/feet-after.jpg Franklin's bare feet after race, at home %}
+{{< figure src="/images/great-race-2012/feet-after.jpg" title="Franklin's bare feet after race, at home" >}}
 
 It turns out that I got only one blister, and it was exactly where I got a blister last time I ran in the rain in the huaraches: between my first two toes. There was some roughing up of the callouses on the balls of my feet (from wearing the huaraches all summer), but otherwise, my feet were OK.
 

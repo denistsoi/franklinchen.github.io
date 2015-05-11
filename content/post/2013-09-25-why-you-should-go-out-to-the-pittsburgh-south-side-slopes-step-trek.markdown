@@ -32,15 +32,15 @@ A number of other people were supposed to attend, but it turned out only one of 
 
 A last view back north toward the [South Side Flats](http://en.wikipedia.org/wiki/South_Side_Flats):
 
-{% img /images/step-trek-preview-2013/south-side-flats.jpg Looking north to South Side Flats %}
+{{< figure src="/images/step-trek-preview-2013/south-side-flats.jpg" title="Looking north to South Side Flats" >}}
 
 We started immediately with a staircase underneath the Mission Street Bridge:
 
-{% img /images/step-trek-preview-2013/mission-street-bridge.jpg %}
+{{< figure src="/images/step-trek-preview-2013/mission-street-bridge.jpg" >}}
 
 Sample street on the route:
 
-{% img /images/step-trek-preview-2013/street.jpg %}
+{{< figure src="/images/step-trek-preview-2013/street.jpg" >}}
 
 ## Guided tour
 
@@ -52,99 +52,99 @@ Throughout the tour, we encountered quite a few people who were using the stairc
 
 One improvement that Brian was particularly proud of showing us was an entire staircase with LED lighting installed, in order to make it particularly usable at night. It also helps against freezing in the winter. (Unfortunately, as we walked down, I forgot to take photos of the LED lights visible from going up.)
 
-{% img /images/step-trek-preview-2013/leds.jpg %}
+{{< figure src="/images/step-trek-preview-2013/leds.jpg" >}}
 
-{% img /images/step-trek-preview-2013/leds-view.jpg %}
+{{< figure src="/images/step-trek-preview-2013/leds-view.jpg" >}}
 
-{% img /images/step-trek-preview-2013/leds-down.jpg %}
+{{< figure src="/images/step-trek-preview-2013/leds-down.jpg" >}}
 
-{% img /images/step-trek-preview-2013/leds-down-more.jpg %}
+{{< figure src="/images/step-trek-preview-2013/leds-down-more.jpg" >}}
 
 ## Alleys
 
 Some alleys are actually public parts of the route!
 
-{% img /images/step-trek-preview-2013/public-alleyways.jpg %}
+{{< figure src="/images/step-trek-preview-2013/public-alleyways.jpg" >}}
 
 ## Churches
 
 Lots of churches on this route, hence "church route". These are historical reminders of the early days of Pittsburgh with its ethnic churches all over.
 
-{% img /images/step-trek-preview-2013/church.jpg %}
+{{< figure src="/images/step-trek-preview-2013/church.jpg" >}}
 
 ## Railroad
 
 Walking on a bridge over railroad tracks:
 
-{% img /images/step-trek-preview-2013/railroad-tracks.jpg %}
+{{< figure src="/images/step-trek-preview-2013/railroad-tracks.jpg" >}}
 
-{% img /images/step-trek-preview-2013/railroad-bridge.jpg %}
+{{< figure src="/images/step-trek-preview-2013/railroad-bridge.jpg" >}}
 
 ## More steps
 
 Steps.
 
-{% img /images/step-trek-preview-2013/steps-up.jpg %}
+{{< figure src="/images/step-trek-preview-2013/steps-up.jpg" >}}
 
-{% img /images/step-trek-preview-2013/street-steps.jpg %}
+{{< figure src="/images/step-trek-preview-2013/street-steps.jpg" >}}
 
-{% img /images/step-trek-preview-2013/street-steps-2.jpg %}
+{{< figure src="/images/step-trek-preview-2013/street-steps-2.jpg" >}}
 
-{% img /images/step-trek-preview-2013/street-steps-3.jpg %}
+{{< figure src="/images/step-trek-preview-2013/street-steps-3.jpg" >}}
 
-{% img /images/step-trek-preview-2013/street-steps-4.jpg %}
+{{< figure src="/images/step-trek-preview-2013/street-steps-4.jpg" >}}
 
-{% img /images/step-trek-preview-2013/street-steps-5.jpg %}
+{{< figure src="/images/step-trek-preview-2013/street-steps-5.jpg" >}}
 
-{% img /images/step-trek-preview-2013/street-steps-6.jpg %}
+{{< figure src="/images/step-trek-preview-2013/street-steps-6.jpg" >}}
 
-{% img /images/step-trek-preview-2013/street-steps-7.jpg %}
+{{< figure src="/images/step-trek-preview-2013/street-steps-7.jpg" >}}
 
 ## St. Paul of the Cross Monastery
 
-{% img /images/step-trek-preview-2013/monastery.jpg %}
+{{< figure src="/images/step-trek-preview-2013/monastery.jpg" >}}
 
 Here's a nice view from the parking lot of the St. Paul of the Cross Monastery along the route (on Step Trek day you can enter). (Unfortunately, it was getting dark, so the photo is dark.)
 
-{% img /images/step-trek-preview-2013/monastery-view.jpg %}
+{{< figure src="/images/step-trek-preview-2013/monastery-view.jpg" >}}
 
 ## Billy Buck Hill
 
 A lot of rather hilly roads in this neighborhood. A good workout!
 
-{% img /images/step-trek-preview-2013/billy-buck-hill.jpg %}
+{{< figure src="/images/step-trek-preview-2013/billy-buck-hill.jpg" >}}
 
 ## Views
 
-{% img /images/step-trek-preview-2013/view-down.jpg %}
+{{< figure src="/images/step-trek-preview-2013/view-down.jpg" >}}
 
 ## South Side Park
 
 Brian pointed out the successful planting of new trees as part of the improvement of South Side Park:
 
-{% img /images/step-trek-preview-2013/trees.jpg %}
+{{< figure src="/images/step-trek-preview-2013/trees.jpg" >}}
 
 We did not take the steps leading back through South Side Park, which are part of the official Step Trek route:
 
-{% img /images/step-trek-preview-2013/south-side-park-steps.jpg %}
+{{< figure src="/images/step-trek-preview-2013/south-side-park-steps.jpg" >}}
 
 Instead, we ventured into the woods. This way can be tricky because of the footing and possible mud, etc.
 
-{% img /images/step-trek-preview-2013/south-side-park-woods.jpg %}
+{{< figure src="/images/step-trek-preview-2013/south-side-park-woods.jpg" >}}
 
 The advantage is we could get to a field with a nice view:
 
-{% img /images/step-trek-preview-2013/south-side-park-field.jpg %}
+{{< figure src="/images/step-trek-preview-2013/south-side-park-field.jpg" >}}
 
 ## Community garden
 
 Brian showed us another great improvement to the neighborhood, a rather large [community garden](http://www.southsideslopes.org/the-neighborhood/community-garden/).
 
-{% img /images/step-trek-preview-2013/community-garden-above.jpg %}
+{{< figure src="/images/step-trek-preview-2013/community-garden-above.jpg" >}}
 
 It was rapidly getting dark:
 
-{% img /images/step-trek-preview-2013/dark-view.jpg %}
+{{< figure src="/images/step-trek-preview-2013/dark-view.jpg" >}}
 
 We hurried to get back to where we had started, under the Mission Street Bridge.
 

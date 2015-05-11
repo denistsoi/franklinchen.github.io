@@ -17,11 +17,11 @@ I was very grateful for the opportunity in July 2010 to visit Aunt and Uncle in 
 
 Below is the only photo I currently have of him (my parents have the family photo album that must have a lot more photos from the past forty years since we've all been in the United States). (From left to right: Abby, my mother, Aunt Soo-kin, my father, and Uncle Steve.)
 
-{% img /images/aunt-uncle/abby-mother-aunt-father-uncle.jpg Abby, Franklin's mother, Aunt Soo-kin, Franklin's father, Uncle Steve %}
+{{< figure src="/images/aunt-uncle/abby-mother-aunt-father-uncle.jpg" title="Abby, Franklin's mother, Aunt Soo-kin, Franklin's father, Uncle Steve" >}}
 
 (Update: my brother-in-law André just sent me some more photos, from the wedding of my sister Linda and him in 2010 that he did manage to attend.)
 
-{% img /images/aunt-uncle/aunt-uncle.jpg Aunt and Uncle at Linda and André's wedding %}
+{{< figure src="/images/aunt-uncle/aunt-uncle.jpg" title="Aunt and Uncle at Linda and André's wedding" >}}
 
 What do I remember most about Uncle Steve, and how did he impact my life?
 
@@ -51,7 +51,7 @@ At some point, I did start switching around between the penhold grip and the sha
 
 Here's a photo of my father and me playing ping pong twenty years ago:
 
-{% img /images/franklin-father-ping-pong-air.jpg Franklin playing ping pong with father at home around 1993? %}
+{{< figure src="/images/franklin-father-ping-pong-air.jpg" title="Franklin playing ping pong with father at home around 1993?" >}}
 
 ## In closing
 
@@ -61,6 +61,6 @@ Unfortunately, Uncle Steve never got to see my new nephew Jack, born last month.
 
 I will miss Uncle Steve's energy and fighting spirit.
 
-{% img /images/andre-linda-jack-mother-father.jpg André, Linda, Jack, mother, father %}
+{{< figure src="/images/andre-linda-jack-mother-father.jpg" title="André, Linda, Jack, mother, father" >}}
 
 (Photo: brother-in-law André, sister Linda, nephew Jack, mother, father.)

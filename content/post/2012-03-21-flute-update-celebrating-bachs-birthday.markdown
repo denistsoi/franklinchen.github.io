@@ -24,7 +24,7 @@ I had ended up [quitting the CMU AUO](/blog/2012/03/12/quitting-the-cmu-all-univ
 
 ## Thumbport
 
-{% img http://www.thumbport.com/images/position.jpg Thumbport %}
+{{< figure src="http://www.thumbport.com/images/position.jpg" title="Thumbport" >}}
 
 Today I received a [Thumbport II](http://www.thumbport.com/) I ordered recently. It's a snap-on device that helps with holding a flute, by making it easier to balance the flute on the right thumb, thereby decreasing rolling of the flute and pressure on the right pinkie finger. I tried it for the first time today and it seems useful. We'll see if it helps a bit with my form and [injury issues](/blog/2012/03/07/flute-taking-a-break-while-clarifying-my-goals/).
 
@@ -42,7 +42,7 @@ But the main piece I sight read was the full [cello suite](http://en.wikipedia.o
 
 This music is deceptively simple but really quite beautiful. Even visually it is pleasing: check out Bach's handwritten score:
 
-{% img http://upload.wikimedia.org/wikipedia/commons/9/9c/Bachs1a.gif Bach cello suite no. 1, first page %}
+{{< figure src="http://upload.wikimedia.org/wikipedia/commons/9/9c/Bachs1a.gif" title="Bach cello suite no. 1, first page" >}}
 
 #### Visual animation
 
@@ -52,7 +52,7 @@ By the way, you must check out the following unconventional visual animated repr
 
 ## Bossa nova
 
-{% img http://s3.amazonaws.com/halleonard-closerlook/00843016/00843016FC.jpg Latin Jazz: 10 Latin Jazz Classics %}
+{{< figure src="http://s3.amazonaws.com/halleonard-closerlook/00843016/00843016FC.jpg" title="Latin Jazz: 10 Latin Jazz Classics" >}}
 
 Today I also picked up from the public library another play-along score/CD set, this time a ["Latin jazz" collection](http://www.halleonard.com/product/viewproduct.do?itemid=843016&lid=1&keywords=latin&seriesfeature=JZPLYA&). Apart from the famous mambo "Ran Kan Kan" by Tito Puente, the rest was actually bossa nova, which was what I got it for. Recently I decided to get more into playing jazz and working on improvisation. Since I love the harmonies and tunes of classic bossa nova, I decided this was a good place to get started.
 

@@ -12,7 +12,7 @@ categories:
 - melodica
 - Brandenburg concertos
 ---
-{% img /images/pittsburgh-historical-music-society-concert/program.jpg Program %}
+{{< figure src="/images/pittsburgh-historical-music-society-concert/program.jpg" title="Program" >}}
 
 On Sunday, Abby and I carpooled with Helen and Mike (of the [recorder](/blog/categories/recorder/) gang) to Ambridge for a free concert given by the [Pittsburgh Historical Music Society](http://pghhistoricalmusicsociety.org/) as part of a Christmas-themed event in [Old Economy Village](http://www.oldeconomyvillage.org/).
 
@@ -24,13 +24,13 @@ The main draw was that there was going to be a performance of [Bach's Brandenbur
 
 The concert featured a variety of early music, including some music specifically written for the original orchestra of historic Old Economy Village back in the day.
 
-{% img /images/pittsburgh-historical-music-society-concert/orchestra-left.jpg Left view of orchestra %}
-{% img /images/pittsburgh-historical-music-society-concert/orchestra-right.jpg Right view of orchestra %}
-{% img /images/pittsburgh-historical-music-society-concert/harp-viol-flute.jpg Harp, viola da gamba, and flute %}
+{{< figure src="/images/pittsburgh-historical-music-society-concert/orchestra-left.jpg" title="Left view of orchestra" >}}
+{{< figure src="/images/pittsburgh-historical-music-society-concert/orchestra-right.jpg" title="Right view of orchestra" >}}
+{{< figure src="/images/pittsburgh-historical-music-society-concert/harp-viol-flute.jpg" title="Harp, viola da gamba, and flute" >}}
 
 Below are the soloists in the Brandenburg 4:
 
-{% img /images/pittsburgh-historical-music-society-concert/brandenburg-4.jpg Soloists for the Brandenburg 4 %}
+{{< figure src="/images/pittsburgh-historical-music-society-concert/brandenburg-4.jpg" title="Soloists for the Brandenburg 4" >}}
 
 ## Concert review
 

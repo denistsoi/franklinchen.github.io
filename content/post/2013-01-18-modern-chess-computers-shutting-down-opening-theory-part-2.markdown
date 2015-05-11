@@ -18,7 +18,7 @@ I had no idea that an even bigger shock was to come, in the very same chess open
 
 This is a critical position of the [Meran Variation of the Semi-Slav](http://en.wikipedia.org/wiki/Semi-Slav_Defense#Meran_Variation:_6.Bd3), White to play:
 
-{% img http://images.huffingtonpost.com/2013-01-17-Anand1.jpg Meran %}
+{{< figure src="http://images.huffingtonpost.com/2013-01-17-Anand1.jpg" title="Meran" >}}
 
 Last September, Topalov as White played the natural `12 b4`, but that led to the stunning sacrifice `12...c5` that leads to a draw for Black. As I said in my blog post: "What this novelty means is that anyone playing White going into this opening variation in the future cannot play the obvious "best" move `12 b4`, because it results in a draw."
 
@@ -30,7 +30,7 @@ But amazingly, Anand, as Black played `12...c5` anyway!! It looks insane. If it'
 
 No, he clearly had not seen everything coming, because after the amazing sacrifice `15...Bc5`, Aronian played a poor move, which led to the astounding `15...Nde5` by Anand leading to this position:
 
-{% img http://images.huffingtonpost.com/2013-01-17-Anand3.jpg Near the end %}
+{{< figure src="http://images.huffingtonpost.com/2013-01-17-Anand3.jpg" title="Near the end" >}}
 
 Anand then won the game after several more moves.
 

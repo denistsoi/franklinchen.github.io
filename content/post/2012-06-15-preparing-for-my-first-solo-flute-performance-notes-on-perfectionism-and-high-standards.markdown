@@ -12,7 +12,7 @@ A month ago I reported on getting a [new flute that was more ergonomic for me](/
 
 I am definitely enjoying the new flute. In particular, as I've been practicing an Allegro movement of a solo flute sonata, the fast passages involving a G# are painful and awkward on my old flute that has an inline G instead of an offset G. The offset G eases the reach for my short ring and pinkie fingers. As you can see from the photo, my left pinkie finger in particular is so short that even with the offset G it is almost completely straight! (And this is with my proper placement of the flute somewhat down and forward from the body to minimize the twist of the entire left hand.)
 
-{% img /images/flute-left-hand-offset-g.jpg Franklin's left hand on flute with offset G %}
+{{< figure src="/images/flute-left-hand-offset-g.jpg" title="Franklin's left hand on flute with offset G" >}}
 
 (The split E also helps a lot right now, giving me a clean E much more easily than my old flute, but this has nothing to do with ergonomics.)
 

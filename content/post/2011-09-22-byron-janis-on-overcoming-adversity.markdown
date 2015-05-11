@@ -24,8 +24,8 @@ If you are [Byron Janis](http://www.byronjanis.com/), you decide to pursue your 
 
 Today, I was privileged to hear Byron Janis speak today and perform a few pieces at the piano at a [convocation at Carnegie Mellon University](http://www.cmu.edu/news/stories/archives/2011/september/sept12_byronjanis.html).
 
-{% img /images/byron-janis-speaking.jpg Byron Janis speaking %}
-{% img /images/byron-janis-playing.jpg Byron Janis playing piano %}
+{{< figure src="/images/byron-janis-speaking.jpg" title="Byron Janis speaking" >}}
+{{< figure src="/images/byron-janis-playing.jpg" title="Byron Janis playing piano" >}}
 
 Janis spoke of overcoming not only the problem with his finger, but also the psoriatic arthritis he developed later. At a low point in his life, he ended up beginning to compose, and finding meaning in music through that avenue. "**Passion** and **perseverance**!" he repeated again and again.
 

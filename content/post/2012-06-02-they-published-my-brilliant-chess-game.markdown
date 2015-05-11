@@ -31,11 +31,11 @@ In my game, I embarked on a double sacrifice combination that, if one had never 
 
 Here is the critical position of my game, with White to play and win:
 
-{% img /chess/accelerated-dragon-trap_files/diag3FDFE53F3ECA481F.gif Chen-Winfield, Michigan Open 1985 %}
+{{< figure src="/chess/accelerated-dragon-trap_files/diag3FDFE53F3ECA481F.gif" title="Chen-Winfield, Michigan Open 1985" >}}
 
 Here is the critical position of [Fischer-Reshevsky, US Championship 1958](http://www.chessgames.com/perl/chessgame?gid=1008376):
 
-{% img /chess/accelerated-dragon-trap_files/diag3FDFE554B3C66396.gif Fischer-Reshevsky, US Championship 1958 %}
+{{< figure src="/chess/accelerated-dragon-trap_files/diag3FDFE554B3C66396.gif" title="Fischer-Reshevsky, US Championship 1958" >}}
 
 If you have not seen either game before, do you see the similarities? Can you spot the forced wins?
 

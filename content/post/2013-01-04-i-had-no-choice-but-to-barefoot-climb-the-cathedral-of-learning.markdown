@@ -11,7 +11,7 @@ categories:
 - barefoot
 - Fight for Air Climb
 ---
-{% img /images/cathedral-of-learning-snow.jpg Cathedral of Learning in snow %}
+{{< figure src="/images/cathedral-of-learning-snow.jpg" title="Cathedral of Learning in snow" >}}
 
 One week ago I reported on starting an exercise regimen including [stair climbing 36 floors of the Cathedral of Learning](/blog/2012/12/28/meditations-on-climbing-the-36-floors-of-the-pitt-cathedral-of-learning/). Since then, I've gone back three times to climb the Cathedral of Learning again. Part of the reason is that [Bill](http://billlaboon.com/) was inspired by the report and climbed it himself for the first time, and we decided we should do the [Fight for Air Climb](http://www.lung.org/pledge-events/pa/pittsburgh-climb-fy13/) this year. Therefore, he's been going back for more climbing and so have I.
 

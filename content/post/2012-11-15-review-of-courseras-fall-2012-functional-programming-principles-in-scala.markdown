@@ -13,7 +13,7 @@ categories:
 - SBT
 - Java
 ---
-{% img http://www.scala-lang.org/sites/default/files/newsflash_logo.png %}
+{{< figure src="http://www.scala-lang.org/sites/default/files/newsflash_logo.png" >}}
 
 In fall of 2012, I completed the initial offering, through [Coursera](http://www.coursera.org/), of [Martin Odersky](http://lampwww.epfl.ch/~odersky/)'s ["Functional Programming Principles in Scala" online course](http://www.coursera.org/course/progfun), which was held from September 18 through November.
 

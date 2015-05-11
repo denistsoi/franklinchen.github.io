@@ -13,7 +13,7 @@ categories:
 - East Germany
 - memory
 ---
-{% img http://s3.amazonaws.com/ksr/projects/39714/photo-full.jpg?1309271700 Say no to pi %}
+{{< figure src="http://s3.amazonaws.com/ksr/projects/39714/photo-full.jpg?1309271700" title="Say no to pi" >}}
 
 Today, many of us geeks celebrate [Pi Day](http://piday.org/), because *π = 3.1415926535897932384626433...* is such an important number in math and science. I have to confess that I have never celebrated Pi Day, but it was just last year that I found out there was a movement *against* celebrating Pi Day, and advocating the celebration of [Tau Day](http://tauday.com/) instead, where the special constant (which a community has chosen to be denoted by the Greek letter "tau", *τ*) is *2π*, which is *6.283...*. Upon examining the evidence briefly, I had immediately agreed that indeed, we should not be celebrating Pi Day, and that therefore, today is simply [Half-Tau Day](http://halftauday.com/).
 
@@ -33,9 +33,9 @@ Doing math and physics homework in college, I got burned repeatedly by the extra
 
 While doing some cleaning, I happened to find in my office the very book that I had on me during the trip and that Bryan wrote into (not the inside front cover, but the inside back cover)!
 
-{% img /images/book-with-pi.jpg %}
+{{< figure src="/images/book-with-pi.jpg" >}}
 
-{% img /images/pi.jpg %}
+{{< figure src="/images/pi.jpg" >}}
 
 ### (Update of 2013-08-22)
 

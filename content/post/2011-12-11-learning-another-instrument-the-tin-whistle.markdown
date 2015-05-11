@@ -17,7 +17,7 @@ Yesterday I started playing the [tin whistle](http://en.wikipedia.org/wiki/Tin_w
 
 This basic cheap [Feadóg](http://www.feadog.ie/) tin whistle is the one I am currently using (Abby picked it up at some point years ago while in Ireland, and I dug it out of a box in the basement yesterday).
 
-{% img /images/feadog-tin-whistle.jpg Feadóg tin whistle %}
+{{< figure src="/images/feadog-tin-whistle.jpg" title="Feadóg tin whistle" >}}
 
 Why on earth am I playing this thing, which looks like a toy?
 

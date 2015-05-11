@@ -10,7 +10,7 @@ categories:
 - Pittsburgh
 - Python
 ---
-{% img http://benbiddington.files.wordpress.com/2009/09/mocks-and-stubs.png Mocks %}
+{{< figure src="http://benbiddington.files.wordpress.com/2009/09/mocks-and-stubs.png" title="Mocks" >}}
 
 A week ago, I saw a message on the [Pittsburgh Python](http://www.meetup.com/pghpython/) mailing list:
 

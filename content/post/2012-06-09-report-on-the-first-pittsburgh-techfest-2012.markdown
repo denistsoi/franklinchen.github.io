@@ -25,7 +25,7 @@ categories:
 - REST
 - iOS
 ---
-{% img https://sphotos-a.xx.fbcdn.net/hphotos-prn1/532862_293436380745383_58658441_n.jpg Pittsburgh TechFest 2012 %}
+{{< figure src="https://sphotos-a.xx.fbcdn.net/hphotos-prn1/532862_293436380745383_58658441_n.jpg" title="Pittsburgh TechFest 2012" >}}
 
 I was excited to attend the very first [Pittsburgh TechFest](http://pghtechfest.com/), held at [LaRoche College](http://www.laroche.edu/).
 

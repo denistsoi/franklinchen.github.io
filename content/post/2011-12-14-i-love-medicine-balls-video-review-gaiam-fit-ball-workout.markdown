@@ -14,7 +14,7 @@ Two months ago, I mentioned my gradual movement away from formal gyms and exerci
 
 Today, I am reviewing an intense exercise video that I started using just two years ago that involves a medicine ball, the [Gaiam Fit Ball Workout](http://www.amazon.com/Gaiam-05-52846-Fit-Ball-Workout/dp/B0012K1BM8) with instructor [Tanja Djelevic](http://www.tanjadjelevic.com/).
 
-{% img http://ecx.images-amazon.com/images/I/5110kWIORpL._SL500_AA300_.jpg Photo of Gaiam Fit Ball Workout kit %}
+{{< figure src="http://ecx.images-amazon.com/images/I/5110kWIORpL._SL500_AA300_.jpg" title="Photo of Gaiam Fit Ball Workout kit" >}}
 
 I give this **5/5 stars** and here's why!
 

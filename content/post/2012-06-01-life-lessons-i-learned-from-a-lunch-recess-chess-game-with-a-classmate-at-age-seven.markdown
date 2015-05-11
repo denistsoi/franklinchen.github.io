@@ -13,9 +13,9 @@ Two days ago, I wrote about [life lessons I learned from playing a chess game ag
 
 Today, I'm writing about what I learned from the only other chess game I played on site in elementary school. I played this game much earlier than the computer game; I played it with a classmate who had seen me looking at chess books in the classroom library and challenged me to a game. Let's call him X. Here are our school photos:
 
-{% img /images/franklin-second-grade.jpg Franklin Chen 2nd grade school photo %}
+{{< figure src="/images/franklin-second-grade.jpg" title="Franklin Chen 2nd grade school photo" >}}
 
-{% img /images/second-grade-chess-opponent.jpg Classmate in 2nd grade I played one chess game with %}
+{{< figure src="/images/second-grade-chess-opponent.jpg" title="Classmate in 2nd grade I played one chess game with" >}}
 
 <!--more-->
 
@@ -29,7 +29,7 @@ Nobody was watching us. It was just the two of us sitting on the floor in a corn
 
 X was playing very quickly, spending no more than a split second per move. Furthermore, he played completely unlike my father and unlike any of the sample instructive games I had seen in chess books. His first move, h4, totally confused and unnerved me. I tried to play according to vague principles I recalled about how one should play, moving my center Pawns, even as he did a strange Rook lift maneuver I had never seen in my entire life. On his third move, he attacked my e Pawn with this rogue Rook and I protected it. On his fourth move, he attacked my Pawn with his d Pawn. We had reached this position:
 
-{% img /images/second-grade-chess-game.png My only chess game with another kid in elementary school %}
+{{< figure src="/images/second-grade-chess-game.png" title="My only chess game with another kid in elementary school" >}}
 
 I got excited because it looked like he had made a mistake. His Pawn on d4 is protected only once, by his Queen, while I was attacking it with both my Knight and my Pawn at e5. Therefore, his Pawn was "free" for me to take!
 

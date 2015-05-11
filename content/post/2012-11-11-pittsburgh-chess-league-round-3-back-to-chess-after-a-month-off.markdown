@@ -10,7 +10,7 @@ categories:
 - Pittsburgh Chess League
 - Pittsburgh Chess Club
 ---
-{% img /chess/chen-winwood-2012-11-11_files/pcl3.jpg Round 3 in progress %}
+{{< figure src="/chess/chen-winwood-2012-11-11_files/pcl3.jpg" title="Round 3 in progress" >}}
 
 ## I had a break from chess
 
@@ -48,39 +48,39 @@ What happened was that on the fly, I decided I simply did not feel like playing 
 
 Well, it turns out that apparently my opponent also had not encountered this opening variation, and he played inaccurately, resulting in my gaining a large advantage in time and space:
 
-{% img /chess/chen-winwood-2012-11-11_files/diag3FED81D0E4996A38.gif Opening %}
+{{< figure src="/chess/chen-winwood-2012-11-11_files/diag3FED81D0E4996A38.gif" title="Opening" >}}
 
 ### The middle
 
 I made what I consider to be an elementary sort of error, in needlessly allowing the exchange of some minor pieces by Black, because of my rush to expand on the Queen side already. Nevertheless, I retained a real advantage despite the exchanges:
 
-{% img /chess/chen-winwood-2012-11-11_files/diag3FED81D4129ADD7E.gif Opening after exchanges %}
+{{< figure src="/chess/chen-winwood-2012-11-11_files/diag3FED81D4129ADD7E.gif" title="Opening after exchanges" >}}
 
 Black made some passive moves that allowed me to build up to a great position in preparation for a King side attack; a quicker `a5` and without the weakening `b6` would have created counterplay more reliably:
 
-{% img /chess/chen-winwood-2012-11-11_files/diag3FED81D66D578ACA.gif Rook lift %}
+{{< figure src="/chess/chen-winwood-2012-11-11_files/diag3FED81D66D578ACA.gif" title="Rook lift" >}}
 
 I started losing the thread when, instead of closing off the Queen side and turning my attention to the King side, I tried to "keep my options open" (as far as pushing for `c5`), and not only allowed Black to take control of the `a` file, but also I gave up my back rank, believing that there was no harm in doing that. In some sense, maybe that was correct (I was in fact never in danger of losing in this game), but from a practical point of view, I was creating conditions in which I could (and did) make further inaccuracies:
 
-{% img /chess/chen-winwood-2012-11-11_files/diag3FED81DAACC10D54.gif Black has counterplay %}
+{{< figure src="/chess/chen-winwood-2012-11-11_files/diag3FED81DAACC10D54.gif" title="Black has counterplay" >}}
 
 In a critical position in which I could have continued strongly, I made the mistake of the *wrong exchange of pieces* in which I took Black's Bishop for my Knight:
 
-{% img /chess/chen-winwood-2012-11-11_files/diag3FED81DE25533EF3.gif Exchange coming %}
+{{< figure src="/chess/chen-winwood-2012-11-11_files/diag3FED81DE25533EF3.gif" title="Exchange coming" >}}
 
 I cannot hide the fact that I made a similar mistake in a previous [chess game in September](/blog/2012/09/12/round-2-of-the-pittsburgh-chess-club-tournament-winning-in-the-sicilian-defense-the-philosophy-and-psychology-of-struggle/). If you look at that game, you will see that I created a dominant position and then "greedily" exchanged a good Knight for a bad Bishop. **I have therefore uncovered a weakness of my play that I was not entirely aware of before: I like Bishops too much!** I am stating this weakness publicly in hope of forcing myself to be careful in the future. It's funny because I did not always have this prejudice; I used to play openings in which I quickly gave up a Bishop for a Knight. But then something changed. Now is the time to restore balance.
 
 My opponent and I traded inaccuracies in which we did not play the most active moves possible (in particular, he made one of his Rooks pointlessly passive, as did I), but overall, we reached a point at which I was in danger of not getting anywhere at all, and I finally continued my King side attack:
 
-{% img /chess/chen-winwood-2012-11-11_files/diag3FED81F021BD28CB.gif King side attack %}
+{{< figure src="/chess/chen-winwood-2012-11-11_files/diag3FED81F021BD28CB.gif" title="King side attack" >}}
 
 Objectively, this should not have worked at all, but somehow, I had momentum and my opponent became passive at the *worst* possible moment, and after a single passive move with the Queen, the following position was reached, which I consider to be probably won for White:
 
-{% img /chess/chen-winwood-2012-11-11_files/diag3FED81F502B59D15.gif Strong for White %}
+{{< figure src="/chess/chen-winwood-2012-11-11_files/diag3FED81F502B59D15.gif" title="Strong for White" >}}
 
 Black should have *actively* defended against the King side attack, by fearlessly moving the Pawn up with `f5` instead of sitting around:
 
-{% img /chess/chen-winwood-2012-11-11_files/diag3FED81F3EB16D349.gif Strong defense %}
+{{< figure src="/chess/chen-winwood-2012-11-11_files/diag3FED81F3EB16D349.gif" title="Strong defense" >}}
 
 There is a fear some of us have of moving Pawns in front of our King in the face of an attack. But tactically, sometimes that is the correct thing to do.
 
@@ -88,11 +88,11 @@ There is a fear some of us have of moving Pawns in front of our King in the face
 
 After the Pawn attack `h5` by White, the game was basically over:
 
-{% img /chess/chen-winwood-2012-11-11_files/diag3FED81F5FB42C23C.gif White's King side attack is overwhelming %}
+{{< figure src="/chess/chen-winwood-2012-11-11_files/diag3FED81F5FB42C23C.gif" title="White's King side attack is overwhelming" >}}
 
 Check out the game annotations for details, but this is the final position, in which Black resigned because of impending loss of a piece:
 
-{% img /chess/chen-winwood-2012-11-11_files/diag3FED820A14461016.gif Final position %}
+{{< figure src="/chess/chen-winwood-2012-11-11_files/diag3FED820A14461016.gif" title="Final position" >}}
 
 Notice how passive Black's position was at this point, with the Rook on `b7` doing nothing, the Knight pinned on the back rank, Black's King suffocated.
 

@@ -15,8 +15,8 @@ Tonight the [Pittsburgh Java User Group](http://java.net/projects/pittjug/) ([Pi
 
 I arrived early and couldn't help admiring the view outside before entering the building as there was still daylight. Here are the Birmingham Bridge and the [Monongahela River](http://en.wikipedia.org/wiki/Monongahela_River):
 
-{% img /images/pittjug-2012-02-21/birmingham-bridge.jpg View of Birmingham Bridge from Pittsburgh Technology Council %}
-{% img /images/pittjug-2012-02-21/monongahela.jpg View across Monongahela River from Pittsburgh Technology Council %}
+{{< figure src="/images/pittjug-2012-02-21/birmingham-bridge.jpg" title="View of Birmingham Bridge from Pittsburgh Technology Council" >}}
+{{< figure src="/images/pittjug-2012-02-21/monongahela.jpg" title="View across Monongahela River from Pittsburgh Technology Council" >}}
 
 I had a good time tonight.
 
@@ -28,7 +28,7 @@ PittJUG meetings are advertised as starting at 5:30 PM, although the talk starts
 
 ## The talk
 
-{% img /images/pittjug-2012-02-21/matthew-mccullough-git.jpg Matthew McCullough of GitHub speaking on Git at PittJUG %}
+{{< figure src="/images/pittjug-2012-02-21/matthew-mccullough-git.jpg" title="Matthew McCullough of GitHub speaking on Git at PittJUG" >}}
 
 Matthew McCullough gave an energetic and clear presentation on some fundamentals of Git. There were good questions from the audience throughout, and he answered them well.
 

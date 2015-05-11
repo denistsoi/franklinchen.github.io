@@ -59,7 +59,7 @@ It was really cold yet again (temperature below 40F, and I saw some stray snowfl
 
 I wore, for the first time, my [calf sleeves](http://www.cepcompression.com/1922-Allsports-Sleeves.aspx) that had just arrived, and that I plan to wear during the marathon:
 
-{% img /images/scrr-2013-04-20/cep-compression-calf-sleeves.jpg CEP Compression calf sleeves %}
+{{< figure src="/images/scrr-2013-04-20/cep-compression-calf-sleeves.jpg" title="CEP Compression calf sleeves" >}}
 
 ## Moment of silence for Boston
 
@@ -69,11 +69,11 @@ The training run was preceded by a moment of silence for Boston as well as updat
 
 For this run, I wore blue as well as a ["We are all Boston Marathoners at heart" bib](http://www.races2remember.com/PrintBib.php?bib=BOSTON2013)
 
-{% img /images/scrr-2013-04-20/boston-marathoners-at-heart.jpg We are all Boston Marathoners at heart %}
+{{< figure src="/images/scrr-2013-04-20/boston-marathoners-at-heart.jpg" title="We are all Boston Marathoners at heart" >}}
 
 ## The run
 
-{% img /images/scrr-2013-04-20/start.jpg Waiting to start run %}
+{{< figure src="/images/scrr-2013-04-20/start.jpg" title="Waiting to start run" >}}
 
 I intended to try to follow a 9-minute pace group.
 
@@ -87,15 +87,15 @@ At one point when we reached downtown again in Pittsburgh, and we were supposed 
 
 By that time, I was tired and demoralized by all the weird twists and turns the route had become after having reached downtown earlier, and now that I knew where I was, I just slowed down and didn't bother to catch up to any pack again, and took some photos:
 
-{% img /images/scrr-2013-04-20/bridge.jpg View from Sixteenth Street Bridge %}
+{{< figure src="/images/scrr-2013-04-20/bridge.jpg" title="View from Sixteenth Street Bridge" >}}
 
-{% img /images/scrr-2013-04-20/16th-street-bridge.jpg Crossing Sixteenth Street Bridge %}
+{{< figure src="/images/scrr-2013-04-20/16th-street-bridge.jpg" title="Crossing Sixteenth Street Bridge" >}}
 
 I don't really know how far I ran or how fast. It just seemed really intense to me.
 
 ## After the run
 
-{% img /images/scrr-2013-04-20/after.jpg After run %}
+{{< figure src="/images/scrr-2013-04-20/after.jpg" title="After run" >}}
 
 After the run, I ate two bananas and some cookies and went inside to stretch and inspect the damage.
 
@@ -103,19 +103,19 @@ After the run, I ate two bananas and some cookies and went inside to stretch and
 
 My Luna Sandals:
 
-{% img /images/scrr-2013-04-20/luna-venado.jpg Luna Venado %}
+{{< figure src="/images/scrr-2013-04-20/luna-venado.jpg" title="Luna Venado" >}}
 
 #### Tops of feet
 
-{% img /images/scrr-2013-04-20/feet.jpg Feet %}
+{{< figure src="/images/scrr-2013-04-20/feet.jpg" title="Feet" >}}
 
 My right foot felt OK, despite some indentations from tight laces:
 
-{% img /images/scrr-2013-04-20/right.jpg Right foot %}
+{{< figure src="/images/scrr-2013-04-20/right.jpg" title="Right foot" >}}
 
 But my left foot took a lot of damage, with skin scraped and some blood; the problem was that the strap had been loose, but I had neglected to stop and tighten and readjust it, and as a result, it shifted around and therefore chafed me:
 
-{% img /images/scrr-2013-04-20/left.jpg Left foot %}
+{{< figure src="/images/scrr-2013-04-20/left.jpg" title="Left foot" >}}
 
 It was good to learn this lesson once and for all: I will be more careful in the future to make sure the laces are tight enough, and also not ignore sensations of chafing, and take the time to stop and readjust if I really have to. I could not have run a full marathon with my left foot being chafed in this fashion for the whole distance.
 
@@ -123,11 +123,11 @@ It was good to learn this lesson once and for all: I will be more careful in the
 
 My soles revealed some developing problems from the entire week.
 
-{% img /images/scrr-2013-04-20/soles.jpg Soles of feet %}
+{{< figure src="/images/scrr-2013-04-20/soles.jpg" title="Soles of feet" >}}
 
 My left sole was basically OK, despite some dry skin that I should really deal with, but my right sole had more serious dry and cracking skin problems. In particular, near my big toe, there was a noticeable crack that caused me discomfort with every step:
 
-{% img /images/scrr-2013-04-20/right-sole.jpg Right sole of foot %}
+{{< figure src="/images/scrr-2013-04-20/right-sole.jpg" title="Right sole of foot" >}}
 
 ### Calves
 

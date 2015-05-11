@@ -14,8 +14,8 @@ The menu in recent years has been pretty good, and stayed the same.
 
 I ate a single one of the ice cream cookie sandwiches, which was plenty! There were several different configurations: this time, I chose the chocolate ice cream sandwiched by chocolate chip cookies:
 
-{% img /images/cmu-staff-picnic-ice-cream-top.jpg Top view %}
-{% img /images/cmu-staff-picnic-ice-cream-side.jpg Side view %}
+{{< figure src="/images/cmu-staff-picnic-ice-cream-top.jpg" title="Top view" >}}
+{{< figure src="/images/cmu-staff-picnic-ice-cream-side.jpg" title="Side view" >}}
 
 ## A big disappointment seven years ago, then an unexpected surprise
 

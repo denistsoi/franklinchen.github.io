@@ -11,7 +11,7 @@ categories:
 - Latin dance
 - Cheo Feliciano
 ---
-{% img http://i2.cdn.turner.com/cnn/dam/assets/140417104237-cheo-feliciano---story---restricted-story-top.jpg Cheo Feliciano %}
+{{< figure src="http://i2.cdn.turner.com/cnn/dam/assets/140417104237-cheo-feliciano---story---restricted-story-top.jpg" title="Cheo Feliciano" >}}
 
 I learned that [Cheo Feliciano](http://en.wikipedia.org/wiki/Cheo_Feliciano) just [died in a car accident at age 78](http://www.cnn.com/2014/04/17/showbiz/cheo-feliciano-obit/).
 

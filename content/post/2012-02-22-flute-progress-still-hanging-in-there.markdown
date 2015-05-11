@@ -21,9 +21,9 @@ Another week has gone by, and what I thought might be a [day of reckoning](/blog
 
 Here is a sample of the hardest music from Bernstein's "Symphonic Dances from West Side Story" that I'm still struggling to play correctly, cleanly, and in tempo:
 
-{% img /images/flute-music/west-side-story-fugue.jpg West Side Story: Fugue %}
+{{< figure src="/images/flute-music/west-side-story-fugue.jpg" title="West Side Story: Fugue" >}}
 
-{% img /images/flute-music/west-side-story-rumble.jpg West Side Story: Rumble %}
+{{< figure src="/images/flute-music/west-side-story-rumble.jpg" title="West Side Story: Rumble" >}}
 
 It is not very visible from my photos, but I have a huge number of pencil markings on my copy of the score.
 
@@ -101,7 +101,7 @@ Today, I did an abbreviated Rubank practice, then launched into much work on the
 
 It is amusing to look back to what I was still having trouble playing, as a flute beginner, three months ago. I was just starting to work through a collection of "easy flute classics":
 
-{% img /images/flute-music/moyse-easy-classics.jpg Moyse Collection of Easy Flute Classics %}
+{{< figure src="/images/flute-music/moyse-easy-classics.jpg" title="Moyse Collection of Easy Flute Classics" >}}
 
 Compare these simple, slow scores with the Bernstein excerpts in the photos at the beginning of this blog post!
 

@@ -15,7 +15,7 @@ categories:
 ---
 This week, the Morewood Parking Lot, where I have an annual parking permit for commuting to work at Carnegie Mellon University, is being used for the annual [CMU Spring Carnival](http://www.contrib.andrew.cmu.edu/~sc0v/), so this year I opted for the new possibility opened up by [CMU Parking Services](http://www.cmu.edu/parking/) to volunteer to not park in my lot, in order to reduce demand for parking. In return, I get a $50 credit toward my parking fee.
 
-{% img /images/walk-home-from-cmu/morewood-lot-carnival.jpg %}
+{{< figure src="/images/walk-home-from-cmu/morewood-lot-carnival.jpg" >}}
 
 (A photo from the [CMU Carnival live webcam](http://www.contrib.andrew.cmu.edu/~sc0v/webcam.html).)
 
@@ -80,15 +80,15 @@ I feared that a thunderstorm might hit this evening (it did not), so I walked pr
 
 Schenley Drive is the most direct way to get into Squirrel Hill, where I live. Amusingly, my boss passed me on his bike while I was walking along:
 
-{% img /images/walk-home-from-cmu/walking-home-on-schenley-drive.jpg %}
+{{< figure src="/images/walk-home-from-cmu/walking-home-on-schenley-drive.jpg" >}}
 
 Residential Squirrel Hill arrives right after the golf course:
 
-{% img /images/walk-home-from-cmu/darlington-murdoch.jpg %}
+{{< figure src="/images/walk-home-from-cmu/darlington-murdoch.jpg" >}}
 
 Going down Murray Avenue:
 
-{% img /images/walk-home-from-cmu/south-on-murray-ave.jpg %}
+{{< figure src="/images/walk-home-from-cmu/south-on-murray-ave.jpg" >}}
 
 ## Conclusion
 
