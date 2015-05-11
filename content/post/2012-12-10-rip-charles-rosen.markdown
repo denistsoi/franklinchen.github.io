@@ -14,7 +14,7 @@ categories:
 - German Romanticism
 - modernism
 ---
-{{< figure src="http://yalepress.yale.edu/yupbooks/images/full13/9780300126402.jpg" title="Charles Rosen, cover of "Music and Sentiment"" >}}
+{{< figure src="http://yalepress.yale.edu/yupbooks/images/full13/9780300126402.jpg" title="Charles Rosen, cover of \"Music and Sentiment\"" >}}
 
 <blockquote>
 This book was written from the conviction that understanding music does not come from memorizing an esoteric code. ([Charles Rosen, *Music and Sentiment*, 2010](http://yalepress.yale.edu/yupbooks/book.asp?isbn=9780300126402).)
