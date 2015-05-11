@@ -2,6 +2,7 @@
 layout: post
 title: "Geeking out at the annual CMU psychology holiday party: beauty and selling out"
 date: 2013-12-02T20:31:24-05:00
+url: "blog/2013/12/02/geeking-out-at-the-annual-cmu-psychology-holiday-party/"
 comments: true
 external-url: 
 categories: 

@@ -2,6 +2,7 @@
 layout: post
 title: "Hiroo Onoda and the Six Million Dollar man: what does it mean to know how to die or live?"
 date: 2014-01-17T22:50:24-05:00
+url: "blog/2014/01/17/hiroo-onoda-and-the-six-million-dollar-man/"
 comments: true
 external-url: 
 categories: 

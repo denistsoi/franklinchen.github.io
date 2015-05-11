@@ -2,6 +2,7 @@
 layout: post
 title: "James Galway made me hate flute, but Emmanuel Pahud made me love it"
 date: 2011-11-22T22:30:00
+url: "blog/2011/11/22/james-galway-made-me-hate-flute/"
 comments: true
 categories:
 - flute

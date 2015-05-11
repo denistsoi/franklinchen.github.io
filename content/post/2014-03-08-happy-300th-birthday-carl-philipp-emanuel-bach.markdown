@@ -2,6 +2,7 @@
 layout: post
 title: "Happy 300th birthday, Carl Philipp Emanuel Bach: still underappreciated after all these years!"
 date: 2014-03-08T12:00:49-05:00
+url: "blog/2014/03/08/happy-300th-birthday-carl-philipp-emanuel-bach/"
 comments: true
 external-url: 
 categories: 

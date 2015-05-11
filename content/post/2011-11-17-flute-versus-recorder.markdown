@@ -2,6 +2,7 @@
 layout: post
 title: "Flute versus recorder: why do I play both?"
 date: 2011-11-17T22:35:00
+url: "blog/2011/11/17/flute-versus-recorder/"
 comments: true
 categories:
 - music

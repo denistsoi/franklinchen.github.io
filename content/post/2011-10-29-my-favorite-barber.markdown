@@ -2,6 +2,7 @@
 layout: post
 title: "My favorite barber; fourteen years of haircuts and counting"
 date: 2011-10-29T23:00:00
+url: "blog/2011/10/29/my-favorite-barber/"
 comments: true
 categories:
 - Pittsburgh

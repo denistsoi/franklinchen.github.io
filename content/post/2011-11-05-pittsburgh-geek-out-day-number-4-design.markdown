@@ -2,6 +2,7 @@
 layout: post
 title: "Pittsburgh Geek Out Day #4: \"Design\""
 date: 2011-11-05T23:12:00
+url: "blog/2011/11/05/pittsburgh-geek-out-day-number-4-design/"
 comments: true
 external-url: 
 categories: 

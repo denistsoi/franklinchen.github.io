@@ -2,6 +2,7 @@
 layout: post
 title: "What's this about \"Columbus Day\" and Bartolomé?"
 date: 2013-10-14T19:24:50-04:00
+url: "blog/2013/10/14/whats-this-about-columbus-day-and-bartolome/"
 comments: true
 external-url: 
 categories: 

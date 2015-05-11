@@ -2,6 +2,7 @@
 layout: post
 title: "Pittsburgh Java User Group: Get Going with Git on Java Projects"
 date: 2012-02-21T20:34:00
+url: "blog/2012/02/21/pittsburgh-java-users-group-get-going-with-git-on-java-projects/"
 comments: true
 categories:
 - Pittsburgh

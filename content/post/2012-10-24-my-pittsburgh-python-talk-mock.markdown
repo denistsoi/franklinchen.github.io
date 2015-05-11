@@ -2,6 +2,7 @@
 layout: post
 title: "My Pittsburgh Python talk: \"Testing with isolation: concepts and examples using the Python standard library `mock`\""
 date: 2012-10-24T23:58:00
+url: "blog/2012/10/24/my-pittsburgh-python-talk-mock/"
 comments: true
 external-url: 
 categories: 

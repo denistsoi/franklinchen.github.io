@@ -2,6 +2,7 @@
 layout: post
 title: "Mideast Early Music Workshop 2012: a life-changing experience!!"
 date: 2012-07-21T22:43:00
+url: "blog/2012/07/21/mideast-early-music-workshop-a-life-changing-experience/"
 comments: true
 categories: 
 - music

@@ -2,6 +2,7 @@
 layout: post
 title: "Open Spaces success at the Pittsburgh Java User Group!"
 date: 2011-10-26T21:19:00
+url: "blog/2011/10/26/open-spaces-success-at-the-pittsburgh-java-users-group/"
 comments: true
 categories:
 - Pittsburgh

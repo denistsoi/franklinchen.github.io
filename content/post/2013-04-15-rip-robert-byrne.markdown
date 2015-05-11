@@ -2,6 +2,7 @@
 layout: post
 title: "RIP Robert Byrne, American chess grandmaster and columnist who gave my childhood meaning"
 date: 2013-04-15T08:50:22-04:00
+url: "blog/2013/04/15/rip-robert-byrne/"
 comments: true
 external-url: 
 categories: 

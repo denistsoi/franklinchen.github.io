@@ -2,6 +2,7 @@
 layout: post
 title: "RIP Bebo Valdés, master pianist of Cuban music"
 date: 2013-03-22T20:08:56-04:00
+url: "blog/2013/03/22/rip-bebo-valdes/"
 comments: true
 external-url:
 categories:

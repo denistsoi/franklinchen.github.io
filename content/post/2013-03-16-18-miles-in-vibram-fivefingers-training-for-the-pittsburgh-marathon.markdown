@@ -2,6 +2,7 @@
 layout: post
 title: "18 miles in Vibram FiveFingers: training for the Pittsburgh Marathon through a St. Patrick's Day parade"
 date: 2013-03-16T18:22:34-04:00
+url: "blog/2013/03/16/18-miles-in-vibram-fivefingers-training-for-the-pittsburgh-marathon/"
 comments: true
 external-url: 
 categories: 

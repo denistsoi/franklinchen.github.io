@@ -2,6 +2,7 @@
 layout: post
 title: "Improving my breakfast and other meals: a paleo progress report"
 date: 2012-01-26T09:40:00
+url: "blog/2012/01/26/improving-my-breakfast-and-other-meals/"
 comments: true
 categories:
 - diet

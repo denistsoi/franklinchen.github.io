@@ -2,6 +2,7 @@
 layout: post
 title: "Pittsburgh Geek Out Day #8: \"Learning\""
 date: 2013-03-02T16:45:31-05:00
+url: "blog/2013/03/02/pittsburgh-geek-out-day-number-8-learning/"
 comments: true
 external-url: 
 categories: 

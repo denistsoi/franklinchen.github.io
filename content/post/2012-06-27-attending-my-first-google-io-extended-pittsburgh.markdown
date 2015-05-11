@@ -2,6 +2,7 @@
 layout: post
 title: "Attending my first Google I/O Extended: Pittsburgh"
 date: 2012-06-27T22:43:00
+url: "blog/2012/06/27/attending-my-first-google-io-extended-pittsburgh/"
 comments: true
 categories: 
 - programming

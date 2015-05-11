@@ -2,6 +2,7 @@
 layout: post
 title: "Understand and use motivation contagion: everyone matters"
 date: 2014-11-09T20:35:39
+url: "blog/2014/11/09/understand-and-use-motivation-contagion/"
 comments: true
 categories:
 - psychology

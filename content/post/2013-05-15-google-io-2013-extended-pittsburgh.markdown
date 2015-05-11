@@ -2,6 +2,7 @@
 layout: post
 title: "Google I/O 2013 Extended: Pittsburgh"
 date: 2013-05-15T23:44:47-04:00
+url: "blog/2013/05/15/google-io-2013-extended-pittsburgh/"
 comments: true
 external-url: 
 categories: 

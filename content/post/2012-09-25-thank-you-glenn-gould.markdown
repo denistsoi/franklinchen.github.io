@@ -2,6 +2,7 @@
 layout: post
 title: "Thank you, Glenn Gould, for introducing me to Schönberg!"
 date: 2012-09-25T19:16:00
+url: "blog/2012/09/25/thank-you-glenn-gould/"
 comments: true
 categories: 
 - music

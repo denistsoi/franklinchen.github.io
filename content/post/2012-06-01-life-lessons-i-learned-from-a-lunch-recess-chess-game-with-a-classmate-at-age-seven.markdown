@@ -2,6 +2,7 @@
 layout: post
 title: "Life lessons I learned from a lunch recess chess game at age seven: the prequel with a classmate"
 date: 2012-06-01T13:43:00
+url: "blog/2012/06/01/life-lessons-i-learned-from-a-lunch-recess-chess-game-with-a-classmate-at-age-seven/"
 comments: true
 categories: 
 - chess

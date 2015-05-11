@@ -2,6 +2,7 @@
 layout: post
 title: "Reflections on Richard Wagner's 200th birthday: beautiful music without a future"
 date: 2013-05-22T08:14:55-04:00
+url: "blog/2013/05/22/reflections-on-richard-wagners-200th-birthday/"
 comments: true
 external-url:
 categories:

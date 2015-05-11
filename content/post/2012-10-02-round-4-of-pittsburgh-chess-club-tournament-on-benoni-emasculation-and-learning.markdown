@@ -2,6 +2,7 @@
 layout: post
 title: "Round 5 of Pittsburgh Chess Club Tournament: On Benoni \"Emasculation\" and Learning"
 date: 2012-10-02T21:35:00
+url: "blog/2012/10/02/round-4-of-pittsburgh-chess-club-tournament-on-benoni-emasculation-and-learning/"
 comments: true
 external-url: 
 categories: 

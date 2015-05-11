@@ -2,6 +2,7 @@
 layout: post
 title: "The passion of Bach's Air on the G String: three very different interpretations"
 date: 2012-09-14T06:45:00
+url: "blog/2012/09/14/passion-of-bachs-air-on-the-g-string-three-different-interpretations/"
 comments: true
 categories: 
 - music

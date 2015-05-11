@@ -2,6 +2,7 @@
 layout: post
 title: "The real reason for the CoffeeScript/JavaScript flame war"
 date: 2011-11-06T20:07:00
+url: "blog/2011/11/06/the-real-reason-for-the-coffeescript-slash-javascript-flame-war/"
 comments: true
 categories:
 - CoffeeScript

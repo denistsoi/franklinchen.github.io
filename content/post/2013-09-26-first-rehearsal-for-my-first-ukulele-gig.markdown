@@ -2,6 +2,7 @@
 layout: post
 title: "First rehearsal for my first ukulele gig: dealing with anxiety"
 date: 2013-09-26T23:09:23-04:00
+url: "blog/2013/09/26/first-rehearsal-for-my-first-ukulele-gig/"
 comments: true
 external-url: 
 categories: 

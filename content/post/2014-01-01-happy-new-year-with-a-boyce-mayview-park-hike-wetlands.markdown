@@ -2,6 +2,7 @@
 layout: post
 title: "Happy New Year with a Boyce-Mayview Park hike: wetlands, creeks, beavers, woodpeckers, waterfalls..."
 date: 2014-01-01T19:57:07-05:00
+url: "blog/2014/01/01/happy-new-year-with-a-boyce-mayview-park-hike-wetlands/"
 comments: true
 external-url: 
 categories: 

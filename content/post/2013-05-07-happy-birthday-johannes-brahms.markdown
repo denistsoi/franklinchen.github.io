@@ -2,6 +2,7 @@
 layout: post
 title: "Happy birthday, Johannes Brahms! 3 takes on a musical favorite"
 date: 2013-05-07T20:41:13-04:00
+url: "blog/2013/05/07/happy-birthday-johannes-brahms/"
 comments: true
 external-url:
 categories:

@@ -2,6 +2,7 @@
 layout: post
 title: "A Blast From the Past: C++ Abuse"
 date: 2011-10-04T21:23:00
+url: "blog/2011/10/04/a-blast-from-the-past-c-plus-plus-abuse/"
 comments: true
 categories:
 - programming

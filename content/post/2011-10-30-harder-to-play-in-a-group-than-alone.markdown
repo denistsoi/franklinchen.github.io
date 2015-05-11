@@ -2,6 +2,7 @@
 layout: post
 title: "Harder to play music in a group than alone"
 date: 2011-10-30T14:49:00
+url: "blog/2011/10/30/harder-to-play-in-a-group-than-alone/"
 comments: true
 categories:
 - music

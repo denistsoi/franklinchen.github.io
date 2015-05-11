@@ -2,6 +2,7 @@
 layout: post
 title: "Round 2 of Pittsburgh Chess Club Tournament: Very short game with  a note on psychology"
 date: 2012-11-20T20:49:00
+url: "blog/2012/11/20/round-2-of-pittsburgh-chess-club-tournament-very-short-game-with-a-note-on-psychology/"
 comments: true
 external-url: 
 categories: 

@@ -2,6 +2,7 @@
 layout: post
 title: "2013 Pittsburgh Marathon: my 135th race was the worst I finished, but I did!"
 date: 2013-05-06T20:23:08-04:00
+url: "blog/2013/05/06/2013-pittsburgh-marathon-my-135th-race-was-my-worst-i-finished/"
 comments: true
 external-url: 
 categories: 

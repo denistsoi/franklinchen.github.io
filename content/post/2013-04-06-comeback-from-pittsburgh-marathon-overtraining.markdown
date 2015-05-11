@@ -2,6 +2,7 @@
 layout: post
 title: "A comeback from Pittsburgh Marathon overtraining"
 date: 2013-04-06T15:59:23-04:00
+url: "blog/2013/04/06/comeback-from-pittsburgh-marathon-overtraining/"
 comments: true
 external-url: 
 categories: 

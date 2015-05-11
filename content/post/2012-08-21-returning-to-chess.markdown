@@ -2,6 +2,8 @@
 layout: post
 title: "Returning to chess, a lifetime sport: playing in the Pittsburgh Chess League"
 date: 2012-08-21T10:16:00
+url: "blog/2012/08/29/returning-to-chess/"
+url: "blog/2012/08/21/returning-to-chess/"
 comments: true
 categories: 
 - chess

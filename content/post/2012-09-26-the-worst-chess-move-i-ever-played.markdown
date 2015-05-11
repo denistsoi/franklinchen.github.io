@@ -2,6 +2,7 @@
 layout: post
 title: "The worst chess move I ever played: why did I do that?"
 date: 2012-09-26T23:04:00
+url: "blog/2012/09/26/the-worst-chess-move-i-ever-played/"
 comments: true
 categories: 
 - chess

@@ -2,6 +2,7 @@
 layout: post
 title: "RIP Ray Dolby: yes, I still have cassette tapes!"
 date: 2013-09-12T20:43:54-04:00
+url: "blog/2013/09/12/rip-ray-dolby-yes/"
 comments: true
 external-url: 
 categories: 

@@ -2,6 +2,7 @@
 layout: post
 title: "Missing the final Steel City Road Runners taper run because of injury and burnout"
 date: 2013-04-27T14:01:46-04:00
+url: "blog/2013/04/27/missing-the-final-steel-city-road-runners-taper-run-because-of-injury/"
 comments: true
 external-url: 
 categories: 

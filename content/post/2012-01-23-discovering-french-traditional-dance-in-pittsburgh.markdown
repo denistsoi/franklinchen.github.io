@@ -2,6 +2,7 @@
 layout: post
 title: "Discovering French traditional social dance in Pittsburgh"
 date: 2012-01-23T21:53:00
+url: "blog/2012/01/23/discovering-french-traditional-dance-in-pittsburgh/"
 comments: true
 categories:
 - Pittsburgh

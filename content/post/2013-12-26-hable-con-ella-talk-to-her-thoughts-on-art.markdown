@@ -2,6 +2,7 @@
 layout: post
 title: "Watching \"Hable con ella\" (\"Talk to her\") (2002): thoughts on art, crime, and ethics"
 date: 2013-12-26T10:38:33-05:00
+url: "blog/2013/12/26/hable-con-ella-talk-to-her-thoughts-on-art/"
 comments: true
 external-url: 
 categories:

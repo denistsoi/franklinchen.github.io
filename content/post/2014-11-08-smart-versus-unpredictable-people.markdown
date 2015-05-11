@@ -2,6 +2,7 @@
 layout: post
 title: "Smart versus unpredictable people: whom do you prefer?"
 date: 2014-11-08T11:10:13
+url: "blog/2014/11/08/smart-versus-unpredictable-people/"
 comments: true
 categories:
 - psychology

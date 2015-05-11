@@ -2,6 +2,7 @@
 layout: post
 title: "RIP Charles Rosen, pianist and scholar"
 date: 2012-12-10T22:07:00
+url: "blog/2012/12/10/rip-charles-rosen/"
 comments: true
 external-url: 
 categories: 

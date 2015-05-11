@@ -2,6 +2,7 @@
 layout: post
 title: "What can you quit today? I'm taking a break from Twitter, Facebook, and Google+"
 date: 2013-10-12T22:30:37-04:00
+url: "blog/2013/10/12/taking-a-break-from-twitter/"
 comments: true
 external-url: 
 categories:

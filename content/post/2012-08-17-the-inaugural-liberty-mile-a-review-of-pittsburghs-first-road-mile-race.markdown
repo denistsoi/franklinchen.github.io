@@ -2,6 +2,7 @@
 layout: post
 title: "The inaugural Liberty Mile: a review of Pittsburgh's first road mile race, a great community event"
 date: 2012-08-17T21:44:00
+url: "blog/2012/08/17/the-inaugural-liberty-mile-a-review-of-pittsburghs-first-road-mile-race/"
 comments: true
 categories: 
 - running

@@ -2,6 +2,7 @@
 layout: post
 title: "A pretty Rachel Carson Trail Challenge goal training hike (8.9 miles)"
 date: 2012-04-29T23:22:00
+url: "blog/2012/04/29/a-pretty-rachel-carson-trail-challenge-goal-training-hike/"
 comments: true
 categories:
 - hiking

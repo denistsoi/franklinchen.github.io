@@ -2,6 +2,7 @@
 layout: post
 title: "My second year of celebrating Johann Sebastian Bach's birthday: a tale of accidental love"
 date: 2013-03-21T20:55:43-04:00
+url: "blog/2013/03/21/my-second-year-of-celebrating-johann-sebastian-bachs-birthday/"
 comments: true
 external-url: 
 categories: 
