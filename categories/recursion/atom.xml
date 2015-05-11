@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recursion on Franklin Chen</title>
+    <link>http://franklinchen.com/categories/recursion/atom/index.xml</link>
+    <description>Recent content in Recursion on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/categories/recursion/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Why flatten a tree when you can just traverse it?</title>
+      <link>http://franklinchen.com/blog/2013/02/15/why-flatten-a-tree-when-you-can-just-traverse-it/</link>
+      <pubDate>Fri, 15 Feb 2013 15:11:08 -0500</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/02/15/why-flatten-a-tree-when-you-can-just-traverse-it/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://michaelfeathers.typepad.com/michael_feathers_blog/&#34;&gt;Michael Feathers&lt;/a&gt; wrote a blog post about &lt;a href=&#34;http://michaelfeathers.typepad.com/michael_feathers_blog/2013/02/sub-tree-selection-with-flattenselect.html&#34;&gt;avoiding explicitly traversing a tree recursively&lt;/a&gt; by taking advantage of its representation as nested arrays and using array operations to flatten.&lt;/p&gt;
+
+&lt;p&gt;I was unhappy about this solution because&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;it creates a bunch of intermediate arrays&lt;/li&gt;
+&lt;li&gt;it concatenates arrays repeatedly, which is expensive for a very large tree&lt;/li&gt;
+&lt;li&gt;the recursive solution seems more simple, clear, and efficient&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;So I wrote up the recursive solution. Some features of the solution:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;it uses Ruby&amp;rsquo;s idiomatic &lt;code&gt;yield&lt;/code&gt; construct&lt;/li&gt;
+&lt;li&gt;for convenience, it creates an &lt;code&gt;Enumerable&lt;/code&gt; so that you can do whatever you want while iterating through the tree&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Here&amp;rsquo;s the code:&lt;/p&gt;
+
+&lt;script src=&#34;https://gist.github.com/4963218.js&#34;&gt;&lt;/script&gt;
+
+</description>
+    </item>
+    
+  </channel>
+</rss>

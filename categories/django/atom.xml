@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Django on Franklin Chen</title>
+    <link>http://franklinchen.com/categories/django/atom/index.xml</link>
+    <description>Recent content in Django on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/categories/django/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Pittsburgh Python: Kenneth Reitz on Heroku</title>
+      <link>http://franklinchen.com/blog/2013/04/24/pittsburgh-python-kenneth-reitz-on-heroku/</link>
+      <pubDate>Wed, 24 Apr 2013 21:31:46 -0400</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/04/24/pittsburgh-python-kenneth-reitz-on-heroku/</guid>
+      <description>
+
+&lt;p&gt;This month, the Pittsburgh Python User Group had a &lt;a href=&#34;http://www.meetup.com/pghpython/events/107277042&#34;&gt;special guest speaker for its meeting&lt;/a&gt;, Kenneth Reitz of Heroku.&lt;/p&gt;
+
+&lt;p&gt;I was eager to see him in person, because he has been a huge contributor to the Python community. His module &lt;code&gt;requests&lt;/code&gt; (which won me over when Chad gave a lightning talk on it last year) is much-loved, as well as his opinionated and reasoned writings about documentation, API design, and packaging (as &lt;a href=&#34;../../blog/2013/02/27/pittsburgh-python-distribute-and-other-python-community-controversies/&#34;&gt;I reported on two months ago&lt;/a&gt;).&lt;/p&gt;
+
+&lt;h2 id=&#34;kenneth-reitz-s-presentation&#34;&gt;Kenneth Reitz&amp;rsquo;s presentation&lt;/h2&gt;
+
+&lt;p&gt;There was a huge turnout for this presentation. The Pittsburgh Python group has grown significantly in the past two years (I had begun attending it in January 2011 when it was meeting at Vivisimo). I think it&amp;rsquo;s because of publicity from joining Meetup.com in January 2012, and now also because it&amp;rsquo;s meeting in Google Pittsburgh.&lt;/p&gt;
+
+&lt;p&gt;Kenneth gave a very casual live demo of how to use Heroku with Python, starting by cloning a simple Django &amp;ldquo;to-do list&amp;rdquo; project, using &lt;code&gt;virtualenv&lt;/code&gt; and &lt;code&gt;pip&lt;/code&gt; to install project requirements, and then Git pushing to Heroku.&lt;/p&gt;
+
+&lt;p&gt;You can check out the &lt;a href=&#34;https://pghpy.herokuapp.com/&#34;&gt;resulting site&lt;/a&gt; and amuse yourself by checking out what Pittsburgh Python people had on their minds when randomly creating to-do items and checking them off and deleting them!&lt;/p&gt;
+
+&lt;p&gt;He gave a whirlwind tour of how to do scaling, hook up Postgres as a Heroku add-on, etc. It went by too fast for me to fully process.&lt;/p&gt;
+
+&lt;p&gt;He recommended some random cool sites to check out:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://12factor.net/&#34;&gt;The Twelve-Factor App&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://crate.io/&#34;&gt;Crate&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emacs on Franklin Chen</title>
+    <link>http://franklinchen.com/categories/emacs/atom/index.xml</link>
+    <description>Recent content in Emacs on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/categories/emacs/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>My first Pittsburgh Clojure Meetup: Ambrose Bonnaire-Sergeant on core.logic</title>
+      <link>http://franklinchen.com/blog/2011/11/15/my-first-pittsburgh-clojure-meetup-ambrose-bonnaire-sergeant-on-core-logic/</link>
+      <pubDate>Tue, 15 Nov 2011 23:12:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2011/11/15/my-first-pittsburgh-clojure-meetup-ambrose-bonnaire-sergeant-on-core-logic/</guid>
+      <description>&lt;p&gt;I finally attended a &lt;a href=&#34;http://www.meetup.com/Clojure-PGH/events/16249445/&#34;&gt;meeting&lt;/a&gt; of the local &lt;a href=&#34;http://www.meetup.com/Clojure-PGH/&#34;&gt;Pittsburgh Clojure meetup&lt;/a&gt; group, for the first time!&lt;/p&gt;
+
+&lt;p&gt;I came to this meeting largely because I heard that Ambrose Bonnaire-Sergeant, a student in Australia, was visiting the US &lt;a href=&#34;http://cemerick.com/2011/11/08/ambrose-has-received-his-clojure-scholarship-thanks-to-you/&#34;&gt;on scholarship&lt;/a&gt; to present at &lt;a href=&#34;https://github.com/relevance/clojure-conj/tree/master/2011-slides&#34;&gt;Clojure/Conj&lt;/a&gt; and was happening to be in town in Pittsburgh, and therefore was going to visit the Pittsburgh Clojure meetup group and talk about his recent work on logic programming.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;a-note-on-clojure&#34;&gt;A note on Clojure&lt;/h2&gt;
+
+&lt;p&gt;I confess I haven&amp;rsquo;t yet done anything with the Clojure language.&lt;/p&gt;
+
+&lt;p&gt;However, two decades ago, back in the 1990s, I spent a lot of time programming in Scheme, another Lisp variant, and I also did a tiny bit of programming in Common Lisp (but when I discovered Scheme, I basically lost all interest in Common Lisp).&lt;/p&gt;
+
+&lt;p&gt;It is remarkable to me that a Lisp has become revived again recently, because for decades it was always such a niche language. Probably most of us who have used Lisp at all have done so through Emacs, which is configured using Emacs Lisp. I&amp;rsquo;m pretty excited about the Lisp revival, despite my having my own reasons not to prefer Lisp right now for my own programming.&lt;/p&gt;
+
+&lt;h2 id=&#34;ambrose-s-presentation&#34;&gt;Ambrose&amp;rsquo;s presentation&lt;/h2&gt;
+
+&lt;p&gt;I got lost during Ambrose&amp;rsquo;s presentation since the logic programming library &lt;a href=&#34;https://github.com/clojure/core.logic&#34;&gt;&lt;code&gt;core.logic&lt;/code&gt;&lt;/a&gt; is an embedded domain-specific language with its own look. One of the advantages of Lisp is that macros enable creating domain-specific languages; of course, this is also a disadvantage. If I wanted to understand &lt;code&gt;core.logic&lt;/code&gt;, I would have to go off on my own and study it and play around with it and probably even study its implementation.&lt;/p&gt;
+
+&lt;p&gt;This is how I felt also last month when I went to a &lt;a href=&#34;../../blog/2011/10/06/pittsburgh-ruby-building-a-compiler-in-jruby/&#34;&gt;Ruby meetup that also involved domain-specific languages&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

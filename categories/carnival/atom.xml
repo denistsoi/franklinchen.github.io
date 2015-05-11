@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Carnival on Franklin Chen</title>
+    <link>http://franklinchen.com/categories/carnival/atom/index.xml</link>
+    <description>Recent content in Carnival on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/categories/carnival/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Going out too fast yet again in my third Random Distance Run</title>
+      <link>http://franklinchen.com/blog/2013/04/19/going-out-too-fast-yet-again-in-my-third-random-distance-run/</link>
+      <pubDate>Fri, 19 Apr 2013 22:38:23 -0400</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/04/19/going-out-too-fast-yet-again-in-my-third-random-distance-run/</guid>
+      <description>&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/random-distance-run-2013.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;CMU Random Distance Run 2013&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;For the third time, I ran in the annual &lt;a href=&#34;http://www.cs.cmu.edu/~RDR/&#34;&gt;Random Distance Run&lt;/a&gt; held on the 400m outdoor track at Carnegie Mellon University. It was a cold, rainy Friday afternoon.&lt;/p&gt;
+
+&lt;p&gt;This was also my first race ever while wearing my Luna Sandals (the 7mm Venado).&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;history&#34;&gt;History&lt;/h2&gt;
+
+&lt;p&gt;The Random Distance Run first came to CMU &lt;a href=&#34;http://www.cs.cmu.edu/~RDR/results-2003.html&#34;&gt;in 2003&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The concept is very geeky. What happens is that a giant pair of six-sided dice are rolled, and the sum of the rolls is how many laps you have to run around the track: so the minimum number of total laps is 2 (800m) and the maximum is 12 (4.8K).&lt;/p&gt;
+
+&lt;p&gt;The catch is that &lt;em&gt;only one die&lt;/em&gt; is rolled before the race begins, and then the second die is rolled only when the fastest runner is about to finish the number of laps from the first die. The second die indicates how many more laps to run.&lt;/p&gt;
+
+&lt;p&gt;Therefore, there is an element of luck to who the winner of the race is: someone who went out very fast and then got lucky with a roll of a 1 for the second die could conceivably beat someone who was a fitter runner but went out conservatively for the first die and then found it too late to sprint for an additional lap.&lt;/p&gt;
+
+&lt;p&gt;Since I am not a very fast runner, these gambles don&amp;rsquo;t really apply to me: my most rational strategy (to avoid a lot of suffering while avoiding going much too slow) would seem to be to run at a pace that is correct for the number of laps for the first die plus 3, or something like that.&lt;/p&gt;
+
+&lt;h2 id=&#34;my-first-random-distance-run-2003&#34;&gt;My first Random Distance Run (2003)&lt;/h2&gt;
+
+&lt;p&gt;However, in my first Random Distance Run, ten years ago, I accidentally went out too fast even given my intent. Not normally running on a track, I have always found it hard to gauge my pace accurately.&lt;/p&gt;
+
+&lt;p&gt;The rolls were 4 and 2, for a total of 6 laps (2.4K).&lt;/p&gt;
+
+&lt;p&gt;For the first die, I went out too fast in the first lap, then tried to slow down to a sustainable pace:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;1:22.34&lt;/li&gt;
+&lt;li&gt;1:38.67&lt;/li&gt;
+&lt;li&gt;1:43.68&lt;/li&gt;
+&lt;li&gt;1:42.63&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Since the second die was low, I sped back up to complete the final two laps:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;1:37.22&lt;/li&gt;
+&lt;li&gt;1:33.07&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The winner of the 2003 Random Distance Run did in fact gamble for the win, shooting out really fast for the first 4 laps, and the gamble paid off, as you can see in the &lt;a href=&#34;http://www.cs.cmu.edu/~RDR/results-2003.html&#34;&gt;results&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;my-second-random-distance-run-2006&#34;&gt;My second Random Distance Run (2006)&lt;/h2&gt;
+
+&lt;p&gt;In &lt;a href=&#34;http://www.cs.cmu.edu/~RDR/results-2006.html&#34;&gt;2006&lt;/a&gt;, the rolls were 6 and 5, for a total of 11 laps (4.4K). I still went out too fast in the first lap, but did slow down enough to not completely die.&lt;/p&gt;
+
+&lt;p&gt;First die:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;1:32.08&lt;/li&gt;
+&lt;li&gt;1:42.27&lt;/li&gt;
+&lt;li&gt;1:43.90&lt;/li&gt;
+&lt;li&gt;1:45.82&lt;/li&gt;
+&lt;li&gt;1:44.93&lt;/li&gt;
+&lt;li&gt;1:50.55&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Second die:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;1:50.41&lt;/li&gt;
+&lt;li&gt;1:53.89&lt;/li&gt;
+&lt;li&gt;1:54.57&lt;/li&gt;
+&lt;li&gt;1:51.49&lt;/li&gt;
+&lt;li&gt;1:42.85&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The winner in this year, Arjun, scored partially because he was a fast-improving runner who was not known among the favorites who were in the race. They didn&amp;rsquo;t know who he was and let him go ahead thinking he would die, but he was strong and they couldn&amp;rsquo;t catch up in the second half! I still remember them at the end of the race basically asking, &amp;ldquo;Who is this guy?&amp;rdquo;&lt;/p&gt;
+
+&lt;h2 id=&#34;my-third-random-distance-run-2013&#34;&gt;My third Random Distance Run (2013)&lt;/h2&gt;
+
+&lt;p&gt;Again, this year, &lt;a href=&#34;http://www.cs.cmu.edu/~RDR/results-2013.html&#34;&gt;2013&lt;/a&gt;, I had no real track training. Furthermore, I am nowhere as fit as I was seven or ten years ago, and in addition, ran the race as part of a very tough final training week for the Pittsburgh Marathon, so this race was just for fun.&lt;/p&gt;
+
+&lt;p&gt;Worst of all, I had eaten a rather large, heavy lunch, thanks to the annual CMU Carnival BBQ:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/cmu-carnival-bbq-2013.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;CMU Carnival BBQ 2013&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Not the kind of food I eat every day, and certain not just before a serious race!&lt;/p&gt;
+
+&lt;p&gt;It was 3 and 3 for a total of 6 laps (2.4K).&lt;/p&gt;
+
+&lt;p&gt;I went out too fast, then deliberately slowed down. Actually, I ended up slowing down too much, because in the final lap I sped up and had more left than I gave. I did put in a silly ferocious finishing sprint that resulted in beating two runners ahead of me by almost four seconds.&lt;/p&gt;
+
+&lt;p&gt;First die:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;1:36&lt;/li&gt;
+&lt;li&gt;1:48&lt;/li&gt;
+&lt;li&gt;1:51&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Second die:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;1:55&lt;/li&gt;
+&lt;li&gt;1:54&lt;/li&gt;
+&lt;li&gt;1:44&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Amusingly, the runner I beat at the end was the same one I ended up beating near the end of the &lt;a href=&#34;../../blog/2012/09/07/running-my-8th-pretty-good-race-5k-dealing-with-disappointment/&#34;&gt;Pretty Good Race&lt;/a&gt; last year. I hadn&amp;rsquo;t actually realized during the race that it was her again that was my target.&lt;/p&gt;
+
+&lt;p&gt;My legs felt banged up after the race, from not only the cumulative fatigue of my marathon training for the week, but also because of that sprint I did. It was probably unwise of me to have thrown that in there, given that tomorrow morning I am scheduled to do a tough training run.&lt;/p&gt;
+
+&lt;h2 id=&#34;cool-t-shirt&#34;&gt;Cool T-shirt&lt;/h2&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/random-distance-run-2013-t-shirt-front.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;CMU Random Distance Run 2013 T-shirt front&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/random-distance-run-2013-t-shirt-back.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;CMU Random Distance Run 2013 T-shirt back&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;I enjoyed returning to doing the annual CMU Random Distance Run. Unfortunately, I&amp;rsquo;ve run it poorly each year that I&amp;rsquo;ve done it, going out too fast. I plan to run this race again next year but actually do some preparation ahead of time in order to figure out how to run consistently on the track amidst the mayhem of slow and fast and lapped runners. I guess I&amp;rsquo;ll need to watch what I eat on the day of the race, as well.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Commuting on foot during CMU Carnival week as cross-training for the Pittsburgh Marathon</title>
+      <link>http://franklinchen.com/blog/2013/04/19/commuting-on-foot-during-cmu-carnival-week-as-cross-training-for-the-pittsburgh-marathon/</link>
+      <pubDate>Fri, 19 Apr 2013 22:10:14 -0400</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/04/19/commuting-on-foot-during-cmu-carnival-week-as-cross-training-for-the-pittsburgh-marathon/</guid>
+      <description>&lt;p&gt;Last year, I reported on deciding to &lt;a href=&#34;../../blog/2012/04/16/one-week-of-commuting-on-foot-because-of-cmu-carnival/&#34;&gt;walk to work and back home during CMU Carnival week in order to avoid the hassles of parking on campus&lt;/a&gt;. This year, I decided to do this again, but with a twist.&lt;/p&gt;
+
+&lt;p&gt;I considered my commute to be a deliberate part of cross-training for the Pittsburgh Marathon.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/schenley-drive-carnival-week-2013.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Walking on Schenley Drive during CMU Carnival week 2013&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;iframe width=&#34;420&#34; height=&#34;315&#34; src=&#34;http://www.youtube.com/embed/2YjLH7SIHaQ&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;why-walk-instead-of-run&#34;&gt;Why walk instead of run?&lt;/h2&gt;
+
+&lt;p&gt;You might think that I would just run to work and back home, but the logistics were too complicated because of clothing, laptop, and other issues. I ran in to work this week just one time; otherwise, I walked.&lt;/p&gt;
+
+&lt;p&gt;More important, I feel that walking is greatly underrated as a fitness activity. Here is one of many recent articles, for example, reporting that &lt;a href=&#34;http://www.theatlantic.com/health/archive/2013/04/study-walking-can-be-as-good-as-running/274738/&#34;&gt;walking has many underrated health benefits&lt;/a&gt;. Unfortunately, I think the tone of this article is part of the problem: the title is &amp;ldquo;Study: walking can be as good as running&amp;rdquo;, which is just sensationalist drivel. I don&amp;rsquo;t see walking and running as competitors at all. They are just two different activities, with different benefits, really. High-intensity running, for example, does a lot that walking does not do. But walking is less stressful, is slower, takes more time to cover a particular distance, is more meditative and in many cases more sociable (since running paces differ more than walking paces). Both are great.&lt;/p&gt;
+
+&lt;h2 id=&#34;total-mileage&#34;&gt;Total mileage&lt;/h2&gt;
+
+&lt;p&gt;I ended up walking about 12 miles total more than I normally walk during the week. Note that this is less than the total of the distances between home and office because when I drive in to work, I have to walk the distance between the parking lot and the office.&lt;/p&gt;
+
+&lt;h2 id=&#34;footwear-concerns-over-the-luna-sandals&#34;&gt;Footwear: concerns over the Luna Sandals&lt;/h2&gt;
+
+&lt;p&gt;I took the opportunity to put more mileage onto my Luna Sandals, which I&amp;rsquo;ve been wearing for all my running in recent weeks. I figured that the more time I spend on these minimalist sandals, the more prepared I will be for the sustained impact of running the whole Pittsburgh Marathon in them. Also, I needed more time to get used to the lacing system.&lt;/p&gt;
+
+&lt;p&gt;It turned out that the extra 12 miles on my feet really made a difference in how much more stress on my feet I felt during this training week: not just soreness in my soles, but also some issues with drying, cracking skin.&lt;/p&gt;
+
+&lt;h3 id=&#34;cushioned-shoes&#34;&gt;Cushioned shoes&lt;/h3&gt;
+
+&lt;p&gt;After yesterday, I decided I needed a break from all the walking, and so on Friday, I drove to work, parking on Circuit Road, and walking less than half a mile to my office from there, and in my &lt;a href=&#34;http://www.amazon.com/Rockport-Mens-Westshire-Oxford-Black/dp/B000VRUX54&#34;&gt;Rockport Westshire casual shoes&lt;/a&gt; rather than any minimalist shoes! I did this especially because of the &lt;a href=&#34;../../blog/2013/04/19/going-out-too-fast-yet-again-in-my-third-random-distance-run/&#34;&gt;Random Distance Run I did in my Luna Sandals&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-mono&#34;&gt;The Mono&lt;/h3&gt;
+
+&lt;p&gt;I also finally decided to order a pair of thicker Luna Sandals, the new &lt;a href=&#34;http://www.lunasandals.com/products/37-mono&#34;&gt;Mono&lt;/a&gt;, which are 12 mm thick rather than the 7 mm of the Venado I&amp;rsquo;m currently wearing:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://s3.amazonaws.com/lunastore/images/279/full.jpg?1357775828&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Luna Sandals, Mono&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;There&amp;rsquo;s a review of these huaraches on &lt;a href=&#34;http://birthdayshoes.com/luna-mono-huaraches-barefoot-sandals-review&#34;&gt;Birthday Shoes&lt;/a&gt;. I will almost certainly &lt;em&gt;not&lt;/em&gt; be receiving these huaraches in time to break in and use in the Pittsburgh Marathon, but I expect to use them this summer for walking around in and longer runs.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;It was unexpected to me how much more fat burning and soreness for my feet the extra 12 miles of walking this week gave me. I had to eat more just to maintain my weight, and I was so ready to take a break from minimalist shoes. I did decide to order a thicker running sandal for future running and walking.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>One week of commuting on foot because of CMU Carnival</title>
+      <link>http://franklinchen.com/blog/2012/04/16/one-week-of-commuting-on-foot-because-of-cmu-carnival/</link>
+      <pubDate>Mon, 16 Apr 2012 19:57:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/04/16/one-week-of-commuting-on-foot-because-of-cmu-carnival/</guid>
+      <description>&lt;p&gt;This week, the Morewood Parking Lot, where I have an annual parking permit for commuting to work at Carnegie Mellon University, is being used for the annual &lt;a href=&#34;http://www.contrib.andrew.cmu.edu/~sc0v/&#34;&gt;CMU Spring Carnival&lt;/a&gt;, so this year I opted for the new possibility opened up by &lt;a href=&#34;http://www.cmu.edu/parking/&#34;&gt;CMU Parking Services&lt;/a&gt; to volunteer to not park in my lot, in order to reduce demand for parking. In return, I get a $50 credit toward my parking fee.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/walk-home-from-cmu/morewood-lot-carnival.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;(A photo from the &lt;a href=&#34;http://www.contrib.andrew.cmu.edu/~sc0v/webcam.html&#34;&gt;CMU Carnival live webcam&lt;/a&gt;.)&lt;/p&gt;
+
+&lt;p&gt;So today I walked two miles to work and another two back home, taking about thirty minutes each way at a fairly brisk pace.&lt;/p&gt;
+
+&lt;p&gt;Why was I so eager to volunteer?&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-pain-of-parking-during-carnival-week&#34;&gt;The pain of parking during Carnival week&lt;/h2&gt;
+
+&lt;p&gt;I have been paying for parking in the Morewood Lot for over a decade (with only one year in which I parked in the East Campus Garage). Every year, parking during Carnival week is a nightmare. Since the lower lot is closed, the result is that the rest of the lot fills quickly and you end up having to park in the East Campus Garage, spending over five minutes (according to my actual measurements) to drive up to the top and be guided to park somewhere, if you&amp;rsquo;re lucky. I already hate parking in the East Campus Garage, for a variety of reasons, and the added congestion and time only makes the experience worse.&lt;/p&gt;
+
+&lt;h2 id=&#34;why-do-i-drive-to-and-park-at-work-at-all&#34;&gt;Why do I drive to and park at work at all?&lt;/h2&gt;
+
+&lt;p&gt;I have, of course, walked (or run) to work occasionally in the past, but it was not a regular habit, given that I pay for an expensive parking spot. I like to drive to work because of the conveniences:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;not as exposed to the elements (cold, hot, snow, rain, etc.)&lt;/li&gt;
+&lt;li&gt;saves &amp;ldquo;a lot of&amp;rdquo; time: ten minutes to get to work rather than thirty (actually, this is false: the driving time may be ten minutes from home to getting out of parked car, and then it takes another ten minutes to walk from the lot to my office, for a total of twenty minutes)&lt;/li&gt;
+&lt;li&gt;much easier to haul stuff around, such as books and printouts and glass Pyrex containers for my lunches&lt;/li&gt;
+&lt;li&gt;in a typical week I need to drive somewhere immediately after work, e.g., a Meetup event on the North Shore or some other such place&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;goal-force-myself-to-do-more-walking&#34;&gt;Goal: force myself to do more walking&lt;/h2&gt;
+
+&lt;p&gt;I do some running approximately every other day, but I haven&amp;rsquo;t been doing much plain old walking (sadly, I have not even done long hikes in the woods recently). I decided it would be a good opportunity to see what happens (mentally and physically) if I walk two miles to work, and two miles back home, every day.&lt;/p&gt;
+
+&lt;h2 id=&#34;why-not-run-instead-of-walk&#34;&gt;Why not run instead of walk?&lt;/h2&gt;
+
+&lt;p&gt;I have run to work in the past, but only when I had a way to deal with the following issues:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;change of clothing&lt;/li&gt;
+&lt;li&gt;hauling my stuff (easier to do when walking)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;why-not-take-the-bus&#34;&gt;Why not take the bus?&lt;/h2&gt;
+
+&lt;p&gt;Since I work at CMU, I get &amp;ldquo;free&amp;rdquo; &lt;a href=&#34;http://www.portauthority.org/&#34;&gt;city bus&lt;/a&gt; service. I take the bus quite infrequently; there is a stop a block away from my home, so it is definitely always an option.&lt;/p&gt;
+
+&lt;p&gt;But I have hated buses all my life, since riding them as a kid in New York City, and riding them elsewhere. In high school, I often chose to walk rather than ride a bus. In college, I also chose to walk rather than ride a bus; sometimes I would even walk an entire hour to get from one end of campus to the next.&lt;/p&gt;
+
+&lt;p&gt;Why I don&amp;rsquo;t like buses:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;air pollution: I have a strong belief that there is a lot of carbon monoxide and other noxious gases in and around buses that are why I feel nauseous whenever I am on a bus&lt;/li&gt;
+&lt;li&gt;waiting: I have lived in some places such as Pittsburgh where bus service leaves much to be desired, with long waits; I have observed in the past that by running, I can already go a mile before I see any bus going where I want to go, catching up to me!&lt;/li&gt;
+&lt;li&gt;overcrowding: it&amp;rsquo;s not entirely predictable whether you can even get onto a bus that arrives&lt;/li&gt;
+&lt;li&gt;passivity: if it&amp;rsquo;s not going to save me much time, and has down sides, I might as well be active and walk!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;why-not-ride-my-bike&#34;&gt;Why not ride my bike?&lt;/h2&gt;
+
+&lt;p&gt;To be frank, I think of bike riding in Pittsburgh as scary. Things are much, much better now than they used to be, but I just don&amp;rsquo;t feel comfortable riding my bike around.&lt;/p&gt;
+
+&lt;p&gt;Maybe some day I&amp;rsquo;ll change my mind, but not right now.&lt;/p&gt;
+
+&lt;h2 id=&#34;should-i-try-my-old-razor-kick-scooter&#34;&gt;Should I try my old Razor kick scooter?&lt;/h2&gt;
+
+&lt;p&gt;I have a &lt;a href=&#34;http://www.razor.com/&#34;&gt;Razor&lt;/a&gt; kick scooter that I bought over a decade ago when it suddenly became a big fad. I had plans to use it for various purposes (including working my leg muscles around a track), but actually never got around to using it.&lt;/p&gt;
+
+&lt;p&gt;I am considering trying it out to supplement walking to work, but have some reservations. We&amp;rsquo;ll see whether I try it out this week.&lt;/p&gt;
+
+&lt;h2 id=&#34;some-photos-of-today-s-walk-home&#34;&gt;Some photos of today&amp;rsquo;s walk home&lt;/h2&gt;
+
+&lt;p&gt;I feared that a thunderstorm might hit this evening (it did not), so I walked pretty quickly home.&lt;/p&gt;
+
+&lt;p&gt;Schenley Drive is the most direct way to get into Squirrel Hill, where I live. Amusingly, my boss passed me on his bike while I was walking along:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/walk-home-from-cmu/walking-home-on-schenley-drive.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Residential Squirrel Hill arrives right after the golf course:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/walk-home-from-cmu/darlington-murdoch.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Going down Murray Avenue:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/walk-home-from-cmu/south-on-murray-ave.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;I felt great (if sweaty) after my quick walk home tonight. I have tended to feel tired when coming home from work. It may be that all I really need is a nice walk to give me some air and circulation before dinner time. I look forward to doing more walking the rest of this week.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

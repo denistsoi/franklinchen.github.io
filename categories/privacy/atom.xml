@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Privacy on Franklin Chen</title>
+    <link>http://franklinchen.com/categories/privacy/atom/index.xml</link>
+    <description>Recent content in Privacy on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/categories/privacy/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Happy 10th birthday Firefox! Thoughts on using Firefox, abandoning it, and returning to it again</title>
+      <link>http://franklinchen.com/blog/2014/11/10/happy-10th-birthday-firefox/</link>
+      <pubDate>Mon, 10 Nov 2014 20:09:02 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2014/11/10/happy-10th-birthday-firefox/</guid>
+      <description>
+
+&lt;p&gt;Today &lt;a href=&#34;http://www.mozilla.org/&#34;&gt;Mozilla&lt;/a&gt; launched a 10th birthday celebration for its Firefox Web browser. Mozilla just released both a &lt;a href=&#34;http://arstechnica.com/information-technology/2014/11/developer-edition-and-privacy-are-firefoxs-10th-birthday-present-for-the-world/&#34;&gt;developer version of Firefox as well as a new feature in regular Firefox to help users control their privacy&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Check out their video &amp;ldquo;Firefox: Choose independent&amp;rdquo;:&lt;/p&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/LtOGa5M8AuU&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&#34;my-use&#34;&gt;My use&lt;/h2&gt;
+
+&lt;p&gt;I use Firefox daily on all my work and personal machines (including my Android phone), have it installed on Abby&amp;rsquo;s, and on the computers of my parents as well as my parents-in-law! I love Firefox for its independence, adherence to open standards, high performance and reliability, syncing of my preferences and other data across multiple devices, and fantastic ecosystem of extensions.&lt;/p&gt;
+
+&lt;h2 id=&#34;history&#34;&gt;History&lt;/h2&gt;
+
+&lt;p&gt;I have used Firefox &lt;a href=&#34;http://en.wikipedia.org/wiki/History_of_Firefox&#34;&gt;since&lt;/a&gt; before it was called Firefox. I used it when it was Phoenix. I used it when it was Firebird. (For a long time, the user profile information was still stored in a directory named &amp;ldquo;phoenix&amp;rdquo;!)&lt;/p&gt;
+
+&lt;p&gt;Before Firefox, I started using the Web twenty years ago through &lt;a href=&#34;http://en.wikipedia.org/wiki/Netscape_Navigator&#34;&gt;Netscape Navigator&lt;/a&gt;, the ancestor of Firefox. It was so exciting using the Web in 1994 when the Web was brand new; I would dial up through my modem hooked up to my Macintosh SE/30 and patiently wait for pages to load.&lt;/p&gt;
+
+&lt;p&gt;I continued to use Netscape in the late 1990s (when I switched to Linux for my personal and work machines) until it started stagnating, and I switched to &lt;a href=&#34;http://en.wikipedia.org/wiki/Galeon&#34;&gt;Galeon&lt;/a&gt; around 2000. I switched to Phoenix in 2003 because Galeon was just too buggy, then lived through its short rename as Firebird before it became Firefox.&lt;/p&gt;
+
+&lt;h2 id=&#34;confession-about-a-brief-abandonment&#34;&gt;Confession about a brief abandonment&lt;/h2&gt;
+
+&lt;p&gt;At some point in 2012, Firefox entered an unstable phase in which it was slow and buggy and became unusable to me. I was very sad. In fact, for the first time in my life then, I tried out Google Chrome. It worked great, and I ditched Firefox. I was very sad about my decision, because I want Firefox to succeed, it being a truly &lt;em&gt;independent&lt;/em&gt; browser, not owned by any for-profit corporation. Microsoft used Internet Explorer to damage the open Web, and I do not want a repeat of the same story. But the reality was, Firefox had become unusable to me, so I had to switch!&lt;/p&gt;
+
+&lt;p&gt;Luckily, several months later, when I tried out Firefox again, it was usable again, and also kept improving as well, being no longer just adequate but very reliable for me, and I switched back happily.&lt;/p&gt;
+
+&lt;p&gt;I am grateful that Firefox exists and continues to thrive. Thank you, Mozilla!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Which is your preferred Web browser? Why? Do you care about the implications of independence, or do you only care about the technical and user-end aspects of Web browser choice?&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

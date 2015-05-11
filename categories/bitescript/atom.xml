@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bitescript on Franklin Chen</title>
+    <link>http://franklinchen.com/categories/bitescript/atom/index.xml</link>
+    <description>Recent content in Bitescript on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/categories/bitescript/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Pittsburgh Java User Group: Developing Languages Using JRuby</title>
+      <link>http://franklinchen.com/blog/2012/01/24/pittsburgh-java-user-group-developing-languages-using-jruby/</link>
+      <pubDate>Tue, 24 Jan 2012 22:23:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/01/24/pittsburgh-java-user-group-developing-languages-using-jruby/</guid>
+      <description>
+
+&lt;p&gt;Tonight at PittJUG, Chris Umbel gave a version of the talk he did for the Pittsburgh Ruby group a couple of months ago. You can read my report on that &lt;a href=&#34;../../blog/2011/10/06/pittsburgh-ruby-building-a-compiler-in-jruby/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;You might wonder why I attended the PittJUG meeting then, if I already heard the talk. The fact is, I&amp;rsquo;ve learned that the most value I get from attending these user group meetings is not so much the presentations (although I get considerable value, actually, from learning about good or not so good presentation techniques), but just hanging out to chat before and after a presentation, whether about the topic of the presentation or not.&lt;/p&gt;
+
+&lt;h2 id=&#34;presentation-materials&#34;&gt;Presentation materials&lt;/h2&gt;
+
+&lt;p&gt;Greg has uploaded Chris&amp;rsquo;s slides as well as a video of the PittJUG talk:&lt;/p&gt;
+
+&lt;iframe src=&#34;http://www.slideshare.net/slideshow/embed_code/11327294&#34; width=&#34;427&#34; height=&#34;356&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px&#34; allowfullscreen webkitallowfullscreen mozallowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;http://www.slideshare.net/akinsgre/building-a-compiler-in-jruby&#34; title=&#34;Building a compiler in JRuby&#34; target=&#34;_blank&#34;&gt;Building a compiler in JRuby&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;http://www.slideshare.net/akinsgre&#34; target=&#34;_blank&#34;&gt;akinsgre&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/wvg1m-lyKsU&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pittsburgh Ruby: Building a Compiler in JRuby</title>
+      <link>http://franklinchen.com/blog/2011/10/06/pittsburgh-ruby-building-a-compiler-in-jruby/</link>
+      <pubDate>Thu, 06 Oct 2011 22:29:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2011/10/06/pittsburgh-ruby-building-a-compiler-in-jruby/</guid>
+      <description>
+
+&lt;p&gt;Tonight I attended the meeting of the &lt;a href=&#34;http://pghrb.heroku.com/&#34;&gt;Pittsburgh Ruby group&lt;/a&gt; at Vivisimo. It&amp;rsquo;s been a year now since I first discovered the Pittsburgh Ruby group and finally attended my first meeting as an initial non-Rubyist on November 4, 2010, at the encouragement of Bruce, who said it was a friendly group.&lt;/p&gt;
+
+&lt;h2 id=&#34;presentation&#34;&gt;Presentation&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.chrisumbel.com/&#34;&gt;Chris Umbel&lt;/a&gt; gave a talk, &amp;ldquo;Building a compiler in JRuby&amp;rdquo;. Basically, he was inspired by Ian Dee&amp;rsquo;s work with a toy language &lt;a href=&#34;https://github.com/undees/thnad&#34;&gt;Thnad&lt;/a&gt; at JRubyConf 2011 to illustrate writing a simple compiler, and decided to do similarly, inventing &amp;ldquo;sucklang&amp;rdquo;, a &amp;ldquo;language that sucks&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;The room was totally packed! Clearly there was great interest in this topic.&lt;/p&gt;
+
+&lt;p&gt;The main tools used were:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://kschiess.github.com/parslet/&#34;&gt;Parslet&lt;/a&gt;, a parser combinator library for Ruby&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/headius/bitescript&#34;&gt;Bitescript&lt;/a&gt;, a Java bytecode generation library for Ruby&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The interesting thing to me was how both these tools involved internal &lt;a href=&#34;http://en.wikipedia.org/wiki/Domain-specific_language&#34;&gt;domain-specific languages (DSLs)&lt;/a&gt;, really showcasing how easy it is to create internal DSLs for Ruby. The down side, of course, is that not having been familiar with these tools before the talk, I was totally bewildered as Chris sped through overviews of them! I did make a note to investigate the libraries later.&lt;/p&gt;
+
+&lt;p&gt;It is definitely cool that with these DSLs, you can get up and going quickly to implement a toy language.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

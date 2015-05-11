@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computers on Franklin Chen</title>
+    <link>http://franklinchen.com/categories/computers/atom/index.xml</link>
+    <description>Recent content in Computers on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/categories/computers/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The Chess Improver: The double-edged nature of computer-based preparation</title>
+      <link>http://franklinchen.com/blog/2013/10/31/the-chess-improver-the-double-edged-nature-of-computer-based-preparation/</link>
+      <pubDate>Thu, 31 Oct 2013 07:59:23 -0400</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/10/31/the-chess-improver-the-double-edged-nature-of-computer-based-preparation/</guid>
+      <description>&lt;p&gt;For &lt;a href=&#34;http://chessimprover.com/&#34;&gt;The Chess Improver&lt;/a&gt;, I wrote about &lt;a href=&#34;http://chessimprover.com/the-double-edged-nature-of-computer-based-preparation/&#34;&gt;the double-edge natures of computer-based preparation&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Chess Improver: The computer plays the exchange sacrifice</title>
+      <link>http://franklinchen.com/blog/2013/10/24/the-chess-improver-the-computer-plays-the-exchange-sacrifice/</link>
+      <pubDate>Thu, 24 Oct 2013 09:02:10 -0400</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/10/24/the-chess-improver-the-computer-plays-the-exchange-sacrifice/</guid>
+      <description>&lt;p&gt;I saw a fascinating chess computer game and analyzed it for &lt;a href=&#34;http://chessimprover.com/&#34;&gt;The Chess Improver&lt;/a&gt;: &lt;a href=&#34;http://chessimprover.com/the-computer-plays-the-exchange-sacrifice/&#34;&gt;The computer plays the exchange sacrifice&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Modern chess: computers shutting down opening theory, part 2</title>
+      <link>http://franklinchen.com/blog/2013/01/18/modern-chess-computers-shutting-down-opening-theory-part-2/</link>
+      <pubDate>Fri, 18 Jan 2013 22:37:17 -0500</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/01/18/modern-chess-computers-shutting-down-opening-theory-part-2/</guid>
+      <description>
+
+&lt;p&gt;Last September, I described how a &lt;a href=&#34;../../blog/2012/09/24/a-fact-of-modern-chess-computers-shutting-down-opening-theory/&#34;&gt;shocking chess opening novelty&lt;/a&gt; illustrates the subtlety of human chess preparation and the psychology of practical play.&lt;/p&gt;
+
+&lt;p&gt;I had no idea that an even bigger shock was to come, in the very same chess opening variation.&lt;/p&gt;
+
+&lt;h2 id=&#34;critical-position&#34;&gt;Critical position&lt;/h2&gt;
+
+&lt;p&gt;This is a critical position of the &lt;a href=&#34;http://en.wikipedia.org/wiki/Semi-Slav_Defense#Meran_Variation:_6.Bd3&#34;&gt;Meran Variation of the Semi-Slav&lt;/a&gt;, White to play:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://images.huffingtonpost.com/2013-01-17-Anand1.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Meran&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Last September, Topalov as White played the natural &lt;code&gt;12 b4&lt;/code&gt;, but that led to the stunning sacrifice &lt;code&gt;12...c5&lt;/code&gt; that leads to a draw for Black. As I said in my blog post: &amp;ldquo;What this novelty means is that anyone playing White going into this opening variation in the future cannot play the obvious &amp;ldquo;best&amp;rdquo; move &lt;code&gt;12 b4&lt;/code&gt;, because it results in a draw.&amp;rdquo;&lt;/p&gt;
+
+&lt;h2 id=&#34;what-else-for-white-to-try&#34;&gt;What else for White to try?&lt;/h2&gt;
+
+&lt;p&gt;So in a recent game between Aronian and Anand (&lt;a href=&#34;http://www.huffingtonpost.com/lubomir-kavalek/amazing-chess-brilliancy_b_2497593.html&#34;&gt;full annotated game here&lt;/a&gt;), Aronian deviated by playing instead &lt;code&gt;12 Ng5&lt;/code&gt;, sidestepping the known draw.&lt;/p&gt;
+
+&lt;p&gt;But amazingly, Anand, as Black played &lt;code&gt;12...c5&lt;/code&gt; anyway!! It looks insane. If it&amp;rsquo;s an acceptable move, then surely Aronian must have done his own computer research ahead of time to deal with it?&lt;/p&gt;
+
+&lt;p&gt;No, he clearly had not seen everything coming, because after the amazing sacrifice &lt;code&gt;15...Bc5&lt;/code&gt;, Aronian played a poor move, which led to the astounding &lt;code&gt;15...Nde5&lt;/code&gt; by Anand leading to this position:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://images.huffingtonpost.com/2013-01-17-Anand3.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Near the end&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Anand then won the game after several more moves.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;It may have been his most brilliant game in his career, and will definitely be in any anthology of the greatest games ever played in the history of chess.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;quotes&#34;&gt;Quotes&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://en.chessbase.com/home/TabId/211/PostId/4008776&#34;&gt;Aronian said&lt;/a&gt;: &amp;ldquo;I think I ran into a theoretical trap. I was not aware of Bc5, which is very strong. Vishy said he had prepared it for somebody else. I should study openings better.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;Anand said: &amp;ldquo;It was the same concept [as Rotlevy-Rubinstein].&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.telegraph.co.uk/culture/chess/9806562/Anand-crushes-Aronian.html&#34;&gt;World number one Magnus Carlsen described the game as &amp;ldquo;mind-blowing and really something special&amp;rdquo;.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;observations&#34;&gt;Observations&lt;/h2&gt;
+
+&lt;p&gt;First of all, note how this game shows that computers still have not meant the death of human chess: Aronian, one of the strongest and most brilliant chess players in the world, armed with all the computation power he wanted, did not analyze this line deeply enough with computer aid to see that Black could play the crazy-looking sacrifice &lt;code&gt;15...Bc5&lt;/code&gt;. It took &lt;em&gt;human creativity&lt;/em&gt;, not brute-force compute power, to find this move. Of course, it took computer analysis to &lt;em&gt;validate&lt;/em&gt; this move.&lt;/p&gt;
+
+&lt;p&gt;Second, this game means that the move &lt;code&gt;12 Ng5&lt;/code&gt; will never again be seen in top level chess, because now we know that Black can achieve at least a draw.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Or do we?&lt;/em&gt; Is it possible that there is still something overlooked, an improvement for White somewhere? Actually, not really: now that the whole &lt;em&gt;forcing&lt;/em&gt; line by Black has been revealed, it is easy for any chess player to zero in on all possibilities and evaluate all of them with computer aid. This entire opening variation starting with Black&amp;rsquo;s &amp;ldquo;threat&amp;rdquo; to play &lt;code&gt;...c5&lt;/code&gt; is probably done. (Of course, if it is shown otherwise, I will have another blog post to write.)&lt;/p&gt;
+
+&lt;h3 id=&#34;pattern-recognition&#34;&gt;Pattern recognition&lt;/h3&gt;
+
+&lt;p&gt;It is probably critical to note that Anand found his brilliant concept through an analogy with the famous Rotlevy-Rubinstein sacrificial game that basically every chess player sees and learns early on: I remember first reading through that game at age seven from a library book and being totally wowed by it.&lt;/p&gt;
+
+&lt;p&gt;This is just a reminder that human chess players still get their edge (in certain circumstances) over brute force computer search, through pattern recognition, as &lt;a href=&#34;http://en.wikipedia.org/wiki/Adriaan_de_Groot&#34;&gt;de Groot&lt;/a&gt; verified half a century ago in his classic study of strong chess players.&lt;/p&gt;
+
+&lt;p&gt;Chess is not yet over.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A short note on the fallibility of crowdsourcing: reCAPTCHA and long s</title>
+      <link>http://franklinchen.com/blog/2012/12/01/a-short-note-on-the-fallibility-of-crowdsourcing-recaptcha-and-long-s/</link>
+      <pubDate>Sat, 01 Dec 2012 21:00:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/12/01/a-short-note-on-the-fallibility-of-crowdsourcing-recaptcha-and-long-s/</guid>
+      <description>
+
+&lt;p&gt;Periodically I encounter a &lt;a href=&#34;http://en.wikipedia.org/wiki/ReCAPTCHA&#34;&gt;reCAPTCHA&lt;/a&gt; whose answer is &lt;em&gt;obvious&lt;/em&gt; to anyone who has read old texts in English, but is easily misread by anyone who has not. When I enter the &lt;em&gt;correct&lt;/em&gt;, intended word, my answer is always rejected as incorrect. This suggests that most people believe the wrong answer. So this is just one example of how &lt;a href=&#34;http://en.wikipedia.org/wiki/Crowdsourcing&#34;&gt;crowdsourcing&lt;/a&gt; can easily fail.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/recaptcha-s-f.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;reCAPTCHA with long s&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;The letter in the word that looks like an &amp;ldquo;f&amp;rdquo; in &amp;ldquo;Composition&amp;rdquo; is in fact an &amp;ldquo;s&amp;rdquo;. It is not a typo. It is a &lt;a href=&#34;http://en.wikipedia.org/wiki/Long_s&#34;&gt;long s&lt;/a&gt;.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://upload.wikimedia.org/wikipedia/commons/b/b8/Milton_paradise.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Paradise Lost&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;h2 id=&#34;language-evolution&#34;&gt;Language evolution&lt;/h2&gt;
+
+&lt;p&gt;An amusing thought occurred to me: thinking of language evolution as crowdsourcing gone &amp;ldquo;wrong&amp;rdquo;. (I use the scare quotes because I reject linguistic &lt;a href=&#34;http://en.wikipedia.org/wiki/Linguistic_prescription&#34;&gt;prescriptivism&lt;/a&gt;.)&lt;/p&gt;
+
+&lt;p&gt;Whether it&amp;rsquo;s the evolution of Latin into the Romance languages such as French, Spanish, and Italian, or the evolution of English from pre-Shakespeare to the present, language changes because it is a collective crowdsourced artifact.&lt;/p&gt;
+
+&lt;p&gt;For example, it is well known that the word &amp;ldquo;orange&amp;rdquo; in English came about because of a &lt;a href=&#34;http://www.phrases.org.uk/meanings/a-norange.html&#34;&gt;confusion starting from France that became ingrained&lt;/a&gt;: Spanish still has &amp;ldquo;naranja&amp;rdquo;, from the original Sanskrit word that had an initial &amp;ldquo;n&amp;rdquo; in it. One could say that we should undo that crowdsourced mistake and call the fruit a &amp;ldquo;norange&amp;rdquo; or something, but I think most of us would agree that this mistake is not a big one.&lt;/p&gt;
+
+&lt;p&gt;There are grammar &amp;ldquo;mistakes&amp;rdquo; in English that are still controversial today, because they reflect crowdsourced language &amp;ldquo;confusions&amp;rdquo; that rub some people the wrong way. In my mind, the biggest one in English is the &lt;a href=&#34;http://en.wikipedia.org/wiki/English_personal_pronouns#Singular_they&#34;&gt;singular &lt;em&gt;they&lt;/em&gt;&lt;/a&gt;: use of the third person plural to denote a third person singular of indeterminate gender: &amp;ldquo;they&amp;rdquo; in place of &amp;ldquo;he&amp;rdquo; or &amp;ldquo;she&amp;rdquo;, e.g., &amp;ldquo;that person didn&amp;rsquo;t do &lt;strong&gt;their&lt;/strong&gt; homework&amp;rdquo;, instead of &amp;ldquo;that person didn&amp;rsquo;t do &lt;strong&gt;his&lt;/strong&gt; homework&amp;rdquo; (which is what I was taught in school as being the correct construction).&lt;/p&gt;
+
+&lt;p&gt;Who&amp;rsquo;s right? Who&amp;rsquo;s wrong? Well, language changes. And it&amp;rsquo;s still happening. Our language, wherever it is we come from, is different from that of our grandparents&amp;rsquo;. I even knew a European Portuguese woman who told of her grandmother using entire pronouns and verb conjugations that have been &lt;em&gt;obsolete&lt;/em&gt; now for some time, and don&amp;rsquo;t appear in standard textbooks! The European Portuguese &lt;a href=&#34;http://en.wikipedia.org/wiki/T%E2%80%93V_distinction#Portuguese&#34;&gt;second person familiar plural&lt;/a&gt; has disappeared, and the second person familiar singular was long ago removed from Brazilian Portuguese.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;I am not a disbeliever in crowdsourcing. If I were, I would not be a happy user of &lt;a href=&#34;http://www.wikipedia.org/&#34;&gt;Wikipedia&lt;/a&gt;! We just have to watch out and be aware of what might be lost or confused in the process. Meanwhile, some kinds of change are hard to classify as being objectively wrong.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A short note on the use of chess opening books</title>
+      <link>http://franklinchen.com/blog/2012/11/28/a-short-note-on-the-use-of-chess-opening-books/</link>
+      <pubDate>Wed, 28 Nov 2012 22:45:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/11/28/a-short-note-on-the-use-of-chess-opening-books/</guid>
+      <description>
+
+&lt;p&gt;I just reported on a &lt;a href=&#34;../../blog/2012/11/27/round-3-of-pittsburgh-chess-club-tournament-the-difficult-opponent-and-revenge-of-the-bishop/&#34;&gt;chess game I played that featured the Veresov Opening&lt;/a&gt;.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://ecx.images-amazon.com/images/I/41iLDZTIs%2BL._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA300_SH20_OU01_.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Nigel Davies: The Veresov&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Back when I was playing the Veresov as White, I studied it using &lt;a href=&#34;http://en.wikipedia.org/wiki/Nigel_Davies_(chess_player)&#34;&gt;GM Nigel Davies&amp;rsquo;&lt;/a&gt; book from 2003, &lt;a href=&#34;http://www.amazon.com/Veresov-Surprise-Your-Oponents-Tricky/dp/1857443357&#34;&gt;&amp;ldquo;The Veresov&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;On page 48 of the book, Davies claimed that &lt;code&gt;f5&lt;/code&gt; &amp;ldquo;is quite weakening&amp;rdquo; and recommended against it. The computer engines disagree. I will continue, as Black, to happily play &lt;code&gt;f5&lt;/code&gt; against anyone who wants to play White in the Veresov Gambit against me.&lt;/p&gt;
+
+&lt;p&gt;At some point, I will write about the question of human expertise and judgment versus that of computers. Let&amp;rsquo;s just say that using computers, I have in the past come up with significant improvements or alternative ideas over the advice in chess books, and used these novelties in games I have played; however, I also believe that the wisdom and creativity of human experts, such as Davies, will never be completely replaced by computers.&lt;/p&gt;
+
+&lt;h2 id=&#34;chess-improver-blog&#34;&gt;Chess Improver blog&lt;/h2&gt;
+
+&lt;p&gt;By the way, I really recommend the &lt;a href=&#34;http://chessimprover.com/&#34;&gt;&amp;ldquo;Chess Improver&amp;rdquo; blog&lt;/a&gt; that Nigel Davies and others write for. This blog is a direct inspiration for my having started to write about my chess games and experiences.&lt;/p&gt;
+
+&lt;p&gt;And go &lt;a href=&#34;http://www.facebook.com/nigel.davies1&#34;&gt;friend him on Facebook&lt;/a&gt; if you are interested in engaging in discussions of the posts on his blog.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;If you want to really understand a chess position, use a chess computer engine and explore. Don&amp;rsquo;t rely entirely on books.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A fact of modern chess: computers shutting down opening theory</title>
+      <link>http://franklinchen.com/blog/2012/09/24/a-fact-of-modern-chess-computers-shutting-down-opening-theory/</link>
+      <pubDate>Mon, 24 Sep 2012 23:17:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/09/24/a-fact-of-modern-chess-computers-shutting-down-opening-theory/</guid>
+      <description>
+
+&lt;p&gt;I saw the report of a stunning chess game between Veselin Topalov and Rustam Kasimzhanov that resulted in a draw. I think this game illustrates some important points about modern chess at the highest levels.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://chess-news.ru/en/node/9478&#34;&gt;The game&lt;/a&gt; featured a temporary piece sacrifice in the &lt;a href=&#34;http://en.wikipedia.org/wiki/Semi-Slav_Defense#Meran_Variation:_6.Bd3&#34;&gt;Meran Variation of the Semi-Slav&lt;/a&gt; that is &lt;em&gt;exciting&lt;/em&gt; to see, but also made me feel rather &lt;em&gt;sad&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Black to move:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://chess-news.ru/sites/default/files/u5/Foto-raznoe/2012-09-23_183645.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Black to move&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;For &lt;em&gt;decades&lt;/em&gt;, this kind of position has been standard opening theory, and usually it has been considered that Black&amp;rsquo;s setup is not so good because it allows White to gain a lock on Black&amp;rsquo;s Queen side by setting up &lt;code&gt;a3&lt;/code&gt; and &lt;code&gt;b4&lt;/code&gt; preventing Black from ever playing the freeing &lt;code&gt;...c5&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;computer-analysis&#34;&gt;Computer analysis&lt;/h2&gt;
+
+&lt;p&gt;I doubt that any human chess player would have come up with the sacrifice &lt;code&gt;...c5&lt;/code&gt; without computer aid.&lt;/p&gt;
+
+&lt;p&gt;The piece sacrifice is justified because if White attempts to hang on to the piece, he will get mated on the King side. As a result, Black has just enough time to regain the piece, and the end result is a simplified position in which the only reasonable result (for sufficiently strong players) is a quick &lt;em&gt;draw&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;In other words, the cleverness of this novelty by Black is entirely based on the desire to achieve a draw. In top level chess, many players are satisfied to hold a draw as Black and work hard to win as White. So the nature of novelty hunting with computer aid is very different when preparing to play Black versus preparing to play White. Usually the elite prepare as White to take a risk, throw their opponent off balance, and &lt;em&gt;possibly&lt;/em&gt; score a win, and prepare as Black to try to &lt;em&gt;guarantee&lt;/em&gt; a draw.&lt;/p&gt;
+
+&lt;h2 id=&#34;some-quotes-from-the-players&#34;&gt;Some quotes from the players&lt;/h2&gt;
+
+&lt;p&gt;From the article mentioned above:&lt;/p&gt;
+
+&lt;p&gt;Black said: &amp;ldquo;&lt;code&gt;12...с5&lt;/code&gt; is a novelty, however, it seems that a lot of spectators as well as my opponent knew about it. I just showed analyses and the game finished in a draw. We didn&amp;rsquo;t spend much time on thinking today.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;White said: &amp;ldquo;It&amp;rsquo;s an obvious draw there, too many exchanges, but this happens; this is modern chess&amp;hellip;&amp;rdquo;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-future&#34;&gt;The future&lt;/h2&gt;
+
+&lt;p&gt;What this novelty means is that anyone playing White going into this opening variation in the future cannot play the obvious &amp;ldquo;best&amp;rdquo; move &lt;code&gt;12 b4&lt;/code&gt;, because it results in a draw.&lt;/p&gt;
+
+&lt;p&gt;This subtlety interestingly accounts for the &lt;em&gt;bizarreness&lt;/em&gt; of some modern chess. Amateurs are often confused by what happens in modern chess, because why are top level players avoiding certain openings or choosing not to play obviously good moves? Sometimes it is because of events like this, in which the obvious good move leads to a forced draw. It is probably the case that the entire game of chess is a forced draw, but a human as White who wants a chance of winning against someone with computer-aided knowledge of a way to force a draw against a good move must therefore play some other move, perhaps a &amp;ldquo;worse&amp;rdquo; one, in order to make the game unpredictable and take away the opponent&amp;rsquo;s computer-aided strength.&lt;/p&gt;
+
+&lt;p&gt;So modern chess has actually made the game much more chaotic and surprising in some ways, when the players actually choose to fight rather than go through the computer-solved motions (which they may sometimes do to save energy or in hope that the opponent has forgotten the remedy).&lt;/p&gt;
+
+&lt;p&gt;Chess is not yet over.&lt;/p&gt;
+
+&lt;h3 id=&#34;update-of-2013-01-18&#34;&gt;(Update of 2013-01-18)&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;../../blog/2013/01/18/modern-chess-computers-shutting-down-opening-theory-part-2/&#34;&gt;An even more amazing development in this opening variation.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Four generations of Apple laptops</title>
+      <link>http://franklinchen.com/blog/2012/09/21/four-generations-of-apple-laptops/</link>
+      <pubDate>Fri, 21 Sep 2012 13:52:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/09/21/four-generations-of-apple-laptops/</guid>
+      <description>
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/transferring-macbook.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Transferring MacBook to MacBook Pro&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;I just bought a new &lt;a href=&#34;http://www.apple.com/macbook-pro/&#34;&gt;Apple MacBook Pro&lt;/a&gt; to replace my old black plastic 2008 MacBook, in order to get more memory and hard drive space, plus be able to run Mountain Lion. Abby and I also used this upgrade of mine as an opportunity to give her the old MacBook and switch her from running Windows computers. We have various reasons to switch her to Mac, one of them simply being that it&amp;rsquo;s easier for me to administer Macs (which I primarily use, at work and at home) than for me to have to deal with Windows computers also. Much easier to troubleshoot just one type of machine!&lt;/p&gt;
+
+&lt;p&gt;This new purchase means that I have now owned four different generations of Apple laptops.&lt;/p&gt;
+
+&lt;h2 id=&#34;powerbook-duo-280c-http-en-wikipedia-org-wiki-powerbook-duo-bought-used-in-1995&#34;&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/PowerBook_Duo&#34;&gt;PowerBook Duo 280c&lt;/a&gt;, bought used in 1995&lt;/h2&gt;
+
+&lt;p&gt;My first Apple laptop was a PowerBook Duo 280c that I sold not long after I bought it.&lt;/p&gt;
+
+&lt;h2 id=&#34;powerbook-145b-http-en-wikipedia-org-wiki-powerbook-140-powerbook-145b-bought-used-in-1995&#34;&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/PowerBook_140#PowerBook_145B&#34;&gt;PowerBook 145B&lt;/a&gt;, bought used in 1995&lt;/h2&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/powerbook-145b/finder.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;PowerBook 145B up in System 7 Finder&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;I [mentioned this laptop earlier]((/blog/2011/11/14/my-powerbook-145b/). It actually came out in 1993.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2 MB RAM&lt;/li&gt;
+&lt;li&gt;40 MB hard drive&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I last used this in 1998 when traveling to a &lt;a href=&#34;http://www.informatik.uni-trier.de/~ley/db/conf/pldi/pldi98.html&#34;&gt;conference while in graduate school&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;powerbook-g4-12-inch-http-en-wikipedia-org-wiki-powerbook-g4-bought-new-in-2003&#34;&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/PowerBook_G4&#34;&gt;PowerBook G4, 12-inch&lt;/a&gt;, bought new in 2003&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;256 MB RAM&lt;/li&gt;
+&lt;li&gt;40 GB hard drive&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Note how in 3 years, from 1995 to 1998, I multiplied my amount of RAM by a factor of &lt;em&gt;128&lt;/em&gt;, and multiplied my hard drive by a factor of &lt;em&gt;1000&lt;/em&gt;. That was wild. The PowerBook G4 marked the end of my buying desktop computers: my last desktop computer I ever bought was actually a brand new Gateway PC in 1995.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s a photo of my (still running &lt;a href=&#34;http://en.wikipedia.org/wiki/Mac_OS_X_Leopard&#34;&gt;Mac OS Leopard&lt;/a&gt; PowerBook G4 next to my new MacBook Pro:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/powerbook-g4-2003-macbook-pro-2012.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;PowerBook G4 2003 and MacBook Pro 2012&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;h2 id=&#34;macbook-13-inch-http-en-wikipedia-org-wiki-macbook-bought-new-in-2008&#34;&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/MacBook&#34;&gt;MacBook, 13-inch&lt;/a&gt;, bought new in 2008&lt;/h2&gt;
+
+&lt;p&gt;As a matter of frugality, I try to put off new computer purchases as long as possible. I probably should be &lt;em&gt;less&lt;/em&gt; frugal, since at some point decreased productivity does kick in, but in any case, I did move from the old PowerPC G4 PowerBook eventually, buying the entry level black plastic Intel MacBook.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Dual processor&lt;/li&gt;
+&lt;li&gt;3 GB RAM&lt;/li&gt;
+&lt;li&gt;250 GB hard drive&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Note the dual processor. Also, note how in 5 years, from 2003 to 2008, I multiplied RAM by a factor of &lt;em&gt;12&lt;/em&gt;, and multiplied my hard drive by a factor of about &lt;em&gt;6&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Eventually I had to replace the battery, which swelled. I also upgraded to 4 GB of RAM.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s a photo of my (still running &lt;a href=&#34;http://en.wikipedia.org/wiki/Mac_OS_X_Lion&#34;&gt;Mac OS Lion&lt;/a&gt; PowerBook G4 next to my new MacBook Pro:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/macbook-2008-macbook-pro-2012.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;MacBook 2008 and MacBook Pro 2012&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;I&amp;rsquo;ve given this laptop to Abby as her first Mac.&lt;/p&gt;
+
+&lt;h2 id=&#34;macbook-pro-13-inch-http-en-wikipedia-org-wiki-macbook-pro-bought-new-in-2012&#34;&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/MacBook_Pro&#34;&gt;MacBook Pro, 13-inch&lt;/a&gt;, bought new in 2012&lt;/h2&gt;
+
+&lt;p&gt;I am very happy with my new MacBook Pro. I was having difficulties with my old laptop because of not quite enough RAM or hard drive space to work the way I wanted.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;4 cores&lt;/li&gt;
+&lt;li&gt;8 GB RAM&lt;/li&gt;
+&lt;li&gt;750 GB hard drive&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In 4 years, from 2008 to 2012, I multiplied RAM by &lt;em&gt;2.7&lt;/em&gt;, and hard drive by &lt;em&gt;3&lt;/em&gt;. I bet that in another 4 years, I&amp;rsquo;ll feel pinched again and need yet another upgrade! But for now, I am totally content. This machine is &lt;em&gt;fast&lt;/em&gt; and &lt;em&gt;spacious&lt;/em&gt;.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/macbook-pro-in-box.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;MacBook Pro 2012 in box&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;It&amp;rsquo;s amusing looking back at the progression of the Apple laptops I&amp;rsquo;ve owned over the past 17 years. Speed, number of cores, amount of memory needed, amount of storage space needed, all have gone up.&lt;/p&gt;
+
+&lt;p&gt;One thing I have learned from experience is that I should really upgrade sooner than I usually do. So maybe I should expect to upgrade in 3 years rather than in 4 years. But who knows? How demanding of resources are my Web browsers and programming tools going to be in the coming years?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Zapping the PRAM several times to install Mountain Lion</title>
+      <link>http://franklinchen.com/blog/2012/07/31/zapping-the-pram-several-times-to-install-mountain-lion/</link>
+      <pubDate>Tue, 31 Jul 2012 14:18:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/07/31/zapping-the-pram-several-times-to-install-mountain-lion/</guid>
+      <description>
+
+&lt;p&gt;Yesterday at work I tried to upgrade my desktop iMac from Lion to Mountain Lion. I failed miserably. I tried various things, including running Disk Utility to repair the hard drive, but I kept getting the error &amp;ldquo;There was a problem installing Mac OS X.  Try reinstalling.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;I searched online for help, and found that a lot of other people had encountered the &lt;a href=&#34;http://discussions.apple.com/thread/4139771?start=0&amp;amp;tstart=0&#34;&gt;same problem&lt;/a&gt;. And a lot of people reported success after &lt;a href=&#34;http://support.apple.com/kb/HT1379&#34;&gt;resetting the PRAM&lt;/a&gt;, or as my boss over the years has called it, &amp;ldquo;zapping the PRAM&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;I tried zapping the PRAM but failed, so I gave up for the day, having a lot of important work to do.&lt;/p&gt;
+
+&lt;p&gt;Today I noticed that some people recommended doing the reset multiple times in a row to really clear things. So I did this, holding down the Command, Option, P, R keys continuously while the machine rebooted four times. It worked!&lt;/p&gt;
+
+&lt;p&gt;I was so amused, never having personally zapped PRAM in my 28 years of using Macintosh computers, much less continuously, that I had to have a photo taken:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/zapping-pram-mountain-lion-install.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Franklin zapping PRAM to install Mountain Lion&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;I am often surprised by how a Web search can lead quickly to solutions to problems I have with computers, appliances, etc. I am grateful for the power of the crowd to be helpful. In the old days, frustrating calls to technical support would have been required (and possibly not fruitful).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Life lessons I learned from a lunch recess chess game at age seven</title>
+      <link>http://franklinchen.com/blog/2012/05/30/life-lessons-i-learned-from-a-lunch-recess-chess-game-at-age-seven/</link>
+      <pubDate>Wed, 30 May 2012 07:38:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/05/30/life-lessons-i-learned-from-a-lunch-recess-chess-game-at-age-seven/</guid>
+      <description>&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/franklin-second-grade.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Franklin Chen 2nd grade school photo&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Recently, I have had the opportunity to play chess casually with kids at parties. I could not help reflecting on my own childhood memories of playing chess. I feel that there was much I learned about life from the chess activities of my youth, whether casual or serious. This is the first of a planned series of posts about chess.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://tluif.home.xs4all.nl/chescom/CC3.JPG&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Chess Challenger III from 1977&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;This post is about the first time I played with a chess computer and was surprised to find myself winning.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;a-little-bit-of-my-chess-history&#34;&gt;A little bit of my chess history&lt;/h2&gt;
+
+&lt;p&gt;Supposedly I first learned chess at some time between the ages of two and three, accidentally picking it up while my father was learning the game along with grad student classmates of his. At the time chess was becoming extremely popular in the United States because of the &amp;ldquo;Fischer boom&amp;rdquo; resulting from &lt;a href=&#34;http://en.wikipedia.org/wiki/Bobby_Fischer&#34;&gt;Bobby Fischer&lt;/a&gt;&amp;rsquo;s world championship match and victory against Boris Spassky. Since I don&amp;rsquo;t remember anything from before age two and a half (I remember the months leading up to my celebrating my third birthday), I don&amp;rsquo;t remember a time when I didn&amp;rsquo;t know at least the basic rules of chess!&lt;/p&gt;
+
+&lt;h2 id=&#34;kindergarten&#34;&gt;Kindergarten&lt;/h2&gt;
+
+&lt;p&gt;When I was in Kindergarten, I came across some chess books targeted toward children and filled in some gaps (since my father actually had been confused about some of the rules, involving the details of castling and capturing &lt;em&gt;en passant&lt;/em&gt;). I played casually with my father, but nobody else, getting beaten every time (although in retrospect, I have doubts about whether we were playing completely legal games).&lt;/p&gt;
+
+&lt;h2 id=&#34;second-grade&#34;&gt;Second grade&lt;/h2&gt;
+
+&lt;p&gt;By the second grade in elementary school, I was much improved because I had started going through chess books geared toward adults, checked out from the local public library. I had earlier spent some time in the school library going through all the basic chess books there.&lt;/p&gt;
+
+&lt;h3 id=&#34;chess-challenger-iii&#34;&gt;Chess Challenger III&lt;/h3&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://tluif.home.xs4all.nl/chescom/CC3.JPG&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Chess Challenger III from 1977&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;One day at lunch recess, a lunch proctor who had heard that I played chess brought me her new &lt;a href=&#34;http://tluif.home.xs4all.nl/chescom/EngCc3.html&#34;&gt;Chess Challenger III&lt;/a&gt; computer. I started playing a game with it (with me as White and the computer as Black). To my surprise, I was winning against this computer, which had fallen into a trap I had set! (Up until this point, I had only ever played chess with my father, and he had always won.)&lt;/p&gt;
+
+&lt;p&gt;White to play and win:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/chess-challenger-iii_files/diag3FE05522BFCEDF4D.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Critical position in game&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Unfortunately, the bell rang shortly after I had trapped Chess Challenger III&amp;rsquo;s Queen and I excitedly told everyone I was beating the computer. The proctor just sniffed and dismissed my claim, practically calling me a liar. I never talked to her again in my life and never asked to play the computer again for a rematch.&lt;/p&gt;
+
+&lt;p&gt;What I learned:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Chess computers are not perfect, and even a child might play better.&lt;/li&gt;
+&lt;li&gt;Adults in school often misunderstand or disrespect students who do something unexpected.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;my-game-against-chess-challenger-iii&#34;&gt;My game against Chess Challenger III&lt;/h3&gt;
+
+&lt;p&gt;I have fully annotated my one and only &lt;a href=&#34;../../chess/chess-challenger-iii.htm&#34;&gt;game against Chess Challenger III&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I am guessing the computer was set at a default &amp;ldquo;easy&amp;rdquo; level; I am guessing that at its highest level (which unfortunately would have led to its playing too slowly in a recess setting), I may not have been able to beat it. I had never played with anyone other than my father by this age (I started playing with other people only at age ten, with some exceptions I&amp;rsquo;ll discuss later), but I&amp;rsquo;m guessing my ELO rating strength at age seven was probably no higher than 1200.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

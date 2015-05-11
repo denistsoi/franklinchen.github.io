@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>A short example of why I prefer static typing: learning Gradle &middot; Franklin Chen</title>
+
+  
+  <link rel="stylesheet" href="http://franklinchen.com/css/poole.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/hyde.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/poole-overrides.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/hyde-overrides.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/hyde-x.css">
+
+  <link rel="stylesheet" href="http://franklinchen.com/css/franklin.css">
+
+  <link rel="stylesheet" href="http://franklinchen.com/css/highlight/default.css">
+  <link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://franklinchen.com/touch-icon-144-precomposed.png">
+  <link href="http://franklinchen.com/favicon.png" rel="icon">
+
+  
+  
+  
+  
+
+  <meta name="description" content="Franklin Chen&#39;s personal Web site and blog">
+  <meta name="keywords" content="Franklin Chen, blog">
+  <link rel="author" href="http://plus.google.com/100967806642012078047">
+</head>
+<body class="theme-base-0e">
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      
+        
+        <h1>Franklin Chen</h1>
+        <p class="lead">Infinity in the palm of my hand.</p>
+    </div>
+
+    <ul class="sidebar-nav">
+      
+      <li class="sidebar-nav-item"><a href="http://franklinchen.com/contact/">Contact</a></li>
+      
+      <li class="sidebar-nav-item"><a href="http://ConscientiousProgrammer.com/">Programming blog</a></li>
+      <li class="sidebar-nav-item"><a href="http://chessimprover.com/author/franklinc/">Chess blog</a></li>
+      <li class="sidebar-nav-item"><a href="https://www.flickr.com/photos/franklinmingchen/">Photos</a></li>
+    </ul>
+
+    <ul class="sidebar-nav">
+      <li class="sidebar-nav-item">
+      <a href="https://github.com/FranklinChen"><i class="fa fa-github-square fa-3x"></i></a>
+      
+      
+      <a href="http://www.linkedin.com/in/franklinchen"><i class="fa fa-linkedin-square fa-3x"></i></a>
+      <a href="http://google.com/&#43;FranklinChen"><i class="fa fa-google-plus-square fa-3x"></i></a>
+      <a href="http://www.facebook.com/franklin.chen"><i class="fa fa-facebook-square fa-3x"></i></a>
+      <a href="http://twitter.com/franklinchen"><i class="fa fa-twitter-square fa-3x"></i></a>
+      <a href="http://www.youtube.com/user/FranklinChen"><i class="fa fa-youtube-square fa-3x"></i></a>
+      <a href="http://franklinchen.com/atom.xml" type="application/rss+xml"><i class="fa fa-rss-square fa-3x"></i></a>
+      </li>
+    </ul>
+
+    
+
+    <p>Copyright &copy; 2016 Franklin Chen<br/>
+       Powered by <a href="http://gohugo.io">Hugo</a> and <a href="https://github.com/zyro/hyde-x">Hyde-X</a></p>
+  </div>
+</div>
+
+
+<div class="content container">
+  <div class="post">
+    <h1>A short example of why I prefer static typing: learning Gradle</h1>
+    
+
+<p>I make no secret of the fact the I prefer to program in <a href="http://en.wikipedia.org/wiki/Programming_language#Static_versus_dynamic_typing">statically-typed languages</a>. That is not to say that I don&rsquo;t write programs in dynamically typed languages. In fact, I have written and will continue to write programs in <a href="../../../../../categories/perl/">Perl</a>, <a href="../../../../../categories/python/">Python</a>, <a href="../../../../../categories/ruby/">Ruby</a>, <a href="../../../../../categories/javascript/">JavaScript</a>, and other dynamically typed programs, because pragmatically speaking, there is a whole lot more to programming to get something done than questions of <a href="http://en.wikipedia.org/wiki/Type_system">type systems</a>.</p>
+
+<p>Nevertheless, it is always painful to me when I hit a wall when learning and using an unfamiliar API from a dynamically typed language. I always think, &ldquo;if only this API were statically typed, so that when I encounter an error, I can immediately look up what went wrong&rdquo;.</p>
+
+<p>Here&rsquo;s an example as I&rsquo;ve been learning <a href="http://www.gradle.org/">Gradle</a> while evaluating it along with learning <a href="http://www.scala-sbt.org/">SBT</a>, as two candidate build tools for me to switch to out of <a href="http://maven.apache.org/">Maven</a> as my build tool for a primarily Java-based project. Note that Gradle is basically an embedded domain-specific language using the dynamically typed language <a href="http://groovy.codehaus.org/">Groovy</a>, while SBT is an embedded domain-specific language using the statically typed language <a href="http://www.scala-lang.org/">Scala</a>.</p>
+
+<h2 id="code-example">Code example</h2>
+
+<p>Here&rsquo;s a code example from a book I&rsquo;ve been going through while studying Gradle, <a href="http://gradleware.com/registered/books/building-and-testing/">&ldquo;Building and Testing with Gradle&rdquo;</a>:</p>
+
+<h3 id="example-3-21-use-the-ant-path-references-inside-the-gradle-build">Example 3.21. Use the Ant path references inside the Gradle build</h3>
+
+<div class="highlight" style="background: #f8f8f8"><pre style="line-height: 125%"><span></span>ant<span style="color: #666666">.</span><span style="color: #7D9029">importBuild</span> <span style="color: #BA2121">&#39;build.xml&#39;</span>
+
+defaultTasks <span style="color: #666666">=</span> <span style="color: #666666">[</span><span style="color: #BA2121">&#39;gradleBuild&#39;</span><span style="color: #666666">]</span>
+
+<span style="color: #408080; font-style: italic">////////////////////////////////////////////////////////////////////////</span>
+<span style="color: #408080; font-style: italic">// Gradle paths retrieved from Ant and then built using a Gradle task</span>
+repositories <span style="color: #666666">{</span>
+    flatDir <span style="color: #A0A000">name:</span> <span style="color: #BA2121">&#39;localRepository1&#39;</span><span style="color: #666666">,</span> <span style="color: #A0A000">dirs:</span> ant<span style="color: #666666">.</span><span style="color: #7D9029">references</span><span style="color: #666666">[</span><span style="color: #BA2121">&#39;antPathToLibs1&#39;</span><span style="color: #666666">]</span>
+    flatDir <span style="color: #A0A000">name:</span> <span style="color: #BA2121">&#39;localRepository2&#39;</span><span style="color: #666666">,</span> <span style="color: #A0A000">dirs:</span> ant<span style="color: #666666">.</span><span style="color: #7D9029">references</span><span style="color: #666666">.</span><span style="color: #7D9029">antPathToLibs2</span>
+    flatDir <span style="color: #A0A000">name:</span> <span style="color: #BA2121">&#39;localRepository3&#39;</span><span style="color: #666666">,</span> <span style="color: #A0A000">dirs:</span> <span style="color: #BA2121">&quot;antlibs&quot;</span>
+<span style="color: #666666">}</span>
+
+task gradleBuild <span style="color: #666666">&lt;&lt;</span> <span style="color: #666666">{</span>
+    <span style="color: #408080; font-style: italic">//Set classpath to include the JAR</span>
+    println <span style="color: #BA2121">&quot;The repositories bridged from Ant to Gradle are:&quot;</span>
+    println repositories<span style="color: #666666">*.</span><span style="color: #7D9029">name</span>
+
+    println repositories<span style="color: #666666">.</span><span style="color: #7D9029">localRepository1</span>
+
+    println repositories<span style="color: #666666">[</span><span style="color: #BA2121">&#39;localRepository2&#39;</span><span style="color: #666666">]</span>
+
+    println <span style="color: #BA2121">&quot;localRepository3 class = &quot;</span> <span style="color: #666666">+</span> repositories<span style="color: #666666">.</span><span style="color: #7D9029">localRepository3</span><span style="color: #666666">.</span><span style="color: #7D9029">class</span>
+    println <span style="color: #BA2121">&quot;localRepository3 name = &quot;</span> <span style="color: #666666">+</span> repositories<span style="color: #666666">.</span><span style="color: #7D9029">localRepository3</span><span style="color: #666666">.</span><span style="color: #7D9029">name</span>
+    println <span style="color: #BA2121">&quot;localRepository3 latest = &quot;</span> <span style="color: #666666">+</span> repositories<span style="color: #666666">.</span><span style="color: #7D9029">localRepository3</span><span style="color: #666666">.</span><span style="color: #7D9029">latest</span>
+    println <span style="color: #BA2121">&quot;localRepository3 ivyPatterns = &quot;</span> <span style="color: #666666">+</span> repositories<span style="color: #666666">.</span><span style="color: #7D9029">localRepository3</span><span style="color: #666666">.</span><span style="color: #7D9029">ivyPatterns</span>
+    println <span style="color: #BA2121">&quot;localRepository3 artifactPatterns =</span>
+<span style="color: #BA2121">       &quot;</span> <span style="color: #666666">+</span> repositories<span style="color: #666666">.</span><span style="color: #7D9029">localRepository3</span><span style="color: #666666">.</span><span style="color: #7D9029">artifactPatterns</span>
+    println <span style="color: #BA2121">&quot;localRepository3 checkconsistency =</span>
+<span style="color: #BA2121">       &quot;</span> <span style="color: #666666">+</span> repositories<span style="color: #666666">.</span><span style="color: #7D9029">localRepository3</span><span style="color: #666666">.</span><span style="color: #7D9029">checkconsistency</span>
+    println <span style="color: #BA2121">&quot;localRepository3 m2compatible =</span>
+<span style="color: #BA2121">       &quot;</span> <span style="color: #666666">+</span> repositories<span style="color: #666666">.</span><span style="color: #7D9029">localRepository3</span><span style="color: #666666">.</span><span style="color: #7D9029">m2compatible</span>
+    println <span style="color: #BA2121">&quot;localRepository3 methods =</span>
+<span style="color: #BA2121">       &quot;</span> <span style="color: #666666">+</span> repositories<span style="color: #666666">.</span><span style="color: #7D9029">localRepository3</span><span style="color: #666666">.</span><span style="color: #7D9029">metaClass</span><span style="color: #666666">.</span><span style="color: #7D9029">methods</span><span style="color: #666666">*.</span><span style="color: #7D9029">name</span><span style="color: #666666">.</span><span style="color: #7D9029">sort</span><span style="color: #666666">().</span><span style="color: #7D9029">unique</span><span style="color: #666666">()</span>
+<span style="color: #666666">}</span>
+</pre></div>
+
+
+<h2 id="error-output">Error output</h2>
+
+<p>Unfortunately, this Gradle build file, when executed under the current version of Gradle, dies with an error:</p>
+
+<p><div class="highlight" style="background: #f8f8f8"><pre style="line-height: 125%"><span></span><span style="color: #000080; font-weight: bold">$</span> ./run-example.bsh
+<span style="color: #888888">:gradleBuild</span>
+<span style="color: #888888">The repositories bridged from Ant to Gradle are:</span>
+<span style="color: #888888">[localRepository1, localRepository2, localRepository3]</span>
+<span style="color: #888888">org.gradle.api.internal.artifacts.repositories.DefaultFlatDirArtifactRepository_Decorated@7f205d8d</span>
+<span style="color: #888888">org.gradle.api.internal.artifacts.repositories.DefaultFlatDirArtifactRepository_Decorated@5eef2e7c</span>
+<span style="color: #888888">localRepository3 class = class org.gradle.api.internal.artifacts.repositories.DefaultFlatDirArtifactRepository_Decorated</span>
+<span style="color: #888888">localRepository3 name = localRepository3</span>
+<span style="color: #888888">:gradleBuild FAILED</span>
+
+<span style="color: #888888">FAILURE: Build failed with an exception.</span>
+
+<span style="color: #888888">* Where:</span>
+<span style="color: #888888">Build file &#39;oreilly-gradle-book-examples/ant-classpathanttogradle/build.gradle&#39; line: 24</span>
+
+<span style="color: #888888">* What went wrong:</span>
+<span style="color: #888888">Execution failed for task &#39;:gradleBuild&#39;.</span>
+<span style="color: #000080; font-weight: bold">&gt;</span> Could not find property <span style="color: #BA2121">&#39;latest&#39;</span> on org.gradle.api.internal.artifacts.repositories.DefaultFlatDirArtifactRepository_Decorated@8c1e4d5.
+
+<span style="color: #888888">* Try:</span>
+<span style="color: #888888">Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output.</span>
+
+<span style="color: #888888">BUILD FAILED</span>
+</pre></div>
+</p>
+
+<p>After much searching online, I still could not figure out what properties are supposed to be available from <code>repositories.localRepository3</code>. I looked at the <a href="http://www.gradle.org/docs/current/javadoc/overview-tree.html">Gradle documentation</a>, and I looked up the package <a href="http://www.gradle.org/docs/current/javadoc/org/gradle/api/artifacts/repositories/package-tree.html"><code>org.gradle.api.internal.artifacts.repositories</code></a> without success.</p>
+
+<p>Gradle&rsquo;s API has changed since the publication of the book, obviously. And in fact, I have been submitting <a href="https://github.com/gradleware/oreilly-gradle-book-examples/commit/351f31f1cdede84233b977e67031720177144aab">GitHub pull requests</a> as I update the code examples while encountering apparent changes. But sometimes, as in this case, it has been too confusing for me to figure out how to update the code. You could say that this is always the case for any code in any language, but what bothers me is the nature of error messages and documentation in APIs for dynamically typed languages such as Groovy. These experiences remind me that <em>types are documentation</em>, that <em>types are a way for a programmer to tell the world how code is supposed to be used</em>.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>Gradle seems to be a promising build tool, and I will continue to evaluate it while skipping over the particular mysterious error I encountered (since it is not really relevant to what I want to do in my builds), but I wish I could have better figured out what went wrong with the book&rsquo;s code example. Meanwhile, it remains to be seen what kinds of problems I will encounter when using SBT. Again, I have to emphasize that my goal is to get things done, correctly and efficiently. Whatever works best, I will use, whatever its drawbacks: in another project, I happily used <a href="../../../../../categories/scons/">SCons</a> as a build tool, based on the dynamically typed language Python, and of course, I have used <a href="http://rake.rubyforge.org/">Rake</a> for Ruby projects.</p>
+
+<h3 id="update-of-2015-05-18">(Update of 2015-05-18)</h3>
+
+<p>Wow, that was written in fall of 2012.</p>
+
+<p>Since then, I have heavily used SBT from then to the present first for Java, then for Scala, which <a href="http://franklinchen.com/blog/2013/01/11/2013-is-my-year-of-scala/">became my main programming language in early 2013</a>.</p>
+
+<p>Also, in early 2015, <a href="http://blog.pivotal.io/pivotal/news-2/groovy-2-4-and-grails-3-0-to-be-last-major-releases-under-pivotal-sponsorship">Pivotal got out of the Groovy business</a>.</p>
+
+<p>Meanwhile, in early 2015 as I adopted Haskell as my main language for new projects, I switched away from SCons as a general-purpose build tool to Haskell-based <a href="http://shakebuild.com/">Shake</a>, which works really great for me.</p>
+
+    <div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'franklinchen';
+    var disqus_identifier = 'http:\/\/franklinchen.com\/blog\/2012\/09\/24\/a-short-example-of-why-i-prefer-static-typing-learning-gradle\/';
+    var disqus_title = 'A short example of why I prefer static typing: learning Gradle';
+    var disqus_url = 'http:\/\/franklinchen.com\/blog\/2012\/09\/24\/a-short-example-of-why-i-prefer-static-typing-learning-gradle\/';
+
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+  </div>
+</div>
+<script src="http://franklinchen.com/js/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+</body>
+</html>
+

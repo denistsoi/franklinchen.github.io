@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grünfeld Defense on Franklin Chen</title>
+    <link>http://franklinchen.com/categories/gr%C3%BCnfeld-defense/atom/index.xml</link>
+    <description>Recent content in Grünfeld Defense on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/categories/gr%C3%BCnfeld-defense/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>World Chess Championship 2013, round 3: a fighting game worth studying</title>
+      <link>http://franklinchen.com/blog/2013/11/12/world-chess-championship-2013-round-3-a-fighting-game-worth-studying/</link>
+      <pubDate>Tue, 12 Nov 2013 22:47:56 -0500</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/11/12/world-chess-championship-2013-round-3-a-fighting-game-worth-studying/</guid>
+      <description>&lt;p&gt;In my continuing coverage of the &lt;a href=&#34;http://chennai2013.fide.com/&#34;&gt;World Chess Championship between Anand and Carlsen&lt;/a&gt;, today I cover round three, an exciting fighting game well worth studying.&lt;/p&gt;
+
+&lt;p&gt;Game and notes below:&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;If you were bored by the &lt;a href=&#34;../../blog/2013/11/09/world-chess-championship-2013/&#34;&gt;first round&lt;/a&gt; and the &lt;a href=&#34;../../blog/2013/11/10/world-chess-championship-2013-round-2-declining-the-sacrifice/&#34;&gt;second round&lt;/a&gt; games, because the play in both games involved no major errors and therefore ended quickly in a draw, study this third round game, even though it too ended in a draw!&lt;/p&gt;
+
+&lt;p&gt;Carlsen opened with the unambitious &lt;a href=&#34;http://en.wikipedia.org/wiki/R%C3%A9ti_Opening&#34;&gt;Réti Opening&lt;/a&gt; yet again, and Anand was happy to repeat the &lt;a href=&#34;http://en.wikipedia.org/wiki/Gr%C3%BCnfeld_Defence&#34;&gt;Grünfeld Defense&lt;/a&gt; setup of round 1. Carlsen varied by a very quick c4 thrust against Anand&amp;rsquo;s d5 Pawn, but Anand played the most aggressive continuation, taking the Pawn, guaranteeing an asymmetrical Pawn structure and therefore a chance at fighting chess.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-ambitious-maróczy-bind&#34;&gt;The ambitious Maróczy Bind&lt;/h3&gt;
+
+&lt;p&gt;In fact, Anand aggressively adopted a reverse &lt;a href=&#34;http://en.wikipedia.org/wiki/Sicilian_Defence,_Dragon_Variation&#34;&gt;Dragon Sicilian Defense&lt;/a&gt; setup, with good long-term positional prospects as Black. Furthermore, he also quickly chose a plan to try to transform the position into a deadly reverse &lt;a href=&#34;http://en.wikipedia.org/wiki/Mar%C3%B3czy_Bind&#34;&gt;Maróczy Bind&lt;/a&gt; structure to squeeze Carlsen to death. Carlsen played inaccurately and in fact allowed Anand to adopt this structure.&lt;/p&gt;
+
+&lt;p&gt;If you are not familiar with the Maróczy Bind setup, check out a couple of my games in which I won using it, so you can see what can happen against weak defense:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../blog/2012/09/19/round-3-of-pittsburgh-chess-club-tournament-another-approach-against-the-sicilian-squeezing-with-the-bind/&#34;&gt;as White&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://chessimprover.com/the-value-of-thematic-complete-games-against-a-weaker-opponent/&#34;&gt;in reverse as Black&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;carlsen-s-defense&#34;&gt;Carlsen&amp;rsquo;s defense&lt;/h3&gt;
+
+&lt;p&gt;Carlsen decided that instead of risking being squeezed to death, he would lash out and sacrifice a Pawn to get some open lines and possibly get chances against Anand&amp;rsquo;s King in order to simplify to a draw. I&amp;rsquo;m not sure whether it was sound, and Anand may have been able to play more challengingly to win (I have not done the intensive computer analysis to draw a conclusion), but in the end Anand wound up allowing simplification and losing back the won Pawn with a dead drawn ending.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-state-of-the-match-carlsen-under-real-pressure&#34;&gt;The state of the match: Carlsen under real pressure&lt;/h3&gt;
+
+&lt;p&gt;This is now the &lt;em&gt;third game in a row in which Anand acquired an advantage out of the opening&lt;/em&gt;. And in each game, his advantage in the game has only grown. This trend is not at all good for Carlsen. He has been completely neutralized as Anand has consistently gained superior space and piece play. Carlsen had to fight hard for a draw in this game. As White in two games now, he has been playing the opening poorly, which one does not need to be a world class player to see. Is this rope-a-dope or what?&lt;/p&gt;
+
+&lt;p&gt;But what about Anand? Why did he keep on taking the safe way out to a draw in three games when he could have avoided &lt;em&gt;simplification&lt;/em&gt; each time in an attempt to win? If Anand plays cautiously when he has the advantage, what might happen if Carlsen starts playing differently and gets Anand&amp;rsquo;s back against the wall in a game?&lt;/p&gt;
+
+&lt;h2 id=&#34;the-game&#34;&gt;The game&lt;/h2&gt;
+
+&lt;p&gt;&lt;link href=&#34;../../chess/pgn4web/template.css&#34; type=&#34;text/css&#34; rel=&#34;stylesheet&#34;&gt;&lt;/link&gt;&lt;/p&gt;
+
+&lt;style type=&#34;text/css&#34;&gt;
+  #GameLastComment {
+    font-style: italic
+  }
+&lt;/style&gt;
+
+&lt;script src=&#34;../../chess/pgn4web/pgn4web.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
+
+&lt;script type=&#34;text/javascript&#34;&gt;
+    &#34;use strict&#34;;
+
+    SetPgnUrl(&#34;/chess/anand-carlsen.pgn&#34;);
+    SetImagePath(&#34;/chess/pgn4web/images&#34;);
+    SetHighlightOption(true);
+    SetCommentsIntoMoveText(true);
+    SetCommentsOnSeparateLines(true);
+    SetInitialGame(3);
+    SetShortcutKeysEnabled(true);
+&lt;/script&gt;
+
+&lt;table&gt;
+    &lt;tr valign=&#34;top&#34;&gt;
+      &lt;td&gt;
+        &lt;div id=&#34;GameBoard&#34;&gt;&lt;/div&gt;
+        &lt;div id=&#34;GameButtons&#34;&gt;&lt;/div&gt;
+        &lt;span class=&#34;label&#34;&gt;Move comment:&lt;/span&gt;&lt;br&gt;&lt;span id=&#34;GameLastComment&#34;&gt;&lt;/span&gt;
+      &lt;/td&gt;
+
+      &lt;td&gt;
+        &lt;span class=&#34;label&#34;&gt;Event:&lt;/span&gt; &lt;span id=&#34;GameEvent&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Site:&lt;/span&gt; &lt;span id=&#34;GameSite&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Round:&lt;/span&gt; &lt;span id=&#34;GameRound&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Date:&lt;/span&gt; &lt;span id=&#34;GameDate&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;White:&lt;/span&gt; &lt;span id=&#34;GameWhite&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Black:&lt;/span&gt; &lt;span id=&#34;GameBlack&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Result:&lt;/span&gt; &lt;span id=&#34;GameResult&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Side to move:&lt;/span&gt; &lt;span id=&#34;GameSideToMove&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Last move:&lt;/span&gt; &lt;span id=&#34;GameLastMove&#34;&gt;&lt;/span&gt;&amp;nbsp; &lt;span class=&#34;label&#34;&gt;variations:&lt;/span&gt; &lt;span id=&#34;GameLastVariations&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Next move:&lt;/span&gt; &lt;span id=&#34;GameNextMove&#34;&gt;&lt;/span&gt;&amp;nbsp; &lt;span class=&#34;label&#34;&gt;variations:&lt;/span&gt; &lt;span id=&#34;GameNextVariations&#34;&gt;&lt;/span&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;hr/&gt;
+
+&lt;div id=&#34;GameText&#34;&gt;&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>World Chess Championship 2013 Round 1: how to understand the short 16-move Carlsen-Anand draw</title>
+      <link>http://franklinchen.com/blog/2013/11/09/world-chess-championship-2013/</link>
+      <pubDate>Sat, 09 Nov 2013 12:00:33 -0500</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/11/09/world-chess-championship-2013/</guid>
+      <description>&lt;p&gt;In the much-anticipated first round of the &lt;a href=&#34;http://chennai2013.fide.com/&#34;&gt;World Chess Championship between Anand and Carlsen&lt;/a&gt;, the game ended in a very quick 16-move draw.&lt;/p&gt;
+
+&lt;p&gt;In accordance with &lt;a href=&#34;../../blog/2013/11/07/the-chess-improver-how-to-watch-the-anand-carlsen-world-chess-championship-to-improve-your-own-game/&#34;&gt;my own advice on ways to follow the match to maximize learning&lt;/a&gt;, today I saw the match result, downloaded a PGN file of the game score, and then walked through it &lt;em&gt;without&lt;/em&gt; a computer engine running, analyzing the game with my own mind as I replayed the game. Then I double-checked my thoughts with a chess engine. I still have not bothered to read or watch any coverage of this first-round game; I will do that later.&lt;/p&gt;
+
+&lt;p&gt;Game and notes below:&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;disappointment-in-a-short-draw&#34;&gt;Disappointment in a short draw?&lt;/h2&gt;
+
+&lt;p&gt;I&amp;rsquo;m sure a lot of people were disappointed by this short draw. But one has to realized exactly what happened.&lt;/p&gt;
+
+&lt;p&gt;Carlsen played the unambitious &lt;a href=&#34;http://en.wikipedia.org/wiki/R%C3%A9ti_Opening&#34;&gt;Réti Opening&lt;/a&gt; as White, presumably hoping to avoid special preparation by Anand. Anand neutralized the opening early on with simple development using a &lt;a href=&#34;http://en.wikipedia.org/wiki/Gr%C3%BCnfeld_Defence&#34;&gt;Grünfeld Defense&lt;/a&gt; setup. Carlsen attempted to place his remaining undeveloped piece, the Queen Knight, on a more active square than the more &amp;ldquo;natural&amp;rdquo; square that would have overprotected the c4 Pawn, but Anand punished this by immediately attacking the c4 Pawn, resulting in Carlsen basically having to play moves that enabled Anand to choose to repeat the position for a draw.&lt;/p&gt;
+
+&lt;p&gt;Carlsen had no choice but to take the draw or stand clearly worse, so he bailed out. The question then is, should Anand tried to continue playing for a win, since it was his choice to take the draw or not?&lt;/p&gt;
+
+&lt;p&gt;In a match situation at this level, typically the player as Black is quite happy to take a draw, so it made sense for Anand to do so. It was possible for Anand to not force the draw, at the cost of loosening up his own Queen side, but why play in this risky way, as defending champion?&lt;/p&gt;
+
+&lt;h2 id=&#34;the-game&#34;&gt;The game&lt;/h2&gt;
+
+&lt;p&gt;Below is the game with annotations. My task was made easy in this case because it was such a short and clear game, without much complexity. I hope it will be harder in subsequent games in the match!&lt;/p&gt;
+
+&lt;p&gt;&lt;link href=&#34;../../chess/pgn4web/template.css&#34; type=&#34;text/css&#34; rel=&#34;stylesheet&#34;&gt;&lt;/link&gt;&lt;/p&gt;
+
+&lt;style type=&#34;text/css&#34;&gt;
+  #GameLastComment {
+    font-style: italic
+  }
+&lt;/style&gt;
+
+&lt;script src=&#34;../../chess/pgn4web/pgn4web.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
+
+&lt;script type=&#34;text/javascript&#34;&gt;
+    &#34;use strict&#34;;
+
+    SetPgnUrl(&#34;/chess/anand-carlsen.pgn&#34;);
+    SetImagePath(&#34;/chess/pgn4web/images&#34;);
+    SetHighlightOption(true);
+    SetCommentsIntoMoveText(true);
+    SetCommentsOnSeparateLines(true);
+    SetInitialGame(1);
+    SetShortcutKeysEnabled(true);
+&lt;/script&gt;
+
+&lt;table&gt;
+    &lt;tr valign=&#34;top&#34;&gt;
+      &lt;td&gt;
+        &lt;div id=&#34;GameBoard&#34;&gt;&lt;/div&gt;
+        &lt;div id=&#34;GameButtons&#34;&gt;&lt;/div&gt;
+        &lt;span class=&#34;label&#34;&gt;Move comment:&lt;/span&gt;&lt;br&gt;&lt;span id=&#34;GameLastComment&#34;&gt;&lt;/span&gt;
+      &lt;/td&gt;
+
+      &lt;td&gt;
+        &lt;span class=&#34;label&#34;&gt;Event:&lt;/span&gt; &lt;span id=&#34;GameEvent&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Site:&lt;/span&gt; &lt;span id=&#34;GameSite&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Round:&lt;/span&gt; &lt;span id=&#34;GameRound&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Date:&lt;/span&gt; &lt;span id=&#34;GameDate&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;White:&lt;/span&gt; &lt;span id=&#34;GameWhite&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Black:&lt;/span&gt; &lt;span id=&#34;GameBlack&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Result:&lt;/span&gt; &lt;span id=&#34;GameResult&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Side to move:&lt;/span&gt; &lt;span id=&#34;GameSideToMove&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Last move:&lt;/span&gt; &lt;span id=&#34;GameLastMove&#34;&gt;&lt;/span&gt;&amp;nbsp; &lt;span class=&#34;label&#34;&gt;variations:&lt;/span&gt; &lt;span id=&#34;GameLastVariations&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Next move:&lt;/span&gt; &lt;span id=&#34;GameNextMove&#34;&gt;&lt;/span&gt;&amp;nbsp; &lt;span class=&#34;label&#34;&gt;variations:&lt;/span&gt; &lt;span id=&#34;GameNextVariations&#34;&gt;&lt;/span&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;hr/&gt;
+
+&lt;div id=&#34;GameText&#34;&gt;&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Round 2 of Pittsburgh Chess Club Tournament: Very short game with  a note on psychology</title>
+      <link>http://franklinchen.com/blog/2012/11/20/round-2-of-pittsburgh-chess-club-tournament-very-short-game-with-a-note-on-psychology/</link>
+      <pubDate>Tue, 20 Nov 2012 20:49:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/11/20/round-2-of-pittsburgh-chess-club-tournament-very-short-game-with-a-note-on-psychology/</guid>
+      <description>&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/chen-prokhov-2012-11-20_files/round2.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Round 2 in progress&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;After the &lt;a href=&#34;../../blog/2012/11/13/round-1-of-pittsburgh-chess-club-tournament-revenge-of-the-knight/&#34;&gt;complex game in round 1&lt;/a&gt;, I was hoping for another interesting fight in round 2, in which I played White.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, the game ended up being very short, with my having a won position after ten minutes of play. My opponent kept going for a while, but resigned before an hour was up.&lt;/p&gt;
+
+&lt;h2 id=&#34;today-s-lesson&#34;&gt;Today&amp;rsquo;s lesson&lt;/h2&gt;
+
+&lt;p&gt;Since the game was so short, I will be writing about the psychology of what happened, what has happened in the past with this opponent (whom I have now played &lt;em&gt;twelve&lt;/em&gt; times in my life in tournaments), and what might have happened.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-complete-annotated-game&#34;&gt;The complete annotated game&lt;/h2&gt;
+
+&lt;p&gt;I am not including the complete game because the winning position straight out of the opening says it all (see below).&lt;/p&gt;
+
+&lt;h2 id=&#34;preparation&#34;&gt;Preparation&lt;/h2&gt;
+
+&lt;h3 id=&#34;our-previous-encounters&#34;&gt;Our previous encounters&lt;/h3&gt;
+
+&lt;p&gt;As I mentioned, this was the twelfth time I have faced this opponent since I started playing tournament chess in Pittsburgh seven years ago.&lt;/p&gt;
+
+&lt;p&gt;The last time I played him was in the Tuesday night tournament two months ago, in which &lt;a href=&#34;../../blog/2012/09/12/round-2-of-the-pittsburgh-chess-club-tournament-winning-in-the-sicilian-defense-the-philosophy-and-psychology-of-struggle/&#34;&gt;I played him as Black in round 2&lt;/a&gt;. That marked the &lt;em&gt;eleventh&lt;/em&gt; time I had played him, and the &lt;em&gt;eleventh&lt;/em&gt; time I had won.&lt;/p&gt;
+
+&lt;p&gt;I came into tonight&amp;rsquo;s game against him having a record of &lt;em&gt;six&lt;/em&gt; wins as Black and &lt;em&gt;five&lt;/em&gt; wins as White, and &lt;em&gt;no&lt;/em&gt; losses or draws.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Imagine what it&amp;rsquo;s like to have lost all eleven games you have played against a particular opponent over the past seven years.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;the-psychology-of-loss&#34;&gt;The psychology of loss&lt;/h3&gt;
+
+&lt;p&gt;It&amp;rsquo;s a very tough situation to be in. I have never had this kind of poor record against anyone, because I have not played enough tournament chess, encountering a much stronger player repeatedly, to have had this kind of experience.&lt;/p&gt;
+
+&lt;p&gt;However, the closest I have been to this situation has been against an Expert whom I have a really bad record against (sadly, he passed away relatively recently, so I will never get another rematch against him to prove that I have resolved my psychological issues), despite having a won position in almost all of our encounters. (&lt;a href=&#34;../../blog/2012/09/26/the-worst-chess-move-i-ever-played/&#34;&gt;I mentioned one of these crazy won positions here&lt;/a&gt;.)&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s very difficult to face someone that you know you&amp;rsquo;ve lost to again and again. Even if you know you &amp;ldquo;could have&amp;rdquo; played better, you wonder why you didn&amp;rsquo;t. You question yourself. You get angry. You get anxious.&lt;/p&gt;
+
+&lt;h3 id=&#34;my-preparation&#34;&gt;My preparation&lt;/h3&gt;
+
+&lt;p&gt;I did a bit of preparation myself, because &lt;em&gt;in many of our games, I actually fell into a lost position&lt;/em&gt; and won only because he made more errors later. I mentioned after September&amp;rsquo;s game how I got spooked and &lt;a href=&#34;../../blog/2012/09/12/round-2-of-the-pittsburgh-chess-club-tournament-winning-in-the-sicilian-defense-the-philosophy-and-psychology-of-struggle/&#34;&gt;ended up in an even position&lt;/a&gt; and worried that the result might be a draw. However, I was determined to just play the position out and my opponent fell apart and I won.&lt;/p&gt;
+
+&lt;p&gt;Looking at my record of (now) twelve wins out of twelve games makes it look like my games against him were a piece of cake. Nothing could be further from the truth: he played quite well in some of our games, and simply made unforced errors at critical points.&lt;/p&gt;
+
+&lt;p&gt;My goal since I returned to chess this year has been to slay some of my own demons when playing against him: I want to win every game &amp;ldquo;correctly&amp;rdquo;, through my strong play and not through his unforced errors.&lt;/p&gt;
+
+&lt;p&gt;Tonight, as White, I expected to play into the same opening variation that we had played twice five years ago, the last two games in which I was White and he was Black. In fact, after the second of these games, he had said he had prepared for the variation I had played in the first one, but I had deliberately varied. Tonight, I had planned to play into one of the variations deliberately, in case he wanted to prove himself again, because in those two games, I had actually misplayed the opening eventually and gotten into trouble. So for tonight, I was choosing to &lt;em&gt;do it right&lt;/em&gt; this time, rather than avoid that problematic opening variation.&lt;/p&gt;
+
+&lt;h3 id=&#34;his-preparation&#34;&gt;His preparation&lt;/h3&gt;
+
+&lt;p&gt;So what was his preparation? A friend of mine told me that he had asked last Wednesday whom he was going to play this Tuesday (since the pairings for the next round are made right after all the games are done on Tuesdays), and what color he was going to get. So he had known for almost a week that he was going to be Black against me.&lt;/p&gt;
+
+&lt;p&gt;After tonight&amp;rsquo;s game, I did not ask him what his preparation was, but I can only guess by how the game proceeded.&lt;/p&gt;
+
+&lt;h2 id=&#34;overview-of-my-game&#34;&gt;Overview of my game&lt;/h2&gt;
+
+&lt;h3 id=&#34;the-opening&#34;&gt;The opening&lt;/h3&gt;
+
+&lt;p&gt;I decided to play &lt;code&gt;d4&lt;/code&gt; deliberately aiming for the opening variation we had fought over the last two times I was White against him.&lt;/p&gt;
+
+&lt;p&gt;To my &lt;em&gt;surprise&lt;/em&gt;, he varied quickly by playing the &lt;a href=&#34;http://en.wikipedia.org/wiki/Gr%C3%BCnfeld_Defence&#34;&gt;Grünfeld Defense&lt;/a&gt; against me. So it would seem that he scored psychologically.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;But who surprised whom?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Maybe I missed something, but I have &lt;em&gt;never&lt;/em&gt; seen him play the Grünfeld Defense. It definitely is not what he usually plays, in any case; in tournaments I saunter around sometimes to check out other people&amp;rsquo;s games, and so I have a decent idea of what openings everyone plays.&lt;/p&gt;
+
+&lt;p&gt;Given that I suspected he did not play this opening often, I simply chose to play a less common variation in response (after too many &amp;ldquo;surprises&amp;rdquo; in the past, I now always have several less common variations up my sleeve in every opening I play).&lt;/p&gt;
+
+&lt;p&gt;He clearly did not know how to continue properly, and simply fell apart, making poor moves until he lost a piece, after which he should have resigned, but did not:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/chen-prokhov-2012-11-20_files/diag3FEBA8FB8FA7808B.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Black is totally lost&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;h2 id=&#34;lessons&#34;&gt;Lessons&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;It is admittedly hard to play against someone that you&amp;rsquo;ve lost eleven games to and never won or drew against.&lt;/li&gt;
+&lt;li&gt;However, this does not mean the winner does not also have his own anxieties about keeping the streak alive and honest.&lt;/li&gt;
+&lt;li&gt;When trying to surprise an opponent, make sure you don&amp;rsquo;t surprise yourself instead!&lt;/li&gt;
+&lt;li&gt;My opponent should have studied up details of his favorite opening that I was going to play into, instead of &lt;em&gt;avoiding his favorite opening&lt;/em&gt;. You must have faith in your openings, and not abandon them because you lost; the loss was not necessarily the opening&amp;rsquo;s fault (and in our case, definitely was not).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;what-next&#34;&gt;What next?&lt;/h2&gt;
+
+&lt;p&gt;Next week for round 3 I expect to be Black, against probably a fellow Expert.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;I had a disappointingly short and one-sided game in round 2 of the tournament, in which my opponent seemed unprepared for the very opening surprise he tried to spring on me. I hope that the next time we meet again in a tournament, we will have a better game.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clu on Franklin Chen</title>
+    <link>http://franklinchen.com/categories/clu/atom/index.xml</link>
+    <description>Recent content in Clu on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/categories/clu/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Seeing the inventor of the abstract data type</title>
+      <link>http://franklinchen.com/blog/2011/11/10/seeing-the-inventor-of-the-abstract-data-type/</link>
+      <pubDate>Thu, 10 Nov 2011 18:54:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2011/11/10/seeing-the-inventor-of-the-abstract-data-type/</guid>
+      <description>&lt;p&gt;&lt;em&gt;(Important update added to the end of this post.)&lt;/em&gt;&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/liskov/power-of-abstraction.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Barbara Liskov accepting Katayanagi Prize at CMU&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;a href=&#34;http://events.web.cmu.edu/ecal/event/131972213534041859&#34;&gt;Today at CMU&lt;/a&gt;, I finally had the opportunity to see a living legend, &lt;a href=&#34;http://en.wikipedia.org/wiki/Barbara_Liskov&#34;&gt;Barbara Liskov&lt;/a&gt;, computer science professor at MIT and winner of the &lt;a href=&#34;http://en.wikipedia.org/wiki/Turing_Award&#34;&gt;Turing Award&lt;/a&gt; in 2008. She won it largely for her invention of the &lt;a href=&#34;http://en.wikipedia.org/wiki/Abstract_data_type&#34;&gt;abstract data type&lt;/a&gt;, a concept that is so foundational in modern software development that a programmer ignorant of history is likely to react, &amp;ldquo;What, she got a Turing Award for something so obvious?&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;But that&amp;rsquo;s the beauty of computer science: it is such a young field that many of the ideas we take for granted now were &lt;em&gt;not&lt;/em&gt; so obvious decades ago, and had to be discovered and codified and explained.&lt;/p&gt;
+
+&lt;p&gt;I had to leave Liskov&amp;rsquo;s talk right after she was done (it had already run over time), so I missed the question-and-answer session, unfortunately. I had been considering asking some questions, but since I lost that opportunity, I will pose them here instead.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-invention-of-the-abstract-data-type&#34;&gt;The invention of the abstract data type&lt;/h2&gt;
+
+&lt;p&gt;Basically, Liskov formalized the notion of the abstract data type (ADT) while at MIT in the early 1970s, and with some graduate students implemented ADTs as a fundamental construct in an actual programming language, &lt;a href=&#34;http://en.wikipedia.org/wiki/CLU_(programming_language)&#34;&gt;CLU&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Most of you probably haven&amp;rsquo;t heard of CLU, unless you went to &lt;a href=&#34;http://www.pmg.csail.mit.edu/CLU.html&#34;&gt;MIT&lt;/a&gt; where it&amp;rsquo;s been used for ages in courses. I only know about CLU because a long time ago, I had an MIT friend who mentioned CLU when I was asking him &lt;a href=&#34;../../blog/2011/10/25/rip-john-mccarthy-but-lisp-will-never-die/&#34;&gt;what to learn to become a programmer&lt;/a&gt;. I never actually wrote or ran a program in CLU, although I did take a look at the language. Some features of CLU (recall that it was developed in the early 1970s):&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;modules (called &amp;ldquo;clusters&amp;rdquo;)&lt;/li&gt;
+&lt;li&gt;information hiding&lt;/li&gt;
+&lt;li&gt;static typing, including what are now called generics&lt;/li&gt;
+&lt;li&gt;iterators (what we now usually call &lt;a href=&#34;http://en.wikipedia.org/wiki/Generator_%28computer_science%29&#34;&gt;generators&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;exception handling&lt;/li&gt;
+&lt;li&gt;garbage collection&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Think about it. Java, developed &lt;em&gt;two decades&lt;/em&gt; after CLU, didn&amp;rsquo;t even have generics. And it does not have true iterators.&lt;/p&gt;
+
+&lt;h3 id=&#34;a-tangent-on-technology-adoption&#34;&gt;A tangent on technology adoption&lt;/h3&gt;
+
+&lt;p&gt;If you are in industry, a lesson to take away is that there is probably computer science research in academia &lt;em&gt;right now&lt;/em&gt; that is useful but you won&amp;rsquo;t be using for twenty or thirty years.&lt;/p&gt;
+
+&lt;p&gt;If you are in academia, you might want to consider helping get good technology out the door before industry wastes two or three decades flailing around using inferior or broken ideas. (In fact, Liskov in her talk today noted that she had considered commercializing CLU.)&lt;/p&gt;
+
+&lt;h3 id=&#34;influence-on-other-languages&#34;&gt;Influence on other languages&lt;/h3&gt;
+
+&lt;p&gt;Liskov chose in her initial work to focus on data abstraction, rather than unify that with object-orientation, which had begun being implemented in the 1960s by &lt;a href=&#34;http://en.wikipedia.org/wiki/Simula&#34;&gt;Simula&lt;/a&gt;, but later contributed to the understanding of &lt;a href=&#34;http://en.wikipedia.org/wiki/Liskov_substitution_principle&#34;&gt;subtyping&lt;/a&gt; in object-oriented languages.&lt;/p&gt;
+
+&lt;p&gt;C++ took templates and exceptions from CLU. (Java, of course, took them from C++.)&lt;/p&gt;
+
+&lt;p&gt;Python, Ruby and other newer languages include iterators. To clarify: C++ and Java have &amp;ldquo;iterators&amp;rdquo; of a much different variety, which are just ordinary objects that have been implemented in often a convoluted way to maintain state for iterating through another object. The &amp;ldquo;real&amp;rdquo; iterators operate in conjunction with a special language construct usually called &lt;code&gt;yield&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;questions-i-have&#34;&gt;Questions I have&lt;/h2&gt;
+
+&lt;p&gt;The world is globalized and connected now much more than it was back in the 1970s. So sometimes I wonder, what if it had been more connected in the past?&lt;/p&gt;
+
+&lt;h3 id=&#34;the-c-world&#34;&gt;The C world&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/C_(programming_language)&#34;&gt;C&lt;/a&gt; was developed between 1969 and 1973.  &lt;a href=&#34;../../blog/2011/10/13/why-dennis-ritchie-is-important/&#34;&gt;Dennis Ritchie&lt;/a&gt; wrote a little article, &lt;a href=&#34;https://www.bell-labs.com/usr/dmr/www/chist.html&#34;&gt;&amp;ldquo;The Development of the C Language&amp;rdquo;&lt;/a&gt;, in which he acknowledged the debt to Fortran and Algol. However, its goal as a low-level language for implementing Unix meant that it cut various corners. I wonder if the history of computing would have been different had there been more attention paid, even in the constrained context of Unix implementation, to interesting academic work. I don&amp;rsquo;t know what Ritchie and Thompson and others knew, if anything, about the work on modularity, types, etc. Maybe they knew, but didn&amp;rsquo;t care because they were building something just for themselves and they were such good programmers they didn&amp;rsquo;t need any help writing great code. It would be interesting, as a matter of historical record, to know who knew what and thought what, when.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-functional-programming-world&#34;&gt;The functional programming world&lt;/h3&gt;
+
+&lt;p&gt;Absent from Liskov&amp;rsquo;s talk was any mention of the functional programming world.  &lt;a href=&#34;http://en.wikipedia.org/wiki/ML_programming_language&#34;&gt;ML&lt;/a&gt; came on the scene also in the 1970s. Later, &lt;a href=&#34;http://en.wikipedia.org/wiki/Standard_ML&#34;&gt;Standard ML&lt;/a&gt; came along. I don&amp;rsquo;t know the details of the exact chronology, but Standard ML had polymorphism and exceptions right off the bat, and a module system added on top of that.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Liskov&amp;rsquo;s talk involved a lot of tracing of the history of ideas that led to her contributions.&lt;/p&gt;
+
+&lt;p&gt;I am very curious about what influenced what, in the entire space of the history of programming languages. Obviously, a lot of ideas were floating around in the 1960s, 1970s, and 1980s, so it&amp;rsquo;s possible that many programming language features were invented independently from the same pool of rough ideas.&lt;/p&gt;
+
+&lt;p&gt;Sometimes I wonder whether continual reinvention could be minimized, by more sharing and awareness. Even today there is a proliferation of languages, many of which were or are invented by some individual who is not aware of the full history or rigorous achievements in the area of programming language semantics or design, and therefore perpetuate problems that for decades already we have known to avoid. I wonder if this situation is really inevitable.&lt;/p&gt;
+
+&lt;p&gt;Of course, the question might be moot, because it is always possible that human beings will simply make radically different choices, even when they are fully aware of all the ideas that are around at any given time.&lt;/p&gt;
+
+&lt;p&gt;What&amp;rsquo;s the next step? What will we using doing twenty years from now that is currently already brewing in a university or other research lab &lt;em&gt;right now&lt;/em&gt;? From my point of view, the most interesting work being done right now is that focused on going beyond the currently most powerful statically typed languages (such as ML, Haskell, Scala) to &lt;a href=&#34;http://en.wikipedia.org/wiki/Dependent_type&#34;&gt;dependently typed languages&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;update&#34;&gt;(Update)&lt;/h2&gt;
+
+&lt;p&gt;I have been told that it is misleading to describe Liskov as &amp;ldquo;the inventor of the abstract data type&amp;rdquo;. I admit this was a terrible title for my talk report. The content of my report should make it clear that I was baffled by Liskov&amp;rsquo;s omission of entire lines of research from the 1970s that address data abstraction, whether through ML or John Reynolds&amp;rsquo; work. See &lt;a href=&#34;http://franklinchen.com/blog/2011/11/10/seeing-the-inventor-of-the-abstract-data-type/#comment-361232515&#34;&gt;Bob Harper&amp;rsquo;s Disqus comment here&lt;/a&gt; for his own elaborations.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>Seeing the inventor of the abstract data type &middot; Franklin Chen</title>
+
+  
+  <link rel="stylesheet" href="http://franklinchen.com/css/poole.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/hyde.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/poole-overrides.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/hyde-overrides.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/hyde-x.css">
+
+  <link rel="stylesheet" href="http://franklinchen.com/css/franklin.css">
+
+  <link rel="stylesheet" href="http://franklinchen.com/css/highlight/default.css">
+  <link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://franklinchen.com/touch-icon-144-precomposed.png">
+  <link href="http://franklinchen.com/favicon.png" rel="icon">
+
+  
+  
+  
+  
+
+  <meta name="description" content="Franklin Chen&#39;s personal Web site and blog">
+  <meta name="keywords" content="Franklin Chen, blog">
+  <link rel="author" href="http://plus.google.com/100967806642012078047">
+</head>
+<body class="theme-base-0e">
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      
+        
+        <h1>Franklin Chen</h1>
+        <p class="lead">Infinity in the palm of my hand.</p>
+    </div>
+
+    <ul class="sidebar-nav">
+      
+      <li class="sidebar-nav-item"><a href="http://franklinchen.com/contact/">Contact</a></li>
+      
+      <li class="sidebar-nav-item"><a href="http://ConscientiousProgrammer.com/">Programming blog</a></li>
+      <li class="sidebar-nav-item"><a href="http://chessimprover.com/author/franklinc/">Chess blog</a></li>
+      <li class="sidebar-nav-item"><a href="https://www.flickr.com/photos/franklinmingchen/">Photos</a></li>
+    </ul>
+
+    <ul class="sidebar-nav">
+      <li class="sidebar-nav-item">
+      <a href="https://github.com/FranklinChen"><i class="fa fa-github-square fa-3x"></i></a>
+      
+      
+      <a href="http://www.linkedin.com/in/franklinchen"><i class="fa fa-linkedin-square fa-3x"></i></a>
+      <a href="http://google.com/&#43;FranklinChen"><i class="fa fa-google-plus-square fa-3x"></i></a>
+      <a href="http://www.facebook.com/franklin.chen"><i class="fa fa-facebook-square fa-3x"></i></a>
+      <a href="http://twitter.com/franklinchen"><i class="fa fa-twitter-square fa-3x"></i></a>
+      <a href="http://www.youtube.com/user/FranklinChen"><i class="fa fa-youtube-square fa-3x"></i></a>
+      <a href="http://franklinchen.com/atom.xml" type="application/rss+xml"><i class="fa fa-rss-square fa-3x"></i></a>
+      </li>
+    </ul>
+
+    
+
+    <p>Copyright &copy; 2016 Franklin Chen<br/>
+       Powered by <a href="http://gohugo.io">Hugo</a> and <a href="https://github.com/zyro/hyde-x">Hyde-X</a></p>
+  </div>
+</div>
+
+
+<div class="content container">
+  <div class="post">
+    <h1>Seeing the inventor of the abstract data type</h1>
+    
+
+<p><em>(Important update added to the end of this post.)</em></p>
+
+
+<figure >
+    
+        <img src="../../../../../images/liskov/power-of-abstraction.jpg" />
+    
+    
+    <figcaption>
+        <h4>Barbara Liskov accepting Katayanagi Prize at CMU</h4>
+        
+    </figcaption>
+    
+</figure>
+
+
+<p><a href="http://events.web.cmu.edu/ecal/event/131972213534041859">Today at CMU</a>, I finally had the opportunity to see a living legend, <a href="http://en.wikipedia.org/wiki/Barbara_Liskov">Barbara Liskov</a>, computer science professor at MIT and winner of the <a href="http://en.wikipedia.org/wiki/Turing_Award">Turing Award</a> in 2008. She won it largely for her invention of the <a href="http://en.wikipedia.org/wiki/Abstract_data_type">abstract data type</a>, a concept that is so foundational in modern software development that a programmer ignorant of history is likely to react, &ldquo;What, she got a Turing Award for something so obvious?&rdquo;</p>
+
+<p>But that&rsquo;s the beauty of computer science: it is such a young field that many of the ideas we take for granted now were <em>not</em> so obvious decades ago, and had to be discovered and codified and explained.</p>
+
+<p>I had to leave Liskov&rsquo;s talk right after she was done (it had already run over time), so I missed the question-and-answer session, unfortunately. I had been considering asking some questions, but since I lost that opportunity, I will pose them here instead.</p>
+
+<h2 id="the-invention-of-the-abstract-data-type">The invention of the abstract data type</h2>
+
+<p>Basically, Liskov formalized the notion of the abstract data type (ADT) while at MIT in the early 1970s, and with some graduate students implemented ADTs as a fundamental construct in an actual programming language, <a href="http://en.wikipedia.org/wiki/CLU_(programming_language)">CLU</a>.</p>
+
+<p>Most of you probably haven&rsquo;t heard of CLU, unless you went to <a href="http://www.pmg.csail.mit.edu/CLU.html">MIT</a> where it&rsquo;s been used for ages in courses. I only know about CLU because a long time ago, I had an MIT friend who mentioned CLU when I was asking him <a href="../../../../../blog/2011/10/25/rip-john-mccarthy-but-lisp-will-never-die/">what to learn to become a programmer</a>. I never actually wrote or ran a program in CLU, although I did take a look at the language. Some features of CLU (recall that it was developed in the early 1970s):</p>
+
+<ul>
+<li>modules (called &ldquo;clusters&rdquo;)</li>
+<li>information hiding</li>
+<li>static typing, including what are now called generics</li>
+<li>iterators (what we now usually call <a href="http://en.wikipedia.org/wiki/Generator_%28computer_science%29">generators</a>)</li>
+<li>exception handling</li>
+<li>garbage collection</li>
+</ul>
+
+<p>Think about it. Java, developed <em>two decades</em> after CLU, didn&rsquo;t even have generics. And it does not have true iterators.</p>
+
+<h3 id="a-tangent-on-technology-adoption">A tangent on technology adoption</h3>
+
+<p>If you are in industry, a lesson to take away is that there is probably computer science research in academia <em>right now</em> that is useful but you won&rsquo;t be using for twenty or thirty years.</p>
+
+<p>If you are in academia, you might want to consider helping get good technology out the door before industry wastes two or three decades flailing around using inferior or broken ideas. (In fact, Liskov in her talk today noted that she had considered commercializing CLU.)</p>
+
+<h3 id="influence-on-other-languages">Influence on other languages</h3>
+
+<p>Liskov chose in her initial work to focus on data abstraction, rather than unify that with object-orientation, which had begun being implemented in the 1960s by <a href="http://en.wikipedia.org/wiki/Simula">Simula</a>, but later contributed to the understanding of <a href="http://en.wikipedia.org/wiki/Liskov_substitution_principle">subtyping</a> in object-oriented languages.</p>
+
+<p>C++ took templates and exceptions from CLU. (Java, of course, took them from C++.)</p>
+
+<p>Python, Ruby and other newer languages include iterators. To clarify: C++ and Java have &ldquo;iterators&rdquo; of a much different variety, which are just ordinary objects that have been implemented in often a convoluted way to maintain state for iterating through another object. The &ldquo;real&rdquo; iterators operate in conjunction with a special language construct usually called <code>yield</code>.</p>
+
+<h2 id="questions-i-have">Questions I have</h2>
+
+<p>The world is globalized and connected now much more than it was back in the 1970s. So sometimes I wonder, what if it had been more connected in the past?</p>
+
+<h3 id="the-c-world">The C world</h3>
+
+<p><a href="http://en.wikipedia.org/wiki/C_(programming_language)">C</a> was developed between 1969 and 1973.  <a href="../../../../../blog/2011/10/13/why-dennis-ritchie-is-important/">Dennis Ritchie</a> wrote a little article, <a href="http://cm.bell-labs.com/cm/cs/who/dmr/chist.html">&ldquo;The Development of the C Language&rdquo;</a>, in which he acknowledged the debt to Fortran and Algol. However, its goal as a low-level language for implementing Unix meant that it cut various corners. I wonder if the history of computing would have been different had there been more attention paid, even in the constrained context of Unix implementation, to interesting academic work. I don&rsquo;t know what Ritchie and Thompson and others knew, if anything, about the work on modularity, types, etc. Maybe they knew, but didn&rsquo;t care because they were building something just for themselves and they were such good programmers they didn&rsquo;t need any help writing great code. It would be interesting, as a matter of historical record, to know who knew what and thought what, when.</p>
+
+<h3 id="the-functional-programming-world">The functional programming world</h3>
+
+<p>Absent from Liskov&rsquo;s talk was any mention of the functional programming world.  <a href="http://en.wikipedia.org/wiki/ML_programming_language">ML</a> came on the scene also in the 1970s. Later, <a href="http://en.wikipedia.org/wiki/Standard_ML">Standard ML</a> came along. I don&rsquo;t know the details of the exact chronology, but Standard ML had polymorphism and exceptions right off the bat, and a module system added on top of that.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>Liskov&rsquo;s talk involved a lot of tracing of the history of ideas that led to her contributions.</p>
+
+<p>I am very curious about what influenced what, in the entire space of the history of programming languages. Obviously, a lot of ideas were floating around in the 1960s, 1970s, and 1980s, so it&rsquo;s possible that many programming language features were invented independently from the same pool of rough ideas.</p>
+
+<p>Sometimes I wonder whether continual reinvention could be minimized, by more sharing and awareness. Even today there is a proliferation of languages, many of which were or are invented by some individual who is not aware of the full history or rigorous achievements in the area of programming language semantics or design, and therefore perpetuate problems that for decades already we have known to avoid. I wonder if this situation is really inevitable.</p>
+
+<p>Of course, the question might be moot, because it is always possible that human beings will simply make radically different choices, even when they are fully aware of all the ideas that are around at any given time.</p>
+
+<p>What&rsquo;s the next step? What will we using doing twenty years from now that is currently already brewing in a university or other research lab <em>right now</em>? From my point of view, the most interesting work being done right now is that focused on going beyond the currently most powerful statically typed languages (such as ML, Haskell, Scala) to <a href="http://en.wikipedia.org/wiki/Dependent_type">dependently typed languages</a>.</p>
+
+<h2 id="update">(Update)</h2>
+
+<p>I have been told that it is misleading to describe Liskov as &ldquo;the inventor of the abstract data type&rdquo;. I admit this was a terrible title for my talk report. The content of my report should make it clear that I was baffled by Liskov&rsquo;s omission of entire lines of research from the 1970s that address data abstraction, whether through ML or John Reynolds&rsquo; work. See <a href="http://franklinchen.com/blog/2011/11/10/seeing-the-inventor-of-the-abstract-data-type/#comment-361232515">Bob Harper&rsquo;s Disqus comment here</a> for his own elaborations.</p>
+
+    <div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'franklinchen';
+    var disqus_identifier = 'http:\/\/franklinchen.com\/blog\/2011\/11\/10\/seeing-the-inventor-of-the-abstract-data-type\/';
+    var disqus_title = 'Seeing the inventor of the abstract data type';
+    var disqus_url = 'http:\/\/franklinchen.com\/blog\/2011\/11\/10\/seeing-the-inventor-of-the-abstract-data-type\/';
+
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+  </div>
+</div>
+<script src="http://franklinchen.com/js/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+</body>
+</html>
+

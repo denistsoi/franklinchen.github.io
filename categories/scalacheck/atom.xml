@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scalacheck on Franklin Chen</title>
+    <link>http://franklinchen.com/categories/scalacheck/atom/index.xml</link>
+    <description>Recent content in Scalacheck on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/categories/scalacheck/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>My Pittsburgh Scala Meetup talk on property-based testing using ScalaCheck</title>
+      <link>http://franklinchen.com/blog/2013/04/11/my-pittsburgh-scala-meetup-talk-on-property-based-testing-using-scalacheck/</link>
+      <pubDate>Thu, 11 Apr 2013 22:49:30 -0400</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/04/11/my-pittsburgh-scala-meetup-talk-on-property-based-testing-using-scalacheck/</guid>
+      <description>
+
+&lt;p&gt;Tonight was the &lt;a href=&#34;http://www.meetup.com/Pittsburgh-Scala-Meetup/events/108080782/&#34;&gt;third meeting&lt;/a&gt; of the &lt;a href=&#34;http://www.meetup.com/Pittsburgh-Scala-Meetup/&#34;&gt;Pittsburgh Scala Meetup&lt;/a&gt;. Our last meeting was &lt;a href=&#34;../../blog/2013/02/21/the-second-meeting-of-the-pittsburgh-scala-meetup-josh-suereth-on-functional-patterns-for-the-asynchronous-web/&#34;&gt;in late February&lt;/a&gt;, and we didn&amp;rsquo;t have a meeting in March.&lt;/p&gt;
+
+&lt;h2 id=&#34;attendance&#34;&gt;Attendance&lt;/h2&gt;
+
+&lt;p&gt;This time there were only six of us in attendance, but that had its advantages, as it resulted in everyone really participating fully in discussion.&lt;/p&gt;
+
+&lt;h2 id=&#34;presentation&#34;&gt;Presentation&lt;/h2&gt;
+
+&lt;p&gt;I gave a presentation &amp;ldquo;Beyond xUnit example-based testing: property-based testing with ScalaCheck&amp;rdquo; as an introduction to property-based testing, with examples using &lt;a href=&#34;http://www.scalacheck.org/&#34;&gt;ScalaCheck&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I prepared the presentation with the goal of spreading the word on property-based testing as a complement to much more widely used methods of testing in the TDD/BDD software development communities. My impression has been that outside of the functional programming communities such as those in Haskell (the pioneer of &lt;a href=&#34;http://en.wikipedia.org/wiki/QuickCheck&#34;&gt;QuickCheck&lt;/a&gt;), ML, and Haskell, there has not been as much use of property-based methods of design and testing. Fortunately, this has been changing.&lt;/p&gt;
+
+&lt;p&gt;In any case, I personally can no longer imagine not starting out design exploration without using ScalaCheck on Scala or Java based projects. It&amp;rsquo;s a useful additional tool for the developer&amp;rsquo;s toolkit.&lt;/p&gt;
+
+&lt;h3 id=&#34;slides-and-code&#34;&gt;Slides and code&lt;/h3&gt;
+
+&lt;p&gt;My slides are available &lt;a href=&#34;http://www.slideshare.net/FranklinChen/handout-18644963&#34;&gt;on slideshare&lt;/a&gt;, and a full SBT project of the code is &lt;a href=&#34;https://github.com/franklinchen/talk-on-scalacheck&#34;&gt;on GitHub&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Note that the slides are not in any way a substitute for the actual talk and the questions and answers and discussion during and after it! They are most useful as memory joggers for those who actually attended the presentation. A set of slides is nothing resembling a technical article or a blog post.&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src=&#34;http://www.slideshare.net/slideshow/embed_code/18644963&#34; width=&#34;427&#34; height=&#34;356&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px&#34; allowfullscreen webkitallowfullscreen mozallowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;http://www.slideshare.net/FranklinChen/handout-18644963&#34; title=&#34;Beyond xUnit example-based testing: property-based testing with ScalaCheck&#34; target=&#34;_blank&#34;&gt;Beyond xUnit example-based testing: property-based testing with ScalaCheck&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;http://www.slideshare.net/FranklinChen&#34; target=&#34;_blank&#34;&gt;Franklin Chen&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;after&#34;&gt;After&lt;/h2&gt;
+
+&lt;p&gt;Out of some questions during the talk, we came up with an idea for improving ScalaCheck that might be an interesting group project to work on.&lt;/p&gt;
+
+&lt;p&gt;There was also more general discussion of using Scala, upcoming and ongoing local Pittsburgh general tech gatherings, Josh filling us in on developments in the Scala world, and ideas for future presentations.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;It was a small gathering, but I enjoyed presenting on property-based testing, and we had some really good discussions. Another meeting for the Pittsburgh Scala Meetup has already been &lt;a href=&#34;http://www.meetup.com/Pittsburgh-Scala-Meetup/events/112652112/&#34;&gt;scheduled for May&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OpenHack Pittsburgh: exploring Scala odds and ends</title>
+      <link>http://franklinchen.com/blog/2013/03/25/openhack-pittsburgh-exploring-scala-odds-and-ends/</link>
+      <pubDate>Mon, 25 Mar 2013 22:43:00 -0400</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/03/25/openhack-pittsburgh-exploring-scala-odds-and-ends/</guid>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;http://www.meetup.com/pittsburgh-ruby/events/106184432/&#34;&gt;A third OpenHack Pittsburgh&lt;/a&gt; meeting was organized, and I attended again. It was held again at &lt;a href=&#34;http://www.thebeautyshoppe.org/&#34;&gt;The Beauty Shoppe&lt;/a&gt;, just like the &lt;a href=&#34;../../blog/2013/02/25-openhack-pittsburgh-studying-scala/&#34;&gt;previous time&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I was pleased by how much progress had been made in the construction inside. The space was looking really nice.&lt;/p&gt;
+
+&lt;h2 id=&#34;scala-stuff&#34;&gt;Scala stuff&lt;/h2&gt;
+
+&lt;p&gt;My plan was to continue working on a personal project in Scala. That plan kind of changed because Roy wanted to ask me questions about Scala. I told him that I&amp;rsquo;m still learning stuff myself, but answered his questions as well as I could.&lt;/p&gt;
+
+&lt;h3 id=&#34;unit-testing&#34;&gt;Unit testing&lt;/h3&gt;
+
+&lt;p&gt;One question Roy had was about unit test frameworks and generating independent tests (as opposed to writing a single test that makes many generated assertions, because such a test would simply stop at the first failed assertion. I told him this was easy to do with either the &lt;a href=&#34;http://etorreborre.github.com/specs2/&#34;&gt;Specs2&lt;/a&gt; unit testing framework or the &lt;a href=&#34;http://www.scalatest.org/&#34;&gt;ScalaTest&lt;/a&gt; one (I use Specs2).&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s sample code showing &lt;a href=&#34;https://github.com/FranklinChen/test-loop-over-tests&#34;&gt;how to do it&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;property-based-testing&#34;&gt;Property-based testing&lt;/h3&gt;
+
+&lt;p&gt;I also mentioned that I was working on a presentation on a cool Scala library supporting property-based testing, &lt;a href=&#34;http://www.scalacheck.org/&#34;&gt;ScalaCheck&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&#34;update-of-2013-04-11&#34;&gt;(Update of 2013-04-11)&lt;/h4&gt;
+
+&lt;p&gt;I ended up &lt;a href=&#34;../../blog/2013/04/11/my-pittsburgh-scala-meetup-talk-on-property-based-testing-using-scalacheck/&#34;&gt;giving a talk at the Pittsburgh Scala meetup in April on ScalaCheck&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;continuations&#34;&gt;Continuations&lt;/h3&gt;
+
+&lt;p&gt;Roy asked about continuations in Scala, in the context of an idea he had for a Web app.&lt;/p&gt;
+
+&lt;p&gt;I said that I hadn&amp;rsquo;t personally used first-class continuations in Scala, but knew support for delimited continuations existed as a compiler plugin. So I looked up how to use them and created a little project as proof of concept (nothing worth seeing, just typical examples of code with &lt;code&gt;shift&lt;/code&gt; and &lt;code&gt;reset&lt;/code&gt; comparable to how I&amp;rsquo;d seen them used in other languages with delimited continuations); check out &lt;a href=&#34;http://suereth.blogspot.com/2010/03/how-you-should-think-about-delimited.html&#34;&gt;Josh Suereth&amp;rsquo;s (somewhat dated) article on delimited continuations in Scala&lt;/a&gt; for more details.&lt;/p&gt;
+
+&lt;p&gt;But I asked Roy what he really wanted continuations for anyway. They are a low-level concept, and there are higher-level constructs built on top of continuations that I think are more useful.&lt;/p&gt;
+
+&lt;p&gt;He said that he wanted to be able to have code &amp;ldquo;look&amp;rdquo; like it was synchronous but actually be asynchronous.&lt;/p&gt;
+
+&lt;h4 id=&#34;update-of-2014-04-21&#34;&gt;(Update of 2014-04-21)&lt;/h4&gt;
+
+&lt;p&gt;Scala continuations have been deprecated in &lt;a href=&#34;http://typesafe.com/blog/scala-211-has-arrived&#34;&gt;Scala 2.11&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;futures&#34;&gt;Futures&lt;/h3&gt;
+
+&lt;p&gt;So I told him, that&amp;rsquo;s the perfect use case for &lt;a href=&#34;http://docs.scala-lang.org/overviews/core/futures.html&#34;&gt;futures&lt;/a&gt;, which are well-supported in Scala, especially because of their compositional monadic properties in conjunction with nice &lt;code&gt;for&lt;/code&gt;-comprehension syntax.&lt;/p&gt;
+
+&lt;p&gt;I said, the only drawback is that you have to write code in monadic style.&lt;/p&gt;
+
+&lt;p&gt;When I went home after OpenHack Pittsburgh, however, I coincidentally found that there was a project to improve the syntax of writing this kind of asynchronous computation! &lt;a href=&#34;http://doc.akka.io/docs/akka/snapshot/scala/dataflow.html&#34;&gt;Akka Dataflow&lt;/a&gt; does precisely this, using the continuation plugin.&lt;/p&gt;
+
+&lt;h4 id=&#34;update-of-2013-08-27&#34;&gt;(Update of 2013-08-27)&lt;/h4&gt;
+
+&lt;p&gt;There has been other work to improve syntactic support for asynchronous computation. &lt;a href=&#34;https://github.com/scala/async&#34;&gt;&lt;code&gt;async&lt;/code&gt;&lt;/a&gt; uses &lt;a href=&#34;http://scalamacros.org/&#34;&gt;macros&lt;/a&gt; to try to provide the nice syntactic experience without the overhead of the continuation plugin.&lt;/p&gt;
+
+&lt;h4 id=&#34;update-of-2013-12-17&#34;&gt;(Update of 2013-12-17)&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/akka/akka/commit/66e40084946f6f993a2c62d9921718704daf448a&#34;&gt;&lt;code&gt;dataflow&lt;/code&gt; has been deprecated&lt;/a&gt;, now that &lt;code&gt;async&lt;/code&gt; is fully mature (I have been happily using it for a while now).&lt;/p&gt;
+
+&lt;h4 id=&#34;update-of-2013-12-31&#34;&gt;(Update of 2013-12-31)&lt;/h4&gt;
+
+&lt;p&gt;More specifically, &lt;code&gt;async&lt;/code&gt; was much improved just in time for it to be officially used in the Coursera course &amp;ldquo;Principles of Reactive Programming&amp;rdquo;, which &lt;a href=&#34;http://conscientiousprogrammer.com/blog/2013/12/31/review-of-the-free-coursera-course-principles-of-reactive-programming/&#34;&gt;I just completed and reviewed&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;implicits&#34;&gt;Implicits&lt;/h3&gt;
+
+&lt;p&gt;Roy asked me about other interesting features of Scala. I had to say something about implicits, of course, useful for simulating monkey patching as well as simulating Haskell type classes.&lt;/p&gt;
+
+&lt;p&gt;Implicits are probably the single most interesting language feature of Scala.&lt;/p&gt;
+
+&lt;h4 id=&#34;update-of-2014-02-13&#34;&gt;(Update of 2014-02-13)&lt;/h4&gt;
+
+&lt;p&gt;There was a &lt;a href=&#34;http://conscientiousprogrammer.com/blog/2014/02/13/pittsburgh-scala-meetup-implicits/&#34;&gt;Pittsburgh Scala Meetup session on implicits&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;specialization-of-generics&#34;&gt;Specialization of generics&lt;/h3&gt;
+
+&lt;p&gt;Roy wanted to know whether generics can be specialized in Scala (in contrast to Java, which treats generics as erasure). I said, yes, actually. Fully automatic, efficient specialization is still being improved on, but for now, there&amp;rsquo;s a manual way to do specialization through the &lt;a href=&#34;http://lampwww.epfl.ch/~dragos/files/scala-spec.pdf&#34;&gt;&lt;code&gt;@specialized&lt;/code&gt; annotation&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&#34;update-of-2014-07-17&#34;&gt;(Update of 2014-07-17)&lt;/h4&gt;
+
+&lt;p&gt;There&amp;rsquo;s also &lt;a href=&#34;http://scala-miniboxing.org/&#34;&gt;Miniboxing&lt;/a&gt; for efficiency.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;It was stimulating talking with Roy about Scala and trying to explain stuff to him on the fly, or look stuff up (thank goodness for WiFi in The Beauty Shoppe!), or code something right there and then. The conversations also caused me to do my homework after the meetup!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open Spaces success at the Pittsburgh Java User Group!</title>
+      <link>http://franklinchen.com/blog/2011/10/26/open-spaces-success-at-the-pittsburgh-java-users-group/</link>
+      <pubDate>Wed, 26 Oct 2011 21:19:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2011/10/26/open-spaces-success-at-the-pittsburgh-java-users-group/</guid>
+      <description>&lt;p&gt;Yesterday evening, the &lt;a href=&#34;http://java.net/projects/pittjug/&#34;&gt;Pittsburgh Java User Group&lt;/a&gt; (PittJUG) for the first time adopted an Open Spaces format. The basic idea is that instead of having someone give an hour-long presentation on something, everyone gets involved in choosing topics of discussion and we all break up into small groups to sit in a circle and chat (&lt;a href=&#34;https://docs.google.com/document/d/1Yufdr8zGBCWawsuEfKXXkM6ddcHnuhywzGw1lJ0u5TE/edit&#34;&gt;more details&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;If you have never been to an event with this Open Spaces format and philosophy, such an idea might sound chaotic and confusing. The first time I heard about the format, I was extremely skeptical. But the first time I went to an event adopting it, the first &lt;a href=&#34;http://www.pghgeekoutday.com/&#34;&gt;Pittsburgh Geek Out Day&lt;/a&gt;, I found it quite useful and am totally sold on its virtues.&lt;/p&gt;
+
+&lt;p&gt;This is a report on the two sessions that I attended. The &lt;a href=&#34;http://java.net/projects/pittjug/lists/pittjug/archive&#34;&gt;PittJUG mailing list&lt;/a&gt; has some discussion already of the two sessions that I had to miss.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/pittjug/first-open-spaces.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;First Open Spaces at PittJUG&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-topics&#34;&gt;The topics&lt;/h2&gt;
+
+&lt;p&gt;Fifteen of us showed up, and the goal was to collectively decide on four topics to break up into two time slots and two rooms, so that for each time slot, one could choose one of the two topics available and meet in the designated room. We went around the room so that everyone could volunteer a topic of interest, and eventually we consolidated popular related topics such that we had the following:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Software entrepreneurship&lt;/li&gt;
+&lt;li&gt;IDEs&lt;/li&gt;
+&lt;li&gt;Scala&lt;/li&gt;
+&lt;li&gt;Testing and continuous deployment&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I had actually submitted three Post-It notes suggesting topics on IDEs, Scala, and testing, so I was pretty happy that others were thinking similarly, and I ended up having to choose between Scala and testing, and going to the Scala session.&lt;/p&gt;
+
+&lt;p&gt;Each session ended up having around eight people each, so there were no extremely small or extremely large sessions.&lt;/p&gt;
+
+&lt;h2 id=&#34;ides&#34;&gt;IDEs&lt;/h2&gt;
+
+&lt;p&gt;At the session on IDEs, discussion revolved mostly around the following IDEs:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Eclipse&lt;/li&gt;
+&lt;li&gt;IntelliJ IDEA&lt;/li&gt;
+&lt;li&gt;NetBeans&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Everyone had extensive experience with and advocacy of at least one of these, so it was good to have many different points of view.&lt;/p&gt;
+
+&lt;p&gt;Some of the things I learned:&lt;/p&gt;
+
+&lt;h3 id=&#34;eclipse&#34;&gt;Eclipse&lt;/h3&gt;
+
+&lt;p&gt;Eclipse is free, and a lot of plugins are developed for it, but all of us have had some kind of problem using Eclipse, such as trouble installing a plugin, crashes, competing plugins (such as for Maven), refresh/synchronization problems, inconsistency across platforms. Some advocates of Eclipse said that once you get it working, it&amp;rsquo;s great. And from an ideological and philosophical point of view, it is completely free.&lt;/p&gt;
+
+&lt;h3 id=&#34;intellij-idea&#34;&gt;IntelliJ IDEA&lt;/h3&gt;
+
+&lt;p&gt;IntelliJ IDEA started off as a purely commercial product but has been available in a free community edition. For some people, the fact that it is not completely free is a minus. On the other hand, since the IntelliJ ecosystem is less sprawling than that of Eclipse, there are fewer headaches when it comes to choice of plugins and getting things to work.&lt;/p&gt;
+
+&lt;h3 id=&#34;netbeans&#34;&gt;NetBeans&lt;/h3&gt;
+
+&lt;p&gt;Some people particularly liked NetBeans. One advantage of it is the tight integration with Java EE 6. Things work out of the box. Also, the UML support is good (in contrast to Eclipse).&lt;/p&gt;
+
+&lt;h3 id=&#34;philosophy&#34;&gt;Philosophy&lt;/h3&gt;
+
+&lt;p&gt;We talked about the question of what our individual preferences was: a system that offered many components to choose from and configure, or a system that works out of the box. Many of us choose depending on the situation; sometimes it&amp;rsquo;s nice to build your own, but sometimes one just wants to get stuff done quickly.&lt;/p&gt;
+
+&lt;h3 id=&#34;practical-considerations&#34;&gt;Practical considerations&lt;/h3&gt;
+
+&lt;p&gt;There was a fair amount of discussion of practical considerations when choosing an IDE. Sometimes there is no choice, when working with other people or in a particular organization. Also, there was discussion of whether it makes sense for people to use different IDEs when operating on the same code base.&lt;/p&gt;
+
+&lt;h3 id=&#34;more-than-just-about-code&#34;&gt;More than just about code&lt;/h3&gt;
+
+&lt;p&gt;Time was running out when we started talking about how nice it would be if we could have an IDE link code to design documents.&lt;/p&gt;
+
+&lt;h2 id=&#34;scala&#34;&gt;Scala&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://jsuereth.com/&#34;&gt;Josh Suereth&lt;/a&gt; was our resident Scala expert, so a lot of questions we asked were answered by him.&lt;/p&gt;
+
+&lt;h3 id=&#34;how-to-get-into-scala&#34;&gt;How to get into Scala&lt;/h3&gt;
+
+&lt;p&gt;One good way to start getting into Scala is to use a Scala testing framework with an existing Java code base.&lt;/p&gt;
+
+&lt;p&gt;Another way is to use Scala for new applications.&lt;/p&gt;
+
+&lt;p&gt;The question of whether to rewrite old Java applications in Scala depends on whether a whole new architecture is desired. If not, then it may not be worth rewriting in Scala. Perhaps parts of it could be rewritten, or given a Scala wrapper for the sake of interfacing with new Scala code.&lt;/p&gt;
+
+&lt;h3 id=&#34;testing&#34;&gt;Testing&lt;/h3&gt;
+
+&lt;p&gt;ScalaCheck was mentioned as being very useful.&lt;/p&gt;
+
+&lt;p&gt;I asked about &lt;a href=&#34;http://etorreborre.github.com/specs2/&#34;&gt;specs2&lt;/a&gt;, since I have been trying to figure out how to use it (I currently have used the more traditional &lt;a href=&#34;http://www.scalatest.org/&#34;&gt;ScalaTest&lt;/a&gt;). I was &amp;ldquo;happy&amp;rdquo; to hear from Josh that indeed, there is a learning curve for this framework, so I&amp;rsquo;m not the only one who finds it difficult.  Scala is designed to make it easy to write DSLs. Unfortunately, learning a DSL can be involved.&lt;/p&gt;
+
+&lt;p&gt;We went off on a tangential discussion of DSLs.&lt;/p&gt;
+
+&lt;h3 id=&#34;dsls&#34;&gt;DSLs&lt;/h3&gt;
+
+&lt;p&gt;The question was whether DSLs really help &amp;ldquo;non-programmers&amp;rdquo; in one&amp;rsquo;s organization contribute to development, by enabling them to express their knowledge. Answers were mixed. Some of us had seen DSLs fail miserably at their intent. Josh mentioned cases of DSLs working well, e.g., use of DSLs to help junior developers get going, and use of DSLs for configuration.&lt;/p&gt;
+
+&lt;h3 id=&#34;groovy&#34;&gt;Groovy&lt;/h3&gt;
+
+&lt;p&gt;There was discussion of Groovy as another JVM-based language for doing some of the same things one can do with Scala, e.g., DSL-based web and testing frameworks.&lt;/p&gt;
+
+&lt;p&gt;It was interesting to me, since I have not really used Groovy, that a number of people had tried it and gotten bitten because it is dynamically typed and therefore, many problems occur at runtime when one wishes they would occur at compile time. This experience is in line with my preference for static typing. What attracts me to Scala is that it has type inference that reduces a lot of clutter in code and enables writing code that almost looks like what you would write in a dynamically typed language.&lt;/p&gt;
+
+&lt;h2 id=&#34;retrospective&#34;&gt;Retrospective&lt;/h2&gt;
+
+&lt;p&gt;After the two time slots were over, we gathered together for a brief discussion of the evening. I was pleased that one person said he had been skeptical of the whole Open Spaces idea but had enjoyed the format.&lt;/p&gt;
+
+&lt;p&gt;I think all of us had a good time sharing our knowledge and experience, and engaging in friendly debates on various topics. I certainly enjoy Open Spaces meetings more than the usual &amp;ldquo;sitting at a long presentation&amp;rdquo; format.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

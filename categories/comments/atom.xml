@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Comments on Franklin Chen</title>
+    <link>http://franklinchen.com/categories/comments/atom/index.xml</link>
+    <description>Recent content in Comments on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/categories/comments/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Yes, I want my writing to be dated!</title>
+      <link>http://franklinchen.com/blog/2015/05/31/yes-i-want-my-writing-to-be-dated/</link>
+      <pubDate>Sun, 31 May 2015 22:55:05 -0400</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2015/05/31/yes-i-want-my-writing-to-be-dated/</guid>
+      <description>&lt;p&gt;I just finished
+&lt;a href=&#34;http://conscientiousprogrammer.com/blog/2015/05/31/why-i-switched-from-octopress-2-to-hugo/&#34;&gt;migrating both this blog and my programming blog from Octopress 2 to Hugo&lt;/a&gt;. During
+this process, I made sure to preserve my old URLs as well as Disqus,
+because nothing is as distressing to me, as a reader, as moved or
+broken links when I&amp;rsquo;m looking for old blog posts.&lt;/p&gt;
+
+&lt;p&gt;That said, there&amp;rsquo;s always the possibility of changing the &amp;ldquo;real&amp;rdquo; URLs and
+just using an alias with a URL redirect for the sake of old URL
+schemes. One possibility was to remove dates from my URLs, e.g.,
+change something like
+&lt;code&gt;http://conscientiousprogrammer.com/blog/2015/05/31/why-i-switched-from-octopress-2-to-hugo/&lt;/code&gt;
+to
+&lt;code&gt;http://conscientiousprogrammer.com/blog/why-i-switched-from-octopress-2-to-hugo/&lt;/code&gt;. Matt
+Gemmell, among many others, has argued for &lt;a href=&#34;http://mattgemmell.com/permalinks/&#34;&gt;permalinks that do not
+include the clutter of embedded dates&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;However, I made the decision years ago, when I had the choice, to keep
+the embedded dates, and I still stand by my decision today. Here&amp;rsquo;s why.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;are-embedded-dates-actually-bad-user-interface-design&#34;&gt;Are embedded dates actually bad user-interface design?&lt;/h2&gt;
+
+&lt;p&gt;I&amp;rsquo;m not sure long date-embedded permalinks are really so bad
+visually:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Nobody goes around having to manually type in these links anyway.&lt;/li&gt;
+&lt;li&gt;I believe that in the long run, people actually do care about the
+date, and having it in the URL makes it that much easier to know the
+date.&lt;/li&gt;
+&lt;li&gt;Redundancy can be a good thing, if it exposes useful information
+that in theory one could determine more indirectly.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;the-bigger-philosophical-issues&#34;&gt;The bigger philosophical issues&lt;/h2&gt;
+
+&lt;p&gt;However, the main reason I deliberately choose to expose the date of a
+post is that I disagree with Matt Gemmell&amp;rsquo;s statement that one should
+prefer to boost one&amp;rsquo;s article&amp;rsquo;s &amp;ldquo;standing&amp;rdquo; by giving the impression
+that one is making a &amp;ldquo;definitive goddamned opinion&amp;rdquo; on a topic, some
+kind of timeless statement.&lt;/p&gt;
+
+&lt;h3 id=&#34;relevance&#34;&gt;Relevance?&lt;/h3&gt;
+
+&lt;p&gt;I understand that there are people who would be swayed by this
+psychological trick, and I totally confess that sometimes when I do a
+Web search and up pops a link to a four-year-old post, I wonder
+whether to read something else instead that might be more &amp;ldquo;relevant&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;But as a reader who seeks genuinely useful information, no matter how
+recent or old, I overcome my initial twinge at encountering an &amp;ldquo;old&amp;rdquo;
+article, and check it out for its own merits. And often, I find that
+it is just fine. For example, there are some fantastic Haskell blogs
+filled with information still useful today. For example:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Any of Dan Piponi&amp;rsquo;s articles are great, e.g., a random 2009 article
+on
+&lt;a href=&#34;http://blog.sigfpe.com/2009/01/haskell-monoids-and-their-uses.html&#34;&gt;monoids and their uses&lt;/a&gt;,
+with an ungainly URL of
+&lt;code&gt;http://blog.sigfpe.com/2009/01/haskell-monoids-and-their-uses.html&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Any of Gabriel Gonzalez&amp;rsquo;s articles are great, e.g., a 2012 article
+on
+&lt;a href=&#34;http://www.haskellforall.com/2012/06/you-could-have-invented-free-monads.html&#34;&gt;free monads&lt;/a&gt;
+with the URL
+&lt;code&gt;http://www.haskellforall.com/2012/06/you-could-have-invented-free-monads.html&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Furthermore, the dating is actually useful because once you see
+another article by the same author with a different date, you know
+which one came first and can retrace the &lt;em&gt;history&lt;/em&gt; of the author&amp;rsquo;s
+thinking just throw the URL. In fact, I track my own history through
+the fact that on my file system, my posts are in alphabetical order
+according to date.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-reality-and-humanity-of-transience&#34;&gt;The reality and humanity of transience&lt;/h3&gt;
+
+&lt;p&gt;Finally, the main fact I want to emphasize when I write is precisely
+that I am not giving my definitive opinion about anything.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I have no &amp;ldquo;forever&amp;rdquo; opinions about any topic!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I change my mind as I continue to grow and learn, and I want my
+writing to reflect that, and in a way such that a reader can easily
+track what changed and when. I do not write to give an illusion that I
+am writing eternal truths. I do not write in order to be an authority
+on a topic, but to share a snapshot of what I understand at a
+particular moment in my life. When I change my mind, I do often go
+back and add a dated update section linking to a new article.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;I have retained dated permalinks for my migrated blogs, despite some
+voices that argue otherwise, because of the extra information they
+provide.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Do you agree that dated permalinks are worth the ugliness or not? Is
+  this your opinion as an author, a reader, a critic, or a search
+  engine user?&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

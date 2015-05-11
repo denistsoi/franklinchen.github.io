@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Coursera on Franklin Chen</title>
+    <link>http://franklinchen.com/categories/coursera/atom/index.xml</link>
+    <description>Recent content in Coursera on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/categories/coursera/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Review of Coursera&#39;s Fall 2012 &#34;Functional Programming Principles in Scala&#34;</title>
+      <link>http://franklinchen.com/blog/2012/11/15/review-of-courseras-fall-2012-functional-programming-principles-in-scala/</link>
+      <pubDate>Thu, 15 Nov 2012 21:27:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/11/15/review-of-courseras-fall-2012-functional-programming-principles-in-scala/</guid>
+      <description>&lt;figure &gt;
+    
+        &lt;img src=&#34;http://www.scala-lang.org/sites/default/files/newsflash_logo.png&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;In fall of 2012, I completed the initial offering, through &lt;a href=&#34;http://www.coursera.org/&#34;&gt;Coursera&lt;/a&gt;, of &lt;a href=&#34;http://lampwww.epfl.ch/~odersky/&#34;&gt;Martin Odersky&lt;/a&gt;&amp;rsquo;s &lt;a href=&#34;http://www.coursera.org/course/progfun&#34;&gt;&amp;ldquo;Functional Programming Principles in Scala&amp;rdquo; online course&lt;/a&gt;, which was held from September 18 through November.&lt;/p&gt;
+
+&lt;p&gt;This is a review of the course, which is planned to be offered again (so those of you who missed it the first time can sign up for the second iteration when it is available).&lt;/p&gt;
+
+&lt;p&gt;Also check out the &lt;a href=&#34;http://docs.scala-lang.org/news/functional-programming-principles-in-scala-impressions-and-statistics.html&#34;&gt;instructor report&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-purpose-of-the-course&#34;&gt;The purpose of the course&lt;/h2&gt;
+
+&lt;p&gt;I have noticed very often that people learning to program or to perform some task that involves programming are very fixated on the question of &amp;ldquo;what computer language should I use?&amp;rdquo; or &amp;ldquo;what computer language is the course/project going to use?&amp;rdquo; This is a mistake because what is important in learning programming or getting better at it is not trivial questions of syntax, but matters of &lt;em&gt;understanding&lt;/em&gt; what things mean and having a correct mental model of what is going on. In the end, one has to go back to fundamentals.&lt;/p&gt;
+
+&lt;p&gt;So although this course has &amp;ldquo;Scala&amp;rdquo; in its title, it is really a brief introduction to functional programming, using &lt;a href=&#34;http://www.scala-lang.org/&#34;&gt;Scala&lt;/a&gt; as one of many possible languages in which to express it.&lt;/p&gt;
+
+&lt;h2 id=&#34;my-background-in-computer-science-and-functional-programming&#34;&gt;My background in computer science and functional programming&lt;/h2&gt;
+
+&lt;p&gt;I am a college graduate with a physics degree who &lt;em&gt;never took a single computer science or programming course in college&lt;/em&gt;, because I found programming to be strange, difficult, and scary, based on &lt;a href=&#34;../../blog/2012/01/16/how-school-made-me-hate-computer-science-and-programming/&#34;&gt;my experiences before college&lt;/a&gt;. I did not take up programming seriously until after college, when I found myself wanting a career change, and took a second look at computer programming.&lt;/p&gt;
+
+&lt;p&gt;As I have mentioned earlier, a &lt;a href=&#34;../../blog/2011/10/25/rip-john-mccarthy-but-lisp-will-never-die/&#34;&gt;turning point in my life&lt;/a&gt; was when a friend recommended to me that I focus not on &amp;ldquo;learning&amp;rdquo; some arbitrary computer language, but on learning the &lt;em&gt;principles&lt;/em&gt; of programming first, after which any specific language could be understood quickly in light of the principles.&lt;/p&gt;
+
+&lt;p&gt;So I learned functional programming through working through &lt;a href=&#34;http://mitpress.mit.edu/sicp/&#34;&gt;The Structure and Interpretation of Computer Programs&lt;/a&gt;, coding up my solutions to the exercises using &lt;a href=&#34;http://gambitscheme.org/&#34;&gt;Gambit Scheme&lt;/a&gt; on a &lt;a href=&#34;http://en.wikipedia.org/wiki/Macintosh_Classic&#34;&gt;Macintosh Classic&lt;/a&gt;. I then learned C and C++ and got my first job as a software engineer.&lt;/p&gt;
+
+&lt;p&gt;The next big jump for me came when I encountered my first statically typed functional languages in around 1995: &lt;a href=&#34;http://caml.inria.fr/caml-light/index.en.html&#34;&gt;Caml Light&lt;/a&gt; and &lt;a href=&#34;http://www.smlnj.org/&#34;&gt;Standard ML&lt;/a&gt; and &lt;a href=&#34;http://www.haskell.org/&#34;&gt;Haskell&lt;/a&gt; through &lt;a href=&#34;http://www.haskell.org/hugs/&#34;&gt;Gofer/Hugs&lt;/a&gt;. I was so inspired by the possibilities of &lt;em&gt;improving the programming experience&lt;/em&gt; that I decided to leave my job and apply for graduate school in computer science.&lt;/p&gt;
+
+&lt;p&gt;I was in the &lt;a href=&#34;http://www.csd.cs.cmu.edu/education/phd/&#34;&gt;Carnegie Mellon University CS PhD program&lt;/a&gt; for two years before leaving after 1999. I left for a combination of different reasons, but I am definitely still a believer in the original mission I had before going to graduate school: improving the experience of practical software development by every means necessary.&lt;/p&gt;
+
+&lt;h2 id=&#34;my-plan-overcome-resistance-to-scala&#34;&gt;My plan: overcome resistance to Scala&lt;/h2&gt;
+
+&lt;p&gt;Ironically, what I planned to get out of the course is &lt;em&gt;not&lt;/em&gt; what I expect most students in the course would or &lt;em&gt;should&lt;/em&gt; get out of it! I treated the course as a way to get myself to force myself to use and really learn the Scala language (since I did not need an introduction to functional programming), by solving programming exercises that I probably had done in the past in other languages.&lt;/p&gt;
+
+&lt;p&gt;Scala had been around for years, but I had resisted doing much with it because it seemed very complex and changing all the time and because the tool ecosystem seemed to be immature and not usable for me. That led me to my not investing in the effort to truly read up on it and experiment to use at work.&lt;/p&gt;
+
+&lt;p&gt;I am happy to report that Scala is actually usable now and all my concerns about it are no longer relevant. 2012 seems to me to be the year when Scala became truly usable for general production. (I will report later on my current plans in motion to migrate from Java to Scala at work.)&lt;/p&gt;
+
+&lt;h2 id=&#34;observations-about-the-course&#34;&gt;Observations about the course&lt;/h2&gt;
+
+&lt;h3 id=&#34;installation-of-software&#34;&gt;Installation of software&lt;/h3&gt;
+
+&lt;p&gt;There were initially some glitches when setting up &lt;a href=&#34;http://eclipse.org/&#34;&gt;Eclipse&lt;/a&gt; and &lt;a href=&#34;http://www.scala-sbt.org/&#34;&gt;SBT&lt;/a&gt;, but eventually, an Eclipse distribution made specifically for the class was made available and solved my problems.&lt;/p&gt;
+
+&lt;p&gt;That said, I preferred to use Emacs and SBT for writing code for the course.&lt;/p&gt;
+
+&lt;h3 id=&#34;theoretical-material&#34;&gt;Theoretical material&lt;/h3&gt;
+
+&lt;p&gt;Martin Odersky&amp;rsquo;s lectures were entirely as one would expect in a basic academic course on programming language principles: laying the fundamental mathematical groundwork: operational semantics, structural induction, etc.&lt;/p&gt;
+
+&lt;p&gt;This material can be very dry and abstract, and I have to wonder how many students encountering it for the first time slog through long lectures of this kind of content. Personally, if I were teaching these ideas, I would use less of the typical &amp;ldquo;mathematical&amp;rdquo; kind of example when illustrating them.&lt;/p&gt;
+
+&lt;h3 id=&#34;lecture-format&#34;&gt;Lecture format&lt;/h3&gt;
+
+&lt;p&gt;I was surprised by the scarcity of within-lecture quizzes as checkpoints for the student, because I have completed several Coursera courses in which they were much more frequent (and in my mind useful). I think the course would benefit from breaking up lectures into smaller chunks with more quizzes.&lt;/p&gt;
+
+&lt;h3 id=&#34;programming-assignments&#34;&gt;Programming assignments&lt;/h3&gt;
+
+&lt;p&gt;The programming assignments involved filling in code skeletons in otherwise complete programs that solved some task. Again, the tasks involved seemed typically mathematical and &amp;ldquo;classic&amp;rdquo; in nature, such as anagram solving, Huffman coding and decoding, although there was also an assignment on tweet analysis.&lt;/p&gt;
+
+&lt;h3 id=&#34;testing&#34;&gt;Testing&lt;/h3&gt;
+
+&lt;p&gt;I appreciated that the assignments were distributed as self-contained SBT projects, along with rudimentary &lt;a href=&#34;http://junit.org/&#34;&gt;JUnit&lt;/a&gt;-style test suites, run through &lt;a href=&#34;http://www.scalatest.org/&#34;&gt;ScalaTest&lt;/a&gt; that one could add to. I get the impression that many courses on programming do not address the issue of testing at all, with the result that students flail while copying and pasting code in some IDE or REPL instead of adopting an automated testing discipline that not only decreases frustration but will prove to be a real-life practice to be used in their studies and careers.&lt;/p&gt;
+
+&lt;p&gt;It was great to have these programming assignments distributed as complete deploy able projects. I actually looked at the non-assignment-relevant code and configurations in order to learn more about real-life SBT and Scala use for my own plans to migrate from Java to Scala at work.&lt;/p&gt;
+
+&lt;h3 id=&#34;scala-the-language&#34;&gt;Scala the language&lt;/h3&gt;
+
+&lt;p&gt;Scala is introduced at first as a kind of standard functional language (even though in reality Scala&amp;rsquo;s functions are actually objects). Algebraic data types are introduced through Scala&amp;rsquo;s object encoding as &lt;code&gt;case class&lt;/code&gt; in a hierarchy. I think the instructor did a good job in illustrating through example how Scala manages to blend the traditional functional and object worlds in a single language, while emphasizing the functional aspects.&lt;/p&gt;
+
+&lt;h3 id=&#34;most-interesting&#34;&gt;Most interesting&lt;/h3&gt;
+
+&lt;p&gt;For me, the most interesting aspect of the course and assignments was the focus on using Scala&amp;rsquo;s &amp;ldquo;for comprehension&amp;rdquo; syntactic sugar to write very concise and clear code. An entire week of lectures was focused on collections and explained how the syntactic sugar is translated into &lt;code&gt;map&lt;/code&gt;, &lt;code&gt;flatMap&lt;/code&gt;, and &lt;code&gt;filter&lt;/code&gt;. With the popularity of comprehension or similar syntax in many languages these days, I think it is very important to make sure that everyone knows that it is not just magic, but is just syntactic sugar for the important concepts that underlie it. I think the course did a good job in illustrating how comprehensions can be used not only for lists, but for many other types as well, and types that one can define oneself (Scala&amp;rsquo;s comprehension syntax is meant for any &lt;a href=&#34;http://en.wikipedia.org/wiki/Monad_(functional_programming)&#34;&gt;monad&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&#34;update-of-2013-02-27&#34;&gt;(Update of 2013-02-27)&lt;/h4&gt;
+
+&lt;p&gt;I just saw a good recent expository example of &lt;a href=&#34;http://tmorris.net/posts/memoisation-with-state-using-scala/index.html&#34;&gt;the use of comprehension syntax to simplify the look of code that involves writing your own monad&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;I strongly recommend Martin Odersky&amp;rsquo;s &amp;ldquo;Functional Programming Principles in Scala&amp;rdquo; course to all who are interested in understanding the basics behind programming language semantics and how to apply this knowledge in writing and reasoning about clear, elegant programs to solve problems. A course like this could be taught using any number of languages as a vehicle, but I think Scala works particularly well because it is a JVM-based language that interoperates seamlessly with Java and Java&amp;rsquo;s entire tool chain, so anything you learn here, you can apply immediately in real-life work if you already operate in the JVM-based programming world. Scala is not a toy language, but is used at &lt;a href=&#34;http://twitter.github.com/scala_school/&#34;&gt;Twitter&lt;/a&gt; and many other enterprises that require reliability, performance, scalability while solving very complex problems.&lt;/p&gt;
+
+&lt;p&gt;A final reminder: if you missed this free course the first time around, by all means check it out when it is offered again!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Review of Coursera course: Model Thinking</title>
+      <link>http://franklinchen.com/blog/2012/06/16/review-of-coursera-course-model-thinking/</link>
+      <pubDate>Sat, 16 Jun 2012 22:09:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/06/16/review-of-coursera-course-model-thinking/</guid>
+      <description>&lt;p&gt;I finally got my &amp;ldquo;Statement of Accomplishment&amp;rdquo; for the Coursera course &lt;a href=&#34;http://www.coursera.org/course/modelthinking&#34;&gt;&amp;ldquo;Model Thinking&amp;rdquo;&lt;/a&gt;, which lasted for four months, starting in February, taught by &lt;a href=&#34;http://vserver1.cscs.lsa.umich.edu/~spage/&#34;&gt;Scott Page&lt;/a&gt; of the University of Michigan.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;why&#34;&gt;Why?&lt;/h2&gt;
+
+&lt;p&gt;Why did I take this course? Largely out of curiosity, because it was there and &amp;ldquo;free&amp;rdquo;, and because &lt;a href=&#34;http://mathbabe.org/2012/02/12/new-online-course-model-thinking/&#34;&gt;mathbabe&amp;rsquo;s blog mentioned it&lt;/a&gt;. There was no direct applicability to anything I&amp;rsquo;m doing now for work or anything. But I was hoping to get some insight into the construction and use of mathematical models in general, in light of all the controversies that come up with regard to whether models can be trusted or are useful.&lt;/p&gt;
+
+&lt;p&gt;There was much online video lecture time, along with quizzes and assignments and a huge amount of reading (simply because the course lasted a whole ten weeks). The instructor was very clear in his lectures. I enjoyed seeing how certain kinds of surprisingly simple models can generate complex phenomena. Of course, this does not necessarily mean that the phenomena we see are &amp;ldquo;explained&amp;rdquo; by such models, but that complex phenomena do not necessarily imply that a complex model is required.&lt;/p&gt;
+
+&lt;h2 id=&#34;two-coursera-courses-so-far-this-year&#34;&gt;Two Coursera courses so far this year&lt;/h2&gt;
+
+&lt;p&gt;This course was a huge amount of work, and during February and March I was also concurrently taking and completed another Coursera course, &lt;a href=&#34;../../blog/2012/04/13/free-course-review-software-engineering-for-software-as-a-service-part-i-from-coursera/&#34;&gt;&amp;ldquo;Software Engineering for Software as a Service (Part I)&amp;rdquo;&lt;/a&gt;. This plus everything else I have been doing in the first half of this year was really overkill.&lt;/p&gt;
+
+&lt;h2 id=&#34;update-of-2014-01-16&#34;&gt;(Update of 2014-01-16)&lt;/h2&gt;
+
+&lt;p&gt;This is an unfinished post that is one of many in the past two years that lay unfinished because I had originally planned to write a very detailed report but never got around to it. I decided that I might as well release all these unfinished posts rather than leave them completely out of the record.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Free course review: Software Engineering for Software as a Service (Part I), from Coursera</title>
+      <link>http://franklinchen.com/blog/2012/04/13/free-course-review-software-engineering-for-software-as-a-service-part-i-from-coursera/</link>
+      <pubDate>Fri, 13 Apr 2012 21:29:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/04/13/free-course-review-software-engineering-for-software-as-a-service-part-i-from-coursera/</guid>
+      <description>&lt;p&gt;So after putting quite a bit of time, from February 20 to March 23, into the free Coursera course &lt;a href=&#34;http://www.saas-class.org/&#34;&gt;&amp;ldquo;Software Engineering for Software as a Service (Part I)&amp;rdquo;&lt;/a&gt;, I just received my &amp;ldquo;Statement of Accomplishment&amp;rdquo;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+Congratulations! You have successfully completed the free online offering of Software Engineering for Software as a Service (Part I), offered February to April, 2012. To successfully complete this free online class, students were required to watch lectures, complete quizzes, and do weekly assignments.
+&lt;/blockquote&gt;
+
+&lt;p&gt;My review:&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;mooc-explosion&#34;&gt;MOOC explosion&lt;/h2&gt;
+
+&lt;p&gt;Just half a year ago, in the fall of 2011, my life was &lt;em&gt;radically altered&lt;/em&gt; by the introduction of free massive open online courses (&lt;a href=&#34;http://en.wikipedia.org/wiki/Massive_open_online_course&#34;&gt;MOOCs&lt;/a&gt;). Eager to learn new skills and ideas of all kinds, I jumped into enrolling in a whole bunch of them.&lt;/p&gt;
+
+&lt;p&gt;I went crazy, actually: I took a very heavy load, enrolling in and completing two Stanford MOOCs while doing everything else I was doing:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../blog/2012/01/11/experiment-in-learning-completing-stanford-online-course-introduction-to-databases/&#34;&gt;Introduction to Databases&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../blog/2012/01/12/experiment-in-learning-completing-stanford-online-course-machine-learning/&#34;&gt;Machine Learning&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These two courses each lasted for two months, starting in early October and ending in mid-December of 2011.&lt;/p&gt;
+
+&lt;p&gt;This spring of 2012, I went crazy again and took a very heavy load of two MOOCs, through Coursera:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Software Engineering for Software as a Service (Part I) (discussed here)&lt;/li&gt;
+&lt;li&gt;Model Thinking&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;update-on-model-thinking&#34;&gt;(Update on Model Thinking)&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;../../blog/2012/06/16/review-of-coursera-course-model-thinking/&#34;&gt;An incomplete review of Model Thinking.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;why-did-i-take-this-course&#34;&gt;Why did I take this course?&lt;/h2&gt;
+
+&lt;p&gt;I signed up for this course in February because I was curious about &lt;a href=&#34;http://rubyonrails.org/&#34;&gt;Ruby on Rails&lt;/a&gt;. I have not done much Web development since the old days of Perl, so I decided to update my skills in this area, which is not what I do in my current job. Also, although I have used some Ruby at my job, I felt that the course would help me deepen my understanding of the language.&lt;/p&gt;
+
+&lt;p&gt;Also, this course was advertised as not being about Rails so much as about &amp;ldquo;software engineering&amp;rdquo; using the concept of &amp;ldquo;software as a service&amp;rdquo; as a concrete domain. So I was interested in getting my hands dirty in adopting the instructors&amp;rsquo; &amp;ldquo;opinionated&amp;rdquo; idea of an &amp;ldquo;Agile&amp;rdquo; &amp;ldquo;software engineering&amp;rdquo; process for development.&lt;/p&gt;
+
+&lt;h2 id=&#34;materials&#34;&gt;Materials&lt;/h2&gt;
+
+&lt;p&gt;Lectures on video were provided. I found them useful but fairly poor in production qualities (sound problems and quite a few in-video quiz glitches). I understand that the instructors may improve these materials, for future offerings of the course, after the scramble of getting everything together for the first trial run of this course!&lt;/p&gt;
+
+&lt;p&gt;Somewhat controversially, the instructors&amp;rsquo; &lt;a href=&#34;http://beta.saasbook.info/&#34;&gt;textbook that was still in rough alpha condition&lt;/a&gt; was recommended for the course. Originally I wasn&amp;rsquo;t going to buy it, but I found references from the course that made it sound like it would be useful, so I bought it. It was rather poorly formatted and repeated a lot that was already in the lecture videos and slides, but did have additional material. The book was inexpensive enough that its flaws did not annoy me excessively. (Eventually the book finally entered beta!)&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://sites.google.com/site/longlastingsoftware/_/rsrc/1366223530547/config/cover.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Book cover&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Confusingly, we were also to watch the &lt;a href=&#34;http://screencast.saasbook.info/&#34;&gt;videos for the book&lt;/a&gt;. Having course material spread out like this was annoying.&lt;/p&gt;
+
+&lt;p&gt;We were told that the course was going to cover about half of the book, and that there might be a second online course offered at some point, to finish the book.&lt;/p&gt;
+
+&lt;h2 id=&#34;coursework&#34;&gt;Coursework&lt;/h2&gt;
+
+&lt;p&gt;There were quizzes. I experienced glitches in dealing with them. For example, in one of the quizzes, the timer ran down because I started it but then had to attend to something (I was at home in the evening then). When I went back, I couldn&amp;rsquo;t retake the quiz, so I got no credit for anything! It was upsetting, but then again, my goal was to learn, not to get a perfect score in this class. Also, sometimes when I got an answer wrong on a quiz, there was no feedback about what I did wrong! This was quite annoying. The quiz system needs to be significantly improved.&lt;/p&gt;
+
+&lt;p&gt;The programming assignments were the heart of the course. They sometimes took quite a long time to complete. There were several reasons for this.&lt;/p&gt;
+
+&lt;p&gt;One was just that Rails is big, and in learning to actually write and deploy Rails applications, I had to get familiar with the online documentation to search for Rails methods to use. Another was the use of Cucumber. It took forever to run Cucumber tests. From reading various online Rails tutorials and articles about testing, it appeared to me that the course instructors&amp;rsquo; testing methodology was suspect, but who was I to complain, since I was just learning all this stuff myself?&lt;/p&gt;
+
+&lt;p&gt;That leads to the main problem, which is that of spaghetti code: the &amp;ldquo;Rotten Potatoes&amp;rdquo; app that we modified incrementally had logic spread out all over the place. It was very difficult for me to understand what happened where, and what could happen or could not. There were code paths that involved implicit changes of state and hacking in routes and actions. It all felt wrong. Also, I strongly favor statically typed languages, and using Ruby was rather painful for me: you pull attributes out from thin air, stick them into the controller, and then suddenly you have to know you can use them in the view, etc.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-i-learned&#34;&gt;What I learned&lt;/h2&gt;
+
+&lt;p&gt;I learned a huge amount, actually. This was the first time I&amp;rsquo;d systematically work through developing an application from the ground up using &lt;a href=&#34;http://en.wikipedia.org/wiki/Test-driven_development&#34;&gt;Test-Driven Development&lt;/a&gt; (TDD) and &lt;a href=&#34;http://en.wikipedia.org/wiki/Behavior-driven_development&#34;&gt;Behavior-Driven Development&lt;/a&gt;, for example. &lt;strong&gt;I am completely sold on TDD and BDD now.&lt;/strong&gt; It was very useful writing down, in code, scenarios to expect to happen or not happen, before implementing the behavior. I have issues with Cucumber, the tool, but the process itself, I am sold on.&lt;/p&gt;
+
+&lt;p&gt;It was also very satisfying incrementally developing a Rails application that actually did something.&lt;/p&gt;
+
+&lt;p&gt;And it was also useful gaining experience using Git and Heroku.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Despite rough patches in the course (that I hope will be remedied in a future offering), I found that I learned a lot. I would definitely recommend this course to anyone interested in gaining experience incrementally developing an application, and certainly if desiring to get started with Ruby and Rails.&lt;/p&gt;
+
+&lt;p&gt;I hope there will be a part two of this course offered, to complete the material from the Berkeley course.&lt;/p&gt;
+
+&lt;h3 id=&#34;update-of-2013-12-13&#34;&gt;(Update of 2013-12-13)&lt;/h3&gt;
+
+&lt;p&gt;It&amp;rsquo;s been almost two years since I took this course, during which I have not done anything with Rails since, although I have started experimenting with using &lt;a href=&#34;http://www.playframework.com/&#34;&gt;Play&lt;/a&gt; for &lt;a href=&#34;http://www.scala-lang.org/&#34;&gt;Scala&lt;/a&gt;, which is similar in spirit.&lt;/p&gt;
+
+&lt;p&gt;Meanwhile, this course has moved off Coursera to the &lt;a href=&#34;http://www.edx.org/&#34;&gt;edX&lt;/a&gt; MOOC platform. &lt;a href=&#34;http://www.edx.org/course/uc-berkeleyx/uc-berkeleyx-cs-169-2x-software-service-1005&#34;&gt;Part 2 was offered in August 2013&lt;/a&gt; and a revised version of &lt;a href=&#34;http://www.edx.org/course/uc-berkeleyx/uc-berkeleyx-cs169-1x-software-service-1136&#34;&gt;part 1 was offered in September 2013&lt;/a&gt;: &amp;ldquo;The presentation order and amount of time spent on some material is being changed in response to feedback from both on-campus and online students. This run of the class also includes all new videos, two new homeworks and all new exam questions. The new class also includes embedded live chat with Teaching Assistants and other students and opportunities for remote pair programming with other students. Group tutorial Q&amp;amp;A sessions will also be held and broadcast live through Google Hangouts and YouTube.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;I presume both parts of the course will continue to be offered in the future. I would like to take part 2 at some point, but that depends on what time I can devote to it.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

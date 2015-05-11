@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sbt on Franklin Chen</title>
+    <link>http://franklinchen.com/categories/sbt/atom/index.xml</link>
+    <description>Recent content in Sbt on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/categories/sbt/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>2013 is my year of Scala</title>
+      <link>http://franklinchen.com/blog/2013/01/11/2013-is-my-year-of-scala/</link>
+      <pubDate>Fri, 11 Jan 2013 15:17:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/01/11/2013-is-my-year-of-scala/</guid>
+      <description>&lt;p&gt;Last night was the &lt;a href=&#34;http://www.meetup.com/Pittsburgh-Scala-Meetup/events/93174312/&#34;&gt;first meeting&lt;/a&gt; of the new &lt;a href=&#34;http://www.meetup.com/Pittsburgh-Scala-Meetup/&#34;&gt;Pittsburgh Scala meetup&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;And this morning I suddenly signed up to attend the &lt;a href=&#34;http://nescala.org/&#34;&gt;Northeast Scala Symposium&lt;/a&gt; (NE Scala) being held soon in February in Philadelphia!&lt;/p&gt;
+
+&lt;p&gt;2013 is my &amp;ldquo;year of Scala&amp;rdquo;. What does this mean?&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;leaving-java&#34;&gt;&amp;ldquo;Leaving&amp;rdquo; Java&lt;/h2&gt;
+
+&lt;p&gt;I just &lt;a href=&#34;../../blog/2012/11/15/review-of-courseras-fall-2012-functional-programming-principles-in-scala/&#34;&gt;recently went through Martin Odersky&amp;rsquo;s &amp;ldquo;Functional Programming Principles in Scala&amp;rdquo; course&lt;/a&gt;. As a result of that, I decided on New Year that 2013 is going to be my &amp;ldquo;year of Scala&amp;rdquo;, which in practice means that I will use it as my main general-purpose programming language for software development wherever feasible. In particular, at work I have been in the process of converting a large Java project from using &lt;a href=&#34;http://maven.apache.org/&#34;&gt;Maven&lt;/a&gt; for a complex build to using the Scala-based &lt;a href=&#34;http://www.scala-sbt.org/&#34;&gt;SBT&lt;/a&gt; instead (last year I was &lt;a href=&#34;../../blog/2012/09/24/a-short-example-of-why-i-prefer-static-typing-learning-gradle/&#34;&gt;evaluating both SBT and the Groovy-based Gradle&lt;/a&gt;, but SBT won, after I figured out how to do what I need with it).&lt;/p&gt;
+
+&lt;p&gt;The beauty of Scala is that you can seamlessly continue to use existing Java code and libraries; this interoperability is a huge win, compared to other statically typed functional programming languages such as ML and Haskell.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-first-pittsburgh-scala-meetup-session&#34;&gt;The first Pittsburgh Scala meetup session&lt;/h2&gt;
+
+&lt;p&gt;It was an informal social meeting upstairs in the Harvard and Highland bar (resulting from not yet obtaining an official quiet place to really meet regularly).&lt;/p&gt;
+
+&lt;p&gt;It turned out that only six of us showed up for this informal meeting. &lt;a href=&#34;http://jamieforrest.com/&#34;&gt;Jamie Forrest&lt;/a&gt;, who created this meetup group, was there, as was &lt;a href=&#34;http://jsuereth.com/&#34;&gt;Josh Suereth&lt;/a&gt;, who works for &lt;a href=&#34;http://www.typesafe.com/&#34;&gt;Typesafe&lt;/a&gt; and has regularly been involved in Scala &lt;a href=&#34;../../blog/2011/10/26/open-spaces-success-at-the-pittsburgh-java-users-group/&#34;&gt;discussions&lt;/a&gt; and &lt;a href=&#34;../../blog/2012/06/09/report-on-the-first-pittsburgh-techfest-2012/&#34;&gt;presentations&lt;/a&gt; in the Pittsburgh area. I also met three people I hadn&amp;rsquo;t known before, Andrii, Ashton, and Barrett.&lt;/p&gt;
+
+&lt;p&gt;It was kind of loud in the bar, so it was often difficult for me to hear, but I think we had a good time meeting each other and exchanging some thoughts about how we use Scala (or plan to use it) and why.&lt;/p&gt;
+
+&lt;p&gt;So now that we&amp;rsquo;ve gotten the meetup group off the ground, I look forward to a Scala community growing here in Pittsburgh! We decided that we need to find a proper meeting place, and we&amp;rsquo;ll start having people give talks, and come up with ideas for a group project to work on.&lt;/p&gt;
+
+&lt;h2 id=&#34;ne-scala-http-nescala-org&#34;&gt;&lt;a href=&#34;http://nescala.org/&#34;&gt;NE Scala&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Also, at the meetup, Josh reminded us that there were still spaces left for &lt;a href=&#34;http://www.meetup.com/nescala/events/97192402/&#34;&gt;registering for NE Scala&lt;/a&gt;. I hadn&amp;rsquo;t actually considered going, because I&amp;rsquo;m already very busy for January and February, but this morning upon waking up, I suddenly decided that maybe I should not pass up this opportunity to go and get the big picture of what the Scala community is up to!&lt;/p&gt;
+
+&lt;p&gt;In a flurry of email exchanges, I ended up registering for the conference with the idea of carpooling with Josh and sharing lodging, then Jamie got in on it too, so the three of us will be heading off to Philadelphia together in March. This will be my first out-of-town travel to a conference since &lt;a href=&#34;http://www.informatik.uni-trier.de/~ley/db/conf/pldi/pldi98.html&#34;&gt;PLDI 1998&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;I&amp;rsquo;m definitely throwing myself into the Scala world now, with the Pittsburgh Scala meetup going and with my registration for the NE Scala conference.&lt;/p&gt;
+
+&lt;h2 id=&#34;update&#34;&gt;(Update)&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;../../blog/2013/02/10/ne-scala-2013-my-first-scala-conference/&#34;&gt;NE Scala 2013 was quite intense&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Review of Coursera&#39;s Fall 2012 &#34;Functional Programming Principles in Scala&#34;</title>
+      <link>http://franklinchen.com/blog/2012/11/15/review-of-courseras-fall-2012-functional-programming-principles-in-scala/</link>
+      <pubDate>Thu, 15 Nov 2012 21:27:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/11/15/review-of-courseras-fall-2012-functional-programming-principles-in-scala/</guid>
+      <description>&lt;figure &gt;
+    
+        &lt;img src=&#34;http://www.scala-lang.org/sites/default/files/newsflash_logo.png&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;In fall of 2012, I completed the initial offering, through &lt;a href=&#34;http://www.coursera.org/&#34;&gt;Coursera&lt;/a&gt;, of &lt;a href=&#34;http://lampwww.epfl.ch/~odersky/&#34;&gt;Martin Odersky&lt;/a&gt;&amp;rsquo;s &lt;a href=&#34;http://www.coursera.org/course/progfun&#34;&gt;&amp;ldquo;Functional Programming Principles in Scala&amp;rdquo; online course&lt;/a&gt;, which was held from September 18 through November.&lt;/p&gt;
+
+&lt;p&gt;This is a review of the course, which is planned to be offered again (so those of you who missed it the first time can sign up for the second iteration when it is available).&lt;/p&gt;
+
+&lt;p&gt;Also check out the &lt;a href=&#34;http://docs.scala-lang.org/news/functional-programming-principles-in-scala-impressions-and-statistics.html&#34;&gt;instructor report&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-purpose-of-the-course&#34;&gt;The purpose of the course&lt;/h2&gt;
+
+&lt;p&gt;I have noticed very often that people learning to program or to perform some task that involves programming are very fixated on the question of &amp;ldquo;what computer language should I use?&amp;rdquo; or &amp;ldquo;what computer language is the course/project going to use?&amp;rdquo; This is a mistake because what is important in learning programming or getting better at it is not trivial questions of syntax, but matters of &lt;em&gt;understanding&lt;/em&gt; what things mean and having a correct mental model of what is going on. In the end, one has to go back to fundamentals.&lt;/p&gt;
+
+&lt;p&gt;So although this course has &amp;ldquo;Scala&amp;rdquo; in its title, it is really a brief introduction to functional programming, using &lt;a href=&#34;http://www.scala-lang.org/&#34;&gt;Scala&lt;/a&gt; as one of many possible languages in which to express it.&lt;/p&gt;
+
+&lt;h2 id=&#34;my-background-in-computer-science-and-functional-programming&#34;&gt;My background in computer science and functional programming&lt;/h2&gt;
+
+&lt;p&gt;I am a college graduate with a physics degree who &lt;em&gt;never took a single computer science or programming course in college&lt;/em&gt;, because I found programming to be strange, difficult, and scary, based on &lt;a href=&#34;../../blog/2012/01/16/how-school-made-me-hate-computer-science-and-programming/&#34;&gt;my experiences before college&lt;/a&gt;. I did not take up programming seriously until after college, when I found myself wanting a career change, and took a second look at computer programming.&lt;/p&gt;
+
+&lt;p&gt;As I have mentioned earlier, a &lt;a href=&#34;../../blog/2011/10/25/rip-john-mccarthy-but-lisp-will-never-die/&#34;&gt;turning point in my life&lt;/a&gt; was when a friend recommended to me that I focus not on &amp;ldquo;learning&amp;rdquo; some arbitrary computer language, but on learning the &lt;em&gt;principles&lt;/em&gt; of programming first, after which any specific language could be understood quickly in light of the principles.&lt;/p&gt;
+
+&lt;p&gt;So I learned functional programming through working through &lt;a href=&#34;http://mitpress.mit.edu/sicp/&#34;&gt;The Structure and Interpretation of Computer Programs&lt;/a&gt;, coding up my solutions to the exercises using &lt;a href=&#34;http://gambitscheme.org/&#34;&gt;Gambit Scheme&lt;/a&gt; on a &lt;a href=&#34;http://en.wikipedia.org/wiki/Macintosh_Classic&#34;&gt;Macintosh Classic&lt;/a&gt;. I then learned C and C++ and got my first job as a software engineer.&lt;/p&gt;
+
+&lt;p&gt;The next big jump for me came when I encountered my first statically typed functional languages in around 1995: &lt;a href=&#34;http://caml.inria.fr/caml-light/index.en.html&#34;&gt;Caml Light&lt;/a&gt; and &lt;a href=&#34;http://www.smlnj.org/&#34;&gt;Standard ML&lt;/a&gt; and &lt;a href=&#34;http://www.haskell.org/&#34;&gt;Haskell&lt;/a&gt; through &lt;a href=&#34;http://www.haskell.org/hugs/&#34;&gt;Gofer/Hugs&lt;/a&gt;. I was so inspired by the possibilities of &lt;em&gt;improving the programming experience&lt;/em&gt; that I decided to leave my job and apply for graduate school in computer science.&lt;/p&gt;
+
+&lt;p&gt;I was in the &lt;a href=&#34;http://www.csd.cs.cmu.edu/education/phd/&#34;&gt;Carnegie Mellon University CS PhD program&lt;/a&gt; for two years before leaving after 1999. I left for a combination of different reasons, but I am definitely still a believer in the original mission I had before going to graduate school: improving the experience of practical software development by every means necessary.&lt;/p&gt;
+
+&lt;h2 id=&#34;my-plan-overcome-resistance-to-scala&#34;&gt;My plan: overcome resistance to Scala&lt;/h2&gt;
+
+&lt;p&gt;Ironically, what I planned to get out of the course is &lt;em&gt;not&lt;/em&gt; what I expect most students in the course would or &lt;em&gt;should&lt;/em&gt; get out of it! I treated the course as a way to get myself to force myself to use and really learn the Scala language (since I did not need an introduction to functional programming), by solving programming exercises that I probably had done in the past in other languages.&lt;/p&gt;
+
+&lt;p&gt;Scala had been around for years, but I had resisted doing much with it because it seemed very complex and changing all the time and because the tool ecosystem seemed to be immature and not usable for me. That led me to my not investing in the effort to truly read up on it and experiment to use at work.&lt;/p&gt;
+
+&lt;p&gt;I am happy to report that Scala is actually usable now and all my concerns about it are no longer relevant. 2012 seems to me to be the year when Scala became truly usable for general production. (I will report later on my current plans in motion to migrate from Java to Scala at work.)&lt;/p&gt;
+
+&lt;h2 id=&#34;observations-about-the-course&#34;&gt;Observations about the course&lt;/h2&gt;
+
+&lt;h3 id=&#34;installation-of-software&#34;&gt;Installation of software&lt;/h3&gt;
+
+&lt;p&gt;There were initially some glitches when setting up &lt;a href=&#34;http://eclipse.org/&#34;&gt;Eclipse&lt;/a&gt; and &lt;a href=&#34;http://www.scala-sbt.org/&#34;&gt;SBT&lt;/a&gt;, but eventually, an Eclipse distribution made specifically for the class was made available and solved my problems.&lt;/p&gt;
+
+&lt;p&gt;That said, I preferred to use Emacs and SBT for writing code for the course.&lt;/p&gt;
+
+&lt;h3 id=&#34;theoretical-material&#34;&gt;Theoretical material&lt;/h3&gt;
+
+&lt;p&gt;Martin Odersky&amp;rsquo;s lectures were entirely as one would expect in a basic academic course on programming language principles: laying the fundamental mathematical groundwork: operational semantics, structural induction, etc.&lt;/p&gt;
+
+&lt;p&gt;This material can be very dry and abstract, and I have to wonder how many students encountering it for the first time slog through long lectures of this kind of content. Personally, if I were teaching these ideas, I would use less of the typical &amp;ldquo;mathematical&amp;rdquo; kind of example when illustrating them.&lt;/p&gt;
+
+&lt;h3 id=&#34;lecture-format&#34;&gt;Lecture format&lt;/h3&gt;
+
+&lt;p&gt;I was surprised by the scarcity of within-lecture quizzes as checkpoints for the student, because I have completed several Coursera courses in which they were much more frequent (and in my mind useful). I think the course would benefit from breaking up lectures into smaller chunks with more quizzes.&lt;/p&gt;
+
+&lt;h3 id=&#34;programming-assignments&#34;&gt;Programming assignments&lt;/h3&gt;
+
+&lt;p&gt;The programming assignments involved filling in code skeletons in otherwise complete programs that solved some task. Again, the tasks involved seemed typically mathematical and &amp;ldquo;classic&amp;rdquo; in nature, such as anagram solving, Huffman coding and decoding, although there was also an assignment on tweet analysis.&lt;/p&gt;
+
+&lt;h3 id=&#34;testing&#34;&gt;Testing&lt;/h3&gt;
+
+&lt;p&gt;I appreciated that the assignments were distributed as self-contained SBT projects, along with rudimentary &lt;a href=&#34;http://junit.org/&#34;&gt;JUnit&lt;/a&gt;-style test suites, run through &lt;a href=&#34;http://www.scalatest.org/&#34;&gt;ScalaTest&lt;/a&gt; that one could add to. I get the impression that many courses on programming do not address the issue of testing at all, with the result that students flail while copying and pasting code in some IDE or REPL instead of adopting an automated testing discipline that not only decreases frustration but will prove to be a real-life practice to be used in their studies and careers.&lt;/p&gt;
+
+&lt;p&gt;It was great to have these programming assignments distributed as complete deploy able projects. I actually looked at the non-assignment-relevant code and configurations in order to learn more about real-life SBT and Scala use for my own plans to migrate from Java to Scala at work.&lt;/p&gt;
+
+&lt;h3 id=&#34;scala-the-language&#34;&gt;Scala the language&lt;/h3&gt;
+
+&lt;p&gt;Scala is introduced at first as a kind of standard functional language (even though in reality Scala&amp;rsquo;s functions are actually objects). Algebraic data types are introduced through Scala&amp;rsquo;s object encoding as &lt;code&gt;case class&lt;/code&gt; in a hierarchy. I think the instructor did a good job in illustrating through example how Scala manages to blend the traditional functional and object worlds in a single language, while emphasizing the functional aspects.&lt;/p&gt;
+
+&lt;h3 id=&#34;most-interesting&#34;&gt;Most interesting&lt;/h3&gt;
+
+&lt;p&gt;For me, the most interesting aspect of the course and assignments was the focus on using Scala&amp;rsquo;s &amp;ldquo;for comprehension&amp;rdquo; syntactic sugar to write very concise and clear code. An entire week of lectures was focused on collections and explained how the syntactic sugar is translated into &lt;code&gt;map&lt;/code&gt;, &lt;code&gt;flatMap&lt;/code&gt;, and &lt;code&gt;filter&lt;/code&gt;. With the popularity of comprehension or similar syntax in many languages these days, I think it is very important to make sure that everyone knows that it is not just magic, but is just syntactic sugar for the important concepts that underlie it. I think the course did a good job in illustrating how comprehensions can be used not only for lists, but for many other types as well, and types that one can define oneself (Scala&amp;rsquo;s comprehension syntax is meant for any &lt;a href=&#34;http://en.wikipedia.org/wiki/Monad_(functional_programming)&#34;&gt;monad&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&#34;update-of-2013-02-27&#34;&gt;(Update of 2013-02-27)&lt;/h4&gt;
+
+&lt;p&gt;I just saw a good recent expository example of &lt;a href=&#34;http://tmorris.net/posts/memoisation-with-state-using-scala/index.html&#34;&gt;the use of comprehension syntax to simplify the look of code that involves writing your own monad&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;I strongly recommend Martin Odersky&amp;rsquo;s &amp;ldquo;Functional Programming Principles in Scala&amp;rdquo; course to all who are interested in understanding the basics behind programming language semantics and how to apply this knowledge in writing and reasoning about clear, elegant programs to solve problems. A course like this could be taught using any number of languages as a vehicle, but I think Scala works particularly well because it is a JVM-based language that interoperates seamlessly with Java and Java&amp;rsquo;s entire tool chain, so anything you learn here, you can apply immediately in real-life work if you already operate in the JVM-based programming world. Scala is not a toy language, but is used at &lt;a href=&#34;http://twitter.github.com/scala_school/&#34;&gt;Twitter&lt;/a&gt; and many other enterprises that require reliability, performance, scalability while solving very complex problems.&lt;/p&gt;
+
+&lt;p&gt;A final reminder: if you missed this free course the first time around, by all means check it out when it is offered again!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>A short example of why I prefer static typing: learning Gradle</title>
+      <link>http://franklinchen.com/blog/2012/09/24/a-short-example-of-why-i-prefer-static-typing-learning-gradle/</link>
+      <pubDate>Mon, 24 Sep 2012 17:07:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/09/24/a-short-example-of-why-i-prefer-static-typing-learning-gradle/</guid>
+      <description>&lt;p&gt;I make no secret of the fact the I prefer to program in &lt;a href=&#34;http://en.wikipedia.org/wiki/Programming_language#Static_versus_dynamic_typing&#34;&gt;statically-typed languages&lt;/a&gt;. That is not to say that I don&amp;rsquo;t write programs in dynamically typed languages. In fact, I have written and will continue to write programs in &lt;a href=&#34;../../categories/perl/&#34;&gt;Perl&lt;/a&gt;, &lt;a href=&#34;../../categories/python/&#34;&gt;Python&lt;/a&gt;, &lt;a href=&#34;../../categories/ruby/&#34;&gt;Ruby&lt;/a&gt;, &lt;a href=&#34;../../categories/javascript/&#34;&gt;JavaScript&lt;/a&gt;, and other dynamically typed programs, because pragmatically speaking, there is a whole lot more to programming to get something done than questions of &lt;a href=&#34;http://en.wikipedia.org/wiki/Type_system&#34;&gt;type systems&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Nevertheless, it is always painful to me when I hit a wall when learning and using an unfamiliar API from a dynamically typed language. I always think, &amp;ldquo;if only this API were statically typed, so that when I encounter an error, I can immediately look up what went wrong&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s an example as I&amp;rsquo;ve been learning &lt;a href=&#34;http://www.gradle.org/&#34;&gt;Gradle&lt;/a&gt; while evaluating it along with learning &lt;a href=&#34;http://www.scala-sbt.org/&#34;&gt;SBT&lt;/a&gt;, as two candidate build tools for me to switch to out of &lt;a href=&#34;http://maven.apache.org/&#34;&gt;Maven&lt;/a&gt; as my build tool for a primarily Java-based project. Note that Gradle is basically an embedded domain-specific language using the dynamically typed language &lt;a href=&#34;http://groovy.codehaus.org/&#34;&gt;Groovy&lt;/a&gt;, while SBT is an embedded domain-specific language using the statically typed language &lt;a href=&#34;http://www.scala-lang.org/&#34;&gt;Scala&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;code-example&#34;&gt;Code example&lt;/h2&gt;
+
+&lt;p&gt;Here&amp;rsquo;s a code example from a book I&amp;rsquo;ve been going through while studying Gradle, &lt;a href=&#34;http://gradleware.com/registered/books/building-and-testing/&#34;&gt;&amp;ldquo;Building and Testing with Gradle&amp;rdquo;&lt;/a&gt;:&lt;/p&gt;
+
+&lt;h3 id=&#34;example-3-21-use-the-ant-path-references-inside-the-gradle-build&#34;&gt;Example 3.21. Use the Ant path references inside the Gradle build&lt;/h3&gt;
+
+&lt;div class=&#34;highlight&#34; style=&#34;background: #f8f8f8&#34;&gt;&lt;pre style=&#34;line-height: 125%&#34;&gt;&lt;span&gt;&lt;/span&gt;ant&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;importBuild&lt;/span&gt; &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;#39;build.xml&amp;#39;&lt;/span&gt;
+
+defaultTasks &lt;span style=&#34;color: #666666&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;[&lt;/span&gt;&lt;span style=&#34;color: #BA2121&#34;&gt;&amp;#39;gradleBuild&amp;#39;&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;]&lt;/span&gt;
+
+&lt;span style=&#34;color: #408080; font-style: italic&#34;&gt;////////////////////////////////////////////////////////////////////////&lt;/span&gt;
+&lt;span style=&#34;color: #408080; font-style: italic&#34;&gt;// Gradle paths retrieved from Ant and then built using a Gradle task&lt;/span&gt;
+repositories &lt;span style=&#34;color: #666666&#34;&gt;{&lt;/span&gt;
+    flatDir &lt;span style=&#34;color: #A0A000&#34;&gt;name:&lt;/span&gt; &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;#39;localRepository1&amp;#39;&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color: #A0A000&#34;&gt;dirs:&lt;/span&gt; ant&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;references&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;[&lt;/span&gt;&lt;span style=&#34;color: #BA2121&#34;&gt;&amp;#39;antPathToLibs1&amp;#39;&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;]&lt;/span&gt;
+    flatDir &lt;span style=&#34;color: #A0A000&#34;&gt;name:&lt;/span&gt; &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;#39;localRepository2&amp;#39;&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color: #A0A000&#34;&gt;dirs:&lt;/span&gt; ant&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;references&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;antPathToLibs2&lt;/span&gt;
+    flatDir &lt;span style=&#34;color: #A0A000&#34;&gt;name:&lt;/span&gt; &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;#39;localRepository3&amp;#39;&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color: #A0A000&#34;&gt;dirs:&lt;/span&gt; &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;antlibs&amp;quot;&lt;/span&gt;
+&lt;span style=&#34;color: #666666&#34;&gt;}&lt;/span&gt;
+
+task gradleBuild &lt;span style=&#34;color: #666666&#34;&gt;&amp;lt;&amp;lt;&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;{&lt;/span&gt;
+    &lt;span style=&#34;color: #408080; font-style: italic&#34;&gt;//Set classpath to include the JAR&lt;/span&gt;
+    println &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;The repositories bridged from Ant to Gradle are:&amp;quot;&lt;/span&gt;
+    println repositories&lt;span style=&#34;color: #666666&#34;&gt;*.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;name&lt;/span&gt;
+
+    println repositories&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;localRepository1&lt;/span&gt;
+
+    println repositories&lt;span style=&#34;color: #666666&#34;&gt;[&lt;/span&gt;&lt;span style=&#34;color: #BA2121&#34;&gt;&amp;#39;localRepository2&amp;#39;&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;]&lt;/span&gt;
+
+    println &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;localRepository3 class = &amp;quot;&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;+&lt;/span&gt; repositories&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;localRepository3&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;class&lt;/span&gt;
+    println &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;localRepository3 name = &amp;quot;&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;+&lt;/span&gt; repositories&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;localRepository3&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;name&lt;/span&gt;
+    println &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;localRepository3 latest = &amp;quot;&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;+&lt;/span&gt; repositories&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;localRepository3&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;latest&lt;/span&gt;
+    println &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;localRepository3 ivyPatterns = &amp;quot;&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;+&lt;/span&gt; repositories&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;localRepository3&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;ivyPatterns&lt;/span&gt;
+    println &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;localRepository3 artifactPatterns =&lt;/span&gt;
+&lt;span style=&#34;color: #BA2121&#34;&gt;       &amp;quot;&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;+&lt;/span&gt; repositories&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;localRepository3&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;artifactPatterns&lt;/span&gt;
+    println &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;localRepository3 checkconsistency =&lt;/span&gt;
+&lt;span style=&#34;color: #BA2121&#34;&gt;       &amp;quot;&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;+&lt;/span&gt; repositories&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;localRepository3&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;checkconsistency&lt;/span&gt;
+    println &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;localRepository3 m2compatible =&lt;/span&gt;
+&lt;span style=&#34;color: #BA2121&#34;&gt;       &amp;quot;&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;+&lt;/span&gt; repositories&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;localRepository3&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;m2compatible&lt;/span&gt;
+    println &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;localRepository3 methods =&lt;/span&gt;
+&lt;span style=&#34;color: #BA2121&#34;&gt;       &amp;quot;&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;+&lt;/span&gt; repositories&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;localRepository3&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;metaClass&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;methods&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;*.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;name&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;sort&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;().&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;unique&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;()&lt;/span&gt;
+&lt;span style=&#34;color: #666666&#34;&gt;}&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h2 id=&#34;error-output&#34;&gt;Error output&lt;/h2&gt;
+
+&lt;p&gt;Unfortunately, this Gradle build file, when executed under the current version of Gradle, dies with an error:&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;highlight&#34; style=&#34;background: #f8f8f8&#34;&gt;&lt;pre style=&#34;line-height: 125%&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span style=&#34;color: #000080; font-weight: bold&#34;&gt;$&lt;/span&gt; ./run-example.bsh
+&lt;span style=&#34;color: #888888&#34;&gt;:gradleBuild&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;The repositories bridged from Ant to Gradle are:&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;[localRepository1, localRepository2, localRepository3]&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;org.gradle.api.internal.artifacts.repositories.DefaultFlatDirArtifactRepository_Decorated@7f205d8d&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;org.gradle.api.internal.artifacts.repositories.DefaultFlatDirArtifactRepository_Decorated@5eef2e7c&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;localRepository3 class = class org.gradle.api.internal.artifacts.repositories.DefaultFlatDirArtifactRepository_Decorated&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;localRepository3 name = localRepository3&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;:gradleBuild FAILED&lt;/span&gt;
+
+&lt;span style=&#34;color: #888888&#34;&gt;FAILURE: Build failed with an exception.&lt;/span&gt;
+
+&lt;span style=&#34;color: #888888&#34;&gt;* Where:&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;Build file &amp;#39;oreilly-gradle-book-examples/ant-classpathanttogradle/build.gradle&amp;#39; line: 24&lt;/span&gt;
+
+&lt;span style=&#34;color: #888888&#34;&gt;* What went wrong:&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;Execution failed for task &amp;#39;:gradleBuild&amp;#39;.&lt;/span&gt;
+&lt;span style=&#34;color: #000080; font-weight: bold&#34;&gt;&amp;gt;&lt;/span&gt; Could not find property &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;#39;latest&amp;#39;&lt;/span&gt; on org.gradle.api.internal.artifacts.repositories.DefaultFlatDirArtifactRepository_Decorated@8c1e4d5.
+
+&lt;span style=&#34;color: #888888&#34;&gt;* Try:&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output.&lt;/span&gt;
+
+&lt;span style=&#34;color: #888888&#34;&gt;BUILD FAILED&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;After much searching online, I still could not figure out what properties are supposed to be available from &lt;code&gt;repositories.localRepository3&lt;/code&gt;. I looked at the &lt;a href=&#34;http://www.gradle.org/docs/current/javadoc/overview-tree.html&#34;&gt;Gradle documentation&lt;/a&gt;, and I looked up the package &lt;a href=&#34;http://www.gradle.org/docs/current/javadoc/org/gradle/api/artifacts/repositories/package-tree.html&#34;&gt;&lt;code&gt;org.gradle.api.internal.artifacts.repositories&lt;/code&gt;&lt;/a&gt; without success.&lt;/p&gt;
+
+&lt;p&gt;Gradle&amp;rsquo;s API has changed since the publication of the book, obviously. And in fact, I have been submitting &lt;a href=&#34;https://github.com/gradleware/oreilly-gradle-book-examples/commit/351f31f1cdede84233b977e67031720177144aab&#34;&gt;GitHub pull requests&lt;/a&gt; as I update the code examples while encountering apparent changes. But sometimes, as in this case, it has been too confusing for me to figure out how to update the code. You could say that this is always the case for any code in any language, but what bothers me is the nature of error messages and documentation in APIs for dynamically typed languages such as Groovy. These experiences remind me that &lt;em&gt;types are documentation&lt;/em&gt;, that &lt;em&gt;types are a way for a programmer to tell the world how code is supposed to be used&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Gradle seems to be a promising build tool, and I will continue to evaluate it while skipping over the particular mysterious error I encountered (since it is not really relevant to what I want to do in my builds), but I wish I could have better figured out what went wrong with the book&amp;rsquo;s code example. Meanwhile, it remains to be seen what kinds of problems I will encounter when using SBT. Again, I have to emphasize that my goal is to get things done, correctly and efficiently. Whatever works best, I will use, whatever its drawbacks: in another project, I happily used &lt;a href=&#34;../../categories/scons/&#34;&gt;SCons&lt;/a&gt; as a build tool, based on the dynamically typed language Python, and of course, I have used &lt;a href=&#34;http://rake.rubyforge.org/&#34;&gt;Rake&lt;/a&gt; for Ruby projects.&lt;/p&gt;
+
+&lt;h3 id=&#34;update-of-2015-05-18&#34;&gt;(Update of 2015-05-18)&lt;/h3&gt;
+
+&lt;p&gt;Wow, that was written in fall of 2012.&lt;/p&gt;
+
+&lt;p&gt;Since then, I have heavily used SBT from then to the present first for Java, then for Scala, which &lt;a href=&#34;http://franklinchen.com/blog/2013/01/11/2013-is-my-year-of-scala/&#34;&gt;became my main programming language in early 2013&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Also, in early 2015, &lt;a href=&#34;http://blog.pivotal.io/pivotal/news-2/groovy-2-4-and-grails-3-0-to-be-last-major-releases-under-pivotal-sponsorship&#34;&gt;Pivotal got out of the Groovy business&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Meanwhile, in early 2015 as I adopted Haskell as my main language for new projects, I switched away from SCons as a general-purpose build tool to Haskell-based &lt;a href=&#34;http://shakebuild.com/&#34;&gt;Shake&lt;/a&gt;, which works really great for me.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

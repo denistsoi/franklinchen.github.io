@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>East Germany on Franklin Chen</title>
+    <link>http://franklinchen.com/categories/east-germany/atom/index.xml</link>
+    <description>Recent content in East Germany on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/categories/east-germany/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>For real geeks, today is not Pi Day, but Half-Tau Day</title>
+      <link>http://franklinchen.com/blog/2012/03/14/for-real-geeks-today-is-not-pi-day-but-half-tau-day/</link>
+      <pubDate>Wed, 14 Mar 2012 18:52:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/03/14/for-real-geeks-today-is-not-pi-day-but-half-tau-day/</guid>
+      <description>&lt;figure &gt;
+    
+        &lt;img src=&#34;http://s3.amazonaws.com/ksr/projects/39714/photo-full.jpg?1309271700&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Say no to pi&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Today, many of us geeks celebrate &lt;a href=&#34;http://piday.org/&#34;&gt;Pi Day&lt;/a&gt;, because &lt;em&gt;π = 3.1415926535897932384626433&amp;hellip;&lt;/em&gt; is such an important number in math and science. I have to confess that I have never celebrated Pi Day, but it was just last year that I found out there was a movement &lt;em&gt;against&lt;/em&gt; celebrating Pi Day, and advocating the celebration of &lt;a href=&#34;http://tauday.com/&#34;&gt;Tau Day&lt;/a&gt; instead, where the special constant (which a community has chosen to be denoted by the Greek letter &amp;ldquo;tau&amp;rdquo;, &lt;em&gt;τ&lt;/em&gt;) is &lt;em&gt;2π&lt;/em&gt;, which is &lt;em&gt;6.283&amp;hellip;&lt;/em&gt;. Upon examining the evidence briefly, I had immediately agreed that indeed, we should not be celebrating Pi Day, and that therefore, today is simply &lt;a href=&#34;http://halftauday.com/&#34;&gt;Half-Tau Day&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If this is getting &lt;strong&gt;much&lt;/strong&gt; too geeky for you, feel free to ignore the rest of this blog post. Otherwise, bear with me!&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;my-dark-days-with-π&#34;&gt;My dark days with &lt;em&gt;π&lt;/em&gt;&lt;/h2&gt;
+
+&lt;p&gt;I suffered through the use of &lt;em&gt;π&lt;/em&gt; throughout high school, when we learned trigonometry and all the cosines and sines involved radians from 0 to &lt;em&gt;2π&lt;/em&gt;. Why is a complete revolution around the circle 2 times a constant, rather than being its own constant? And then there was calculus, same story.&lt;/p&gt;
+
+&lt;p&gt;I even got sucked into true geekery, memorizing nearly 50 digits of &lt;em&gt;π&lt;/em&gt; in the summer after I graduated from high school. I still remember what happened: I was in a van traveling from Frankfurt to Jena, East Germany (this was 1987 before the fall of the Berlin Wall) as a member of the US team for the &lt;a href=&#34;http://en.wikipedia.org/wiki/International_Physics_Olympiad&#34;&gt;International Physics Olympiad&lt;/a&gt; when I got really bored, and fellow teammate &lt;a href=&#34;http://www.linkedin.com/pub/bryan-beatty/13/497/581&#34;&gt;Bryan Beatty&lt;/a&gt; wrote out in pencil by memory the first 50 digits of &lt;em&gt;π&lt;/em&gt; into the front cover of a book I had on me, and I proceeded to memorize those digits (no, I did not remember them forever).&lt;/p&gt;
+
+&lt;p&gt;Doing math and physics homework in college, I got burned repeatedly by the extra work of carrying around factors of 2 and canceling them out when doing arithmetic, because of the incorrect definition of the &amp;ldquo;circle constant&amp;rdquo; as &lt;em&gt;π&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;update-of-2013-08-06&#34;&gt;(Update of 2013-08-06)&lt;/h3&gt;
+
+&lt;p&gt;While doing some cleaning, I happened to find in my office the very book that I had on me during the trip and that Bryan wrote into (not the inside front cover, but the inside back cover)!&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/book-with-pi.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/pi.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;update-of-2013-08-22&#34;&gt;(Update of 2013-08-22)&lt;/h3&gt;
+
+&lt;p&gt;I found out that the physicist Hugh Young, the author of the book I have that Bryan wrote &lt;em&gt;π&lt;/em&gt; into, &lt;a href=&#34;http://www.cmu.edu/news/stories/archives/2013/august/aug22_hughyoungobit.html&#34;&gt;just died&lt;/a&gt;. RIP.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-mystery-of-2π&#34;&gt;The mystery of &lt;em&gt;2π&lt;/em&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;2π&lt;/em&gt; keeps on popping up in places other than in high school trigonometry and calculus. As Michael Hartl points out in his excellent &lt;a href=&#34;http://tauday.com/tau-manifesto&#34;&gt;Tau Manifesto&lt;/a&gt;, anyone who has used the Gaussian (&amp;ldquo;bell curve&amp;rdquo;) distribution, through work in probability, statistics, machine learning, etc., sees the square root of &lt;em&gt;2π&lt;/em&gt; all the time, and engineers and physicists see &lt;em&gt;2π&lt;/em&gt; all the time when doing the Fourier transform. Eventually we just learn to immediately think that &lt;em&gt;π&lt;/em&gt; is just half of something. For example, if you&amp;rsquo;re doing an integral only on half the &lt;em&gt;x&lt;/em&gt;-axis, you remember to use &lt;em&gt;π&lt;/em&gt;. This is stupid, carrying around that extra 2 everywhere.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Conceptually&lt;/strong&gt;, the fundamental constant is clearly &lt;em&gt;2π&lt;/em&gt;, not &lt;em&gt;π&lt;/em&gt;. That is the argument we &lt;strong&gt;τ&lt;/strong&gt;-believers accept: our concepts should be mapped to our notation. I strongly recommend that disbelievers watch Hartl&amp;rsquo;s hilarious talk on &lt;em&gt;τ&lt;/em&gt;:&lt;/p&gt;
+
+&lt;iframe width=&#34;420&#34; height=&#34;315&#34; src=&#34;http://www.youtube.com/embed/H69YH5TnNXI&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&#34;the-importance-of-good-notation-for-concepts-and-some-more-examples&#34;&gt;The importance of good notation for concepts, and some more examples&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://terrytao.wordpress.com/advice-on-writing-papers/use-good-notation/&#34;&gt;Good notation&lt;/a&gt; is actually important in communicating ideas, expressing them, thinking them. Good notation reduces mental clutter and pointless work.&lt;/p&gt;
+
+&lt;p&gt;In physics, there is the concept of frequency. It turns out &lt;a href=&#34;http://en.wikipedia.org/wiki/Angular_frequency&#34;&gt;angular frequency&lt;/a&gt; is more convenient to use, hence instead of writing the frequency &lt;em&gt;f&lt;/em&gt;, we prefer to work with &amp;ldquo;omega&amp;rdquo;, which is &lt;em&gt;ω = 2πf&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;As a related example of the usefulness of choosing a proper numerical constant, consider the original &lt;a href=&#34;http://en.wikipedia.org/wiki/Planck_constant&#34;&gt;Planck&amp;rsquo;s constant&lt;/a&gt; &lt;em&gt;h&lt;/em&gt;. Physicists quickly realized that it was much more convenient to use the reduced constant &lt;em&gt;ħ&lt;/em&gt;, which is just &lt;em&gt;h&lt;/em&gt; divided by &lt;em&gt;2π&lt;/em&gt;. When writing equations in quantum mechanics, nobody uses &lt;em&gt;h&lt;/em&gt;. We use &lt;em&gt;ħ&lt;/em&gt; (pronounced &amp;ldquo;h bar&amp;rdquo;). The annoying factor of &lt;em&gt;2π&lt;/em&gt; is removed from the picture. In fact, in my former life as a physics student, most of the work we did involved using &lt;a href=&#34;http://en.wikipedia.org/wiki/Natural_units&#34;&gt;natural units&lt;/a&gt;, in which equations and calculations are simplified by simply setting &lt;em&gt;c&lt;/em&gt; and &lt;em&gt;ħ&lt;/em&gt; to 1.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;OK, we all know that it is completely hopeless to convert the world to using τ instead of π. Just as it is &amp;ldquo;completely hopeless&amp;rdquo; for the United States to become a multi-party political system or abolish the Electoral College.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Nevertheless, &lt;a href=&#34;http://www.math.utah.edu/~palais/pi.html&#34;&gt;π is wrong!&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Oh, and on June 28 this year, you bet I&amp;rsquo;ll be celebrating Tau Day.&lt;/p&gt;
+
+&lt;p&gt;P.S. Please don&amp;rsquo;t take any of this too seriously: I don&amp;rsquo;t!&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jruby on Franklin Chen</title>
+    <link>http://franklinchen.com/categories/jruby/atom/index.xml</link>
+    <description>Recent content in Jruby on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/categories/jruby/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Pittsburgh Ruby: Building a Compiler in JRuby</title>
+      <link>http://franklinchen.com/blog/2011/10/06/pittsburgh-ruby-building-a-compiler-in-jruby/</link>
+      <pubDate>Thu, 06 Oct 2011 22:29:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2011/10/06/pittsburgh-ruby-building-a-compiler-in-jruby/</guid>
+      <description>
+
+&lt;p&gt;Tonight I attended the meeting of the &lt;a href=&#34;http://pghrb.heroku.com/&#34;&gt;Pittsburgh Ruby group&lt;/a&gt; at Vivisimo. It&amp;rsquo;s been a year now since I first discovered the Pittsburgh Ruby group and finally attended my first meeting as an initial non-Rubyist on November 4, 2010, at the encouragement of Bruce, who said it was a friendly group.&lt;/p&gt;
+
+&lt;h2 id=&#34;presentation&#34;&gt;Presentation&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.chrisumbel.com/&#34;&gt;Chris Umbel&lt;/a&gt; gave a talk, &amp;ldquo;Building a compiler in JRuby&amp;rdquo;. Basically, he was inspired by Ian Dee&amp;rsquo;s work with a toy language &lt;a href=&#34;https://github.com/undees/thnad&#34;&gt;Thnad&lt;/a&gt; at JRubyConf 2011 to illustrate writing a simple compiler, and decided to do similarly, inventing &amp;ldquo;sucklang&amp;rdquo;, a &amp;ldquo;language that sucks&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;The room was totally packed! Clearly there was great interest in this topic.&lt;/p&gt;
+
+&lt;p&gt;The main tools used were:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://kschiess.github.com/parslet/&#34;&gt;Parslet&lt;/a&gt;, a parser combinator library for Ruby&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/headius/bitescript&#34;&gt;Bitescript&lt;/a&gt;, a Java bytecode generation library for Ruby&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The interesting thing to me was how both these tools involved internal &lt;a href=&#34;http://en.wikipedia.org/wiki/Domain-specific_language&#34;&gt;domain-specific languages (DSLs)&lt;/a&gt;, really showcasing how easy it is to create internal DSLs for Ruby. The down side, of course, is that not having been familiar with these tools before the talk, I was totally bewildered as Chris sped through overviews of them! I did make a note to investigate the libraries later.&lt;/p&gt;
+
+&lt;p&gt;It is definitely cool that with these DSLs, you can get up and going quickly to implement a toy language.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

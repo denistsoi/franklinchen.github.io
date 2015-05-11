@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Semantics on Franklin Chen</title>
+    <link>http://franklinchen.com/categories/semantics/atom/index.xml</link>
+    <description>Recent content in Semantics on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/categories/semantics/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>RSpec new expectation: finally not shoving a verb into a noun</title>
+      <link>http://franklinchen.com/blog/2012/06/23/rspec-new-expectation-finally-not-shoving-a-verb-into-a-noun/</link>
+      <pubDate>Sat, 23 Jun 2012 22:05:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/06/23/rspec-new-expectation-finally-not-shoving-a-verb-into-a-noun/</guid>
+      <description>&lt;p&gt;I recently saw a note describing how Ruby&amp;rsquo;s RSpec will soon deprecate &lt;code&gt;should&lt;/code&gt; in favor of the &lt;a href=&#34;http://myronmars.to/n/dev-blog/2012/06/rspecs-new-expectation-syntax&#34;&gt;&amp;ldquo;new expectation syntax&amp;rdquo;&lt;/a&gt; &lt;code&gt;expect&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;I sighed. &lt;code&gt;should&lt;/code&gt; was a terrible mistake in the first place.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Calling this a change in &lt;em&gt;syntax&lt;/em&gt; is misleading. It&amp;rsquo;s the &lt;em&gt;semantics&lt;/em&gt; that matters, and it&amp;rsquo;s the obsessive desire to play with syntax in the first place that led to the original &lt;code&gt;should&lt;/code&gt; &lt;a href=&#34;http://en.wikipedia.org/wiki/Monkey_patch&#34;&gt;monkey-patching&lt;/a&gt; nightmare.&lt;/p&gt;
+
+&lt;p&gt;In the terminology of Steve Yegge&amp;rsquo;s famous rant about the &lt;a href=&#34;http://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html&#34;&gt;kingdom of nouns&lt;/a&gt;: there was no good reason to shove the &lt;em&gt;verb&lt;/em&gt; &lt;code&gt;should&lt;/code&gt; into a class definition (&lt;em&gt;noun&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;An expectation of something shouldn&amp;rsquo;t be monkey-patched into an object.&lt;/p&gt;
+
+&lt;p&gt;The expectation is external, not internal, not something to be owned by a class. The new RSpec finally recognizes this.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

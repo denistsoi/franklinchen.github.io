@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dutch Defense on Franklin Chen</title>
+    <link>http://franklinchen.com/categories/dutch-defense/atom/index.xml</link>
+    <description>Recent content in Dutch Defense on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/categories/dutch-defense/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Pittsburgh Chess Club Championship 2013, Round 4: fascinating attacking-defending game!!</title>
+      <link>http://franklinchen.com/blog/2013/02/05/pittsburgh-chess-club-championship-2013-round-4-fascinating-attacking-defending-game/</link>
+      <pubDate>Tue, 05 Feb 2013 23:48:21 -0500</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/02/05/pittsburgh-chess-club-championship-2013-round-4-fascinating-attacking-defending-game/</guid>
+      <description>&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/jansen-chen-2013-02-05_files/round-4.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Round 4 of the annual &lt;a href=&#34;http://pittsburghcc.org/&#34;&gt;Pittsburgh Chess Club&lt;/a&gt; Championship had me playing one of the most &lt;em&gt;fascinating&lt;/em&gt; games I have played in my entire life. My opponent tried to wipe me off the board with a brute-force attack in the early moves of the opening and I managed to defend, but there were various subtleties involved. He engaged in &lt;em&gt;sacrifice&lt;/em&gt; after sacrifice, not all sound, but all interesting.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/jansen-chen-2013-02-05_files/final-position.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;my-complete-annotated-game&#34;&gt;My complete annotated game&lt;/h2&gt;
+
+&lt;p&gt;At your convenience, you can &lt;a href=&#34;../../chess/jansen-chen-2013-02-05.htm&#34;&gt;enjoy playing over the game with my annotations, including diagrams&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;In fact, it is necessary to read the detailed annotations to get a full picture of all the best moves that neither player saw but existed.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;preparation&#34;&gt;Preparation&lt;/h2&gt;
+
+&lt;p&gt;As I mentioned in &lt;a href=&#34;../../blog/2013/02/03/pittsburgh-chess-club-championship-2013-round-3-attack-defense-and-sacrifices/&#34;&gt;my report on the previous round&lt;/a&gt;, I knew that for today, I would face Peter Jansen (currently rated 1999), and that I know how he plays the openings. I knew that he tries to play solidly for a draw against stronger players, so I had to figure out a way to maximize my winning chances. I planned a particular &lt;em&gt;ultra-aggressive&lt;/em&gt; opening as Black against him, the &lt;a href=&#34;http://en.wikipedia.org/wiki/Dutch_Defence&#34;&gt;Dutch Defense&lt;/a&gt;, the goal of which is avoid early contact while preparing to stake out a claim in the center as well as on the King side.&lt;/p&gt;
+
+&lt;p&gt;In particular, I remembered that some years ago, Peter had been White against Grandmaster &lt;a href=&#34;http://en.wikipedia.org/wiki/Alexander_Shabalov&#34;&gt;Alexander Shabalov&lt;/a&gt; (who is a four-time winner of the US Chess Championship, and also happens to live in Squirrel Hill in Pittsburgh) and Shabalov had used the Dutch as Black against him. (Actually, I had misremembered the occasion as a simultaneous exhibition; after our game, when I told Peter about my preparation, he said that the game had been an actual tournament game. I looked and verified that it was a &lt;a href=&#34;http://www.uschess.org/assets/msa_joomla/XtblMain.php?200710142921.1-12533530&#34;&gt;Pittsburgh Chess League game in 2007&lt;/a&gt;.)&lt;/p&gt;
+
+&lt;h2 id=&#34;overview-of-my-game&#34;&gt;Overview of my game&lt;/h2&gt;
+
+&lt;h3 id=&#34;the-opening&#34;&gt;The opening&lt;/h3&gt;
+
+&lt;p&gt;Peter played &lt;em&gt;exactly&lt;/em&gt; as I predicted he would, and we reached a position that I had concluded was fine for Black. After playing &lt;code&gt;h6&lt;/code&gt; to kick White&amp;rsquo;s Bishop, I fully expected a retreat and then a slow progression to an interesting middlegame:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/jansen-chen-2013-02-05_files/diag3FA63606B7AA25D9.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Dutch after h6&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Instead, Peter uncorked a series of remarkable disruptive sacrificial ideas!&lt;/p&gt;
+
+&lt;p&gt;First, he did not retreat the Bishop, but instead played &lt;code&gt;Qb3&lt;/code&gt; exploiting the weakness of Black&amp;rsquo;s &lt;code&gt;e6&lt;/code&gt; and &lt;code&gt;f7&lt;/code&gt; squares:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/jansen-chen-2013-02-05_files/diag3FA6361ECBBCF26C.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Qb3&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;White&amp;rsquo;s Bishop cannot be captured by Black. (See the annotations for details.) So I calmly developed with &lt;code&gt;Bg7&lt;/code&gt;. Then Peter went totally wild with &lt;code&gt;h5&lt;/code&gt;, which is not really sound, but is definitely &lt;em&gt;interesting&lt;/em&gt;. Not only did he leave the Bishop unprotected, but he was sacrificing the &lt;code&gt;h&lt;/code&gt; Pawn.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/jansen-chen-2013-02-05_files/diag3FA636625EE9729E.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;h5&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;I calmly took the Pawn. He followed up with the wild &lt;code&gt;Nh4&lt;/code&gt; that continued to offer the Bishop as a sacrifice while attacking Black&amp;rsquo;s &lt;code&gt;g6&lt;/code&gt; Pawn:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/jansen-chen-2013-02-05_files/diag3FA6366A23529BD6.gif&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;I did not take, but defended &lt;code&gt;g6&lt;/code&gt; while also opening up a defense of the &lt;code&gt;e6&lt;/code&gt; square. He then continued by sacrificing his Knight on &lt;code&gt;g6&lt;/code&gt;.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/jansen-chen-2013-02-05_files/diag3FA6368FCF1D708B.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Nxg6&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;This is not a true sacrifice, because he gets the Knight on &lt;code&gt;h5&lt;/code&gt; in return. But the Bishop on &lt;code&gt;g5&lt;/code&gt; is still being offered.&lt;/p&gt;
+
+&lt;p&gt;It turns out that this whole series of blows by White was unsound, and could have been refuted calmly by &lt;code&gt;Kf8&lt;/code&gt;:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/jansen-chen-2013-02-05_files/diag3FA636A01EC713E7.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Kf8 refutes attack&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;But I saw a related idea and did not play the correct refutation, so the game continued to be interesting rather than ending quickly. I played &lt;code&gt;d5&lt;/code&gt;, which has a similar idea but has the drawback of allowing a good tactical save by White.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/jansen-chen-2013-02-05_files/diag3FA63697F6F24239.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;d5&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;White could have used a tactic to win the Pawn on &lt;code&gt;d5&lt;/code&gt; while saving his Bishop from being trapped by attacking Black&amp;rsquo;s Knight on &lt;code&gt;g6&lt;/code&gt;. Oops! But neither Peter nor I saw this resource, and he did not play it.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/jansen-chen-2013-02-05_files/diag3FA636D4EFF89295.gif&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Instead, he played a completely unsound sacrifice &lt;code&gt;e4&lt;/code&gt; that I could have punished by taking the Bishop on &lt;code&gt;g5&lt;/code&gt;:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/jansen-chen-2013-02-05_files/diag3FA636DCB461BBCD.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Black wins a piece for real&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;But in a collective hallucination, neither of us saw that the Bishop was in danger, because for so many moves up till &lt;code&gt;d5&lt;/code&gt;, it was &lt;em&gt;not&lt;/em&gt; in danger!&lt;/p&gt;
+
+&lt;p&gt;Instead, I opted to take the Pawn on &lt;code&gt;e4&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-middlegame&#34;&gt;The middlegame&lt;/h3&gt;
+
+&lt;p&gt;So White&amp;rsquo;s opening attack finally came to an end, and we reached a middlegame in which Black has to get his King to safety but is one Pawn up. Objectively, the game is actually quite equal. I was happy to have reached this middlegame, after all the turmoil, not having seen the big refutations earlier.&lt;/p&gt;
+
+&lt;p&gt;After some natural moves, after which both sides were castled Queen side, I expected some kind of struggle on the King side in which White had pressure against Black&amp;rsquo;s &lt;code&gt;h6&lt;/code&gt; Pawn and possibly could regain it at some point.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/jansen-chen-2013-02-05_files/diag3FA6371A10D3B49F.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Both castled&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Instead, Peter &lt;em&gt;blundered&lt;/em&gt; with another sacrifice, or &lt;em&gt;so I thought&lt;/em&gt;. It turns out from extensive computer analysis that the sacrifice was actually &lt;em&gt;sound&lt;/em&gt; and should have led to an equal position through some extremely fascinating play. Let me explain.&lt;/p&gt;
+
+&lt;p&gt;Peter played &lt;code&gt;Nxe4&lt;/code&gt;, with the idea of regaining the piece after &lt;code&gt;Qf7&lt;/code&gt;:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/jansen-chen-2013-02-05_files/diag3FA6372171D13561.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Nxe4 sacrifice&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/jansen-chen-2013-02-05_files/diag3FA6372A607D57FB.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Qf7&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;It turns out that White does &lt;em&gt;not&lt;/em&gt; regain the piece, after Black defends (as I did) with &lt;code&gt;Qd6&lt;/code&gt;:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/jansen-chen-2013-02-05_files/diag3FA637315E0F3046.gif&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;It turns out that White has a miraculously deep move &lt;code&gt;Ra5&lt;/code&gt; that equalizes through threats on Black&amp;rsquo;s King!! But neither of us saw this.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/jansen-chen-2013-02-05_files/diag3FA6373985E401F4.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Ra5&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Instead, Peter blundered straight into having his Queen trapped:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/jansen-chen-2013-02-05_files/diag3FA6378607BCA4C0.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Queen trapped&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;The game was effectively over at this point.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-endgame&#34;&gt;The endgame&lt;/h3&gt;
+
+&lt;p&gt;However, Peter kept playing, and we ended up going into an endgame that was clearly lost for him (being a piece down):&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/jansen-chen-2013-02-05_files/diag3FA6379E1BCF7153.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Lost endgame for White&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;The rest of the game is only worth looking at for its efficient technique.&lt;/p&gt;
+
+&lt;p&gt;Peter finally resigned after losing more and more material:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/jansen-chen-2013-02-05_files/diag3FA6CCA14DB3192E.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;White resigned&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;h2 id=&#34;lessons-learned-from-my-game&#34;&gt;Lessons learned from my game&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Don&amp;rsquo;t take for granted that your opponent will play in exactly the same style you&amp;rsquo;ve seen for years.&lt;/li&gt;
+&lt;li&gt;I don&amp;rsquo;t think I have ever &lt;em&gt;in my entire life&lt;/em&gt; played a game in which I have been offered so many sacrifices. It is important to keep one&amp;rsquo;s cool and try to figure out the truth of each one.&lt;/li&gt;
+&lt;li&gt;A sacrifice could be &lt;em&gt;sound&lt;/em&gt;, yet not work because it is not followed up properly.&lt;/li&gt;
+&lt;li&gt;A sacrifice could be &lt;em&gt;unsound&lt;/em&gt;, yet work because the defender fails to respond correctly.&lt;/li&gt;
+&lt;li&gt;It takes careful calculation to determine which sacrifices are sound and which are unsound, and we humans do not always see the full truth, but &lt;em&gt;computers&lt;/em&gt; do.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;what-next&#34;&gt;What next?&lt;/h2&gt;
+
+&lt;p&gt;For round 5 next week, I have White against fellow Expert Richard Edahl. He is doing pretty well in the tournament, considering that, as he mentioned when he entered the tournament, he has not played in a single chess tournament in &lt;a href=&#34;http://main.uschess.org/msa/MbrDtlTnmtHst.php?10333784&#34;&gt;&lt;em&gt;over twenty years&lt;/em&gt;&lt;/a&gt;! So I expect an interesting fight. I have no idea how idea how he plays, so this will be new and exciting.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;I give credit to Peter for completely surprising me by attacking and sacrificing aggressively for a win, totally contrary to how I&amp;rsquo;ve usually seen him play. The result was a fascinating game.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

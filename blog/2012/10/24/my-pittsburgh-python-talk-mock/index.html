@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>My Pittsburgh Python talk: &#34;Testing with isolation: concepts and examples using the Python standard library `mock`&#34; &middot; Franklin Chen</title>
+
+  
+  <link rel="stylesheet" href="http://franklinchen.com/css/poole.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/hyde.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/poole-overrides.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/hyde-overrides.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/hyde-x.css">
+
+  <link rel="stylesheet" href="http://franklinchen.com/css/franklin.css">
+
+  <link rel="stylesheet" href="http://franklinchen.com/css/highlight/default.css">
+  <link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://franklinchen.com/touch-icon-144-precomposed.png">
+  <link href="http://franklinchen.com/favicon.png" rel="icon">
+
+  
+  
+  
+  
+
+  <meta name="description" content="Franklin Chen&#39;s personal Web site and blog">
+  <meta name="keywords" content="Franklin Chen, blog">
+  <link rel="author" href="http://plus.google.com/100967806642012078047">
+</head>
+<body class="theme-base-0e">
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      
+        
+        <h1>Franklin Chen</h1>
+        <p class="lead">Infinity in the palm of my hand.</p>
+    </div>
+
+    <ul class="sidebar-nav">
+      
+      <li class="sidebar-nav-item"><a href="http://franklinchen.com/contact/">Contact</a></li>
+      
+      <li class="sidebar-nav-item"><a href="http://ConscientiousProgrammer.com/">Programming blog</a></li>
+      <li class="sidebar-nav-item"><a href="http://chessimprover.com/author/franklinc/">Chess blog</a></li>
+      <li class="sidebar-nav-item"><a href="https://www.flickr.com/photos/franklinmingchen/">Photos</a></li>
+    </ul>
+
+    <ul class="sidebar-nav">
+      <li class="sidebar-nav-item">
+      <a href="https://github.com/FranklinChen"><i class="fa fa-github-square fa-3x"></i></a>
+      
+      
+      <a href="http://www.linkedin.com/in/franklinchen"><i class="fa fa-linkedin-square fa-3x"></i></a>
+      <a href="http://google.com/&#43;FranklinChen"><i class="fa fa-google-plus-square fa-3x"></i></a>
+      <a href="http://www.facebook.com/franklin.chen"><i class="fa fa-facebook-square fa-3x"></i></a>
+      <a href="http://twitter.com/franklinchen"><i class="fa fa-twitter-square fa-3x"></i></a>
+      <a href="http://www.youtube.com/user/FranklinChen"><i class="fa fa-youtube-square fa-3x"></i></a>
+      <a href="http://franklinchen.com/atom.xml" type="application/rss+xml"><i class="fa fa-rss-square fa-3x"></i></a>
+      </li>
+    </ul>
+
+    
+
+    <p>Copyright &copy; 2016 Franklin Chen<br/>
+       Powered by <a href="http://gohugo.io">Hugo</a> and <a href="https://github.com/zyro/hyde-x">Hyde-X</a></p>
+  </div>
+</div>
+
+
+<div class="content container">
+  <div class="post">
+    <h1>My Pittsburgh Python talk: &#34;Testing with isolation: concepts and examples using the Python standard library `mock`&#34;</h1>
+    
+
+
+<figure >
+    
+        <img src="http://benbiddington.files.wordpress.com/2009/09/mocks-and-stubs.png" />
+    
+    
+    <figcaption>
+        <h4>Mocks</h4>
+        
+    </figcaption>
+    
+</figure>
+
+
+<p>A week ago, I saw a message on the <a href="http://www.meetup.com/pghpython/">Pittsburgh Python</a> mailing list:</p>
+
+<blockquote>
+We are looking for a presenter to talk about mock, pymox or other Python testing topics for our next meeting. If you have a different topic that you would like to present on, please let us know about that too, though preference will be given to testing-related talks this month.
+</blockquote>
+
+<p>I fairly quickly volunteered to talk about the Python standard library <a href="http://www.voidspace.org.uk/python/mock/"><code>mock</code></a>, despite never having used it!</p>
+
+<p>Here&rsquo;s a brief report of the Pittsburgh Python meeting in Google Pittsburgh (along with links to slides).</p>
+
+<h2 id="slides">Slides</h2>
+
+<p>Slides are <a href="http://franklinchen.com/talk-on-python-mock/">here</a>.</p>
+
+<h2 id="why-did-i-volunteer">Why did I volunteer?</h2>
+
+<p>When I volunteered to give my last talk, a <a href="../../../../../blog/2012/09/06/my-pittsburgh-ruby-talk-nil/">talk at Pittsburgh Ruby</a>, the reason was that I had a specific topic of my choosing on which I already had an informed opinion, and my goal was to explain it.</p>
+
+<p>In stark contrast to that situation, I volunteered to give a talk on testing with <code>mock</code> in Python while not having ever used it, and in fact not ever having used <a href="http://en.wikipedia.org/wiki/Mock_object">mock objects</a> at all in my own <a href="http://en.wikipedia.org/wiki/Unit_testing">unit testing</a>, although I knew the basic concepts behind mocks.</p>
+
+<p>So I was volunteering in this case in order to <em>force myself to learn something in more depth</em>.</p>
+
+<h2 id="my-preparation">My preparation</h2>
+
+<p>Preparing for this talk was quite challenging for me. (Hmm, I have a feeling I&rsquo;ll always feel this way for the rest of my talks in my life!?)</p>
+
+<h3 id="time">Time</h3>
+
+<p>Deciding to suddenly prepare a talk threw a mini-bomb into my schedule for the following week, because I had many other things to work on. However, I thought it was a great opportunity to investigate something in depth that I had already wanted to for some time, so I put some other things aside. Sometimes one has to be flexible in the face of a good opportunity. <em>I care a huge deal about the topic of software testing</em>, so I felt I could not pass up the opportunity to share some ideas with an audience.</p>
+
+<h3 id="technical-material">Technical material</h3>
+
+<p>A huge number of people (over forty) quickly signed up to attend the Pittsburgh Python meeting, during which two talks were scheduled: one on <a href="http://code.google.com/p/selenium/">Selenium WebDriver</a> by Steve Gross, and one by me. Wow. I don&rsquo;t know what&rsquo;s causing this explosion in the size of the Pittsburgh Python community, but that&rsquo;s great!</p>
+
+<p>I made a very quick decision <em>not</em> to focus on all the features of the <code>mock</code> library. That&rsquo;s not a talk that I would myself go to. I put myself in the shoes of the forty participants. Obviously there was going to be a wide variety of background knowledge and experience about <em>testing</em> in general as well as about <em>mocks</em>.</p>
+
+<p>In fact, Abby was going to come along with me to attend the Pittsburgh Python meeting. She just started learning computer programming a couple of weeks ago, using Python as her first programming language, and <a href="http://coursera.org/">Coursera</a> as the primary vehicle of instruction. I hoped to give a talk that she would get something usefully high-level and conceptual out of.</p>
+
+<p>I figured on speaking for no more than half an hour.</p>
+
+<p>So I wanted to focus on a clean, correct review (or introduction, as the case was surely going to be for some of the participants) of <em>unit testing</em>. I deliberately took a <a href="http://en.wikipedia.org/wiki/Test-driven_development"><em>test-driven development</em> (TDD)</a> perspective as I designed some easy-to-understand examples of the entire process of writing a test, making it fail, then writing the implementation, then running the test again, etc. I felt that TDD was the ideal way to discuss the notion of testing with <em>isolation</em>, because if collaborating code for a system under test (SUT) does not yet exist at all, it becomes quite clear where the possible isolation boundaries are.</p>
+
+<p>I also wanted to use this example as a running example in order to introduce and explore questions of <a href="http://en.wikipedia.org/wiki/Method_stub"><em>stubbing</em></a>, or more generally, <a href="http://en.wikipedia.org/wiki/Test_double"><em>test doubles</em></a>. In particular, I brought up the ongoing controversy over the use of mocks in testing at all, framed around the pretty fair <a href="http://martinfowler.com/articles/mocksArentStubs.html">analysis by Martin Fowler</a>. In order to be able to explain the controversy, I developed my running example to show a way of refactoring code in order to test <em>without</em> mocking, as well as showing how one could do it <em>with</em> mocking. And so I only explained enough features of Python <code>mock</code> to enable illustrating the issues. I gave some examples of pros and cons to using mocks.</p>
+
+<p>Of course, I had to read a bunch of articles and book excerpts, and writing running code, as part of my own process of learning and understanding the controversy; these were resources I had bookmarked a year ago when I had first heard about it. Hooray for <em>talk-driven learning</em>!</p>
+
+<p>Since I was not going to have time, I deliberately had no plan to discuss what I think is quite interesting, which is the <em>philosophy</em> that drives a strictly mock-driven approach to testing. This philosophy involves rigorously taking the outside-in approach as a matter of <em>design</em>. I have to confess that I do not currently take this extreme approach, but it intrigues me, and now that I know better what the techniques and controversies are, I may give it a try in new projects in order to see how well it works.</p>
+
+<h3 id="presentation-skills">Presentation skills</h3>
+
+<p>I felt more relaxed when giving this talk than I did in my previous one (for Pittsburgh Ruby). Just this sheer fact probably helped some.</p>
+
+<h3 id="presentation-software">Presentation software</h3>
+
+<p>I continue to use <a href="http://github.com/adamzap/landslide">landslide</a> to generate an HTML slide show.</p>
+
+<h2 id="the-presentation">The presentation</h2>
+
+<p>Steve Gross gave a little demo of Selenium WebDriver first, and took questions, before I gave my half-hour talk.</p>
+
+<p>I tried to ask useful questions of the audience and answer people&rsquo;s questions during the talk. This is a kind of skill that has to come from experience, because one can&rsquo;t anticipate everything ahead of time, and one has to gauge where people&rsquo;s minds might be. I know that when I&rsquo;m at someone&rsquo;s talk, and I&rsquo;m confused or lost or bored, I appreciate when the speaker can tell, and can adjust accordingly. This is clearly key. With forty people around, however, man, it&rsquo;s hard.</p>
+
+<h2 id="reflections">Reflections</h2>
+
+<p>I enjoyed speaking at the Pittsburgh Python group meeting, just my second time since <a href="../../../../../blog/2012/08/23/pittsburgh-python-meetup-i-gave-my-first-lightning-talk-ever-the-topic-was-scons/">my first lightning talk for the group</a> during which I didn&rsquo;t even have any slides prepared, but just drew some pictures on the whiteboard and scrolled through some code in an Emacs buffer.</p>
+
+<h2 id="supporting-web-site">Supporting Web site</h2>
+
+<p>I have a <a href="http://github.com/franklinchen/talk-on-python-mock">supporting Web site for the talk</a> with code.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>I put a lot of work into the presentation I gave at Pittsburgh Python, and am grateful to Nick Sloan for bringing up the theme and calling for volunteers. I like the idea of a &ldquo;theme&rdquo; for a meeting, such as the theme of &ldquo;testing&rdquo; that was our theme this last time.</p>
+
+<p>And I have to thank Abby for supporting me as my week got frantic as a result of suddenly volunteering to give my talk, and for attending a talk by me for the first time ever!</p>
+
+    <div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'franklinchen';
+    var disqus_identifier = 'http:\/\/franklinchen.com\/blog\/2012\/10\/24\/my-pittsburgh-python-talk-mock\/';
+    var disqus_title = 'My Pittsburgh Python talk: \x22Testing with isolation: concepts and examples using the Python standard library `mock`\x22';
+    var disqus_url = 'http:\/\/franklinchen.com\/blog\/2012\/10\/24\/my-pittsburgh-python-talk-mock\/';
+
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+  </div>
+</div>
+<script src="http://franklinchen.com/js/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+</body>
+</html>
+

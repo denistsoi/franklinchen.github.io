@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Science on Franklin Chen</title>
+    <link>http://franklinchen.com/categories/computer-science/atom/index.xml</link>
+    <description>Recent content in Computer Science on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/categories/computer-science/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How school made me hate computer science and programming</title>
+      <link>http://franklinchen.com/blog/2012/01/16/how-school-made-me-hate-computer-science-and-programming/</link>
+      <pubDate>Mon, 16 Jan 2012 19:57:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/01/16/how-school-made-me-hate-computer-science-and-programming/</guid>
+      <description>&lt;p&gt;Some months ago, when the legendary computer scientist &lt;a href=&#34;http://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)&#34;&gt;John McCarthy&lt;/a&gt; died, I wrote a blog post in which I briefly reminisced about the way &lt;a href=&#34;../../blog/2011/10/25/rip-john-mccarthy-but-lisp-will-never-die/&#34;&gt;I hated computer programming before I came to love it&lt;/a&gt;. Today I am filling in some more details about how school (elementary school through college) made me fear, misunderstand, and hate computer science and programming. I am inspired to do this because&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Just a few weeks ago, I came across an old article from 1992 by someone who had a similar experience, and I wanted to complete my story. Although my story also goes back more than two decades, I feel that the same fundamental stumbling blocks exist to &lt;a href=&#34;../../blog/2011/12/09/why-everyone-should-learn-computer-science/&#34;&gt;the universal computational competence that I now advocate&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;The topic of learning &amp;ldquo;coding&amp;rdquo; has exploded into the popular media, with hundreds of thousands of people having signed up for &lt;a href=&#34;http://codeyear.com/&#34;&gt;Code Year&lt;/a&gt; and even New York Mayor Bloomberg stating that &lt;a href=&#34;http://www.businessinsider.com/mike-bloomberg-pledges-to-learn-to-code-on-codecademy-this-year-2012-1&#34;&gt;he has signed up&lt;/a&gt; for the free &lt;a href=&#34;http://codecademy.com/&#34;&gt;Codecademy&lt;/a&gt; online tutorial courses.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;My goals in telling my story:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I want to raise awareness among those who might this year be jumping into &amp;ldquo;coding&amp;rdquo; that they might encounter the same kinds of stumbling blocks that discouraged me at first, so that they don&amp;rsquo;t prematurely jump to such conclusions as &amp;ldquo;programming is boring and confusing&amp;rdquo; or &amp;ldquo;programming requires special talent I don&amp;rsquo;t have&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;I want for educators to take note of the barriers facing students who may not be &amp;ldquo;naturals&amp;rdquo; to understanding computation or writing computer programs in the context of currently common programming environments.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In a forthcoming article, I will engage in a severe critique of the &lt;a href=&#34;http://codecademy.com/&#34;&gt;Codeacademy&lt;/a&gt; lessons I have so far examined and gone through, while helping my wife learn programming from scratch.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;6th-grade-and-basic-in-the-early-1980s&#34;&gt;6th grade and BASIC in the early 1980s&lt;/h2&gt;
+
+&lt;p&gt;When I was in middle school in the 6th grade, my math teacher was crazy about computers. He was convinced that his best math students, including me, should learn computer programming. I was basically coerced into staying after school for sessions in which he taught us to program in BASIC for the &lt;a href=&#34;http://en.wikipedia.org/wiki/TRS-80&#34;&gt;TRS-80 microcomputer&lt;/a&gt;. The BASIC language was very primitive. We used line numbers and &lt;code&gt;GOTO&lt;/code&gt;. Some boys got totally into programming, and tried writing video games. I was not one of them. I was not a natural at programming. I will admit it: I never really understood &lt;code&gt;GOSUB&lt;/code&gt; or &lt;code&gt;PEEK&lt;/code&gt; or &lt;code&gt;POKE&lt;/code&gt; at the time. In fact, one beautiful spring day, since it was nice outside, I decided to simply walk home from school instead of staying around for his class. After missing a couple of sessions, I was shocked that he contacted my parents and basically made me continue on. I finished out the year, then never wrote a BASIC program again (until college).&lt;/p&gt;
+
+&lt;p&gt;I did like playing computer games, however. I just had no interest in making them.&lt;/p&gt;
+
+&lt;h2 id=&#34;7th-grade-and-pac-man&#34;&gt;7th grade and Pac-Man&lt;/h2&gt;
+
+&lt;p&gt;In the 7th grade, I was crazy about video games and my sister and I managed to save enough allowance money to buy an &lt;a href=&#34;http://en.wikipedia.org/wiki/Atari_2600&#34;&gt;Atari 2600&lt;/a&gt; video game console. I had encountered an IBM PC by then, but had no interest in it.&lt;/p&gt;
+
+&lt;h2 id=&#34;9th-grade-and-my-first-programming-class&#34;&gt;9th grade and my first programming class&lt;/h2&gt;
+
+&lt;p&gt;When I started high school in the 9th grade, there was a requirement that all students take a semester of &amp;ldquo;computer literacy&amp;rdquo;. After several meetings of that class, I wanted out. We were shown slides of tape drives, told about bits and bytes, and I had no interest whatsoever in any of that. I heard that there was a way out of the requirement, which was to take an actual computer programming class. Since my father was working as a mainframe programmer (his degree in information sciences being from the 1970s), he suggested I take &lt;a href=&#34;http://en.wikipedia.org/wiki/COBOL&#34;&gt;COBOL&lt;/a&gt;, which were offered by my high school (in addition to &lt;a href=&#34;http://en.wikipedia.org/wiki/Fortran&#34;&gt;Fortran&lt;/a&gt; and &lt;a href=&#34;http://en.wikipedia.org/wiki/IBM_RPG&#34;&gt;RPG&lt;/a&gt; and probably others I don&amp;rsquo;t remember).&lt;/p&gt;
+
+&lt;p&gt;I switched to the COBOL class. Here we learned about pseudocode, used &lt;a href=&#34;http://www.retroist.com/2009/01/11/ibm-flowcharting-template/&#34;&gt;flowchart templates&lt;/a&gt; to draw symbols on paper, wrote our programs out in pencil, and used the big keypunch machine to punch out our programs. Every day we had the opportunity to submit a punch card deck to the teacher (with the appropriate job control and compiler cards) to drop off for overnight processing at some mainframe somewhere.&lt;/p&gt;
+
+&lt;p&gt;I hated the class. The whole rigid process we were supposed to go through, the verbosity of the COBOL language, and the nature of the programs we wrote, made computing seem very boring. I started not doing any homework, and after several weeks, I was failing the class, and the teacher called my parents.&lt;/p&gt;
+
+&lt;p&gt;I dutifully caught up on all the missing programming projects, got my A in the class, and then never touched COBOL again, and forgot any COBOL I &lt;em&gt;pretended&lt;/em&gt; to learn while basically copying and pasting from example programs in the textbook and modifying stuff until it &amp;ldquo;worked&amp;rdquo;. I have a confession to make: despite my A in the class, I never really understood COBOL or programming. I was just going through the motions. It was truly &lt;a href=&#34;http://en.wikipedia.org/wiki/Cargo_cult_programming&#34;&gt;&lt;em&gt;cargo-cult programming&lt;/em&gt;&lt;/a&gt;. &lt;strong&gt;This is a warning to all educators to actually verify whether someone has learned something, as opposed to cleverly faked it!&lt;/strong&gt; (I will come to this subject again.)&lt;/p&gt;
+
+&lt;h2 id=&#34;10th-grade-and-pascal&#34;&gt;10th grade and Pascal&lt;/h2&gt;
+
+&lt;p&gt;In the 10th grade (in a new high school), my math teacher made it mandatory to write some rudimentary programs in Pascal to illustrate the trigonometry and other stuff we were learning. We used the MacPascal interpreter on the Macintosh for this purpose: there was a computer lab where we did our work and printed out our programs and results. I have almost no memory of any of this except that I was intrigued by the automatic formatting and the proportional fonts in MacPascal.&lt;/p&gt;
+
+&lt;p&gt;I should note that at this time in my life, I had no interest in computers. We still did not have one at home, and I had long since outgrown the Atari video game console.&lt;/p&gt;
+
+&lt;h2 id=&#34;11th-grade-and-advanced-placement-computer-science&#34;&gt;11th grade and Advanced Placement computer science&lt;/h2&gt;
+
+&lt;p&gt;In the 11th grade, I had the opportunity to take an Advanced Placement course in computer science, taught using the &lt;a href=&#34;http://en.wikipedia.org/wiki/Pascal_(programming_language)&#34;&gt;Pascal&lt;/a&gt; programming language. (I mentioned this in &lt;a href=&#34;../../blog/2011/10/25/rip-john-mccarthy-but-lisp-will-never-die/&#34;&gt;my previous article&lt;/a&gt;.)&lt;/p&gt;
+
+&lt;p&gt;I signed up for the class. You might wonder why, given that I had no interest in computers or programming (in Pascal or any other language). I had a perverse incentive. Advanced Placement courses were advertised as a way to get out of equivalent courses in college. I figured that if I ended up in college with a computing course requirement, I wanted to place out of it! So I signed up for Advanced Placement computer science because I &lt;em&gt;hated&lt;/em&gt; computers and wanted to get the pain over with earlier rather than later.&lt;/p&gt;
+
+&lt;p&gt;The course was taught by a math teacher who made us use as a textbook a book that I found totally over my head, &lt;a href=&#34;http://www.amazon.com/Solve-Computer-Prentice-Hall-International-Science/dp/0134340019&#34;&gt;&amp;ldquo;How to Solve It by Computer&amp;rdquo;&lt;/a&gt;. I&amp;rsquo;m betting that if I had a copy of this book now to look at, I might actually enjoy it, but at the time, it was forbidding. It was all about &lt;a href=&#34;http://en.wikipedia.org/wiki/Loop_invariant&#34;&gt;loop invariants&lt;/a&gt;, proving your algorithms to be correct, etc.&lt;/p&gt;
+
+&lt;p&gt;One side effect of the course was that pretty soon it became clear that it was the most time-consuming course. I simply did not have enough time in the computer lab to get my programs running correctly. I had my father buy me an Apple IIe computer so that I could do my coding and debugging at home into the wee hours of the night as necessary.&lt;/p&gt;
+
+&lt;p&gt;I found it annoyingly difficult to get out of the BASIC and COBOL mindset into the &amp;ldquo;structured programming&amp;rdquo; enforced by Pascal. As a result, I am sensitive to the idea that &amp;ldquo;learning&amp;rdquo; inferior programming languages can genuinely get in the way of further progress as a programmer.&lt;/p&gt;
+
+&lt;p&gt;I did not enjoy the class at all, but did enjoy the side effect of having a computer at home, which I used for playing some games as well as for word processing, so that I no longer needed to use a typewriter and scissors to work on drafts of papers.&lt;/p&gt;
+
+&lt;p&gt;Again, I will admit that for much of the class, I was proceeding with no real understanding of what I was doing. I was copying and pasting and cargo-culting my way through the class, and through my receiving a 5 on the Advanced Placement exam. After this class, I thought I was done with programming for the rest of my life.&lt;/p&gt;
+
+&lt;p&gt;The problem was that we never wrote any programs to do anything I found interesting, and was never exposed to the general possibilities of what we could do through programming. Writing a recursive program to generate fractals was not very interesting to me. My biggest project in the class was writing a program to maintain a library of books and be able to sort and search it and write it out to floppy disk and read it back in. That was also not very interesting to me.&lt;/p&gt;
+
+&lt;h3 id=&#34;motivations&#34;&gt;Motivations&lt;/h3&gt;
+
+&lt;p&gt;My hobbies at the time included playing chess, learning languages (I was enthusiastic about French and had taught myself Latin), reading lots of books. If the world had been different then, and someone had told me what I could do by knowing how to program, I could have been very interested. For example, suppose that the Web existed then. Suppose someone told me that by knowing how to program, I could write code to create my own flashcard system for learning languages. Then there would be a question of whether an application already exists for purchase that can do that. (It turns out that I have never been satisfied with any flashcard program I have used.)&lt;/p&gt;
+
+&lt;p&gt;I think that to attract interest in computer programming, it is vital to give people reasons that they can relate to. And it is not helpful to &lt;em&gt;discourage&lt;/em&gt; potential programmers by telling them that they should be doing something else, like, just focusing on being a doctor or salesman, giving the argument that the &amp;ldquo;good&amp;rdquo; programmers are already doing their job creating applications ready to use, and that therefore &lt;a href=&#34;http://en.wikipedia.org/wiki/Comparative_advantage&#34;&gt;comparative advantage&lt;/a&gt; says that only professional programmers should learn how to program. This is like telling someone centuries ago that it is no use learning to read or write because others can already do it and probably do it much better. I think the proliferation of information means that more and more people need to be able to analyze it. Whether you call it &amp;ldquo;scripting&amp;rdquo; or &amp;ldquo;macros&amp;rdquo; or &amp;ldquo;customization&amp;rdquo;, the truth is that at some point, real programming is necessary in order to truly understand and control one&amp;rsquo;s data.&lt;/p&gt;
+
+&lt;h2 id=&#34;after-11th-grade&#34;&gt;After 11th grade&lt;/h2&gt;
+
+&lt;p&gt;The rest of the story, &lt;a href=&#34;../../blog/2011/10/25/rip-john-mccarthy-but-lisp-will-never-die/&#34;&gt;I already told earlier&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;My K-12 schooling did nothing to encourage me to actually understand and apply computer science and programming. I wonder to what extent the kind of experience I had still applies today in K-12.&lt;/p&gt;
+
+&lt;h2 id=&#34;postscript&#34;&gt;Postscript&lt;/h2&gt;
+
+&lt;p&gt;Upcoming topics I will write about:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;My eye-opening experience as a teaching assistant for an undergraduate computer science course.&lt;/li&gt;
+&lt;li&gt;My current monitoring of Codecademy&amp;rsquo;s offerings and my ongoing efforts to teach my wife computer programming.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Why everyone should learn computer science</title>
+      <link>http://franklinchen.com/blog/2011/12/09/why-everyone-should-learn-computer-science/</link>
+      <pubDate>Fri, 09 Dec 2011 22:20:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2011/12/09/why-everyone-should-learn-computer-science/</guid>
+      <description>&lt;p&gt;On Sunday I wrote an introductory blog post for &lt;a href=&#34;http://www.csedweek.org/&#34;&gt;Computer Science Education
+ Week (CSEDWeek)&lt;/a&gt; in which &lt;a href=&#34;../../blog/2011/12/04/why-i-am-writing-this-week-for-csedweek/&#34;&gt;I posed some questions&lt;/a&gt; to follow up on.&lt;/p&gt;
+
+&lt;p&gt;Today I&amp;rsquo;m going to begin exploring my central thesis that has been brewing in my mind in the past couple of years, which is that &lt;strong&gt;everyone should learn computer science&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;I mean &lt;strong&gt;everyone&lt;/strong&gt;. And I mean &lt;strong&gt;computer science&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;How can I dare much such a strong claim?&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;what-i-am-not-saying&#34;&gt;What I am &lt;em&gt;not&lt;/em&gt; saying&lt;/h2&gt;
+
+&lt;p&gt;First, let me get out of the way what I am &lt;em&gt;not&lt;/em&gt; stating.&lt;/p&gt;
+
+&lt;p&gt;I am not stating that the United States should encourage more college students to enter computer science &amp;ldquo;because&amp;rdquo; we have high-tech jobs we want to fill with Americans.&lt;/p&gt;
+
+&lt;p&gt;I am not stating that computing careers are high-paying and desirable and we should be recruiting K-12 students into them.&lt;/p&gt;
+
+&lt;p&gt;I am not stating that K-12 schools should be filled with computers and that all teachers should start using &amp;ldquo;educational&amp;rdquo; software in their classrooms.&lt;/p&gt;
+
+&lt;p&gt;I am not stating that babies and toddlers need to get a head start in life with iPads and learning to type on computer keyboards.&lt;/p&gt;
+
+&lt;p&gt;I am not stating that everyone should learn how to use Microsoft Office in school.&lt;/p&gt;
+
+&lt;p&gt;I am not stating that people should be &amp;ldquo;computer literate&amp;rdquo; in the sense of knowing what a USB port is and how many bytes there are in a terabyte and how to maximize a window.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-i-am-saying&#34;&gt;What I am saying&lt;/h2&gt;
+
+&lt;p&gt;By &amp;ldquo;everyone&amp;rdquo;, I mean everyone, not just college-bound students or those who are babies and toddlers now.&lt;/p&gt;
+
+&lt;p&gt;By &amp;ldquo;learn computer science&amp;rdquo;, I mean learn enough about computation to be able to write and run simple programs to do a desired task, to have an idea of what more complicated programs do, to be informed about what is fundamentally going on when using a web browser, sending email, posting information on Facebook, doing a Google search, being infected with a virus, etc.&lt;/p&gt;
+
+&lt;h2 id=&#34;why-i-am-saying-it&#34;&gt;Why I am saying it&lt;/h2&gt;
+
+&lt;p&gt;My claim: we are living in a time of human societal change unparalleled since Gutenberg invented the printing press in the 15th century and people began to be able to write, read, and share information as individuals and as institutions.&lt;/p&gt;
+
+&lt;p&gt;A corollary: within around two decades, anyone who does not know the fundamentals of computer science will lack important understanding about the world, how it operates, and how they can take control of their lives (as opposed to cede all control to institutions such as governments and corporations).&lt;/p&gt;
+
+&lt;p&gt;The best analogy I can come up with is this: if you live in a developed nation such as the United States today, and you do not know how to read or write, you are missing a huge amount of information and knowledge that is spread around, and furthermore, you are lacking in personal autonomy and power. Being illiterate, you are very dependent on others to get through life. Similarly, if you do not know basic arithmetic, you are very dependent on others.&lt;/p&gt;
+
+&lt;p&gt;A corollary: computer science education should soon be considered a &lt;em&gt;basic requirement&lt;/em&gt;, in the same sense that &lt;em&gt;reading, writing, arithmetic&lt;/em&gt; are. It is a non-starter to treat computer science education as some kind of optional subject, one meant for only a few select students. Computer science is not like physics or English literature. People do not need to know about quantum mechanics or Shakespeare in order to have a decent understanding of everyday life, but computation is everywhere now.&lt;/p&gt;
+
+&lt;h2 id=&#34;how-to-bring-computer-science-education-to-everyone&#34;&gt;How to bring computer science education to everyone?&lt;/h2&gt;
+
+&lt;p&gt;I don&amp;rsquo;t have the answer yet to the question of how to bring computer science education to everyone. But I think the first step is to actually agree that this goal is important. The second step is to agree on what it is that people really need to know. The third step is to determine the best ways of teaching that.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Humanity is at a crossroads. The ubiquity of computing technology points towards two possible futures: one is a &lt;a href=&#34;http://en.wikipedia.org/wiki/Brave_New_World&#34;&gt;brave new world&lt;/a&gt; in which technology is controlled by an elite and the masses are distracted and docile consumers, and the other is a liberated world in which everyone is potentially a creator, a programmer, a critical thinker. Which world do you want to live in?&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Why I am writing this week for CSEdWeek</title>
+      <link>http://franklinchen.com/blog/2011/12/04/why-i-am-writing-this-week-for-csedweek/</link>
+      <pubDate>Sun, 04 Dec 2011 20:54:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2011/12/04/why-i-am-writing-this-week-for-csedweek/</guid>
+      <description>&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/csedweek-2011.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Logo for CSEdWeek 2011&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;This week (December 4 through 10, 2011) has been designed as &lt;a href=&#34;http://www.csedweek.org/&#34;&gt;Computer Science Education Week (CSEDWeek)&lt;/a&gt; by the US House of Representatives to recognize the importance of computer science education for students at all levels.&lt;/p&gt;
+
+&lt;p&gt;I am one of over 2000 people who have pledged online to participate in CSEdWeek. I will be blog about &lt;strong&gt;computation&lt;/strong&gt; and the &lt;strong&gt;learning&lt;/strong&gt; and &lt;strong&gt;teaching&lt;/strong&gt; of it, in every context that I have experienced it.&lt;/p&gt;
+
+&lt;p&gt;Let me start by raising some questions about what is at stake.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;definitions&#34;&gt;Definitions&lt;/h2&gt;
+
+&lt;p&gt;What do you think of when you even hear of &amp;ldquo;Computer Science education&amp;rdquo;?  (I welcome comments below.)&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Do you imagine elementary schools equipped with iPads?&lt;/li&gt;
+&lt;li&gt;Do you imagine courses about how to use applications such as Microsoft Word or Gmail?&lt;/li&gt;
+&lt;li&gt;Do you imagine Advanced Placement courses spreading to every high school in the country, with high enrollments in the courses?&lt;/li&gt;
+&lt;li&gt;Do you imagine community college and technical schools teaching something about programming in Visual Basic or Java?&lt;/li&gt;
+&lt;li&gt;Do you imagine undergraduates learning about asymptotic mathematical analysis of parallel algorithms?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I do not like the phrase &amp;ldquo;computer science&amp;rdquo;. Someone once said, computer science is not about &lt;strong&gt;computers&lt;/strong&gt; and is not &lt;strong&gt;science&lt;/strong&gt;. I heartily agree. The essence of what computers do is what is important, not the physical details of the what &lt;strong&gt;computes&lt;/strong&gt; or the very specific details of what applications have already been provided for use on a computer. And the principles of computation are just mathematics, which is not an empirical science.&lt;/p&gt;
+
+&lt;p&gt;So right off the bat, I think there is a lot of opportunity for confusion when trying to determine what the scope of &amp;ldquo;computer science&amp;rdquo; is (versus programming, human-computer interaction, software engineering, psychology and politics of software development in the real world), what should be taught, to whom, and by whom.&lt;/p&gt;
+
+&lt;p&gt;I especially dislike the word &amp;ldquo;education&amp;rdquo;. It often implies some formal degree program, tuition, certifications, and other such matters. I&amp;rsquo;m interested in the &lt;strong&gt;learning&lt;/strong&gt; and &lt;strong&gt;teaching&lt;/strong&gt;, not in the &lt;strong&gt;student&lt;/strong&gt; or &lt;strong&gt;teacher&lt;/strong&gt; or &lt;strong&gt;school&lt;/strong&gt; part of the story.&lt;/p&gt;
+
+&lt;h2 id=&#34;learning-and-teaching-outside-of-school&#34;&gt;Learning and teaching outside of school&lt;/h2&gt;
+
+&lt;p&gt;Later this week I will write about how various experiences in school turned me off from computers, from computing, and offer suggestions on how to fix the problem of discouraging young people from pursuing a computing-oriented learning and career path.&lt;/p&gt;
+
+&lt;p&gt;But today, I just want to mention a remarkable event that occurred just yesterday, the &lt;a href=&#34;http://blog.coderetreat.com/global-day-of-coderetreat&#34;&gt;Global Day of CodeRetreat&lt;/a&gt;, held simultaneously in 90 cities with around 2000 attendees. I participated in the local &lt;a href=&#34;http://globalcoderetreat2011pittsburgh.eventbrite.com/&#34;&gt;Pittsburgh edition&lt;/a&gt; of the event.  (I will write later this week in detail about my experience at the event.)&lt;/p&gt;
+
+&lt;p&gt;The motto of the event is &amp;ldquo;Programmers honing their craft together.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;The buzzwords used here are very far from those in academic &amp;ldquo;computer science&amp;rdquo;. I bring up the event because I think that one thing that is entirely missing in the discussion of &amp;ldquo;computer science education&amp;rdquo; is, what is really important and valuable to society, and who provides it, and where?  It is fashionable in academia to look down on anything that would speak of &amp;ldquo;programmers&amp;rdquo; (rather than &amp;ldquo;computer scientists&amp;rdquo;), &amp;ldquo;honing&amp;rdquo; (rather than &amp;ldquo;proving&amp;rdquo;), &amp;ldquo;craft&amp;rdquo; (rather than &amp;ldquo;science&amp;rdquo;), and &amp;ldquo;together&amp;rdquo; (conventional education pays only lip service to the importance of collaboration).&lt;/p&gt;
+
+&lt;p&gt;I believe that something like CodeRetreat is fair game for discussion during CSEdWeek, because the enthusiastic participation in this event speaks to the passionate desire by volunteers to help people learn, and by working software developers to continue to improve themselves.&lt;/p&gt;
+
+&lt;h2 id=&#34;stay-tuned&#34;&gt;Stay tuned&lt;/h2&gt;
+
+&lt;p&gt;Stay tuned for posts later this week on the following:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;problems I faced in computer science education in K-12, college&lt;/li&gt;
+&lt;li&gt;CodeRetreat and what people learn there&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>RIP, John McCarthy; but Lisp will never die</title>
+      <link>http://franklinchen.com/blog/2011/10/25/rip-john-mccarthy-but-lisp-will-never-die/</link>
+      <pubDate>Tue, 25 Oct 2011 00:14:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2011/10/25/rip-john-mccarthy-but-lisp-will-never-die/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;(Updated 2012-01-16)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The legendary computer scientist &lt;a href=&#34;http://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)&#34;&gt;John McCarthy&lt;/a&gt; died yesterday. So there goes another guy without whom my life today would be unimaginably different: &lt;a href=&#34;../../blog/2011/10/05/i-cannot-imagine-my-life-without-the-influence-of-steve-jobs/&#34;&gt;Steve Jobs&lt;/a&gt; and &lt;a href=&#34;../../blog/2011/10/13/why-dennis-ritchie-is-important/&#34;&gt;Dennis Ritchie&lt;/a&gt; just left us this month!&lt;/p&gt;
+
+&lt;p&gt;In a way, more than Jobs, and more than Ritchie, McCarthy indirectly got me taking seriously the whole field of computing, and actually loving it.&lt;/p&gt;
+
+&lt;p&gt;Because I &lt;em&gt;never for a moment&lt;/em&gt; enjoyed computer programming until I discovered &lt;a href=&#34;http://en.wikipedia.org/wiki/Lisp_(programming_language)&#34;&gt;Lisp&lt;/a&gt;, the programming language that McCarthy invented and what he will surely be most remembered for most, among his other contributions to computer science.&lt;/p&gt;
+
+&lt;p&gt;My story of love and hate in computer programming:&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;i-hate-programming&#34;&gt;I hate programming&lt;/h2&gt;
+
+&lt;p&gt;I had finished my junior year of high school and was away from home for the first time in my life, attending the &lt;a href=&#34;http://www.cee.org/programs/rsi&#34;&gt;Research Science Institute&lt;/a&gt;(RSI), a free summer science program. There, I encountered a lot of very smart and already accomplished peers.&lt;/p&gt;
+
+&lt;p&gt;A new friend I made at the science program was into artificial intelligence (AI) (a term coined by John McCarthy, in fact), and programming in Lisp and Prolog. He ended up doing his summer project on expert systems. He had the books on &lt;a href=&#34;http://www.amazon.com/Artificial-Intelligence-Addison-Wesley-computer-science/dp/0201084546&#34;&gt;AI&lt;/a&gt; and &lt;a href=&#34;http://www.amazon.com/LISP-Patrick-Henry-Winston/dp/0201083728&#34;&gt;Lisp&lt;/a&gt; by Patrick Winston, and he and others raved about a book by &lt;a href=&#34;http://en.wikipedia.org/wiki/Douglas_Hofstadter&#34;&gt;Doug Hofstadter&lt;/a&gt; called &lt;a href=&#34;http://en.wikipedia.org/wiki/Gödel,_Escher,_Bach&#34;&gt;&lt;em&gt;Gödel, Escher, Bach&lt;/em&gt;&lt;/a&gt;(GEB). None of the books made any sense to me at the time, but I made a note to look them up after the summer.&lt;/p&gt;
+
+&lt;p&gt;Myself, I had gone to the program with vague ideas of doing something related to physics. I got assigned to work at the United States Geological Survey (USGS) under Allan Tanner. I was profoundly disappointed to find that I was assigned to write FORTRAN or something to control a plotter, because at this point in my life, I &lt;em&gt;hated&lt;/em&gt; computer programming!! I asked to do something else, and ended up digging holes in the ground to measure radon availability. I didn&amp;rsquo;t feel I accomplished anything really all summer, but was thanked in a paper he wrote later.&lt;/p&gt;
+
+&lt;p&gt;Wait, so I was interested in Lisp but hated programming? What was going on?&lt;/p&gt;
+
+&lt;p&gt;The science program had apparently thought I was interested in programming because I had just completed an Advanced Placement course in computer science in high school. It was a course based on Pascal. I left the course rather uninterested in programming. We learned about arrays, linked lists, hash tables, trees, searching, sorting, etc., and it was all very dry and abstract. The course was my least favorite of my junior year in high school. Before this course, I had been exposed to BASIC, COBOL, and FORTRAN, and these were even less appealing to me. So I had the picture of computing as drudgery for doing numerical calculations and generating reports.&lt;/p&gt;
+
+&lt;p&gt;Lisp seemed different. It didn&amp;rsquo;t even seem like &amp;ldquo;programming&amp;rdquo; in the same sense. I saw my peers firing up the Golden Common Lisp REPL on PCs and &lt;em&gt;interacting&lt;/em&gt; with data, creating lists, using atoms, doing &lt;em&gt;symbolic&lt;/em&gt; computation easily. At the time, I could not even make the connection between this kind of programming and anything I had learned in my Pascal-based high school course. There, linked lists took a lot to implement, and we learned about &lt;code&gt;new&lt;/code&gt; and &lt;code&gt;dispose&lt;/code&gt; and pointers. The effort to learn all this low-level stuff resulted in my never seeing from the course what much higher-level applications could be built on top.&lt;/p&gt;
+
+&lt;h2 id=&#34;again-i-still-hate-programming&#34;&gt;Again, I still hate programming&lt;/h2&gt;
+
+&lt;p&gt;Anyway, after I returned home, I started teaching myself Lisp, but didn&amp;rsquo;t get very far because a new interest overrode all others. This despite my also new interest in Lisp and AI, reading GEB and even having Doug Hofstadter autograph my copy of &lt;a href=&#34;http://en.wikipedia.org/wiki/Metamagical_Themas&#34;&gt;&lt;em&gt;Metamagical Themas&lt;/em&gt;&lt;/a&gt;, which had cute Lisp interludes.&lt;/p&gt;
+
+&lt;p&gt;At the science program I had heard peers raving about the &lt;a href=&#34;http://www.feynmanlectures.info/&#34;&gt;Feynman Lectures on Physics&lt;/a&gt;. To make a long story short, after returning home, I read as far as I could before my senior year in high school began, I fell in love with physics, took Advanced Placement physics, and ended up going to college majoring in physics.&lt;/p&gt;
+
+&lt;p&gt;Actually, freshman year in college, I considered taking the introductory computer science sequence, since a lot of my new friends (as well as friends I made at the Research Science Institute over a year earlier) did, but although the second semester involved cool-sounding Lisp projects, the first semester involved a language called &lt;a href=&#34;../../blog/2011/10/13/why-dennis-ritchie-is-important/&#34;&gt;C&lt;/a&gt;. Taking a quick look at Kernighan and Ritchie&amp;rsquo;s book, and the first homework assignment, I bailed out. The language looked like noise to me. It seemed worse than Pascal, far worse. As a result, I never took a computer science course as an undergraduate in college at all!&lt;/p&gt;
+
+&lt;h2 id=&#34;i-love-programming&#34;&gt;I love programming&lt;/h2&gt;
+
+&lt;p&gt;My physics journey ended in disaster. By my junior year, I was questioning the viability of my goal, in theoretical high energy physics, of working toward the &amp;ldquo;theory of everything&amp;rdquo;. String theory was getting popular, but I had no faith in it as a viable research program. I finished out my degree, and continued on to grad school hoping to do something else, but by the time I arrived, I had actually lost all interest in physics already. So I left after a year.&lt;/p&gt;
+
+&lt;p&gt;What next?&lt;/p&gt;
+
+&lt;p&gt;I needed to learn something else and find a job. I thought back to computer programming, especially since I was very excited about what Macs could do.  A friend of mine who had attended MIT recommended that I pick up &lt;a href=&#34;http://mitpress.mit.edu/sicp/&#34;&gt;&lt;em&gt;The Structure and Interpretation of Computer Programs&lt;/em&gt;&lt;/a&gt;(SICP) to really learn programming, before tackling C.  So I did.  This book used Lisp, or more precisely, MIT Scheme, a variant of Lisp. I got a used Mac SE/30, a free Scheme interpreter (Gambit, I think), and worked through the book.&lt;/p&gt;
+
+&lt;p&gt;Reading SICP was one of the most profound experiences of my entire life. A full review would require its own article. In any case, it made me love and understand programming, for the first time, really.&lt;/p&gt;
+
+&lt;p&gt;I can imagine books similar to SICP using more recent, sophisticated, statically typed languages such as ML, Haskell, or Scala, but the exposition would require more careful design, because Lisp&amp;rsquo;s macros and its &amp;ldquo;pun&amp;rdquo; of using S-expression syntax to represent abstract syntax make a lot of things easier.&lt;/p&gt;
+
+&lt;p&gt;(I did then go learn C and C++ and find a job. Later discovering ML and Haskell and loving programming even more, and continuing on from there to the present is many more stories.)&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Lisp is a very old language, half a century old, and I happen not to use it much these days (because given a choice, I prefer static types, I prefer syntactic sugar, and I dislike parentheses), but I predict it will survive forever, because the core is so elegant and self-contained.&lt;/p&gt;
+
+&lt;p&gt;Thank you, John McCarthy!&lt;/p&gt;
+
+&lt;h2 id=&#34;update-2012-01-16&#34;&gt;&lt;strong&gt;Update 2012-01-16&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;I wrote a companion post on &lt;a href=&#34;../../blog/2012/01/16/how-school-made-me-hate-computer-science-and-programming/&#34;&gt;my K-12 experiences with computing education&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;A near contemporary of mine, Natasha Chen (no relation), wrote an &lt;a href=&#34;http://www.eimacs.com/blog/2011/12/learn-computer-programming-without-complicated-syntax/&#34;&gt;article in 1992 on her experiences with computing education&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hedgehog Defense on Franklin Chen</title>
+    <link>http://franklinchen.com/categories/hedgehog-defense/atom/index.xml</link>
+    <description>Recent content in Hedgehog Defense on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/categories/hedgehog-defense/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>World Chess Championship 2013 round 10: Magnus Carlsen is the new world champion</title>
+      <link>http://franklinchen.com/blog/2013/11/22/world-chess-championship-2013-round-10-magnus-carlsen-is-the-new-world-champion/</link>
+      <pubDate>Fri, 22 Nov 2013 18:17:34 -0500</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/11/22/world-chess-championship-2013-round-10-magnus-carlsen-is-the-new-world-champion/</guid>
+      <description>&lt;p&gt;In my continuing coverage of the &lt;a href=&#34;http://chennai2013.fide.com/&#34;&gt;World Chess Championship between Anand and Carlsen&lt;/a&gt;, today I cover round ten, in which a draw gave 22-year-old Magnus Carlsen the FIDE World Chess Champion title. Congratulations to Carlsen, and thank you, Anand, for showing your fighting spirit by playing the Sicilian Defense today!&lt;/p&gt;
+
+&lt;p&gt;Game and notes below:&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;my-opening-predictions-for-today&#34;&gt;My opening predictions for today&lt;/h2&gt;
+
+&lt;p&gt;I announced my opening predictions the night before today&amp;rsquo;s game.&lt;/p&gt;
+
+&lt;p&gt;My primary prediction was that Carlsen would play &lt;code&gt;1 e4&lt;/code&gt; and Anand would play &lt;code&gt;c5&lt;/code&gt; for an aggressive Najdorf Sicilian, and that Carlsen would play a &lt;code&gt;Be2/Nf3&lt;/code&gt; line in response. My secondary prediction was that if Carlsen played something other than &lt;code&gt;1 e4&lt;/code&gt;, then Anand would try a King&amp;rsquo;s Indian as Black.&lt;/p&gt;
+
+&lt;h2 id=&#34;summary-of-the-game&#34;&gt;Summary of the game&lt;/h2&gt;
+
+&lt;p&gt;It turns out that I was partially right in my prediction. There was a Sicilian Defense, and Anand did try entering a Najdorf. I was very happy to see this, because there was some discussion among my chess friends yesterday about whether Anand would simply play for a safe, quick draw, rather than try to fight back in the match for a win. Anand did try to fight back after all, playing the riskiest variation even against Carlsen&amp;rsquo;s avoidance of the Najdorf with the drawish Moscow Variation.&lt;/p&gt;
+
+&lt;p&gt;Objectively the middlegame was very equal for some time, as Anand set up a &lt;a href=&#34;http://en.wikipedia.org/wiki/Hedgehog_%28chess%29&#34;&gt;Hedgehog&lt;/a&gt; position against Carlsen&amp;rsquo;s Maróczy Bind setup. In fact, Anand implicitly offered a draw by shuffling his King back and forth. Carlsen decided to play on for a win, advancing on the Queenside with &lt;code&gt;a4&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Shortly after that, Anand started slipping a bit, allowing Carlsen to improve White&amp;rsquo;s position, and at one critical point Anand made a big blunder that should have lost the game, hanging the important &lt;code&gt;d6&lt;/code&gt; Pawn to White&amp;rsquo;s capture by the &lt;code&gt;e5&lt;/code&gt; Pawn. But Carlsen prematurely captured the Pawn too early, allowing Anand to regain it and simplify into a Knight and Pawn ending that should be a draw.&lt;/p&gt;
+
+&lt;p&gt;However, White had chances because of the Queen side majority and more active King. Anand found very sharp counterplay that caused Carlson to decide to stop playing for a possible win, and shut the game down for a draw.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-state-of-the-match&#34;&gt;The state of the match&lt;/h3&gt;
+
+&lt;p&gt;Carlsen is the new world champion!&lt;/p&gt;
+
+&lt;h2 id=&#34;the-game&#34;&gt;The game&lt;/h2&gt;
+
+&lt;p&gt;&lt;link href=&#34;../../chess/pgn4web/template.css&#34; type=&#34;text/css&#34; rel=&#34;stylesheet&#34;&gt;&lt;/link&gt;&lt;/p&gt;
+
+&lt;style type=&#34;text/css&#34;&gt;
+  #GameLastComment {
+    font-style: italic
+  }
+&lt;/style&gt;
+
+&lt;script src=&#34;../../chess/pgn4web/pgn4web.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
+
+&lt;script type=&#34;text/javascript&#34;&gt;
+    &#34;use strict&#34;;
+
+    SetPgnUrl(&#34;/chess/anand-carlsen.pgn&#34;);
+    SetImagePath(&#34;/chess/pgn4web/images&#34;);
+    SetHighlightOption(true);
+    SetCommentsIntoMoveText(true);
+    SetCommentsOnSeparateLines(true);
+    SetInitialGame(10);
+    SetShortcutKeysEnabled(true);
+&lt;/script&gt;
+
+&lt;table&gt;
+    &lt;tr valign=&#34;top&#34;&gt;
+      &lt;td&gt;
+        &lt;div id=&#34;GameBoard&#34;&gt;&lt;/div&gt;
+        &lt;div id=&#34;GameButtons&#34;&gt;&lt;/div&gt;
+        &lt;span class=&#34;label&#34;&gt;Move comment:&lt;/span&gt;&lt;br&gt;&lt;span id=&#34;GameLastComment&#34;&gt;&lt;/span&gt;
+      &lt;/td&gt;
+
+      &lt;td&gt;
+        &lt;span class=&#34;label&#34;&gt;Event:&lt;/span&gt; &lt;span id=&#34;GameEvent&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Site:&lt;/span&gt; &lt;span id=&#34;GameSite&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Round:&lt;/span&gt; &lt;span id=&#34;GameRound&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Date:&lt;/span&gt; &lt;span id=&#34;GameDate&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;White:&lt;/span&gt; &lt;span id=&#34;GameWhite&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Black:&lt;/span&gt; &lt;span id=&#34;GameBlack&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Result:&lt;/span&gt; &lt;span id=&#34;GameResult&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Side to move:&lt;/span&gt; &lt;span id=&#34;GameSideToMove&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Last move:&lt;/span&gt; &lt;span id=&#34;GameLastMove&#34;&gt;&lt;/span&gt;&amp;nbsp; &lt;span class=&#34;label&#34;&gt;variations:&lt;/span&gt; &lt;span id=&#34;GameLastVariations&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Next move:&lt;/span&gt; &lt;span id=&#34;GameNextMove&#34;&gt;&lt;/span&gt;&amp;nbsp; &lt;span class=&#34;label&#34;&gt;variations:&lt;/span&gt; &lt;span id=&#34;GameNextVariations&#34;&gt;&lt;/span&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;hr/&gt;
+
+&lt;div id=&#34;GameText&#34;&gt;&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

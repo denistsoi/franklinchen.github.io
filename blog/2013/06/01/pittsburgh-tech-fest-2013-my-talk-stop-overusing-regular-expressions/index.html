@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>Pittsburgh Tech Fest 2013: my talk &#34;Stop Overusing Regular Expressions!&#34; &middot; Franklin Chen</title>
+
+  
+  <link rel="stylesheet" href="http://franklinchen.com/css/poole.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/hyde.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/poole-overrides.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/hyde-overrides.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/hyde-x.css">
+
+  <link rel="stylesheet" href="http://franklinchen.com/css/franklin.css">
+
+  <link rel="stylesheet" href="http://franklinchen.com/css/highlight/default.css">
+  <link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://franklinchen.com/touch-icon-144-precomposed.png">
+  <link href="http://franklinchen.com/favicon.png" rel="icon">
+
+  
+  
+  
+  
+
+  <meta name="description" content="Franklin Chen&#39;s personal Web site and blog">
+  <meta name="keywords" content="Franklin Chen, blog">
+  <link rel="author" href="http://plus.google.com/100967806642012078047">
+</head>
+<body class="theme-base-0e">
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      
+        
+        <h1>Franklin Chen</h1>
+        <p class="lead">Infinity in the palm of my hand.</p>
+    </div>
+
+    <ul class="sidebar-nav">
+      
+      <li class="sidebar-nav-item"><a href="http://franklinchen.com/contact/">Contact</a></li>
+      
+      <li class="sidebar-nav-item"><a href="http://ConscientiousProgrammer.com/">Programming blog</a></li>
+      <li class="sidebar-nav-item"><a href="http://chessimprover.com/author/franklinc/">Chess blog</a></li>
+      <li class="sidebar-nav-item"><a href="https://www.flickr.com/photos/franklinmingchen/">Photos</a></li>
+    </ul>
+
+    <ul class="sidebar-nav">
+      <li class="sidebar-nav-item">
+      <a href="https://github.com/FranklinChen"><i class="fa fa-github-square fa-3x"></i></a>
+      
+      
+      <a href="http://www.linkedin.com/in/franklinchen"><i class="fa fa-linkedin-square fa-3x"></i></a>
+      <a href="http://google.com/&#43;FranklinChen"><i class="fa fa-google-plus-square fa-3x"></i></a>
+      <a href="http://www.facebook.com/franklin.chen"><i class="fa fa-facebook-square fa-3x"></i></a>
+      <a href="http://twitter.com/franklinchen"><i class="fa fa-twitter-square fa-3x"></i></a>
+      <a href="http://www.youtube.com/user/FranklinChen"><i class="fa fa-youtube-square fa-3x"></i></a>
+      <a href="http://franklinchen.com/atom.xml" type="application/rss+xml"><i class="fa fa-rss-square fa-3x"></i></a>
+      </li>
+    </ul>
+
+    
+
+    <p>Copyright &copy; 2016 Franklin Chen<br/>
+       Powered by <a href="http://gohugo.io">Hugo</a> and <a href="https://github.com/zyro/hyde-x">Hyde-X</a></p>
+  </div>
+</div>
+
+
+<div class="content container">
+  <div class="post">
+    <h1>Pittsburgh Tech Fest 2013: my talk &#34;Stop Overusing Regular Expressions!&#34;</h1>
+    
+
+<p>At Pittsburgh TechFest 2013 (<a href="../../../../../blog/2013/06/01/report-on-the-second-pittsburgh-techfest-2013/">full report here</a>), I gave a talk for a one-hour time slot before lunch.</p>
+
+<p>This was <a href="../../../../../blog/2013/01/18/how-justice-clarence-thomas-uncovered-a-seven-year-old-bug-in-my-computer-program/">my first talk at a conference in three years</a>, and only my second at a conference in my life! I feel that I have much improved as a presenter since then.</p>
+
+<p>Here&rsquo;s how it went.</p>
+
+<h2 id="presentation">Presentation</h2>
+
+<p>My presentation was &ldquo;Stop overusing regular expressions!&rdquo;</p>
+
+<p>Here is my abstract as submitted to Pittsburgh TechFest:
+<blockquote>
+Regular expressions are very commonly used to process and validate text data. Unfortunately, they suffer from various limitations. I will discuss the limitations and illustrate how using grammars instead can be an improvement. I will make the examples concrete using parsing libraries in a couple of representative languages, although the ideas are language-independent. (I&rsquo;ll try to squeeze in, say, Ruby, Python, JavaScript, Scala.)</p>
+
+<p>I will emphasize ease of use, since one reason for the overuse of regular expressions is that they are so easy to pull out of one&rsquo;s toolbox.
+</blockquote></p>
+
+<h3 id="revised">Revised</h3>
+
+<p>Just on Wednesday, <a href="../../../../../blog/2013/05/29/pittsburgh-scala-meetup-my-talk-stop-overusing-regular-expressions/">I had given a version of this talk at the Pittsburgh Scala meetup</a>, but revised it considerably based on feedback and my own impressions.</p>
+
+<h3 id="slides-and-code">Slides and code</h3>
+
+<p>The material for the talk <em>as given</em> is at <a href="https://github.com/franklinchen/talk-on-overusing-regular-expressions/tree/pitt-tech-fest-talk">this tag of my GitHub repository</a>.</p>
+
+<p>My <a href="https://github.com/franklinchen/talk-on-overusing-regular-expressions">master branch of the GitHub repository</a> will always have my latest revisions. I expect continue to add more code in different languages, for example.</p>
+
+<p><iframe src="http://www.slideshare.net/slideshow/embed_code/22302440" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/FranklinChen/handout-22302440" title="Stop overusing regular expressions!" target="_blank">Stop overusing regular expressions!</a> </strong> from <strong><a href="http://www.slideshare.net/FranklinChen" target="_blank">Franklin Chen</a></strong> </div></p>
+
+<h2 id="after">After</h2>
+
+<p>I tried to minimize discussion of the final Scala code slide, which in one page creates a full parser for &ldquo;toy JSON&rdquo; into a tree of Scala objects, because I intended mainly to give this as proof of concept, not to get into explaining the funny operator overloading that makes the parser so concise, but this seemed to be an issue anyway. I now lean toward thinking that in the future, I need to create a parallel slide that replaces the operators with standard method names instead.</p>
+
+<p>Why did I use Scala for example code anyway? A major reason is that it is indeed very concise, and yet fully statically typed. I could fit all each of my Scala code examples on a single slide. I did that with Ruby also, up to a point. Writing the classes in Ruby (or Python, Java, etc.) would have taken pages of boilerplate, as opposed to using Scala&rsquo;s case classes. (Of course I wasn&rsquo;t going to use ML or Haskell at all in the talk for this audience.)</p>
+
+<p>I was surprised to learn how quickly I had finished my presentation (around 45 minutes), given that I had actually added many slides after my Pittsburgh Scala version (which had lasted around the same time). I think it could have been because of the following:</p>
+
+<ul>
+<li>Having practiced the talk once, I was more fluent and stumbled less, and explained some things better.</li>
+<li>My additional transitional and motivational slides were clarifying, and reduced confusion that I had to address in my earlier version.</li>
+<li>I still get the impression that when I speak, I get overexcited and talk too quickly!</li>
+</ul>
+
+<h3 id="attendance">Attendance</h3>
+
+<p>Turnout was small, around eight people, but enthusiastic. Half the people I already knew, but the other half were new to me.</p>
+
+<p>I have some hypotheses about why attendance was relatively low (I think most of the talks I went to had 20-40 people):</p>
+
+<ul>
+<li>Several people actually told me they would have attended my talk, but they too were giving talks or there were others that just happened to have higher priority.</li>
+<li>The topic is more specialized and yet abstract than others: conceptual rather than devoted to &ldquo;how to use library X in language Y&rdquo; or &ldquo;how to improve your career.</li>
+<li>I have no name recognition outside of Pittsburgh, and I submitted a completely non-self-promotional, vague bio; I will definitely fix this in all future talk submissions anywhere.</li>
+</ul>
+
+<h2 id="thanks">Thanks</h2>
+
+<p>Thanks to everyone who came to the talk and asked questions and got discussion going! I appreciate having had the opportunity to share my experiences and recommendations at a conference.</p>
+
+<p>Ha, I was happy that Josh was able to come to my talk, since he missed the Pittsburgh Scala meetup on Wednesday!</p>
+
+    <div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'franklinchen';
+    var disqus_identifier = 'http:\/\/franklinchen.com\/blog\/2013\/06\/01\/pittsburgh-tech-fest-2013-my-talk-stop-overusing-regular-expressions\/';
+    var disqus_title = 'Pittsburgh Tech Fest 2013: my talk \x22Stop Overusing Regular Expressions!\x22';
+    var disqus_url = 'http:\/\/franklinchen.com\/blog\/2013\/06\/01\/pittsburgh-tech-fest-2013-my-talk-stop-overusing-regular-expressions\/';
+
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+  </div>
+</div>
+<script src="http://franklinchen.com/js/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+</body>
+</html>
+

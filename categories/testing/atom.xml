@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Testing on Franklin Chen</title>
+    <link>http://franklinchen.com/categories/testing/atom/index.xml</link>
+    <description>Recent content in Testing on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/categories/testing/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>My Pittsburgh Scala Meetup talk on property-based testing using ScalaCheck</title>
+      <link>http://franklinchen.com/blog/2013/04/11/my-pittsburgh-scala-meetup-talk-on-property-based-testing-using-scalacheck/</link>
+      <pubDate>Thu, 11 Apr 2013 22:49:30 -0400</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/04/11/my-pittsburgh-scala-meetup-talk-on-property-based-testing-using-scalacheck/</guid>
+      <description>
+
+&lt;p&gt;Tonight was the &lt;a href=&#34;http://www.meetup.com/Pittsburgh-Scala-Meetup/events/108080782/&#34;&gt;third meeting&lt;/a&gt; of the &lt;a href=&#34;http://www.meetup.com/Pittsburgh-Scala-Meetup/&#34;&gt;Pittsburgh Scala Meetup&lt;/a&gt;. Our last meeting was &lt;a href=&#34;../../blog/2013/02/21/the-second-meeting-of-the-pittsburgh-scala-meetup-josh-suereth-on-functional-patterns-for-the-asynchronous-web/&#34;&gt;in late February&lt;/a&gt;, and we didn&amp;rsquo;t have a meeting in March.&lt;/p&gt;
+
+&lt;h2 id=&#34;attendance&#34;&gt;Attendance&lt;/h2&gt;
+
+&lt;p&gt;This time there were only six of us in attendance, but that had its advantages, as it resulted in everyone really participating fully in discussion.&lt;/p&gt;
+
+&lt;h2 id=&#34;presentation&#34;&gt;Presentation&lt;/h2&gt;
+
+&lt;p&gt;I gave a presentation &amp;ldquo;Beyond xUnit example-based testing: property-based testing with ScalaCheck&amp;rdquo; as an introduction to property-based testing, with examples using &lt;a href=&#34;http://www.scalacheck.org/&#34;&gt;ScalaCheck&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I prepared the presentation with the goal of spreading the word on property-based testing as a complement to much more widely used methods of testing in the TDD/BDD software development communities. My impression has been that outside of the functional programming communities such as those in Haskell (the pioneer of &lt;a href=&#34;http://en.wikipedia.org/wiki/QuickCheck&#34;&gt;QuickCheck&lt;/a&gt;), ML, and Haskell, there has not been as much use of property-based methods of design and testing. Fortunately, this has been changing.&lt;/p&gt;
+
+&lt;p&gt;In any case, I personally can no longer imagine not starting out design exploration without using ScalaCheck on Scala or Java based projects. It&amp;rsquo;s a useful additional tool for the developer&amp;rsquo;s toolkit.&lt;/p&gt;
+
+&lt;h3 id=&#34;slides-and-code&#34;&gt;Slides and code&lt;/h3&gt;
+
+&lt;p&gt;My slides are available &lt;a href=&#34;http://www.slideshare.net/FranklinChen/handout-18644963&#34;&gt;on slideshare&lt;/a&gt;, and a full SBT project of the code is &lt;a href=&#34;https://github.com/franklinchen/talk-on-scalacheck&#34;&gt;on GitHub&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Note that the slides are not in any way a substitute for the actual talk and the questions and answers and discussion during and after it! They are most useful as memory joggers for those who actually attended the presentation. A set of slides is nothing resembling a technical article or a blog post.&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src=&#34;http://www.slideshare.net/slideshow/embed_code/18644963&#34; width=&#34;427&#34; height=&#34;356&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px&#34; allowfullscreen webkitallowfullscreen mozallowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;http://www.slideshare.net/FranklinChen/handout-18644963&#34; title=&#34;Beyond xUnit example-based testing: property-based testing with ScalaCheck&#34; target=&#34;_blank&#34;&gt;Beyond xUnit example-based testing: property-based testing with ScalaCheck&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;http://www.slideshare.net/FranklinChen&#34; target=&#34;_blank&#34;&gt;Franklin Chen&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;after&#34;&gt;After&lt;/h2&gt;
+
+&lt;p&gt;Out of some questions during the talk, we came up with an idea for improving ScalaCheck that might be an interesting group project to work on.&lt;/p&gt;
+
+&lt;p&gt;There was also more general discussion of using Scala, upcoming and ongoing local Pittsburgh general tech gatherings, Josh filling us in on developments in the Scala world, and ideas for future presentations.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;It was a small gathering, but I enjoyed presenting on property-based testing, and we had some really good discussions. Another meeting for the Pittsburgh Scala Meetup has already been &lt;a href=&#34;http://www.meetup.com/Pittsburgh-Scala-Meetup/events/112652112/&#34;&gt;scheduled for May&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OpenHack Pittsburgh: exploring Scala odds and ends</title>
+      <link>http://franklinchen.com/blog/2013/03/25/openhack-pittsburgh-exploring-scala-odds-and-ends/</link>
+      <pubDate>Mon, 25 Mar 2013 22:43:00 -0400</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/03/25/openhack-pittsburgh-exploring-scala-odds-and-ends/</guid>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;http://www.meetup.com/pittsburgh-ruby/events/106184432/&#34;&gt;A third OpenHack Pittsburgh&lt;/a&gt; meeting was organized, and I attended again. It was held again at &lt;a href=&#34;http://www.thebeautyshoppe.org/&#34;&gt;The Beauty Shoppe&lt;/a&gt;, just like the &lt;a href=&#34;../../blog/2013/02/25-openhack-pittsburgh-studying-scala/&#34;&gt;previous time&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I was pleased by how much progress had been made in the construction inside. The space was looking really nice.&lt;/p&gt;
+
+&lt;h2 id=&#34;scala-stuff&#34;&gt;Scala stuff&lt;/h2&gt;
+
+&lt;p&gt;My plan was to continue working on a personal project in Scala. That plan kind of changed because Roy wanted to ask me questions about Scala. I told him that I&amp;rsquo;m still learning stuff myself, but answered his questions as well as I could.&lt;/p&gt;
+
+&lt;h3 id=&#34;unit-testing&#34;&gt;Unit testing&lt;/h3&gt;
+
+&lt;p&gt;One question Roy had was about unit test frameworks and generating independent tests (as opposed to writing a single test that makes many generated assertions, because such a test would simply stop at the first failed assertion. I told him this was easy to do with either the &lt;a href=&#34;http://etorreborre.github.com/specs2/&#34;&gt;Specs2&lt;/a&gt; unit testing framework or the &lt;a href=&#34;http://www.scalatest.org/&#34;&gt;ScalaTest&lt;/a&gt; one (I use Specs2).&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s sample code showing &lt;a href=&#34;https://github.com/FranklinChen/test-loop-over-tests&#34;&gt;how to do it&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;property-based-testing&#34;&gt;Property-based testing&lt;/h3&gt;
+
+&lt;p&gt;I also mentioned that I was working on a presentation on a cool Scala library supporting property-based testing, &lt;a href=&#34;http://www.scalacheck.org/&#34;&gt;ScalaCheck&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&#34;update-of-2013-04-11&#34;&gt;(Update of 2013-04-11)&lt;/h4&gt;
+
+&lt;p&gt;I ended up &lt;a href=&#34;../../blog/2013/04/11/my-pittsburgh-scala-meetup-talk-on-property-based-testing-using-scalacheck/&#34;&gt;giving a talk at the Pittsburgh Scala meetup in April on ScalaCheck&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;continuations&#34;&gt;Continuations&lt;/h3&gt;
+
+&lt;p&gt;Roy asked about continuations in Scala, in the context of an idea he had for a Web app.&lt;/p&gt;
+
+&lt;p&gt;I said that I hadn&amp;rsquo;t personally used first-class continuations in Scala, but knew support for delimited continuations existed as a compiler plugin. So I looked up how to use them and created a little project as proof of concept (nothing worth seeing, just typical examples of code with &lt;code&gt;shift&lt;/code&gt; and &lt;code&gt;reset&lt;/code&gt; comparable to how I&amp;rsquo;d seen them used in other languages with delimited continuations); check out &lt;a href=&#34;http://suereth.blogspot.com/2010/03/how-you-should-think-about-delimited.html&#34;&gt;Josh Suereth&amp;rsquo;s (somewhat dated) article on delimited continuations in Scala&lt;/a&gt; for more details.&lt;/p&gt;
+
+&lt;p&gt;But I asked Roy what he really wanted continuations for anyway. They are a low-level concept, and there are higher-level constructs built on top of continuations that I think are more useful.&lt;/p&gt;
+
+&lt;p&gt;He said that he wanted to be able to have code &amp;ldquo;look&amp;rdquo; like it was synchronous but actually be asynchronous.&lt;/p&gt;
+
+&lt;h4 id=&#34;update-of-2014-04-21&#34;&gt;(Update of 2014-04-21)&lt;/h4&gt;
+
+&lt;p&gt;Scala continuations have been deprecated in &lt;a href=&#34;http://typesafe.com/blog/scala-211-has-arrived&#34;&gt;Scala 2.11&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;futures&#34;&gt;Futures&lt;/h3&gt;
+
+&lt;p&gt;So I told him, that&amp;rsquo;s the perfect use case for &lt;a href=&#34;http://docs.scala-lang.org/overviews/core/futures.html&#34;&gt;futures&lt;/a&gt;, which are well-supported in Scala, especially because of their compositional monadic properties in conjunction with nice &lt;code&gt;for&lt;/code&gt;-comprehension syntax.&lt;/p&gt;
+
+&lt;p&gt;I said, the only drawback is that you have to write code in monadic style.&lt;/p&gt;
+
+&lt;p&gt;When I went home after OpenHack Pittsburgh, however, I coincidentally found that there was a project to improve the syntax of writing this kind of asynchronous computation! &lt;a href=&#34;http://doc.akka.io/docs/akka/snapshot/scala/dataflow.html&#34;&gt;Akka Dataflow&lt;/a&gt; does precisely this, using the continuation plugin.&lt;/p&gt;
+
+&lt;h4 id=&#34;update-of-2013-08-27&#34;&gt;(Update of 2013-08-27)&lt;/h4&gt;
+
+&lt;p&gt;There has been other work to improve syntactic support for asynchronous computation. &lt;a href=&#34;https://github.com/scala/async&#34;&gt;&lt;code&gt;async&lt;/code&gt;&lt;/a&gt; uses &lt;a href=&#34;http://scalamacros.org/&#34;&gt;macros&lt;/a&gt; to try to provide the nice syntactic experience without the overhead of the continuation plugin.&lt;/p&gt;
+
+&lt;h4 id=&#34;update-of-2013-12-17&#34;&gt;(Update of 2013-12-17)&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/akka/akka/commit/66e40084946f6f993a2c62d9921718704daf448a&#34;&gt;&lt;code&gt;dataflow&lt;/code&gt; has been deprecated&lt;/a&gt;, now that &lt;code&gt;async&lt;/code&gt; is fully mature (I have been happily using it for a while now).&lt;/p&gt;
+
+&lt;h4 id=&#34;update-of-2013-12-31&#34;&gt;(Update of 2013-12-31)&lt;/h4&gt;
+
+&lt;p&gt;More specifically, &lt;code&gt;async&lt;/code&gt; was much improved just in time for it to be officially used in the Coursera course &amp;ldquo;Principles of Reactive Programming&amp;rdquo;, which &lt;a href=&#34;http://conscientiousprogrammer.com/blog/2013/12/31/review-of-the-free-coursera-course-principles-of-reactive-programming/&#34;&gt;I just completed and reviewed&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;implicits&#34;&gt;Implicits&lt;/h3&gt;
+
+&lt;p&gt;Roy asked me about other interesting features of Scala. I had to say something about implicits, of course, useful for simulating monkey patching as well as simulating Haskell type classes.&lt;/p&gt;
+
+&lt;p&gt;Implicits are probably the single most interesting language feature of Scala.&lt;/p&gt;
+
+&lt;h4 id=&#34;update-of-2014-02-13&#34;&gt;(Update of 2014-02-13)&lt;/h4&gt;
+
+&lt;p&gt;There was a &lt;a href=&#34;http://conscientiousprogrammer.com/blog/2014/02/13/pittsburgh-scala-meetup-implicits/&#34;&gt;Pittsburgh Scala Meetup session on implicits&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;specialization-of-generics&#34;&gt;Specialization of generics&lt;/h3&gt;
+
+&lt;p&gt;Roy wanted to know whether generics can be specialized in Scala (in contrast to Java, which treats generics as erasure). I said, yes, actually. Fully automatic, efficient specialization is still being improved on, but for now, there&amp;rsquo;s a manual way to do specialization through the &lt;a href=&#34;http://lampwww.epfl.ch/~dragos/files/scala-spec.pdf&#34;&gt;&lt;code&gt;@specialized&lt;/code&gt; annotation&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&#34;update-of-2014-07-17&#34;&gt;(Update of 2014-07-17)&lt;/h4&gt;
+
+&lt;p&gt;There&amp;rsquo;s also &lt;a href=&#34;http://scala-miniboxing.org/&#34;&gt;Miniboxing&lt;/a&gt; for efficiency.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;It was stimulating talking with Roy about Scala and trying to explain stuff to him on the fly, or look stuff up (thank goodness for WiFi in The Beauty Shoppe!), or code something right there and then. The conversations also caused me to do my homework after the meetup!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pittsburgh Python: distribute and other Python community controversies</title>
+      <link>http://franklinchen.com/blog/2013/02/27/pittsburgh-python-distribute-and-other-python-community-controversies/</link>
+      <pubDate>Wed, 27 Feb 2013 22:12:03 -0500</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/02/27/pittsburgh-python-distribute-and-other-python-community-controversies/</guid>
+      <description>&lt;p&gt;I was very interested to attend this month&amp;rsquo;s &lt;a href=&#34;http://www.meetup.com/pghpython/&#34;&gt;Pittsburgh Python User Group&lt;/a&gt; &lt;a href=&#34;http://www.meetup.com/pghpython/events/95504432/&#34;&gt;meeting&lt;/a&gt; because Nick Sloan was going to give a talk about packaging with &lt;a href=&#34;http://pythonhosted.org/distribute/&#34;&gt;&lt;code&gt;distribute&lt;/code&gt;&lt;/a&gt;: packaging in Python has been a &lt;em&gt;huge source of confusion&lt;/em&gt; to me, both as a user and as a developer.&lt;/p&gt;
+
+&lt;p&gt;Since my use of Python at work or for personal purposes has not been very large scale, I have limped along with settling on a clean setup to use for packaging my code. This is in stark contrast to my management of libraries in Perl, Ruby, and Java, where I think there has been more of a consensus in adoption of certain tools and conventions.&lt;/p&gt;
+
+&lt;p&gt;Also, Joe Esposito sent around some links to interesting discussions and news in the global Python community, so I looked forward to hearing what everyone thought.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-problem-with-python-packaging&#34;&gt;The problem with Python packaging&lt;/h2&gt;
+
+&lt;p&gt;OK, so the big problem I faced when trying to nicely set up packaging for a personal project a while ago was that there are many options. The &lt;a href=&#34;http://en.wikipedia.org/wiki/The_Paradox_of_Choice:_Why_More_Is_Less&#34;&gt;paradox of choice&lt;/a&gt; is insidious, and it is surprising to me in the Python community, which has generally prided itself on a general consensus on a philosophy of &lt;a href=&#34;http://wiki.python.org/moin/TOOWTDI&#34;&gt;&amp;ldquo;There&amp;rsquo;s Only One Way To Do It&amp;rdquo;&lt;/a&gt;, in sharp and deliberate contrast to the Perl community&amp;rsquo;s philosophy of &lt;a href=&#34;http://en.wikipedia.org/wiki/There&#39;s_more_than_one_way_to_do_it&#34;&gt;&amp;ldquo;There&amp;rsquo;s More Than One Way To Do It&amp;rdquo;&lt;/a&gt; (TIMTOWTDI).&lt;/p&gt;
+
+&lt;h2 id=&#34;nick-sloan-on-packaging-with-distribute-http-pythonhosted-org-distribute&#34;&gt;Nick Sloan on packaging with &lt;a href=&#34;http://pythonhosted.org/distribute/&#34;&gt;&lt;code&gt;distribute&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Nick summarized the situation of existing packaging systems for Python:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://docs.python.org/2/distutils/&#34;&gt;&lt;code&gt;distutils&lt;/code&gt;&lt;/a&gt; is lacking in features&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pythonhosted.org/setuptools/index.html&#34;&gt;&lt;code&gt;setuptools&lt;/code&gt;&lt;/a&gt; is stagnant&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pythonhosted.org/distribute/&#34;&gt;&lt;code&gt;distribute&lt;/code&gt;&lt;/a&gt; is a fork of &lt;code&gt;setuptools&lt;/code&gt; and aims to replace it&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;He then illustrated the basics of packaging with writing &lt;code&gt;setup.py&lt;/code&gt;, referencing &lt;a href=&#34;https://medium.com/kr-projects/b8388ba7c1a&#34;&gt;Kenneth Reitz&amp;rsquo;s recommendations on repository structure&lt;/a&gt;, based on &lt;code&gt;distribute&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;kenneth-reitz-s-recommendations-on-repository-structure&#34;&gt;Kenneth Reitz&amp;rsquo;s recommendations on repository structure&lt;/h3&gt;
+
+&lt;p&gt;The most interesting thing about Kenneth Reitz&amp;rsquo;s recommendations was that he advocated separating out &lt;em&gt;tests&lt;/em&gt; from the code of a module, to reduce dependencies for the installer and user of the module. I definitely prefer to have a separate directory tree for tests, as is standard by &lt;em&gt;convention&lt;/em&gt; when I write tests for projects in many other languages. For example:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Perl: &lt;code&gt;t/&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Ruby: &lt;code&gt;spec/&lt;/code&gt; when using RSpec&lt;/li&gt;
+&lt;li&gt;Java: &lt;code&gt;src/test/&lt;/code&gt; when using JUnit&lt;/li&gt;
+&lt;li&gt;Scala: &lt;code&gt;src/test/&lt;/code&gt; when using Specs2 and ScalaCheck&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I don&amp;rsquo;t really like his &lt;code&gt;tests/context.py&lt;/code&gt; system of imports, as it is too dynamic in chasing down imports, and therefore may not play well by default with standard tools:&lt;/p&gt;
+
+&lt;div class=&#34;highlight&#34; style=&#34;background: #f8f8f8&#34;&gt;&lt;pre style=&#34;line-height: 125%&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span style=&#34;color: #008000; font-weight: bold&#34;&gt;import&lt;/span&gt; &lt;span style=&#34;color: #0000FF; font-weight: bold&#34;&gt;os&lt;/span&gt;
+&lt;span style=&#34;color: #008000; font-weight: bold&#34;&gt;import&lt;/span&gt; &lt;span style=&#34;color: #0000FF; font-weight: bold&#34;&gt;sys&lt;/span&gt;
+sys&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;path&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;insert(&lt;span style=&#34;color: #666666&#34;&gt;0&lt;/span&gt;, os&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;path&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;abspath(&lt;span style=&#34;border: 1px solid #FF0000&#34;&gt;‘&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;..&lt;/span&gt;&lt;span style=&#34;border: 1px solid #FF0000&#34;&gt;’&lt;/span&gt;))
+
+&lt;span style=&#34;color: #008000; font-weight: bold&#34;&gt;import&lt;/span&gt; &lt;span style=&#34;color: #0000FF; font-weight: bold&#34;&gt;sample&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;div class=&#34;highlight&#34; style=&#34;background: #f8f8f8&#34;&gt;&lt;pre style=&#34;line-height: 125%&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span style=&#34;color: #008000; font-weight: bold&#34;&gt;from&lt;/span&gt; &lt;span style=&#34;color: #0000FF; font-weight: bold&#34;&gt;.context&lt;/span&gt; &lt;span style=&#34;color: #008000; font-weight: bold&#34;&gt;import&lt;/span&gt; sample
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;That said, I decided to give his recommendations a shot.&lt;/p&gt;
+
+&lt;h3 id=&#34;another-twist&#34;&gt;Another twist&lt;/h3&gt;
+
+&lt;p&gt;Meanwhile, Nick noted that there is also a &lt;a href=&#34;http://pythonhosted.org/Distutils2/&#34;&gt;&lt;code&gt;distutils2&lt;/code&gt;&lt;/a&gt; project now, to improve &lt;code&gt;distutils&lt;/code&gt;, and that nobody is working on &lt;code&gt;distribute&lt;/code&gt; any more. This sounds like a crazy soap opera in the Python world.&lt;/p&gt;
+
+&lt;h2 id=&#34;python-community-debates-and-news&#34;&gt;Python community debates and news&lt;/h2&gt;
+
+&lt;p&gt;Joe opened up the discussion on Python community news.&lt;/p&gt;
+
+&lt;h3 id=&#34;start-writing-more-classes&#34;&gt;&amp;ldquo;Start Writing More Classes&amp;rdquo;?&lt;/h3&gt;
+
+&lt;p&gt;In the Python community, there has always been some controversy over whether to go all-out object-oriented with classes or write in a more functional style. The language supports both styles, although classes were a fairly late addition to the language.&lt;/p&gt;
+
+&lt;h4 id=&#34;stop-writing-classes&#34;&gt;&amp;ldquo;Stop Writing Classes&amp;rdquo;?&lt;/h4&gt;
+
+&lt;p&gt;Last year, at PyCon 2012, there was a talk, &amp;ldquo;Stop Writing Classes&amp;rdquo;, that made waves:&lt;/p&gt;
+
+&lt;iframe width=&#34;420&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/o9pEzgHorH0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;I thought it was a good talk, because it exposed how many things done with classes are superfluous, creating code bloat and deeply nested hierarchies: often you can just use a functional style with data that is not all wrapped into classes.&lt;/p&gt;
+
+&lt;h4 id=&#34;a-rebuttal&#34;&gt;A rebuttal&lt;/h4&gt;
+
+&lt;p&gt;Just two weeks ago, someone wrote a post on how &lt;a href=&#34;http://lucumr.pocoo.org/2013/2/13/moar-classes/&#34;&gt;Python programmers should be writing more classes, not less&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I was not happy about this post because it set up a straw man. Really, he was simply arguing for modular code vs. monolithic code, and observing that some people who don&amp;rsquo;t use classes end up writing monolithic code. He even states as much at the end of his post. So the title of his post is misleading.&lt;/p&gt;
+
+&lt;h3 id=&#34;other-news&#34;&gt;Other news&lt;/h3&gt;
+
+&lt;p&gt;There were various other smaller topics discussed, but &lt;code&gt;distribute&lt;/code&gt; and classes dominated this evening.&lt;/p&gt;
+
+&lt;h2 id=&#34;updates-after-the-meetup&#34;&gt;(Updates after the meetup)&lt;/h2&gt;
+
+&lt;p&gt;After I went home, I updated &lt;a href=&#34;https://github.com/FranklinChen/project-euler-python&#34;&gt;one of my sample Python projects&lt;/a&gt; to adhere to Kenneth Reitz&amp;rsquo;s guidelines.&lt;/p&gt;
+
+&lt;p&gt;Also, some weeks later, I noticed an &lt;a href=&#34;http://mail.python.org/pipermail/distutils-sig/2013-March/020126.html&#34;&gt;announcement that &lt;code&gt;setuptools&lt;/code&gt; and &lt;code&gt;distribute&lt;/code&gt; were going to merge efforts&lt;/a&gt;. Hooray!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>How Justice Clarence Thomas uncovered a seven-year-old bug in my computer program</title>
+      <link>http://franklinchen.com/blog/2013/01/18/how-justice-clarence-thomas-uncovered-a-seven-year-old-bug-in-my-computer-program/</link>
+      <pubDate>Fri, 18 Jan 2013 13:55:11 -0500</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/01/18/how-justice-clarence-thomas-uncovered-a-seven-year-old-bug-in-my-computer-program/</guid>
+      <description>&lt;figure &gt;
+    
+        &lt;img src=&#34;http://www.supremecourt.gov/about/justice_pictures/CThomas.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Justice Clarence Thomas&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Today, &lt;a href=&#34;http://en.wikipedia.org/wiki/Clarence_Thomas&#34;&gt;Justice Clarence Thomas&lt;/a&gt; of the &lt;a href=&#34;http://www.supremecourt.gov/&#34;&gt;Supreme Court of the United States&lt;/a&gt; uncovered a seven-year-old bug in a computer program I wrote years ago.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s what happened:&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;oral-arguments-of-scotus-http-www-supremecourt-gov-oral-arguments-oral-arguments-aspx&#34;&gt;&lt;a href=&#34;http://www.supremecourt.gov/oral_arguments/oral_arguments.aspx&#34;&gt;Oral arguments of SCOTUS&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Several years ago, as part of the &lt;a href=&#34;http://talkbank.org/&#34;&gt;TalkBank&lt;/a&gt; project, I wrote a suite of computer programs to clean up, correct, and transform &lt;a href=&#34;http://www.supremecourt.gov/oral_arguments/argument_transcripts.aspx&#34;&gt;SCOTUS oral argument transcripts&lt;/a&gt; into a particular text file format called &lt;a href=&#34;http://childes.psy.cmu.edu/&#34;&gt;CHAT&lt;/a&gt;, to enable analysis and further transformation.&lt;/p&gt;
+
+&lt;p&gt;The CHAT transcripts are aligned (by humans), utterance by utterance, with the available audio files, in order to create a nice way to simultaneously read the text while listening, with the ability to pause, skip to a particular section, etc.&lt;/p&gt;
+
+&lt;h2 id=&#34;example-hamdan-v-rumsfeld-http-en-wikipedia-org-wiki-hamdan-v-rumsfeld&#34;&gt;Example: &lt;a href=&#34;http://en.wikipedia.org/wiki/Hamdan_v._Rumsfeld&#34;&gt;Hamdan v. Rumsfeld&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h3 id=&#34;text-formats&#34;&gt;Text formats&lt;/h3&gt;
+
+&lt;p&gt;SCOTUS provides an oral transcript in &lt;a href=&#34;http://www.supremecourt.gov/oral_arguments/argument_transcripts/05-184.pdf&#34;&gt;PDF format&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;At CMU we have made the &lt;a href=&#34;http://talkbank.org/data-orig/Meeting/SCOTUS/2005/05-184.cha&#34;&gt;CHAT-formatted text&lt;/a&gt; of each transcript available, as well as ZIP archives of &lt;a href=&#34;http://talkbank.org/data/Meeting/SCOTUS/2005.zip&#34;&gt;entire corpora&lt;/a&gt; and the &lt;a href=&#34;http://talkbank.org/data-xml/Meeting/SCOTUS/2005.zip&#34;&gt;equivalent XML&lt;/a&gt; converted automatically from CHAT.&lt;/p&gt;
+
+&lt;h3 id=&#34;media-playback&#34;&gt;Media playback&lt;/h3&gt;
+
+&lt;p&gt;The linked transcripts can be played back in several ways:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Directly from the &lt;a href=&#34;http://talkbank.org/browser/index.php?url=Meeting/SCOTUS/2005/05-184.cha&#34;&gt;CMU site&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Downloading the &lt;a href=&#34;http://talkbank.org/data/Meeting/SCOTUS/2005.zip&#34;&gt;2005 corpus&lt;/a&gt; and running the &lt;a href=&#34;http://childes.psy.cmu.edu/clan/&#34;&gt;CLAN&lt;/a&gt; desktop application on a transcript.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oyez.org/&#34;&gt;Oyez&lt;/a&gt; provides their own interface, through transformation of the CHAT files, to an &lt;a href=&#34;http://www.oyez.org/cases/2000-2009/2005/2005_05_184&#34;&gt;entire site for each case&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;what-happened-today&#34;&gt;What happened today&lt;/h2&gt;
+
+&lt;p&gt;Today, as I have done on Thursdays or Fridays for years now when SCOTUS is in session, I have converted the oral argument transcripts for this week in order to hand off to the Oyez people for their use.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-conversion-software&#34;&gt;The conversion software&lt;/h3&gt;
+
+&lt;p&gt;The conversion happens in three steps.&lt;/p&gt;
+
+&lt;h4 id=&#34;pre-processing&#34;&gt;Pre-processing&lt;/h4&gt;
+
+&lt;p&gt;The conversion is not fully automatic, because there are always errors of some kind in the transcripts that I correct manually. I wrote a set of twenty-nine separate &lt;a href=&#34;http://www.perl.org/&#34;&gt;Perl&lt;/a&gt; scripts that do a lot of cleanup and checking of transcripts as a pre-processing step.&lt;/p&gt;
+
+&lt;h4 id=&#34;parsing-validation-transformation&#34;&gt;Parsing, validation, transformation&lt;/h4&gt;
+
+&lt;p&gt;The main task of parsing and validation and transformation uses a program written in Java and using the &lt;a href=&#34;http://antlr.org/&#34;&gt;ANTLR&lt;/a&gt; parser generator framework.&lt;/p&gt;
+
+&lt;p&gt;Note: these programs were written several years ago, hence the use of ANTLR version 2 rather than ANTLR 3. Newer projects of mine have used ANTLR 3 (&lt;a href=&#34;http://antlr4.org/&#34;&gt;ANTLR 4&lt;/a&gt; is only now about to hit 4.0).&lt;/p&gt;
+
+&lt;h4 id=&#34;post-processing&#34;&gt;Post-processing&lt;/h4&gt;
+
+&lt;p&gt;A post-processing Perl script is used after the initial CHAT generation, in order to convert numerical and other tokens into the desired spoken form; at the &lt;a href=&#34;http://pghpw.org/ppw2010/&#34;&gt;Pittsburgh Perl Workshop 2010&lt;/a&gt;, I gave a little talk, &lt;a href=&#34;http://pghpw.org/ppw2010/talk/3029&#34;&gt;How do you pronounce &amp;ldquo;07-1191&amp;rdquo;?&lt;/a&gt;, about this part of the project.&lt;/p&gt;
+
+&lt;h4 id=&#34;reliable-legacy-software&#34;&gt;Reliable legacy software&lt;/h4&gt;
+
+&lt;p&gt;No new development has been done on these programs for several years, since as far as can be determined, there have been no remaining bugs in the programs.&lt;/p&gt;
+
+&lt;p&gt;These programs have, to date, successfully generated 3,468 CHAT files that have been validated. In the first year or two, there were bugs quickly found and fixed, and then I don&amp;rsquo;t remember the last time a bug was found.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Until today&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-bug&#34;&gt;The bug&lt;/h2&gt;
+
+&lt;p&gt;The bug came today as I was processing this week&amp;rsquo;s case &lt;a href=&#34;http://www.supremecourt.gov/oral_arguments/argument_transcripts/11-9953.pdf&#34;&gt;11-9953&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I got an error message when my pre-processing phase exited after an error while running the script &lt;code&gt;find-bad-ids.pl&lt;/code&gt;:&lt;/p&gt;
+
+&lt;div class=&#34;highlight&#34; style=&#34;background: #f8f8f8&#34;&gt;&lt;pre style=&#34;line-height: 125%&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span style=&#34;color: #888888&#34;&gt;THOMAS not found&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;I was confused. I looked at the transcript and saw:&lt;/p&gt;
+
+&lt;blockquote&gt;
+JUSTICE SCALIA: And another of his counsel, Mr. Singer -- of the three that he had -- he was a graduate of Harvard law school, wasn&#39;t he?
+
+MS. SIGLER: Yes, Your Honor.
+
+JUSTICE SCALIA: Son of a gun.
+
+JUSTICE THOMAS: Well -- he did not --
+
+(Laughter.)
+
+MS. SIGLER: I would refute that, Justice Thomas.
+
+JUSTICE SOTOMAYOR: Counsel, do you want to define constitutionally adequate counsel? Is it anybody who&#39;s graduated from Harvard and Yale?
+
+(Laughter.)
+&lt;/blockquote&gt;
+
+&lt;p&gt;I was confused about why my script would not recognized Justice Thomas. I looked at the Perl source code, saw where I initialized a table of Justice names, and saw:&lt;/p&gt;
+
+&lt;div class=&#34;highlight&#34; style=&#34;background: #f8f8f8&#34;&gt;&lt;pre style=&#34;line-height: 125%&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span style=&#34;color: #008000; font-weight: bold&#34;&gt;use&lt;/span&gt; &lt;span style=&#34;color: #0000FF; font-weight: bold&#34;&gt;String::Approx&lt;/span&gt; &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;#39;amatch&amp;#39;&lt;/span&gt;;
+
+&lt;span style=&#34;color: #19177C&#34;&gt;$lastNames&lt;/span&gt;{REHNQUIST} &lt;span style=&#34;color: #666666&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;-1&lt;/span&gt;;
+&lt;span style=&#34;color: #19177C&#34;&gt;$lastNames&lt;/span&gt;{STEVENS} &lt;span style=&#34;color: #666666&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;-1&lt;/span&gt;;
+&lt;span style=&#34;color: #408080; font-style: italic&#34;&gt;# ... code omitted&lt;/span&gt;
+
+    &lt;span style=&#34;color: #008000; font-weight: bold&#34;&gt;if&lt;/span&gt; (&lt;span style=&#34;color: #AA22FF; font-weight: bold&#34;&gt;not&lt;/span&gt; &lt;span style=&#34;color: #008000&#34;&gt;exists&lt;/span&gt; &lt;span style=&#34;color: #19177C&#34;&gt;$lastNames&lt;/span&gt;{&lt;span style=&#34;color: #19177C&#34;&gt;$upperLastName&lt;/span&gt;}) {
+      &lt;span style=&#34;color: #008000; font-weight: bold&#34;&gt;if&lt;/span&gt; (&lt;span style=&#34;color: #008000; font-weight: bold&#34;&gt;my&lt;/span&gt; &lt;span style=&#34;color: #19177C&#34;&gt;@matches&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;=&lt;/span&gt; amatch(&lt;span style=&#34;color: #19177C&#34;&gt;$upperLastName&lt;/span&gt;, &lt;span style=&#34;color: #19177C&#34;&gt;@ids&lt;/span&gt;)) {
+        &lt;span style=&#34;color: #008000&#34;&gt;warn&lt;/span&gt; &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;$path:$.: $lastName: guessing to be $matches[0]\n&amp;quot;&lt;/span&gt;;
+      }
+      &lt;span style=&#34;color: #008000; font-weight: bold&#34;&gt;else&lt;/span&gt; {
+        &lt;span style=&#34;color: #008000&#34;&gt;warn&lt;/span&gt; &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;$path:$.: $lastName not found\n&amp;quot;&lt;/span&gt;;
+      }
+    }
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;I had simply forgotten seven years ago to put into the table initialization the following code:&lt;/p&gt;
+
+&lt;div class=&#34;highlight&#34; style=&#34;background: #f8f8f8&#34;&gt;&lt;pre style=&#34;line-height: 125%&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span style=&#34;color: #19177C&#34;&gt;$lastNames&lt;/span&gt;{THOMAS} &lt;span style=&#34;color: #666666&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;-1&lt;/span&gt;;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;And this bug had lain undiscovered for seven years because &lt;a href=&#34;http://www.washingtonpost.com/politics/clarence-thomas-breaks-long-silence-during-supreme-court-oral-arguments/2013/01/14/a7c6023c-5e7a-11e2-9940-6fc488f3fecd_story.html&#34;&gt;Justice Thomas has not spoken in seven years&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h3 id=&#34;how-the-bug-arose&#34;&gt;How the bug arose&lt;/h3&gt;
+
+&lt;p&gt;Justice Thomas did speak in the following transcripts I successfully converted years ago:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;sup&gt;1999&lt;/sup&gt;&amp;frasl;&lt;sub&gt;99&lt;/sub&gt;-478&lt;/li&gt;
+&lt;li&gt;&lt;sup&gt;2000&lt;/sup&gt;&amp;frasl;&lt;sub&gt;99&lt;/sub&gt;-1848&lt;/li&gt;
+&lt;li&gt;&lt;sup&gt;2000&lt;/sup&gt;&amp;frasl;&lt;sub&gt;99&lt;/sub&gt;-1964&lt;/li&gt;
+&lt;li&gt;&lt;sup&gt;2001&lt;/sup&gt;&amp;frasl;&lt;sub&gt;00&lt;/sub&gt;-1770&lt;/li&gt;
+&lt;li&gt;&lt;sup&gt;2001&lt;/sup&gt;&amp;frasl;&lt;sub&gt;01&lt;/sub&gt;-631&lt;/li&gt;
+&lt;li&gt;&lt;sup&gt;2002&lt;/sup&gt;&amp;frasl;&lt;sub&gt;01&lt;/sub&gt;-1107&lt;/li&gt;
+&lt;li&gt;&lt;sup&gt;2002&lt;/sup&gt;&amp;frasl;&lt;sub&gt;02&lt;/sub&gt;-516&lt;/li&gt;
+&lt;li&gt;&lt;sup&gt;2004&lt;/sup&gt;&amp;frasl;&lt;sub&gt;03&lt;/sub&gt;-1164&lt;/li&gt;
+&lt;li&gt;&lt;sup&gt;2005&lt;/sup&gt;&amp;frasl;&lt;sub&gt;04&lt;/sub&gt;-1067&lt;/li&gt;
+&lt;li&gt;&lt;sup&gt;2005&lt;/sup&gt;&amp;frasl;&lt;sub&gt;04&lt;/sub&gt;-1327&lt;/li&gt;
+&lt;li&gt;&lt;sup&gt;2005&lt;/sup&gt;&amp;frasl;&lt;sub&gt;04&lt;/sub&gt;-52&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;What happened was that they were generated before I wrote the &lt;code&gt;find-bad-ids.pl&lt;/code&gt; script. The main program in Java has its own table of justices. The purpose of the pre-processing Perl script is to catch errors earlier than handing off to the Java program. In particular, the use of approximate string matching enables easy correction of typos before ANTLR ever sees the text to parse. Before the pre-processing scripts, the text that arrived at ANTLR often had a lot of systematic errors that were annoying to fix, so I wrote in Perl both a cleanup pre-processing phase and a checking pre-processing phase. They include tests for all kinds of &amp;ldquo;suspicious&amp;rdquo; formatting and tokens and ambiguity that require manual judgment and correction.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;I still don&amp;rsquo;t know why I forgot to put Justice Thomas into the table initialization code in my Perl script seven years ago, but it resulted in a bug that was not detected until today. The lesson: your computer program can have bugs if you didn&amp;rsquo;t get test data that represented all possible situations, including that of Justice Thomas actually speaking during a SCOTUS oral argument!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>My Pittsburgh Python talk: &#34;Testing with isolation: concepts and examples using the Python standard library `mock`&#34;</title>
+      <link>http://franklinchen.com/blog/2012/10/24/my-pittsburgh-python-talk-mock/</link>
+      <pubDate>Wed, 24 Oct 2012 23:58:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/10/24/my-pittsburgh-python-talk-mock/</guid>
+      <description>&lt;figure &gt;
+    
+        &lt;img src=&#34;http://benbiddington.files.wordpress.com/2009/09/mocks-and-stubs.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Mocks&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;A week ago, I saw a message on the &lt;a href=&#34;http://www.meetup.com/pghpython/&#34;&gt;Pittsburgh Python&lt;/a&gt; mailing list:&lt;/p&gt;
+
+&lt;blockquote&gt;
+We are looking for a presenter to talk about mock, pymox or other Python testing topics for our next meeting. If you have a different topic that you would like to present on, please let us know about that too, though preference will be given to testing-related talks this month.
+&lt;/blockquote&gt;
+
+&lt;p&gt;I fairly quickly volunteered to talk about the Python standard library &lt;a href=&#34;http://www.voidspace.org.uk/python/mock/&#34;&gt;&lt;code&gt;mock&lt;/code&gt;&lt;/a&gt;, despite never having used it!&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s a brief report of the Pittsburgh Python meeting in Google Pittsburgh (along with links to slides).&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;Slides are &lt;a href=&#34;http://franklinchen.com/talk-on-python-mock/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;why-did-i-volunteer&#34;&gt;Why did I volunteer?&lt;/h2&gt;
+
+&lt;p&gt;When I volunteered to give my last talk, a &lt;a href=&#34;../../blog/2012/09/06/my-pittsburgh-ruby-talk-nil/&#34;&gt;talk at Pittsburgh Ruby&lt;/a&gt;, the reason was that I had a specific topic of my choosing on which I already had an informed opinion, and my goal was to explain it.&lt;/p&gt;
+
+&lt;p&gt;In stark contrast to that situation, I volunteered to give a talk on testing with &lt;code&gt;mock&lt;/code&gt; in Python while not having ever used it, and in fact not ever having used &lt;a href=&#34;http://en.wikipedia.org/wiki/Mock_object&#34;&gt;mock objects&lt;/a&gt; at all in my own &lt;a href=&#34;http://en.wikipedia.org/wiki/Unit_testing&#34;&gt;unit testing&lt;/a&gt;, although I knew the basic concepts behind mocks.&lt;/p&gt;
+
+&lt;p&gt;So I was volunteering in this case in order to &lt;em&gt;force myself to learn something in more depth&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;my-preparation&#34;&gt;My preparation&lt;/h2&gt;
+
+&lt;p&gt;Preparing for this talk was quite challenging for me. (Hmm, I have a feeling I&amp;rsquo;ll always feel this way for the rest of my talks in my life!?)&lt;/p&gt;
+
+&lt;h3 id=&#34;time&#34;&gt;Time&lt;/h3&gt;
+
+&lt;p&gt;Deciding to suddenly prepare a talk threw a mini-bomb into my schedule for the following week, because I had many other things to work on. However, I thought it was a great opportunity to investigate something in depth that I had already wanted to for some time, so I put some other things aside. Sometimes one has to be flexible in the face of a good opportunity. &lt;em&gt;I care a huge deal about the topic of software testing&lt;/em&gt;, so I felt I could not pass up the opportunity to share some ideas with an audience.&lt;/p&gt;
+
+&lt;h3 id=&#34;technical-material&#34;&gt;Technical material&lt;/h3&gt;
+
+&lt;p&gt;A huge number of people (over forty) quickly signed up to attend the Pittsburgh Python meeting, during which two talks were scheduled: one on &lt;a href=&#34;http://code.google.com/p/selenium/&#34;&gt;Selenium WebDriver&lt;/a&gt; by Steve Gross, and one by me. Wow. I don&amp;rsquo;t know what&amp;rsquo;s causing this explosion in the size of the Pittsburgh Python community, but that&amp;rsquo;s great!&lt;/p&gt;
+
+&lt;p&gt;I made a very quick decision &lt;em&gt;not&lt;/em&gt; to focus on all the features of the &lt;code&gt;mock&lt;/code&gt; library. That&amp;rsquo;s not a talk that I would myself go to. I put myself in the shoes of the forty participants. Obviously there was going to be a wide variety of background knowledge and experience about &lt;em&gt;testing&lt;/em&gt; in general as well as about &lt;em&gt;mocks&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;In fact, Abby was going to come along with me to attend the Pittsburgh Python meeting. She just started learning computer programming a couple of weeks ago, using Python as her first programming language, and &lt;a href=&#34;http://coursera.org/&#34;&gt;Coursera&lt;/a&gt; as the primary vehicle of instruction. I hoped to give a talk that she would get something usefully high-level and conceptual out of.&lt;/p&gt;
+
+&lt;p&gt;I figured on speaking for no more than half an hour.&lt;/p&gt;
+
+&lt;p&gt;So I wanted to focus on a clean, correct review (or introduction, as the case was surely going to be for some of the participants) of &lt;em&gt;unit testing&lt;/em&gt;. I deliberately took a &lt;a href=&#34;http://en.wikipedia.org/wiki/Test-driven_development&#34;&gt;&lt;em&gt;test-driven development&lt;/em&gt; (TDD)&lt;/a&gt; perspective as I designed some easy-to-understand examples of the entire process of writing a test, making it fail, then writing the implementation, then running the test again, etc. I felt that TDD was the ideal way to discuss the notion of testing with &lt;em&gt;isolation&lt;/em&gt;, because if collaborating code for a system under test (SUT) does not yet exist at all, it becomes quite clear where the possible isolation boundaries are.&lt;/p&gt;
+
+&lt;p&gt;I also wanted to use this example as a running example in order to introduce and explore questions of &lt;a href=&#34;http://en.wikipedia.org/wiki/Method_stub&#34;&gt;&lt;em&gt;stubbing&lt;/em&gt;&lt;/a&gt;, or more generally, &lt;a href=&#34;http://en.wikipedia.org/wiki/Test_double&#34;&gt;&lt;em&gt;test doubles&lt;/em&gt;&lt;/a&gt;. In particular, I brought up the ongoing controversy over the use of mocks in testing at all, framed around the pretty fair &lt;a href=&#34;http://martinfowler.com/articles/mocksArentStubs.html&#34;&gt;analysis by Martin Fowler&lt;/a&gt;. In order to be able to explain the controversy, I developed my running example to show a way of refactoring code in order to test &lt;em&gt;without&lt;/em&gt; mocking, as well as showing how one could do it &lt;em&gt;with&lt;/em&gt; mocking. And so I only explained enough features of Python &lt;code&gt;mock&lt;/code&gt; to enable illustrating the issues. I gave some examples of pros and cons to using mocks.&lt;/p&gt;
+
+&lt;p&gt;Of course, I had to read a bunch of articles and book excerpts, and writing running code, as part of my own process of learning and understanding the controversy; these were resources I had bookmarked a year ago when I had first heard about it. Hooray for &lt;em&gt;talk-driven learning&lt;/em&gt;!&lt;/p&gt;
+
+&lt;p&gt;Since I was not going to have time, I deliberately had no plan to discuss what I think is quite interesting, which is the &lt;em&gt;philosophy&lt;/em&gt; that drives a strictly mock-driven approach to testing. This philosophy involves rigorously taking the outside-in approach as a matter of &lt;em&gt;design&lt;/em&gt;. I have to confess that I do not currently take this extreme approach, but it intrigues me, and now that I know better what the techniques and controversies are, I may give it a try in new projects in order to see how well it works.&lt;/p&gt;
+
+&lt;h3 id=&#34;presentation-skills&#34;&gt;Presentation skills&lt;/h3&gt;
+
+&lt;p&gt;I felt more relaxed when giving this talk than I did in my previous one (for Pittsburgh Ruby). Just this sheer fact probably helped some.&lt;/p&gt;
+
+&lt;h3 id=&#34;presentation-software&#34;&gt;Presentation software&lt;/h3&gt;
+
+&lt;p&gt;I continue to use &lt;a href=&#34;http://github.com/adamzap/landslide&#34;&gt;landslide&lt;/a&gt; to generate an HTML slide show.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-presentation&#34;&gt;The presentation&lt;/h2&gt;
+
+&lt;p&gt;Steve Gross gave a little demo of Selenium WebDriver first, and took questions, before I gave my half-hour talk.&lt;/p&gt;
+
+&lt;p&gt;I tried to ask useful questions of the audience and answer people&amp;rsquo;s questions during the talk. This is a kind of skill that has to come from experience, because one can&amp;rsquo;t anticipate everything ahead of time, and one has to gauge where people&amp;rsquo;s minds might be. I know that when I&amp;rsquo;m at someone&amp;rsquo;s talk, and I&amp;rsquo;m confused or lost or bored, I appreciate when the speaker can tell, and can adjust accordingly. This is clearly key. With forty people around, however, man, it&amp;rsquo;s hard.&lt;/p&gt;
+
+&lt;h2 id=&#34;reflections&#34;&gt;Reflections&lt;/h2&gt;
+
+&lt;p&gt;I enjoyed speaking at the Pittsburgh Python group meeting, just my second time since &lt;a href=&#34;../../blog/2012/08/23/pittsburgh-python-meetup-i-gave-my-first-lightning-talk-ever-the-topic-was-scons/&#34;&gt;my first lightning talk for the group&lt;/a&gt; during which I didn&amp;rsquo;t even have any slides prepared, but just drew some pictures on the whiteboard and scrolled through some code in an Emacs buffer.&lt;/p&gt;
+
+&lt;h2 id=&#34;supporting-web-site&#34;&gt;Supporting Web site&lt;/h2&gt;
+
+&lt;p&gt;I have a &lt;a href=&#34;http://github.com/franklinchen/talk-on-python-mock&#34;&gt;supporting Web site for the talk&lt;/a&gt; with code.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;I put a lot of work into the presentation I gave at Pittsburgh Python, and am grateful to Nick Sloan for bringing up the theme and calling for volunteers. I like the idea of a &amp;ldquo;theme&amp;rdquo; for a meeting, such as the theme of &amp;ldquo;testing&amp;rdquo; that was our theme this last time.&lt;/p&gt;
+
+&lt;p&gt;And I have to thank Abby for supporting me as my week got frantic as a result of suddenly volunteering to give my talk, and for attending a talk by me for the first time ever!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Free course review: Software Engineering for Software as a Service (Part I), from Coursera</title>
+      <link>http://franklinchen.com/blog/2012/04/13/free-course-review-software-engineering-for-software-as-a-service-part-i-from-coursera/</link>
+      <pubDate>Fri, 13 Apr 2012 21:29:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/04/13/free-course-review-software-engineering-for-software-as-a-service-part-i-from-coursera/</guid>
+      <description>&lt;p&gt;So after putting quite a bit of time, from February 20 to March 23, into the free Coursera course &lt;a href=&#34;http://www.saas-class.org/&#34;&gt;&amp;ldquo;Software Engineering for Software as a Service (Part I)&amp;rdquo;&lt;/a&gt;, I just received my &amp;ldquo;Statement of Accomplishment&amp;rdquo;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+Congratulations! You have successfully completed the free online offering of Software Engineering for Software as a Service (Part I), offered February to April, 2012. To successfully complete this free online class, students were required to watch lectures, complete quizzes, and do weekly assignments.
+&lt;/blockquote&gt;
+
+&lt;p&gt;My review:&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;mooc-explosion&#34;&gt;MOOC explosion&lt;/h2&gt;
+
+&lt;p&gt;Just half a year ago, in the fall of 2011, my life was &lt;em&gt;radically altered&lt;/em&gt; by the introduction of free massive open online courses (&lt;a href=&#34;http://en.wikipedia.org/wiki/Massive_open_online_course&#34;&gt;MOOCs&lt;/a&gt;). Eager to learn new skills and ideas of all kinds, I jumped into enrolling in a whole bunch of them.&lt;/p&gt;
+
+&lt;p&gt;I went crazy, actually: I took a very heavy load, enrolling in and completing two Stanford MOOCs while doing everything else I was doing:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../blog/2012/01/11/experiment-in-learning-completing-stanford-online-course-introduction-to-databases/&#34;&gt;Introduction to Databases&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../blog/2012/01/12/experiment-in-learning-completing-stanford-online-course-machine-learning/&#34;&gt;Machine Learning&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These two courses each lasted for two months, starting in early October and ending in mid-December of 2011.&lt;/p&gt;
+
+&lt;p&gt;This spring of 2012, I went crazy again and took a very heavy load of two MOOCs, through Coursera:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Software Engineering for Software as a Service (Part I) (discussed here)&lt;/li&gt;
+&lt;li&gt;Model Thinking&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;update-on-model-thinking&#34;&gt;(Update on Model Thinking)&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;../../blog/2012/06/16/review-of-coursera-course-model-thinking/&#34;&gt;An incomplete review of Model Thinking.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;why-did-i-take-this-course&#34;&gt;Why did I take this course?&lt;/h2&gt;
+
+&lt;p&gt;I signed up for this course in February because I was curious about &lt;a href=&#34;http://rubyonrails.org/&#34;&gt;Ruby on Rails&lt;/a&gt;. I have not done much Web development since the old days of Perl, so I decided to update my skills in this area, which is not what I do in my current job. Also, although I have used some Ruby at my job, I felt that the course would help me deepen my understanding of the language.&lt;/p&gt;
+
+&lt;p&gt;Also, this course was advertised as not being about Rails so much as about &amp;ldquo;software engineering&amp;rdquo; using the concept of &amp;ldquo;software as a service&amp;rdquo; as a concrete domain. So I was interested in getting my hands dirty in adopting the instructors&amp;rsquo; &amp;ldquo;opinionated&amp;rdquo; idea of an &amp;ldquo;Agile&amp;rdquo; &amp;ldquo;software engineering&amp;rdquo; process for development.&lt;/p&gt;
+
+&lt;h2 id=&#34;materials&#34;&gt;Materials&lt;/h2&gt;
+
+&lt;p&gt;Lectures on video were provided. I found them useful but fairly poor in production qualities (sound problems and quite a few in-video quiz glitches). I understand that the instructors may improve these materials, for future offerings of the course, after the scramble of getting everything together for the first trial run of this course!&lt;/p&gt;
+
+&lt;p&gt;Somewhat controversially, the instructors&amp;rsquo; &lt;a href=&#34;http://beta.saasbook.info/&#34;&gt;textbook that was still in rough alpha condition&lt;/a&gt; was recommended for the course. Originally I wasn&amp;rsquo;t going to buy it, but I found references from the course that made it sound like it would be useful, so I bought it. It was rather poorly formatted and repeated a lot that was already in the lecture videos and slides, but did have additional material. The book was inexpensive enough that its flaws did not annoy me excessively. (Eventually the book finally entered beta!)&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://sites.google.com/site/longlastingsoftware/_/rsrc/1366223530547/config/cover.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Book cover&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Confusingly, we were also to watch the &lt;a href=&#34;http://screencast.saasbook.info/&#34;&gt;videos for the book&lt;/a&gt;. Having course material spread out like this was annoying.&lt;/p&gt;
+
+&lt;p&gt;We were told that the course was going to cover about half of the book, and that there might be a second online course offered at some point, to finish the book.&lt;/p&gt;
+
+&lt;h2 id=&#34;coursework&#34;&gt;Coursework&lt;/h2&gt;
+
+&lt;p&gt;There were quizzes. I experienced glitches in dealing with them. For example, in one of the quizzes, the timer ran down because I started it but then had to attend to something (I was at home in the evening then). When I went back, I couldn&amp;rsquo;t retake the quiz, so I got no credit for anything! It was upsetting, but then again, my goal was to learn, not to get a perfect score in this class. Also, sometimes when I got an answer wrong on a quiz, there was no feedback about what I did wrong! This was quite annoying. The quiz system needs to be significantly improved.&lt;/p&gt;
+
+&lt;p&gt;The programming assignments were the heart of the course. They sometimes took quite a long time to complete. There were several reasons for this.&lt;/p&gt;
+
+&lt;p&gt;One was just that Rails is big, and in learning to actually write and deploy Rails applications, I had to get familiar with the online documentation to search for Rails methods to use. Another was the use of Cucumber. It took forever to run Cucumber tests. From reading various online Rails tutorials and articles about testing, it appeared to me that the course instructors&amp;rsquo; testing methodology was suspect, but who was I to complain, since I was just learning all this stuff myself?&lt;/p&gt;
+
+&lt;p&gt;That leads to the main problem, which is that of spaghetti code: the &amp;ldquo;Rotten Potatoes&amp;rdquo; app that we modified incrementally had logic spread out all over the place. It was very difficult for me to understand what happened where, and what could happen or could not. There were code paths that involved implicit changes of state and hacking in routes and actions. It all felt wrong. Also, I strongly favor statically typed languages, and using Ruby was rather painful for me: you pull attributes out from thin air, stick them into the controller, and then suddenly you have to know you can use them in the view, etc.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-i-learned&#34;&gt;What I learned&lt;/h2&gt;
+
+&lt;p&gt;I learned a huge amount, actually. This was the first time I&amp;rsquo;d systematically work through developing an application from the ground up using &lt;a href=&#34;http://en.wikipedia.org/wiki/Test-driven_development&#34;&gt;Test-Driven Development&lt;/a&gt; (TDD) and &lt;a href=&#34;http://en.wikipedia.org/wiki/Behavior-driven_development&#34;&gt;Behavior-Driven Development&lt;/a&gt;, for example. &lt;strong&gt;I am completely sold on TDD and BDD now.&lt;/strong&gt; It was very useful writing down, in code, scenarios to expect to happen or not happen, before implementing the behavior. I have issues with Cucumber, the tool, but the process itself, I am sold on.&lt;/p&gt;
+
+&lt;p&gt;It was also very satisfying incrementally developing a Rails application that actually did something.&lt;/p&gt;
+
+&lt;p&gt;And it was also useful gaining experience using Git and Heroku.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Despite rough patches in the course (that I hope will be remedied in a future offering), I found that I learned a lot. I would definitely recommend this course to anyone interested in gaining experience incrementally developing an application, and certainly if desiring to get started with Ruby and Rails.&lt;/p&gt;
+
+&lt;p&gt;I hope there will be a part two of this course offered, to complete the material from the Berkeley course.&lt;/p&gt;
+
+&lt;h3 id=&#34;update-of-2013-12-13&#34;&gt;(Update of 2013-12-13)&lt;/h3&gt;
+
+&lt;p&gt;It&amp;rsquo;s been almost two years since I took this course, during which I have not done anything with Rails since, although I have started experimenting with using &lt;a href=&#34;http://www.playframework.com/&#34;&gt;Play&lt;/a&gt; for &lt;a href=&#34;http://www.scala-lang.org/&#34;&gt;Scala&lt;/a&gt;, which is similar in spirit.&lt;/p&gt;
+
+&lt;p&gt;Meanwhile, this course has moved off Coursera to the &lt;a href=&#34;http://www.edx.org/&#34;&gt;edX&lt;/a&gt; MOOC platform. &lt;a href=&#34;http://www.edx.org/course/uc-berkeleyx/uc-berkeleyx-cs-169-2x-software-service-1005&#34;&gt;Part 2 was offered in August 2013&lt;/a&gt; and a revised version of &lt;a href=&#34;http://www.edx.org/course/uc-berkeleyx/uc-berkeleyx-cs169-1x-software-service-1136&#34;&gt;part 1 was offered in September 2013&lt;/a&gt;: &amp;ldquo;The presentation order and amount of time spent on some material is being changed in response to feedback from both on-campus and online students. This run of the class also includes all new videos, two new homeworks and all new exam questions. The new class also includes embedded live chat with Teaching Assistants and other students and opportunities for remote pair programming with other students. Group tutorial Q&amp;amp;A sessions will also be held and broadcast live through Google Hangouts and YouTube.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;I presume both parts of the course will continue to be offered in the future. I would like to take part 2 at some point, but that depends on what time I can devote to it.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Open Spaces success at the Pittsburgh Java User Group!</title>
+      <link>http://franklinchen.com/blog/2011/10/26/open-spaces-success-at-the-pittsburgh-java-users-group/</link>
+      <pubDate>Wed, 26 Oct 2011 21:19:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2011/10/26/open-spaces-success-at-the-pittsburgh-java-users-group/</guid>
+      <description>&lt;p&gt;Yesterday evening, the &lt;a href=&#34;http://java.net/projects/pittjug/&#34;&gt;Pittsburgh Java User Group&lt;/a&gt; (PittJUG) for the first time adopted an Open Spaces format. The basic idea is that instead of having someone give an hour-long presentation on something, everyone gets involved in choosing topics of discussion and we all break up into small groups to sit in a circle and chat (&lt;a href=&#34;https://docs.google.com/document/d/1Yufdr8zGBCWawsuEfKXXkM6ddcHnuhywzGw1lJ0u5TE/edit&#34;&gt;more details&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;If you have never been to an event with this Open Spaces format and philosophy, such an idea might sound chaotic and confusing. The first time I heard about the format, I was extremely skeptical. But the first time I went to an event adopting it, the first &lt;a href=&#34;http://www.pghgeekoutday.com/&#34;&gt;Pittsburgh Geek Out Day&lt;/a&gt;, I found it quite useful and am totally sold on its virtues.&lt;/p&gt;
+
+&lt;p&gt;This is a report on the two sessions that I attended. The &lt;a href=&#34;http://java.net/projects/pittjug/lists/pittjug/archive&#34;&gt;PittJUG mailing list&lt;/a&gt; has some discussion already of the two sessions that I had to miss.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/pittjug/first-open-spaces.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;First Open Spaces at PittJUG&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-topics&#34;&gt;The topics&lt;/h2&gt;
+
+&lt;p&gt;Fifteen of us showed up, and the goal was to collectively decide on four topics to break up into two time slots and two rooms, so that for each time slot, one could choose one of the two topics available and meet in the designated room. We went around the room so that everyone could volunteer a topic of interest, and eventually we consolidated popular related topics such that we had the following:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Software entrepreneurship&lt;/li&gt;
+&lt;li&gt;IDEs&lt;/li&gt;
+&lt;li&gt;Scala&lt;/li&gt;
+&lt;li&gt;Testing and continuous deployment&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I had actually submitted three Post-It notes suggesting topics on IDEs, Scala, and testing, so I was pretty happy that others were thinking similarly, and I ended up having to choose between Scala and testing, and going to the Scala session.&lt;/p&gt;
+
+&lt;p&gt;Each session ended up having around eight people each, so there were no extremely small or extremely large sessions.&lt;/p&gt;
+
+&lt;h2 id=&#34;ides&#34;&gt;IDEs&lt;/h2&gt;
+
+&lt;p&gt;At the session on IDEs, discussion revolved mostly around the following IDEs:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Eclipse&lt;/li&gt;
+&lt;li&gt;IntelliJ IDEA&lt;/li&gt;
+&lt;li&gt;NetBeans&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Everyone had extensive experience with and advocacy of at least one of these, so it was good to have many different points of view.&lt;/p&gt;
+
+&lt;p&gt;Some of the things I learned:&lt;/p&gt;
+
+&lt;h3 id=&#34;eclipse&#34;&gt;Eclipse&lt;/h3&gt;
+
+&lt;p&gt;Eclipse is free, and a lot of plugins are developed for it, but all of us have had some kind of problem using Eclipse, such as trouble installing a plugin, crashes, competing plugins (such as for Maven), refresh/synchronization problems, inconsistency across platforms. Some advocates of Eclipse said that once you get it working, it&amp;rsquo;s great. And from an ideological and philosophical point of view, it is completely free.&lt;/p&gt;
+
+&lt;h3 id=&#34;intellij-idea&#34;&gt;IntelliJ IDEA&lt;/h3&gt;
+
+&lt;p&gt;IntelliJ IDEA started off as a purely commercial product but has been available in a free community edition. For some people, the fact that it is not completely free is a minus. On the other hand, since the IntelliJ ecosystem is less sprawling than that of Eclipse, there are fewer headaches when it comes to choice of plugins and getting things to work.&lt;/p&gt;
+
+&lt;h3 id=&#34;netbeans&#34;&gt;NetBeans&lt;/h3&gt;
+
+&lt;p&gt;Some people particularly liked NetBeans. One advantage of it is the tight integration with Java EE 6. Things work out of the box. Also, the UML support is good (in contrast to Eclipse).&lt;/p&gt;
+
+&lt;h3 id=&#34;philosophy&#34;&gt;Philosophy&lt;/h3&gt;
+
+&lt;p&gt;We talked about the question of what our individual preferences was: a system that offered many components to choose from and configure, or a system that works out of the box. Many of us choose depending on the situation; sometimes it&amp;rsquo;s nice to build your own, but sometimes one just wants to get stuff done quickly.&lt;/p&gt;
+
+&lt;h3 id=&#34;practical-considerations&#34;&gt;Practical considerations&lt;/h3&gt;
+
+&lt;p&gt;There was a fair amount of discussion of practical considerations when choosing an IDE. Sometimes there is no choice, when working with other people or in a particular organization. Also, there was discussion of whether it makes sense for people to use different IDEs when operating on the same code base.&lt;/p&gt;
+
+&lt;h3 id=&#34;more-than-just-about-code&#34;&gt;More than just about code&lt;/h3&gt;
+
+&lt;p&gt;Time was running out when we started talking about how nice it would be if we could have an IDE link code to design documents.&lt;/p&gt;
+
+&lt;h2 id=&#34;scala&#34;&gt;Scala&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://jsuereth.com/&#34;&gt;Josh Suereth&lt;/a&gt; was our resident Scala expert, so a lot of questions we asked were answered by him.&lt;/p&gt;
+
+&lt;h3 id=&#34;how-to-get-into-scala&#34;&gt;How to get into Scala&lt;/h3&gt;
+
+&lt;p&gt;One good way to start getting into Scala is to use a Scala testing framework with an existing Java code base.&lt;/p&gt;
+
+&lt;p&gt;Another way is to use Scala for new applications.&lt;/p&gt;
+
+&lt;p&gt;The question of whether to rewrite old Java applications in Scala depends on whether a whole new architecture is desired. If not, then it may not be worth rewriting in Scala. Perhaps parts of it could be rewritten, or given a Scala wrapper for the sake of interfacing with new Scala code.&lt;/p&gt;
+
+&lt;h3 id=&#34;testing&#34;&gt;Testing&lt;/h3&gt;
+
+&lt;p&gt;ScalaCheck was mentioned as being very useful.&lt;/p&gt;
+
+&lt;p&gt;I asked about &lt;a href=&#34;http://etorreborre.github.com/specs2/&#34;&gt;specs2&lt;/a&gt;, since I have been trying to figure out how to use it (I currently have used the more traditional &lt;a href=&#34;http://www.scalatest.org/&#34;&gt;ScalaTest&lt;/a&gt;). I was &amp;ldquo;happy&amp;rdquo; to hear from Josh that indeed, there is a learning curve for this framework, so I&amp;rsquo;m not the only one who finds it difficult.  Scala is designed to make it easy to write DSLs. Unfortunately, learning a DSL can be involved.&lt;/p&gt;
+
+&lt;p&gt;We went off on a tangential discussion of DSLs.&lt;/p&gt;
+
+&lt;h3 id=&#34;dsls&#34;&gt;DSLs&lt;/h3&gt;
+
+&lt;p&gt;The question was whether DSLs really help &amp;ldquo;non-programmers&amp;rdquo; in one&amp;rsquo;s organization contribute to development, by enabling them to express their knowledge. Answers were mixed. Some of us had seen DSLs fail miserably at their intent. Josh mentioned cases of DSLs working well, e.g., use of DSLs to help junior developers get going, and use of DSLs for configuration.&lt;/p&gt;
+
+&lt;h3 id=&#34;groovy&#34;&gt;Groovy&lt;/h3&gt;
+
+&lt;p&gt;There was discussion of Groovy as another JVM-based language for doing some of the same things one can do with Scala, e.g., DSL-based web and testing frameworks.&lt;/p&gt;
+
+&lt;p&gt;It was interesting to me, since I have not really used Groovy, that a number of people had tried it and gotten bitten because it is dynamically typed and therefore, many problems occur at runtime when one wishes they would occur at compile time. This experience is in line with my preference for static typing. What attracts me to Scala is that it has type inference that reduces a lot of clutter in code and enables writing code that almost looks like what you would write in a dynamically typed language.&lt;/p&gt;
+
+&lt;h2 id=&#34;retrospective&#34;&gt;Retrospective&lt;/h2&gt;
+
+&lt;p&gt;After the two time slots were over, we gathered together for a brief discussion of the evening. I was pleased that one person said he had been skeptical of the whole Open Spaces idea but had enjoyed the format.&lt;/p&gt;
+
+&lt;p&gt;I think all of us had a good time sharing our knowledge and experience, and engaging in friendly debates on various topics. I certainly enjoy Open Spaces meetings more than the usual &amp;ldquo;sitting at a long presentation&amp;rdquo; format.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

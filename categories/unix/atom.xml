@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Unix on Franklin Chen</title>
+    <link>http://franklinchen.com/categories/unix/atom/index.xml</link>
+    <description>Recent content in Unix on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/categories/unix/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Revisiting Knuth and McIlroy&#39;s word count programs</title>
+      <link>http://franklinchen.com/blog/2011/12/08/revisiting-knuth-and-mcilroys-word-count-programs/</link>
+      <pubDate>Thu, 08 Dec 2011 21:46:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2011/12/08/revisiting-knuth-and-mcilroys-word-count-programs/</guid>
+      <description>&lt;p&gt;Today I came across a &lt;a href=&#34;http://www.leancrew.com/all-this/2011/12/more-shell-less-egg/&#34;&gt;blog post&lt;/a&gt; revisiting &lt;a href=&#34;http://en.wikipedia.org/wiki/Jon_Bentley&#34;&gt;Jon Bentley&lt;/a&gt;&amp;rsquo;s challenge in 1986 to &lt;a href=&#34;http://www-cs-staff.stanford.edu/~uno/&#34;&gt;Donald Knuth&lt;/a&gt; to write a &lt;a href=&#34;http://en.wikipedia.org/wiki/Literate_programming&#34;&gt;literate program&lt;/a&gt; to solve a sample task and have &lt;a href=&#34;http://www.cs.dartmouth.edu/~doug/&#34;&gt;Doug McIlroy&lt;/a&gt; critique it.&lt;/p&gt;
+
+&lt;p&gt;The task:&lt;/p&gt;
+
+&lt;blockquote&gt;
+Read a file of text, determine the n most frequently used words, and print out a sorted list of those words along with their frequencies.
+&lt;/blockquote&gt;
+
+&lt;p&gt;Knuth came up with a typically clever, lengthy, low-level implementation. McIlroy then somewhat perversely wrote a six-line shell script that did the job, basically changing the subject away from literate programming and toward a &lt;a href=&#34;http://www.princeton.edu/~hos/mike/transcripts/mcilroy.htm&#34;&gt;critique of Knuth&amp;rsquo;s doing something low-level and complicated when unnecessary&lt;/a&gt;. The article publishing both Knuth&amp;rsquo;s and McIlroy&amp;rsquo;s solutions is &lt;a href=&#34;http://dl.acm.org/citation.cfm?id=315654&#34;&gt;available here&lt;/a&gt;. A followup article with David Hanson&amp;rsquo;s implementation in C is &lt;a href=&#34;http://www.cs.upc.edu/~eipec/pdf/p583-van_wyk.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I decided to bring the discussion here a quarter of a century (25 years!) to the present. How would we solve the problem now?&lt;/p&gt;
+
+&lt;h2 id=&#34;update-of-2013-06-29&#34;&gt;(Update of 2013-06-29)&lt;/h2&gt;
+
+&lt;p&gt;I have changed my mind about many things I said here, and also have more clarifications and new arguments to make, which I will eventually post on my new programming blog, &lt;a href=&#34;http://ConscientiousProgrammer.com/&#34;&gt;The Conscientious Programmer&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;salient-points-of-mcilroy-s-solution&#34;&gt;Salient points of McIlroy&amp;rsquo;s solution&lt;/h2&gt;
+
+&lt;p&gt;First, let&amp;rsquo;s look at McIlroy&amp;rsquo;s solution, which despite the passing of time is still a beautifully elegant illustration of why &lt;a href=&#34;../../blog/2011/10/13/why-dennis-ritchie-is-important/&#34;&gt;Unix is timeless&lt;/a&gt;. (By the way, &lt;a href=&#34;http://www.informit.com/articles/article.aspx?p=1193856&#34;&gt;Knuth is a C and Linux user to this day&lt;/a&gt;).&lt;/p&gt;
+
+&lt;div class=&#34;highlight&#34; style=&#34;background: #f8f8f8&#34;&gt;&lt;pre style=&#34;line-height: 125%&#34;&gt;&lt;span&gt;&lt;/span&gt;tr -cs A-Za-z &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;#39;\n&amp;#39;&lt;/span&gt; |
+tr A-Z a-z |
+sort |
+uniq -c |
+sort -rn |
+sed &lt;span style=&#34;color: #BB6688; font-weight: bold&#34;&gt;${&lt;/span&gt;&lt;span style=&#34;color: #19177C&#34;&gt;1&lt;/span&gt;&lt;span style=&#34;color: #BB6688; font-weight: bold&#34;&gt;}&lt;/span&gt;q
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;The code is self-explanatory if you are familiar with basic Unix command-line tools. The pipeline just transforms data starting from standard input until the desired result is computed.&lt;/p&gt;
+
+&lt;p&gt;What is beautiful about the code is that it decomposes the solution to intuitively and does not require any mutable state. McIlroy&amp;rsquo;s program is a &lt;a href=&#34;http://en.wikipedia.org/wiki/Purely_functional&#34;&gt;purely functional&lt;/a&gt; program.&lt;/p&gt;
+
+&lt;h2 id=&#34;using-a-general-purpose-programming-language-instead&#34;&gt;Using a general-purpose programming language instead&lt;/h2&gt;
+
+&lt;p&gt;I thought to myself, how would I write the program today? Especially if I thought I would need to modify it, add new features? The shell script does the job for the problem as stated, but would clearly be hard to extend. Indeed, historically, &amp;ldquo;scripting languages&amp;rdquo; such as &lt;a href=&#34;http://en.wikipedia.org/wiki/AWK&#34;&gt;Awk&lt;/a&gt; were invented in order to do more than simple shell scripts were suitable for, and &lt;a href=&#34;http://www.perl.org/&#34;&gt;Perl&lt;/a&gt; was Larry Wall&amp;rsquo;s response to Awk, to create a truly general-purpose language.&lt;/p&gt;
+
+&lt;p&gt;Nowadays, in 2011, languages and libraries are at a sufficiently high level that a program almost as concise as McIlroy&amp;rsquo;s could be written in Perl, Ruby, Python, or even the latest versions of Java, C#, etc. I&amp;rsquo;ll leave that as an exercise for you (feel free to post your solutions as comments below).&lt;/p&gt;
+
+&lt;h3 id=&#34;haskell&#34;&gt;Haskell&lt;/h3&gt;
+
+&lt;p&gt;I present a simple program in &lt;a href=&#34;http://www.haskell.org/&#34;&gt;Haskell&lt;/a&gt; that I feel is closest to McIlroy&amp;rsquo;s both in spirit and in letter.&lt;/p&gt;
+
+&lt;p&gt;Here is my Haskell program, in two variants. The first is a standard source code file, while the second uses Haskell&amp;rsquo;s built-in support for its own notion of &amp;ldquo;literate programming&amp;rdquo;.&lt;/p&gt;
+
+&lt;script src=&#34;https://gist.github.com/1448622.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;I used &lt;a href=&#34;http://www.haskell.org/ghc/&#34;&gt;GHC&lt;/a&gt; to compile and run the program.  Sample output:&lt;/p&gt;
+
+&lt;div class=&#34;highlight&#34; style=&#34;background: #f8f8f8&#34;&gt;&lt;pre style=&#34;line-height: 125%&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span style=&#34;color: #000080; font-weight: bold&#34;&gt;$&lt;/span&gt; ghc -O6 --make WordCount
+&lt;span style=&#34;color: #000080; font-weight: bold&#34;&gt;$&lt;/span&gt; ./WordCount &lt;span style=&#34;color: #666666&#34;&gt;10&lt;/span&gt; &amp;lt; WordCount.lhs
+&lt;span style=&#34;color: #888888&#34;&gt;35 the&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;16 a&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;11 list&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;10 of&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;9 text&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;9 for&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;8 n&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;8 map&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;8 count&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;7 string&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Apart from missing leading spaces, this is the same output as from McIlroy&amp;rsquo;s shell script.&lt;/p&gt;
+
+&lt;p&gt;The literate program above explains each step of the Haskell &amp;ldquo;pipeline&amp;rdquo; I constructed.&lt;/p&gt;
+
+&lt;h2 id=&#34;why-i-don-t-do-literate-programming&#34;&gt;Why I don&amp;rsquo;t do literate programming&lt;/h2&gt;
+
+&lt;p&gt;I don&amp;rsquo;t currently use &amp;ldquo;literate programming&amp;rdquo; systems.&lt;/p&gt;
+
+&lt;p&gt;I experimented with programming in C and C++ and &lt;a href=&#34;http://en.wikipedia.org/wiki/Standard_ML&#34;&gt;Standard ML&lt;/a&gt; using &lt;a href=&#34;http://www.cs.tufts.edu/~nr/noweb/&#34;&gt;noweb&lt;/a&gt; over a decade ago, but found that for myself, it was not really beneficial.&lt;/p&gt;
+
+&lt;p&gt;There was little benefit in being able to rearrange code fragments at will. Furthermore, spreading code out interspersed with a lot of prose made it harder for me to actually &lt;a href=&#34;http://en.wikipedia.org/wiki/Chunking_(psychology)&#34;&gt;chunk&lt;/a&gt; meaning out of a spatial portion of text in my editor window.&lt;/p&gt;
+
+&lt;p&gt;Also, modern languages and programming styles make it much easier to express things concisely and less monolithically, such that I find that using ordinary comments suffices for my needs.&lt;/p&gt;
+
+&lt;p&gt;I find that literate programming in the Knuth style amounts to a macro system that distorts the layout of code.&lt;/p&gt;
+
+&lt;p&gt;Finally, literate programming interacts badly with editors and IDEs that are built specifically to operate on pure source code.&lt;/p&gt;
+
+&lt;p&gt;What do you think? Which of the variants of the same Haskell code above would you prefer to write, read, or maintain? The non-literate one or the literate one?&lt;/p&gt;
+
+&lt;h2 id=&#34;an-alternative-to-literate-programming&#34;&gt;An alternative to literate programming&lt;/h2&gt;
+
+&lt;p&gt;I should note that in practice, I would write suitable comments in a non-literate program primarily before the function definition. Also, I would not use such a large pipeline of expressions either: I would break out almost every line of the pipeline into its own little function, with its own comment. That is how I would actually write a nontrivial Haskell program, writing one or two line functions and testing each of them, before trying to hook them all up into a big pipeline.&lt;/p&gt;
+
+&lt;p&gt;I &amp;ldquo;cheated&amp;rdquo; in this case because McIlroy&amp;rsquo;s program already existed, so I simply translated it into a Haskell equivalent without real thought and testing.&lt;/p&gt;
+
+&lt;h2 id=&#34;comparison-between-the-shell-script-and-the-haskell-program&#34;&gt;Comparison between the shell script and the Haskell program&lt;/h2&gt;
+
+&lt;p&gt;The shell script operates on raw text and everything is just strings being parsed and reparsed by the respective Unix utility programs.&lt;/p&gt;
+
+&lt;p&gt;The Haskell program is &lt;em&gt;statically typed&lt;/em&gt;. It is type-checked by the compiler, which generates native code. The program uses standard libraries and data types, such as lists and hash maps.&lt;/p&gt;
+
+&lt;p&gt;Also, the Haskell program could be refined, extended, optimized in various ways. The most important optimizations I can think of off the top of my head:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Using a better representation of strings than the default built-in &amp;ldquo;string as list of characters&amp;rdquo;. Easily accessible advice can be found on &lt;a href=&#34;http://stackoverflow.com/questions/576213/efficient-string-implementation-in-haskell&#34;&gt;Stack Overflow&lt;/a&gt; and browsing through Haskell library documentation, such as for the &lt;a href=&#34;http://hackage.haskell.org/cgi-bin/hackage-scripts/package/text&#34;&gt;text&lt;/a&gt; package.&lt;/li&gt;
+&lt;li&gt;Loop fusion, &lt;a href=&#34;http://en.wikipedia.org/wiki/Deforestation_(computer_science)&#34;&gt;deforestation&lt;/a&gt; can be applied to deal with the &lt;em&gt;apparent&lt;/em&gt; allocation of lots of new lists in the pipeline. One of the selling points of using a language like Haskell is the opportunity for the compiler to perform radical optimizations that are impossible for languages that have side effects.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I don&amp;rsquo;t write many &lt;code&gt;bash&lt;/code&gt; scripts these days. General-purpose programming languages can do a decent job munging data without difficulty. The situation was different decades ago when there was C, and few standard high-level libraries for the C world.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I am skeptical of literate programming.&lt;/li&gt;
+&lt;li&gt;McIlroy was ahead of his time, but that time has passed; we should take his contributions as inspiration to move further forward already, using advanced general-purpose programming languages.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Why Dennis Ritchie Is Important</title>
+      <link>http://franklinchen.com/blog/2011/10/13/why-dennis-ritchie-is-important/</link>
+      <pubDate>Thu, 13 Oct 2011 18:35:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2011/10/13/why-dennis-ritchie-is-important/</guid>
+      <description>&lt;p&gt;I first heard of the death of &lt;a href=&#34;http://en.wikipedia.org/wiki/Dennis_Ritchie&#34;&gt;Dennis Ritchie&lt;/a&gt; yesterday, through a link (from Twitter or one of my blog feeds) to &lt;a href=&#34;http://en.wikipedia.org/wiki/Rob_Pike&#34;&gt;Rob Pike&lt;/a&gt;&amp;rsquo;s short &lt;a href=&#34;https://plus.google.com/u/0/101960720994009339267/posts/ENuEDDYfvKP&#34;&gt;announcement on Google+&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;(Rob Pike has &lt;a href=&#34;https://plus.google.com/u/0/101960720994009339267/posts/33mmANQZDtY&#34;&gt;another post&lt;/a&gt; up now.)&lt;/p&gt;
+
+&lt;p&gt;My first thought was, &amp;ldquo;I don&amp;rsquo;t even know when the last time was that he was in the media at all&amp;rdquo;. He was so private. In my entire career in computing, I barely remembered the &lt;a href=&#34;http://www.gotw.ca/publications/c_family_interview.htm&#34;&gt;occasional interview&lt;/a&gt; of him, since he never said anything outrageous or self-aggrandizing.&lt;/p&gt;
+
+&lt;p&gt;My second thought was, his impact on my life was profound, but in such a different way from the impact on my life by, say, Steve Jobs. Whereas Jobs by personal example and creation of consumer products inspired me to get into computing, Ritchie by his quiet contributions laid the very foundations for the work I actually do.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;c&#34;&gt;C&lt;/h2&gt;
+
+&lt;p&gt;Ritchie invented the programming language C, for one thing; C grew into the foundation of almost all programming in the computing industry. I was feeling slightly bad about just having recently poked a little bit of &lt;a href=&#34;../../blog/2011/10/04/a-blast-from-the-past-c-plus-plus-abuse/&#34;&gt;harmless fun&lt;/a&gt; at the C family of programming languages, given the importance of C, but remembered that Ritchie said it himself: &amp;ldquo;C is quirky, flawed, and an enormous success&amp;rdquo;. So succinct, this comment, just like C with its spare syntax!&lt;/p&gt;
+
+&lt;p&gt;C was not so easy for me to learn at first, but mastering it eventually gave me a sense of real power and a basis for understanding and using higher-level languages. I learned how to implement and tune data structures using C. I studied the assembly language generated by C compilers to understand assembly language, as well as understand how compilers work. When learning high-level languages such as &lt;a href=&#34;http://schemers.org/&#34;&gt;Scheme&lt;/a&gt;, I found it particularly useful to study the C code generated by some of the compilers for these languages. C was a &lt;em&gt;lingua franca&lt;/em&gt; for understanding how things worked, a low-level language that was just a step above machine language. The mental model provided by understanding C and how it compiles is surely a required part of a complete education of a programmer!&lt;/p&gt;
+
+&lt;p&gt;C will still be alive a century from now, even if higher-level languages supplant it for most uses.&lt;/p&gt;
+
+&lt;h2 id=&#34;unix&#34;&gt;Unix&lt;/h2&gt;
+
+&lt;p&gt;C was not invented in a vacuum. It was developed and refined by Ritchie in order to implement (along with Ken Thompson) the Unix operating system and complete programming environment. The world is profoundly indebted to Unix and its variants, of course. I have used some kind of Unix, happily, during my entire career. I have used a dozen Unix variants, from ULTRIX to SunOS to Apple&amp;rsquo;s A/UX to NetBSD to Linux, and finally to Apple&amp;rsquo;s Mac OS X, where my most important permanently open application is arguably Terminal (for the &lt;code&gt;bash&lt;/code&gt; command line)!&lt;/p&gt;
+
+&lt;p&gt;Some form of Unix will still be alive a century from now. Its basic ideas and ideals are timeless.&lt;/p&gt;
+
+&lt;h2 id=&#34;free-and-open-source-software-movement&#34;&gt;Free and open source software movement&lt;/h2&gt;
+
+&lt;p&gt;Finally, an entirely unintended consequence of Ritchie&amp;rsquo;s contributions to C and Unix was that they enabled the free software movement and the amazing community and products that developed from that movement. I have not only benefited from the availability of free software, but also I have been inspired by the sharing culture behind it, and live it every day. Even if Ritchie was not a direct part of it, the generous spirit in which he did his work and encouraged the spread of C and Unix outside Bell Labs somehow seems embedded permanently in the movement.&lt;/p&gt;
+
+&lt;p&gt;A century from now, Ritchie will still be remembered. I am sure of that.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

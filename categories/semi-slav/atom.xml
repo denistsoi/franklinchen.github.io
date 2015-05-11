@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Semi Slav on Franklin Chen</title>
+    <link>http://franklinchen.com/categories/semi-slav/atom/index.xml</link>
+    <description>Recent content in Semi Slav on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/categories/semi-slav/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>World Chess Championship 2013, round 5: Carlsen wins in a tense positional battle when Anand blunders!</title>
+      <link>http://franklinchen.com/blog/2013/11/15/world-chess-championship-2013-round-5-carlsen-wins-in-a-tense-positional-battle-when-anand-blunders/</link>
+      <pubDate>Fri, 15 Nov 2013 20:27:57 -0500</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/11/15/world-chess-championship-2013-round-5-carlsen-wins-in-a-tense-positional-battle-when-anand-blunders/</guid>
+      <description>&lt;p&gt;In my continuing coverage of the &lt;a href=&#34;http://chennai2013.fide.com/&#34;&gt;World Chess Championship between Anand and Carlsen&lt;/a&gt;, today I cover round five, a subtle positional battle in which Carlsen won in the ending. This was the first win by either player in the match!&lt;/p&gt;
+
+&lt;p&gt;Game and notes below:&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;Carlsen as White gave up on Nf3 and played c4 instead, a very smart choice, as it prevents Black from immediately playing d5. Anand used the Triangle System to try to transpose to a &lt;a href=&#34;http://en.wikipedia.org/wiki/Semi-Slav_Defense&#34;&gt;Semi-Slav&lt;/a&gt;, an opening that he has shown fantastic preparation for as Black in the past, including a &lt;a href=&#34;../../blog/2013/01/18/modern-chess-computers-shutting-down-opening-theory-part-2&#34;&gt;recent brilliancy&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Carlsen sidestepped the Semi-Slav by playing the Marshall Gambit, but cleverly without the gambit, choosing a quiet line instead. After a Queen trade, Carlsen maintained some pressure, and eventually Anand pressed hard for counterplay in an ending in which he stood slightly worse the whole time. Unfortunately, at the critical moment, he mysteriously blundered just as he could have bailed out with a draw, lost the wrong Pawns, and allowed White to simplify into an easy win.&lt;/p&gt;
+
+&lt;p&gt;I found this game quite interesting because of the themes of bad Bishops, weak Pawns, and weak squares. Precise calculation is necessary to hold off or create invasions for either side.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-state-of-the-match&#34;&gt;The state of the match&lt;/h3&gt;
+
+&lt;p&gt;Although Anand showed creativity in his attempt at Queen side counterplay, and in theory he could have held the draw, Carlsen clearly had the more comfortable and safe advantage for much of the game. Finally winning a game is a huge deal, of course. And Anand cannot be happy that he suddenly cracked during the game and lost. But it was not a one-sided game all the way through: it was only at the final moment when Anand made the losing move.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-game&#34;&gt;The game&lt;/h2&gt;
+
+&lt;p&gt;&lt;link href=&#34;../../chess/pgn4web/template.css&#34; type=&#34;text/css&#34; rel=&#34;stylesheet&#34;&gt;&lt;/link&gt;&lt;/p&gt;
+
+&lt;style type=&#34;text/css&#34;&gt;
+  #GameLastComment {
+    font-style: italic
+  }
+&lt;/style&gt;
+
+&lt;script src=&#34;../../chess/pgn4web/pgn4web.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
+
+&lt;script type=&#34;text/javascript&#34;&gt;
+    &#34;use strict&#34;;
+
+    SetPgnUrl(&#34;/chess/anand-carlsen.pgn&#34;);
+    SetImagePath(&#34;/chess/pgn4web/images&#34;);
+    SetHighlightOption(true);
+    SetCommentsIntoMoveText(true);
+    SetCommentsOnSeparateLines(true);
+    SetInitialGame(5);
+    SetShortcutKeysEnabled(true);
+&lt;/script&gt;
+
+&lt;table&gt;
+    &lt;tr valign=&#34;top&#34;&gt;
+      &lt;td&gt;
+        &lt;div id=&#34;GameBoard&#34;&gt;&lt;/div&gt;
+        &lt;div id=&#34;GameButtons&#34;&gt;&lt;/div&gt;
+        &lt;span class=&#34;label&#34;&gt;Move comment:&lt;/span&gt;&lt;br&gt;&lt;span id=&#34;GameLastComment&#34;&gt;&lt;/span&gt;
+      &lt;/td&gt;
+
+      &lt;td&gt;
+        &lt;span class=&#34;label&#34;&gt;Event:&lt;/span&gt; &lt;span id=&#34;GameEvent&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Site:&lt;/span&gt; &lt;span id=&#34;GameSite&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Round:&lt;/span&gt; &lt;span id=&#34;GameRound&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Date:&lt;/span&gt; &lt;span id=&#34;GameDate&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;White:&lt;/span&gt; &lt;span id=&#34;GameWhite&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Black:&lt;/span&gt; &lt;span id=&#34;GameBlack&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Result:&lt;/span&gt; &lt;span id=&#34;GameResult&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Side to move:&lt;/span&gt; &lt;span id=&#34;GameSideToMove&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Last move:&lt;/span&gt; &lt;span id=&#34;GameLastMove&#34;&gt;&lt;/span&gt;&amp;nbsp; &lt;span class=&#34;label&#34;&gt;variations:&lt;/span&gt; &lt;span id=&#34;GameLastVariations&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Next move:&lt;/span&gt; &lt;span id=&#34;GameNextMove&#34;&gt;&lt;/span&gt;&amp;nbsp; &lt;span class=&#34;label&#34;&gt;variations:&lt;/span&gt; &lt;span id=&#34;GameNextVariations&#34;&gt;&lt;/span&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;hr/&gt;
+
+&lt;div id=&#34;GameText&#34;&gt;&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Modern chess: computers shutting down opening theory, part 2</title>
+      <link>http://franklinchen.com/blog/2013/01/18/modern-chess-computers-shutting-down-opening-theory-part-2/</link>
+      <pubDate>Fri, 18 Jan 2013 22:37:17 -0500</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/01/18/modern-chess-computers-shutting-down-opening-theory-part-2/</guid>
+      <description>
+
+&lt;p&gt;Last September, I described how a &lt;a href=&#34;../../blog/2012/09/24/a-fact-of-modern-chess-computers-shutting-down-opening-theory/&#34;&gt;shocking chess opening novelty&lt;/a&gt; illustrates the subtlety of human chess preparation and the psychology of practical play.&lt;/p&gt;
+
+&lt;p&gt;I had no idea that an even bigger shock was to come, in the very same chess opening variation.&lt;/p&gt;
+
+&lt;h2 id=&#34;critical-position&#34;&gt;Critical position&lt;/h2&gt;
+
+&lt;p&gt;This is a critical position of the &lt;a href=&#34;http://en.wikipedia.org/wiki/Semi-Slav_Defense#Meran_Variation:_6.Bd3&#34;&gt;Meran Variation of the Semi-Slav&lt;/a&gt;, White to play:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://images.huffingtonpost.com/2013-01-17-Anand1.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Meran&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Last September, Topalov as White played the natural &lt;code&gt;12 b4&lt;/code&gt;, but that led to the stunning sacrifice &lt;code&gt;12...c5&lt;/code&gt; that leads to a draw for Black. As I said in my blog post: &amp;ldquo;What this novelty means is that anyone playing White going into this opening variation in the future cannot play the obvious &amp;ldquo;best&amp;rdquo; move &lt;code&gt;12 b4&lt;/code&gt;, because it results in a draw.&amp;rdquo;&lt;/p&gt;
+
+&lt;h2 id=&#34;what-else-for-white-to-try&#34;&gt;What else for White to try?&lt;/h2&gt;
+
+&lt;p&gt;So in a recent game between Aronian and Anand (&lt;a href=&#34;http://www.huffingtonpost.com/lubomir-kavalek/amazing-chess-brilliancy_b_2497593.html&#34;&gt;full annotated game here&lt;/a&gt;), Aronian deviated by playing instead &lt;code&gt;12 Ng5&lt;/code&gt;, sidestepping the known draw.&lt;/p&gt;
+
+&lt;p&gt;But amazingly, Anand, as Black played &lt;code&gt;12...c5&lt;/code&gt; anyway!! It looks insane. If it&amp;rsquo;s an acceptable move, then surely Aronian must have done his own computer research ahead of time to deal with it?&lt;/p&gt;
+
+&lt;p&gt;No, he clearly had not seen everything coming, because after the amazing sacrifice &lt;code&gt;15...Bc5&lt;/code&gt;, Aronian played a poor move, which led to the astounding &lt;code&gt;15...Nde5&lt;/code&gt; by Anand leading to this position:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://images.huffingtonpost.com/2013-01-17-Anand3.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Near the end&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Anand then won the game after several more moves.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;It may have been his most brilliant game in his career, and will definitely be in any anthology of the greatest games ever played in the history of chess.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;quotes&#34;&gt;Quotes&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://en.chessbase.com/home/TabId/211/PostId/4008776&#34;&gt;Aronian said&lt;/a&gt;: &amp;ldquo;I think I ran into a theoretical trap. I was not aware of Bc5, which is very strong. Vishy said he had prepared it for somebody else. I should study openings better.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;Anand said: &amp;ldquo;It was the same concept [as Rotlevy-Rubinstein].&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.telegraph.co.uk/culture/chess/9806562/Anand-crushes-Aronian.html&#34;&gt;World number one Magnus Carlsen described the game as &amp;ldquo;mind-blowing and really something special&amp;rdquo;.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;observations&#34;&gt;Observations&lt;/h2&gt;
+
+&lt;p&gt;First of all, note how this game shows that computers still have not meant the death of human chess: Aronian, one of the strongest and most brilliant chess players in the world, armed with all the computation power he wanted, did not analyze this line deeply enough with computer aid to see that Black could play the crazy-looking sacrifice &lt;code&gt;15...Bc5&lt;/code&gt;. It took &lt;em&gt;human creativity&lt;/em&gt;, not brute-force compute power, to find this move. Of course, it took computer analysis to &lt;em&gt;validate&lt;/em&gt; this move.&lt;/p&gt;
+
+&lt;p&gt;Second, this game means that the move &lt;code&gt;12 Ng5&lt;/code&gt; will never again be seen in top level chess, because now we know that Black can achieve at least a draw.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Or do we?&lt;/em&gt; Is it possible that there is still something overlooked, an improvement for White somewhere? Actually, not really: now that the whole &lt;em&gt;forcing&lt;/em&gt; line by Black has been revealed, it is easy for any chess player to zero in on all possibilities and evaluate all of them with computer aid. This entire opening variation starting with Black&amp;rsquo;s &amp;ldquo;threat&amp;rdquo; to play &lt;code&gt;...c5&lt;/code&gt; is probably done. (Of course, if it is shown otherwise, I will have another blog post to write.)&lt;/p&gt;
+
+&lt;h3 id=&#34;pattern-recognition&#34;&gt;Pattern recognition&lt;/h3&gt;
+
+&lt;p&gt;It is probably critical to note that Anand found his brilliant concept through an analogy with the famous Rotlevy-Rubinstein sacrificial game that basically every chess player sees and learns early on: I remember first reading through that game at age seven from a library book and being totally wowed by it.&lt;/p&gt;
+
+&lt;p&gt;This is just a reminder that human chess players still get their edge (in certain circumstances) over brute force computer search, through pattern recognition, as &lt;a href=&#34;http://en.wikipedia.org/wiki/Adriaan_de_Groot&#34;&gt;de Groot&lt;/a&gt; verified half a century ago in his classic study of strong chess players.&lt;/p&gt;
+
+&lt;p&gt;Chess is not yet over.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A fact of modern chess: computers shutting down opening theory</title>
+      <link>http://franklinchen.com/blog/2012/09/24/a-fact-of-modern-chess-computers-shutting-down-opening-theory/</link>
+      <pubDate>Mon, 24 Sep 2012 23:17:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/09/24/a-fact-of-modern-chess-computers-shutting-down-opening-theory/</guid>
+      <description>
+
+&lt;p&gt;I saw the report of a stunning chess game between Veselin Topalov and Rustam Kasimzhanov that resulted in a draw. I think this game illustrates some important points about modern chess at the highest levels.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://chess-news.ru/en/node/9478&#34;&gt;The game&lt;/a&gt; featured a temporary piece sacrifice in the &lt;a href=&#34;http://en.wikipedia.org/wiki/Semi-Slav_Defense#Meran_Variation:_6.Bd3&#34;&gt;Meran Variation of the Semi-Slav&lt;/a&gt; that is &lt;em&gt;exciting&lt;/em&gt; to see, but also made me feel rather &lt;em&gt;sad&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Black to move:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://chess-news.ru/sites/default/files/u5/Foto-raznoe/2012-09-23_183645.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Black to move&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;For &lt;em&gt;decades&lt;/em&gt;, this kind of position has been standard opening theory, and usually it has been considered that Black&amp;rsquo;s setup is not so good because it allows White to gain a lock on Black&amp;rsquo;s Queen side by setting up &lt;code&gt;a3&lt;/code&gt; and &lt;code&gt;b4&lt;/code&gt; preventing Black from ever playing the freeing &lt;code&gt;...c5&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;computer-analysis&#34;&gt;Computer analysis&lt;/h2&gt;
+
+&lt;p&gt;I doubt that any human chess player would have come up with the sacrifice &lt;code&gt;...c5&lt;/code&gt; without computer aid.&lt;/p&gt;
+
+&lt;p&gt;The piece sacrifice is justified because if White attempts to hang on to the piece, he will get mated on the King side. As a result, Black has just enough time to regain the piece, and the end result is a simplified position in which the only reasonable result (for sufficiently strong players) is a quick &lt;em&gt;draw&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;In other words, the cleverness of this novelty by Black is entirely based on the desire to achieve a draw. In top level chess, many players are satisfied to hold a draw as Black and work hard to win as White. So the nature of novelty hunting with computer aid is very different when preparing to play Black versus preparing to play White. Usually the elite prepare as White to take a risk, throw their opponent off balance, and &lt;em&gt;possibly&lt;/em&gt; score a win, and prepare as Black to try to &lt;em&gt;guarantee&lt;/em&gt; a draw.&lt;/p&gt;
+
+&lt;h2 id=&#34;some-quotes-from-the-players&#34;&gt;Some quotes from the players&lt;/h2&gt;
+
+&lt;p&gt;From the article mentioned above:&lt;/p&gt;
+
+&lt;p&gt;Black said: &amp;ldquo;&lt;code&gt;12...с5&lt;/code&gt; is a novelty, however, it seems that a lot of spectators as well as my opponent knew about it. I just showed analyses and the game finished in a draw. We didn&amp;rsquo;t spend much time on thinking today.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;White said: &amp;ldquo;It&amp;rsquo;s an obvious draw there, too many exchanges, but this happens; this is modern chess&amp;hellip;&amp;rdquo;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-future&#34;&gt;The future&lt;/h2&gt;
+
+&lt;p&gt;What this novelty means is that anyone playing White going into this opening variation in the future cannot play the obvious &amp;ldquo;best&amp;rdquo; move &lt;code&gt;12 b4&lt;/code&gt;, because it results in a draw.&lt;/p&gt;
+
+&lt;p&gt;This subtlety interestingly accounts for the &lt;em&gt;bizarreness&lt;/em&gt; of some modern chess. Amateurs are often confused by what happens in modern chess, because why are top level players avoiding certain openings or choosing not to play obviously good moves? Sometimes it is because of events like this, in which the obvious good move leads to a forced draw. It is probably the case that the entire game of chess is a forced draw, but a human as White who wants a chance of winning against someone with computer-aided knowledge of a way to force a draw against a good move must therefore play some other move, perhaps a &amp;ldquo;worse&amp;rdquo; one, in order to make the game unpredictable and take away the opponent&amp;rsquo;s computer-aided strength.&lt;/p&gt;
+
+&lt;p&gt;So modern chess has actually made the game much more chaotic and surprising in some ways, when the players actually choose to fight rather than go through the computer-solved motions (which they may sometimes do to save energy or in hope that the opponent has forgotten the remedy).&lt;/p&gt;
+
+&lt;p&gt;Chess is not yet over.&lt;/p&gt;
+
+&lt;h3 id=&#34;update-of-2013-01-18&#34;&gt;(Update of 2013-01-18)&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;../../blog/2013/01/18/modern-chess-computers-shutting-down-opening-theory-part-2/&#34;&gt;An even more amazing development in this opening variation.&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

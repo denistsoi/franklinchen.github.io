@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xml on Franklin Chen</title>
+    <link>http://franklinchen.com/categories/xml/atom/index.xml</link>
+    <description>Recent content in Xml on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/categories/xml/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Reflections on 2011</title>
+      <link>http://franklinchen.com/blog/2011/12/31/reflections-on-2011/</link>
+      <pubDate>Sat, 31 Dec 2011 18:52:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2011/12/31/reflections-on-2011/</guid>
+      <description>&lt;p&gt;I reflect on my year of 2011 as it ends. Since I did not start blogging until September, I go into more detail of what happened before then.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;january&#34;&gt;January&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Abby and I continued our project of massively reorganizing our home, a project that began when she moved in during summer 2010. We were very grateful that Abby&amp;rsquo;s father helped out a lot.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I continued getting rid of a lot of stuff, including another eighteen boxes of my books, as I became an initially reluctant &lt;a href=&#34;../../categories/minimalism/&#34;&gt;minimalist&lt;/a&gt;. We sold or gave away a &lt;em&gt;huge&lt;/em&gt; number of various of belongings.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby started cooking much more than in the past, and we enjoyed trying new dishes of her making.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I enjoyed some light cross-country skiing in the winter, using the &lt;a href=&#34;http://en.wikipedia.org/wiki/Schenley_Park_Golf_Course&#34;&gt;Bob O&amp;rsquo;Connor Golf Course at Schenley Park&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I began a weekly Zen &lt;a href=&#34;../../categories/meditation/&#34;&gt;meditation&lt;/a&gt; session offered at Carnegie Mellon University.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I started moving very gradually toward a &lt;a href=&#34;../../categories/paleo/&#34;&gt;paleo&lt;/a&gt; diet and exercise routine, and immediately experienced benefits. &amp;ldquo;The Paleo Solution&amp;rdquo; by &lt;a href=&#34;http://robbwolf.com/&#34;&gt;Robb Wolf&lt;/a&gt; was very useful.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I started learning modern &lt;a href=&#34;../../categories/javascript/&#34;&gt;JavaScript&lt;/a&gt; for a new project at work, getting into client-side Web development. As part of that, I learned &lt;a href=&#34;../../categories/jquery/&#34;&gt;jQuery&lt;/a&gt; through a free &lt;a href=&#34;http://p2pu.org/&#34;&gt;P2PU&lt;/a&gt; course and used it in the project.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I started using &lt;a href=&#34;http://en.wikipedia.org/wiki/XQuery&#34;&gt;XQuery&lt;/a&gt; at work to process XML in a clear and concise way. I had used XSLT in the past, but it was very unpleasant.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I decided, for various reasons, to stop writing new &lt;a href=&#34;../../categories/perl/&#34;&gt;Perl&lt;/a&gt; scripts and move to &lt;a href=&#34;../../categories/python/&#34;&gt;Python&lt;/a&gt; instead.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I started playing in my final (and disastrous) &lt;a href=&#34;../../categories/chess/&#34;&gt;chess&lt;/a&gt; tournament, the Pittsburgh Chess Club Championship (which I had won in 2006 and 2007).&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;february&#34;&gt;February&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Pittsburgh was all about the Steelers, and I went to a &lt;a href=&#34;http://en.wikipedia.org/wiki/Super_Bowl_XLV&#34;&gt;Super Bowl&lt;/a&gt; party for the first time, but we lost!&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I read &amp;ldquo;The Art of Non-Conformity&amp;rdquo; by &lt;a href=&#34;http://chrisguillebeau.com/&#34;&gt;Chris Guillebeau&lt;/a&gt; and found it so inspiring that I decided to take action and start making big changes to my life, in my own way.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;One big change: I quit playing chess, cold turkey, after having been unenthusiastic about it for months already (and playing correspondingly poorly). When the passion and enjoyment are gone, there is no point in hanging onto something just because it has been such an important part of my life for years.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;After years of not playing any music at all, I started playing &lt;a href=&#34;../../categories/recorder/&#34;&gt;recorder&lt;/a&gt;, and vowed to play every single day if possible. Ten months later, I am still playing recorder.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I began attending a lot of &lt;a href=&#34;../../blog/2011/10/16/pittsburgh-software-developer-communities/&#34;&gt;local software developer group meetings&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I started learning the &lt;a href=&#34;../../categories/scala/&#34;&gt;Scala&lt;/a&gt; programming language and decided to use it on a small project.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;march&#34;&gt;March&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Abby and I continued our meditation practice at CMU, and went to our first mini-&lt;a href=&#34;http://en.wikipedia.org/wiki/Sesshin&#34;&gt;sesshin&lt;/a&gt; on a Saturday.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I continued practicing recorder every single day, and joined the &lt;a href=&#34;http://www.andrew.cmu.edu/user/lukas/pcars/Welcome.html&#34;&gt;local chapter of the American Recorder Society&lt;/a&gt;. It was very exciting to meet new people and to get into a wide range of music I had never really listened to or played.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I saw a video of &lt;a href=&#34;http://jakeshimabukuro.com/&#34;&gt;Jake Shimabukuro&lt;/a&gt; playing &lt;a href=&#34;../../categories/ukulele/&#34;&gt;ukulele&lt;/a&gt; so beautifully that I was inspired to buy a ukulele and start learning to play it. (Unfortunately, it would turn out that time constraints caused me not to pursue ukulele far. This will change in 2012.)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I got pulled into the Ruby programming language because it is well-supported on Mac OS and it is easy to install libraries and tools, of which there are many that are quite useful.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I went to &lt;a href=&#34;http://farmtotablepa.com/&#34;&gt;Farm to Table&lt;/a&gt; in Pittsburgh, and after that, Abby started moving toward paleo eating, with even better results than my smaller experiments earlier.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I started our &lt;a href=&#34;../../categories/hiking/&#34;&gt;hiking&lt;/a&gt; season in the spring. Hiking is special to us; it was one of our first shared activities (after initially meeting during salsa dancing), and one we return to again and again. When there is no calendar conflict and the weather is acceptable, we like hiking almost every weekend from spring through fall.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;{% img /images/steves-soup-hike-2011-03-26.jpg Abby in front of me at Steve&amp;rsquo;s Soup Hike %}&lt;/p&gt;
+
+&lt;h2 id=&#34;april&#34;&gt;April&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;I started wearing &lt;a href=&#34;../../categories/fivefingers/&#34;&gt;Vibram FiveFingers shoes&lt;/a&gt; almost all the time, whether walking or running (but not yet for hiking).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I went to &lt;a href=&#34;../../categories/yoga/&#34;&gt;yoga&lt;/a&gt; at the &lt;a href=&#34;http://www.clpgh.org/locations/squirrelhill/&#34;&gt;Squirrel Hill Library&lt;/a&gt; for the first time.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;may&#34;&gt;May&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;I began my experiment with barefoot running, in observation of &lt;a href=&#34;http://barefootrunners.org/ibrd&#34;&gt;International Barefoot Running Day&lt;/a&gt;. I started walking around barefoot at work, ignoring the confused looks or comments of colleagues. (I still go barefoot at work.)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I bought a &lt;a href=&#34;../../categories/melodica/&#34;&gt;melodica&lt;/a&gt;, inspired by the amazing performances of &lt;a href=&#34;http://jnote.org/&#34;&gt;James Howard Young&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I took a little vacation, spending some days in New York visiting Nathaniel and Yael and their baby. I finally fulfilled my dream (from before marriage) of taking Abby to Coney Island to walk on the boardwalk and at the beach, eating pizza, and riding the Wonder Wheel, just as I once did when I was six years old.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I started doing research into major home renovations for the summer.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I visited my parents, and my sister Linda and her husband Andre also visited, with my mother throwing a delayed reception at home for the both of us who had gotten married in the past two years. Abby got to meet my parents&amp;rsquo; friends, finally. And I went running with my brother-in-law for the first time! Also, I took Abby to the little park in Ann Arbor where as a too-shy teenager I used to go and sit on a particular bench and wish I were sitting with my dream girl. Mission accomplished!&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;june&#34;&gt;June&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;John and I did a tough 19-mile training hike on the &lt;a href=&#34;http://www.rachelcarsontrails.org/rct&#34;&gt;Rachel Carson Trail&lt;/a&gt; and decided we&amp;rsquo;d had enough of that trail, and I decided I was probably not going to do the 35-mile &lt;a href=&#34;http://www.rachelcarsontrails.org/rct/challenge&#34;&gt;Rachel Carson Trail Challenge&lt;/a&gt; again (having completed it three times in the past).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;{% img /images/rachel-carson-trail-2011-06-05.jpg John on Rachel Carson Trail %}&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Abby started wearing Vibram FiveFingers more and more for walking and running, and even walking barefoot on the streets (something I had not yet seriously done myself at the time).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I stupidly threw out my back during exercise, and my back took weeks to fully recover (I could still run and hike, but not lift weights). Never again, I hope. I felt like a 90-year-old when my back was hurting constantly.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;We started some home improvement projects.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;july&#34;&gt;July&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;I started gravitating to almost exclusively body weight &lt;a href=&#34;../../categories/strength-training/&#34;&gt;strength training&lt;/a&gt;, as a reaction to my having injured my back earlier.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I went kayaking on the &lt;a href=&#34;http://en.wikipedia.org/wiki/Kiskiminetas_River&#34;&gt;Kiski River&lt;/a&gt; with &amp;ldquo;Fireman Steve&amp;rdquo; and the kayaking gang.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;On a longish hike, Abby surprised me by wearing Vibram FiveFingers shoes and they worked great for her, making her much faster and less sore, and I made a note to ditch my trail running shoes (which I had been using for years for hiking) in favor of FiveFingers for my next hike (which I did, and I have not gone back to regular shoes for hiking!).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I finally took Abby to &lt;a href=&#34;http://www.sandhillberries.com/&#34;&gt;Sand Hill Berries&lt;/a&gt; for tasty pie for the first time, always having intended to take her there when dating, but never having been in the vicinity with her then.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Major home renovation finally began, after much research, and we got electrical upgrade, insulation, and bathroom demolition and rebuilding. Very disruptive to our lives for weeks!&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I did another mini-&lt;a href=&#34;http://en.wikipedia.org/wiki/Sesshin&#34;&gt;sesshin&lt;/a&gt; at CMU.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;After a lifetime of almost never drinking coffee (average of maybe three or four cups a year), I became an avid espresso fan (one small cup a day) as a result of my boss getting a machine at work.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I started doing more barefoot running.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;august&#34;&gt;August&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Bathroom renovation done at last.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I were regularly hiking in Vibram FiveFingers.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;{% img /images/abby-franklin-soup-hike-vibram.jpg Abby and Franklin on Steve&amp;rsquo;s Soup Hike part 3 wearing Vibram FiveFingers %}&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Abby joined me to run in her first ever 5K race, &lt;a href=&#34;http://www.runaroundthesquare.com/&#34;&gt;Run Around the Square&lt;/a&gt; in Regent Square (mostly on the trails of Frick Park). What a special day! This race was my first ever 5K race when I started running in races in 2000.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I started to learn &lt;a href=&#34;../../categories/accordion/&#34;&gt;accordion&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;september&#34;&gt;September&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;I started running to work two or three times a week.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I ran in the &lt;a href=&#34;http://www.cs.cmu.edu/~kalp/PGR/&#34;&gt;CMU SCS Pretty Good Race 5K&lt;/a&gt; together, her second 5K race.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I went to &lt;a href=&#34;http://podcamppittsburgh.com/&#34;&gt;PodCamp Pittsburgh&lt;/a&gt;, and after that, &lt;a href=&#34;../../blog/2011/09/22/starting-a-new-web-site/&#34;&gt;I started this blog&lt;/a&gt; and proceeded to maintain a habit of posting every day (a routine that has been modified since then).&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;october&#34;&gt;October&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;I started expanding beyond just writing for my blog, and began contributing to the Web through &lt;a href=&#34;http://twitter.com/franklinchen&#34;&gt;my Twitter account&lt;/a&gt; as well as writing comments on other people&amp;rsquo;s blog posts.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I started taking Stanford online classes: &lt;a href=&#34;http://www.ml-class.org/&#34;&gt;Machine Learning&lt;/a&gt; and &lt;a href=&#34;http://www.db-class.org/&#34;&gt;Introduction to Databases&lt;/a&gt;. (Blog posts on my experiences to appear soon.) Unfortunately, as a result of the extra time commitment, October through December were quite hectic for me.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I continued to move more toward a paleo diet.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;november&#34;&gt;November&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;I started playing &lt;a href=&#34;../../categories/flute/&#34;&gt;flute&lt;/a&gt; again.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Probably because of fatigue and a compromised immune system, I came down with a skin ailment that I got serious treatment for, but it took almost two months to completely clear up and I spent over a month truly miserable &lt;sup&gt;24&lt;/sup&gt;&amp;frasl;&lt;sub&gt;7&lt;/sub&gt;!&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;december&#34;&gt;December&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;I started playing Baroque flute.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I started playing tin whistle.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I prepared for and made it through two music performances, playing recorder and flute (and almost tin whistle).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I ended the year completely exhausted, on the verge of getting sick, and took a long break from blogging.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;The final week, Abby and I were on a hectic travel schedule that involved meeting up with her parents, my parents, her sister Carrie, Carrie&amp;rsquo;s boyfriend Alain, Alain&amp;rsquo;s parents, Alain&amp;rsquo;s extended family, my sister Linda, and her husband Andre. I am grateful that we got to meet up with so many people (and arranged for various of the individuals to meet up with various of the others!), but the trip was quite stressful to me, because I was not physically or emotionally prepared for it at all. (I will report later on what I learned from the experience.)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;2011 was quite a year for me and Abby. We had many changes and adventures in our lives: our home, our diet, our exercise, our outdoors activities, travel. For me, the biggest changes were quitting chess, starting music practice and performance, throwing myself into blogging and tweeting, getting more and more active in local software developer groups, applying new (to me) development tools at work, and in the fall, taking Stanford online courses in computer science.&lt;/p&gt;
+
+&lt;p&gt;Although I ended the year in poor shape, because of being overbooked, I am very excited by how many positive changes took place. I have an entirely new set of plans and priorities to formulate soon for 2012 in collaboration with Abby, in hope of learning from the lessons of my failures and omissions of 2011, and restoring balance.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Timtowtdi on Franklin Chen</title>
+    <link>http://franklinchen.com/categories/timtowtdi/atom/index.xml</link>
+    <description>Recent content in Timtowtdi on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/categories/timtowtdi/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Pittsburgh Python: distribute and other Python community controversies</title>
+      <link>http://franklinchen.com/blog/2013/02/27/pittsburgh-python-distribute-and-other-python-community-controversies/</link>
+      <pubDate>Wed, 27 Feb 2013 22:12:03 -0500</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/02/27/pittsburgh-python-distribute-and-other-python-community-controversies/</guid>
+      <description>&lt;p&gt;I was very interested to attend this month&amp;rsquo;s &lt;a href=&#34;http://www.meetup.com/pghpython/&#34;&gt;Pittsburgh Python User Group&lt;/a&gt; &lt;a href=&#34;http://www.meetup.com/pghpython/events/95504432/&#34;&gt;meeting&lt;/a&gt; because Nick Sloan was going to give a talk about packaging with &lt;a href=&#34;http://pythonhosted.org/distribute/&#34;&gt;&lt;code&gt;distribute&lt;/code&gt;&lt;/a&gt;: packaging in Python has been a &lt;em&gt;huge source of confusion&lt;/em&gt; to me, both as a user and as a developer.&lt;/p&gt;
+
+&lt;p&gt;Since my use of Python at work or for personal purposes has not been very large scale, I have limped along with settling on a clean setup to use for packaging my code. This is in stark contrast to my management of libraries in Perl, Ruby, and Java, where I think there has been more of a consensus in adoption of certain tools and conventions.&lt;/p&gt;
+
+&lt;p&gt;Also, Joe Esposito sent around some links to interesting discussions and news in the global Python community, so I looked forward to hearing what everyone thought.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-problem-with-python-packaging&#34;&gt;The problem with Python packaging&lt;/h2&gt;
+
+&lt;p&gt;OK, so the big problem I faced when trying to nicely set up packaging for a personal project a while ago was that there are many options. The &lt;a href=&#34;http://en.wikipedia.org/wiki/The_Paradox_of_Choice:_Why_More_Is_Less&#34;&gt;paradox of choice&lt;/a&gt; is insidious, and it is surprising to me in the Python community, which has generally prided itself on a general consensus on a philosophy of &lt;a href=&#34;http://wiki.python.org/moin/TOOWTDI&#34;&gt;&amp;ldquo;There&amp;rsquo;s Only One Way To Do It&amp;rdquo;&lt;/a&gt;, in sharp and deliberate contrast to the Perl community&amp;rsquo;s philosophy of &lt;a href=&#34;http://en.wikipedia.org/wiki/There&#39;s_more_than_one_way_to_do_it&#34;&gt;&amp;ldquo;There&amp;rsquo;s More Than One Way To Do It&amp;rdquo;&lt;/a&gt; (TIMTOWTDI).&lt;/p&gt;
+
+&lt;h2 id=&#34;nick-sloan-on-packaging-with-distribute-http-pythonhosted-org-distribute&#34;&gt;Nick Sloan on packaging with &lt;a href=&#34;http://pythonhosted.org/distribute/&#34;&gt;&lt;code&gt;distribute&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Nick summarized the situation of existing packaging systems for Python:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://docs.python.org/2/distutils/&#34;&gt;&lt;code&gt;distutils&lt;/code&gt;&lt;/a&gt; is lacking in features&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pythonhosted.org/setuptools/index.html&#34;&gt;&lt;code&gt;setuptools&lt;/code&gt;&lt;/a&gt; is stagnant&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pythonhosted.org/distribute/&#34;&gt;&lt;code&gt;distribute&lt;/code&gt;&lt;/a&gt; is a fork of &lt;code&gt;setuptools&lt;/code&gt; and aims to replace it&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;He then illustrated the basics of packaging with writing &lt;code&gt;setup.py&lt;/code&gt;, referencing &lt;a href=&#34;https://medium.com/kr-projects/b8388ba7c1a&#34;&gt;Kenneth Reitz&amp;rsquo;s recommendations on repository structure&lt;/a&gt;, based on &lt;code&gt;distribute&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;kenneth-reitz-s-recommendations-on-repository-structure&#34;&gt;Kenneth Reitz&amp;rsquo;s recommendations on repository structure&lt;/h3&gt;
+
+&lt;p&gt;The most interesting thing about Kenneth Reitz&amp;rsquo;s recommendations was that he advocated separating out &lt;em&gt;tests&lt;/em&gt; from the code of a module, to reduce dependencies for the installer and user of the module. I definitely prefer to have a separate directory tree for tests, as is standard by &lt;em&gt;convention&lt;/em&gt; when I write tests for projects in many other languages. For example:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Perl: &lt;code&gt;t/&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Ruby: &lt;code&gt;spec/&lt;/code&gt; when using RSpec&lt;/li&gt;
+&lt;li&gt;Java: &lt;code&gt;src/test/&lt;/code&gt; when using JUnit&lt;/li&gt;
+&lt;li&gt;Scala: &lt;code&gt;src/test/&lt;/code&gt; when using Specs2 and ScalaCheck&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I don&amp;rsquo;t really like his &lt;code&gt;tests/context.py&lt;/code&gt; system of imports, as it is too dynamic in chasing down imports, and therefore may not play well by default with standard tools:&lt;/p&gt;
+
+&lt;div class=&#34;highlight&#34; style=&#34;background: #f8f8f8&#34;&gt;&lt;pre style=&#34;line-height: 125%&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span style=&#34;color: #008000; font-weight: bold&#34;&gt;import&lt;/span&gt; &lt;span style=&#34;color: #0000FF; font-weight: bold&#34;&gt;os&lt;/span&gt;
+&lt;span style=&#34;color: #008000; font-weight: bold&#34;&gt;import&lt;/span&gt; &lt;span style=&#34;color: #0000FF; font-weight: bold&#34;&gt;sys&lt;/span&gt;
+sys&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;path&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;insert(&lt;span style=&#34;color: #666666&#34;&gt;0&lt;/span&gt;, os&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;path&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;abspath(&lt;span style=&#34;border: 1px solid #FF0000&#34;&gt;‘&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;..&lt;/span&gt;&lt;span style=&#34;border: 1px solid #FF0000&#34;&gt;’&lt;/span&gt;))
+
+&lt;span style=&#34;color: #008000; font-weight: bold&#34;&gt;import&lt;/span&gt; &lt;span style=&#34;color: #0000FF; font-weight: bold&#34;&gt;sample&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;div class=&#34;highlight&#34; style=&#34;background: #f8f8f8&#34;&gt;&lt;pre style=&#34;line-height: 125%&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span style=&#34;color: #008000; font-weight: bold&#34;&gt;from&lt;/span&gt; &lt;span style=&#34;color: #0000FF; font-weight: bold&#34;&gt;.context&lt;/span&gt; &lt;span style=&#34;color: #008000; font-weight: bold&#34;&gt;import&lt;/span&gt; sample
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;That said, I decided to give his recommendations a shot.&lt;/p&gt;
+
+&lt;h3 id=&#34;another-twist&#34;&gt;Another twist&lt;/h3&gt;
+
+&lt;p&gt;Meanwhile, Nick noted that there is also a &lt;a href=&#34;http://pythonhosted.org/Distutils2/&#34;&gt;&lt;code&gt;distutils2&lt;/code&gt;&lt;/a&gt; project now, to improve &lt;code&gt;distutils&lt;/code&gt;, and that nobody is working on &lt;code&gt;distribute&lt;/code&gt; any more. This sounds like a crazy soap opera in the Python world.&lt;/p&gt;
+
+&lt;h2 id=&#34;python-community-debates-and-news&#34;&gt;Python community debates and news&lt;/h2&gt;
+
+&lt;p&gt;Joe opened up the discussion on Python community news.&lt;/p&gt;
+
+&lt;h3 id=&#34;start-writing-more-classes&#34;&gt;&amp;ldquo;Start Writing More Classes&amp;rdquo;?&lt;/h3&gt;
+
+&lt;p&gt;In the Python community, there has always been some controversy over whether to go all-out object-oriented with classes or write in a more functional style. The language supports both styles, although classes were a fairly late addition to the language.&lt;/p&gt;
+
+&lt;h4 id=&#34;stop-writing-classes&#34;&gt;&amp;ldquo;Stop Writing Classes&amp;rdquo;?&lt;/h4&gt;
+
+&lt;p&gt;Last year, at PyCon 2012, there was a talk, &amp;ldquo;Stop Writing Classes&amp;rdquo;, that made waves:&lt;/p&gt;
+
+&lt;iframe width=&#34;420&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/o9pEzgHorH0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;I thought it was a good talk, because it exposed how many things done with classes are superfluous, creating code bloat and deeply nested hierarchies: often you can just use a functional style with data that is not all wrapped into classes.&lt;/p&gt;
+
+&lt;h4 id=&#34;a-rebuttal&#34;&gt;A rebuttal&lt;/h4&gt;
+
+&lt;p&gt;Just two weeks ago, someone wrote a post on how &lt;a href=&#34;http://lucumr.pocoo.org/2013/2/13/moar-classes/&#34;&gt;Python programmers should be writing more classes, not less&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I was not happy about this post because it set up a straw man. Really, he was simply arguing for modular code vs. monolithic code, and observing that some people who don&amp;rsquo;t use classes end up writing monolithic code. He even states as much at the end of his post. So the title of his post is misleading.&lt;/p&gt;
+
+&lt;h3 id=&#34;other-news&#34;&gt;Other news&lt;/h3&gt;
+
+&lt;p&gt;There were various other smaller topics discussed, but &lt;code&gt;distribute&lt;/code&gt; and classes dominated this evening.&lt;/p&gt;
+
+&lt;h2 id=&#34;updates-after-the-meetup&#34;&gt;(Updates after the meetup)&lt;/h2&gt;
+
+&lt;p&gt;After I went home, I updated &lt;a href=&#34;https://github.com/FranklinChen/project-euler-python&#34;&gt;one of my sample Python projects&lt;/a&gt; to adhere to Kenneth Reitz&amp;rsquo;s guidelines.&lt;/p&gt;
+
+&lt;p&gt;Also, some weeks later, I noticed an &lt;a href=&#34;http://mail.python.org/pipermail/distutils-sig/2013-March/020126.html&#34;&gt;announcement that &lt;code&gt;setuptools&lt;/code&gt; and &lt;code&gt;distribute&lt;/code&gt; were going to merge efforts&lt;/a&gt;. Hooray!&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>Agile Anti-Patterns &middot; Franklin Chen</title>
+
+  
+  <link rel="stylesheet" href="http://franklinchen.com/css/poole.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/hyde.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/poole-overrides.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/hyde-overrides.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/hyde-x.css">
+
+  <link rel="stylesheet" href="http://franklinchen.com/css/franklin.css">
+
+  <link rel="stylesheet" href="http://franklinchen.com/css/highlight/default.css">
+  <link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://franklinchen.com/touch-icon-144-precomposed.png">
+  <link href="http://franklinchen.com/favicon.png" rel="icon">
+
+  
+  
+  
+  
+
+  <meta name="description" content="Franklin Chen&#39;s personal Web site and blog">
+  <meta name="keywords" content="Franklin Chen, blog">
+  <link rel="author" href="http://plus.google.com/100967806642012078047">
+</head>
+<body class="theme-base-0e">
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      
+        
+        <h1>Franklin Chen</h1>
+        <p class="lead">Infinity in the palm of my hand.</p>
+    </div>
+
+    <ul class="sidebar-nav">
+      
+      <li class="sidebar-nav-item"><a href="http://franklinchen.com/contact/">Contact</a></li>
+      
+      <li class="sidebar-nav-item"><a href="http://ConscientiousProgrammer.com/">Programming blog</a></li>
+      <li class="sidebar-nav-item"><a href="http://chessimprover.com/author/franklinc/">Chess blog</a></li>
+      <li class="sidebar-nav-item"><a href="https://www.flickr.com/photos/franklinmingchen/">Photos</a></li>
+    </ul>
+
+    <ul class="sidebar-nav">
+      <li class="sidebar-nav-item">
+      <a href="https://github.com/FranklinChen"><i class="fa fa-github-square fa-3x"></i></a>
+      
+      
+      <a href="http://www.linkedin.com/in/franklinchen"><i class="fa fa-linkedin-square fa-3x"></i></a>
+      <a href="http://google.com/&#43;FranklinChen"><i class="fa fa-google-plus-square fa-3x"></i></a>
+      <a href="http://www.facebook.com/franklin.chen"><i class="fa fa-facebook-square fa-3x"></i></a>
+      <a href="http://twitter.com/franklinchen"><i class="fa fa-twitter-square fa-3x"></i></a>
+      <a href="http://www.youtube.com/user/FranklinChen"><i class="fa fa-youtube-square fa-3x"></i></a>
+      <a href="http://franklinchen.com/atom.xml" type="application/rss+xml"><i class="fa fa-rss-square fa-3x"></i></a>
+      </li>
+    </ul>
+
+    
+
+    <p>Copyright &copy; 2016 Franklin Chen<br/>
+       Powered by <a href="http://gohugo.io">Hugo</a> and <a href="https://github.com/zyro/hyde-x">Hyde-X</a></p>
+  </div>
+</div>
+
+
+<div class="content container">
+  <div class="post">
+    <h1>Agile Anti-Patterns</h1>
+    
+
+<p>On Wednesday, I left my regular <a href="../../../../../blog/2011/09/28/staring-at-the-wall-with-nowhere-to-go/">meditation session</a> early, to rush off to a meeting of the relatively new <a href="http://www.meetup.com/PittsburghAgile/">Pittsburgh Agile meetup group</a>. <a href="http://andrewcox.org/">Andrew Cox</a> gave a very informative talk on <a href="http://www.meetup.com/PittsburghAgile/events/36899642/">Agile anti-patterns</a>.  (He has put up online his <a href="http://files.meetup.com/1792120/agile-antipatterns.pdf">slides with presentation notes</a>.)</p>
+
+<p>Around ten other people attended (a small turnout compared to some past meetings of the group). I have been to two or three of this group&rsquo;s meetups so far, and have found them rather useful, prodding me to reflect on my own software development processes and start to make changes to them.</p>
+
+<p>What I like about this group&rsquo;s meetings is that there is a lot of informal discussion and contribution by a diverse array of people who share stories from their work experiences. Some of the participants are new to <a href="http://en.wikipedia.org/wiki/Agile_software_development">Agile</a>; others have officially adopted it but seek guidance for how to implement it better; others are trying to introduce Agile into an environment that is skeptical of it.</p>
+
+<p>I enjoy learning about <a href="http://en.wikipedia.org/wiki/Anti-pattern">anti-patterns</a> when getting started in new endeavors because they are a distillation of hard-won experience in how <em>not</em> to go about things, and also how to &ldquo;refactor&rdquo; back out of a bad practice into a good practice.</p>
+
+<p>Here are just a few of the discussion points that particularly spoke to me, along with my own analogies that I found useful.</p>
+
+<h2 id="we-tried-baseball-and-it-didn-t-work">We tried baseball and it didn&rsquo;t work</h2>
+
+<p>This anti-pattern refers to a &ldquo;parable&rdquo; from the earlier <a href="http://xprogramming.com/articles/jatbaseball/">XP movement</a> and simply refers to what can happen when you take a process (such as the game of baseball) and make all kinds of modifications to it (such as reduce the number of players and change the equipment) and then the resulting process doesn&rsquo;t make any sense, and then you blame the whole process.</p>
+
+<p>Applied to Agile, it refers to not understanding how Agile is supposed to work, but radically modifying it in the name of improving it right off the bat. But I think this anti-pattern is relevant to all areas of human endeavor and therefore is an anti-pattern for living!</p>
+
+<p>My first thought was that of course there can never be any consensus on whether one should &ldquo;trust&rdquo; in some established process and try it out fully before improvising; there will always be a subjective element to the question of whether one is just following authority blindly. My second thought is that I&rsquo;ve learned through experience that it is often worth fully giving something a try, using experts&rsquo; advice, before automatically assuming that the experts are dummies and don&rsquo;t even need to be listened to at all.</p>
+
+<h3 id="my-example-barefoot-or-minimalist-running">My example: barefoot or minimalist running</h3>
+
+<p>For example, running barefoot or with minimalist shoes has become remarkably popular in recent years. An unfortunate side effect is anecdotes of people who try it out, get badly injured, and then proclaim minimalist running an unhealthy fad. When you look at the causes of the injuries, however, you find that people who have not yet adapted to proper landing technique or strengthened muscles have suddenly gone out and tried to run a couple of miles barefoot or in minimalist shoes. No wonder they limped home with bloody feet or shin splints.</p>
+
+<p>The <em>wrong</em> conclusion to draw from those unfortunate incidents is that God intended for us to wear heavy Nike or New Balance shoes for walking and running. The <em>right</em> conclusion is that one needs training and adaptation to change from one way of moving to another way of moving. But somehow, it is very human when trying something new and failing to blame what is new instead of blame oneself for perhaps misunderstanding the new.</p>
+
+<h3 id="the-lesson">The lesson</h3>
+
+<p>In the end, there is only one way to find out whether something new and unfamiliar will work for you. <em>You</em> have to do the research, take the advice, try it out in good faith, and then see what happens. That is as true for Agile as it is for learning how to play piano, give an effective public presentation, or eat a healthy diet. Your optimal solution might turn out to be very different from someone else&rsquo;s, but you can&rsquo;t know that till you&rsquo;ve really tried different ideas, rather than go into something new with the idea of mainly ignoring it and trying to graft your old habits onto it.</p>
+
+<h2 id="kitchen-sink-product">Kitchen sink product</h2>
+
+<p>Another anti-pattern is when there&rsquo;s a list of features for a product, and they are all considered to be critical, and development is driven by the feature list.</p>
+
+<p>The Agile way is to be driven not by feature list, but by a <a href="http://en.wikipedia.org/wiki/User_story">story</a> list. A story represents what a user will actually use to solve some problem. So the goal of Agile prioritization is to create releases that actually enable the user to get real work done. This makes sense to me because if a product just has a lot of disconnected features that don&rsquo;t fit together for common everyday use, then it is not effective. Furthermore, without user feedback on how the product is actually used or will actually be used, there is the risk of creating features that are not very important after all. In fact, in my experience as a software developer, I have often encountered this frustrating situation: a user demands some feature up front, making a big deal of it, but it happens to be difficult to implement, and we implement it, and then it turns out the user doesn&rsquo;t really need it. A better feedback loop, as opposed to up-front feature lists, makes sense.</p>
+
+<h2 id="deadlines">Deadlines</h2>
+
+<p>The anti-pattern here isn&rsquo;t the existence of deadlines as such (deadlines are a fact of life), but the nature of the deadlines. A typical deadline anti-pattern is &ldquo;you must have X, Y, and Z by date D&rdquo;. It is framed in terms of some kind of priority of <em>quantity</em> rather than <em>quality</em>. The opposite of this anti-pattern is a process in which, if you can&rsquo;t have both quantity and quality given the constraints, you focus on quality. In the long haul, a decrease in quality can create even more problems as you have to keep trying to fix bugs and you spend all your time fixing bugs and introducing new ones. And as a result, you miss even more deadlines. How many of us have experienced this vicious cycle?</p>
+
+<p>The alternative is to reduce expectations in a more controlled way. Life is not perfect, so we need to determine what kind of &ldquo;imperfect&rdquo; is OK, rather than pretend that we can be perfect.</p>
+
+<h3 id="analogy-running-a-marathon">Analogy: running a marathon</h3>
+
+<p>Let&rsquo;s say you have never run a marathon before, and furthermore, have not done a lot of running. You could decide to preregister for a marathon coming up in one year and set that as your fixed deadline for your rebirth as a runner, and also set a particular goal for a finish time.</p>
+
+<p>I would suggest (having run marathons myself) that this may not be the best strategy for completing a marathon in an enjoyable and sustainable way. You could get sick or injured and not make it to the start line, or get to the finish line in pointless agony. Worse, you could swear off marathons or just plain running, and get nothing out of the experience except being able to say that you learned how to suffer. (I&rsquo;m not knocking knowing how to suffer; I&rsquo;m just saying that it is more productive to suffer while achieving your goal rather than suffer while not achieving it.)</p>
+
+<p>There are all kinds of ways to make the whole process of becoming a distance runner more enjoyable and sustainable.</p>
+
+<p>You could decide on the marathon but re-estimate your finish time goal along the way while training, and indeed, even during the event itself, e.g., if after a few miles you&rsquo;re not on pace to achieve your time goal, you had better change your goal, or else you will hit the wall and really slow down even worse.</p>
+
+<p>You could approach the task by splitting it up into incremental goals. If you&rsquo;ve never run a 5K before, you could target that as your first &ldquo;release&rdquo; of your personal distance running project. And then go to 10K, half marathon. This is what I did myself. I waited years before running my first marathon. (Even then, I screwed it up in a couple of ways!)</p>
+
+<p>What is important, both practically and philosophically, I think, is that it is safest to have a way of knowing that you have achieved something worthwhile and self-contained along the way during your process toward the ultimate goal.</p>
+
+<h2 id="customer-driven-development">Customer driven development</h2>
+
+<p>The anti-pattern of &ldquo;customer driven development&rdquo; involves always listening to your various customers and their requests. This is an anti-pattern because a hodgepodge of requests may not be coherent, and particular requests may be a lot more difficult to implement than is really worthwhile: damaging one&rsquo;s design for one particular feature for one particular customer may adversely impact the usability for everyone else. From a technical and business standpoint, customers&rsquo; requests must be filtered: respected, but filtered.</p>
+
+<p>Perhaps an extreme opposite of customer driven development, of course, was how Steve Jobs operated in Apple. To this day, I do not use an Apple mouse with my Macs. I have hated Apple mice to this day. I happen to like &ldquo;normal&rdquo; three-button mice. He never listened to people like me, and Apple did just fine with its one-button mouse, then the Mighty Mouse, etc. Maybe I wasn&rsquo;t happy, but a lot more people were and are. It is impossible to please everyone, so why even try?</p>
+
+<h2 id="other-anti-patterns">Other anti-patterns</h2>
+
+<p>This blog post is already getting long, so I&rsquo;ll stop here in my discussion of the list of anti-patterns Andrew went through. There were a lot more!</p>
+
+<p>Again, here are Andrew&rsquo;s <a href="http://files.meetup.com/1792120/agile-antipatterns.pdf">slides with notes</a>, although they are not a replacement for the discussions that took place at the meetup.</p>
+
+<h2 id="summary">Summary</h2>
+
+<p>I happen to believe that anti-patterns in any field reflect deep facts about human imperfection and inspiration and that is why I have tried to relate Agile development anti-patterns to other areas of life.</p>
+
+<p>If you are in the Pittsburgh area, I highly recommend checking out the <a href="http://www.meetup.com/PittsburghAgile/">Agile meetup group</a>!</p>
+
+    <div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'franklinchen';
+    var disqus_identifier = 'http:\/\/franklinchen.com\/blog\/2011\/10\/14\/agile-anti-patterns\/';
+    var disqus_title = 'Agile Anti-Patterns';
+    var disqus_url = 'http:\/\/franklinchen.com\/blog\/2011\/10\/14\/agile-anti-patterns\/';
+
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+  </div>
+</div>
+<script src="http://franklinchen.com/js/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+</body>
+</html>
+

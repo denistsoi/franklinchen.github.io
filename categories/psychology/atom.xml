@@ -1,0 +1,1429 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Psychology on Franklin Chen</title>
+    <link>http://franklinchen.com/categories/psychology/atom/index.xml</link>
+    <description>Recent content in Psychology on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/categories/psychology/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Clever chess tactics that were not what they seemed</title>
+      <link>http://franklinchen.com/blog/2015/11/30/clever-chess-tactics-that-were-not-what-they-seemed/</link>
+      <pubDate>Mon, 30 Nov 2015 02:25:52 -0500</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2015/11/30/clever-chess-tactics-that-were-not-what-they-seemed/</guid>
+      <description>&lt;p&gt;In round 3 of the current 6-round Pittsburgh Chess Club Tuesday night
+tournament, I played a very tense game that led to an unusual position
+with beautiful tactical possibilities. My opponent, Melih, is a strong
+player who is a winner of the 2015 Pittsburgh Chess Club Championship earlier
+this year, and had won the last two tournament games we have played,
+so I came into this game anxious and also thirsty for revenge.&lt;/p&gt;
+
+&lt;p&gt;The game proved to be very challenging for both of us. I achieved a
+better position out of the opening as Black but was too cautious to
+press more aggressively. After more than 3 hours (!) of play, we ended
+up in a simplified late middlegame in which I had only a small but
+clear advantage. We were both clearly physically and mentally
+exhausted, and starting to run out of time (these tournament games
+have a time control of 2 hours per person with a 5-second delay per
+move). It was up to me to try to find a way to win by inducing errors
+in his play.&lt;/p&gt;
+
+&lt;h2 id=&#34;get-ready-to-be-quizzed&#34;&gt;Get ready to be quizzed!&lt;/h2&gt;
+
+&lt;p&gt;What ended up happening was in retrospect both remarkable and
+comic. To maximize your entertainment as well as challenge your
+tactical skills, I recommend pausing at each diagrammed position below
+in order to ask yourself what move you would play, and why, before
+gradually uncovering the whole story.&lt;/p&gt;
+
+&lt;p&gt;Note: an interactive chess board with all variations is provided at
+the end of this article.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;first-assess-a-quiet-looking-starting-position&#34;&gt;First, assess a quiet-looking starting position&lt;/h2&gt;
+
+&lt;p&gt;For context, here is the position after 21 moves, after Black played
+21&amp;hellip;Qc6.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/ozbek-chen-2015-11-17/22w.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;21...Qc6; White to move&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;questions&#34;&gt;Questions&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;What opening do you think this middlegame came from?&lt;/li&gt;
+&lt;li&gt;Who stands better and why?&lt;/li&gt;
+&lt;li&gt;What is White&amp;rsquo;s best plan, and what is Black&amp;rsquo;s best plan?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;answers&#34;&gt;Answers&lt;/h3&gt;
+
+&lt;p&gt;Congratulations if you guessed this was a
+  &lt;a href=&#34;https://en.wikipedia.org/wiki/French_Defence#Advance_Variation:_3.e5&#34;&gt;French Defense, Advance Variation&lt;/a&gt;,
+  gone totally wrong for White!&lt;/p&gt;
+
+&lt;p&gt;Black stands better and has a simple plan:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;attack White&amp;rsquo;s backward Pawn on c3 on the half-open file, and
+perhaps also the e5 Pawn as well; and the a2 Pawn and b4 Pawn are
+also potential targets&lt;/li&gt;
+&lt;li&gt;use the half-open c-file for the Rooks, and the dark-squared Bishop
+against White&amp;rsquo;s Pawns, and get the Queen involved as well&lt;/li&gt;
+&lt;li&gt;using these attacks, overload White&amp;rsquo;s defenses somehow in order to
+win at least one of those Pawns to enter a probably winning endgame&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;White&amp;rsquo;s only possible counter-plan:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;defend the weak Queen side Pawns&lt;/li&gt;
+&lt;li&gt;maybe plant the Knight on a good outpost such as d4&lt;/li&gt;
+&lt;li&gt;defend the Pawn on e5 with maybe an f4 advance, and hope to attack
+Black&amp;rsquo;s King side with perhaps an f5 break&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;progress-after-seven-moves&#34;&gt;Progress after seven moves?&lt;/h2&gt;
+
+&lt;p&gt;Black has just played 28&amp;hellip;Rc4.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/ozbek-chen-2015-11-17/29w.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;28...Rc4; White to move&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;questions-1&#34;&gt;Questions&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Who has made more progress in the last seven moves: White or Black?&lt;/li&gt;
+&lt;li&gt;What is the nature of the progress made?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;answers-1&#34;&gt;Answers&lt;/h3&gt;
+
+&lt;p&gt;White has played to wait to see what Black is up to; meanwhile, Black
+has made some progress on the Queen side by:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;doubling Rooks on the half-open c-file&lt;/li&gt;
+&lt;li&gt;using the Queen to bear down on White&amp;rsquo;s a-Pawn, which White has
+(mistakenly) advanced to a3.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;white-played-a-surprising-move&#34;&gt;White played a surprising move&lt;/h2&gt;
+
+&lt;p&gt;White has just played 29 Rac2.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/ozbek-chen-2015-11-17/29b.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;29 Rac2; Black to move&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;questions-2&#34;&gt;Questions&lt;/h3&gt;
+
+&lt;p&gt;On the 29th move, White moved the Rook from a2 to c2, leaving the
+defense of the a3 Pawn.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;What is the meaning of this strange move?!&lt;/li&gt;
+&lt;li&gt;Can Black just take the Pawn with the Queen?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;answers-2&#34;&gt;Answers&lt;/h3&gt;
+
+&lt;p&gt;You may be thinking &amp;ldquo;White is provocatively setting a trap for Black
+to fall into&amp;rdquo;. You get credit if you can see the trap.&lt;/p&gt;
+
+&lt;h2 id=&#34;black-fell-into-a-trap&#34;&gt;Black fell into a trap?&lt;/h2&gt;
+
+&lt;p&gt;I played 29&amp;hellip;Qxa3.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/ozbek-chen-2015-11-17/30w.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;29...Qxa3; White to move&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;But wait, I took the Pawn! Did I fall into a trap?&lt;/p&gt;
+
+&lt;h3 id=&#34;questions-3&#34;&gt;Questions&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;What is the trap you saw earlier, if you saw it?&lt;/li&gt;
+&lt;li&gt;Is it really a trap?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;white-closed-the-trap&#34;&gt;White closed the trap?&lt;/h2&gt;
+
+&lt;p&gt;White has played 30 Ra2.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/ozbek-chen-2015-11-17/30b.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;30 Ra2; Black to move&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;answers-3&#34;&gt;Answers&lt;/h3&gt;
+
+&lt;p&gt;So the Rook moved back to a2, apparently trapping Black&amp;rsquo;s Queen. But
+again, was it really a trap?&lt;/p&gt;
+
+&lt;h2 id=&#34;black-refuted-the-trap&#34;&gt;Black refuted the trap?&lt;/h2&gt;
+
+&lt;p&gt;Black played 30&amp;hellip;Rxd4.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/ozbek-chen-2015-11-17/31w.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;30...Rxd4; White to move&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;You get credit if you saw this move taking White&amp;rsquo;s Knight on d4, and
+saw that White&amp;rsquo;s Queen is overloaded such that retaking the Rook in
+either one of two ways leads to losing back the Rook on c1 and
+therefore losing a piece overall and the game.&lt;/p&gt;
+
+&lt;p&gt;I was very proud of seeing this tactic. (If you saw a different move
+for Black, we&amp;rsquo;ll discuss that further down below.)&lt;/p&gt;
+
+&lt;h2 id=&#34;white-refuted-the-refutation&#34;&gt;White refuted the refutation?&lt;/h2&gt;
+
+&lt;p&gt;White played 31 Qc2.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/ozbek-chen-2015-11-17/31b.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;31 Qc2; Black to move&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;When Melih moved his Queen to c2, I was in shock and disgust at
+myself: in my fatigue near the end of this game, and overexcitement at
+believing I had &amp;ldquo;refuted&amp;rdquo; a &amp;ldquo;trap&amp;rdquo;, I had completely failed to take
+into account that White was not actually required to take my Rook on d4!&lt;/p&gt;
+
+&lt;p&gt;Amusingly, it turns out that Melih, after playing 29 Rac2 setting the
+&amp;ldquo;trap&amp;rdquo;, saw to his horror the resource 30&amp;hellip;Rxd4, and thought he was
+lost, but then saw 31 Qc2. So neither of us had originally seen this
+saving resource for White.&lt;/p&gt;
+
+&lt;h3 id=&#34;questions-4&#34;&gt;Questions&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Is Black&amp;rsquo;s Queen trapped for real now?&lt;/li&gt;
+&lt;li&gt;What should Black do? Is Black lost? Or is Black still winning? Or
+should Black start looking for a draw?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;black-panicked-trying-to-draw&#34;&gt;Black panicked, trying to draw&lt;/h2&gt;
+
+&lt;p&gt;Yes, Black&amp;rsquo;s Queen is trapped for real. You get credit if you saw
+that Black&amp;rsquo;s flashy 30&amp;hellip;Rxd4 had this flaw.&lt;/p&gt;
+
+&lt;p&gt;The only question for me was how best to give up my Queen.&lt;/p&gt;
+
+&lt;p&gt;I chose poorly. In a daze, I could not think straight. I chose to give
+back a Rook with 31&amp;hellip;Qxc3, in order to force a trade Queens on c3 and
+go into an endgame an exchange down for two Pawns, and hope for a draw.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/ozbek-chen-2015-11-17/36w.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;31...Qxc3; White to move&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;I was correct that the resulting position was objectively equal and
+drawable, but in a time scramble, it&amp;rsquo;s obviously easier to play White,
+and for the rest of the game, both sides made major errors (with White
+botching up winning positions and Black botching up drawn positions)
+until a simplified position was reached (Rook and two Pawns for each
+side) with only seconds left on the clock, and a draw agreed. I
+consider myself lucky to have drawn. The final position was:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/ozbek-chen-2015-11-17/draw.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Agreed drawn&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;h2 id=&#34;but-black-could-have-played-to-win&#34;&gt;But Black could have played to win&lt;/h2&gt;
+
+&lt;p&gt;You get credit if you chose instead to sacrifice the Queen with
+31&amp;hellip;Qxc1+ to get the Rook and Bishop and Pawns against White&amp;rsquo;s Queen,
+with advantage and a good chance of winning. After 32 Qxc1 Bxb4, Black
+is about to win White&amp;rsquo;s c3 Pawn:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/ozbek-chen-2015-11-17/33rooksw.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;32...Bxb4; White to move&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;In fact, if you saw all this when thinking about whether to take the
+Pawn on a3 in the first place, then you get bonus points for seeing a
+way to an advantage through the sequence of tactical blows. Neither
+Melih nor I saw any of this up front, unfortunately.&lt;/p&gt;
+
+&lt;p&gt;I chickened out and did not take this continuation because after being
+shocked that my Queen was disappearing, I experienced a visceral fear
+that I needed to bring down White&amp;rsquo;s Queen also, else it with White&amp;rsquo;s
+Rook might be dangerous to my King.&lt;/p&gt;
+
+&lt;p&gt;It turns out that my fear was objectively unwarranted, as Black&amp;rsquo;s
+defenses are sufficient because of the power of the dark-squared
+Bishop to hit White&amp;rsquo;s e5 Pawn and even the f2 Pawn, but I was not
+thinking straight any more as time was running out for the four-hour
+game and it was already around 11 PM at night on a weekday.&lt;/p&gt;
+
+&lt;h3 id=&#34;one-possible-position&#34;&gt;One possible position&lt;/h3&gt;
+
+&lt;p&gt;Here is a position that might have arisen if I had gone into this
+variation:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/ozbek-chen-2015-11-17/35rooksw.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;White to move&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;The thing is, even though the computer says Black has an advantage, it
+could be scary playing against White&amp;rsquo;s Queen.&lt;/p&gt;
+
+&lt;h3 id=&#34;another-possible-position&#34;&gt;Another possible position&lt;/h3&gt;
+
+&lt;p&gt;But analysis also shows that White has to be very careful. For
+example, if White is greedy and wastes time taking Black&amp;rsquo;s a7 Pawn
+above, Black quickly gets a winning attack:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/ozbek-chen-2015-11-17/37rooksw.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;White to move&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;In time pressure, anything can happen, and I think it would have been
+very likely that White would have grabbed the a7 Pawn, after which
+Black&amp;rsquo;s position play itself.&lt;/p&gt;
+
+&lt;h2 id=&#34;finally-black-s-real-refutation&#34;&gt;Finally: Black&amp;rsquo;s real refutation!&lt;/h2&gt;
+
+&lt;p&gt;I said you get extra credit for seeing everything to the point of
+sacrificing Black&amp;rsquo;s Queen for an advantage. But you only get full
+credit if you saw the real refutation of White&amp;rsquo;s &amp;ldquo;trap&amp;rdquo; earlier in the
+game! I kicked myself for not having seen it.&lt;/p&gt;
+
+&lt;h3 id=&#34;questions-5&#34;&gt;Questions&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Was there a point at which Black could have deviated and won the
+game outright?&lt;/li&gt;
+&lt;li&gt;Hint: which of Black&amp;rsquo;s pieces have we not focused on in the
+variations covered so far?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;answers-4&#34;&gt;Answers&lt;/h3&gt;
+
+&lt;p&gt;Black could, after White &amp;ldquo;trapped&amp;rdquo; the Queen with 30 Ra2, used a
+different and better deflection of White&amp;rsquo;s overloaded Queen than
+30&amp;hellip;Rxd4, which was OK but not best.&lt;/p&gt;
+
+&lt;p&gt;We haven&amp;rsquo;t looked at Black&amp;rsquo;s Bishop enough. I only saw this upon
+recovering from the draw and analyzing the game later at home: the
+winning shot is 30&amp;hellip;Bg5!&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/ozbek-chen-2015-11-17/31varw.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;White to move&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;If White blocks the threat to the Queen with 31 f4,
+then Black just lops off the Pawn with 31&amp;hellip;Bxf4 and now:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;if White takes the Bishop or otherwise moves the Queen, Black will
+win either the Rook on a2 or the Rook on c1&lt;/li&gt;
+&lt;li&gt;if White takes Black&amp;rsquo;s Queen, then Black takes White&amp;rsquo;s Queen on d2
+with tempo and will eventually win all three of White&amp;rsquo;s weak
+Pawns on dark squares (c3 followed by e5 and b4)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Either way, the endgame is an easy win for Black.&lt;/p&gt;
+
+&lt;p&gt;Neither Melih nor I saw this winning resource for Black during the
+game. We just weren&amp;rsquo;t looking at that quiet Bishop because it hadn&amp;rsquo;t
+participated in anything up till that point.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Chess never ceases to surprise me. Tactical possibilities are
+everywhere, and in this game, both Melih and I missed various
+possible continuations, playing moves thinking we knew what had to
+follow. I hope you enjoyed this story of missed opportunities and
+incomplete calculations.&lt;/p&gt;
+
+&lt;p&gt;My thanks to Melih for a challenging and fascinating game, and sharing
+his thoughts with me afterwards.&lt;/p&gt;
+
+&lt;p&gt;&lt;a data-flickr-embed=&#34;true&#34;  href=&#34;https://www.flickr.com/photos/franklinmingchen/23445261516/in/datetaken/&#34; title=&#34;Melih and Franklin at the Pittsburgh Chess Club&#34;&gt;&lt;img src=&#34;https://farm1.staticflickr.com/589/23445261516_25ee07e170_z.jpg&#34; width=&#34;640&#34; height=&#34;480&#34; alt=&#34;Franklin and Melih at the Pittsburgh Chess Club&#34;&gt;&lt;/a&gt;&lt;script async src=&#34;//embedr.flickr.com/assets/client-code.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;appendix-interactive-playable-board&#34;&gt;Appendix: interactive playable board&lt;/h2&gt;
+
+&lt;script type=&#34;text/javascript&#34;
+        src=&#34;http://chesstempo.com/js/pgnyui.js&#34;&gt;&lt;/script&gt;
+&lt;script type=&#34;text/javascript&#34;
+        src=&#34;http://chesstempo.com/js/pgnviewer.js&#34;&gt;&lt;/script&gt;
+&lt;link
+     type=&#34;text/css&#34;
+     rel=&#34;stylesheet&#34;
+     href=&#34;http://chesstempo.com/css/board-min.css&#34;&gt;
+&lt;/link&gt;
+
+&lt;script&gt;
+    new PgnViewer(
+      { boardName: &#34;demo&#34;,
+        pgnFile: &#39;/chess/ozbek-chen-2015-11-17/ozbek-chen.pgn&#39;,
+        pieceSet: &#39;merida&#39;,
+        pieceSize: 46
+      }
+    );
+&lt;/script&gt;
+
+&lt;style&gt;
+#demo-stuff {
+    display: flex;
+}
+
+#demo-moves {
+    overflow-y: auto;
+}
+&lt;/style&gt;
+
+&lt;div id=&#34;demo-stuff&#34;&gt;
+&lt;div id=&#34;demo-container&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;demo-moves&#34;&gt;&lt;/div&gt;
+&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>What unexpected life lessons have you learned from your father?</title>
+      <link>http://franklinchen.com/blog/2015/06/11/what-unexpected-life-lessons-have-you-learned-from-your-father/</link>
+      <pubDate>Thu, 11 Jun 2015 22:15:56 -0400</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2015/06/11/what-unexpected-life-lessons-have-you-learned-from-your-father/</guid>
+      <description>&lt;p&gt;I came across a great story by a guy who wrote an article,
+&lt;a href=&#34;http://www.bbc.com/news/magazine-32961309&#34;&gt;&amp;ldquo;How my father gave me a terrifying lesson at 10&amp;rdquo;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Please read the whole thing before reading further below, where I&amp;rsquo;ll
+share some stories about my own father.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-misunderstood-lesson&#34;&gt;The misunderstood lesson&lt;/h2&gt;
+
+&lt;p&gt;(Warning: this is a spoiler if you haven&amp;rsquo;t already read
+&lt;a href=&#34;http://www.bbc.com/news/magazine-32961309&#34;&gt;the story&lt;/a&gt;.)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Did you guess what the lesson was going to be before reaching the
+  end of the story? At what point did you get the idea that the author
+  of the story did not grasp for twenty years?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I saw it coming as soon as terrifying accidents started happening down
+in the coal mine.&lt;/p&gt;
+
+&lt;p&gt;Basically, the father was trying to terrify his son out of becoming a
+coal miner like him. It was an act of manipulation but also of
+compassion. And it worked, but not without his son bearing resentment
+for the apparently mean and senseless prank for twenty years.&lt;/p&gt;
+
+&lt;h2 id=&#34;my-stories&#34;&gt;My stories&lt;/h2&gt;
+
+&lt;p&gt;I was reminded of some less drastic manipulation that I faced in my
+childhood that had unexpected benefits that I didn&amp;rsquo;t understand at the
+time.&lt;/p&gt;
+
+&lt;p&gt;Like the author, I was about ten years old when these incidents
+occurred: old enough to feel embarrassment, shame, self-consciousness.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-cigar&#34;&gt;The cigar&lt;/h3&gt;
+
+&lt;p&gt;One day my father came home from work with a box of cigars. I guess it
+was some kind of present. Neither he nor my mother smoked at all, so I
+was surprised that he lit one up and handed it to me to try out.&lt;/p&gt;
+
+&lt;p&gt;Note that this was around 1980, when I had lived ten years in the
+1970s when I still saw a lot of smoking in old TV show and movies, and
+I saw the Marlboro Man everywhere in print (he just
+&lt;a href=&#34;http://thinkprogress.org/health/2014/01/27/3207091/marlboro-man-dies-smoking/&#34;&gt;died last year from chronic obstructive pulmonary disease &lt;/a&gt;. Today&amp;rsquo;s
+anti-smoking culture in America did not exist yet then. I knew lots of
+people who smoked: my relatives, doctors, you name it. In fact, in the
+blue-collar neighborhood where we lived, half the teachers smoked,
+probably half my schoolmates smoked by the time they got to around age
+12, our next door neighbors and their children all smoked. The local
+chess club my father took me to, located in the basement of the
+community center, was always filled with smoke.&lt;/p&gt;
+
+&lt;p&gt;Anyway, I had not yet reached an age when I might have started running
+around with a smoking crowd and gotten into it myself. I had a little
+bit of curiosity, but not much. Still, enough that I was excited that
+my father was going to share something &amp;ldquo;grownup&amp;rdquo; with me.&lt;/p&gt;
+
+&lt;p&gt;I had no idea what I was doing, took a puff, and coughed with total
+disgust. I didn&amp;rsquo;t know at the time that there were proper ways to
+handle a cigar; I guess it was a good thing I didn&amp;rsquo;t know that. All I
+knew was that I was in agony, the special treat from my father was
+bullshit, that I never wanted anything to do with a cigar, or by
+extension a cigarette, again in my life. I was &lt;em&gt;angry&lt;/em&gt; that he did
+this thing to me. We never talked about this incident again.&lt;/p&gt;
+
+&lt;p&gt;And therefore, I have never smoked in my life. The memory of that
+experience was just too painful, and also by middle school, I started
+hearing preaching by some other adults (and some crusading classmates
+as well) about the health dangers of smoking. I was so traumatized
+that this information alone put me off permanently, overriding any
+natural curiosity I had about how pleasurable smoking had to be that
+people would take risks and pay money to engage in it.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-beer&#34;&gt;The beer&lt;/h3&gt;
+
+&lt;p&gt;Something similar happened with alcohol. One day my father had some
+cans of beer around, probably left over after some office party. We
+never had alcohol around. My parents did not drink. At least, so I
+thought.&lt;/p&gt;
+
+&lt;p&gt;Anyway, to my surprise, he opened a can and said to take a sip and try
+it out. I knew this was a &amp;ldquo;grownup&amp;rdquo; thing to do that I wasn&amp;rsquo;t supposed
+to, so I eagerly tried it out. The taste was revolting. Meanwhile, he
+drank the whole thing. Then he quickly got very red and acted funny. I
+learned a couple of lessons immediately from this: he shouldn&amp;rsquo;t be
+drinking, I hate beer, and I don&amp;rsquo;t want to get all red and funny.&lt;/p&gt;
+
+&lt;p&gt;Therefore, I was completely immune, all the way through high school,
+to any peer pressure to drink. Never mind that eventually I learned
+that you may have to get used to the taste, or that there were entire
+other worlds of alcohol, such as wine, that tasted different. For a
+long time, I just didn&amp;rsquo;t feel like experimenting.&lt;/p&gt;
+
+&lt;p&gt;The first time I drank alcohol again was right before college, some
+champagne at an awards ceremony for a science competition that took
+place the summer after I graduated from high school. I don&amp;rsquo;t know if I
+got red, but I was told that I was acting funny, and so I went to my
+room and fell asleep.&lt;/p&gt;
+
+&lt;p&gt;I went to a party the first week of college and there was beer, and
+now under the influence of many new friends, I drank some. But I still
+didn&amp;rsquo;t like it, didn&amp;rsquo;t like how everyone ended up behaving funny,
+wasn&amp;rsquo;t too happy that we were all underage, and so I never drank again
+in college.&lt;/p&gt;
+
+&lt;p&gt;Since college, I have now and then partaken of beer and wine, and
+acquired more of an appreciation, but because I get very dizzy and
+sleepy quickly, currently I almost completely avoid drinking. It&amp;rsquo;s
+just for the best.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Lecturing one&amp;rsquo;s children not to do something doesn&amp;rsquo;t always work, but
+sometimes trickery apparently works. I&amp;rsquo;m not praising it or condemning
+it, because I&amp;rsquo;ve endured other forms of trickery from my parents that
+backfired. I&amp;rsquo;m just surprised by how strongly I reacted and how
+susceptible I was to first negative experiences.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Do you have happy or sad examples of this kind of parental
+  manipulation? Did they work on you or not, and was this to your
+  long-term benefit or not? If you are a parent, are you above this
+  trickery, or do you deliberately and cleverly use it?&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Why I have never considered using a treadmill desk</title>
+      <link>http://franklinchen.com/blog/2015/06/10/why-i-have-never-considered-using-a-treadmill-desk/</link>
+      <pubDate>Wed, 10 Jun 2015 21:34:04 -0400</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2015/06/10/why-i-have-never-considered-using-a-treadmill-desk/</guid>
+      <description>&lt;p&gt;Ten years ago, in 2005, a friend of mine sent me an article about a
+trend among some people to use a treadmill desk in order to squeeze in
+some exercise while working. He seemed to think it sounded like a cool
+idea that wouldn&amp;rsquo;t interfere much with work.&lt;/p&gt;
+
+&lt;p&gt;I have never considered using a treadmill desk. Because of a recent
+article that seems to confirm my thoughts from a decade ago, I&amp;rsquo;m
+posting my reaction here, along with a link to the article.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;my-response-in-january-2005&#34;&gt;My response in January 2005&lt;/h2&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;
+At one point years ago I was thinking about stuff like that, but a few
+experiments showed how pointless and soulless it is, for me.  My
+enjoyment of exercise is completely ruined if extraneous stuff is
+brought in, like reading or listening to music.  I learned that the
+whole profound pleasure and meaning of physical activity comes from
+being completely engaged in it, with nothing else on the mind.  So the
+former fantasies of multitasking are now completely antithetical to my
+current life values.
+
+&lt;p&gt;
+It&#39;s not the quantity [of treadmill movement] that&#39;s the issue.
+That&#39;s still one foot per second of continuous movement, requiring
+irrelevant constant muscular pulses.  Note that I cannot read a simple
+newspaper in a car or a bus or a plane.
+
+&lt;p&gt;
+I fidget all the time, especially when playing chess, but the
+movements are not arbitrary and disembodied, but are connected with
+feelings of comfort or with emotional states relevant to my mental
+processes.  It&#39;s not like a treadmill commanding me to go a foot every
+second.  It&#39;s my personal choice when to shake my leg or shift my foot
+or whatever, and for how long.
+&lt;/blockquote&gt;
+
+&lt;h3 id=&#34;philosophy-and-practice&#34;&gt;Philosophy and practice&lt;/h3&gt;
+
+&lt;p&gt;You may be wondering, from how I phrased my reasons, whether I have a
+primarily theoretical, ideological opposition to a treadmill desk, or
+simply a pragmatic one.&lt;/p&gt;
+
+&lt;p&gt;I don&amp;rsquo;t really make a distinction: I take what works and doesn&amp;rsquo;t work
+and make my observations a basis for a possibly more general
+philosophy, rather than adopt an ideology and make my practice fit it.&lt;/p&gt;
+
+&lt;p&gt;Basically, I actually have &lt;em&gt;tried&lt;/em&gt; multitasking in various ways for
+the purpose of &amp;ldquo;saving time&amp;rdquo; and it just doesn&amp;rsquo;t work for
+me. Furthermore, sometimes I multitask &lt;em&gt;despite knowing it doesn&amp;rsquo;t
+work&lt;/em&gt;, and I pay the price. For example:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I have tripped or fallen on runs or hikes when I &amp;ldquo;zoned out&amp;rdquo; and
+wasn&amp;rsquo;t paying attention to the terrain but was thinking of something!&lt;/li&gt;
+&lt;li&gt;I have listened to music while reading a news article and failed to
+follow the music at all.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It&amp;rsquo;s not saving time if I try to do two things and end up not even
+doing one of them well.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-research&#34;&gt;The research&lt;/h2&gt;
+
+&lt;p&gt;The article I just read was a news article,
+&lt;a href=&#34;http://well.blogs.nytimes.com/2015/06/10/the-downside-of-treadmill-desks/&#34;&gt;&amp;ldquo;The downside of treadmill desks&amp;rdquo;&lt;/a&gt;. I
+was pretty shocked and amused to read, &amp;ldquo;&amp;hellip; surprisingly little
+research had examined whether treadmill desks affect someone’s ability
+to get work done.&amp;rdquo;&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;
+The results, when the researchers compared the treadmill walkers with the people sitting at their desks, substantially favored sitting. The people who had walked during the testing performed worse on almost all aspects of thinking, including the ability to concentrate and remember, compared with those who had been seated.
+
+&lt;p&gt;
+And they were much worse at typing, being substantially slower and
+more error prone than the sitting group.
+&lt;/blockquote&gt;
+
+&lt;p&gt;The irony is that the researcher interviewed still wants to believe in
+benefits:&lt;/p&gt;
+
+&lt;blockquote&gt;
+But even with that caveat, he said, he believes that the health
+benefits of a treadmill desk should outweigh any declines in
+productivity and, in fact, he plans to buy one for himself.
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;alternatives&#34;&gt;Alternatives?&lt;/h2&gt;
+
+&lt;p&gt;My alternative to sitting all day, which indeed is by now known to be
+terrible for health, is simple:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Get up now and then and take a break from my task and walk around.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;But doesn&amp;rsquo;t this take time and stop the flow of work? Actually,
+no. There&amp;rsquo;s only so much focus I can have while working on something
+continuously without a break anyway. So forcing myself to take a walk
+is actually a win-win situation, not even just a mere tradeoff.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Treadmill desks do not appeal to me at all, and I believe I have sound
+scientific reasons based on what psychology has learned about the
+working of the human mind. However, I understand that different
+people&amp;rsquo;s minds may work differently from mine.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Have you used a treadmill desk? Why or why not? Do you believe in
+your ability to multitask without a performance hit?&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Yes, I want my writing to be dated!</title>
+      <link>http://franklinchen.com/blog/2015/05/31/yes-i-want-my-writing-to-be-dated/</link>
+      <pubDate>Sun, 31 May 2015 22:55:05 -0400</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2015/05/31/yes-i-want-my-writing-to-be-dated/</guid>
+      <description>&lt;p&gt;I just finished
+&lt;a href=&#34;http://conscientiousprogrammer.com/blog/2015/05/31/why-i-switched-from-octopress-2-to-hugo/&#34;&gt;migrating both this blog and my programming blog from Octopress 2 to Hugo&lt;/a&gt;. During
+this process, I made sure to preserve my old URLs as well as Disqus,
+because nothing is as distressing to me, as a reader, as moved or
+broken links when I&amp;rsquo;m looking for old blog posts.&lt;/p&gt;
+
+&lt;p&gt;That said, there&amp;rsquo;s always the possibility of changing the &amp;ldquo;real&amp;rdquo; URLs and
+just using an alias with a URL redirect for the sake of old URL
+schemes. One possibility was to remove dates from my URLs, e.g.,
+change something like
+&lt;code&gt;http://conscientiousprogrammer.com/blog/2015/05/31/why-i-switched-from-octopress-2-to-hugo/&lt;/code&gt;
+to
+&lt;code&gt;http://conscientiousprogrammer.com/blog/why-i-switched-from-octopress-2-to-hugo/&lt;/code&gt;. Matt
+Gemmell, among many others, has argued for &lt;a href=&#34;http://mattgemmell.com/permalinks/&#34;&gt;permalinks that do not
+include the clutter of embedded dates&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;However, I made the decision years ago, when I had the choice, to keep
+the embedded dates, and I still stand by my decision today. Here&amp;rsquo;s why.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;are-embedded-dates-actually-bad-user-interface-design&#34;&gt;Are embedded dates actually bad user-interface design?&lt;/h2&gt;
+
+&lt;p&gt;I&amp;rsquo;m not sure long date-embedded permalinks are really so bad
+visually:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Nobody goes around having to manually type in these links anyway.&lt;/li&gt;
+&lt;li&gt;I believe that in the long run, people actually do care about the
+date, and having it in the URL makes it that much easier to know the
+date.&lt;/li&gt;
+&lt;li&gt;Redundancy can be a good thing, if it exposes useful information
+that in theory one could determine more indirectly.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;the-bigger-philosophical-issues&#34;&gt;The bigger philosophical issues&lt;/h2&gt;
+
+&lt;p&gt;However, the main reason I deliberately choose to expose the date of a
+post is that I disagree with Matt Gemmell&amp;rsquo;s statement that one should
+prefer to boost one&amp;rsquo;s article&amp;rsquo;s &amp;ldquo;standing&amp;rdquo; by giving the impression
+that one is making a &amp;ldquo;definitive goddamned opinion&amp;rdquo; on a topic, some
+kind of timeless statement.&lt;/p&gt;
+
+&lt;h3 id=&#34;relevance&#34;&gt;Relevance?&lt;/h3&gt;
+
+&lt;p&gt;I understand that there are people who would be swayed by this
+psychological trick, and I totally confess that sometimes when I do a
+Web search and up pops a link to a four-year-old post, I wonder
+whether to read something else instead that might be more &amp;ldquo;relevant&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;But as a reader who seeks genuinely useful information, no matter how
+recent or old, I overcome my initial twinge at encountering an &amp;ldquo;old&amp;rdquo;
+article, and check it out for its own merits. And often, I find that
+it is just fine. For example, there are some fantastic Haskell blogs
+filled with information still useful today. For example:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Any of Dan Piponi&amp;rsquo;s articles are great, e.g., a random 2009 article
+on
+&lt;a href=&#34;http://blog.sigfpe.com/2009/01/haskell-monoids-and-their-uses.html&#34;&gt;monoids and their uses&lt;/a&gt;,
+with an ungainly URL of
+&lt;code&gt;http://blog.sigfpe.com/2009/01/haskell-monoids-and-their-uses.html&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Any of Gabriel Gonzalez&amp;rsquo;s articles are great, e.g., a 2012 article
+on
+&lt;a href=&#34;http://www.haskellforall.com/2012/06/you-could-have-invented-free-monads.html&#34;&gt;free monads&lt;/a&gt;
+with the URL
+&lt;code&gt;http://www.haskellforall.com/2012/06/you-could-have-invented-free-monads.html&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Furthermore, the dating is actually useful because once you see
+another article by the same author with a different date, you know
+which one came first and can retrace the &lt;em&gt;history&lt;/em&gt; of the author&amp;rsquo;s
+thinking just throw the URL. In fact, I track my own history through
+the fact that on my file system, my posts are in alphabetical order
+according to date.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-reality-and-humanity-of-transience&#34;&gt;The reality and humanity of transience&lt;/h3&gt;
+
+&lt;p&gt;Finally, the main fact I want to emphasize when I write is precisely
+that I am not giving my definitive opinion about anything.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;I have no &amp;ldquo;forever&amp;rdquo; opinions about any topic!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I change my mind as I continue to grow and learn, and I want my
+writing to reflect that, and in a way such that a reader can easily
+track what changed and when. I do not write to give an illusion that I
+am writing eternal truths. I do not write in order to be an authority
+on a topic, but to share a snapshot of what I understand at a
+particular moment in my life. When I change my mind, I do often go
+back and add a dated update section linking to a new article.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;I have retained dated permalinks for my migrated blogs, despite some
+voices that argue otherwise, because of the extra information they
+provide.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Do you agree that dated permalinks are worth the ugliness or not? Is
+  this your opinion as an author, a reader, a critic, or a search
+  engine user?&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Report on my second day of Stoic Week 2014: mindfulness</title>
+      <link>http://franklinchen.com/blog/2014/11/25/report-on-my-second-day-of-stoic-week-2014/</link>
+      <pubDate>Tue, 25 Nov 2014 23:50:38 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2014/11/25/report-on-my-second-day-of-stoic-week-2014/</guid>
+      <description>&lt;p&gt;Yesterday, I reported on my &lt;a href=&#34;../../blog/2014/11/24/report-on-my-first-day-of-stoic-week-2014/&#34;&gt;first day of Stoic Week 2014&lt;/a&gt;. Today, the second day&amp;rsquo;s theme was &amp;ldquo;Stoic mindfulness&amp;rdquo;. This is similar to the Buddhist teaching on mindfulness, and is basically a sound psychological observation that &amp;ldquo;You are just an impression and not at all the thing you claim to represent&amp;rdquo;: our thoughts and feelings are one thing but what we do about them is another.&lt;/p&gt;
+
+&lt;p&gt;I found it particularly useful to remember this today, because Tuesdays present an interesting challenge for me.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;chess&#34;&gt;Chess&lt;/h2&gt;
+
+&lt;p&gt;On Tuesday nights, I have been playing in the latest 6-round current Tuesday night &lt;a href=&#34;http://pittsburghcc.org/&#34;&gt;Pittsburgh Chess Club&lt;/a&gt; tournament, one round every Tuesday. Tonight was round 4. I had experienced an extremely painful loss last week in round 3 when I was &lt;em&gt;not mindful&lt;/em&gt; and &lt;a href=&#34;http://chessimprover.com/blockading-to-defend-when-things-get-tough/&#34;&gt;got carried away by emotions&lt;/a&gt;: I had an overwhelming advantage during an attack on my opponent&amp;rsquo;s King, but I allowed my excitement to cloud my judgment, make poor moves, and then worse, after I managed to recover and had the opportunity to survive with a draw, &lt;em&gt;and saw this&lt;/em&gt;, I passed it up out of wishful thinking that I could continue an attack, so I ended up losing. In chess, I face the stark reality that most losses at my level in local competition (where I am typically the top-rated player) are due to faulty psychology, rather than lack of sufficient understanding and skill. A loss of &lt;em&gt;objectivity&lt;/em&gt; (which all athletes and other performers under high pressure) is the reason we fail. Mindfulness directly addresses this all-too-human flaw.&lt;/p&gt;
+
+&lt;h2 id=&#34;continuing-habits-from-yesterday&#34;&gt;Continuing habits from yesterday&lt;/h2&gt;
+
+&lt;p&gt;Yesterday, I noted that I began meditating and exercising again, because it was in my power to do so. I have continued. It&amp;rsquo;s been tricky to get going again, because my body is out of whack, but I remember to do what I can, no more, with faith that incremental progress will pay off. Instead of running, I did a &lt;a href=&#34;http://well.blogs.nytimes.com/projects/workouts/&#34;&gt;7-minute workout&lt;/a&gt;. I&amp;rsquo;ve lost a lot of strength over the years and plan to regain it. I have dumbbells lying around the house from when I was using them a decade ago; it&amp;rsquo;s time to get back to them.&lt;/p&gt;
+
+&lt;h2 id=&#34;tonight-s-chess-game&#34;&gt;Tonight&amp;rsquo;s chess game&lt;/h2&gt;
+
+&lt;p&gt;I won a decent game tonight at the chess tournament. It was the third last to finish, taking almost four hours. I&amp;rsquo;ve played against my opponent many times before over the years, mostly winning, but the last time I played him, he held me to a draw, despite a 500-rating-point difference (which is huge). One thing that sometimes happens in tournament chess is overconfidence when facing someone who is on paper much weaker, or fear because of a past bad result. Mindfulness teaches us that although historical facts are facts, we should distance ourselves from distracting feelings about them.&lt;/p&gt;
+
+&lt;p&gt;As in many hard-fought chess games, I experienced a range of emotions during the game. First of all, in the opening, although I was doing OK, I was frustrated that I allowed a certain kind of position I ordinarily do not allow, because of an oversight. Instead of kicking myself, I focused to do what I could with what I had, assessing that even though I did not want that position, it was actually still OK for me. (Actually, computer analysis afterwards showed that I was more than OK, so I was still more pessimistic than warranted during the game.) In the middlegame, I emerged with an advantage, but then faced a curious choice. My opponent gave me an opportunity to win some material (a Rook for a Bishop and Pawn) at the expense of destroying my Pawn structure and therefore creating good chances for a draw. At the time, I saw no better winning try, so I went for it, deciding that, unlike last week, I was going to settle for a draw if my opponent could prove he could defend; I simply made sure to play soundly and not recklessly. It turned out that he cracked eventually and I won. I was pleased that I remained psychologically strong in the game and was rewarded accordingly. (For those of you interested in the technical details of the game, I will be annotating it in an upcoming article I will write for &lt;a href=&#34;http://chessimprover.com/category/franklin-chen/&#34;&gt;my weekly column in The Chess Improver&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;heavy-traffic&#34;&gt;Heavy traffic&lt;/h2&gt;
+
+&lt;p&gt;Another thing: when driving home from work to eat dinner before the chess game, I noticed that the traffic was unusually bad. Mindfulness is always helpful when facing stressful situations like this. I was upset with myself for not anticipating apparent pre-Thanksgiving-holiday traffic and therefore being pressed for time to get home and eat dinner before playing chess. I decided to let go of my self-annoyance because it wasn&amp;rsquo;t going to help me get home any sooner and would just sap my mental energy I needed for my game.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Mindfulness is something I&amp;rsquo;ve had prior experience in trying to adopt well before I even read about Stoicism. But having a daily theme and reading during Stoic Week has been surprisingly helpful in keeping me aware.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Are you familiar with the concept of mindfulness and the scientific underpinnings of it? If so, do you deliberately practice it? Do you have misgivings about it?&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ransoms, hypocrisy, and bourgeois virtues</title>
+      <link>http://franklinchen.com/blog/2014/11/14/ransoms-hypocrisy-and-bourgeois-virtues/</link>
+      <pubDate>Fri, 14 Nov 2014 22:18:36 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2014/11/14/ransoms-hypocrisy-and-bourgeois-virtues/</guid>
+      <description>
+
+&lt;p&gt;I saw a provocative article, &lt;a href=&#34;http://www.nybooks.com/blogs/nyrblog/2014/nov/12/case-for-paying-ransoms/&#34;&gt;&amp;ldquo;The Case for Paying Ransoms&amp;rdquo;&lt;/a&gt;, that argued that noted that European hostages of terrorist groups, unlike American and British hostages, tend to be returned alive, thanks to European governments paying ransoms. The US and UK governments, however, have a public policy of not negotiating with terrorists.&lt;/p&gt;
+
+&lt;p&gt;It appears that &amp;ldquo;governments like the Spanish, the French, and the Italian, have simply found other, more clandestine and covert ways of making such payments, through sudden increases in aid budgets and the like. The next move these governments make is simply to &lt;em&gt;deny&lt;/em&gt; that such payments have been made.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;So this brings up a dilemma (which of course comes up in action films all the time):&lt;/p&gt;
+
+&lt;blockquote&gt;
+Is it better to (a) remain morally consistent, refuse negotiation and ransom payment to an allegedly evil organization, but watch your citizens get beheaded? Or (b) sign up to a principled agreement not to negotiate with &#34;terrorists,&#34; but then negotiate nonetheless, pay a large amount of money to release the citizens of your country, and simply deny the fact publicly?
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;in-praise-of-hypocrisy&#34;&gt;In praise of hypocrisy?&lt;/h2&gt;
+
+&lt;p&gt;The article argued for the second choice, which is to be hypocritical and deny negotiation while actually engaging it: &amp;ldquo;The effectiveness of the strategy depends on the fact that it is not openly acknowledged, and indeed that it is repeatedly repudiated in official statements and in international agreements by the governments in question.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;When reading this, I was not particularly shocked, because hypocrisy is everywhere and is quite official. In fact, almost all American news and political discourse revolves around hypocrisy. This is apparent when it comes to sex scandals, corporate payola, NSA domestic surveillance, complaints about government spending, railing against privatization of education while sending one&amp;rsquo;s own children to private schools, and so on. I get the impression that Americans give much more priority to the &lt;em&gt;appearance&lt;/em&gt; of &amp;ldquo;moral outrage&amp;rdquo; than other people in the world. Nobody wants to be pointed out as a hypocrite, it seems.&lt;/p&gt;
+
+&lt;p&gt;The trouble is that hypocrisy is arguably the single most important bourgeois &amp;ldquo;virtue&amp;rdquo;, the collective decision to look the other way when confronted with something disturbing, to make a euphemism of it if it is seen at all. The &amp;ldquo;liberal&amp;rdquo;, tolerant society depends to a great deal on hypocrisy. This is how &amp;ldquo;tolerance&amp;rdquo; works: claiming to believe one thing while not acting entirely consistently with that claim. For example, religious tolerance was hard won: remember when &lt;a href=&#34;http://en.wikipedia.org/wiki/Know_Nothing&#34;&gt;Catholicism were considered anti-American by many&lt;/a&gt;? Was the solution really that Protestants decided Catholicism was OK after all? In part, perhaps, but also in part a result of hypocrisy. Remember when &lt;a href=&#34;http://www.today.com/id/4224452/ns/today-entertainment/t/mel-gibson-says-his-wife-could-be-going-hell/&#34;&gt;Mel Gibson said his (then) wife was doomed to go to hell&lt;/a&gt;?&lt;/p&gt;
+
+&lt;p&gt;A certain level of hypocrisy seems necessary for a liberal society. Many people who claim to believe abortion is baby murder tend to still be OK eating at a restaurant owned by someone who believes otherwise. Many &amp;ldquo;progressive&amp;rdquo; programmers seem to have no problem with buying Apple products despite suspect sweatshop labor practices at Foxconn. And so forth: in fact, capitalism itself is reliant on hypocrisy to stay alive. If people bought and sold mostly with their supposed moral conscience rather than with their wallets, markets would fall apart. Overall, nobody cares whether the gas station owner is doing drugs, beating his wife, or hates their ethnicity.&lt;/p&gt;
+
+&lt;p&gt;Is there an alternative to hypocrisy that doesn&amp;rsquo;t just lead back to all-out wars among every possible faction believing in their principles so strongly that they are willing to die and kill for them? I don&amp;rsquo;t know. I just know that on some uncomfortable level, &lt;em&gt;complaining about hypocrisy is the essence of hypocrisy itself&lt;/em&gt;. This may just be how human beings have to operate. But we&amp;rsquo;re not supposed to openly admit that, are we? It would be like going to your dear friend&amp;rsquo;s parents&amp;rsquo; home for dinner and then screaming at them for being animal killers for serving meat if you&amp;rsquo;re an ethical vegetarian. That would be such &lt;em&gt;bad manners&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How do you feel about hypocrisy? Do you acknowledge its social value? Do you admit to it yourself? Do you call out those you consider hypocrites?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;update-of-2014-11-19&#34;&gt;(Update of 2014-11-19)&lt;/h2&gt;
+
+&lt;p&gt;Here is a &lt;a href=&#34;http://www.nybooks.com/blogs/nyrblog/2014/nov/19/ransoms-real-cost/&#34;&gt;critique&lt;/a&gt; of the original article.&lt;/p&gt;
+
+&lt;h2 id=&#34;update-of-2014-12-05&#34;&gt;(Update of 2014-12-05)&lt;/h2&gt;
+
+&lt;p&gt;On a related topic, here is an interesting &lt;a href=&#34;http://www.theguardian.com/news/2014/dec/04/-sp-case-against-human-rights&#34;&gt;critique of &amp;ldquo;human rights&amp;rdquo; by Eric Posner&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My predictions after Carlsen and Anand are tied after round 4 of the World Chess Championship</title>
+      <link>http://franklinchen.com/blog/2014/11/12/my-predictions-after-carlsen-and-anand-are-tied-after-round-4-of-the-world-chess-championship/</link>
+      <pubDate>Wed, 12 Nov 2014 23:01:25 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2014/11/12/my-predictions-after-carlsen-and-anand-are-tied-after-round-4-of-the-world-chess-championship/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../../blog/2014/11/06/my-predictions-and-hopes-for-the-2014-carlsen-anand-world-chess-championship-rematch/&#34;&gt;Last week I made some predictions&lt;/a&gt; about the &lt;a href=&#34;http://www.sochi2014.fide.com/&#34;&gt;2014 Carlsen-Anand World Chess Championship&lt;/a&gt; match before it began. Now, four rounds later, there have been two draws and a win for each player. What next? Since I correctly predicted some things already, I thought I&amp;rsquo;d speculate about the next couple of rounds.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;anand&#34;&gt;Anand&lt;/h2&gt;
+
+&lt;h3 id=&#34;as-white&#34;&gt;As White&lt;/h3&gt;
+
+&lt;p&gt;As I expected, Anand opened with d4 with a view to aggressive, sharp lines based on home preparation. In round 1, he lost his nerve and lost his initiative, but in round 3, he won convincingly, first inviting a Queen&amp;rsquo;s Indian (as I expected he would) but then defeating the Queen&amp;rsquo;s Gambit Declined. I do not see why he would vary from d4 as White in the future unless he ends up ahead in the match and has psychological reasons to mix things up.&lt;/p&gt;
+
+&lt;h3 id=&#34;as-black&#34;&gt;As Black&lt;/h3&gt;
+
+&lt;p&gt;So far, Anand has only faced 1 e4 as Black. In round 2, Anand made what seems like a stupid decision to try to go into the Berlin Defense, and got punished by a loss. I see no reason for him to play the Berlin Defense again; playing 1&amp;hellip;e5 just seems to be playing into Carlsen&amp;rsquo;s strengths. In round 4, Anand went for the Sicilian, as I expected; he used an &amp;hellip;e6 move order to avoid the Moscow and Rossolimo, causing Carlsen to vary with a g3 anti-Sicilian, resulting in a draw. My suspicion is still that Anand might be aiming for a &amp;hellip;Nc6 Sicilian through transposition, perhaps a Taimanov. I expect him to try this again.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m most curious about how Anand would face the English. I think it would depend on his situation. 1&amp;hellip;e5 would be an ambitious, unbalancing choice, while transposition to a Slav structure is also possible.&lt;/p&gt;
+
+&lt;h2 id=&#34;carlsen&#34;&gt;Carlsen&lt;/h2&gt;
+
+&lt;h3 id=&#34;as-white-1&#34;&gt;As White&lt;/h3&gt;
+
+&lt;p&gt;I made no specific prediction about how Carlsen would open as White. He has played 1 e4 twice, once with success but once leading to a draw. Psychologically, his inability or unwillingness to engage Anand in an Open Sicilian does not make continuing with 1 e4 right now seem plausible. I expect him to vary, possibly using the English. I certainly hope he doesn&amp;rsquo;t try the Reti again as he did last year, even though it worked then; he is facing a different Anand this year.&lt;/p&gt;
+
+&lt;h3 id=&#34;as-black-1&#34;&gt;As Black&lt;/h3&gt;
+
+&lt;p&gt;The Grünfeld in round 1 was a surprise, but exactly true to my expectation that &amp;ldquo;he will do whatever might confuse Anand&amp;rdquo;. That he varied in round 3 with the Queen&amp;rsquo;s Gambit Declined suggests that the Grünfeld may not appear again soon, but he lost with the Queen&amp;rsquo;s Gambit Declined, so will he play it again? It is possible. Another possibility is to resort to the Queen&amp;rsquo;s Indian, making sure to avoid sacrificial lines (which means possibly playing a traditional &amp;hellip;Bb7 instead of &amp;hellip;Ba6). Or he could play a Ragozin.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Right now I think Anand is actually in good shape in the match, having a certain momentum. It appears Carlsen is mainly winging it, in the last two rounds. I expect him to change things up.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>SorryWatch: good and bad apologies</title>
+      <link>http://franklinchen.com/blog/2014/11/12/sorrywatch-good-and-bad-apologies/</link>
+      <pubDate>Wed, 12 Nov 2014 22:27:53 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2014/11/12/sorrywatch-good-and-bad-apologies/</guid>
+      <description>&lt;p&gt;I try to avoid reading news, but now and then I see an article about someone or other &amp;ldquo;apologizing&amp;rdquo; for something, and most of the time, the apology is pretty bad. Personally, I admire more someone who defiantly refuses to apologize. The stupidest, most transparent copout, of course, is &amp;ldquo;I apologize &lt;em&gt;if&lt;/em&gt; (something bad resulted from what I said or did)&amp;ldquo;, rather than the real apology &amp;ldquo;I apologize &lt;em&gt;that&lt;/em&gt; &amp;hellip;&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;My own preferences when it comes to apologies:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Always&lt;/em&gt; apologize for something if you &lt;em&gt;do&lt;/em&gt; believe you did wrong.&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Never&lt;/em&gt; &amp;ldquo;apologize&amp;rdquo; for something if you &lt;em&gt;don&amp;rsquo;t&lt;/em&gt; believe you did wrong.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I don&amp;rsquo;t need to feel comforted and coddled by &lt;strong&gt;bullshit&lt;/strong&gt; fake apologies: but I do want to know the truth of where you stand and I&amp;rsquo;ll respect that even if where you stand might be something like &amp;ldquo;Yeah, I&amp;rsquo;m a racist and proud of it!&amp;rdquo; I want you to look me in the eye and spit at me and say that, and I will at least respect you for being &lt;em&gt;honest&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;By coincidence, I recently found a Web site devoted to analyzing different kinds of apologies, good or bad or bizarre. Have fun: &lt;a href=&#34;http://www.sorrywatch.com/&#34;&gt;SorryWatch&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Understand and use motivation contagion: everyone matters</title>
+      <link>http://franklinchen.com/blog/2014/11/09/understand-and-use-motivation-contagion/</link>
+      <pubDate>Sun, 09 Nov 2014 20:35:39 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2014/11/09/understand-and-use-motivation-contagion/</guid>
+      <description>&lt;p&gt;When I was a child, my parents always concerned themselves with whether I was hanging out with the &amp;ldquo;right&amp;rdquo; schoolmates. I never agreed with their definition of &amp;ldquo;right&amp;rdquo;, but they were onto something. I only accepted this truth when I was already in my thirties and reflected on choices I made in my life and why, and was surprised by correlations between what I did and who I happened to be around at the time.&lt;/p&gt;
+
+&lt;p&gt;An excellent &lt;a href=&#34;http://www.scienceofrunning.com/2014/10/why-every-person-matters-motivation.html&#34;&gt;article by running trainer and coach Steve Magness&lt;/a&gt; reminded me how important &lt;em&gt;motivation contagion&lt;/em&gt; is in our lives, whether we recognize this consciously or not.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;exercise-habits-and-performance&#34;&gt;Exercise habits and performance&lt;/h2&gt;
+
+&lt;p&gt;The study he references tried to determine whether exercise habits or performance are &lt;em&gt;contagious&lt;/em&gt;. It turned out that your &lt;em&gt;least fit&lt;/em&gt; friends most influence &lt;em&gt;your own&lt;/em&gt; fitness.&lt;/p&gt;
+
+&lt;h2 id=&#34;interpretation&#34;&gt;Interpretation&lt;/h2&gt;
+
+&lt;p&gt;OK, supposing you accept this, what is your reaction?&lt;/p&gt;
+
+&lt;p&gt;Some people might think &amp;ldquo;Oh, I should ditch my unfit friends&amp;rdquo;. This is a somewhat cynical and heartless reaction, of course, and narrow as a criterion of who deserves friendship, and perhaps shortsighted in a similar way as explained in &lt;a href=&#34;../../blog/2014/11/08/smart-versus-unpredictable-people/&#34;&gt;&amp;ldquo;Don&amp;rsquo;t surround yourself with smarter people&amp;rdquo;&lt;/a&gt;. Physical fitness is not the only measure of the worth of a human being!&lt;/p&gt;
+
+&lt;p&gt;Still, the reality seems that if you unapologetically value your own fitness, you might do best to be careful about your associations with the &lt;em&gt;least fit&lt;/em&gt;. I&amp;rsquo;m going to be honest here: in the past several years, as my social circles have changed from being dominated by fitness freaks (dancers and runners) to more &amp;ldquo;regular&amp;rdquo; people, my own fitness has plummeted considerably. I chalk it up to having far less motivation to exercise the way I used to, not being involved in constant shared activities such as races and just working out together. I&amp;rsquo;m determined to get back in shape, but it will be much harder than when I was actually one of the least fit of everyone around me.&lt;/p&gt;
+
+&lt;p&gt;A more positive interpretation, by Magness, in the context of teams, is that &lt;em&gt;everyone matters&lt;/em&gt;. If you are less fit, then if you care about the group, what you do to improve yourself, personally, actually benefits a lot more people than you. So understanding motivation contagion can give you motivation to not only help yourself but those you love.&lt;/p&gt;
+
+&lt;h2 id=&#34;other-applications&#34;&gt;Other applications&lt;/h2&gt;
+
+&lt;p&gt;Of course, this applies not only to fitness and sports, but to academics, work, and any other habits or activities.&lt;/p&gt;
+
+&lt;h2 id=&#34;a-closing-note&#34;&gt;A closing note&lt;/h2&gt;
+
+&lt;p&gt;I was horribly unfit as a child. I only hung out with others who were very unfit, unfortunately, so that did not help motivate me. On the other hand, my parents made sure to always try to exclude &amp;ldquo;bad students&amp;rdquo; from my life, in order to boost my grades. It kind of worked. Unfortunately, I have to disagree with their narrow, lopsided priorities: I wish I had hung out with more athletes as a child and had much better health as a result. &lt;a href=&#34;../../blog/2012/06/06/i-celebrated-national-running-day-in-schenley-park-remembering-how-i-began-to-run-13-year-ago/&#34;&gt;I didn&amp;rsquo;t start running until age 29&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;When you think about it, how does motivation contagion currently work for or against you in your life? What are the good influences that you absorb, and the bad influences? Do you actively try to change your environment in order to help yourself behave in a different way? What challenges do you face?&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Smart versus unpredictable people: whom do you prefer?</title>
+      <link>http://franklinchen.com/blog/2014/11/08/smart-versus-unpredictable-people/</link>
+      <pubDate>Sat, 08 Nov 2014 11:10:13 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2014/11/08/smart-versus-unpredictable-people/</guid>
+      <description>
+
+&lt;p&gt;I saw an excellent &lt;a href=&#34;http://www.ribbonfarm.com/2014/11/05/dont-surround-yourself-with-smarter-people/&#34;&gt;Ribbonfarm blog post&lt;/a&gt;, &amp;ldquo;Don&amp;rsquo;t surround yourself with smarter people&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;You should read this post; in fact, you should follow the blog in general, as it is one of the deepest-thinking blogs out there. Furthermore, it is an &lt;em&gt;unpredictable&lt;/em&gt; blog. I never know what will be discussed there, but whatever it is, I always find that it is new to me, not something following a standard school of thought or template.&lt;/p&gt;
+
+&lt;p&gt;In other words, I follow this blog precisely for the reasons the post advocates learning not only from &amp;ldquo;smart&amp;rdquo; people but specifically from unpredictable people:&lt;/p&gt;
+
+&lt;blockquote&gt;
+I am only interested in people as long as they are unpredictable to me. If I can predict what you’ll do or say, I’ll lose interest in you rapidly. If you can keep regularly surprising me in some way, forcing me to actually think in unscripted ways in order to respond, I’ll stay interested.
+&lt;/blockquote&gt;
+
+&lt;h2 id=&#34;my-experience&#34;&gt;My experience&lt;/h2&gt;
+
+&lt;p&gt;This is how I feel about whom I follow online through blogs (RSS) or through Twitter. I&amp;rsquo;m always looking for something different. People have different reasons for reading what they read, or following whom they follow. Personally, my goal is to &lt;em&gt;better understand the world&lt;/em&gt;. Sometimes, this comes from following people who offer useful news and information that I wouldn&amp;rsquo;t otherwise know. Other times, I learn from being offered a perspective that is completely contrary to or foreign to mine; in fact, I have changed my mind about a lot of things through deliberately following people who make me uncomfortable.&lt;/p&gt;
+
+&lt;p&gt;If I can predict everything you might say, or you can predict everything I might say, then there seems not much point in communicating; we might as well just fire up computer programs to spit out &amp;ldquo;virtual&amp;rdquo; conversations that add no new information. So I like to hear about your weird ideas, or stuff that goes against the dominant scripts of your tribe.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Do you value independence of mind or do you think it is overrated? Why? What sort of balance do you try to achieve?&lt;/strong&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My predictions and hopes for the 2014 Carlsen-Anand world chess championship rematch</title>
+      <link>http://franklinchen.com/blog/2014/11/06/my-predictions-and-hopes-for-the-2014-carlsen-anand-world-chess-championship-rematch/</link>
+      <pubDate>Thu, 06 Nov 2014 21:09:54 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2014/11/06/my-predictions-and-hopes-for-the-2014-carlsen-anand-world-chess-championship-rematch/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;http://www.sochi2014.fide.com/&#34;&gt;2014 World Chess Championship&lt;/a&gt; is about to begin, featuring Anand and Carlsen again, this time with Anand as challenger and Carlsen as defending champion.&lt;/p&gt;
+
+&lt;p&gt;Last year when I followed the World Chess Championship match, I wrote several blog posts looking at each game that was played. This year I&amp;rsquo;m not planning to do the same, but instead, I would like to offer some predictions and hopes for the rematch.&lt;/p&gt;
+
+&lt;p&gt;Recall that I made one prediction that was eerily correct last year:&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;my-correct-prediction-last-year&#34;&gt;My correct prediction last year&lt;/h2&gt;
+
+&lt;p&gt;Before round 9 began, I &lt;a href=&#34;../../blog/2013/11/21/world-chess-championship-2013-round-9-i-correctly-predicted-anands-aggressively-opening-choice-but-he-blundered-horribly-again-to-lose/&#34;&gt;predicted correctly&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+It came to me in a dream: Anand playing d4 in the next round, then going for an f3, e4 Pawn storm against Carlsen #FWCM2013
+&lt;/blockquote&gt;
+
+&lt;p&gt;This was a critical game in the match, in which Anand blundered horribly to lose a game that he had very good chances of winning.&lt;/p&gt;
+
+&lt;h2 id=&#34;for-this-year&#34;&gt;For this year&lt;/h2&gt;
+
+&lt;h3 id=&#34;anand&#34;&gt;Anand&lt;/h3&gt;
+
+&lt;p&gt;Anand&amp;rsquo;s play last year was very disappointing: he did not win a single game in the match, as he was psychologically unprepared to play aggressively enough when he had good positions against Carlsen.&lt;/p&gt;
+
+&lt;p&gt;I expect that this year, being the challenger instead of the defending champion, he will play in a more forceful way, because he has no choice and nothing to lose. What does this mean?&lt;/p&gt;
+
+&lt;p&gt;Last year I was surprised Anand played e4 as White inviting the Berlin Defense. This was a big mistake. I cannot imagine why he would play e4 again. He surely must play d4, or at least the English Opening with c4. What could he possibly have against the Nimzo-Indian, however, now that the f3 weapon is well-known? There&amp;rsquo;s always the Rubinstein e3 variation but Carlsen, like Karpov of old, should be happy with Black there. The other option is to avoid the Nimzo-Indian and use one of the Pawn sacrifice lines in the Queen&amp;rsquo;s Indian or Catalan. But Carlsen must be prepared against such. So there remains the option of trying for a tiny first-move advantage using the English. I guess we&amp;rsquo;ll see.&lt;/p&gt;
+
+&lt;p&gt;As Black, Anand could stick with the Grunfeld setup from last year, or return to a Slav setup. But what about against e4? There&amp;rsquo;s always the Najdorf, but that allowed the Moscow last year, so maybe a Nc6 Sicilian? In any case, I hope we see fewer Berlin Defense games this year.&lt;/p&gt;
+
+&lt;h3 id=&#34;carlsen&#34;&gt;Carlsen&lt;/h3&gt;
+
+&lt;p&gt;Carlsen is still the favorite to win this year, but is not invincible. He can either play like he did last year, or play differently. Because he is versatile, he can change his plans depending on what happens. I suspect that because he is champion now, he may want to prove his dominance, and play more sharply than last year, but he can always fall back on his wait-for-opponent-to-self-destruct style. Since Anand is simply not going to last forever, Carlsen needs to already start preparing to play against his younger rivals such as Caruana and might want to send a message to them in this match.&lt;/p&gt;
+
+&lt;p&gt;I expect that his aim will be to psychologically destroy Anand one way or another, so he will do whatever might confuse Anand. I cannot really predict how he will play. I suspect his use of the Reti as White is over, however; there are plenty of ways to still control the situation as White while playing d4 or c4. Playing the English might be smart, actually, especially if Anand is also thinking of playing it. We could see one of those matches where both players decide to enter openings as both colors.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;I have no idea if any of my &amp;ldquo;predictions&amp;rdquo; will actually come true, but thought it would be fun to get them on record in case they do.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Are you going to follow this year&amp;rsquo;s World Chess Championship? What do you expect to see in the 2014 match in Sochi?&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Some good science-based reading for Election Day, whether or not you voted</title>
+      <link>http://franklinchen.com/blog/2014/11/04/some-good-science-based-reading-for-election-day/</link>
+      <pubDate>Tue, 04 Nov 2014 15:41:25 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2014/11/04/some-good-science-based-reading-for-election-day/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;../../blog/2014/11/01/how-i-avoid-demotivating-myself-away-from-voting/&#34;&gt;I voted&lt;/a&gt; today, on Election Day in the US.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.flickr.com/photos/franklinmingchen/15527007380&#34; title=&#34;IMG_20141104_153326 by Franklin Chen, on Flickr&#34;&gt;&lt;img src=&#34;https://farm8.staticflickr.com/7496/15527007380_abfb7f5691.jpg&#34; width=&#34;375&#34; height=&#34;500&#34; alt=&#34;IMG_20141104_153326&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;That said, now is as good a time as any for some interesting articles about politics and voting. Here are some that came my way:&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;motive-attribution-asymmetry&#34;&gt;Motive attribution asymmetry&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.theguardian.com/commentisfree/oliver-burkeman-column/2014/nov/04/get-along-enemies-motive-attribution&#34;&gt;Oliver Burkeman&lt;/a&gt; discusses a study that shows that you argue that your side is motivated by &lt;em&gt;love&lt;/em&gt;, while the other side is motivated by &lt;em&gt;hate&lt;/em&gt;. But since the other side thinks the same, what is the &amp;ldquo;truth&amp;rdquo;?&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;One of the reasons it’s so hard to accept the notion that our enemies might be motivated by love, I suspect, is because that conclusion seems to suggest that our enemies’ cause must therefore have merit.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Actually, those two issues are completely unrelated.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;I agree with this: it is quite possible (I&amp;rsquo;m not saying it&amp;rsquo;s always the case) for someone you disagree with to have the most loving intentions, but simply be &lt;em&gt;mistaken&lt;/em&gt; rather than &lt;em&gt;evil&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;dangers-of-accurate-statistical-prediction-by-data-journalism&#34;&gt;Dangers of accurate statistical prediction by data journalism&lt;/h2&gt;
+
+&lt;p&gt;A good article in the Berkeley Journal of Sociology about &lt;a href=&#34;http://berkeleyjournal.org/2014/11/what-should-the-fox-say/&#34;&gt;Nate Silver&amp;rsquo;s statistical journalism&lt;/a&gt; argues that data journalism should focus on understanding rather than prediction.&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;This extensive use of Big Data for election forecasting passively promotes our current sense of political fatalism.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;If our politicians can’t risk making public appearances or trying to appear human without navigating at least three levels of performative irony, then our political culture has entered a state of structural crisis.&amp;rdquo;&lt;/p&gt;
+
+&lt;h2 id=&#34;emotions-of-election-day-asymmetric-hedonic-response&#34;&gt;Emotions of Election Day: asymmetric hedonic response&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://harvardmagazine.com/2014/11/emotions-of-elections-study-todd-rogers&#34;&gt;Harvard Kennedy School research result&lt;/a&gt; on asymmetric hedonic response: after an election, losing makes you far sadder than winning makes you happy.&lt;/p&gt;
+
+&lt;p&gt;I confess to having been really bummed out fairly often in the past two decades of voting. I&amp;rsquo;ve been trying to be more detached.&lt;/p&gt;
+
+&lt;h2 id=&#34;in-praise-of-the-occasional-voter&#34;&gt;In praise of the occasional voter&lt;/h2&gt;
+
+&lt;p&gt;Sometimes, some people make fun of people who do not vote (I never do this; there are often quite rational reasons to avoid voting). Here&amp;rsquo;s an interesting article arguing that the &lt;a href=&#34;http://www.nytimes.com/2014/11/02/upshot/the-vital-role-of-the-occasional-voter.html&#34;&gt;&amp;ldquo;occasional voter&amp;rdquo; is actually quite valuable&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;From an economics point of view, &amp;ldquo;voting is a classic example of a free-rider problem&amp;rdquo; because the possible gain for each individual is so tiny, statistically, that it may not make sense to go out of one&amp;rsquo;s way to vote.&lt;/p&gt;
+
+&lt;p&gt;On the other hand, voting has an interesting cost to the voter: &amp;ldquo;The very act of voting for a given candidate or party ties us mentally to that candidate and inadvertently costs us some measure of our neutrality.&amp;rdquo; This is because we &lt;em&gt;rationalize&lt;/em&gt; what we do in order to resolve our &lt;em&gt;cognitive dissonance&lt;/em&gt; about the apparent pointlessness of voting. We try to fool ourselves into thinking we did something really important. &amp;ldquo;We don’t just choose what we like; we like more and more what we choose.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;So the &amp;ldquo;occasional voter&amp;rdquo; can be an outsider not subject to cognitive dissonance as much as the regular and party-registered voter, countering partisanship.&lt;/p&gt;
+
+&lt;p&gt;Of course, it could be argued that partisanship, and the resulting gridlock, is good. But is it? That&amp;rsquo;s another topic entirely.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-strange-sameness-of-political-candidates-in-the-face-of-competition&#34;&gt;The strange sameness of political candidates in the face of competition&lt;/h2&gt;
+
+&lt;p&gt;The Conversable Economist, Timothy Taylor, offered an explanation for &lt;a href=&#34;http://conversableeconomist.blogspot.com/2014/11/the-excessive-sameness-of-politics-and.html&#34;&gt;why politicians end up in the same squishy middle&lt;/a&gt;, based on &lt;a href=&#34;http://en.wikipedia.org/wiki/Harold_Hotelling&#34;&gt;Hotelling&lt;/a&gt;&amp;rsquo;s famous 1929 mathematical model.&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Mainstream politicians thus face a continual dynamic where they seek to reassure their more ardent partisans that they are on their side, while shading and tacking as needed to pick up voters in the middle.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;By the way, if you are interested in more mathematical modeling, check out Scott Page&amp;rsquo;s free MOOC on &amp;ldquo;model thinking&amp;rdquo;, which I &lt;a href=&#34;../../blog/2012/06/16/review-of-coursera-course-model-thinking/&#34;&gt;reviewed here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;bloggers-reactions-to-election-day&#34;&gt;Bloggers&amp;rsquo; reactions to Election Day&lt;/h2&gt;
+
+&lt;p&gt;Here&amp;rsquo;s a blogger I follow, &lt;a href=&#34;http://ayjay.tumblr.com/post/101755797073/and-one-more-note-on-politics&#34;&gt;Alan Jacobs, on his options&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.washingtonpost.com/blogs/the-fix/wp/2013/05/09/people-hate-congress-but-most-incumbents-get-re-elected-what-gives/&#34;&gt;People hate Congress, but 90% of incumbents get re-elected&lt;/a&gt;. &amp;ldquo;The message from voters to Congress? Throw the bums out. But not my bum.&amp;rdquo;&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;I hope you enjoyed this taste of research results concerning psychology, sociology, and economics.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m not staying up to watch the returns from today&amp;rsquo;s election. I did what I did, and it&amp;rsquo;s over for me until next May.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Did you learn anything surprising in the links I shared here? Is there anything that will change how you think or behave when it comes to politics?&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>How I avoid demotivating myself away from voting</title>
+      <link>http://franklinchen.com/blog/2014/11/01/how-i-avoid-demotivating-myself-away-from-voting/</link>
+      <pubDate>Sat, 01 Nov 2014 22:11:10 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2014/11/01/how-i-avoid-demotivating-myself-away-from-voting/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s that time of year again: three days from today is Election Day. I&amp;rsquo;ve written a few posts about voting over the past couple of years here already, and I&amp;rsquo;ve clearly changed my attitude about it over time:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../blog/2011/11/08/i-dont-know-if-i-should-vote-but-i-did/&#34;&gt;November 2011&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;April 2012: I was too apathetic to vote.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../blog/2012/11/06/i-decided-to-resign-myself-to-continue-voting/&#34;&gt;November 2012&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../blog/2013/05/21/voting-in-the-face-of-election-apathy/&#34;&gt;May 2013&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;November 2013: I voted but wrote nothing about it.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../blog/2014/05/20/why-i-voted-yet-again/&#34;&gt;May 2014&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This is my first post &lt;em&gt;before&lt;/em&gt; an Election Day rather than &lt;em&gt;after&lt;/em&gt; having voted. Why the change this time?&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;reflections-on-my-past-behavior-and-attitudes&#34;&gt;Reflections on my past behavior and attitudes&lt;/h2&gt;
+
+&lt;p&gt;I have always been frustrated by politics and voting. That showed in my posts in the last three years. I always got very &lt;em&gt;emotional&lt;/em&gt; and torn about the whole process. I finally settled on a habit of trying to &lt;em&gt;minimize&lt;/em&gt; my involvement, not paying attention to any races or &amp;ldquo;debates&amp;rdquo; or any political coverage in the news until the night before Election Day, but I was still unhappy.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-situation-now&#34;&gt;The situation now&lt;/h2&gt;
+
+&lt;p&gt;Today, it is still the case that I have not looked at any political coverage for Tuesday. In fact, I have no idea who&amp;rsquo;s running for what, with one major exception: Governor of Pennsylvania. That&amp;rsquo;s been in the news for a year now, and totally unavoidable if you live in PA at all, and especially if you bothered to vote in the primary in May, which I did.&lt;/p&gt;
+
+&lt;p&gt;It turns out that I am accidentally less &lt;em&gt;angry&lt;/em&gt; now than I used to be, because unknown to me, Abby has intercepted all political flyers arriving in our mailbox or &lt;em&gt;on our doorknob&lt;/em&gt; (how dare they!) and recycled them, with one exception.&lt;/p&gt;
+
+&lt;h3 id=&#34;negative-emotions-came-back&#34;&gt;Negative emotions came back&lt;/h3&gt;
+
+&lt;p&gt;Today I saw a flyer in a pile of mail. I tried not to see anything as I picked it up and recycled it, but it was impossible to see &lt;em&gt;something&lt;/em&gt;. I have to hand it to the designer: the name of the politician reached my eye somehow, even though I prided myself on not seeing a single word (at least consciously) of anything else on the flyer.&lt;/p&gt;
+
+&lt;p&gt;A rush of disgust and anger came my way, as I reflected that actually, this is someone I already decided last May in the primary to vote for in the general election. As I&amp;rsquo;ve mentioned in previous posts, flyers that are shouting, negative, fear-mongering, and deceptive &lt;em&gt;piss me off&lt;/em&gt; and make me want to &lt;em&gt;puke down the throats&lt;/em&gt; of these politicians, &lt;em&gt;especially those I expect to vote for&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;(Note that in order to minimize bias, I have never heard this guy talk, and barely recall what he looks like, although I think I saw some head shot back in May. Also, I have no idea what he&amp;rsquo;s been doing or saying since May, or whether any truly major scandal has broken out, although I assume I would have heard by now if so. I will learn what I need to know on Monday night.)&lt;/p&gt;
+
+&lt;h3 id=&#34;taking-more-control&#34;&gt;Taking more control&lt;/h3&gt;
+
+&lt;p&gt;But now, after having &lt;a href=&#34;../../blog/2014/10/31/win-ugly-or-lose-pretty-do-you-agree/&#34;&gt;read that fascinating article yesterday about emotional manipulation&lt;/a&gt;, I have decided that these politicians are only doing the rational thing in their game, nothing personal. You might want to argue that this is a flaw in democracy, as many ancient and modern philosophers have, of course, but that would be another topic of discussion entirely.&lt;/p&gt;
+
+&lt;p&gt;I was also annoyed by the robocall on the answering machine at home today, from the same guy.&lt;/p&gt;
+
+&lt;h3 id=&#34;action-to-further-minimize-annoyance&#34;&gt;Action to further minimize annoyance&lt;/h3&gt;
+
+&lt;p&gt;We shut off the answering machine for our land line. We will not be answering any phone calls until after Election Day. Actually, we are not sure why we need any phones connected to our land line anyway, because in principle we could make sure all relevant accounts list our cell phones as our primary phone numbers (most already do but some old ones don&amp;rsquo;t yet). We only need the land line for DSL purposes. The land line has been mostly nothing but trouble, a target for robocalls of all kinds.&lt;/p&gt;
+
+&lt;p&gt;Also, I wish there were a way to stop getting junk mail in general. Not just the election season junk mail, but all junk mail.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;There will be no Election Day blog post on Tuesday. I&amp;rsquo;ve said all I need to say for this Election Day.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Win ugly or lose pretty: do you agree?</title>
+      <link>http://franklinchen.com/blog/2014/10/31/win-ugly-or-lose-pretty-do-you-agree/</link>
+      <pubDate>Fri, 31 Oct 2014 22:53:18 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2014/10/31/win-ugly-or-lose-pretty-do-you-agree/</guid>
+      <description>&lt;p&gt;I read a juicy article &lt;a href=&#34;http://www.nytimes.com/2014/10/31/us/politics/pr-executives-western-energy-alliance-speech-taped.html&#34;&gt;Hard-Nosed Advice From Veteran Lobbyist: &amp;ldquo;Win Ugly or Lose Pretty&amp;rdquo;&lt;/a&gt; that exposed a speech by a political consultant, Rick Berman, that remarkably, offended one of the participants enough to cause a leak to the public.&lt;/p&gt;
+
+&lt;p&gt;The full transcript is &lt;a href=&#34;http://www.nytimes.com/interactive/2014/10/31/us/politics/31lobbyist-docs.html&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;If you love preserving your independence of mind, get angry when secretly manipulated, and want to learn a bunch of tricks of the trade, you&amp;rsquo;ll want to read the whole thing!&lt;/p&gt;
+
+&lt;p&gt;Here are some highlights I found worth making note of.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;public-opinion-versus-public-judgment&#34;&gt;Public opinion versus public judgment&lt;/h2&gt;
+
+&lt;p&gt;Berman makes a point of distinguishing between &lt;em&gt;public opinion&lt;/em&gt; and &lt;em&gt;public judgment&lt;/em&gt;. He focuses on how to influence public judgment when the war cannot be won on opinion. Opinion is good to influence when possible, of course, but judgment is what actually matters, because it is the act of deciding to vote for some &lt;em&gt;policy&lt;/em&gt; because of some &lt;em&gt;facts&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;offense-versus-defense&#34;&gt;Offense versus defense&lt;/h2&gt;
+
+&lt;p&gt;Berman advocates always being on the offense, not defense. Being on defense is &lt;em&gt;reacting&lt;/em&gt; to someone else. All students of psychology know that reacting is very poor tactics, because it leaves the &lt;a href=&#34;http://en.wikipedia.org/wiki/Framing_effect_%28psychology%29&#34;&gt;&lt;em&gt;framing&lt;/em&gt;&lt;/a&gt; of a situation up to the opponent, and therefore gives the opponent the advantage as far as natural human cognitive bias.&lt;/p&gt;
+
+&lt;p&gt;For example: in order to &lt;em&gt;prevent change&lt;/em&gt;, throw around a lot of information and hypotheticals about what could happen upon change, in such a way as to confuse people and get them into a state of &lt;em&gt;&amp;ldquo;I don&amp;rsquo;t know who to believe&amp;rdquo;&lt;/em&gt;. You want to make it sound like a possible &lt;em&gt;tie&lt;/em&gt; to be broken. Because then by default, the psychological tendency is to give up and not decide, because &amp;ldquo;People are not prepared to get aggressive and in moving one way or another&amp;rdquo;. Therefore, the status quo remains, and the status quo is a &lt;em&gt;win&lt;/em&gt; for the side that wants to prevent change.&lt;/p&gt;
+
+&lt;p&gt;Also, apparently it&amp;rsquo;s good to toss in &lt;em&gt;children&lt;/em&gt; and &lt;em&gt;animals&lt;/em&gt; to make one&amp;rsquo;s opponents seem cartoonish and not to be taken seriously. Also, these kinds of images or videos are popular, helping the spread of such material.&lt;/p&gt;
+
+&lt;p&gt;And &amp;ldquo;I like to use humor to minimize or marginalize the people on the other side.&amp;rdquo;&lt;/p&gt;
+
+&lt;h2 id=&#34;common-knowledge&#34;&gt;Common knowledge&lt;/h2&gt;
+
+&lt;p&gt;Berman says that the goal is not to just send a message out there but to make it &amp;ldquo;common knowledge&amp;rdquo;, something that people just assume because they heard it somewhere enough (completely independently of its truth, of course). And not just somewhere, but &amp;ldquo;enough times from enough different places&amp;rdquo;. It&amp;rsquo;s important to make it look like the message came from different sources, hence the &amp;ldquo;different places&amp;rdquo;. (Nobody will be fooled if they know exactly where the message came from and that it came from one mastermind.)&lt;/p&gt;
+
+&lt;h2 id=&#34;jack-hubbard-on-diminishing-moral-authority&#34;&gt;Jack Hubbard on diminishing moral authority&lt;/h2&gt;
+
+&lt;p&gt;Diminishing moral authority of the opposition means winning through making the other side &lt;em&gt;lose&lt;/em&gt;. (Jack Hubbard took over from Rick Berman to speak at this point.)&lt;/p&gt;
+
+&lt;p&gt;One obvious way is to go &lt;em&gt;personal&lt;/em&gt;. Rip apart the personal lives of people on the opposition. For example, the left-wing Congressman who is discovered to have a large investment in the energy industry: the public enjoys exposing &lt;em&gt;hypocrisy&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;We have a section on every single activist. Their rap sheets, their criminal records that they have. We&amp;rsquo;re really making this personal.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;And &amp;ldquo;engaging unique or third party messengers to get involved on this stuff.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;The public really does have a celebrity worship culture. But&amp;hellip;there is nothing the public likes more than tearing down celebrities and playing up the hypocrisy angle.&amp;rdquo;&lt;/p&gt;
+
+&lt;h2 id=&#34;rick-berman-on-emotions-and-flags&#34;&gt;Rick Berman on emotions and FLAGS&lt;/h2&gt;
+
+&lt;p&gt;Berman reminded the audience that some did not want to go offensive in that nasty way, but you have to &amp;ldquo;win ugly or lose pretty&amp;rdquo;. &amp;ldquo;I was convinced you could not get into people&amp;rsquo;s heads and convince them to do something as easily as you could get into their hearts or into their gut to convince them to do something.&amp;rdquo; It&amp;rsquo;s all about &lt;em&gt;emotions&lt;/em&gt;. His acronym FLAGS:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Fear&lt;/li&gt;
+&lt;li&gt;Love&lt;/li&gt;
+&lt;li&gt;Anger&lt;/li&gt;
+&lt;li&gt;Greed&lt;/li&gt;
+&lt;li&gt;Sympathy&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In the particular campaign he was describing, he deliberately wanted to tap &lt;em&gt;fear&lt;/em&gt; and &lt;em&gt;anger&lt;/em&gt;. Because &amp;ldquo;we&amp;rsquo;re not going to get people to like the oil and gas industry over the next few months&amp;rdquo;.&lt;/p&gt;
+
+&lt;h2 id=&#34;endless-war&#34;&gt;Endless war&lt;/h2&gt;
+
+&lt;p&gt;Berman reminded his audience that &amp;ldquo;this is an endless war&amp;rdquo;. Winning one battle is not enough because the opposition will keep trying win; it does not think of any single loss as a loss for the cause, but just &amp;ldquo;haven&amp;rsquo;t won &lt;em&gt;yet&lt;/em&gt;&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Berman used the metaphor &amp;ldquo;natural enemy&amp;rdquo;: the Sierra Club has no &amp;ldquo;natural enemy&amp;rdquo;. It is hard to fight against something that does not have a natural enemy.&lt;/p&gt;
+
+&lt;h2 id=&#34;how-not-to-be-found-out&#34;&gt;How not to be found out&lt;/h2&gt;
+
+&lt;p&gt;&amp;ldquo;We run all of this stuff through nonprofit organizations that are insulated from having to disclose donors&amp;hellip; we&amp;rsquo;ve been doing this for 20 something years&amp;rdquo;.&lt;/p&gt;
+
+&lt;h2 id=&#34;study-the-other-side&#34;&gt;Study the other side&lt;/h2&gt;
+
+&lt;p&gt;Good quote from Berman: &amp;ldquo;I studied what the other side did to be successful and then translated it into how businesses can use those tactics&amp;rdquo;.&lt;/p&gt;
+
+&lt;h2 id=&#34;always-aim-for-the-middle&#34;&gt;Always aim for the middle&lt;/h2&gt;
+
+&lt;p&gt;&amp;ldquo;We&amp;rsquo;re always aiming with our messages for the people in the middle. I don&amp;rsquo;t try to appeal to the people who already believe in us. And I don&amp;rsquo;t try to convince people who are never going to agree with me, so I&amp;rsquo;m always playing the middle.&amp;rdquo;&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;People like Rick Berman are master psychologists. Whether you agree with his tactics or not, know them and know that they are effective. Now it&amp;rsquo;s your turn:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Do you or would you use these tactics yourself, for some cause that you deeply believe in? Why or why not?&amp;rdquo;&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Was there something you learned that surprised you?&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Is there some decision you made in the past that you now consider as having been triggered by a FLAGS emotional manipulation?&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Disclaimer: Berman&amp;rsquo;s messages have no effect on me; I am not his intended &amp;ldquo;middle&amp;rdquo; audience.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>What does it mean that I&#39;ve never liked the &#34;Mona Lisa&#34; painting?</title>
+      <link>http://franklinchen.com/blog/2014/05/09/what-does-it-mean-that-ive-never-liked-the-mona-lisa-painting/</link>
+      <pubDate>Fri, 09 May 2014 23:45:29 -0400</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2014/05/09/what-does-it-mean-that-ive-never-liked-the-mona-lisa-painting/</guid>
+      <description>&lt;p&gt;I saw an interesting article recently, &lt;a href=&#34;http://moreintelligentlife.com/content/ideas/ian-leslie/overexposed-works-art&#34;&gt;&amp;ldquo;Why the Mona Lisa stands out&amp;rdquo;&lt;/a&gt;. Read it! The summary of the article is that research has shown that the &amp;ldquo;mere-exposure&amp;rdquo; psychological effect really matters in determining what gets popular or gets considered &amp;ldquo;great&amp;rdquo;, so that these evaluations are not based entirely on &amp;ldquo;intrinsic&amp;rdquo; merits.&lt;/p&gt;
+
+&lt;p&gt;One example used was the &lt;a href=&#34;http://en.wikipedia.org/wiki/Mona_Lisa&#34;&gt;&amp;ldquo;Mona Lisa&amp;rdquo; painting by Leonardo da Vinci&lt;/a&gt;.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg/402px-Mona_Lisa%2C_by_Leonardo_da_Vinci%2C_from_C2RMF_retouched.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Somehow this painting became famous and praised widely. Everyone knows the &amp;ldquo;Mona Lisa&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Yet, I&amp;rsquo;ve never liked it, and I&amp;rsquo;ve always been puzzled by its popularity.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;artistic-quality-or-social-pressure&#34;&gt;Artistic quality or social pressure?&lt;/h2&gt;
+
+&lt;p&gt;I have a confession to make: I didn&amp;rsquo;t like my seventh grade required &amp;ldquo;art&amp;rdquo; class in school. For whatever reason, I am not fundamentally drawn to the visual arts in general. My loves are music and literature. I don&amp;rsquo;t care particularly for painting, photography, or film. In fact, in my senior year in high school, I deliberately did not enroll in a course that was very popular among many seniors, and even considered to be the highlight of their high school experience. This course was called &amp;ldquo;Humanities&amp;rdquo; and apparently discussed not only literature, but art and music. I avoided it. I feared &amp;ldquo;art&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Why did I fear art? Part of it was that I got the impression that I saw things differently from others and had trouble enjoying what others enjoyed. I could not tell whether I was simply artistically untrained and unperceptive, or whether there was some kind of social game going on where people decided to pretend to like something that made no sense to me.&lt;/p&gt;
+
+&lt;p&gt;I chose not to be an all-out cynic, so my default assumption was that &lt;em&gt;I was defective&lt;/em&gt;, and therefore I might as well stay away. I chose not to assume that &lt;a href=&#34;http://en.wikipedia.org/wiki/The_Emperor%27s_New_Clothes&#34;&gt;the emperor has no clothes&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;One element of my being defective, obviously, was that I got nothing out of looking at the famous &amp;ldquo;Mona Lisa&amp;rdquo;. Nothing at all. I did not see anything remarkable, or experience some emotion. So it was interesting to me, and maybe a little vindicating, to learn just now that the &amp;ldquo;Mona Lisa&amp;rdquo; was once obscure and became famous largely because of a burglary!&lt;/p&gt;
+
+&lt;h2 id=&#34;against-cynicism&#34;&gt;Against cynicism&lt;/h2&gt;
+
+&lt;p&gt;Nevertheless, I still stand against the cynicism that says there is no such thing as quality at all. Sure, what we consider &amp;ldquo;great&amp;rdquo; may be relative, or dependent on historical accidents, and every era always experiences rediscoveries of the once-forgotten, but actually, I don&amp;rsquo;t think art is just a silly game. I am in fact profoundly disappointed and disturbed by how many people I have encountered who adopt the ultimate cynical attitude, not only toward art, but to music, to food, to science, to life itself. Yes, &lt;a href=&#34;http://en.wikipedia.org/wiki/There%27s_a_sucker_born_every_minute&#34;&gt;there&amp;rsquo;s a sucker born every minute&lt;/a&gt;, but I think it takes more courage to choose to be vulnerable, and choose to sometimes maybe be a sucker, than to make oneself hard and pretend that everyone just has ill intentions and is actively conspiring to make fools of all of us.&lt;/p&gt;
+
+&lt;p&gt;It is possible that if only I had taken the &amp;ldquo;Humanities&amp;rdquo; course in high school, I would have better perception or taste. I don&amp;rsquo;t rule out this possibility, because by skipping &amp;ldquo;Humanities&amp;rdquo; I also missed a survey of Western classical music, and only came to truly discover and expand my love of it through taking a course in my first semester of freshman year in college, as well as making new friends who were huge music fans and shared recordings with me and took me to free concerts on campus. For whatever reason, perhaps simply temperament, there have almost never been art enthusiasts in my close social circles, people who might have aggressively encouraged me to expand my experiences of art. &lt;em&gt;Never&lt;/em&gt; in my life has anyone come up to me and said, &amp;ldquo;hey, check out this painting&amp;rdquo; or &amp;ldquo;you should come to me and see this art show in town&amp;rdquo;.&lt;/p&gt;
+
+&lt;h2 id=&#34;is-it-an-accident-what-i-like&#34;&gt;Is it an accident what I like?&lt;/h2&gt;
+
+&lt;p&gt;Despite my claim that I don&amp;rsquo;t care much for art, in fact, there has been some art that I have accidentally come across and found very beautiful and compelling. And they happen to be famous too. Coincidence?&lt;/p&gt;
+
+&lt;p&gt;For example, I don&amp;rsquo;t remember when I first saw the art of Vincent Van Gogh, but I &lt;em&gt;immediately&lt;/em&gt; found his work deeply moving; it spoke to me. It just did. On the other hand, was I contaminated already because as a child I had come into a copy of Irving Stone&amp;rsquo;s novel &lt;a href=&#34;http://en.wikipedia.org/wiki/Lust_for_Life_%28novel%29&#34;&gt;&amp;ldquo;Lust for Life&amp;rdquo;&lt;/a&gt;? I didn&amp;rsquo;t really read the novel, but the planting of a name (and a lurid story) into my head must have bred familiarity.&lt;/p&gt;
+
+&lt;p&gt;For example, &amp;ldquo;Sunflowers&amp;rdquo; popped out at me the first time I saw it in a book:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/1/1a/Van_Gogh_Vase_with_Fifteen_Sunflowers.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;More generally, if pressed, I would say I am drawn toward &lt;a href=&#34;http://www.artyfactory.com/art_appreciation/art_movements/expressionism.htm&#34;&gt;expressionist&lt;/a&gt; art, because it &amp;ldquo;pops out&amp;rdquo; and speaks boldly and directly, intensely reflecting some aspect of reality. That said, this kind of art also often makes me uncomfortable, so I don&amp;rsquo;t actively seek it out.&lt;/p&gt;
+
+&lt;p&gt;For example, Emil Nolde&amp;rsquo;s &amp;ldquo;The Prophet&amp;rdquo;:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://upload.wikimedia.org/wikipedia/en/2/23/%27The_Prophet%27%2C_woodcut_by_Emil_Nolde%2C_1912.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;I cannot be sure how influenced I am about what I &amp;ldquo;like&amp;rdquo; by popularity and name recognition. The one thing that is certain is that I still do not understand the appeal of the Mona Lisa painting!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Do you like the Mona Lisa or not? Do you feel your taste in art reflects some intrinsic quality you are perceiving, or do you suspect it is a matter of marketing and your upbringing or peers? Do you care?&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

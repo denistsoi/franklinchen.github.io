@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Clojure on Franklin Chen</title>
+    <link>http://franklinchen.com/categories/clojure/atom/index.xml</link>
+    <description>Recent content in Clojure on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/categories/clojure/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Attending the first OpenHack Pittsburgh meeting</title>
+      <link>http://franklinchen.com/blog/2013/01/21/attending-the-first-openhack-pittsburgh-meeting/</link>
+      <pubDate>Mon, 21 Jan 2013 21:49:13 -0500</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/01/21/attending-the-first-openhack-pittsburgh-meeting/</guid>
+      <description>
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://openhack.github.com/images/logo-green.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;OpenHack logo&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;I was excited to attend the &lt;a href=&#34;http://www.meetup.com/pittsburgh-ruby/events/96033112/&#34;&gt;very first meeting&lt;/a&gt; of &lt;a href=&#34;http://openhack.github.com/pittsburgh/&#34;&gt;OpenHack Pittsburgh&lt;/a&gt;, out of curiosity and as a way to force myself to make progress on a personal programming project of mine using Scala (ironically, after spending the day at work on Scala; apparently I couldn&amp;rsquo;t get enough of it).&lt;/p&gt;
+
+&lt;p&gt;The point of &lt;a href=&#34;http://openhack.github.com/&#34;&gt;OpenHack&lt;/a&gt; is to provide a space for programmers to meet up and work on something. It could be a shared project, it could be a personal project.&lt;/p&gt;
+
+&lt;p&gt;Some people come with something to work on, others come to meet other programmers and pitch in on a project, others come to learn something. It was cool that some people left the first meeting finally getting set up on Ruby or Python or Clojure, and working on a project, with help from other people.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/openhack-pittsburgh-2013-01-21/room.jpeg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;One room&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/openhack-pittsburgh-2013-01-21/conference-room.jpeg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Conference room&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;And yes, in the two hours I was there, I did make good progress on my project. It&amp;rsquo;s not finished yet though.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/openhack-pittsburgh-2013-01-21/closeup.jpeg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Franklin and others&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;h2 id=&#34;thanks&#34;&gt;Thanks&lt;/h2&gt;
+
+&lt;p&gt;Many thanks to &lt;a href=&#34;http://www.4moms.com/&#34;&gt;4moms&lt;/a&gt; for hosting the first OpenHack Pittsburgh meetup, and providing the sandwiches and chips and beverages!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My first Pittsburgh Clojure Meetup: Ambrose Bonnaire-Sergeant on core.logic</title>
+      <link>http://franklinchen.com/blog/2011/11/15/my-first-pittsburgh-clojure-meetup-ambrose-bonnaire-sergeant-on-core-logic/</link>
+      <pubDate>Tue, 15 Nov 2011 23:12:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2011/11/15/my-first-pittsburgh-clojure-meetup-ambrose-bonnaire-sergeant-on-core-logic/</guid>
+      <description>&lt;p&gt;I finally attended a &lt;a href=&#34;http://www.meetup.com/Clojure-PGH/events/16249445/&#34;&gt;meeting&lt;/a&gt; of the local &lt;a href=&#34;http://www.meetup.com/Clojure-PGH/&#34;&gt;Pittsburgh Clojure meetup&lt;/a&gt; group, for the first time!&lt;/p&gt;
+
+&lt;p&gt;I came to this meeting largely because I heard that Ambrose Bonnaire-Sergeant, a student in Australia, was visiting the US &lt;a href=&#34;http://cemerick.com/2011/11/08/ambrose-has-received-his-clojure-scholarship-thanks-to-you/&#34;&gt;on scholarship&lt;/a&gt; to present at &lt;a href=&#34;https://github.com/relevance/clojure-conj/tree/master/2011-slides&#34;&gt;Clojure/Conj&lt;/a&gt; and was happening to be in town in Pittsburgh, and therefore was going to visit the Pittsburgh Clojure meetup group and talk about his recent work on logic programming.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;a-note-on-clojure&#34;&gt;A note on Clojure&lt;/h2&gt;
+
+&lt;p&gt;I confess I haven&amp;rsquo;t yet done anything with the Clojure language.&lt;/p&gt;
+
+&lt;p&gt;However, two decades ago, back in the 1990s, I spent a lot of time programming in Scheme, another Lisp variant, and I also did a tiny bit of programming in Common Lisp (but when I discovered Scheme, I basically lost all interest in Common Lisp).&lt;/p&gt;
+
+&lt;p&gt;It is remarkable to me that a Lisp has become revived again recently, because for decades it was always such a niche language. Probably most of us who have used Lisp at all have done so through Emacs, which is configured using Emacs Lisp. I&amp;rsquo;m pretty excited about the Lisp revival, despite my having my own reasons not to prefer Lisp right now for my own programming.&lt;/p&gt;
+
+&lt;h2 id=&#34;ambrose-s-presentation&#34;&gt;Ambrose&amp;rsquo;s presentation&lt;/h2&gt;
+
+&lt;p&gt;I got lost during Ambrose&amp;rsquo;s presentation since the logic programming library &lt;a href=&#34;https://github.com/clojure/core.logic&#34;&gt;&lt;code&gt;core.logic&lt;/code&gt;&lt;/a&gt; is an embedded domain-specific language with its own look. One of the advantages of Lisp is that macros enable creating domain-specific languages; of course, this is also a disadvantage. If I wanted to understand &lt;code&gt;core.logic&lt;/code&gt;, I would have to go off on my own and study it and play around with it and probably even study its implementation.&lt;/p&gt;
+
+&lt;p&gt;This is how I felt also last month when I went to a &lt;a href=&#34;../../blog/2011/10/06/pittsburgh-ruby-building-a-compiler-in-jruby/&#34;&gt;Ruby meetup that also involved domain-specific languages&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pittsburgh software developer communities</title>
+      <link>http://franklinchen.com/blog/2011/10/16/pittsburgh-software-developer-communities/</link>
+      <pubDate>Sun, 16 Oct 2011 19:38:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2011/10/16/pittsburgh-software-developer-communities/</guid>
+      <description>&lt;p&gt;In the past couple of years, I started to get involved in various local Pittsburgh groups of people who are committed enough to the art and science of software development to actually meet up outside of work to share ideas and experiences. Now and then, there has been talk of bringing the different groups together for special events, to share even more (especially outside the boundaries of particular computer language communities), so I felt it was a good time for me to compile a list of the different groups whose meetings I have attended or at least have heard about.&lt;/p&gt;
+
+&lt;p&gt;I welcome additions and corrections as well as further discussion of this list. I will update the list upon feedback.&lt;/p&gt;
+
+&lt;p&gt;(Last update: 2011-10-18)&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;ruby&#34;&gt;Ruby&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://pghrb.org/&#34;&gt;Pittsburgh Ruby group&lt;/a&gt; is quite active. It has been meeting the first Thursday of every month at Vivisimo.&lt;/p&gt;
+
+&lt;p&gt;I have been attending this more as I finally started getting into Ruby in 2010.&lt;/p&gt;
+
+&lt;h2 id=&#34;python&#34;&gt;Python&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://pghpython.org/&#34;&gt;Pittsburgh Python group&lt;/a&gt; is also active. It has been meeting the fourth Wednesday of every month at Vivisimo.&lt;/p&gt;
+
+&lt;p&gt;There is a lot of use of Python for scientific computing, such as natural language processing and machine learning, among this community.&lt;/p&gt;
+
+&lt;p&gt;I do not attend this group&amp;rsquo;s meetings regularly because I currently only use Python to maintain an &lt;a href=&#34;http://www.scons.org/&#34;&gt;SCons&lt;/a&gt; script at work.&lt;/p&gt;
+
+&lt;h2 id=&#34;javascript&#34;&gt;JavaScript&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://www.meetup.com/Pittsburgh-JavaScript-Developers/&#34;&gt;Pittsburgh JavaScript meetup group&lt;/a&gt; only came into being in June 2011, thanks to &lt;a href=&#34;http://www.fusioncube.net/&#34;&gt;Steve Brownlee&lt;/a&gt;, who hosts the meetup at Smith Micro up in McCandless.&lt;/p&gt;
+
+&lt;p&gt;The group has been pretty active, despite the location.&lt;/p&gt;
+
+&lt;h2 id=&#34;jquery&#34;&gt;jQuery&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://www.jburgh.com/&#34;&gt;Pittsburgh jQuery user group&lt;/a&gt; is scheduled to meet once a month at &lt;a href=&#34;http://www.hackpittsburgh.org/&#34;&gt;HackPittsburgh&lt;/a&gt; in Uptown. However, I get the impression that it has not been meeting very regularly. I attended the meeting in March and another in August, but otherwise, have had to miss a meeting or there was none.&lt;/p&gt;
+
+&lt;p&gt;There has been some talk of merging with the JavaScript meetup group.&lt;/p&gt;
+
+&lt;h2 id=&#34;java&#34;&gt;Java&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://java.net/projects/pittjug/&#34;&gt;Pittsburgh Java User Group&lt;/a&gt; has been around for quite some time. It meets at the &lt;a href=&#34;http://www.pghtech.org/&#34;&gt;Pittsburgh Technology Council&lt;/a&gt; on Second Avenue. When there are meetings, they are announced on the mailing list and posted at the &lt;a href=&#34;http://www.pghtech.org/events/default.aspx&#34;&gt;pghtech calendar&lt;/a&gt; where one should register before attending.&lt;/p&gt;
+
+&lt;p&gt;PittJUG was more active in the past: I was attending fairly regularly in 2009 and 2010, but now meetings have been infrequent.&lt;/p&gt;
+
+&lt;p&gt;However, an experiment is about to begin to revitalize the group: on October 25, we&amp;rsquo;ll be trying an &lt;a href=&#34;http://www.pghgeekoutday.com/home/open-spaces&#34;&gt;Open Spaces&lt;/a&gt; format to take place of the old format that seemed to result in long presentations by people.&lt;/p&gt;
+
+&lt;h2 id=&#34;pittsburgh-geek-out-day&#34;&gt;Pittsburgh Geek Out Day&lt;/h2&gt;
+
+&lt;p&gt;Speaking of &lt;a href=&#34;http://www.pghgeekoutday.com/home/open-spaces&#34;&gt;Open Spaces&lt;/a&gt;, &lt;a href=&#34;http://www.pghgeekoutday.com/&#34;&gt;Pittsburgh Geek Out Day&lt;/a&gt; was created specifically to use that very format. There have been three &amp;ldquo;geek out day&amp;rdquo; meetings so far, in April, May, and August 2011. The first two involved blocking out a Saturday morning each, and the second was on a Wednesday evening, and I attended all three.&lt;/p&gt;
+
+&lt;p&gt;I am sold on the virtues of Open Spaces. The format of long presentations by people is, I think, usually quite inefficient of everyone&amp;rsquo;s time and attention. A lot of the users groups have moved toward &amp;ldquo;lightning talks&amp;rdquo;, which are definitely an improvement, but opening things up toward even more active participation by everyone was a revelation to me.&lt;/p&gt;
+
+&lt;p&gt;The next meeting of Pittsburgh Geek Out Day is November 5, so sign up if you haven&amp;rsquo;t been to one yet and can spare a Saturday morning!&lt;/p&gt;
+
+&lt;h2 id=&#34;agile&#34;&gt;Agile&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://www.meetup.com/PittsburghAgile/&#34;&gt;Pittsburgh Agile meetup group&lt;/a&gt; is fairly new, having its first meeting in April 2011. It has been meeting at &lt;a href=&#34;http://www.matrixformedia.com/&#34;&gt;Matrix Solutions&lt;/a&gt; on the North Shore and is active.&lt;/p&gt;
+
+&lt;p&gt;This group involves a mix of people who are developers as well as those who are managers, and of course, those who fall into both categories.&lt;/p&gt;
+
+&lt;h2 id=&#34;apple&#34;&gt;Apple&lt;/h2&gt;
+
+&lt;p&gt;Developers for Apple platforms, i.e., MacOS X and iOS, have a home at &lt;a href=&#34;http://cocoaheads.org/us/PittsburghPennsylvania/index.html&#34;&gt;CocoaHeads&lt;/a&gt;.  I have never been to their meetings, but have a friend who attends, and it seems to be pretty active.&lt;/p&gt;
+
+&lt;p&gt;It meets the third Thursday of every month at Smith Micro.&lt;/p&gt;
+
+&lt;h2 id=&#34;apple-ios&#34;&gt;Apple iOS&lt;/h2&gt;
+
+&lt;p&gt;There is an &lt;a href=&#34;http://www.meetup.com/iPhone-iPad-Mobile-App-Developers-Pittsburgh-Meetup/&#34;&gt;Pittsburgh Apple iOS meetup group&lt;/a&gt;, but I have not been to it.&lt;/p&gt;
+
+&lt;h2 id=&#34;clojure&#34;&gt;Clojure&lt;/h2&gt;
+
+&lt;p&gt;There is a &lt;a href=&#34;http://www.meetup.com/Clojure-PGH/&#34;&gt;Pittsburgh Clojure users group&lt;/a&gt; that used to meet, but I never made it to any of the meetings, and it seems to be inactive now.&lt;/p&gt;
+
+&lt;h2 id=&#34;coding-dojo&#34;&gt;Coding dojo&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://tech.groups.yahoo.com/group/PghCodingDojo/&#34;&gt;Pittsburgh Coding Dojo&lt;/a&gt; was active many years ago, but has been rather inactive recently. The last meeting I went to was in March 2011.&lt;/p&gt;
+
+&lt;h2 id=&#34;net&#34;&gt;.NET&lt;/h2&gt;
+
+&lt;p&gt;There is an active &lt;a href=&#34;http://pghdotnet.org/&#34;&gt;Pittsburgh .NET users group&lt;/a&gt;, but I have never been to any of its meetings.&lt;/p&gt;
+
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;I hope that this list will be useful to those who are already a member of one or more groups and interested in checking out the others, and perhaps in creating cross-group learning experiences and events.&lt;/p&gt;
+
+&lt;p&gt;Are there any other groups of interest that I am missing? Please let me know.&lt;/p&gt;
+
+&lt;p&gt;Also: since I have always taken notes for myself at each meeting of each user group that I have attended in the past couple of years (ha, I should have started blogging earlier, given my obsession with writing), if anyone is interested in any summaries or the like, let me know. So far, the only meeting I have written up for my blog has been a recent &lt;a href=&#34;../../blog/2011/10/14/agile-anti-patterns/&#34;&gt;Agile meetup on anti-patterns&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;updates&#34;&gt;Updates&lt;/h2&gt;
+
+&lt;h3 id=&#34;2011-10-18&#34;&gt;2011-10-18&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/akinsgre&#34;&gt;Greg&lt;/a&gt; reminded me to mention this useful calendar of &lt;a href=&#34;http://pghtechevents.com/&#34;&gt;Pittsburgh tech events&lt;/a&gt;. Some months ago, I subscribed to it using Google Calendar, and it really is quite helpful to have around.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

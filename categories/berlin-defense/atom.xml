@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Berlin Defense on Franklin Chen</title>
+    <link>http://franklinchen.com/categories/berlin-defense/atom/index.xml</link>
+    <description>Recent content in Berlin Defense on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/categories/berlin-defense/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>World Chess Championship 2013 round 8: the most boring game in the match so far</title>
+      <link>http://franklinchen.com/blog/2013/11/19/world-chess-championship-2013-round-8-the-most-boring-game-in-the-match-so-far/</link>
+      <pubDate>Tue, 19 Nov 2013 08:30:00 -0500</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/11/19/world-chess-championship-2013-round-8-the-most-boring-game-in-the-match-so-far/</guid>
+      <description>&lt;p&gt;In my continuing coverage of the &lt;a href=&#34;http://chennai2013.fide.com/&#34;&gt;World Chess Championship between Anand and Carlsen&lt;/a&gt;, today I cover round eight, in which apparently Carlsen took a break by playing safe for a quiet draw.&lt;/p&gt;
+
+&lt;p&gt;Game and notes below:&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;As White, Carlsen played e4 for the first time in the match. Anand countered with the Berlin Defense. Unfortunately, all hope that an interesting game with colors reversed from usual were dashed at move 5, which was implicitly a draw offer by Carlsen. Re1 is a completely harmless reply against the Berlin Defense, and leads to a lifeless position in which usually a series of trades leads to a drawn position.&lt;/p&gt;
+
+&lt;p&gt;Sure enough, Carlsen basically forced the draw quickly thereafter.&lt;/p&gt;
+
+&lt;p&gt;A total snorefest.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-state-of-the-match&#34;&gt;The state of the match&lt;/h3&gt;
+
+&lt;p&gt;Carlsen has every right to play for a draw and win the match based on his two-point lead. If Anand had been ready to fight for a win at all costs, he would not have played the Berlin Defense; he could have played the Sicilian instead, for example. I hope I&amp;rsquo;m wrong, but it&amp;rsquo;s looking like Anand may be going down without a fight, in fear of losing another game in the match.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-game&#34;&gt;The game&lt;/h2&gt;
+
+&lt;p&gt;&lt;link href=&#34;../../chess/pgn4web/template.css&#34; type=&#34;text/css&#34; rel=&#34;stylesheet&#34;&gt;&lt;/link&gt;&lt;/p&gt;
+
+&lt;style type=&#34;text/css&#34;&gt;
+  #GameLastComment {
+    font-style: italic
+  }
+&lt;/style&gt;
+
+&lt;script src=&#34;../../chess/pgn4web/pgn4web.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
+
+&lt;script type=&#34;text/javascript&#34;&gt;
+    &#34;use strict&#34;;
+
+    SetPgnUrl(&#34;/chess/anand-carlsen.pgn&#34;);
+    SetImagePath(&#34;/chess/pgn4web/images&#34;);
+    SetHighlightOption(true);
+    SetCommentsIntoMoveText(true);
+    SetCommentsOnSeparateLines(true);
+    SetInitialGame(8);
+    SetShortcutKeysEnabled(true);
+&lt;/script&gt;
+
+&lt;table&gt;
+    &lt;tr valign=&#34;top&#34;&gt;
+      &lt;td&gt;
+        &lt;div id=&#34;GameBoard&#34;&gt;&lt;/div&gt;
+        &lt;div id=&#34;GameButtons&#34;&gt;&lt;/div&gt;
+        &lt;span class=&#34;label&#34;&gt;Move comment:&lt;/span&gt;&lt;br&gt;&lt;span id=&#34;GameLastComment&#34;&gt;&lt;/span&gt;
+      &lt;/td&gt;
+
+      &lt;td&gt;
+        &lt;span class=&#34;label&#34;&gt;Event:&lt;/span&gt; &lt;span id=&#34;GameEvent&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Site:&lt;/span&gt; &lt;span id=&#34;GameSite&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Round:&lt;/span&gt; &lt;span id=&#34;GameRound&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Date:&lt;/span&gt; &lt;span id=&#34;GameDate&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;White:&lt;/span&gt; &lt;span id=&#34;GameWhite&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Black:&lt;/span&gt; &lt;span id=&#34;GameBlack&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Result:&lt;/span&gt; &lt;span id=&#34;GameResult&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Side to move:&lt;/span&gt; &lt;span id=&#34;GameSideToMove&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Last move:&lt;/span&gt; &lt;span id=&#34;GameLastMove&#34;&gt;&lt;/span&gt;&amp;nbsp; &lt;span class=&#34;label&#34;&gt;variations:&lt;/span&gt; &lt;span id=&#34;GameLastVariations&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Next move:&lt;/span&gt; &lt;span id=&#34;GameNextMove&#34;&gt;&lt;/span&gt;&amp;nbsp; &lt;span class=&#34;label&#34;&gt;variations:&lt;/span&gt; &lt;span id=&#34;GameNextVariations&#34;&gt;&lt;/span&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;hr/&gt;
+
+&lt;div id=&#34;GameText&#34;&gt;&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>World Chess Championship 2013 round 7: Anand catches his breath with a quiet game</title>
+      <link>http://franklinchen.com/blog/2013/11/18/world-chess-championship-2013-round-7-anand-catches-his-breath-with-a-quiet-game/</link>
+      <pubDate>Mon, 18 Nov 2013 19:31:52 -0500</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/11/18/world-chess-championship-2013-round-7-anand-catches-his-breath-with-a-quiet-game/</guid>
+      <description>&lt;p&gt;In my continuing coverage of the &lt;a href=&#34;http://chennai2013.fide.com/&#34;&gt;World Chess Championship between Anand and Carlsen&lt;/a&gt;, today I cover round seven, in which apparently Anand took a break by playing safe for a quiet draw.&lt;/p&gt;
+
+&lt;p&gt;Game and notes below:&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;As White, Anand played e4 yet again (I&amp;rsquo;m still waiting for d4, which he used effectively against Kramnik and Gelfand in past world championship matches), and as in round 4 and 6, Carlsen used the Berlin Defense. Anand played a quiet, unambitious anti-Berlin again with d3, as in round 6, but this time went for a delayed Exchange Variation, giving up the Bishop pair for doubling Black&amp;rsquo;s c Pawns. Nevertheless, this opening is considered harmless, and Carlsen chose a simple, effective plan that involved trading off his light Bishop for Anand&amp;rsquo;s Knight, and then after further simplifications, there was nothing left in the game and they created a draw by repetition.&lt;/p&gt;
+
+&lt;p&gt;The only interesting points in the game to me were the obvious opportunities Anand chose &lt;em&gt;not&lt;/em&gt; to take to try for more aggressive plans: playing g4 or playing fxe3. That he chose not to indicated that he was content to just get the game drawn and over with to stay safe and avoid creating complications that might allow him to lose.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-state-of-the-match&#34;&gt;The state of the match&lt;/h3&gt;
+
+&lt;p&gt;Anand is running out of time to catch up in the match, but may have bought some time to rest and recover psychologically from losing two games in a row.&lt;/p&gt;
+
+&lt;p&gt;Some people might criticize his failure to strike back immediately in this game, but if he knew himself and knew he was not ready, then it was the wise thing to do.&lt;/p&gt;
+
+&lt;p&gt;However, I believe that the next time he has White, Anand should switch away from opening with e4, to opening with d4 for the win, since it looks like Carlsen can easily neutralize e4.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-game&#34;&gt;The game&lt;/h2&gt;
+
+&lt;p&gt;&lt;link href=&#34;../../chess/pgn4web/template.css&#34; type=&#34;text/css&#34; rel=&#34;stylesheet&#34;&gt;&lt;/link&gt;&lt;/p&gt;
+
+&lt;style type=&#34;text/css&#34;&gt;
+  #GameLastComment {
+    font-style: italic
+  }
+&lt;/style&gt;
+
+&lt;script src=&#34;../../chess/pgn4web/pgn4web.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
+
+&lt;script type=&#34;text/javascript&#34;&gt;
+    &#34;use strict&#34;;
+
+    SetPgnUrl(&#34;/chess/anand-carlsen.pgn&#34;);
+    SetImagePath(&#34;/chess/pgn4web/images&#34;);
+    SetHighlightOption(true);
+    SetCommentsIntoMoveText(true);
+    SetCommentsOnSeparateLines(true);
+    SetInitialGame(7);
+    SetShortcutKeysEnabled(true);
+&lt;/script&gt;
+
+&lt;table&gt;
+    &lt;tr valign=&#34;top&#34;&gt;
+      &lt;td&gt;
+        &lt;div id=&#34;GameBoard&#34;&gt;&lt;/div&gt;
+        &lt;div id=&#34;GameButtons&#34;&gt;&lt;/div&gt;
+        &lt;span class=&#34;label&#34;&gt;Move comment:&lt;/span&gt;&lt;br&gt;&lt;span id=&#34;GameLastComment&#34;&gt;&lt;/span&gt;
+      &lt;/td&gt;
+
+      &lt;td&gt;
+        &lt;span class=&#34;label&#34;&gt;Event:&lt;/span&gt; &lt;span id=&#34;GameEvent&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Site:&lt;/span&gt; &lt;span id=&#34;GameSite&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Round:&lt;/span&gt; &lt;span id=&#34;GameRound&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Date:&lt;/span&gt; &lt;span id=&#34;GameDate&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;White:&lt;/span&gt; &lt;span id=&#34;GameWhite&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Black:&lt;/span&gt; &lt;span id=&#34;GameBlack&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Result:&lt;/span&gt; &lt;span id=&#34;GameResult&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Side to move:&lt;/span&gt; &lt;span id=&#34;GameSideToMove&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Last move:&lt;/span&gt; &lt;span id=&#34;GameLastMove&#34;&gt;&lt;/span&gt;&amp;nbsp; &lt;span class=&#34;label&#34;&gt;variations:&lt;/span&gt; &lt;span id=&#34;GameLastVariations&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Next move:&lt;/span&gt; &lt;span id=&#34;GameNextMove&#34;&gt;&lt;/span&gt;&amp;nbsp; &lt;span class=&#34;label&#34;&gt;variations:&lt;/span&gt; &lt;span id=&#34;GameNextVariations&#34;&gt;&lt;/span&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;hr/&gt;
+
+&lt;div id=&#34;GameText&#34;&gt;&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>World Chess Championship 2013, round 6: Carlsen wins the second game in a row when Anand blunders again in a drawn ending</title>
+      <link>http://franklinchen.com/blog/2013/11/16/world-chess-championship-2013-round-6-carlsen-wins-the-second-game-in-a-row-when-anand-blunders-again-in-a-drawn-ending/</link>
+      <pubDate>Sat, 16 Nov 2013 23:51:36 -0500</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/11/16/world-chess-championship-2013-round-6-carlsen-wins-the-second-game-in-a-row-when-anand-blunders-again-in-a-drawn-ending/</guid>
+      <description>&lt;p&gt;In my continuing coverage of the &lt;a href=&#34;http://chennai2013.fide.com/&#34;&gt;World Chess Championship between Anand and Carlsen&lt;/a&gt;, today I cover round six, in which Carlsen won the second game in a row.&lt;/p&gt;
+
+&lt;p&gt;Game and notes below:&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+
+&lt;h3 id=&#34;psychology-already-at-move-4&#34;&gt;Psychology already at move 4&lt;/h3&gt;
+
+&lt;p&gt;As White, Anand played e4 again, as in &lt;a href=&#34;../../blog/2013-11-13-world-chess-championship-2013-round-4-who-said-the-berlin-defense-was-boring/&#34;&gt;round 4&lt;/a&gt;, and Carlsen again used the Berlin Defense. Anand deviated by refusing to go into the Berlin ending that had gone badly for him in round 4, and chose with d3 to transpose into a line of the Closed &lt;a href=&#34;http://en.wikipedia.org/wiki/Ruy_Lopez&#34;&gt;Ruy Lopez&lt;/a&gt; that is considered to be not so challenging for Black because of the lack of a White d4.&lt;/p&gt;
+
+&lt;p&gt;Personally, I think this was a psychological error on Anand&amp;rsquo;s part, playing like Carlsen, avoiding the main aggressive opening lines. As we have seen in the match so far (and in Carlsen&amp;rsquo;s whole career), Carlsen is good at holding his own when the opening is harmless or even worse for him. By giving up the fight for an opening advantage, I think Anand gave up one of his advantages, that of superior opening preparation.&lt;/p&gt;
+
+&lt;h3 id=&#34;accumulating-small-weaknesses&#34;&gt;Accumulating small weaknesses&lt;/h3&gt;
+
+&lt;p&gt;Anand did not play the middlegame well. As in round 4, he used time-consuming Knight maneuvers that ended up simply allowing Carlsen to complete piece development with a harmonious setup. The result was a simplified position that looked like it should be a draw.&lt;/p&gt;
+
+&lt;p&gt;To my surprise, however, Anand kept on voluntarily accepting small weaknesses in his positions, first in the form of doubled e Pawns and then even isolated doubled e Pawns, when the most &amp;ldquo;natural&amp;rdquo; moves blocking up the position seemed safe and effective to hold for a draw.&lt;/p&gt;
+
+&lt;h3 id=&#34;blundering-a-pawn-away&#34;&gt;Blundering a Pawn away&lt;/h3&gt;
+
+&lt;p&gt;On the 38th move, Anand mysteriously blundered away a Pawn for no good reason whatsoever, in a position that seemed like it should be an easy blocked-up draw. This was a total shock to me. It made no sense whatsoever to me.&lt;/p&gt;
+
+&lt;h3 id=&#34;still-a-draw-but-carlsen-set-a-trap&#34;&gt;Still a draw, but Carlsen set a trap&lt;/h3&gt;
+
+&lt;p&gt;In the Rook and Pawn ending, it looked like the ending should still be a draw, but Carlsen kept playing and making progress on the King side. In fact, he abandoned his Queen side in order to attempt to win on the King side. It was a great winning try.&lt;/p&gt;
+
+&lt;p&gt;I will confess that while playing over the score at this point in the ending, I lost all confidence in my ability to really understand what was going on without computer aid. I turned on the chess engine to analyze the ending, and it&amp;rsquo;s really quite tricky. Even at a critical moment when the ending was still drawable by White, there is a large number of forcing lines that must be examined. In any case, what happened was that Anand fell into a trap in which Carlsen had a fine deflecting and clearance sacrifice that forced a win. Wow.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-state-of-the-match&#34;&gt;The state of the match&lt;/h3&gt;
+
+&lt;p&gt;Anand is in terrible, terrible trouble. It&amp;rsquo;s just that he has lost two games in a row, and almost certainly will not be able to make up the deficit in the remaining six games in the match. It&amp;rsquo;s the way he&amp;rsquo;s been losing: playing poorly in the middlegame in both rounds 5 and 6, then finally cracking and falling into difficult endings in which he failed to find the draws. He did in each game defend actively and resourcefully in the endings, with plans that should have worked, but each time he eventually blundered.&lt;/p&gt;
+
+&lt;p&gt;I hope Anand comes back to play well, regardless of the final outcome of the match, but right now, it looks like Carlsen is the one who has not made any blunders yet of the magnitude of Anand&amp;rsquo;s.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-game&#34;&gt;The game&lt;/h2&gt;
+
+&lt;p&gt;&lt;link href=&#34;../../chess/pgn4web/template.css&#34; type=&#34;text/css&#34; rel=&#34;stylesheet&#34;&gt;&lt;/link&gt;&lt;/p&gt;
+
+&lt;style type=&#34;text/css&#34;&gt;
+  #GameLastComment {
+    font-style: italic
+  }
+&lt;/style&gt;
+
+&lt;script src=&#34;../../chess/pgn4web/pgn4web.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
+
+&lt;script type=&#34;text/javascript&#34;&gt;
+    &#34;use strict&#34;;
+
+    SetPgnUrl(&#34;/chess/anand-carlsen.pgn&#34;);
+    SetImagePath(&#34;/chess/pgn4web/images&#34;);
+    SetHighlightOption(true);
+    SetCommentsIntoMoveText(true);
+    SetCommentsOnSeparateLines(true);
+    SetInitialGame(6);
+    SetShortcutKeysEnabled(true);
+&lt;/script&gt;
+
+&lt;table&gt;
+    &lt;tr valign=&#34;top&#34;&gt;
+      &lt;td&gt;
+        &lt;div id=&#34;GameBoard&#34;&gt;&lt;/div&gt;
+        &lt;div id=&#34;GameButtons&#34;&gt;&lt;/div&gt;
+        &lt;span class=&#34;label&#34;&gt;Move comment:&lt;/span&gt;&lt;br&gt;&lt;span id=&#34;GameLastComment&#34;&gt;&lt;/span&gt;
+      &lt;/td&gt;
+
+      &lt;td&gt;
+        &lt;span class=&#34;label&#34;&gt;Event:&lt;/span&gt; &lt;span id=&#34;GameEvent&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Site:&lt;/span&gt; &lt;span id=&#34;GameSite&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Round:&lt;/span&gt; &lt;span id=&#34;GameRound&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Date:&lt;/span&gt; &lt;span id=&#34;GameDate&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;White:&lt;/span&gt; &lt;span id=&#34;GameWhite&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Black:&lt;/span&gt; &lt;span id=&#34;GameBlack&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Result:&lt;/span&gt; &lt;span id=&#34;GameResult&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Side to move:&lt;/span&gt; &lt;span id=&#34;GameSideToMove&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Last move:&lt;/span&gt; &lt;span id=&#34;GameLastMove&#34;&gt;&lt;/span&gt;&amp;nbsp; &lt;span class=&#34;label&#34;&gt;variations:&lt;/span&gt; &lt;span id=&#34;GameLastVariations&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Next move:&lt;/span&gt; &lt;span id=&#34;GameNextMove&#34;&gt;&lt;/span&gt;&amp;nbsp; &lt;span class=&#34;label&#34;&gt;variations:&lt;/span&gt; &lt;span id=&#34;GameNextVariations&#34;&gt;&lt;/span&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;hr/&gt;
+
+&lt;div id=&#34;GameText&#34;&gt;&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>World Chess Championship 2013, round 4: who said the Berlin Defense was boring?</title>
+      <link>http://franklinchen.com/blog/2013/11/13/world-chess-championship-2013-round-4-who-said-the-berlin-defense-was-boring/</link>
+      <pubDate>Wed, 13 Nov 2013 21:49:28 -0500</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/11/13/world-chess-championship-2013-round-4-who-said-the-berlin-defense-was-boring/</guid>
+      <description>&lt;p&gt;In my continuing coverage of the &lt;a href=&#34;http://chennai2013.fide.com/&#34;&gt;World Chess Championship between Anand and Carlsen&lt;/a&gt;, today I cover round four, the most exciting and longest game of the match so far! Things are really heating up!&lt;/p&gt;
+
+&lt;p&gt;Game and notes below:&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;The game featured Carlsen as Black defending against Anand as White using the &amp;ldquo;infamous&amp;rdquo; Berlin Defense. I saw a bit more about the Berlin Defense in &lt;a href=&#34;../../blog/2013/11/13/the-exact-moment-i-fell-in-love-with-the-berlin-defense-for-black-in-chess/&#34;&gt;a companion post&lt;/a&gt;. Let&amp;rsquo;s just say that it has had a reputation as a &amp;ldquo;boring&amp;rdquo; defensive opening for Black.&lt;/p&gt;
+
+&lt;p&gt;But this game was hardly boring. Anand seemed to falter in the opening as White, embarking on time-consuming Knight maneuvers that seemed to give Carlsen time to neutralize any attacking ideas. But then Anand provocatively offered a Pawn sacrifice, which Carlsen did not actually need to accept, but did. Then Anand pushed Carlsen&amp;rsquo;s Bishop and Knight all the way back, in an attempt to just run him over with a thematic King side majority Pawn storm. The computer says this was not really sound, but it was &lt;em&gt;exciting&lt;/em&gt; to see an aggressive, risk-taking Anand for the first time in the match, after his cautious play in the first three rounds.&lt;/p&gt;
+
+&lt;p&gt;Carlsen came up with good counterplay, but in very complex positions, began faltering, and could not refute Anand&amp;rsquo;s play, even as Anand was fighting for his life. Anand sacrificed a second Pawn to continue the attack. That was an amazing idea to find! Carlsen finally faltered enough to allow Anand to achieve a drawn position. What an amazing game!&lt;/p&gt;
+
+&lt;p&gt;Warning: analyzing the game with a computer might give the wrong idea about whether Anand was lost or not during the game, because the positions are so complex that no human could have been expected under the circumstances (the game went for hours and hours) to calculate everything perfectly. From a practical point of view, Anand&amp;rsquo;s attacking ideas were definitely difficult to counter, and it is to both Carlsen&amp;rsquo;s credit and Anand&amp;rsquo;s that they played out this game to a fighting draw.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-state-of-the-match&#34;&gt;The state of the match&lt;/h3&gt;
+
+&lt;p&gt;I think the situation is about even now for both players. Anand has proved in this round that he is in fact able and willing to fight, and Carlsen has continued his tenacity.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-game&#34;&gt;The game&lt;/h2&gt;
+
+&lt;p&gt;&lt;link href=&#34;../../chess/pgn4web/template.css&#34; type=&#34;text/css&#34; rel=&#34;stylesheet&#34;&gt;&lt;/link&gt;&lt;/p&gt;
+
+&lt;style type=&#34;text/css&#34;&gt;
+  #GameLastComment {
+    font-style: italic
+  }
+&lt;/style&gt;
+
+&lt;script src=&#34;../../chess/pgn4web/pgn4web.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
+
+&lt;script type=&#34;text/javascript&#34;&gt;
+    &#34;use strict&#34;;
+
+    SetPgnUrl(&#34;/chess/anand-carlsen.pgn&#34;);
+    SetImagePath(&#34;/chess/pgn4web/images&#34;);
+    SetHighlightOption(true);
+    SetCommentsIntoMoveText(true);
+    SetCommentsOnSeparateLines(true);
+    SetInitialGame(4);
+    SetShortcutKeysEnabled(true);
+&lt;/script&gt;
+
+&lt;table&gt;
+    &lt;tr valign=&#34;top&#34;&gt;
+      &lt;td&gt;
+        &lt;div id=&#34;GameBoard&#34;&gt;&lt;/div&gt;
+        &lt;div id=&#34;GameButtons&#34;&gt;&lt;/div&gt;
+        &lt;span class=&#34;label&#34;&gt;Move comment:&lt;/span&gt;&lt;br&gt;&lt;span id=&#34;GameLastComment&#34;&gt;&lt;/span&gt;
+      &lt;/td&gt;
+
+      &lt;td&gt;
+        &lt;span class=&#34;label&#34;&gt;Event:&lt;/span&gt; &lt;span id=&#34;GameEvent&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Site:&lt;/span&gt; &lt;span id=&#34;GameSite&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Round:&lt;/span&gt; &lt;span id=&#34;GameRound&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Date:&lt;/span&gt; &lt;span id=&#34;GameDate&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;White:&lt;/span&gt; &lt;span id=&#34;GameWhite&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Black:&lt;/span&gt; &lt;span id=&#34;GameBlack&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Result:&lt;/span&gt; &lt;span id=&#34;GameResult&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Side to move:&lt;/span&gt; &lt;span id=&#34;GameSideToMove&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Last move:&lt;/span&gt; &lt;span id=&#34;GameLastMove&#34;&gt;&lt;/span&gt;&amp;nbsp; &lt;span class=&#34;label&#34;&gt;variations:&lt;/span&gt; &lt;span id=&#34;GameLastVariations&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Next move:&lt;/span&gt; &lt;span id=&#34;GameNextMove&#34;&gt;&lt;/span&gt;&amp;nbsp; &lt;span class=&#34;label&#34;&gt;variations:&lt;/span&gt; &lt;span id=&#34;GameNextVariations&#34;&gt;&lt;/span&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;hr/&gt;
+
+&lt;div id=&#34;GameText&#34;&gt;&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>The exact moment I fell in love with the Berlin Defense for Black in chess</title>
+      <link>http://franklinchen.com/blog/2013/11/13/the-exact-moment-i-fell-in-love-with-the-berlin-defense-for-black-in-chess/</link>
+      <pubDate>Wed, 13 Nov 2013 21:09:39 -0500</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/11/13/the-exact-moment-i-fell-in-love-with-the-berlin-defense-for-black-in-chess/</guid>
+      <description>&lt;p&gt;I have a confession to make.&lt;/p&gt;
+
+&lt;p&gt;For the last thirty years of my life, I have considered the &lt;a href=&#34;http://en.wikipedia.org/wiki/Ruy_Lopez#Berlin_Defence:_3...Nf6&#34;&gt;Berlin Defense&lt;/a&gt; in chess to be &lt;em&gt;boring&lt;/em&gt;. As a result, even as a child, I refused to play the main line as White, and I certainly never played it as Black. The quick Queenless middlegame that results from the main line did not appeal to me for &lt;em&gt;either&lt;/em&gt; side.&lt;/p&gt;
+
+&lt;p&gt;I didn&amp;rsquo;t play chess or follow chess news from around 1988 to 2004, so I returned to chess bewildered by the apparent popularity of the Berlin Defense among the world elite. I learned that Vladimir Kramnik had used it successfully as a &lt;em&gt;drawing&lt;/em&gt; weapon for Black against Garry Kasparov in 2000. Just hearing that made me even less interested in the opening for either color.&lt;/p&gt;
+
+&lt;h2 id=&#34;my-awakening&#34;&gt;My awakening&lt;/h2&gt;
+
+&lt;p&gt;But everything changed for me this year on April 17, when, while following the &lt;a href=&#34;http://chessimprover.com/&#34;&gt;Chess Improver blog&lt;/a&gt; (which &lt;a href=&#34;http://chessimprover.com/author/franklinc/&#34;&gt;I now contribute to&lt;/a&gt;), I saw an amusing post by GM Nigel Davies, &lt;a href=&#34;http://chessimprover.com/not-in-front-of-the-children/&#34;&gt;&amp;ldquo;Not In Front Of The Children&amp;rdquo;&lt;/a&gt;, in which he gave some amusing and brief annotations to a game from 1992 that, when I played over it, totally fascinated me, because it was so unusual that he was basically saying, young novice chess players might not understand what went on.&lt;/p&gt;
+
+&lt;p&gt;This was a game in which Black &lt;em&gt;won&lt;/em&gt;, not drew, with the Berlin Defense, and won in such fashion that I felt compelled to analyze the game for myself to see where exactly White had gone wrong. In analyzing the game, I felt I learned a lot about the subtleties of this defense, and even so, realized how just how much more there could possibly be to it, because of the obvious asymmetries between the two sides and the lack of Queens on the board.&lt;/p&gt;
+
+&lt;p&gt;I even discovered that there are even entire books devoted to the Berlin Defense, e.g., &lt;a href=&#34;http://www.qualitychess.co.uk/products/1/1/the_berlin_wall_-_by_john_cox/&#34;&gt;John Cox, &amp;ldquo;The Berlin Wall&amp;rdquo;, from 2008&lt;/a&gt; and &lt;a href=&#34;http://www.chess-stars.com/&#34;&gt;Igor Lysyj and Roman Ovetchkin, &amp;ldquo;The Berlin Defense&amp;rdquo;, from 2012&lt;/a&gt;. I have not read them, but the game I saw definitely led me to realize that what I thought was &lt;em&gt;boring&lt;/em&gt;, I simply &lt;em&gt;did not understand&lt;/em&gt;. When I understood more, I found it less boring.&lt;/p&gt;
+
+&lt;h2 id=&#34;why-i-am-writing-about-the-berlin-defense-now&#34;&gt;Why I am writing about the Berlin Defense now&lt;/h2&gt;
+
+&lt;p&gt;I offer my analysis of this old game below, as a supplement to my analysis of the recent exciting &lt;a href=&#34;../../blog/2013/11/13/world-chess-championship-2013-round-4-who-said-the-berlin-defense-was-boring/&#34;&gt;round 4 game of the World Chess Championship between Anand and Carlsen&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;White did not have a clear plan in this game, and wasted a lot of time on Knight maneuvers that led nowhere. Also, he weakened his Queen side. The result was that Black got play on both the Queen side and King side with an unusual pair of Rook lifts. A beautiful game to behold and study!&lt;/p&gt;
+
+&lt;h2 id=&#34;the-game&#34;&gt;The game&lt;/h2&gt;
+
+&lt;p&gt;&lt;link href=&#34;../../chess/pgn4web/template.css&#34; type=&#34;text/css&#34; rel=&#34;stylesheet&#34;&gt;&lt;/link&gt;&lt;/p&gt;
+
+&lt;style type=&#34;text/css&#34;&gt;
+  #GameLastComment {
+    font-style: italic
+  }
+&lt;/style&gt;
+
+&lt;script src=&#34;../../chess/pgn4web/pgn4web.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
+
+&lt;script type=&#34;text/javascript&#34;&gt;
+    &#34;use strict&#34;;
+
+    SetPgnUrl(&#34;/chess/berlin.pgn&#34;);
+    SetImagePath(&#34;/chess/pgn4web/images&#34;);
+    SetHighlightOption(true);
+    SetCommentsIntoMoveText(true);
+    SetCommentsOnSeparateLines(true);
+    SetInitialGame(1);
+    SetShortcutKeysEnabled(true);
+&lt;/script&gt;
+
+&lt;table&gt;
+    &lt;tr valign=&#34;top&#34;&gt;
+      &lt;td&gt;
+        &lt;div id=&#34;GameBoard&#34;&gt;&lt;/div&gt;
+        &lt;div id=&#34;GameButtons&#34;&gt;&lt;/div&gt;
+        &lt;span class=&#34;label&#34;&gt;Move comment:&lt;/span&gt;&lt;br&gt;&lt;span id=&#34;GameLastComment&#34;&gt;&lt;/span&gt;
+      &lt;/td&gt;
+
+      &lt;td&gt;
+        &lt;span class=&#34;label&#34;&gt;Event:&lt;/span&gt; &lt;span id=&#34;GameEvent&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Site:&lt;/span&gt; &lt;span id=&#34;GameSite&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Round:&lt;/span&gt; &lt;span id=&#34;GameRound&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Date:&lt;/span&gt; &lt;span id=&#34;GameDate&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;White:&lt;/span&gt; &lt;span id=&#34;GameWhite&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Black:&lt;/span&gt; &lt;span id=&#34;GameBlack&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Result:&lt;/span&gt; &lt;span id=&#34;GameResult&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Side to move:&lt;/span&gt; &lt;span id=&#34;GameSideToMove&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Last move:&lt;/span&gt; &lt;span id=&#34;GameLastMove&#34;&gt;&lt;/span&gt;&amp;nbsp; &lt;span class=&#34;label&#34;&gt;variations:&lt;/span&gt; &lt;span id=&#34;GameLastVariations&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Next move:&lt;/span&gt; &lt;span id=&#34;GameNextMove&#34;&gt;&lt;/span&gt;&amp;nbsp; &lt;span class=&#34;label&#34;&gt;variations:&lt;/span&gt; &lt;span id=&#34;GameNextVariations&#34;&gt;&lt;/span&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;hr/&gt;
+
+&lt;div id=&#34;GameText&#34;&gt;&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,605 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>Clever chess tactics that were not what they seemed &middot; Franklin Chen</title>
+
+  
+  <link rel="stylesheet" href="http://franklinchen.com/css/poole.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/hyde.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/poole-overrides.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/hyde-overrides.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/hyde-x.css">
+
+  <link rel="stylesheet" href="http://franklinchen.com/css/franklin.css">
+
+  <link rel="stylesheet" href="http://franklinchen.com/css/highlight/default.css">
+  <link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://franklinchen.com/touch-icon-144-precomposed.png">
+  <link href="http://franklinchen.com/favicon.png" rel="icon">
+
+  
+  
+  
+  
+
+  <meta name="description" content="Franklin Chen&#39;s personal Web site and blog">
+  <meta name="keywords" content="Franklin Chen, blog">
+  <link rel="author" href="http://plus.google.com/100967806642012078047">
+</head>
+<body class="theme-base-0e">
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      
+        
+        <h1>Franklin Chen</h1>
+        <p class="lead">Infinity in the palm of my hand.</p>
+    </div>
+
+    <ul class="sidebar-nav">
+      
+      <li class="sidebar-nav-item"><a href="http://franklinchen.com/contact/">Contact</a></li>
+      
+      <li class="sidebar-nav-item"><a href="http://ConscientiousProgrammer.com/">Programming blog</a></li>
+      <li class="sidebar-nav-item"><a href="http://chessimprover.com/author/franklinc/">Chess blog</a></li>
+      <li class="sidebar-nav-item"><a href="https://www.flickr.com/photos/franklinmingchen/">Photos</a></li>
+    </ul>
+
+    <ul class="sidebar-nav">
+      <li class="sidebar-nav-item">
+      <a href="https://github.com/FranklinChen"><i class="fa fa-github-square fa-3x"></i></a>
+      
+      
+      <a href="http://www.linkedin.com/in/franklinchen"><i class="fa fa-linkedin-square fa-3x"></i></a>
+      <a href="http://google.com/&#43;FranklinChen"><i class="fa fa-google-plus-square fa-3x"></i></a>
+      <a href="http://www.facebook.com/franklin.chen"><i class="fa fa-facebook-square fa-3x"></i></a>
+      <a href="http://twitter.com/franklinchen"><i class="fa fa-twitter-square fa-3x"></i></a>
+      <a href="http://www.youtube.com/user/FranklinChen"><i class="fa fa-youtube-square fa-3x"></i></a>
+      <a href="http://franklinchen.com/atom.xml" type="application/rss+xml"><i class="fa fa-rss-square fa-3x"></i></a>
+      </li>
+    </ul>
+
+    
+
+    <p>Copyright &copy; 2016 Franklin Chen<br/>
+       Powered by <a href="http://gohugo.io">Hugo</a> and <a href="https://github.com/zyro/hyde-x">Hyde-X</a></p>
+  </div>
+</div>
+
+
+<div class="content container">
+  <div class="post">
+    <h1>Clever chess tactics that were not what they seemed</h1>
+    
+
+<p>In round 3 of the current 6-round Pittsburgh Chess Club Tuesday night
+tournament, I played a very tense game that led to an unusual position
+with beautiful tactical possibilities. My opponent, Melih, is a strong
+player who is a winner of the 2015 Pittsburgh Chess Club Championship earlier
+this year, and had won the last two tournament games we have played,
+so I came into this game anxious and also thirsty for revenge.</p>
+
+<p>The game proved to be very challenging for both of us. I achieved a
+better position out of the opening as Black but was too cautious to
+press more aggressively. After more than 3 hours (!) of play, we ended
+up in a simplified late middlegame in which I had only a small but
+clear advantage. We were both clearly physically and mentally
+exhausted, and starting to run out of time (these tournament games
+have a time control of 2 hours per person with a 5-second delay per
+move). It was up to me to try to find a way to win by inducing errors
+in his play.</p>
+
+<h2 id="get-ready-to-be-quizzed">Get ready to be quizzed!</h2>
+
+<p>What ended up happening was in retrospect both remarkable and
+comic. To maximize your entertainment as well as challenge your
+tactical skills, I recommend pausing at each diagrammed position below
+in order to ask yourself what move you would play, and why, before
+gradually uncovering the whole story.</p>
+
+<p>Note: an interactive chess board with all variations is provided at
+the end of this article.</p>
+
+<h2 id="first-assess-a-quiet-looking-starting-position">First, assess a quiet-looking starting position</h2>
+
+<p>For context, here is the position after 21 moves, after Black played
+21&hellip;Qc6.</p>
+
+
+<figure >
+    
+        <img src="../../../../../chess/ozbek-chen-2015-11-17/22w.png" />
+    
+    
+    <figcaption>
+        <h4>21...Qc6; White to move</h4>
+        
+    </figcaption>
+    
+</figure>
+
+
+<h3 id="questions">Questions</h3>
+
+<ul>
+<li>What opening do you think this middlegame came from?</li>
+<li>Who stands better and why?</li>
+<li>What is White&rsquo;s best plan, and what is Black&rsquo;s best plan?</li>
+</ul>
+
+<h3 id="answers">Answers</h3>
+
+<p>Congratulations if you guessed this was a
+  <a href="https://en.wikipedia.org/wiki/French_Defence#Advance_Variation:_3.e5">French Defense, Advance Variation</a>,
+  gone totally wrong for White!</p>
+
+<p>Black stands better and has a simple plan:</p>
+
+<ul>
+<li>attack White&rsquo;s backward Pawn on c3 on the half-open file, and
+perhaps also the e5 Pawn as well; and the a2 Pawn and b4 Pawn are
+also potential targets</li>
+<li>use the half-open c-file for the Rooks, and the dark-squared Bishop
+against White&rsquo;s Pawns, and get the Queen involved as well</li>
+<li>using these attacks, overload White&rsquo;s defenses somehow in order to
+win at least one of those Pawns to enter a probably winning endgame</li>
+</ul>
+
+<p>White&rsquo;s only possible counter-plan:</p>
+
+<ul>
+<li>defend the weak Queen side Pawns</li>
+<li>maybe plant the Knight on a good outpost such as d4</li>
+<li>defend the Pawn on e5 with maybe an f4 advance, and hope to attack
+Black&rsquo;s King side with perhaps an f5 break</li>
+</ul>
+
+<h2 id="progress-after-seven-moves">Progress after seven moves?</h2>
+
+<p>Black has just played 28&hellip;Rc4.</p>
+
+
+<figure >
+    
+        <img src="../../../../../chess/ozbek-chen-2015-11-17/29w.png" />
+    
+    
+    <figcaption>
+        <h4>28...Rc4; White to move</h4>
+        
+    </figcaption>
+    
+</figure>
+
+
+<h3 id="questions-1">Questions</h3>
+
+<ul>
+<li>Who has made more progress in the last seven moves: White or Black?</li>
+<li>What is the nature of the progress made?</li>
+</ul>
+
+<h3 id="answers-1">Answers</h3>
+
+<p>White has played to wait to see what Black is up to; meanwhile, Black
+has made some progress on the Queen side by:</p>
+
+<ul>
+<li>doubling Rooks on the half-open c-file</li>
+<li>using the Queen to bear down on White&rsquo;s a-Pawn, which White has
+(mistakenly) advanced to a3.</li>
+</ul>
+
+<h2 id="white-played-a-surprising-move">White played a surprising move</h2>
+
+<p>White has just played 29 Rac2.</p>
+
+
+<figure >
+    
+        <img src="../../../../../chess/ozbek-chen-2015-11-17/29b.png" />
+    
+    
+    <figcaption>
+        <h4>29 Rac2; Black to move</h4>
+        
+    </figcaption>
+    
+</figure>
+
+
+<h3 id="questions-2">Questions</h3>
+
+<p>On the 29th move, White moved the Rook from a2 to c2, leaving the
+defense of the a3 Pawn.</p>
+
+<ul>
+<li>What is the meaning of this strange move?!</li>
+<li>Can Black just take the Pawn with the Queen?</li>
+</ul>
+
+<h3 id="answers-2">Answers</h3>
+
+<p>You may be thinking &ldquo;White is provocatively setting a trap for Black
+to fall into&rdquo;. You get credit if you can see the trap.</p>
+
+<h2 id="black-fell-into-a-trap">Black fell into a trap?</h2>
+
+<p>I played 29&hellip;Qxa3.</p>
+
+
+<figure >
+    
+        <img src="../../../../../chess/ozbek-chen-2015-11-17/30w.png" />
+    
+    
+    <figcaption>
+        <h4>29...Qxa3; White to move</h4>
+        
+    </figcaption>
+    
+</figure>
+
+
+<p>But wait, I took the Pawn! Did I fall into a trap?</p>
+
+<h3 id="questions-3">Questions</h3>
+
+<ul>
+<li>What is the trap you saw earlier, if you saw it?</li>
+<li>Is it really a trap?</li>
+</ul>
+
+<h2 id="white-closed-the-trap">White closed the trap?</h2>
+
+<p>White has played 30 Ra2.</p>
+
+
+<figure >
+    
+        <img src="../../../../../chess/ozbek-chen-2015-11-17/30b.png" />
+    
+    
+    <figcaption>
+        <h4>30 Ra2; Black to move</h4>
+        
+    </figcaption>
+    
+</figure>
+
+
+<h3 id="answers-3">Answers</h3>
+
+<p>So the Rook moved back to a2, apparently trapping Black&rsquo;s Queen. But
+again, was it really a trap?</p>
+
+<h2 id="black-refuted-the-trap">Black refuted the trap?</h2>
+
+<p>Black played 30&hellip;Rxd4.</p>
+
+
+<figure >
+    
+        <img src="../../../../../chess/ozbek-chen-2015-11-17/31w.png" />
+    
+    
+    <figcaption>
+        <h4>30...Rxd4; White to move</h4>
+        
+    </figcaption>
+    
+</figure>
+
+
+<p>You get credit if you saw this move taking White&rsquo;s Knight on d4, and
+saw that White&rsquo;s Queen is overloaded such that retaking the Rook in
+either one of two ways leads to losing back the Rook on c1 and
+therefore losing a piece overall and the game.</p>
+
+<p>I was very proud of seeing this tactic. (If you saw a different move
+for Black, we&rsquo;ll discuss that further down below.)</p>
+
+<h2 id="white-refuted-the-refutation">White refuted the refutation?</h2>
+
+<p>White played 31 Qc2.</p>
+
+
+<figure >
+    
+        <img src="../../../../../chess/ozbek-chen-2015-11-17/31b.png" />
+    
+    
+    <figcaption>
+        <h4>31 Qc2; Black to move</h4>
+        
+    </figcaption>
+    
+</figure>
+
+
+<p>When Melih moved his Queen to c2, I was in shock and disgust at
+myself: in my fatigue near the end of this game, and overexcitement at
+believing I had &ldquo;refuted&rdquo; a &ldquo;trap&rdquo;, I had completely failed to take
+into account that White was not actually required to take my Rook on d4!</p>
+
+<p>Amusingly, it turns out that Melih, after playing 29 Rac2 setting the
+&ldquo;trap&rdquo;, saw to his horror the resource 30&hellip;Rxd4, and thought he was
+lost, but then saw 31 Qc2. So neither of us had originally seen this
+saving resource for White.</p>
+
+<h3 id="questions-4">Questions</h3>
+
+<ul>
+<li>Is Black&rsquo;s Queen trapped for real now?</li>
+<li>What should Black do? Is Black lost? Or is Black still winning? Or
+should Black start looking for a draw?</li>
+</ul>
+
+<h2 id="black-panicked-trying-to-draw">Black panicked, trying to draw</h2>
+
+<p>Yes, Black&rsquo;s Queen is trapped for real. You get credit if you saw
+that Black&rsquo;s flashy 30&hellip;Rxd4 had this flaw.</p>
+
+<p>The only question for me was how best to give up my Queen.</p>
+
+<p>I chose poorly. In a daze, I could not think straight. I chose to give
+back a Rook with 31&hellip;Qxc3, in order to force a trade Queens on c3 and
+go into an endgame an exchange down for two Pawns, and hope for a draw.</p>
+
+
+<figure >
+    
+        <img src="../../../../../chess/ozbek-chen-2015-11-17/36w.png" />
+    
+    
+    <figcaption>
+        <h4>31...Qxc3; White to move</h4>
+        
+    </figcaption>
+    
+</figure>
+
+
+<p>I was correct that the resulting position was objectively equal and
+drawable, but in a time scramble, it&rsquo;s obviously easier to play White,
+and for the rest of the game, both sides made major errors (with White
+botching up winning positions and Black botching up drawn positions)
+until a simplified position was reached (Rook and two Pawns for each
+side) with only seconds left on the clock, and a draw agreed. I
+consider myself lucky to have drawn. The final position was:</p>
+
+
+<figure >
+    
+        <img src="../../../../../chess/ozbek-chen-2015-11-17/draw.png" />
+    
+    
+    <figcaption>
+        <h4>Agreed drawn</h4>
+        
+    </figcaption>
+    
+</figure>
+
+
+<h2 id="but-black-could-have-played-to-win">But Black could have played to win</h2>
+
+<p>You get credit if you chose instead to sacrifice the Queen with
+31&hellip;Qxc1+ to get the Rook and Bishop and Pawns against White&rsquo;s Queen,
+with advantage and a good chance of winning. After 32 Qxc1 Bxb4, Black
+is about to win White&rsquo;s c3 Pawn:</p>
+
+
+<figure >
+    
+        <img src="../../../../../chess/ozbek-chen-2015-11-17/33rooksw.png" />
+    
+    
+    <figcaption>
+        <h4>32...Bxb4; White to move</h4>
+        
+    </figcaption>
+    
+</figure>
+
+
+<p>In fact, if you saw all this when thinking about whether to take the
+Pawn on a3 in the first place, then you get bonus points for seeing a
+way to an advantage through the sequence of tactical blows. Neither
+Melih nor I saw any of this up front, unfortunately.</p>
+
+<p>I chickened out and did not take this continuation because after being
+shocked that my Queen was disappearing, I experienced a visceral fear
+that I needed to bring down White&rsquo;s Queen also, else it with White&rsquo;s
+Rook might be dangerous to my King.</p>
+
+<p>It turns out that my fear was objectively unwarranted, as Black&rsquo;s
+defenses are sufficient because of the power of the dark-squared
+Bishop to hit White&rsquo;s e5 Pawn and even the f2 Pawn, but I was not
+thinking straight any more as time was running out for the four-hour
+game and it was already around 11 PM at night on a weekday.</p>
+
+<h3 id="one-possible-position">One possible position</h3>
+
+<p>Here is a position that might have arisen if I had gone into this
+variation:</p>
+
+
+<figure >
+    
+        <img src="../../../../../chess/ozbek-chen-2015-11-17/35rooksw.png" />
+    
+    
+    <figcaption>
+        <h4>White to move</h4>
+        
+    </figcaption>
+    
+</figure>
+
+
+<p>The thing is, even though the computer says Black has an advantage, it
+could be scary playing against White&rsquo;s Queen.</p>
+
+<h3 id="another-possible-position">Another possible position</h3>
+
+<p>But analysis also shows that White has to be very careful. For
+example, if White is greedy and wastes time taking Black&rsquo;s a7 Pawn
+above, Black quickly gets a winning attack:</p>
+
+
+<figure >
+    
+        <img src="../../../../../chess/ozbek-chen-2015-11-17/37rooksw.png" />
+    
+    
+    <figcaption>
+        <h4>White to move</h4>
+        
+    </figcaption>
+    
+</figure>
+
+
+<p>In time pressure, anything can happen, and I think it would have been
+very likely that White would have grabbed the a7 Pawn, after which
+Black&rsquo;s position play itself.</p>
+
+<h2 id="finally-black-s-real-refutation">Finally: Black&rsquo;s real refutation!</h2>
+
+<p>I said you get extra credit for seeing everything to the point of
+sacrificing Black&rsquo;s Queen for an advantage. But you only get full
+credit if you saw the real refutation of White&rsquo;s &ldquo;trap&rdquo; earlier in the
+game! I kicked myself for not having seen it.</p>
+
+<h3 id="questions-5">Questions</h3>
+
+<ul>
+<li>Was there a point at which Black could have deviated and won the
+game outright?</li>
+<li>Hint: which of Black&rsquo;s pieces have we not focused on in the
+variations covered so far?</li>
+</ul>
+
+<h3 id="answers-4">Answers</h3>
+
+<p>Black could, after White &ldquo;trapped&rdquo; the Queen with 30 Ra2, used a
+different and better deflection of White&rsquo;s overloaded Queen than
+30&hellip;Rxd4, which was OK but not best.</p>
+
+<p>We haven&rsquo;t looked at Black&rsquo;s Bishop enough. I only saw this upon
+recovering from the draw and analyzing the game later at home: the
+winning shot is 30&hellip;Bg5!</p>
+
+
+<figure >
+    
+        <img src="../../../../../chess/ozbek-chen-2015-11-17/31varw.png" />
+    
+    
+    <figcaption>
+        <h4>White to move</h4>
+        
+    </figcaption>
+    
+</figure>
+
+
+<p>If White blocks the threat to the Queen with 31 f4,
+then Black just lops off the Pawn with 31&hellip;Bxf4 and now:</p>
+
+<ul>
+<li>if White takes the Bishop or otherwise moves the Queen, Black will
+win either the Rook on a2 or the Rook on c1</li>
+<li>if White takes Black&rsquo;s Queen, then Black takes White&rsquo;s Queen on d2
+with tempo and will eventually win all three of White&rsquo;s weak
+Pawns on dark squares (c3 followed by e5 and b4)</li>
+</ul>
+
+<p>Either way, the endgame is an easy win for Black.</p>
+
+<p>Neither Melih nor I saw this winning resource for Black during the
+game. We just weren&rsquo;t looking at that quiet Bishop because it hadn&rsquo;t
+participated in anything up till that point.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>Chess never ceases to surprise me. Tactical possibilities are
+everywhere, and in this game, both Melih and I missed various
+possible continuations, playing moves thinking we knew what had to
+follow. I hope you enjoyed this story of missed opportunities and
+incomplete calculations.</p>
+
+<p>My thanks to Melih for a challenging and fascinating game, and sharing
+his thoughts with me afterwards.</p>
+
+<p><a data-flickr-embed="true"  href="https://www.flickr.com/photos/franklinmingchen/23445261516/in/datetaken/" title="Melih and Franklin at the Pittsburgh Chess Club"><img src="https://farm1.staticflickr.com/589/23445261516_25ee07e170_z.jpg" width="640" height="480" alt="Franklin and Melih at the Pittsburgh Chess Club"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script></p>
+
+<h2 id="appendix-interactive-playable-board">Appendix: interactive playable board</h2>
+
+<script type="text/javascript"
+        src="http://chesstempo.com/js/pgnyui.js"></script>
+<script type="text/javascript"
+        src="http://chesstempo.com/js/pgnviewer.js"></script>
+<link
+     type="text/css"
+     rel="stylesheet"
+     href="http://chesstempo.com/css/board-min.css">
+</link>
+
+<script>
+    new PgnViewer(
+      { boardName: "demo",
+        pgnFile: '/chess/ozbek-chen-2015-11-17/ozbek-chen.pgn',
+        pieceSet: 'merida',
+        pieceSize: 46
+      }
+    );
+</script>
+
+<style>
+#demo-stuff {
+    display: flex;
+}
+
+#demo-moves {
+    overflow-y: auto;
+}
+</style>
+
+<div id="demo-stuff">
+<div id="demo-container"></div>
+<div id="demo-moves"></div>
+</div>
+
+    <div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'franklinchen';
+    var disqus_identifier = 'http:\/\/franklinchen.com\/blog\/2015\/11\/30\/clever-chess-tactics-that-were-not-what-they-seemed\/';
+    var disqus_title = 'Clever chess tactics that were not what they seemed';
+    var disqus_url = 'http:\/\/franklinchen.com\/blog\/2015\/11\/30\/clever-chess-tactics-that-were-not-what-they-seemed\/';
+
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+  </div>
+</div>
+<script src="http://franklinchen.com/js/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+</body>
+</html>
+

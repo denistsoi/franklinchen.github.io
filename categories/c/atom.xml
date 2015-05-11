@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>C on Franklin Chen</title>
+    <link>http://franklinchen.com/categories/c/atom/index.xml</link>
+    <description>Recent content in C on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/categories/c/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Revisiting Knuth and McIlroy&#39;s word count programs</title>
+      <link>http://franklinchen.com/blog/2011/12/08/revisiting-knuth-and-mcilroys-word-count-programs/</link>
+      <pubDate>Thu, 08 Dec 2011 21:46:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2011/12/08/revisiting-knuth-and-mcilroys-word-count-programs/</guid>
+      <description>&lt;p&gt;Today I came across a &lt;a href=&#34;http://www.leancrew.com/all-this/2011/12/more-shell-less-egg/&#34;&gt;blog post&lt;/a&gt; revisiting &lt;a href=&#34;http://en.wikipedia.org/wiki/Jon_Bentley&#34;&gt;Jon Bentley&lt;/a&gt;&amp;rsquo;s challenge in 1986 to &lt;a href=&#34;http://www-cs-staff.stanford.edu/~uno/&#34;&gt;Donald Knuth&lt;/a&gt; to write a &lt;a href=&#34;http://en.wikipedia.org/wiki/Literate_programming&#34;&gt;literate program&lt;/a&gt; to solve a sample task and have &lt;a href=&#34;http://www.cs.dartmouth.edu/~doug/&#34;&gt;Doug McIlroy&lt;/a&gt; critique it.&lt;/p&gt;
+
+&lt;p&gt;The task:&lt;/p&gt;
+
+&lt;blockquote&gt;
+Read a file of text, determine the n most frequently used words, and print out a sorted list of those words along with their frequencies.
+&lt;/blockquote&gt;
+
+&lt;p&gt;Knuth came up with a typically clever, lengthy, low-level implementation. McIlroy then somewhat perversely wrote a six-line shell script that did the job, basically changing the subject away from literate programming and toward a &lt;a href=&#34;http://www.princeton.edu/~hos/mike/transcripts/mcilroy.htm&#34;&gt;critique of Knuth&amp;rsquo;s doing something low-level and complicated when unnecessary&lt;/a&gt;. The article publishing both Knuth&amp;rsquo;s and McIlroy&amp;rsquo;s solutions is &lt;a href=&#34;http://dl.acm.org/citation.cfm?id=315654&#34;&gt;available here&lt;/a&gt;. A followup article with David Hanson&amp;rsquo;s implementation in C is &lt;a href=&#34;http://www.cs.upc.edu/~eipec/pdf/p583-van_wyk.pdf&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I decided to bring the discussion here a quarter of a century (25 years!) to the present. How would we solve the problem now?&lt;/p&gt;
+
+&lt;h2 id=&#34;update-of-2013-06-29&#34;&gt;(Update of 2013-06-29)&lt;/h2&gt;
+
+&lt;p&gt;I have changed my mind about many things I said here, and also have more clarifications and new arguments to make, which I will eventually post on my new programming blog, &lt;a href=&#34;http://ConscientiousProgrammer.com/&#34;&gt;The Conscientious Programmer&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;salient-points-of-mcilroy-s-solution&#34;&gt;Salient points of McIlroy&amp;rsquo;s solution&lt;/h2&gt;
+
+&lt;p&gt;First, let&amp;rsquo;s look at McIlroy&amp;rsquo;s solution, which despite the passing of time is still a beautifully elegant illustration of why &lt;a href=&#34;../../blog/2011/10/13/why-dennis-ritchie-is-important/&#34;&gt;Unix is timeless&lt;/a&gt;. (By the way, &lt;a href=&#34;http://www.informit.com/articles/article.aspx?p=1193856&#34;&gt;Knuth is a C and Linux user to this day&lt;/a&gt;).&lt;/p&gt;
+
+&lt;div class=&#34;highlight&#34; style=&#34;background: #f8f8f8&#34;&gt;&lt;pre style=&#34;line-height: 125%&#34;&gt;&lt;span&gt;&lt;/span&gt;tr -cs A-Za-z &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;#39;\n&amp;#39;&lt;/span&gt; |
+tr A-Z a-z |
+sort |
+uniq -c |
+sort -rn |
+sed &lt;span style=&#34;color: #BB6688; font-weight: bold&#34;&gt;${&lt;/span&gt;&lt;span style=&#34;color: #19177C&#34;&gt;1&lt;/span&gt;&lt;span style=&#34;color: #BB6688; font-weight: bold&#34;&gt;}&lt;/span&gt;q
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;The code is self-explanatory if you are familiar with basic Unix command-line tools. The pipeline just transforms data starting from standard input until the desired result is computed.&lt;/p&gt;
+
+&lt;p&gt;What is beautiful about the code is that it decomposes the solution to intuitively and does not require any mutable state. McIlroy&amp;rsquo;s program is a &lt;a href=&#34;http://en.wikipedia.org/wiki/Purely_functional&#34;&gt;purely functional&lt;/a&gt; program.&lt;/p&gt;
+
+&lt;h2 id=&#34;using-a-general-purpose-programming-language-instead&#34;&gt;Using a general-purpose programming language instead&lt;/h2&gt;
+
+&lt;p&gt;I thought to myself, how would I write the program today? Especially if I thought I would need to modify it, add new features? The shell script does the job for the problem as stated, but would clearly be hard to extend. Indeed, historically, &amp;ldquo;scripting languages&amp;rdquo; such as &lt;a href=&#34;http://en.wikipedia.org/wiki/AWK&#34;&gt;Awk&lt;/a&gt; were invented in order to do more than simple shell scripts were suitable for, and &lt;a href=&#34;http://www.perl.org/&#34;&gt;Perl&lt;/a&gt; was Larry Wall&amp;rsquo;s response to Awk, to create a truly general-purpose language.&lt;/p&gt;
+
+&lt;p&gt;Nowadays, in 2011, languages and libraries are at a sufficiently high level that a program almost as concise as McIlroy&amp;rsquo;s could be written in Perl, Ruby, Python, or even the latest versions of Java, C#, etc. I&amp;rsquo;ll leave that as an exercise for you (feel free to post your solutions as comments below).&lt;/p&gt;
+
+&lt;h3 id=&#34;haskell&#34;&gt;Haskell&lt;/h3&gt;
+
+&lt;p&gt;I present a simple program in &lt;a href=&#34;http://www.haskell.org/&#34;&gt;Haskell&lt;/a&gt; that I feel is closest to McIlroy&amp;rsquo;s both in spirit and in letter.&lt;/p&gt;
+
+&lt;p&gt;Here is my Haskell program, in two variants. The first is a standard source code file, while the second uses Haskell&amp;rsquo;s built-in support for its own notion of &amp;ldquo;literate programming&amp;rdquo;.&lt;/p&gt;
+
+&lt;script src=&#34;https://gist.github.com/1448622.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;I used &lt;a href=&#34;http://www.haskell.org/ghc/&#34;&gt;GHC&lt;/a&gt; to compile and run the program.  Sample output:&lt;/p&gt;
+
+&lt;div class=&#34;highlight&#34; style=&#34;background: #f8f8f8&#34;&gt;&lt;pre style=&#34;line-height: 125%&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span style=&#34;color: #000080; font-weight: bold&#34;&gt;$&lt;/span&gt; ghc -O6 --make WordCount
+&lt;span style=&#34;color: #000080; font-weight: bold&#34;&gt;$&lt;/span&gt; ./WordCount &lt;span style=&#34;color: #666666&#34;&gt;10&lt;/span&gt; &amp;lt; WordCount.lhs
+&lt;span style=&#34;color: #888888&#34;&gt;35 the&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;16 a&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;11 list&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;10 of&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;9 text&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;9 for&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;8 n&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;8 map&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;8 count&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;7 string&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Apart from missing leading spaces, this is the same output as from McIlroy&amp;rsquo;s shell script.&lt;/p&gt;
+
+&lt;p&gt;The literate program above explains each step of the Haskell &amp;ldquo;pipeline&amp;rdquo; I constructed.&lt;/p&gt;
+
+&lt;h2 id=&#34;why-i-don-t-do-literate-programming&#34;&gt;Why I don&amp;rsquo;t do literate programming&lt;/h2&gt;
+
+&lt;p&gt;I don&amp;rsquo;t currently use &amp;ldquo;literate programming&amp;rdquo; systems.&lt;/p&gt;
+
+&lt;p&gt;I experimented with programming in C and C++ and &lt;a href=&#34;http://en.wikipedia.org/wiki/Standard_ML&#34;&gt;Standard ML&lt;/a&gt; using &lt;a href=&#34;http://www.cs.tufts.edu/~nr/noweb/&#34;&gt;noweb&lt;/a&gt; over a decade ago, but found that for myself, it was not really beneficial.&lt;/p&gt;
+
+&lt;p&gt;There was little benefit in being able to rearrange code fragments at will. Furthermore, spreading code out interspersed with a lot of prose made it harder for me to actually &lt;a href=&#34;http://en.wikipedia.org/wiki/Chunking_(psychology)&#34;&gt;chunk&lt;/a&gt; meaning out of a spatial portion of text in my editor window.&lt;/p&gt;
+
+&lt;p&gt;Also, modern languages and programming styles make it much easier to express things concisely and less monolithically, such that I find that using ordinary comments suffices for my needs.&lt;/p&gt;
+
+&lt;p&gt;I find that literate programming in the Knuth style amounts to a macro system that distorts the layout of code.&lt;/p&gt;
+
+&lt;p&gt;Finally, literate programming interacts badly with editors and IDEs that are built specifically to operate on pure source code.&lt;/p&gt;
+
+&lt;p&gt;What do you think? Which of the variants of the same Haskell code above would you prefer to write, read, or maintain? The non-literate one or the literate one?&lt;/p&gt;
+
+&lt;h2 id=&#34;an-alternative-to-literate-programming&#34;&gt;An alternative to literate programming&lt;/h2&gt;
+
+&lt;p&gt;I should note that in practice, I would write suitable comments in a non-literate program primarily before the function definition. Also, I would not use such a large pipeline of expressions either: I would break out almost every line of the pipeline into its own little function, with its own comment. That is how I would actually write a nontrivial Haskell program, writing one or two line functions and testing each of them, before trying to hook them all up into a big pipeline.&lt;/p&gt;
+
+&lt;p&gt;I &amp;ldquo;cheated&amp;rdquo; in this case because McIlroy&amp;rsquo;s program already existed, so I simply translated it into a Haskell equivalent without real thought and testing.&lt;/p&gt;
+
+&lt;h2 id=&#34;comparison-between-the-shell-script-and-the-haskell-program&#34;&gt;Comparison between the shell script and the Haskell program&lt;/h2&gt;
+
+&lt;p&gt;The shell script operates on raw text and everything is just strings being parsed and reparsed by the respective Unix utility programs.&lt;/p&gt;
+
+&lt;p&gt;The Haskell program is &lt;em&gt;statically typed&lt;/em&gt;. It is type-checked by the compiler, which generates native code. The program uses standard libraries and data types, such as lists and hash maps.&lt;/p&gt;
+
+&lt;p&gt;Also, the Haskell program could be refined, extended, optimized in various ways. The most important optimizations I can think of off the top of my head:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Using a better representation of strings than the default built-in &amp;ldquo;string as list of characters&amp;rdquo;. Easily accessible advice can be found on &lt;a href=&#34;http://stackoverflow.com/questions/576213/efficient-string-implementation-in-haskell&#34;&gt;Stack Overflow&lt;/a&gt; and browsing through Haskell library documentation, such as for the &lt;a href=&#34;http://hackage.haskell.org/cgi-bin/hackage-scripts/package/text&#34;&gt;text&lt;/a&gt; package.&lt;/li&gt;
+&lt;li&gt;Loop fusion, &lt;a href=&#34;http://en.wikipedia.org/wiki/Deforestation_(computer_science)&#34;&gt;deforestation&lt;/a&gt; can be applied to deal with the &lt;em&gt;apparent&lt;/em&gt; allocation of lots of new lists in the pipeline. One of the selling points of using a language like Haskell is the opportunity for the compiler to perform radical optimizations that are impossible for languages that have side effects.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I don&amp;rsquo;t write many &lt;code&gt;bash&lt;/code&gt; scripts these days. General-purpose programming languages can do a decent job munging data without difficulty. The situation was different decades ago when there was C, and few standard high-level libraries for the C world.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I am skeptical of literate programming.&lt;/li&gt;
+&lt;li&gt;McIlroy was ahead of his time, but that time has passed; we should take his contributions as inspiration to move further forward already, using advanced general-purpose programming languages.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>RIP, John McCarthy; but Lisp will never die</title>
+      <link>http://franklinchen.com/blog/2011/10/25/rip-john-mccarthy-but-lisp-will-never-die/</link>
+      <pubDate>Tue, 25 Oct 2011 00:14:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2011/10/25/rip-john-mccarthy-but-lisp-will-never-die/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;(Updated 2012-01-16)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The legendary computer scientist &lt;a href=&#34;http://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)&#34;&gt;John McCarthy&lt;/a&gt; died yesterday. So there goes another guy without whom my life today would be unimaginably different: &lt;a href=&#34;../../blog/2011/10/05/i-cannot-imagine-my-life-without-the-influence-of-steve-jobs/&#34;&gt;Steve Jobs&lt;/a&gt; and &lt;a href=&#34;../../blog/2011/10/13/why-dennis-ritchie-is-important/&#34;&gt;Dennis Ritchie&lt;/a&gt; just left us this month!&lt;/p&gt;
+
+&lt;p&gt;In a way, more than Jobs, and more than Ritchie, McCarthy indirectly got me taking seriously the whole field of computing, and actually loving it.&lt;/p&gt;
+
+&lt;p&gt;Because I &lt;em&gt;never for a moment&lt;/em&gt; enjoyed computer programming until I discovered &lt;a href=&#34;http://en.wikipedia.org/wiki/Lisp_(programming_language)&#34;&gt;Lisp&lt;/a&gt;, the programming language that McCarthy invented and what he will surely be most remembered for most, among his other contributions to computer science.&lt;/p&gt;
+
+&lt;p&gt;My story of love and hate in computer programming:&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;i-hate-programming&#34;&gt;I hate programming&lt;/h2&gt;
+
+&lt;p&gt;I had finished my junior year of high school and was away from home for the first time in my life, attending the &lt;a href=&#34;http://www.cee.org/programs/rsi&#34;&gt;Research Science Institute&lt;/a&gt;(RSI), a free summer science program. There, I encountered a lot of very smart and already accomplished peers.&lt;/p&gt;
+
+&lt;p&gt;A new friend I made at the science program was into artificial intelligence (AI) (a term coined by John McCarthy, in fact), and programming in Lisp and Prolog. He ended up doing his summer project on expert systems. He had the books on &lt;a href=&#34;http://www.amazon.com/Artificial-Intelligence-Addison-Wesley-computer-science/dp/0201084546&#34;&gt;AI&lt;/a&gt; and &lt;a href=&#34;http://www.amazon.com/LISP-Patrick-Henry-Winston/dp/0201083728&#34;&gt;Lisp&lt;/a&gt; by Patrick Winston, and he and others raved about a book by &lt;a href=&#34;http://en.wikipedia.org/wiki/Douglas_Hofstadter&#34;&gt;Doug Hofstadter&lt;/a&gt; called &lt;a href=&#34;http://en.wikipedia.org/wiki/Gödel,_Escher,_Bach&#34;&gt;&lt;em&gt;Gödel, Escher, Bach&lt;/em&gt;&lt;/a&gt;(GEB). None of the books made any sense to me at the time, but I made a note to look them up after the summer.&lt;/p&gt;
+
+&lt;p&gt;Myself, I had gone to the program with vague ideas of doing something related to physics. I got assigned to work at the United States Geological Survey (USGS) under Allan Tanner. I was profoundly disappointed to find that I was assigned to write FORTRAN or something to control a plotter, because at this point in my life, I &lt;em&gt;hated&lt;/em&gt; computer programming!! I asked to do something else, and ended up digging holes in the ground to measure radon availability. I didn&amp;rsquo;t feel I accomplished anything really all summer, but was thanked in a paper he wrote later.&lt;/p&gt;
+
+&lt;p&gt;Wait, so I was interested in Lisp but hated programming? What was going on?&lt;/p&gt;
+
+&lt;p&gt;The science program had apparently thought I was interested in programming because I had just completed an Advanced Placement course in computer science in high school. It was a course based on Pascal. I left the course rather uninterested in programming. We learned about arrays, linked lists, hash tables, trees, searching, sorting, etc., and it was all very dry and abstract. The course was my least favorite of my junior year in high school. Before this course, I had been exposed to BASIC, COBOL, and FORTRAN, and these were even less appealing to me. So I had the picture of computing as drudgery for doing numerical calculations and generating reports.&lt;/p&gt;
+
+&lt;p&gt;Lisp seemed different. It didn&amp;rsquo;t even seem like &amp;ldquo;programming&amp;rdquo; in the same sense. I saw my peers firing up the Golden Common Lisp REPL on PCs and &lt;em&gt;interacting&lt;/em&gt; with data, creating lists, using atoms, doing &lt;em&gt;symbolic&lt;/em&gt; computation easily. At the time, I could not even make the connection between this kind of programming and anything I had learned in my Pascal-based high school course. There, linked lists took a lot to implement, and we learned about &lt;code&gt;new&lt;/code&gt; and &lt;code&gt;dispose&lt;/code&gt; and pointers. The effort to learn all this low-level stuff resulted in my never seeing from the course what much higher-level applications could be built on top.&lt;/p&gt;
+
+&lt;h2 id=&#34;again-i-still-hate-programming&#34;&gt;Again, I still hate programming&lt;/h2&gt;
+
+&lt;p&gt;Anyway, after I returned home, I started teaching myself Lisp, but didn&amp;rsquo;t get very far because a new interest overrode all others. This despite my also new interest in Lisp and AI, reading GEB and even having Doug Hofstadter autograph my copy of &lt;a href=&#34;http://en.wikipedia.org/wiki/Metamagical_Themas&#34;&gt;&lt;em&gt;Metamagical Themas&lt;/em&gt;&lt;/a&gt;, which had cute Lisp interludes.&lt;/p&gt;
+
+&lt;p&gt;At the science program I had heard peers raving about the &lt;a href=&#34;http://www.feynmanlectures.info/&#34;&gt;Feynman Lectures on Physics&lt;/a&gt;. To make a long story short, after returning home, I read as far as I could before my senior year in high school began, I fell in love with physics, took Advanced Placement physics, and ended up going to college majoring in physics.&lt;/p&gt;
+
+&lt;p&gt;Actually, freshman year in college, I considered taking the introductory computer science sequence, since a lot of my new friends (as well as friends I made at the Research Science Institute over a year earlier) did, but although the second semester involved cool-sounding Lisp projects, the first semester involved a language called &lt;a href=&#34;../../blog/2011/10/13/why-dennis-ritchie-is-important/&#34;&gt;C&lt;/a&gt;. Taking a quick look at Kernighan and Ritchie&amp;rsquo;s book, and the first homework assignment, I bailed out. The language looked like noise to me. It seemed worse than Pascal, far worse. As a result, I never took a computer science course as an undergraduate in college at all!&lt;/p&gt;
+
+&lt;h2 id=&#34;i-love-programming&#34;&gt;I love programming&lt;/h2&gt;
+
+&lt;p&gt;My physics journey ended in disaster. By my junior year, I was questioning the viability of my goal, in theoretical high energy physics, of working toward the &amp;ldquo;theory of everything&amp;rdquo;. String theory was getting popular, but I had no faith in it as a viable research program. I finished out my degree, and continued on to grad school hoping to do something else, but by the time I arrived, I had actually lost all interest in physics already. So I left after a year.&lt;/p&gt;
+
+&lt;p&gt;What next?&lt;/p&gt;
+
+&lt;p&gt;I needed to learn something else and find a job. I thought back to computer programming, especially since I was very excited about what Macs could do.  A friend of mine who had attended MIT recommended that I pick up &lt;a href=&#34;http://mitpress.mit.edu/sicp/&#34;&gt;&lt;em&gt;The Structure and Interpretation of Computer Programs&lt;/em&gt;&lt;/a&gt;(SICP) to really learn programming, before tackling C.  So I did.  This book used Lisp, or more precisely, MIT Scheme, a variant of Lisp. I got a used Mac SE/30, a free Scheme interpreter (Gambit, I think), and worked through the book.&lt;/p&gt;
+
+&lt;p&gt;Reading SICP was one of the most profound experiences of my entire life. A full review would require its own article. In any case, it made me love and understand programming, for the first time, really.&lt;/p&gt;
+
+&lt;p&gt;I can imagine books similar to SICP using more recent, sophisticated, statically typed languages such as ML, Haskell, or Scala, but the exposition would require more careful design, because Lisp&amp;rsquo;s macros and its &amp;ldquo;pun&amp;rdquo; of using S-expression syntax to represent abstract syntax make a lot of things easier.&lt;/p&gt;
+
+&lt;p&gt;(I did then go learn C and C++ and find a job. Later discovering ML and Haskell and loving programming even more, and continuing on from there to the present is many more stories.)&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Lisp is a very old language, half a century old, and I happen not to use it much these days (because given a choice, I prefer static types, I prefer syntactic sugar, and I dislike parentheses), but I predict it will survive forever, because the core is so elegant and self-contained.&lt;/p&gt;
+
+&lt;p&gt;Thank you, John McCarthy!&lt;/p&gt;
+
+&lt;h2 id=&#34;update-2012-01-16&#34;&gt;&lt;strong&gt;Update 2012-01-16&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;I wrote a companion post on &lt;a href=&#34;../../blog/2012/01/16/how-school-made-me-hate-computer-science-and-programming/&#34;&gt;my K-12 experiences with computing education&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;A near contemporary of mine, Natasha Chen (no relation), wrote an &lt;a href=&#34;http://www.eimacs.com/blog/2011/12/learn-computer-programming-without-complicated-syntax/&#34;&gt;article in 1992 on her experiences with computing education&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Why Dennis Ritchie Is Important</title>
+      <link>http://franklinchen.com/blog/2011/10/13/why-dennis-ritchie-is-important/</link>
+      <pubDate>Thu, 13 Oct 2011 18:35:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2011/10/13/why-dennis-ritchie-is-important/</guid>
+      <description>&lt;p&gt;I first heard of the death of &lt;a href=&#34;http://en.wikipedia.org/wiki/Dennis_Ritchie&#34;&gt;Dennis Ritchie&lt;/a&gt; yesterday, through a link (from Twitter or one of my blog feeds) to &lt;a href=&#34;http://en.wikipedia.org/wiki/Rob_Pike&#34;&gt;Rob Pike&lt;/a&gt;&amp;rsquo;s short &lt;a href=&#34;https://plus.google.com/u/0/101960720994009339267/posts/ENuEDDYfvKP&#34;&gt;announcement on Google+&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;(Rob Pike has &lt;a href=&#34;https://plus.google.com/u/0/101960720994009339267/posts/33mmANQZDtY&#34;&gt;another post&lt;/a&gt; up now.)&lt;/p&gt;
+
+&lt;p&gt;My first thought was, &amp;ldquo;I don&amp;rsquo;t even know when the last time was that he was in the media at all&amp;rdquo;. He was so private. In my entire career in computing, I barely remembered the &lt;a href=&#34;http://www.gotw.ca/publications/c_family_interview.htm&#34;&gt;occasional interview&lt;/a&gt; of him, since he never said anything outrageous or self-aggrandizing.&lt;/p&gt;
+
+&lt;p&gt;My second thought was, his impact on my life was profound, but in such a different way from the impact on my life by, say, Steve Jobs. Whereas Jobs by personal example and creation of consumer products inspired me to get into computing, Ritchie by his quiet contributions laid the very foundations for the work I actually do.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;c&#34;&gt;C&lt;/h2&gt;
+
+&lt;p&gt;Ritchie invented the programming language C, for one thing; C grew into the foundation of almost all programming in the computing industry. I was feeling slightly bad about just having recently poked a little bit of &lt;a href=&#34;../../blog/2011/10/04/a-blast-from-the-past-c-plus-plus-abuse/&#34;&gt;harmless fun&lt;/a&gt; at the C family of programming languages, given the importance of C, but remembered that Ritchie said it himself: &amp;ldquo;C is quirky, flawed, and an enormous success&amp;rdquo;. So succinct, this comment, just like C with its spare syntax!&lt;/p&gt;
+
+&lt;p&gt;C was not so easy for me to learn at first, but mastering it eventually gave me a sense of real power and a basis for understanding and using higher-level languages. I learned how to implement and tune data structures using C. I studied the assembly language generated by C compilers to understand assembly language, as well as understand how compilers work. When learning high-level languages such as &lt;a href=&#34;http://schemers.org/&#34;&gt;Scheme&lt;/a&gt;, I found it particularly useful to study the C code generated by some of the compilers for these languages. C was a &lt;em&gt;lingua franca&lt;/em&gt; for understanding how things worked, a low-level language that was just a step above machine language. The mental model provided by understanding C and how it compiles is surely a required part of a complete education of a programmer!&lt;/p&gt;
+
+&lt;p&gt;C will still be alive a century from now, even if higher-level languages supplant it for most uses.&lt;/p&gt;
+
+&lt;h2 id=&#34;unix&#34;&gt;Unix&lt;/h2&gt;
+
+&lt;p&gt;C was not invented in a vacuum. It was developed and refined by Ritchie in order to implement (along with Ken Thompson) the Unix operating system and complete programming environment. The world is profoundly indebted to Unix and its variants, of course. I have used some kind of Unix, happily, during my entire career. I have used a dozen Unix variants, from ULTRIX to SunOS to Apple&amp;rsquo;s A/UX to NetBSD to Linux, and finally to Apple&amp;rsquo;s Mac OS X, where my most important permanently open application is arguably Terminal (for the &lt;code&gt;bash&lt;/code&gt; command line)!&lt;/p&gt;
+
+&lt;p&gt;Some form of Unix will still be alive a century from now. Its basic ideas and ideals are timeless.&lt;/p&gt;
+
+&lt;h2 id=&#34;free-and-open-source-software-movement&#34;&gt;Free and open source software movement&lt;/h2&gt;
+
+&lt;p&gt;Finally, an entirely unintended consequence of Ritchie&amp;rsquo;s contributions to C and Unix was that they enabled the free software movement and the amazing community and products that developed from that movement. I have not only benefited from the availability of free software, but also I have been inspired by the sharing culture behind it, and live it every day. Even if Ritchie was not a direct part of it, the generous spirit in which he did his work and encouraged the spread of C and Unix outside Bell Labs somehow seems embedded permanently in the movement.&lt;/p&gt;
+
+&lt;p&gt;A century from now, Ritchie will still be remembered. I am sure of that.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>I Cannot Imagine My Life Without the Influence of Steve Jobs</title>
+      <link>http://franklinchen.com/blog/2011/10/05/i-cannot-imagine-my-life-without-the-influence-of-steve-jobs/</link>
+      <pubDate>Wed, 05 Oct 2011 21:39:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2011/10/05/i-cannot-imagine-my-life-without-the-influence-of-steve-jobs/</guid>
+      <description>&lt;p&gt;Steve Jobs is gone, tonight.&lt;/p&gt;
+
+&lt;p&gt;But he&amp;rsquo;s not really gone. Everything he did is with us. With me.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m typing this blog post on an early 2008 model MacBook.&lt;/p&gt;
+
+&lt;p&gt;I don&amp;rsquo;t like eulogies. But I have a few emotions right now.&lt;/p&gt;
+
+&lt;p&gt;Omitting mention of a couple of generations of other Macs I&amp;rsquo;ve owned: I became a programmer largely because his work showed that computers could be beautiful, useful, and liberating to ordinary human beings.&lt;/p&gt;
+
+&lt;p&gt;Steve Jobs altered my direction in life. I wrote my first Kernighan and Ritchie &lt;code&gt;hello world\n&lt;/code&gt; C program on a Mac Classic. I learned C++ on a Mac SE/30. I got my first job writing my resume on the SE/30.&lt;/p&gt;
+
+&lt;p&gt;Before that, I wrote my first Pascal program using MacPascal on the original 128K Macintosh in school.&lt;/p&gt;
+
+&lt;p&gt;Before that, I wrote BASIC programs on an Apple IIe, my first computer.&lt;/p&gt;
+
+&lt;p&gt;Skipping forward: at one point I bought an early PowerMac, but it was uninspiring: Apple had lost its way without Steve Jobs. I cursed Apple and abandoned it, bought a PC, and ran Linux for years. I never touched a Mac again until OS X came out. Steve Jobs was back!&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Steve Jobs was a programmer, an artist, a businessman, a philosopher, a psychologist, a salesman, a speechwriter, a fighter. He cared about beauty, about consistency, stuck to his visions, failed and succeeded and failed and succeeded. I live because humanity produces men like Steve Jobs.&lt;/p&gt;
+
+&lt;p&gt;That is all. Tomorrow is another day.&lt;/p&gt;
+
+&lt;h2 id=&#34;update-2011-10-25&#34;&gt;Update (2011-10-25)&lt;/h2&gt;
+
+&lt;p&gt;I write this short update to note that I never did get around to writing my intended in-depth discussion of Steve Jobs, but will do so at some point. For example, it was too close in time for me to launch into a personal exploration of the dark, negative sides of his legacy.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>A Blast From the Past: C&#43;&#43; Abuse</title>
+      <link>http://franklinchen.com/blog/2011/10/04/a-blast-from-the-past-c-plus-plus-abuse/</link>
+      <pubDate>Tue, 04 Oct 2011 21:23:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2011/10/04/a-blast-from-the-past-c-plus-plus-abuse/</guid>
+      <description>&lt;p&gt;Lately I&amp;rsquo;ve been seeing a lot of mention of the online book &lt;a href=&#34;http://c.learncodethehardway.org/&#34;&gt;&amp;ldquo;Learn C the Hard Way&amp;rdquo;&lt;/a&gt;, and how it quickly introduces and uses &lt;a href=&#34;http://valgrind.org/&#34;&gt;Valgrind&lt;/a&gt;. That brought back memories of the 1990s when I programmed in C, and then C++, and &lt;a href=&#34;http://en.wikipedia.org/wiki/SIGSEGV&#34;&gt;&lt;code&gt;SIGSEGV&lt;/code&gt;&lt;/a&gt; and &lt;code&gt;core&lt;/code&gt; were part of my daily life, as well as &lt;a href=&#34;http://en.wikipedia.org/wiki/Dbx_(debugger)&#34;&gt;&lt;code&gt;dbx&lt;/code&gt;&lt;/a&gt; and &lt;a href=&#34;http://www.gnu.org/s/gdb/&#34;&gt;&lt;code&gt;gdb&lt;/code&gt;&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;My most important tool, however, was Purify of &lt;a href=&#34;http://en.wikipedia.org/wiki/Pure_Software&#34;&gt;Pure Software&lt;/a&gt;. We were such good customers of Pure Software, using also Quantify, Pure Link, and Pure Coverage, that we got sent mugs, of which I still have one and drink water from daily!&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/pure-software-mug.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Pure Software mug&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;In the spirit of reminiscence about C and C++ programming, I hereby share my first code excerpt of this blog.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;script src=&#34;https://gist.github.com/1263372.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;I wrote up with this monstrosity (in less obfuscated form, admittedly) while learning C++ coming from a background of C (in conjunction with assembly language) and inspecting the output of &lt;code&gt;Cfront&lt;/code&gt;(&lt;a href=&#34;http://en.wikipedia.org/wiki/Cfront)-based&#34;&gt;http://en.wikipedia.org/wiki/Cfront)-based&lt;/a&gt; compilers we used (especially when the compilers failed with internal fatal errors or generated incorrect code, which sometimes happened).&lt;/p&gt;
+
+&lt;p&gt;If you are a seasoned C++ programmer, you can determine what this code does and why. Also, if you are a truly passionate C++ programmer, you may have wisdom about on which platforms this code actually works, and on which platforms it does not, etc. I welcome all clarifications and refutations!&lt;/p&gt;
+
+&lt;p&gt;If this code doesn&amp;rsquo;t make any sense to you, no matter: we are living in the age of Java, Python, Perl, Ruby, JavaScript, Clojure, Haskell, OCaml, Erlang, PHP, C#, and a hundred other languages in which you never have to deal with this kind of code.&lt;/p&gt;
+
+&lt;p&gt;I have to admit, though, that there was something cool about knowing how to do this kind of tinkering, just as it was useful to me once to know how to mess around with bit fields, little-endian versus big-endian, etc. Surely, if the world collapsed, &lt;a href=&#34;http://en.wikipedia.org/wiki/Duff&#39;s_device&#34;&gt;Duff&amp;rsquo;s device&lt;/a&gt; would still be a thing of beauty.&lt;/p&gt;
+
+&lt;h2 id=&#34;postscript&#34;&gt;Postscript&lt;/h2&gt;
+
+&lt;p&gt;According to the book&amp;rsquo;s &lt;a href=&#34;http://c.learncodethehardway.org/book/learn-c-the-hard-waych5.html#x10-290005]&#34;&gt;section on Valgrind&lt;/a&gt;, &amp;ldquo;As of Sep 4, 2011 there&amp;rsquo;s this bug in Valgrind on OSX Lion. It might take a little while for them to fix it, so be patient.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;So, if I were a beginner to C and wanted to work through this book, and used Mac OS, I would be stuck now! That reminds me of what life was like on a daily basis back in the day when I had to develop applications that were to run on ULTRIX, SunOS, Solaris, HP-UX, AIX, and VMS. Something somewhere was always broken at any given time and needed a workaround!&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

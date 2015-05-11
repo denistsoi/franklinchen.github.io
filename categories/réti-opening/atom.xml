@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Réti Opening on Franklin Chen</title>
+    <link>http://franklinchen.com/categories/r%C3%A9ti-opening/atom/index.xml</link>
+    <description>Recent content in Réti Opening on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/categories/r%C3%A9ti-opening/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>World Chess Championship 2013, round 3: a fighting game worth studying</title>
+      <link>http://franklinchen.com/blog/2013/11/12/world-chess-championship-2013-round-3-a-fighting-game-worth-studying/</link>
+      <pubDate>Tue, 12 Nov 2013 22:47:56 -0500</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/11/12/world-chess-championship-2013-round-3-a-fighting-game-worth-studying/</guid>
+      <description>&lt;p&gt;In my continuing coverage of the &lt;a href=&#34;http://chennai2013.fide.com/&#34;&gt;World Chess Championship between Anand and Carlsen&lt;/a&gt;, today I cover round three, an exciting fighting game well worth studying.&lt;/p&gt;
+
+&lt;p&gt;Game and notes below:&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;If you were bored by the &lt;a href=&#34;../../blog/2013/11/09/world-chess-championship-2013/&#34;&gt;first round&lt;/a&gt; and the &lt;a href=&#34;../../blog/2013/11/10/world-chess-championship-2013-round-2-declining-the-sacrifice/&#34;&gt;second round&lt;/a&gt; games, because the play in both games involved no major errors and therefore ended quickly in a draw, study this third round game, even though it too ended in a draw!&lt;/p&gt;
+
+&lt;p&gt;Carlsen opened with the unambitious &lt;a href=&#34;http://en.wikipedia.org/wiki/R%C3%A9ti_Opening&#34;&gt;Réti Opening&lt;/a&gt; yet again, and Anand was happy to repeat the &lt;a href=&#34;http://en.wikipedia.org/wiki/Gr%C3%BCnfeld_Defence&#34;&gt;Grünfeld Defense&lt;/a&gt; setup of round 1. Carlsen varied by a very quick c4 thrust against Anand&amp;rsquo;s d5 Pawn, but Anand played the most aggressive continuation, taking the Pawn, guaranteeing an asymmetrical Pawn structure and therefore a chance at fighting chess.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-ambitious-maróczy-bind&#34;&gt;The ambitious Maróczy Bind&lt;/h3&gt;
+
+&lt;p&gt;In fact, Anand aggressively adopted a reverse &lt;a href=&#34;http://en.wikipedia.org/wiki/Sicilian_Defence,_Dragon_Variation&#34;&gt;Dragon Sicilian Defense&lt;/a&gt; setup, with good long-term positional prospects as Black. Furthermore, he also quickly chose a plan to try to transform the position into a deadly reverse &lt;a href=&#34;http://en.wikipedia.org/wiki/Mar%C3%B3czy_Bind&#34;&gt;Maróczy Bind&lt;/a&gt; structure to squeeze Carlsen to death. Carlsen played inaccurately and in fact allowed Anand to adopt this structure.&lt;/p&gt;
+
+&lt;p&gt;If you are not familiar with the Maróczy Bind setup, check out a couple of my games in which I won using it, so you can see what can happen against weak defense:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../blog/2012/09/19/round-3-of-pittsburgh-chess-club-tournament-another-approach-against-the-sicilian-squeezing-with-the-bind/&#34;&gt;as White&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://chessimprover.com/the-value-of-thematic-complete-games-against-a-weaker-opponent/&#34;&gt;in reverse as Black&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;carlsen-s-defense&#34;&gt;Carlsen&amp;rsquo;s defense&lt;/h3&gt;
+
+&lt;p&gt;Carlsen decided that instead of risking being squeezed to death, he would lash out and sacrifice a Pawn to get some open lines and possibly get chances against Anand&amp;rsquo;s King in order to simplify to a draw. I&amp;rsquo;m not sure whether it was sound, and Anand may have been able to play more challengingly to win (I have not done the intensive computer analysis to draw a conclusion), but in the end Anand wound up allowing simplification and losing back the won Pawn with a dead drawn ending.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-state-of-the-match-carlsen-under-real-pressure&#34;&gt;The state of the match: Carlsen under real pressure&lt;/h3&gt;
+
+&lt;p&gt;This is now the &lt;em&gt;third game in a row in which Anand acquired an advantage out of the opening&lt;/em&gt;. And in each game, his advantage in the game has only grown. This trend is not at all good for Carlsen. He has been completely neutralized as Anand has consistently gained superior space and piece play. Carlsen had to fight hard for a draw in this game. As White in two games now, he has been playing the opening poorly, which one does not need to be a world class player to see. Is this rope-a-dope or what?&lt;/p&gt;
+
+&lt;p&gt;But what about Anand? Why did he keep on taking the safe way out to a draw in three games when he could have avoided &lt;em&gt;simplification&lt;/em&gt; each time in an attempt to win? If Anand plays cautiously when he has the advantage, what might happen if Carlsen starts playing differently and gets Anand&amp;rsquo;s back against the wall in a game?&lt;/p&gt;
+
+&lt;h2 id=&#34;the-game&#34;&gt;The game&lt;/h2&gt;
+
+&lt;p&gt;&lt;link href=&#34;../../chess/pgn4web/template.css&#34; type=&#34;text/css&#34; rel=&#34;stylesheet&#34;&gt;&lt;/link&gt;&lt;/p&gt;
+
+&lt;style type=&#34;text/css&#34;&gt;
+  #GameLastComment {
+    font-style: italic
+  }
+&lt;/style&gt;
+
+&lt;script src=&#34;../../chess/pgn4web/pgn4web.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
+
+&lt;script type=&#34;text/javascript&#34;&gt;
+    &#34;use strict&#34;;
+
+    SetPgnUrl(&#34;/chess/anand-carlsen.pgn&#34;);
+    SetImagePath(&#34;/chess/pgn4web/images&#34;);
+    SetHighlightOption(true);
+    SetCommentsIntoMoveText(true);
+    SetCommentsOnSeparateLines(true);
+    SetInitialGame(3);
+    SetShortcutKeysEnabled(true);
+&lt;/script&gt;
+
+&lt;table&gt;
+    &lt;tr valign=&#34;top&#34;&gt;
+      &lt;td&gt;
+        &lt;div id=&#34;GameBoard&#34;&gt;&lt;/div&gt;
+        &lt;div id=&#34;GameButtons&#34;&gt;&lt;/div&gt;
+        &lt;span class=&#34;label&#34;&gt;Move comment:&lt;/span&gt;&lt;br&gt;&lt;span id=&#34;GameLastComment&#34;&gt;&lt;/span&gt;
+      &lt;/td&gt;
+
+      &lt;td&gt;
+        &lt;span class=&#34;label&#34;&gt;Event:&lt;/span&gt; &lt;span id=&#34;GameEvent&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Site:&lt;/span&gt; &lt;span id=&#34;GameSite&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Round:&lt;/span&gt; &lt;span id=&#34;GameRound&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Date:&lt;/span&gt; &lt;span id=&#34;GameDate&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;White:&lt;/span&gt; &lt;span id=&#34;GameWhite&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Black:&lt;/span&gt; &lt;span id=&#34;GameBlack&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Result:&lt;/span&gt; &lt;span id=&#34;GameResult&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Side to move:&lt;/span&gt; &lt;span id=&#34;GameSideToMove&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Last move:&lt;/span&gt; &lt;span id=&#34;GameLastMove&#34;&gt;&lt;/span&gt;&amp;nbsp; &lt;span class=&#34;label&#34;&gt;variations:&lt;/span&gt; &lt;span id=&#34;GameLastVariations&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Next move:&lt;/span&gt; &lt;span id=&#34;GameNextMove&#34;&gt;&lt;/span&gt;&amp;nbsp; &lt;span class=&#34;label&#34;&gt;variations:&lt;/span&gt; &lt;span id=&#34;GameNextVariations&#34;&gt;&lt;/span&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;hr/&gt;
+
+&lt;div id=&#34;GameText&#34;&gt;&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>World Chess Championship 2013 Round 1: how to understand the short 16-move Carlsen-Anand draw</title>
+      <link>http://franklinchen.com/blog/2013/11/09/world-chess-championship-2013/</link>
+      <pubDate>Sat, 09 Nov 2013 12:00:33 -0500</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/11/09/world-chess-championship-2013/</guid>
+      <description>&lt;p&gt;In the much-anticipated first round of the &lt;a href=&#34;http://chennai2013.fide.com/&#34;&gt;World Chess Championship between Anand and Carlsen&lt;/a&gt;, the game ended in a very quick 16-move draw.&lt;/p&gt;
+
+&lt;p&gt;In accordance with &lt;a href=&#34;../../blog/2013/11/07/the-chess-improver-how-to-watch-the-anand-carlsen-world-chess-championship-to-improve-your-own-game/&#34;&gt;my own advice on ways to follow the match to maximize learning&lt;/a&gt;, today I saw the match result, downloaded a PGN file of the game score, and then walked through it &lt;em&gt;without&lt;/em&gt; a computer engine running, analyzing the game with my own mind as I replayed the game. Then I double-checked my thoughts with a chess engine. I still have not bothered to read or watch any coverage of this first-round game; I will do that later.&lt;/p&gt;
+
+&lt;p&gt;Game and notes below:&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;disappointment-in-a-short-draw&#34;&gt;Disappointment in a short draw?&lt;/h2&gt;
+
+&lt;p&gt;I&amp;rsquo;m sure a lot of people were disappointed by this short draw. But one has to realized exactly what happened.&lt;/p&gt;
+
+&lt;p&gt;Carlsen played the unambitious &lt;a href=&#34;http://en.wikipedia.org/wiki/R%C3%A9ti_Opening&#34;&gt;Réti Opening&lt;/a&gt; as White, presumably hoping to avoid special preparation by Anand. Anand neutralized the opening early on with simple development using a &lt;a href=&#34;http://en.wikipedia.org/wiki/Gr%C3%BCnfeld_Defence&#34;&gt;Grünfeld Defense&lt;/a&gt; setup. Carlsen attempted to place his remaining undeveloped piece, the Queen Knight, on a more active square than the more &amp;ldquo;natural&amp;rdquo; square that would have overprotected the c4 Pawn, but Anand punished this by immediately attacking the c4 Pawn, resulting in Carlsen basically having to play moves that enabled Anand to choose to repeat the position for a draw.&lt;/p&gt;
+
+&lt;p&gt;Carlsen had no choice but to take the draw or stand clearly worse, so he bailed out. The question then is, should Anand tried to continue playing for a win, since it was his choice to take the draw or not?&lt;/p&gt;
+
+&lt;p&gt;In a match situation at this level, typically the player as Black is quite happy to take a draw, so it made sense for Anand to do so. It was possible for Anand to not force the draw, at the cost of loosening up his own Queen side, but why play in this risky way, as defending champion?&lt;/p&gt;
+
+&lt;h2 id=&#34;the-game&#34;&gt;The game&lt;/h2&gt;
+
+&lt;p&gt;Below is the game with annotations. My task was made easy in this case because it was such a short and clear game, without much complexity. I hope it will be harder in subsequent games in the match!&lt;/p&gt;
+
+&lt;p&gt;&lt;link href=&#34;../../chess/pgn4web/template.css&#34; type=&#34;text/css&#34; rel=&#34;stylesheet&#34;&gt;&lt;/link&gt;&lt;/p&gt;
+
+&lt;style type=&#34;text/css&#34;&gt;
+  #GameLastComment {
+    font-style: italic
+  }
+&lt;/style&gt;
+
+&lt;script src=&#34;../../chess/pgn4web/pgn4web.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
+
+&lt;script type=&#34;text/javascript&#34;&gt;
+    &#34;use strict&#34;;
+
+    SetPgnUrl(&#34;/chess/anand-carlsen.pgn&#34;);
+    SetImagePath(&#34;/chess/pgn4web/images&#34;);
+    SetHighlightOption(true);
+    SetCommentsIntoMoveText(true);
+    SetCommentsOnSeparateLines(true);
+    SetInitialGame(1);
+    SetShortcutKeysEnabled(true);
+&lt;/script&gt;
+
+&lt;table&gt;
+    &lt;tr valign=&#34;top&#34;&gt;
+      &lt;td&gt;
+        &lt;div id=&#34;GameBoard&#34;&gt;&lt;/div&gt;
+        &lt;div id=&#34;GameButtons&#34;&gt;&lt;/div&gt;
+        &lt;span class=&#34;label&#34;&gt;Move comment:&lt;/span&gt;&lt;br&gt;&lt;span id=&#34;GameLastComment&#34;&gt;&lt;/span&gt;
+      &lt;/td&gt;
+
+      &lt;td&gt;
+        &lt;span class=&#34;label&#34;&gt;Event:&lt;/span&gt; &lt;span id=&#34;GameEvent&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Site:&lt;/span&gt; &lt;span id=&#34;GameSite&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Round:&lt;/span&gt; &lt;span id=&#34;GameRound&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Date:&lt;/span&gt; &lt;span id=&#34;GameDate&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;White:&lt;/span&gt; &lt;span id=&#34;GameWhite&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Black:&lt;/span&gt; &lt;span id=&#34;GameBlack&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Result:&lt;/span&gt; &lt;span id=&#34;GameResult&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Side to move:&lt;/span&gt; &lt;span id=&#34;GameSideToMove&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Last move:&lt;/span&gt; &lt;span id=&#34;GameLastMove&#34;&gt;&lt;/span&gt;&amp;nbsp; &lt;span class=&#34;label&#34;&gt;variations:&lt;/span&gt; &lt;span id=&#34;GameLastVariations&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Next move:&lt;/span&gt; &lt;span id=&#34;GameNextMove&#34;&gt;&lt;/span&gt;&amp;nbsp; &lt;span class=&#34;label&#34;&gt;variations:&lt;/span&gt; &lt;span id=&#34;GameNextVariations&#34;&gt;&lt;/span&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;hr/&gt;
+
+&lt;div id=&#34;GameText&#34;&gt;&lt;/div&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

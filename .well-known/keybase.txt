@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/franklinchen
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://franklinchen.com
+  * I am franklinchen (https://keybase.io/franklinchen) on keybase.
+  * I have a public key ASC6kx_wR4vaUUpMiyqKzL3tLPLAmm__zvu9DPbKwQhvygo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01010b786d269a66715d04a63bd77bff41f9493dab49309e08aa6d2cdb6ab43067af0a",
+            "host": "keybase.io",
+            "kid": "0120ba931ff0478bda514a4c8b2a8accbded2cf2c09a6fffcefbbd0cf6cac1086fca0a",
+            "uid": "6e2527bf0d45c7ab4ae2d7dbecf2b419",
+            "username": "franklinchen"
+        },
+        "service": {
+            "hostname": "franklinchen.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1489030769,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1489030765,
+        "hash": "fb166ec245ec59517865d138d32ee98b89d3a202bfff8d84a20124026fccd0955dc9e977a14cc5fada915280640641bef04b9d2b16bd63635632d32b1f8f4ad7",
+        "seqno": 947662
+    },
+    "prev": "ea76623d9ee8ecbd13d141d50c10fe9c7632d93e7aad08793becfbe3bd0a8efb",
+    "seqno": 17,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgupMf8EeL2lFKTIsqisy97SzywJpv/877vQz2ysEIb8oKp3BheWxvYWTFAvx7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxMGI3ODZkMjY5YTY2NzE1ZDA0YTYzYmQ3N2JmZjQxZjk0OTNkYWI0OTMwOWUwOGFhNmQyY2RiNmFiNDMwNjdhZjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYmE5MzFmZjA0NzhiZGE1MTRhNGM4YjJhOGFjY2JkZWQyY2YyYzA5YTZmZmZjZWZiYmQwY2Y2Y2FjMTA4NmZjYTBhIiwidWlkIjoiNmUyNTI3YmYwZDQ1YzdhYjRhZTJkN2RiZWNmMmI0MTkiLCJ1c2VybmFtZSI6ImZyYW5rbGluY2hlbiJ9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiZnJhbmtsaW5jaGVuLmNvbSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTgifSwiY3RpbWUiOjE0ODkwMzA3NjksImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ4OTAzMDc2NSwiaGFzaCI6ImZiMTY2ZWMyNDVlYzU5NTE3ODY1ZDEzOGQzMmVlOThiODlkM2EyMDJiZmZmOGQ4NGEyMDEyNDAyNmZjY2QwOTU1ZGM5ZTk3N2ExNGNjNWZhZGE5MTUyODA2NDA2NDFiZWYwNGI5ZDJiMTZiZDYzNjM1NjMyZDMyYjFmOGY0YWQ3Iiwic2Vxbm8iOjk0NzY2Mn0sInByZXYiOiJlYTc2NjIzZDllZThlY2JkMTNkMTQxZDUwYzEwZmU5Yzc2MzJkOTNlN2FhZDA4NzkzYmVjZmJlM2JkMGE4ZWZiIiwic2Vxbm8iOjE3LCJ0YWciOiJzaWduYXR1cmUifaNzaWfEQEBdbkpsfLlgxSXsQ0joEzDFSDdkdgmGMiFtVLZ0282FvkECm4IoqwoB9EnbVj+ueTBWMIFCbW6MEpd8QhrGMwqoc2lnX3R5cGUgpGhhc2iCpHR5cGUIpXZhbHVlxCC5FcOK+2Isdne6QqOs3RkPI8F/O5/IDeIhQ65KG6FC4aN0YWfNAgKndmVyc2lvbgE=
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/franklinchen
+
+==================================================================

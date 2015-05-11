@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>The real reason for the CoffeeScript/JavaScript flame war &middot; Franklin Chen</title>
+
+  
+  <link rel="stylesheet" href="http://franklinchen.com/css/poole.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/hyde.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/poole-overrides.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/hyde-overrides.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/hyde-x.css">
+
+  <link rel="stylesheet" href="http://franklinchen.com/css/franklin.css">
+
+  <link rel="stylesheet" href="http://franklinchen.com/css/highlight/default.css">
+  <link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://franklinchen.com/touch-icon-144-precomposed.png">
+  <link href="http://franklinchen.com/favicon.png" rel="icon">
+
+  
+  
+  
+  
+
+  <meta name="description" content="Franklin Chen&#39;s personal Web site and blog">
+  <meta name="keywords" content="Franklin Chen, blog">
+  <link rel="author" href="http://plus.google.com/100967806642012078047">
+</head>
+<body class="theme-base-0e">
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      
+        
+        <h1>Franklin Chen</h1>
+        <p class="lead">Infinity in the palm of my hand.</p>
+    </div>
+
+    <ul class="sidebar-nav">
+      
+      <li class="sidebar-nav-item"><a href="http://franklinchen.com/contact/">Contact</a></li>
+      
+      <li class="sidebar-nav-item"><a href="http://ConscientiousProgrammer.com/">Programming blog</a></li>
+      <li class="sidebar-nav-item"><a href="http://chessimprover.com/author/franklinc/">Chess blog</a></li>
+      <li class="sidebar-nav-item"><a href="https://www.flickr.com/photos/franklinmingchen/">Photos</a></li>
+    </ul>
+
+    <ul class="sidebar-nav">
+      <li class="sidebar-nav-item">
+      <a href="https://github.com/FranklinChen"><i class="fa fa-github-square fa-3x"></i></a>
+      
+      
+      <a href="http://www.linkedin.com/in/franklinchen"><i class="fa fa-linkedin-square fa-3x"></i></a>
+      <a href="http://google.com/&#43;FranklinChen"><i class="fa fa-google-plus-square fa-3x"></i></a>
+      <a href="http://www.facebook.com/franklin.chen"><i class="fa fa-facebook-square fa-3x"></i></a>
+      <a href="http://twitter.com/franklinchen"><i class="fa fa-twitter-square fa-3x"></i></a>
+      <a href="http://www.youtube.com/user/FranklinChen"><i class="fa fa-youtube-square fa-3x"></i></a>
+      <a href="http://franklinchen.com/atom.xml" type="application/rss+xml"><i class="fa fa-rss-square fa-3x"></i></a>
+      </li>
+    </ul>
+
+    
+
+    <p>Copyright &copy; 2016 Franklin Chen<br/>
+       Powered by <a href="http://gohugo.io">Hugo</a> and <a href="https://github.com/zyro/hyde-x">Hyde-X</a></p>
+  </div>
+</div>
+
+
+<div class="content container">
+  <div class="post">
+    <h1>The real reason for the CoffeeScript/JavaScript flame war</h1>
+    
+
+<p>I have been slightly (but not entirely) surprised by the current flame war over the programming languages <a href="http://www.w2lessons.com/2011/11/coffeescript-means-giving-up-on.html">CoffeeScript versus JavaScript</a>. Michael Woloszynowicz finds the rise of <a href="http://coffeescript.org/">CoffeeScript</a> &ldquo;alarming&rdquo;. He gives possible reasons people are interested in CoffeeScript and possible pitfalls in choosing to use it rather than straight JavaScript.</p>
+
+<p>I believe that all that is happening is simply a repeat of history, with a small twist.</p>
+
+<h2 id="c">C</h2>
+
+<p>Once upon a time, there was a guy named <a href="http://www2.research.att.com/~bs/">Bjarne Stroustrup</a> who found himself frustrated with the C programming language. Not only were there various flaws in C (some small, some large), but also it was frustrating writing, in a standard way, object-oriented programs. To be sure, there were very well-known idioms for writing C programs in an object-oriented way. But repeatedly using idioms, manually, can get frustrating.</p>
+
+<h3 id="c-with-classes-then-c">C with Classes, then C++</h3>
+
+<p>Stroustrup created a compiler for an extension of C called &ldquo;C with Classes&rdquo;. The compiler was called <code>cfront</code> and compiled the new language to C, which was then simply compiled with any suitable C compiler. Eventually, the extension of C was called C++.</p>
+
+<p>Stroustrup took care to design the language so that syntactically, almost every valid C program was also a valid C++ program.</p>
+
+<p>C++ became very popular, although to this day there are many programmers who have refused to use C++, for a variety of reasons. Many of those reasons are the reasons Woloszynowicz gives for being skeptical of CoffeeScript. For example, even though C++ is &ldquo;higher level&rdquo;, in actuality you have to know the low-level aspects of C in order to really understand C++. Also, there are programmers who don&rsquo;t use C++ very well and are better off having stuck to C longer, to have mastered the C parts of C++ before going for all the advanced features of inheritance and templates and exceptions, etc.</p>
+
+<h3 id="example-of-c-versus-c">Example of C versus C++</h3>
+
+<p>To illustrate how C++ can be considered an extension of C, compare the handwritten implementation of inheritance in C with that provided by C++:</p>
+
+<script src="https://gist.github.com/1344060.js"></script>
+
+
+<p>(For amusement, see how knowing the low levels of C can enable <a href="../../../../../blog/2011/10/04/a-blast-from-the-past-c-plus-plus-abuse/">doing abusive things in C++</a>.)</p>
+
+<h2 id="javascript-to-coffeescript">JavaScript to CoffeeScript</h2>
+
+<p>The debate over JavaScript versus CoffeeScript has some similarities to the debate between C and C++. CoffeeScript does some things to &ldquo;fix&rdquo; issues in JavaScript:</p>
+
+<ul>
+<li>Like C++, CoffeeScript changes some matters in variable scoping from the original language.</li>
+<li>Like C++, CoffeeScript introduces &ldquo;classes&rdquo; and expands them to a very idiomatic pattern that one could have written out by hand in the original language (in the case of CoffeeScript, classes just implement one way to use JavaScript&rsquo;s prototypes).</li>
+<li>Like C++, CoffeeScript makes some changes with function definitions. C++ introduced a new syntax for parameters, while CoffeeScript is more radical and forces the programmer to define functions in lambda-style syntax.</li>
+</ul>
+
+<h2 id="the-power-of-syntax">The power of syntax</h2>
+
+<p>However, I believe that the real reason for the uproar over JavaScript versus CoffeeScript is that CoffeeScript makes huge syntax changes to the original language.</p>
+
+<p>C++ made as few syntax changes as possible (until rather recently, for this year&rsquo;s <a href="http://en.wikipedia.org/wiki/C%2B%2B11">C++11 standard</a>; but I believe C will borrow some syntax changes back, as it has done in the past, e.g., with ANSI function prototypes and <code>bool</code>). In fact, Stroustrup would have liked to change C&rsquo;s type declarator syntax, but didn&rsquo;t because of his mission to change C syntax as little as possible.</p>
+
+<p>Ironically, semantically CoffeeScript is much more of a &ldquo;preprocessor&rdquo; to JavaScript than C++ is to C. I don&rsquo;t really consider CoffeeScript a new language, whereas I do consider C++ to be a new language.</p>
+
+<p>I think the uneasiness some feel toward CoffeeScript, as well as the excitement others feel, comes from the <em>illusion</em> that CoffeeScript is something new and hip and radical.</p>
+
+<p>Imagine if CoffeeScript had been designed to be maximally compatible syntactically with JavaScript. I don&rsquo;t think there would be as much of an uproar if CoffeeScript had the appearance of being a simple extension of JavaScript, keeping all the braces and parentheses and only introducing extra syntax that was unobtrusive. In fact, suppose the language were then called JavaScript++, with the promise that except for things like variable scope semantics, most valid JavaScript programs were also valid JavaScript++ programs.</p>
+
+<p>I believe (from anecdotal praise I have heard from converts) that the excitement over syntax is responsible for much enthusiasm for CoffeeScript, and I suppose I do share Woloszynowicz&rsquo;s concern that those looking for shiny new syntax might miss that anyone who is a serious CoffeeScript programmer <em>must</em> master the underlying JavaScript and cannot consider CoffeeScript a standalone distinct higher-level language.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>I don&rsquo;t see any special reason to be alarmed by the rise of CoffeeScript. Some people will enjoy and use well the features of it, and others will botch it up. But there is no threat to JavaScript. If anything, because CoffeeScript has such an obvious translation into JavaScript, CoffeeScript can only solidify the JavaScript world by bringing in extra enthusiasm from those who use it effectively.</p>
+
+<h3 id="update-of-2013-02-12">(Update of 2013-02-12)</h3>
+
+<p>Martin Fowler wrote about JavaScript and CoffeeScript in the context of what he calls the phenomenon of <a href="http://martinfowler.com/bliki/TransparentCompilation.html">transparent compilation</a>. He says that personally, he prefers to write CoffeeScript.</p>
+
+    <div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'franklinchen';
+    var disqus_identifier = 'http:\/\/franklinchen.com\/blog\/2011\/11\/06\/the-real-reason-for-the-coffeescript-slash-javascript-flame-war\/';
+    var disqus_title = 'The real reason for the CoffeeScript\/JavaScript flame war';
+    var disqus_url = 'http:\/\/franklinchen.com\/blog\/2011\/11\/06\/the-real-reason-for-the-coffeescript-slash-javascript-flame-war\/';
+
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+  </div>
+</div>
+<script src="http://franklinchen.com/js/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+</body>
+</html>
+

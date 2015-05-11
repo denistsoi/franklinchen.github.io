@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>Pittsburgh Python meetup: I gave my first lightning talk ever; the topic was SCons &middot; Franklin Chen</title>
+
+  
+  <link rel="stylesheet" href="http://franklinchen.com/css/poole.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/hyde.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/poole-overrides.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/hyde-overrides.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/hyde-x.css">
+
+  <link rel="stylesheet" href="http://franklinchen.com/css/franklin.css">
+
+  <link rel="stylesheet" href="http://franklinchen.com/css/highlight/default.css">
+  <link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://franklinchen.com/touch-icon-144-precomposed.png">
+  <link href="http://franklinchen.com/favicon.png" rel="icon">
+
+  
+  
+  
+  
+
+  <meta name="description" content="Franklin Chen&#39;s personal Web site and blog">
+  <meta name="keywords" content="Franklin Chen, blog">
+  <link rel="author" href="http://plus.google.com/100967806642012078047">
+</head>
+<body class="theme-base-0e">
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      
+        
+        <h1>Franklin Chen</h1>
+        <p class="lead">Infinity in the palm of my hand.</p>
+    </div>
+
+    <ul class="sidebar-nav">
+      
+      <li class="sidebar-nav-item"><a href="http://franklinchen.com/contact/">Contact</a></li>
+      
+      <li class="sidebar-nav-item"><a href="http://ConscientiousProgrammer.com/">Programming blog</a></li>
+      <li class="sidebar-nav-item"><a href="http://chessimprover.com/author/franklinc/">Chess blog</a></li>
+      <li class="sidebar-nav-item"><a href="https://www.flickr.com/photos/franklinmingchen/">Photos</a></li>
+    </ul>
+
+    <ul class="sidebar-nav">
+      <li class="sidebar-nav-item">
+      <a href="https://github.com/FranklinChen"><i class="fa fa-github-square fa-3x"></i></a>
+      
+      
+      <a href="http://www.linkedin.com/in/franklinchen"><i class="fa fa-linkedin-square fa-3x"></i></a>
+      <a href="http://google.com/&#43;FranklinChen"><i class="fa fa-google-plus-square fa-3x"></i></a>
+      <a href="http://www.facebook.com/franklin.chen"><i class="fa fa-facebook-square fa-3x"></i></a>
+      <a href="http://twitter.com/franklinchen"><i class="fa fa-twitter-square fa-3x"></i></a>
+      <a href="http://www.youtube.com/user/FranklinChen"><i class="fa fa-youtube-square fa-3x"></i></a>
+      <a href="http://franklinchen.com/atom.xml" type="application/rss+xml"><i class="fa fa-rss-square fa-3x"></i></a>
+      </li>
+    </ul>
+
+    
+
+    <p>Copyright &copy; 2016 Franklin Chen<br/>
+       Powered by <a href="http://gohugo.io">Hugo</a> and <a href="https://github.com/zyro/hyde-x">Hyde-X</a></p>
+  </div>
+</div>
+
+
+<div class="content container">
+  <div class="post">
+    <h1>Pittsburgh Python meetup: I gave my first lightning talk ever; the topic was SCons</h1>
+    
+
+<p>Yesterday I gave my first <a href="http://en.wikipedia.org/wiki/Lightning_talk">lightning talk</a> in my life, as far as I can remember.</p>
+
+<p>I spoke for probably around five minutes at the monthly meeting of the <a href="http://pghpython.org/">Pittsburgh Python User Group</a>, which had a <a href="http://www.meetup.com/pghpython/events/72341992/">module show-and-tell night</a>.</p>
+
+<p>I originally had not planned to attend the meeting, since although I have been to meetings of the Python group since January 2011, <a href="../../../../../blog/2011/10/16/pittsburgh-software-developer-communities/">I stopped going over a year ago</a>. But I suddenly decided on short notice to volunteer before the meeting to give a little talk on the Python-based tool <a href="http://www.scons.org/">SCons</a>. I did this for a couple of reasons:</p>
+
+<ul>
+<li>Two weeks ago at Steel City Ruby Conf, <a href="../../../../../blog/2012/08/07/the-first-steel-city-ruby-conference-an-amazing-experience/">I decided to start giving talks at programming groups</a>; I committed to giving a talk at the Ruby group, but this week suddenly saw the opportunity to give a low-pressure lightning talk at the Python group.</li>
+<li>I&rsquo;d mentioned my use of SCons a long time ago at the Python group and I have been feeling obliged to actually promote this excellent tool.</li>
+</ul>
+
+<h2 id="the-module-show-and-tell">The module show and tell</h2>
+
+<p>It turned out that only four of us had described ahead of time a module to talk about. The first three spoke about <code>multiprocessing</code>, <code>formencode</code>, and <code>urllib2</code>, then I finally stepped up and talked about SCons. After that, it was good to see people spontaneously get up and talk about other Python libraries and software, including <code>requests</code>, <code>numba</code>, <code>lxml</code>, <code>melopy</code>, and <code>logbook</code>.</p>
+
+<h3 id="what-i-tried-to-do-in-my-talk">What I tried to do in my talk</h3>
+
+<p>I tried to give a concrete example of why I use SCons to manage building various artifacts from source files and directories, analyzing them, and removing outdated material. Essentially, in 2006, I was looking for an alternative to GNU <code>make</code> because I wanted the power of a full-blown programming language in order to do builds that require real computation that depend on conditions, SCons. SCons is an embedded <a href="http://en.wikipedia.org/wiki/Domain-specific_language">domain specific language</a> for construction, in contrast to <code>make</code>, which is an external domain specific language (actually, GNU <code>make</code> is more than that; it is a perverse Turing-complete language).</p>
+
+<p>Using SCons, I can generate dependencies dynamically by writing Python code (in contrast to the <code>make</code> paradigm in which one often writes, using some separate language, a script to generate a <code>Makefile</code> to include into the master <code>Makefile</code>).</p>
+
+<p>Furthermore, &ldquo;builders&rdquo; that do the work of connecting targets with sources can be written in Python; in <code>make</code>, builder actions are shell commands, which means that if you have to do something nontrivial, you have to write some program to call from <code>make</code>.</p>
+
+<p>It is so much more convenient to do everything with Python and Python libraries rather than to write extra programs to call.</p>
+
+<p>During the talk, I drew some sketches of directory trees and sources and targets on the whiteboard to illustrate what kinds of actions were handled by an SCons script I had written for a specific purpose at work.</p>
+
+<p>For a longer talk, I would have prepared a few slides and added more clarifying detail to my presentation, but I decided to just do this one impromptu.</p>
+
+<h2 id="my-source-code">My source code</h2>
+
+<p>The source code for my example SCons script is available on <a href="http://github.com/FranklinChen/update-childes-talkbank/">GitHub</a>.</p>
+
+<p>Since it was originally written in 2006, it was not developed the way I would do it today (for example, it is a single monolithic script, does not have proper user-level documentation, has hard-coded strings, and was not designed in a test-driven way), but it works. If new requirements cause me to need to change the code, I will definitely refactor first.</p>
+
+<p>Part of me had wanted to refactor before public release, but I decided that perfectionism had held me back too long from sharing, so I was just going to put the code as it is.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>I have very little experience giving talks at all. The few &ldquo;long&rdquo; talks I&rsquo;ve given over the years have been a nerve-wracking experience in which I did badly. I have a long-term goal of actually being a decent public speaker, so that I can share my knowledge more effectively with the world. It will take study, practice, self-assessment, and experience. I&rsquo;ve delayed progress on this goal for too long, and am happy to start putting myself out there, starting small in lower-stakes situations and building up from there.</p>
+
+    <div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'franklinchen';
+    var disqus_identifier = 'http:\/\/franklinchen.com\/blog\/2012\/08\/23\/pittsburgh-python-meetup-i-gave-my-first-lightning-talk-ever-the-topic-was-scons\/';
+    var disqus_title = 'Pittsburgh Python meetup: I gave my first lightning talk ever; the topic was SCons';
+    var disqus_url = 'http:\/\/franklinchen.com\/blog\/2012\/08\/23\/pittsburgh-python-meetup-i-gave-my-first-lightning-talk-ever-the-topic-was-scons\/';
+
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+  </div>
+</div>
+<script src="http://franklinchen.com/js/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+</body>
+</html>
+

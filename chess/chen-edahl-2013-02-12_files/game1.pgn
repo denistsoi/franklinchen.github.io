@@ -1,0 +1,86 @@
+[White "Chen Franklin"]
+[Black "Edahl Richard"]
+[WhiteElo "2127"]
+[BlackElo "2072"]
+[Result "*"]
+[Date "2013.02.12"]
+[Event "73rd Pittsburgh Chess Club Championship"]
+[Site "Pittsburgh (USA)"]
+[Round "5.6"]
+[ECO "A24"]
+[Annotator "Chen Franklin"]
+[Source ""]
+[Remark ""]
+
+{This was my first game ever with my opponent.} 1.Nf3 Nf6 2.c4
+g6 3.Nc3 Bg7 4.e4 e5 {?!?} {
+This was totally mind-boggling to me, because if a move like this is actually
+sound, then White's opening has failed, and I could not believe this to be the
+case.  (Black is not actually losing the Pawn on e5.) So I looked hard for a
+refutation. I thought for 16 minutes, the longest I probably have thought on the 5th move of an opening!}
+{%08DA} 5.Nxe5 {Obviously White has to take the Pawn.} {%08DA}
+Nxe4 {It turns out this is the only way to regain the Pawn.}
+{%08DA} ( 5...Qe7 {?} {
+A different way to try to regain the Pawn. It was actually the move I spent
+most of my time analyzing, and finding the refutation.} {%08DA}
+6.d4 d6 7.Bg5 {!} {And White keeps the Pawn after all!} {%08DA}
+dxe5 {?} 8.Nd5 {And White is winning. I was happy to have seen this over the board.}
+{%08DA} Qd6 {??} {An example losing continuation.} 9.c5 {%08DA} )
+6.Nxe4 Bxe5 7.d4 Bg7 8.Bg5 f6 9.Be3 {
+Upon playing Nxe5, I had assessed this position to be advantageous for White.
+Black's King side is weakened by the missing Knight, and White has good central control.}
+{%08DA} O-O 10.Qd2 {!?} {
+Ambitious, aiming already at Black's King side. The drawback is that it allows
+Black to play the principled d5. But I decided to deliberately invite some
+complications, rather than play the safe and good Nc3.}
+( 10.Nc3 {Simple and strong, stopping d5.} {%08DA} ) d5 {!} {Black must play this to catch up on development.}
+{%09DB} 11.cxd5 Qxd5 12.Nc3 {White has an advantage still.} {%08DA}
+Qa5 {?} {Immediately going astray, abandoning King side defense.}
+( 12...Qf7 {Best, protecting the King.} 13.d5 {
+This is the interesting position I had originally expected when I played Qd2
+allowing d5. White has a real advantage, with easy development and support of the d Pawn.}
+{%08DA} ) 13.Bc4+ Kh8 {A critical position. White has a clear advantage and has many good choices.}
+{%08DA} 14.h4 {!?} {
+Provocative, aiming directly at Black's King. I spent 7 minutes on this move,
+which, apart from being decent on its own merits, sets an insidious trap.}
+( 14.O-O {Simple and good.} {%08DA} ) h5 {?} {A mistake, falling into my trap!}
+15.Nd5 {!} {
+White will now win a Pawn and objectively, probably the game. I had looked at
+this before playing h4 but saw that it was stronger after tricking Black into playing h5 weakening the g6 Pawn.}
+{%08DA} Qxd2+ ( 15...Qa4 16.Bd3 {Here we see the point of having tricked Black into playing h5. Black is lost now, with the attack on both c7 and g6.}
+{%08DA} ) 16.Kxd2 Na6 17.Bxa6 bxa6 {%08DA} 18.Nxc7 {?!} {It turns out that snatching the c7 Pawn immediately was actually not strongest.}
+( 18.Rac1 {It was strongest to win the c7 Pawn using a Rook instead of the Knight.}
+{%08DA} ) Rb8 19.b3 {%08DA} Rd8 {?} {Missing a chance to blast immediately at White's exposed King.}
+( 19...f5 {Opening up lines for the Bishops immediately was best.}
+{%08DA} ) 20.Rac1 {White is frantically hurrying to consolidate.}
+f5 {?} {Too slow now.} 21.Rc4 f4 22.Bxf4 Bxd4 {%08DA} 23.Ke2
+{!} {Deliberately maintaining tension rather than going into trades.}
+( 23.Nd5 {A possible tactic to get the Knight out immediately.}
+{%08DA} Rb5 24.Rxd4 Rbxd5 25.Rxd5 Rxd5+ 26.Kc3 {I did not want to go into this simplified ending.}
+{%08DA} ) Bb6 {Provocative, abandoning the King in favor of trying to aim for somehow trapping White's Knight.}
+{%08DA} 24.Rhc1 {I chose simple development and waiting rather than a committal attack.}
+( 24.Be5+ Kg8 25.Rc6 {It was possible to enter this attacking line, but I wanted to keep alive the threat of Be5+ rather than use it immediately.}
+{%08DA} ) Bf5 {Obviously aiming for Bd3+.} {%08DA} 25.R1c3 {?}
+{It turns out that this defensive move was too passive.}
+( 25.Nd5 {Best. I considered this move but wasn't happy about liquidating a lot of pieces.}
+{%08DA} Rxd5 26.Bxb8 Bd3+ 27.Ke1 Bxc4 28.Rxc4 {White is comfortably one Pawn up in the ending, but it is not clear whether that is enough to win.}
+{%08DA} ) Rd7 {??} {Loses on the spot, falling victim to a win of the exchange.}
+( 25...Ba5 {Active counterplay.} {%08DA} 26.Re3 ( 26.Rg3 {%08DA}
+Rbc8 {White is all tied up and cannot maintain the Pawn advantage very long.}
+) Rd2+ 27.Kf3 Bb6 {Black will regain the Pawn.} {%08DA} 28.Nd5
+Bxe3 29.Bxb8 Bxf2 30.Be5+ Kg8 31.Ne7+ Kf7 32.Nxf5 gxf5 33.Ra4
+{Black should draw this easily.} {%08DA} ) 26.Be5+ {The check sets up the winning tactic.}
+Kg8 27.Nd5 {!} {Black will lose the exchange and the game.} {%08DA}
+Rxd5 28.Bxb8 Bd4 {%08DA} 29.Rg3 {!?} {Trying to keep the Rooks on the board, at the expense of an awkard placement.}
+( 29.Rc1 {Was actually strongest, aiming to put the Rook on d1. I saw this but decided to play differently.}
+{%08DA} Bb6 30.Rd1 Rxd1 31.Kxd1 Bxf2 {White has deliberately given a Pawn back to exchange off Black's only Rook, and has an easily won game.}
+{%08DA} ) Bf6 {??} {This move just didn't make any sense to me.}
+( 29...Bg4+ 30.f3 Bf5 31.Rc6 {White will eventually get his awkward Rook to g5 and then play g4.}
+{%08DA} ) 30.Bxa7 {Picking off another free Pawn.} Bxh4 {??}
+{Black resigned immediately after playing this blunder that hangs the Bishop because of Rxh4.}
+{%08DA} ( 30...Bg4+ {I had actually expected this continuation, after which Black is dead anyway.}
+{%08DA} 31.Rcxg4 hxg4 32.Rxg4 {White has returned the exchange deliberately, and is now three Pawns up, an easy win.}
+{%08DA} ) {I was fairly proud of this game. Being surprised in the opening, I spent a
+huge amount of time analyzing all the possible lines and choosing a
+continuation that guaranteed me an advantage. Then I set a trap that Black fell into, and I won a Pawn, then consolidated.} *
+

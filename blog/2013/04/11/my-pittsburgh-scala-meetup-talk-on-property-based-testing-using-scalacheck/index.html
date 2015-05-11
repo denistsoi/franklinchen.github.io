@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>My Pittsburgh Scala Meetup talk on property-based testing using ScalaCheck &middot; Franklin Chen</title>
+
+  
+  <link rel="stylesheet" href="http://franklinchen.com/css/poole.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/hyde.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/poole-overrides.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/hyde-overrides.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/hyde-x.css">
+
+  <link rel="stylesheet" href="http://franklinchen.com/css/franklin.css">
+
+  <link rel="stylesheet" href="http://franklinchen.com/css/highlight/default.css">
+  <link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://franklinchen.com/touch-icon-144-precomposed.png">
+  <link href="http://franklinchen.com/favicon.png" rel="icon">
+
+  
+  
+  
+  
+
+  <meta name="description" content="Franklin Chen&#39;s personal Web site and blog">
+  <meta name="keywords" content="Franklin Chen, blog">
+  <link rel="author" href="http://plus.google.com/100967806642012078047">
+</head>
+<body class="theme-base-0e">
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      
+        
+        <h1>Franklin Chen</h1>
+        <p class="lead">Infinity in the palm of my hand.</p>
+    </div>
+
+    <ul class="sidebar-nav">
+      
+      <li class="sidebar-nav-item"><a href="http://franklinchen.com/contact/">Contact</a></li>
+      
+      <li class="sidebar-nav-item"><a href="http://ConscientiousProgrammer.com/">Programming blog</a></li>
+      <li class="sidebar-nav-item"><a href="http://chessimprover.com/author/franklinc/">Chess blog</a></li>
+      <li class="sidebar-nav-item"><a href="https://www.flickr.com/photos/franklinmingchen/">Photos</a></li>
+    </ul>
+
+    <ul class="sidebar-nav">
+      <li class="sidebar-nav-item">
+      <a href="https://github.com/FranklinChen"><i class="fa fa-github-square fa-3x"></i></a>
+      
+      
+      <a href="http://www.linkedin.com/in/franklinchen"><i class="fa fa-linkedin-square fa-3x"></i></a>
+      <a href="http://google.com/&#43;FranklinChen"><i class="fa fa-google-plus-square fa-3x"></i></a>
+      <a href="http://www.facebook.com/franklin.chen"><i class="fa fa-facebook-square fa-3x"></i></a>
+      <a href="http://twitter.com/franklinchen"><i class="fa fa-twitter-square fa-3x"></i></a>
+      <a href="http://www.youtube.com/user/FranklinChen"><i class="fa fa-youtube-square fa-3x"></i></a>
+      <a href="http://franklinchen.com/atom.xml" type="application/rss+xml"><i class="fa fa-rss-square fa-3x"></i></a>
+      </li>
+    </ul>
+
+    
+
+    <p>Copyright &copy; 2016 Franklin Chen<br/>
+       Powered by <a href="http://gohugo.io">Hugo</a> and <a href="https://github.com/zyro/hyde-x">Hyde-X</a></p>
+  </div>
+</div>
+
+
+<div class="content container">
+  <div class="post">
+    <h1>My Pittsburgh Scala Meetup talk on property-based testing using ScalaCheck</h1>
+    
+
+<p>Tonight was the <a href="http://www.meetup.com/Pittsburgh-Scala-Meetup/events/108080782/">third meeting</a> of the <a href="http://www.meetup.com/Pittsburgh-Scala-Meetup/">Pittsburgh Scala Meetup</a>. Our last meeting was <a href="../../../../../blog/2013/02/21/the-second-meeting-of-the-pittsburgh-scala-meetup-josh-suereth-on-functional-patterns-for-the-asynchronous-web/">in late February</a>, and we didn&rsquo;t have a meeting in March.</p>
+
+<h2 id="attendance">Attendance</h2>
+
+<p>This time there were only six of us in attendance, but that had its advantages, as it resulted in everyone really participating fully in discussion.</p>
+
+<h2 id="presentation">Presentation</h2>
+
+<p>I gave a presentation &ldquo;Beyond xUnit example-based testing: property-based testing with ScalaCheck&rdquo; as an introduction to property-based testing, with examples using <a href="http://www.scalacheck.org/">ScalaCheck</a>.</p>
+
+<p>I prepared the presentation with the goal of spreading the word on property-based testing as a complement to much more widely used methods of testing in the TDD/BDD software development communities. My impression has been that outside of the functional programming communities such as those in Haskell (the pioneer of <a href="http://en.wikipedia.org/wiki/QuickCheck">QuickCheck</a>), ML, and Haskell, there has not been as much use of property-based methods of design and testing. Fortunately, this has been changing.</p>
+
+<p>In any case, I personally can no longer imagine not starting out design exploration without using ScalaCheck on Scala or Java based projects. It&rsquo;s a useful additional tool for the developer&rsquo;s toolkit.</p>
+
+<h3 id="slides-and-code">Slides and code</h3>
+
+<p>My slides are available <a href="http://www.slideshare.net/FranklinChen/handout-18644963">on slideshare</a>, and a full SBT project of the code is <a href="https://github.com/franklinchen/talk-on-scalacheck">on GitHub</a>.</p>
+
+<p>Note that the slides are not in any way a substitute for the actual talk and the questions and answers and discussion during and after it! They are most useful as memory joggers for those who actually attended the presentation. A set of slides is nothing resembling a technical article or a blog post.</p>
+
+<p><iframe src="http://www.slideshare.net/slideshow/embed_code/18644963" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/FranklinChen/handout-18644963" title="Beyond xUnit example-based testing: property-based testing with ScalaCheck" target="_blank">Beyond xUnit example-based testing: property-based testing with ScalaCheck</a> </strong> from <strong><a href="http://www.slideshare.net/FranklinChen" target="_blank">Franklin Chen</a></strong> </div></p>
+
+<h2 id="after">After</h2>
+
+<p>Out of some questions during the talk, we came up with an idea for improving ScalaCheck that might be an interesting group project to work on.</p>
+
+<p>There was also more general discussion of using Scala, upcoming and ongoing local Pittsburgh general tech gatherings, Josh filling us in on developments in the Scala world, and ideas for future presentations.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>It was a small gathering, but I enjoyed presenting on property-based testing, and we had some really good discussions. Another meeting for the Pittsburgh Scala Meetup has already been <a href="http://www.meetup.com/Pittsburgh-Scala-Meetup/events/112652112/">scheduled for May</a>.</p>
+
+    <div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'franklinchen';
+    var disqus_identifier = 'http:\/\/franklinchen.com\/blog\/2013\/04\/11\/my-pittsburgh-scala-meetup-talk-on-property-based-testing-using-scalacheck\/';
+    var disqus_title = 'My Pittsburgh Scala Meetup talk on property-based testing using ScalaCheck';
+    var disqus_url = 'http:\/\/franklinchen.com\/blog\/2013\/04\/11\/my-pittsburgh-scala-meetup-talk-on-property-based-testing-using-scalacheck\/';
+
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+  </div>
+</div>
+<script src="http://franklinchen.com/js/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+</body>
+</html>
+

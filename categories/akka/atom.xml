@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Akka on Franklin Chen</title>
+    <link>http://franklinchen.com/categories/akka/atom/index.xml</link>
+    <description>Recent content in Akka on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/categories/akka/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Pittsburgh Scala meetup: Introduction to Actors Systems</title>
+      <link>http://franklinchen.com/blog/2013/06/18/pittsburgh-scala-meetup-introduction-to-actors-systems/</link>
+      <pubDate>Tue, 18 Jun 2013 23:10:20 -0400</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/06/18/pittsburgh-scala-meetup-introduction-to-actors-systems/</guid>
+      <description>&lt;p&gt;Josh Suereth spoke again at the latest &lt;a href=&#34;http://www.meetup.com/Pittsburgh-Scala-Meetup/&#34;&gt;Pittsburgh Scala Meetup&lt;/a&gt; &lt;a href=&#34;http://www.meetup.com/Pittsburgh-Scala-Meetup/events/123884682/&#34;&gt;event&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;He gave an introduction to actors using &lt;a href=&#34;http://akka.io/&#34;&gt;Akka&lt;/a&gt;. I&amp;rsquo;d attended a version of his introductory talk over a year ago, actually, when he gave it at the &lt;a href=&#34;../../blog/2012/06/09/report-on-the-first-pittsburgh-techfest-2012/&#34;&gt;first Pittsburgh TechFest&lt;/a&gt;, so it was basically review for me.&lt;/p&gt;
+
+&lt;p&gt;However, the discussion during the presentation and afterwards was what the meetup was really about, and I found that really useful.&lt;/p&gt;
+
+&lt;p&gt;Sadly, I still have not yet written a real actor-based software system yet.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Report on the second Pittsburgh TechFest, 2013</title>
+      <link>http://franklinchen.com/blog/2013/06/01/report-on-the-second-pittsburgh-techfest-2013/</link>
+      <pubDate>Sat, 01 Jun 2013 22:06:17 -0400</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/06/01/report-on-the-second-pittsburgh-techfest-2013/</guid>
+      <description>&lt;p&gt;Last year (&lt;a href=&#34;../../blog/2012/06/09/report-on-the-first-pittsburgh-techfest-2012/&#34;&gt;my report here&lt;/a&gt;), I attended the very first &lt;a href=&#34;http://pghtechfest.com/&#34;&gt;Pittsburgh Tech Fest&lt;/a&gt;, held at &lt;a href=&#34;http://www.laroche.edu/&#34;&gt;LaRoche College&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;my-second-year&#34;&gt;My second year&lt;/h2&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://pghtechfest.com/images/pt_logo_2.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Pittsburgh TechFest 2013&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;I was very excited to attend it again this year, with a twist: I reported last year that I was inspired by seeing people I know giving talks, and two months later, after the very first &lt;a href=&#34;http://steelcityruby.org/&#34;&gt;Steel City Ruby Conf&lt;/a&gt; &lt;a href=&#34;../../blog/2012/08/07/the-first-steel-city-ruby-conference-an-amazing-experience/&#34;&gt;decided to finally start giving talks myself&lt;/a&gt;, starting with user group talks. When the organizers of this year&amp;rsquo;s Pittsburgh TechFest put out a call for presentations four months ago, I knew I wanted to submit some, and so I did. My talk &amp;ldquo;Stop overusing regular expressions!&amp;rdquo; was accepted!&lt;/p&gt;
+
+&lt;p&gt;This year I had a goal of enjoying the conference even more than I enjoyed last year&amp;rsquo;s, and I succeeded!&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;speakers-dinner-the-evening-before-the-conference&#34;&gt;Speakers&amp;rsquo; dinner the evening before the conference&lt;/h2&gt;
+
+&lt;p&gt;All speakers were invited to a speakers&amp;rsquo; dinner for the evening before the one-day conference, so I eagerly attended, in order to see some old friends as well as meet new people I hadn&amp;rsquo;t met before. That was fun. This was at &lt;a href=&#34;http://www.foxandhound.com/&#34;&gt;Fox and Hound Bar and Grill&lt;/a&gt; on McKnight Road. I had to fight through considerable rush hour traffic (and also feeling rather ill: more on that later) to get up north out there from the city, but made it. Tortilla chips, veggie trays, baked potatoes, chicken wings: not my usual diet, but those who know me know that I actually love this stuff, ha (thirty pounds ago I ate like that more often)!&lt;/p&gt;
+
+&lt;p&gt;The always eerie thing is meeting people in person &lt;em&gt;finally&lt;/em&gt; that you&amp;rsquo;ve mainly &amp;ldquo;known&amp;rdquo; from Twitter or email. For example, last year, when I was far more &lt;em&gt;shy&lt;/em&gt;, I never actually met the founders of the new conference and talked with them. At the speakers&amp;rsquo; dinner, I finally met Eric Kepes and Dave Hoerster, for example!&lt;/p&gt;
+
+&lt;p&gt;Last year, I basically made myself invisible and kind of only hung out a little bit with some people, whom I already knew! &lt;a href=&#34;../../blog/2012/08/22/steel-city-ruby-conf-review-part-1-its-about-people/&#34;&gt;My experience at Steel City Ruby Conf completely altered how I feel I should relate to people, not only in programming conferences but in life&lt;/a&gt;. I&amp;rsquo;m still slowly getting out of my shell that I basically lived in for four decades, but I know I&amp;rsquo;ve made some real progress in the past year.&lt;/p&gt;
+
+&lt;h2 id=&#34;breakfast-the-day-of-the-conference&#34;&gt;Breakfast the day of the conference&lt;/h2&gt;
+
+&lt;p&gt;Unfortunately, because I was in a rush, I did not eat any breakfast before leaving home. Somehow, I had assumed there would be breakfast provided at the conference (in the form of bagels and fruit, something like that). I was wrong. There was just juice, coffee, tea. Luckily, I had an emergency energy bar in my bag, and ate it.&lt;/p&gt;
+
+&lt;p&gt;Others I talked to were also confused by the lack of food. Maybe in the future it should be made clear whether there is any food provided at the beginning of the day.&lt;/p&gt;
+
+&lt;h2 id=&#34;keynote&#34;&gt;Keynote&lt;/h2&gt;
+
+&lt;p&gt;This year, the keynote speech was by &lt;a href=&#34;http://www.linkedin.com/in/dickwall&#34;&gt;Dick Wall&lt;/a&gt;, whom some of you may know from the &lt;a href=&#34;http://javaposse.com/&#34;&gt;Java Posse&lt;/a&gt; podcast, others from the &lt;a href=&#34;http://www.scalawags.tv/&#34;&gt;Scalawags&lt;/a&gt; podcast that started half a year ago (Scala fans, you have to watch this: it also features &lt;a href=&#34;http://www.linkedin.com/in/djspiewak&#34;&gt;Daniel Spiewak&lt;/a&gt; and Pittsburgh&amp;rsquo;s own &lt;a href=&#34;http://jsuereth.com/&#34;&gt;Josh Suereth&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Dick gave a passionate, personal, entertaining, and thoughtful talk urging all of us to adopt a mindset of taking risks and embracing &lt;em&gt;failure&lt;/em&gt;, just as he has in his professional life: he has worked at many companies, including Google and small startups, and his own currently, &lt;a href=&#34;http://www.escalatesoft.com/&#34;&gt;Escalate&lt;/a&gt;, which is devoted to Scala training and mentoring.&lt;/p&gt;
+
+&lt;h3 id=&#34;some-lessons-from-dick&#34;&gt;Some lessons from Dick&lt;/h3&gt;
+
+&lt;p&gt;Some of the lessons Dick imparted, while putting up slides of some pretty epic failures (software or otherwise, including mountain biking, which he does):&lt;/p&gt;
+
+&lt;p&gt;Do not overplan; be prepared to adapt to the present situation.&lt;/p&gt;
+
+&lt;p&gt;If something is not working, don&amp;rsquo;t continue just because you have invested in it already (&lt;a href=&#34;http://en.wikipedia.org/wiki/Sunk_costs&#34;&gt;sunk cost&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Do something new and valuable; for example, don&amp;rsquo;t write yet another &lt;a href=&#34;http://en.wikipedia.org/wiki/Content_management_system&#34;&gt;CMS&lt;/a&gt;, because people have already done it.&lt;/p&gt;
+
+&lt;p&gt;The worst thing to do is to &amp;ldquo;waste engineering effort&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Fail &lt;em&gt;early&lt;/em&gt;, never in production! Example: the &lt;a href=&#34;http://en.wikipedia.org/wiki/Tacoma_Narrows_Bridge&#34;&gt;Tacoma Narrows Bridge&lt;/a&gt; disaster.&lt;/p&gt;
+
+&lt;p&gt;If you fail repeatedly at something, maybe it&amp;rsquo;s time to stop it and move on.&lt;/p&gt;
+
+&lt;p&gt;Honest communication is key. Often, late failure happens because someone was afraid to honestly speak up about design flaws, and often this is because there is a culture against such honesty.&lt;/p&gt;
+
+&lt;p&gt;Don&amp;rsquo;t focus on &lt;a href=&#34;http://en.wikipedia.org/wiki/Happy_path&#34;&gt;happy path testing&lt;/a&gt;, but on the sad path: think up front about how something can fail, before even coding.&lt;/p&gt;
+
+&lt;p&gt;You can&amp;rsquo;t know whether you&amp;rsquo;ve succeeded or failed unless you have defined concretely what success means in a given context.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://en.wikipedia.org/wiki/Software_craftsmanship&#34;&gt;software craftsmanship&lt;/a&gt; movement, which focuses on quality, is well-meaning but often results in people afraid to try new things (such as learn and use a new language) because they are afraid of writing &amp;ldquo;bad code&amp;rdquo; at first. It&amp;rsquo;s OK to start out by writing bad code.&lt;/p&gt;
+
+&lt;p&gt;One way of failing early is to push failure to compile time (he briefly gave a plug for Scala&amp;rsquo;s type system as one way to do this).&lt;/p&gt;
+
+&lt;h2 id=&#34;overview-of-sessions&#34;&gt;Overview of sessions&lt;/h2&gt;
+
+&lt;p&gt;As with last year, or actually far &amp;ldquo;worse&amp;rdquo;, there were a huge number of sessions and limited time slots. I counted six major time slots, with an average of nine sessions during each, so anyone who attended a session in a given time slot basically had choose &lt;em&gt;one out of nine&lt;/em&gt;. This is pretty wild. (Depending on logistics, hopefully next year the conference can move to a two-day format.)&lt;/p&gt;
+
+&lt;p&gt;Consistent with my philosophy in the past year of conference attendance, I chose to seek out talks that fulfilled the following criteria:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;topics revolving around philosophy, experience, wisdom rather than technical tutorials&lt;/li&gt;
+&lt;li&gt;speakers &lt;em&gt;not&lt;/em&gt; from Pittsburgh and whom I do &lt;em&gt;not&lt;/em&gt; already know&lt;/li&gt;
+&lt;li&gt;stuff I&amp;rsquo;m very interested in that benefits particularly from a guided intro versus looking up a tutorial online&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;sessions-i-attended&#34;&gt;Sessions I attended&lt;/h2&gt;
+
+&lt;h3 id=&#34;messaging-with-rabbitmq-handerson-gomes-http-www-linkedin-com-in-handersongomes&#34;&gt;Messaging with RabbitMQ (&lt;a href=&#34;http://www.linkedin.com/in/handersongomes&#34;&gt;Handerson Gomes&lt;/a&gt;)&lt;/h3&gt;
+
+&lt;p&gt;Actually, I already know Handerson from Pittsburgh meetups. But, as he offered for his session a sequence of lightning talks on RabbitMQ, I thought I would learn something.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, after his first couple of intro talks, I was feeling so sleepy and ill (more on my physical condition at the end of this report) that I had to bail out and take a nap. I napped for about half an hour, much needed before the second session. Then I realized I wasn&amp;rsquo;t just sleepy, but also starving, and found a vending machine and got more food! Meanwhile, I immediately logged into my health care provider&amp;rsquo;s Web site and submitted a request for a doctor&amp;rsquo;s appointment on Monday.&lt;/p&gt;
+
+&lt;h3 id=&#34;it-s-cool-nobody-else-knows-what-they-re-doing-either-jared-faris-http-www-jaredthenerd-com&#34;&gt;It&amp;rsquo;s Cool, Nobody Else Knows What They&amp;rsquo;re Doing Either (&lt;a href=&#34;http://www.jaredthenerd.com/&#34;&gt;Jared Faris&lt;/a&gt;)&lt;/h3&gt;
+
+&lt;p&gt;This was an interesting philosophical discussion about career and personal development, much in the lines of the keynote speech by Dick Wall.&lt;/p&gt;
+
+&lt;p&gt;Jared said that to really learn, we have to &lt;em&gt;challenge&lt;/em&gt; ourselves. We have to go beyond our comfort zone. How far? He suggested that we should take on stuff that we&amp;rsquo;re 80% sure we can do: if we are too ambitious and commit to something we feel only 50% sure of, that is too risky, because then we might just fail without really learning something from the experience.&lt;/p&gt;
+
+&lt;h4 id=&#34;some-lessons-from-jared&#34;&gt;Some lessons from Jared&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;Ask for help&lt;/em&gt;. Jared related that in the past, he was too proud to ask for help because there&amp;rsquo;s sometimes an implicit gamesmanship among us software developers: we don&amp;rsquo;t want to look dumber than our friends, and we fear rejection. But he learned that asking for help was effective, because in the long run it means getting better faster, rather than flailing alone. Stop trying to impress people.&lt;/p&gt;
+
+&lt;p&gt;The way to stretch yourself is to build a base of what you do know, so that when you go beyond that, you have the tools to move to the next level.&lt;/p&gt;
+
+&lt;p&gt;Be &amp;ldquo;honest but confident&amp;rdquo;. Do not fear the art of self-promotion: if you hold back on speaking up for yourself because you don&amp;rsquo;t know it all, then you&amp;rsquo;ll lose out to someone who does speak up.&lt;/p&gt;
+
+&lt;h3 id=&#34;stop-overusing-regular-expressions-me&#34;&gt;Stop overusing regular expressions! (me)&lt;/h3&gt;
+
+&lt;p&gt;I could not attend any of the interesting sessions in the third time slot because I was giving a talk.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s &lt;a href=&#34;../../blog/2013/06/01/pittsburgh-tech-fest-2013-my-talk-stop-overusing-regular-expressions/&#34;&gt;my report about my talk&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;lunch&#34;&gt;Lunch&lt;/h3&gt;
+
+&lt;p&gt;Lunch was of the usual La Roche College cafeteria high quality, nutritious and filling. (And I also ate some cake and pie as well, ha!) This time I socialized more, sitting with some people I knew (but not so well) and people I didn&amp;rsquo;t know. It was great.&lt;/p&gt;
+
+&lt;p&gt;I skipped the lunchtime vendor talks. They might have been interesting, but I needed a break from sitting around in talks, and certainly did not feel like taking lunch outside to eat alone while listening to someone talk! There seemed to be a sizable audience for the one outside the cafeteria, however, so I&amp;rsquo;m happy they found it useful!&lt;/p&gt;
+
+&lt;h3 id=&#34;redesign-is-not-a-four-letter-word-adam-kalnas-http-www-linkedin-com-pub-adam-kalnas-4-660-638&#34;&gt;Redesign is not a four letter word (&lt;a href=&#34;http://www.linkedin.com/pub/adam-kalnas/4/660/638&#34;&gt;Adam Kalnas&lt;/a&gt;)&lt;/h3&gt;
+
+&lt;p&gt;So this was a short (30-minute) talk about redesign. Although Adam works in the .NET world, the lessons he learned and shared with us are not platform-specific. He described how an architecture at &lt;a href=&#34;http://www.omnyx.com/&#34;&gt;Omnyx&lt;/a&gt; was redesigned successfully. The steps included&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Writing pinning tests for a system that had no automated tests at all.&lt;/li&gt;
+&lt;li&gt;Creating an abstract interface for an existing layer.&lt;/li&gt;
+&lt;li&gt;Rewriting code to go through the interface API.&lt;/li&gt;
+&lt;li&gt;Creating a parallel implementation for the interface.&lt;/li&gt;
+&lt;li&gt;Using &lt;a href=&#34;http://martinfowler.com/bliki/FeatureToggle.html&#34;&gt;feature toggles&lt;/a&gt; to keep both implementations in the code.&lt;/li&gt;
+&lt;li&gt;Finally switching off the feature toggle and deleting the old implementation.&lt;/li&gt;
+&lt;li&gt;All the while adding more &lt;a href=&#34;http://en.wikipedia.org/wiki/Test-driven_development&#34;&gt;TDD&lt;/a&gt; tests.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It was a really nice story of how a really gnarly legacy architecture was successfully brought into the world of cleaner interfaces and automated tests.&lt;/p&gt;
+
+&lt;h3 id=&#34;node-js-design-patterns-for-the-discerning-developer-aaron-cois-http-www-linkedin-com-pub-constantine-aaron-cois-6-312-824&#34;&gt;Node.js Design Patterns for the Discerning Developer (&lt;a href=&#34;http://www.linkedin.com/pub/constantine-aaron-cois/6/312/824&#34;&gt;Aaron Cois&lt;/a&gt;)&lt;/h3&gt;
+
+&lt;p&gt;I am fairly new to the &lt;a href=&#34;http://nodejs.org/&#34;&gt;Node.js&lt;/a&gt; world, having first heard of it two years ago at a &lt;a href=&#34;http://meetups.jquery.com/events/nodejs-with-todd-eichel&#34;&gt;March 2011 meeting of the Pittsburgh jQuery meetup&lt;/a&gt; in which Todd Eichel introduced Node to the group.&lt;/p&gt;
+
+&lt;p&gt;I don&amp;rsquo;t currently actively use Node except, amusingly, as a vehicle for testing non-client JavaScript code for my own purposes.&lt;/p&gt;
+
+&lt;p&gt;Aaron basically talked about how to deal with the whole &amp;ldquo;callback hell&amp;rdquo; problem when dealing with the asynchronous APIs of Node. There was hairy looking code that he transformed or wrote wrappers for in order to make less hairy, but to my eye it was still hairy. I have forked his &lt;a href=&#34;https://github.com/cacois/node-patterns-discerning&#34;&gt;GitHub repository for the talk&lt;/a&gt; and hope to go through the code more closely.&lt;/p&gt;
+
+&lt;h3 id=&#34;scaling-out-with-akka-actors-josh-suereth-http-jsuereth-com&#34;&gt;Scaling out with Akka Actors (&lt;a href=&#34;http://jsuereth.com/&#34;&gt;Josh Suereth&lt;/a&gt;)&lt;/h3&gt;
+
+&lt;p&gt;I&amp;rsquo;m still not an active &lt;a href=&#34;http://akka.io/&#34;&gt;Akka&lt;/a&gt; user, although there is something I believe I could use Akka for fruitfully at work, to considerably improve some efficiency (but in practice, nobody is complaining about the speed, so as a practical matter it has been of no priority to scale out the task in question), and also some personal projects.&lt;/p&gt;
+
+&lt;p&gt;Josh has been promoting Akka for some time: it was at last year&amp;rsquo;s Pittsburgh TechFest that I got my first real introduction to it. Since then, Josh has given more advanced talks on architectures using Akka, as Akka continues to improve and provide more features.&lt;/p&gt;
+
+&lt;p&gt;I learned quite a bit from this talk about scaling out (vs. scaling up): the focus on topology, the adding of new actors whenever you want to handle some transient state or manage other actors. It&amp;rsquo;s really a different way of thinking than &amp;ldquo;ordinary&amp;rdquo; programming and is perhaps more faithful to the original concept of &amp;ldquo;object-oriented&amp;rdquo; (being focused entirely on being asynchronous and passing immutable messages) than what has been considered object-oriented in the past couple of decades.&lt;/p&gt;
+
+&lt;p&gt;For more details, check out his slides and code at his &lt;a href=&#34;https://github.com/jsuereth/intro-to-actors&#34;&gt;GitHub repository&lt;/a&gt;. Note that the code for the clusters talk is on the &lt;a href=&#34;https://github.com/jsuereth/intro-to-actors/tree/clusters&#34;&gt;&lt;code&gt;clusters&lt;/code&gt; branch&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I am definitely going to start using Akka this year. I think the time for actors has truly come.&lt;/p&gt;
+
+&lt;h2 id=&#34;after&#34;&gt;After&lt;/h2&gt;
+
+&lt;p&gt;Dave Hoerster gave the closing speech, thanking all the many sponsors who supported the conference. It was definitely really cool how many sponsors there were. He also noted that there may be an attempt to scale up to a two-day event, which would be really cool if it can be made to happen.&lt;/p&gt;
+
+&lt;p&gt;There were raffle prizes. Amusingly, the vast number of people randomly chosen had already left the premises (hey, it was a long day), so it took a while to give everything away (although some prizes were marked to be emailed to those who were no longer present).&lt;/p&gt;
+
+&lt;p&gt;After the official conclusion of the conference, some people gathered in groups to have dinner together. I wanted to join Josh and Dick, but knew that I was feeling really miserable and had to go home to shower and sleep.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-next&#34;&gt;What next?&lt;/h2&gt;
+
+&lt;p&gt;I will apply the lessons I learned from all the talks and conversations I participated in.&lt;/p&gt;
+
+&lt;p&gt;One thing I&amp;rsquo;ve done is forked a bunch of GitHub repositories for talks that people have posted online (and not just talks I went to) that seem like useful places for me to concretely learn and explore further. Ideas are fine, but working code is working code!&lt;/p&gt;
+
+&lt;h2 id=&#34;thanks&#34;&gt;Thanks&lt;/h2&gt;
+
+&lt;p&gt;I&amp;rsquo;m really grateful not only to attend this conference, but also speak in it, and learn a lot of things, meet new people (and add their blogs to my RSS feeds as well as follow them on Twitter), and share ideas with everyone. I thank the organizers who put in even more work than last year, because of so many more attendees and speakers! I thank the speakers whose presentations I attended (and those I met whose presentations I would have wanted to attended if not for the time conflicts) for sharing their knowledge and experience. And La Roche College was a good venue (and I noticed that this year there was not the temperature problem of last year, when it was just way too cold in the rooms).&lt;/p&gt;
+
+&lt;p&gt;I hope to come to another Pittsburgh TechFest in 2014. Of course, I would submit some talks for it, and come up with helpful topics that are of increasingly more general interest and use.&lt;/p&gt;
+
+&lt;h2 id=&#34;note-on-being-sick&#34;&gt;Note on being sick&lt;/h2&gt;
+
+&lt;p&gt;I&amp;rsquo;ve been sick for a week with contact dermatitis, which I thought I got from poison ivy, but may have come from somewhere else. I was hoping it would clear up on its own, so that I could avoid taking drugs, but I felt increasingly worse yesterday (the itching was very unpleasant and made sleep very difficult), and then during the conference, got even worse. I went home and immediately fell into a nap from exhaustion. When I woke up, I was feeling really terrible. I clearly needed immediate treatment. Abby had come home and told me she was going t take me to the local &lt;a href=&#34;http://upmc.com/Services/urgent-care/Pages/default.aspx&#34;&gt;UPMC Urgent Care&lt;/a&gt; center. So we went, and I got a truly painful steroid shot in the hip. It didn&amp;rsquo;t take long before I started feeling better, with relief from itching, so that I could at least sleep.&lt;/p&gt;
+
+&lt;p&gt;I decided that Dick Wall&amp;rsquo;s advice of not failing repeatedly applied to me. I have failed late and too many times by not going to a doctor earlier. I have reasons (some really terrible experiences with doctors earlier in my life who really botched things up big time, and also I generally don&amp;rsquo;t like getting shots or drugs), but reason has to kick in. I should have gone to a doctor last week when I started having real problems, or even better, gotten my neck rash checked out three weeks ago when it first appeared. I don&amp;rsquo;t like to admit my stupidity and stubbornness, but this is &amp;ldquo;honest communication&amp;rdquo;. I am publicly admitting that I made my own life miserable for weeks, as well as Abby&amp;rsquo;s, and also my fellow conference attendees who had to put up with my marred appearance and energy level (when I explained I wasn&amp;rsquo;t feeling well, people admitted to not wanting to ask me what was up with my neck and skin in general). It wasn&amp;rsquo;t reasonable for me to resist seeking immediate medical attention, and in the future, I will not only use this as a specific learning experience (check myself after any bites or rashes, and immediately have all affected clothing items washed), but a more general one about admitting failure early rather than hoping something going bad with my body will just get better.&lt;/p&gt;
+
+&lt;p&gt;I have had a habit of pushing myself too hard (really messing up not only my &lt;a href=&#34;../../blog/2013/04/20/on-overtraining-and-feeling-injured-two-weeks-before-the-pittsburgh-marathon/&#34;&gt;Pittsburgh Marathon&lt;/a&gt;, but also a &lt;a href=&#34;../../blog/2012/06/03/a-totally-exhausting-rachel-carson-trail-challenge-goal-training-hike/&#34;&gt;Rachel Carson Trail hike&lt;/a&gt; where if I had not been so fatigued, I would have paid more attention to plants brushing against me or the like, and even my 9-mile run last Saturday that proved too taxing given my incomplete recovery from both of those. Pushing too hard is just stupid, and I know it. What&amp;rsquo;s the worst thing: doing something stupid even though you know it; at least if you don&amp;rsquo;t know it, you can be forgiven.&lt;/p&gt;
+
+&lt;h3 id=&#34;update-of-2013-06-02&#34;&gt;(Update of 2013-06-02)&lt;/h3&gt;
+
+&lt;p&gt;The next day, I was feeling much better, but it&amp;rsquo;s clear that full recovery will take a while. I will continue taking steroid pills and applying steroid cream as needed to relieve the itching. I hope that in two weeks I&amp;rsquo;ll be all good again!&lt;/p&gt;
+
+&lt;h3 id=&#34;update-of-2014-06-05&#34;&gt;(Update of 2014-06-05)&lt;/h3&gt;
+
+&lt;p&gt;A year later, I reviewed this post just before my third Pittsburgh TechFest, in 2014, where I am to give another presentation.&lt;/p&gt;
+
+&lt;p&gt;It turned out that my health suffered tremendously for &lt;em&gt;months&lt;/em&gt;. I reported on that &lt;a href=&#34;../../blog/2013/08/10/emerging-from-my-three-months-of-illness-self-pitying-and-self-loathing/&#34;&gt;in August 2013&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;If you&amp;rsquo;ve attended Pittsburgh TechFest or will do so this year, I&amp;rsquo;d like to hear your thoughts about what you&amp;rsquo;ve learned and used, or hope to!&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pittsburgh Scala Meetup: my talk &#34;Stop Overusing Regular Expressions!&#34;</title>
+      <link>http://franklinchen.com/blog/2013/05/29/pittsburgh-scala-meetup-my-talk-stop-overusing-regular-expressions/</link>
+      <pubDate>Wed, 29 May 2013 22:37:07 -0400</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/05/29/pittsburgh-scala-meetup-my-talk-stop-overusing-regular-expressions/</guid>
+      <description>&lt;p&gt;So two days ago, &lt;a href=&#34;http://jamieforrest.com/&#34;&gt;Jamie&lt;/a&gt; sent email out to the &lt;a href=&#34;http://www.meetup.com/Pittsburgh-Scala-Meetup/&#34;&gt;Pittsburgh Scala meetup group&lt;/a&gt; saying that our planned speaker Barrett, who was to have talked about his experiences using &lt;a href=&#34;http://akka.io/&#34;&gt;Akka&lt;/a&gt;, was not going to make it, and asked if anyone else could talk about something.&lt;/p&gt;
+
+&lt;h2 id=&#34;i-suddenly-stepped-in-as-a-substitute-speaker&#34;&gt;I suddenly stepped in as a substitute speaker&lt;/h2&gt;
+
+&lt;p&gt;Since I was already supposed to give a talk on Saturday at the 2013 &lt;a href=&#34;http://pghtechfest.com/&#34;&gt;Pittsburgh TechFest&lt;/a&gt;, and was in the process of finishing my work on it, I volunteered to give an early version of my Pittsburgh TechFest talk &lt;a href=&#34;http://www.meetup.com/Pittsburgh-Scala-Meetup/events/115817242/&#34;&gt;at the Scala meetup&lt;/a&gt;, since I actually happen to provide Scala code in the talk. Ha, this meant giving two talks in two successive meetings, because at the last meeting, I gave a &lt;a href=&#34;../../blog/2013/04/11/my-pittsburgh-scala-meetup-talk-on-property-based-testing-using-scalacheck/&#34;&gt;talk on property-based testing using ScalaCheck&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;presentation&#34;&gt;Presentation&lt;/h2&gt;
+
+&lt;p&gt;My presentation was &amp;ldquo;Stop overusing regular expressions!&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;Here is my abstract as submitted to Pittsburgh TechFest:
+&lt;blockquote&gt;
+Regular expressions are very commonly used to process and validate text data. Unfortunately, they suffer from various limitations. I will discuss the limitations and illustrate how using grammars instead can be an improvement. I will make the examples concrete using parsing libraries in a couple of representative languages, although the ideas are language-independent. (I&amp;rsquo;ll try to squeeze in, say, Ruby, Python, JavaScript, Scala.)&lt;/p&gt;
+
+&lt;p&gt;I will emphasize ease of use, since one reason for the overuse of regular expressions is that they are so easy to pull out of one&amp;rsquo;s toolbox.
+&lt;/blockquote&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;attendance&#34;&gt;Attendance&lt;/h3&gt;
+
+&lt;p&gt;Turnout was small: five people other than myself. By the way, we&amp;rsquo;ve discovered unsurprisingly predictable pattern: roughly half the people who RSVP &amp;ldquo;yes&amp;rdquo; on the meetups show up.&lt;/p&gt;
+
+&lt;h3 id=&#34;slides-and-code&#34;&gt;Slides and code&lt;/h3&gt;
+
+&lt;p&gt;The material for the talk &lt;em&gt;as given&lt;/em&gt; is at &lt;a href=&#34;https://github.com/franklinchen/talk-on-overusing-regular-expressions/tree/meetup-talk&#34;&gt;this tag of my GitHub repository&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;My &lt;a href=&#34;https://github.com/franklinchen/talk-on-overusing-regular-expressions&#34;&gt;master branch of the GitHub repository&lt;/a&gt; will always have my latest revisions.&lt;/p&gt;
+
+&lt;h4 id=&#34;update-of-2013-06-01&#34;&gt;(Update of 2013-06-01)&lt;/h4&gt;
+
+&lt;p&gt;I made substantial revisions in the presentation and code before Pittsburgh TechFest. I recommend looking at the latest version. Details in my &lt;a href=&#34;../../blog/2013/06/01/pittsburgh-tech-fest-2013-my-talk-stop-overusing-regular-expressions/&#34;&gt;report on my talk at Pittsburgh TechFest 2013&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src=&#34;http://www.slideshare.net/slideshow/embed_code/22302440&#34; width=&#34;427&#34; height=&#34;356&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px&#34; allowfullscreen webkitallowfullscreen mozallowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;http://www.slideshare.net/FranklinChen/handout-22302440&#34; title=&#34;Stop overusing regular expressions!&#34; target=&#34;_blank&#34;&gt;Stop overusing regular expressions!&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;http://www.slideshare.net/FranklinChen&#34; target=&#34;_blank&#34;&gt;Franklin Chen&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;after&#34;&gt;After&lt;/h2&gt;
+
+&lt;p&gt;There was great feedback after the talk. Some material I went through took quickly, without a smooth transition to relate ideas, and my final page of Scala code that contained dense use of all kinds of operators and idioms was something I stumbled through trying to explain, even as I was feeling that explaining it was a tangent from the main points of the talk.&lt;/p&gt;
+
+&lt;p&gt;There was casual discussion of Scala and other topics after the talk as well. I was pretty excited to hear about how useful Akka has become in solving important problems.&lt;/p&gt;
+
+&lt;h2 id=&#34;thanks&#34;&gt;Thanks&lt;/h2&gt;
+
+&lt;p&gt;Thanks to everyone who came to the talk! I enjoyed sharing my experiences and recommendations, and engaging in discussion about the topics, and getting to make a mental note of things to change in my delivery, slides, and code for Pittsburgh TechFest on Saturday.&lt;/p&gt;
+
+&lt;p&gt;Thanks to &lt;a href=&#34;http://justin-pihony.blogspot.com/&#34;&gt;Justin&lt;/a&gt; for arranging a meeting place for the Pittsburgh Scala meetup at &lt;a href=&#34;http://mmodal.com/&#34;&gt;M*Modal&lt;/a&gt;, and thanks to M*Modal for providing the space!&lt;/p&gt;
+
+&lt;p&gt;And thanks to Jamie again for creating the Pittsburgh Scala meetup group, and &lt;a href=&#34;http://typesafe.com/&#34;&gt;TypeSafe&lt;/a&gt; for being a sponsor now, thanks to &lt;a href=&#34;http://jsuereth.com/&#34;&gt;Josh&lt;/a&gt; (who sadly did not make it to this meeting).&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>OpenHack Pittsburgh: exploring Scala odds and ends</title>
+      <link>http://franklinchen.com/blog/2013/03/25/openhack-pittsburgh-exploring-scala-odds-and-ends/</link>
+      <pubDate>Mon, 25 Mar 2013 22:43:00 -0400</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/03/25/openhack-pittsburgh-exploring-scala-odds-and-ends/</guid>
+      <description>
+
+&lt;p&gt;&lt;a href=&#34;http://www.meetup.com/pittsburgh-ruby/events/106184432/&#34;&gt;A third OpenHack Pittsburgh&lt;/a&gt; meeting was organized, and I attended again. It was held again at &lt;a href=&#34;http://www.thebeautyshoppe.org/&#34;&gt;The Beauty Shoppe&lt;/a&gt;, just like the &lt;a href=&#34;../../blog/2013/02/25-openhack-pittsburgh-studying-scala/&#34;&gt;previous time&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I was pleased by how much progress had been made in the construction inside. The space was looking really nice.&lt;/p&gt;
+
+&lt;h2 id=&#34;scala-stuff&#34;&gt;Scala stuff&lt;/h2&gt;
+
+&lt;p&gt;My plan was to continue working on a personal project in Scala. That plan kind of changed because Roy wanted to ask me questions about Scala. I told him that I&amp;rsquo;m still learning stuff myself, but answered his questions as well as I could.&lt;/p&gt;
+
+&lt;h3 id=&#34;unit-testing&#34;&gt;Unit testing&lt;/h3&gt;
+
+&lt;p&gt;One question Roy had was about unit test frameworks and generating independent tests (as opposed to writing a single test that makes many generated assertions, because such a test would simply stop at the first failed assertion. I told him this was easy to do with either the &lt;a href=&#34;http://etorreborre.github.com/specs2/&#34;&gt;Specs2&lt;/a&gt; unit testing framework or the &lt;a href=&#34;http://www.scalatest.org/&#34;&gt;ScalaTest&lt;/a&gt; one (I use Specs2).&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s sample code showing &lt;a href=&#34;https://github.com/FranklinChen/test-loop-over-tests&#34;&gt;how to do it&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;property-based-testing&#34;&gt;Property-based testing&lt;/h3&gt;
+
+&lt;p&gt;I also mentioned that I was working on a presentation on a cool Scala library supporting property-based testing, &lt;a href=&#34;http://www.scalacheck.org/&#34;&gt;ScalaCheck&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&#34;update-of-2013-04-11&#34;&gt;(Update of 2013-04-11)&lt;/h4&gt;
+
+&lt;p&gt;I ended up &lt;a href=&#34;../../blog/2013/04/11/my-pittsburgh-scala-meetup-talk-on-property-based-testing-using-scalacheck/&#34;&gt;giving a talk at the Pittsburgh Scala meetup in April on ScalaCheck&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;continuations&#34;&gt;Continuations&lt;/h3&gt;
+
+&lt;p&gt;Roy asked about continuations in Scala, in the context of an idea he had for a Web app.&lt;/p&gt;
+
+&lt;p&gt;I said that I hadn&amp;rsquo;t personally used first-class continuations in Scala, but knew support for delimited continuations existed as a compiler plugin. So I looked up how to use them and created a little project as proof of concept (nothing worth seeing, just typical examples of code with &lt;code&gt;shift&lt;/code&gt; and &lt;code&gt;reset&lt;/code&gt; comparable to how I&amp;rsquo;d seen them used in other languages with delimited continuations); check out &lt;a href=&#34;http://suereth.blogspot.com/2010/03/how-you-should-think-about-delimited.html&#34;&gt;Josh Suereth&amp;rsquo;s (somewhat dated) article on delimited continuations in Scala&lt;/a&gt; for more details.&lt;/p&gt;
+
+&lt;p&gt;But I asked Roy what he really wanted continuations for anyway. They are a low-level concept, and there are higher-level constructs built on top of continuations that I think are more useful.&lt;/p&gt;
+
+&lt;p&gt;He said that he wanted to be able to have code &amp;ldquo;look&amp;rdquo; like it was synchronous but actually be asynchronous.&lt;/p&gt;
+
+&lt;h4 id=&#34;update-of-2014-04-21&#34;&gt;(Update of 2014-04-21)&lt;/h4&gt;
+
+&lt;p&gt;Scala continuations have been deprecated in &lt;a href=&#34;http://typesafe.com/blog/scala-211-has-arrived&#34;&gt;Scala 2.11&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;futures&#34;&gt;Futures&lt;/h3&gt;
+
+&lt;p&gt;So I told him, that&amp;rsquo;s the perfect use case for &lt;a href=&#34;http://docs.scala-lang.org/overviews/core/futures.html&#34;&gt;futures&lt;/a&gt;, which are well-supported in Scala, especially because of their compositional monadic properties in conjunction with nice &lt;code&gt;for&lt;/code&gt;-comprehension syntax.&lt;/p&gt;
+
+&lt;p&gt;I said, the only drawback is that you have to write code in monadic style.&lt;/p&gt;
+
+&lt;p&gt;When I went home after OpenHack Pittsburgh, however, I coincidentally found that there was a project to improve the syntax of writing this kind of asynchronous computation! &lt;a href=&#34;http://doc.akka.io/docs/akka/snapshot/scala/dataflow.html&#34;&gt;Akka Dataflow&lt;/a&gt; does precisely this, using the continuation plugin.&lt;/p&gt;
+
+&lt;h4 id=&#34;update-of-2013-08-27&#34;&gt;(Update of 2013-08-27)&lt;/h4&gt;
+
+&lt;p&gt;There has been other work to improve syntactic support for asynchronous computation. &lt;a href=&#34;https://github.com/scala/async&#34;&gt;&lt;code&gt;async&lt;/code&gt;&lt;/a&gt; uses &lt;a href=&#34;http://scalamacros.org/&#34;&gt;macros&lt;/a&gt; to try to provide the nice syntactic experience without the overhead of the continuation plugin.&lt;/p&gt;
+
+&lt;h4 id=&#34;update-of-2013-12-17&#34;&gt;(Update of 2013-12-17)&lt;/h4&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/akka/akka/commit/66e40084946f6f993a2c62d9921718704daf448a&#34;&gt;&lt;code&gt;dataflow&lt;/code&gt; has been deprecated&lt;/a&gt;, now that &lt;code&gt;async&lt;/code&gt; is fully mature (I have been happily using it for a while now).&lt;/p&gt;
+
+&lt;h4 id=&#34;update-of-2013-12-31&#34;&gt;(Update of 2013-12-31)&lt;/h4&gt;
+
+&lt;p&gt;More specifically, &lt;code&gt;async&lt;/code&gt; was much improved just in time for it to be officially used in the Coursera course &amp;ldquo;Principles of Reactive Programming&amp;rdquo;, which &lt;a href=&#34;http://conscientiousprogrammer.com/blog/2013/12/31/review-of-the-free-coursera-course-principles-of-reactive-programming/&#34;&gt;I just completed and reviewed&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;implicits&#34;&gt;Implicits&lt;/h3&gt;
+
+&lt;p&gt;Roy asked me about other interesting features of Scala. I had to say something about implicits, of course, useful for simulating monkey patching as well as simulating Haskell type classes.&lt;/p&gt;
+
+&lt;p&gt;Implicits are probably the single most interesting language feature of Scala.&lt;/p&gt;
+
+&lt;h4 id=&#34;update-of-2014-02-13&#34;&gt;(Update of 2014-02-13)&lt;/h4&gt;
+
+&lt;p&gt;There was a &lt;a href=&#34;http://conscientiousprogrammer.com/blog/2014/02/13/pittsburgh-scala-meetup-implicits/&#34;&gt;Pittsburgh Scala Meetup session on implicits&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;specialization-of-generics&#34;&gt;Specialization of generics&lt;/h3&gt;
+
+&lt;p&gt;Roy wanted to know whether generics can be specialized in Scala (in contrast to Java, which treats generics as erasure). I said, yes, actually. Fully automatic, efficient specialization is still being improved on, but for now, there&amp;rsquo;s a manual way to do specialization through the &lt;a href=&#34;http://lampwww.epfl.ch/~dragos/files/scala-spec.pdf&#34;&gt;&lt;code&gt;@specialized&lt;/code&gt; annotation&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&#34;update-of-2014-07-17&#34;&gt;(Update of 2014-07-17)&lt;/h4&gt;
+
+&lt;p&gt;There&amp;rsquo;s also &lt;a href=&#34;http://scala-miniboxing.org/&#34;&gt;Miniboxing&lt;/a&gt; for efficiency.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;It was stimulating talking with Roy about Scala and trying to explain stuff to him on the fly, or look stuff up (thank goodness for WiFi in The Beauty Shoppe!), or code something right there and then. The conversations also caused me to do my homework after the meetup!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The second meeting of the Pittsburgh Scala Meetup: Josh Suereth on functional patterns for the asynchronous Web</title>
+      <link>http://franklinchen.com/blog/2013/02/21/the-second-meeting-of-the-pittsburgh-scala-meetup-josh-suereth-on-functional-patterns-for-the-asynchronous-web/</link>
+      <pubDate>Thu, 21 Feb 2013 23:56:50 -0400</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/02/21/the-second-meeting-of-the-pittsburgh-scala-meetup-josh-suereth-on-functional-patterns-for-the-asynchronous-web/</guid>
+      <description>
+
+&lt;p&gt;Tonight was the &lt;a href=&#34;http://www.meetup.com/Pittsburgh-Scala-Meetup/events/99077622/&#34;&gt;second meeting&lt;/a&gt; of the &lt;a href=&#34;http://www.meetup.com/Pittsburgh-Scala-Meetup/&#34;&gt;Pittsburgh Scala Meetup&lt;/a&gt;. It was our first &amp;ldquo;real&amp;rdquo; meeting, in the sense that &lt;a href=&#34;../../blog/2013/01/11/2013-is-my-year-of-scala/&#34;&gt;our first meetup&lt;/a&gt; was just a little gathering in a bar, and this time, we were able to use a nice space in &lt;a href=&#34;http://www.revvoakland.com/&#34;&gt;Revv Oakland&lt;/a&gt; to meet in.&lt;/p&gt;
+
+&lt;h2 id=&#34;attendance&#34;&gt;Attendance&lt;/h2&gt;
+
+&lt;p&gt;A large number of people showed up, which was encouraging, indicating local Pittsburgh interest in Scala.&lt;/p&gt;
+
+&lt;h2 id=&#34;presentation&#34;&gt;Presentation&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://jsuereth.com/&#34;&gt;Josh Suereth&lt;/a&gt; gave the first presentation for the group, a version targeted more to novices of the &lt;a href=&#34;http://jsuereth.com/scala/2013/02/13/nescala-intro-to-fp-talk.html&#34;&gt;talk he gave at NE Scala 2013&lt;/a&gt;, &amp;ldquo;Functional Programming Patterns for the Asynchronous Web&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;By the way, his NE Scala talk, which was constrained because it had be squeezed into 30 minutes and for a diverse audience, is available &lt;a href=&#34;http://nescala.org/#t-12229286&#34;&gt;at the NE Scala site as both video and slides&lt;/a&gt;. I didn&amp;rsquo;t attend his talk when &lt;a href=&#34;../../blog/2013/02/10/ne-scala-2013-my-first-scala-conference/&#34;&gt;we went to NE Scala&lt;/a&gt; because he test-drove it with Jamie and me and I wanted to see people I didn&amp;rsquo;t already know, and different topics.&lt;/p&gt;
+
+&lt;h2 id=&#34;after&#34;&gt;After&lt;/h2&gt;
+
+&lt;p&gt;After the talk, there was general discussion.&lt;/p&gt;
+
+&lt;p&gt;We also brainstormed ideas for a group project. One of the ideas was to create a Web site using &lt;a href=&#34;http://www.playframework.com/&#34;&gt;Play&lt;/a&gt;. Jamie created an initial &lt;a href=&#34;https://github.com/pghscala/web&#34;&gt;GitHub repository for this&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;It&amp;rsquo;s great that the Pittsburgh Scala Meetup is really getting off the ground now. Now that we have a space to use, hopefully we will begin a regularly occurring meeting. And of course, volunteers are needed to start giving talks!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Report on the first Pittsburgh TechFest, 2012</title>
+      <link>http://franklinchen.com/blog/2012/06/09/report-on-the-first-pittsburgh-techfest-2012/</link>
+      <pubDate>Sat, 09 Jun 2012 20:24:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/06/09/report-on-the-first-pittsburgh-techfest-2012/</guid>
+      <description>&lt;figure &gt;
+    
+        &lt;img src=&#34;https://sphotos-a.xx.fbcdn.net/hphotos-prn1/532862_293436380745383_58658441_n.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Pittsburgh TechFest 2012&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;I was excited to attend the very first &lt;a href=&#34;http://pghtechfest.com/&#34;&gt;Pittsburgh TechFest&lt;/a&gt;, held at &lt;a href=&#34;http://www.laroche.edu/&#34;&gt;LaRoche College&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This was my first local programming conference since some Perl conferences years ago!&lt;/p&gt;
+
+&lt;h2 id=&#34;why-attend&#34;&gt;Why attend?&lt;/h2&gt;
+
+&lt;p&gt;In the past couple of years, I have increasingly explored &lt;a href=&#34;../../blog/2011/10/16/pittsburgh-software-developer-communities/&#34;&gt;Pittsburgh&amp;rsquo;s growing programmer meetup scene&lt;/a&gt;, but I wanted to expand beyond that to start attending some local conferences, so of course I was going to attend this one. (I had to cancel a hiking/camping outing in order to make it!)&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-venue&#34;&gt;The venue&lt;/h2&gt;
+
+&lt;p&gt;LaRoche College is in the &lt;a href=&#34;http://en.wikipedia.org/wiki/North_Hills_(Pennsylvania)&#34;&gt;North Hills&lt;/a&gt;, about a twenty-minute drive (in light traffic conditions) from the city of Pittsburgh. This was the first time I&amp;rsquo;d been in LaRoche. They had a decent amount of space for all the sessions for the conference. I think the venue worked out great, and we were also provided lunch in the cafeteria.&lt;/p&gt;
+
+&lt;h2 id=&#34;keynote&#34;&gt;Keynote&lt;/h2&gt;
+
+&lt;p&gt;The keynote speech was by &lt;a href=&#34;http://www.docondev.com/&#34;&gt;Michael &amp;ldquo;Doc&amp;rdquo; Norton&lt;/a&gt; of &lt;a href=&#34;http://leandog.com/&#34;&gt;LeanDog&lt;/a&gt;. He talked about our shared goal, as evidenced by attending the conference, of becoming an &amp;ldquo;excellent software developer&amp;rdquo;. He emphasized the &lt;em&gt;polyglot&lt;/em&gt; nature of the conference, which was organized by members of various local communities including .NET and Java, among others. &amp;ldquo;We don&amp;rsquo;t work alone today,&amp;rdquo; he emphasized. He urged us to broaden ourselves at the conference, and go to talks about topics outside of our own comfortable experience. He used the concept of the &amp;ldquo;T&amp;rdquo; as something to aspire to: having deep knowledge in something but also having broad knowledge of other things.&lt;/p&gt;
+
+&lt;p&gt;I enjoyed the keynote speech and resolved to check out ideas new to me that I might be able to use. The speech actually caused me to spontaneously change some of my original marked-down preferences for which sessions I would attend!&lt;/p&gt;
+
+&lt;h3 id=&#34;update-of-2013-06-01&#34;&gt;(Update of 2013-06-01)&lt;/h3&gt;
+
+&lt;p&gt;&amp;ldquo;Doc&amp;rdquo; has in the past year moved to Groupon.&lt;/p&gt;
+
+&lt;h2 id=&#34;overview-of-sessions&#34;&gt;Overview of sessions&lt;/h2&gt;
+
+&lt;p&gt;The problem I (well, all of us) faced for this conference was that there was a huge number of concurrent talks on all kinds of topics in any given time slot. There were over 30 speakers and over 40 sessions, all in a single day.&lt;/p&gt;
+
+&lt;p&gt;This meant having to decide what to attend and what to miss. Topics came from areas such as:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;.NET&lt;/li&gt;
+&lt;li&gt;Node&lt;/li&gt;
+&lt;li&gt;CoffeeScript&lt;/li&gt;
+&lt;li&gt;Ruby&lt;/li&gt;
+&lt;li&gt;Java&lt;/li&gt;
+&lt;li&gt;PHP&lt;/li&gt;
+&lt;li&gt;Selenium&lt;/li&gt;
+&lt;li&gt;Kinect&lt;/li&gt;
+&lt;li&gt;Scala&lt;/li&gt;
+&lt;li&gt;UX&lt;/li&gt;
+&lt;li&gt;Agile&lt;/li&gt;
+&lt;li&gt;Backbone&lt;/li&gt;
+&lt;li&gt;REST&lt;/li&gt;
+&lt;li&gt;iOS&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;sessions-i-attended&#34;&gt;Sessions I attended&lt;/h2&gt;
+
+&lt;h3 id=&#34;user-experience-maps-for-agile-modeling-maria-emerson-http-www-mariaemerson-com&#34;&gt;User Experience Maps for Agile Modeling (&lt;a href=&#34;http://www.mariaemerson.com/&#34;&gt;Maria Emerson&lt;/a&gt;)&lt;/h3&gt;
+
+&lt;p&gt;The first session I attended was completely outside of my usual world, involving &lt;a href=&#34;http://en.wikipedia.org/wiki/User_experience_design&#34;&gt;&amp;ldquo;user experience&amp;rdquo; (UX)&lt;/a&gt;. I chose it because it was a hands-on workshop. I freely confess that I am usually not very excited by sitting around listening to someone talk and put up code on slides; I feel I could do that at home by myself.&lt;/p&gt;
+
+&lt;p&gt;Maria led us through a simulation of the kind of work she does. We broke up into teams, we were told to design a mobile app for rowers who rent from a boat house, and used sticky notes, a whiteboard, and &amp;ldquo;butcher paper&amp;rdquo; as we went through an abbreviated version of the work flow of figuring out what the app should do and what issues it should address. I thought it was a fantastic workshop.&lt;/p&gt;
+
+&lt;h3 id=&#34;creating-your-own-software-company-kendall-miller&#34;&gt;Creating Your Own Software Company (Kendall Miller)&lt;/h3&gt;
+
+&lt;p&gt;The second session was, again, about something I&amp;rsquo;m not currently doing and is new to me.&lt;/p&gt;
+
+&lt;p&gt;It was by a .NET guy from &lt;a href=&#34;http://www.gibraltarsoftware.com/&#34;&gt;Gibraltar Software&lt;/a&gt; who talked about the nuts and bolts of starting, and especially sustaining, a software company. I learned a lot from his presentation and the discussions, about handling such resources as time, funding, pricing, and especially the &lt;em&gt;psychology&lt;/em&gt; of the customer, as well as self-psychology.&lt;/p&gt;
+
+&lt;p&gt;For example, he emphasized looking at the &lt;em&gt;market&lt;/em&gt; first, when coming up with a conscious plan to achieve &amp;ldquo;deliberate success&amp;rdquo;, rather than get carried away by idealism or fuzzy hopes. He argued that &lt;em&gt;marketing&lt;/em&gt; is what it&amp;rsquo;s all about, and that all business is about &lt;em&gt;people&lt;/em&gt; relating to &lt;em&gt;people&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Very informative and fascinating session!&lt;/p&gt;
+
+&lt;h3 id=&#34;lunch&#34;&gt;Lunch&lt;/h3&gt;
+
+&lt;p&gt;Lunch was surprisingly high quality and filling, in the campus cafeteria.&lt;/p&gt;
+
+&lt;h3 id=&#34;you-say-tomato-i-say-pomodoro-joel-cochran&#34;&gt;You say Tomato, I say Pomodoro (Joel Cochran)&lt;/h3&gt;
+
+&lt;p&gt;After lunch, I went to a session about the &lt;a href=&#34;http://www.pomodorotechnique.com/&#34;&gt;Pomodoro Technique&lt;/a&gt; of time management. I had heard about the Pomodoro Technique for some time, but it sounded bizarre, and I never experimented with implementing it myself.&lt;/p&gt;
+
+&lt;p&gt;I took some notes, but left not really feeling convinced that I would try the technique.&lt;/p&gt;
+
+&lt;h3 id=&#34;introduction-to-actors-using-scala-josh-suereth-http-jsuereth-com&#34;&gt;Introduction to Actors using Scala (&lt;a href=&#34;http://jsuereth.com/&#34;&gt;Josh Suereth&lt;/a&gt;)&lt;/h3&gt;
+
+&lt;p&gt;I first met Josh almost two years ago, when he gave a talk in October 2010 for &lt;a href=&#34;http://java.net/projects/pittjug/&#34;&gt;PittJUG&lt;/a&gt;, &amp;ldquo;Why you want to learn Scala&amp;rdquo;. After that, he has periodically come to more PittJUG meetings, such as a nice &lt;a href=&#34;../../blog/2011/10/26/open-spaces-success-at-the-pittsburgh-java-users-group/&#34;&gt;&amp;ldquo;open spaces&amp;rdquo; one we had last year&lt;/a&gt;. Josh had this morning given a talk &amp;ldquo;Introduction to Functional Programming using Scala&amp;rdquo; that I had skipped, but I attended this one because I had always meant to look into using &lt;a href=&#34;http://en.wikipedia.org/wiki/Actor_model&#34;&gt;actors&lt;/a&gt; for concurrency.&lt;/p&gt;
+
+&lt;p&gt;Josh gave a nice presentation that left me knowing that I definitely wanted to look into actors (and Scala) further.&lt;/p&gt;
+
+&lt;p&gt;Oh, and he was plugging his new book &lt;a href=&#34;http://www.manning.com/suereth/&#34;&gt;Scala in Depth&lt;/a&gt;. I went and bought the ebook when I got home! It&amp;rsquo;s good.&lt;/p&gt;
+
+&lt;h3 id=&#34;hypermedia-api-design-steve-klabnik-http-steveklabnik-com&#34;&gt;Hypermedia API Design (&lt;a href=&#34;http://steveklabnik.com/&#34;&gt;Steve Klabnik&lt;/a&gt;)&lt;/h3&gt;
+
+&lt;p&gt;The final session I attended was an unusual one. Steve Klabnik gave a fairly philosophical rather than technical talk about &lt;a href=&#34;http://www.designinghypermediaapis.com/&#34;&gt;hypermedia API design&lt;/a&gt;. He spoke about the need to make sure the Web remains open and flexible. His point of view is that &amp;ldquo;everything is politics&amp;rdquo;, so when we&amp;rsquo;re talking about how applications can and should communicate with each other, we have some implicit political vision in mind.&lt;/p&gt;
+
+&lt;p&gt;The presentation was kind of abstract for me, probably because I don&amp;rsquo;t currently do much with Web application design. He spoke of metadata, interpretation, and dynamic contracts. If I end up in the Web world again sometime, I&amp;rsquo;ll try to figure out exactly what Steve was trying to say!&lt;/p&gt;
+
+&lt;h2 id=&#34;what-next&#34;&gt;What next?&lt;/h2&gt;
+
+&lt;p&gt;I took a lot of notes that I hope to study and use in my career as a software developer. Also, I&amp;rsquo;m inspired by seeing so many people I know giving talks. At some point, I should start sharing what I know by giving presentations also.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s &lt;a href=&#34;http://updyke.com/blog/2012/06/09/pittsburgh-techfest-2012/&#34;&gt;another participant&amp;rsquo;s review of the Pittsburgh TechFest&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;I&amp;rsquo;d like to thank the organizers of the very first Pittsburgh TechFest, and the sponsors who made the conference so inexpensive and accessible. And of course, I appreciate everyone who signed on to give a presentation. I learned a lot over the course of the day, and look forward to another Pittsburgh TechFest in 2013!&lt;/p&gt;
+
+&lt;h3 id=&#34;update-of-2013-06-01-1&#34;&gt;(Update of 2013-06-01)&lt;/h3&gt;
+
+&lt;p&gt;I went to &lt;a href=&#34;../../blog/2013/06/01/report-on-the-second-pittsburgh-techfest-2013/&#34;&gt;Pittsburgh TechFest again in 2013&lt;/a&gt;, and had a great time, despite being sick. Also, as I had promised myself a year ago, I gave a presentation there! &lt;a href=&#34;../../blog/2013/06/01/pittsburgh-tech-fest-2013-my-talk-stop-overusing-regular-expressions/&#34;&gt;Full report here&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

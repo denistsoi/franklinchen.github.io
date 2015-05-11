@@ -1,0 +1,1563 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Java on Franklin Chen</title>
+    <link>http://franklinchen.com/categories/java/atom/index.xml</link>
+    <description>Recent content in Java on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/categories/java/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Report on the second Pittsburgh TechFest, 2013</title>
+      <link>http://franklinchen.com/blog/2013/06/01/report-on-the-second-pittsburgh-techfest-2013/</link>
+      <pubDate>Sat, 01 Jun 2013 22:06:17 -0400</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/06/01/report-on-the-second-pittsburgh-techfest-2013/</guid>
+      <description>&lt;p&gt;Last year (&lt;a href=&#34;../../blog/2012/06/09/report-on-the-first-pittsburgh-techfest-2012/&#34;&gt;my report here&lt;/a&gt;), I attended the very first &lt;a href=&#34;http://pghtechfest.com/&#34;&gt;Pittsburgh Tech Fest&lt;/a&gt;, held at &lt;a href=&#34;http://www.laroche.edu/&#34;&gt;LaRoche College&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;my-second-year&#34;&gt;My second year&lt;/h2&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://pghtechfest.com/images/pt_logo_2.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Pittsburgh TechFest 2013&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;I was very excited to attend it again this year, with a twist: I reported last year that I was inspired by seeing people I know giving talks, and two months later, after the very first &lt;a href=&#34;http://steelcityruby.org/&#34;&gt;Steel City Ruby Conf&lt;/a&gt; &lt;a href=&#34;../../blog/2012/08/07/the-first-steel-city-ruby-conference-an-amazing-experience/&#34;&gt;decided to finally start giving talks myself&lt;/a&gt;, starting with user group talks. When the organizers of this year&amp;rsquo;s Pittsburgh TechFest put out a call for presentations four months ago, I knew I wanted to submit some, and so I did. My talk &amp;ldquo;Stop overusing regular expressions!&amp;rdquo; was accepted!&lt;/p&gt;
+
+&lt;p&gt;This year I had a goal of enjoying the conference even more than I enjoyed last year&amp;rsquo;s, and I succeeded!&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;speakers-dinner-the-evening-before-the-conference&#34;&gt;Speakers&amp;rsquo; dinner the evening before the conference&lt;/h2&gt;
+
+&lt;p&gt;All speakers were invited to a speakers&amp;rsquo; dinner for the evening before the one-day conference, so I eagerly attended, in order to see some old friends as well as meet new people I hadn&amp;rsquo;t met before. That was fun. This was at &lt;a href=&#34;http://www.foxandhound.com/&#34;&gt;Fox and Hound Bar and Grill&lt;/a&gt; on McKnight Road. I had to fight through considerable rush hour traffic (and also feeling rather ill: more on that later) to get up north out there from the city, but made it. Tortilla chips, veggie trays, baked potatoes, chicken wings: not my usual diet, but those who know me know that I actually love this stuff, ha (thirty pounds ago I ate like that more often)!&lt;/p&gt;
+
+&lt;p&gt;The always eerie thing is meeting people in person &lt;em&gt;finally&lt;/em&gt; that you&amp;rsquo;ve mainly &amp;ldquo;known&amp;rdquo; from Twitter or email. For example, last year, when I was far more &lt;em&gt;shy&lt;/em&gt;, I never actually met the founders of the new conference and talked with them. At the speakers&amp;rsquo; dinner, I finally met Eric Kepes and Dave Hoerster, for example!&lt;/p&gt;
+
+&lt;p&gt;Last year, I basically made myself invisible and kind of only hung out a little bit with some people, whom I already knew! &lt;a href=&#34;../../blog/2012/08/22/steel-city-ruby-conf-review-part-1-its-about-people/&#34;&gt;My experience at Steel City Ruby Conf completely altered how I feel I should relate to people, not only in programming conferences but in life&lt;/a&gt;. I&amp;rsquo;m still slowly getting out of my shell that I basically lived in for four decades, but I know I&amp;rsquo;ve made some real progress in the past year.&lt;/p&gt;
+
+&lt;h2 id=&#34;breakfast-the-day-of-the-conference&#34;&gt;Breakfast the day of the conference&lt;/h2&gt;
+
+&lt;p&gt;Unfortunately, because I was in a rush, I did not eat any breakfast before leaving home. Somehow, I had assumed there would be breakfast provided at the conference (in the form of bagels and fruit, something like that). I was wrong. There was just juice, coffee, tea. Luckily, I had an emergency energy bar in my bag, and ate it.&lt;/p&gt;
+
+&lt;p&gt;Others I talked to were also confused by the lack of food. Maybe in the future it should be made clear whether there is any food provided at the beginning of the day.&lt;/p&gt;
+
+&lt;h2 id=&#34;keynote&#34;&gt;Keynote&lt;/h2&gt;
+
+&lt;p&gt;This year, the keynote speech was by &lt;a href=&#34;http://www.linkedin.com/in/dickwall&#34;&gt;Dick Wall&lt;/a&gt;, whom some of you may know from the &lt;a href=&#34;http://javaposse.com/&#34;&gt;Java Posse&lt;/a&gt; podcast, others from the &lt;a href=&#34;http://www.scalawags.tv/&#34;&gt;Scalawags&lt;/a&gt; podcast that started half a year ago (Scala fans, you have to watch this: it also features &lt;a href=&#34;http://www.linkedin.com/in/djspiewak&#34;&gt;Daniel Spiewak&lt;/a&gt; and Pittsburgh&amp;rsquo;s own &lt;a href=&#34;http://jsuereth.com/&#34;&gt;Josh Suereth&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Dick gave a passionate, personal, entertaining, and thoughtful talk urging all of us to adopt a mindset of taking risks and embracing &lt;em&gt;failure&lt;/em&gt;, just as he has in his professional life: he has worked at many companies, including Google and small startups, and his own currently, &lt;a href=&#34;http://www.escalatesoft.com/&#34;&gt;Escalate&lt;/a&gt;, which is devoted to Scala training and mentoring.&lt;/p&gt;
+
+&lt;h3 id=&#34;some-lessons-from-dick&#34;&gt;Some lessons from Dick&lt;/h3&gt;
+
+&lt;p&gt;Some of the lessons Dick imparted, while putting up slides of some pretty epic failures (software or otherwise, including mountain biking, which he does):&lt;/p&gt;
+
+&lt;p&gt;Do not overplan; be prepared to adapt to the present situation.&lt;/p&gt;
+
+&lt;p&gt;If something is not working, don&amp;rsquo;t continue just because you have invested in it already (&lt;a href=&#34;http://en.wikipedia.org/wiki/Sunk_costs&#34;&gt;sunk cost&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Do something new and valuable; for example, don&amp;rsquo;t write yet another &lt;a href=&#34;http://en.wikipedia.org/wiki/Content_management_system&#34;&gt;CMS&lt;/a&gt;, because people have already done it.&lt;/p&gt;
+
+&lt;p&gt;The worst thing to do is to &amp;ldquo;waste engineering effort&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Fail &lt;em&gt;early&lt;/em&gt;, never in production! Example: the &lt;a href=&#34;http://en.wikipedia.org/wiki/Tacoma_Narrows_Bridge&#34;&gt;Tacoma Narrows Bridge&lt;/a&gt; disaster.&lt;/p&gt;
+
+&lt;p&gt;If you fail repeatedly at something, maybe it&amp;rsquo;s time to stop it and move on.&lt;/p&gt;
+
+&lt;p&gt;Honest communication is key. Often, late failure happens because someone was afraid to honestly speak up about design flaws, and often this is because there is a culture against such honesty.&lt;/p&gt;
+
+&lt;p&gt;Don&amp;rsquo;t focus on &lt;a href=&#34;http://en.wikipedia.org/wiki/Happy_path&#34;&gt;happy path testing&lt;/a&gt;, but on the sad path: think up front about how something can fail, before even coding.&lt;/p&gt;
+
+&lt;p&gt;You can&amp;rsquo;t know whether you&amp;rsquo;ve succeeded or failed unless you have defined concretely what success means in a given context.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://en.wikipedia.org/wiki/Software_craftsmanship&#34;&gt;software craftsmanship&lt;/a&gt; movement, which focuses on quality, is well-meaning but often results in people afraid to try new things (such as learn and use a new language) because they are afraid of writing &amp;ldquo;bad code&amp;rdquo; at first. It&amp;rsquo;s OK to start out by writing bad code.&lt;/p&gt;
+
+&lt;p&gt;One way of failing early is to push failure to compile time (he briefly gave a plug for Scala&amp;rsquo;s type system as one way to do this).&lt;/p&gt;
+
+&lt;h2 id=&#34;overview-of-sessions&#34;&gt;Overview of sessions&lt;/h2&gt;
+
+&lt;p&gt;As with last year, or actually far &amp;ldquo;worse&amp;rdquo;, there were a huge number of sessions and limited time slots. I counted six major time slots, with an average of nine sessions during each, so anyone who attended a session in a given time slot basically had choose &lt;em&gt;one out of nine&lt;/em&gt;. This is pretty wild. (Depending on logistics, hopefully next year the conference can move to a two-day format.)&lt;/p&gt;
+
+&lt;p&gt;Consistent with my philosophy in the past year of conference attendance, I chose to seek out talks that fulfilled the following criteria:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;topics revolving around philosophy, experience, wisdom rather than technical tutorials&lt;/li&gt;
+&lt;li&gt;speakers &lt;em&gt;not&lt;/em&gt; from Pittsburgh and whom I do &lt;em&gt;not&lt;/em&gt; already know&lt;/li&gt;
+&lt;li&gt;stuff I&amp;rsquo;m very interested in that benefits particularly from a guided intro versus looking up a tutorial online&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;sessions-i-attended&#34;&gt;Sessions I attended&lt;/h2&gt;
+
+&lt;h3 id=&#34;messaging-with-rabbitmq-handerson-gomes-http-www-linkedin-com-in-handersongomes&#34;&gt;Messaging with RabbitMQ (&lt;a href=&#34;http://www.linkedin.com/in/handersongomes&#34;&gt;Handerson Gomes&lt;/a&gt;)&lt;/h3&gt;
+
+&lt;p&gt;Actually, I already know Handerson from Pittsburgh meetups. But, as he offered for his session a sequence of lightning talks on RabbitMQ, I thought I would learn something.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, after his first couple of intro talks, I was feeling so sleepy and ill (more on my physical condition at the end of this report) that I had to bail out and take a nap. I napped for about half an hour, much needed before the second session. Then I realized I wasn&amp;rsquo;t just sleepy, but also starving, and found a vending machine and got more food! Meanwhile, I immediately logged into my health care provider&amp;rsquo;s Web site and submitted a request for a doctor&amp;rsquo;s appointment on Monday.&lt;/p&gt;
+
+&lt;h3 id=&#34;it-s-cool-nobody-else-knows-what-they-re-doing-either-jared-faris-http-www-jaredthenerd-com&#34;&gt;It&amp;rsquo;s Cool, Nobody Else Knows What They&amp;rsquo;re Doing Either (&lt;a href=&#34;http://www.jaredthenerd.com/&#34;&gt;Jared Faris&lt;/a&gt;)&lt;/h3&gt;
+
+&lt;p&gt;This was an interesting philosophical discussion about career and personal development, much in the lines of the keynote speech by Dick Wall.&lt;/p&gt;
+
+&lt;p&gt;Jared said that to really learn, we have to &lt;em&gt;challenge&lt;/em&gt; ourselves. We have to go beyond our comfort zone. How far? He suggested that we should take on stuff that we&amp;rsquo;re 80% sure we can do: if we are too ambitious and commit to something we feel only 50% sure of, that is too risky, because then we might just fail without really learning something from the experience.&lt;/p&gt;
+
+&lt;h4 id=&#34;some-lessons-from-jared&#34;&gt;Some lessons from Jared&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;Ask for help&lt;/em&gt;. Jared related that in the past, he was too proud to ask for help because there&amp;rsquo;s sometimes an implicit gamesmanship among us software developers: we don&amp;rsquo;t want to look dumber than our friends, and we fear rejection. But he learned that asking for help was effective, because in the long run it means getting better faster, rather than flailing alone. Stop trying to impress people.&lt;/p&gt;
+
+&lt;p&gt;The way to stretch yourself is to build a base of what you do know, so that when you go beyond that, you have the tools to move to the next level.&lt;/p&gt;
+
+&lt;p&gt;Be &amp;ldquo;honest but confident&amp;rdquo;. Do not fear the art of self-promotion: if you hold back on speaking up for yourself because you don&amp;rsquo;t know it all, then you&amp;rsquo;ll lose out to someone who does speak up.&lt;/p&gt;
+
+&lt;h3 id=&#34;stop-overusing-regular-expressions-me&#34;&gt;Stop overusing regular expressions! (me)&lt;/h3&gt;
+
+&lt;p&gt;I could not attend any of the interesting sessions in the third time slot because I was giving a talk.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s &lt;a href=&#34;../../blog/2013/06/01/pittsburgh-tech-fest-2013-my-talk-stop-overusing-regular-expressions/&#34;&gt;my report about my talk&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;lunch&#34;&gt;Lunch&lt;/h3&gt;
+
+&lt;p&gt;Lunch was of the usual La Roche College cafeteria high quality, nutritious and filling. (And I also ate some cake and pie as well, ha!) This time I socialized more, sitting with some people I knew (but not so well) and people I didn&amp;rsquo;t know. It was great.&lt;/p&gt;
+
+&lt;p&gt;I skipped the lunchtime vendor talks. They might have been interesting, but I needed a break from sitting around in talks, and certainly did not feel like taking lunch outside to eat alone while listening to someone talk! There seemed to be a sizable audience for the one outside the cafeteria, however, so I&amp;rsquo;m happy they found it useful!&lt;/p&gt;
+
+&lt;h3 id=&#34;redesign-is-not-a-four-letter-word-adam-kalnas-http-www-linkedin-com-pub-adam-kalnas-4-660-638&#34;&gt;Redesign is not a four letter word (&lt;a href=&#34;http://www.linkedin.com/pub/adam-kalnas/4/660/638&#34;&gt;Adam Kalnas&lt;/a&gt;)&lt;/h3&gt;
+
+&lt;p&gt;So this was a short (30-minute) talk about redesign. Although Adam works in the .NET world, the lessons he learned and shared with us are not platform-specific. He described how an architecture at &lt;a href=&#34;http://www.omnyx.com/&#34;&gt;Omnyx&lt;/a&gt; was redesigned successfully. The steps included&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Writing pinning tests for a system that had no automated tests at all.&lt;/li&gt;
+&lt;li&gt;Creating an abstract interface for an existing layer.&lt;/li&gt;
+&lt;li&gt;Rewriting code to go through the interface API.&lt;/li&gt;
+&lt;li&gt;Creating a parallel implementation for the interface.&lt;/li&gt;
+&lt;li&gt;Using &lt;a href=&#34;http://martinfowler.com/bliki/FeatureToggle.html&#34;&gt;feature toggles&lt;/a&gt; to keep both implementations in the code.&lt;/li&gt;
+&lt;li&gt;Finally switching off the feature toggle and deleting the old implementation.&lt;/li&gt;
+&lt;li&gt;All the while adding more &lt;a href=&#34;http://en.wikipedia.org/wiki/Test-driven_development&#34;&gt;TDD&lt;/a&gt; tests.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It was a really nice story of how a really gnarly legacy architecture was successfully brought into the world of cleaner interfaces and automated tests.&lt;/p&gt;
+
+&lt;h3 id=&#34;node-js-design-patterns-for-the-discerning-developer-aaron-cois-http-www-linkedin-com-pub-constantine-aaron-cois-6-312-824&#34;&gt;Node.js Design Patterns for the Discerning Developer (&lt;a href=&#34;http://www.linkedin.com/pub/constantine-aaron-cois/6/312/824&#34;&gt;Aaron Cois&lt;/a&gt;)&lt;/h3&gt;
+
+&lt;p&gt;I am fairly new to the &lt;a href=&#34;http://nodejs.org/&#34;&gt;Node.js&lt;/a&gt; world, having first heard of it two years ago at a &lt;a href=&#34;http://meetups.jquery.com/events/nodejs-with-todd-eichel&#34;&gt;March 2011 meeting of the Pittsburgh jQuery meetup&lt;/a&gt; in which Todd Eichel introduced Node to the group.&lt;/p&gt;
+
+&lt;p&gt;I don&amp;rsquo;t currently actively use Node except, amusingly, as a vehicle for testing non-client JavaScript code for my own purposes.&lt;/p&gt;
+
+&lt;p&gt;Aaron basically talked about how to deal with the whole &amp;ldquo;callback hell&amp;rdquo; problem when dealing with the asynchronous APIs of Node. There was hairy looking code that he transformed or wrote wrappers for in order to make less hairy, but to my eye it was still hairy. I have forked his &lt;a href=&#34;https://github.com/cacois/node-patterns-discerning&#34;&gt;GitHub repository for the talk&lt;/a&gt; and hope to go through the code more closely.&lt;/p&gt;
+
+&lt;h3 id=&#34;scaling-out-with-akka-actors-josh-suereth-http-jsuereth-com&#34;&gt;Scaling out with Akka Actors (&lt;a href=&#34;http://jsuereth.com/&#34;&gt;Josh Suereth&lt;/a&gt;)&lt;/h3&gt;
+
+&lt;p&gt;I&amp;rsquo;m still not an active &lt;a href=&#34;http://akka.io/&#34;&gt;Akka&lt;/a&gt; user, although there is something I believe I could use Akka for fruitfully at work, to considerably improve some efficiency (but in practice, nobody is complaining about the speed, so as a practical matter it has been of no priority to scale out the task in question), and also some personal projects.&lt;/p&gt;
+
+&lt;p&gt;Josh has been promoting Akka for some time: it was at last year&amp;rsquo;s Pittsburgh TechFest that I got my first real introduction to it. Since then, Josh has given more advanced talks on architectures using Akka, as Akka continues to improve and provide more features.&lt;/p&gt;
+
+&lt;p&gt;I learned quite a bit from this talk about scaling out (vs. scaling up): the focus on topology, the adding of new actors whenever you want to handle some transient state or manage other actors. It&amp;rsquo;s really a different way of thinking than &amp;ldquo;ordinary&amp;rdquo; programming and is perhaps more faithful to the original concept of &amp;ldquo;object-oriented&amp;rdquo; (being focused entirely on being asynchronous and passing immutable messages) than what has been considered object-oriented in the past couple of decades.&lt;/p&gt;
+
+&lt;p&gt;For more details, check out his slides and code at his &lt;a href=&#34;https://github.com/jsuereth/intro-to-actors&#34;&gt;GitHub repository&lt;/a&gt;. Note that the code for the clusters talk is on the &lt;a href=&#34;https://github.com/jsuereth/intro-to-actors/tree/clusters&#34;&gt;&lt;code&gt;clusters&lt;/code&gt; branch&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I am definitely going to start using Akka this year. I think the time for actors has truly come.&lt;/p&gt;
+
+&lt;h2 id=&#34;after&#34;&gt;After&lt;/h2&gt;
+
+&lt;p&gt;Dave Hoerster gave the closing speech, thanking all the many sponsors who supported the conference. It was definitely really cool how many sponsors there were. He also noted that there may be an attempt to scale up to a two-day event, which would be really cool if it can be made to happen.&lt;/p&gt;
+
+&lt;p&gt;There were raffle prizes. Amusingly, the vast number of people randomly chosen had already left the premises (hey, it was a long day), so it took a while to give everything away (although some prizes were marked to be emailed to those who were no longer present).&lt;/p&gt;
+
+&lt;p&gt;After the official conclusion of the conference, some people gathered in groups to have dinner together. I wanted to join Josh and Dick, but knew that I was feeling really miserable and had to go home to shower and sleep.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-next&#34;&gt;What next?&lt;/h2&gt;
+
+&lt;p&gt;I will apply the lessons I learned from all the talks and conversations I participated in.&lt;/p&gt;
+
+&lt;p&gt;One thing I&amp;rsquo;ve done is forked a bunch of GitHub repositories for talks that people have posted online (and not just talks I went to) that seem like useful places for me to concretely learn and explore further. Ideas are fine, but working code is working code!&lt;/p&gt;
+
+&lt;h2 id=&#34;thanks&#34;&gt;Thanks&lt;/h2&gt;
+
+&lt;p&gt;I&amp;rsquo;m really grateful not only to attend this conference, but also speak in it, and learn a lot of things, meet new people (and add their blogs to my RSS feeds as well as follow them on Twitter), and share ideas with everyone. I thank the organizers who put in even more work than last year, because of so many more attendees and speakers! I thank the speakers whose presentations I attended (and those I met whose presentations I would have wanted to attended if not for the time conflicts) for sharing their knowledge and experience. And La Roche College was a good venue (and I noticed that this year there was not the temperature problem of last year, when it was just way too cold in the rooms).&lt;/p&gt;
+
+&lt;p&gt;I hope to come to another Pittsburgh TechFest in 2014. Of course, I would submit some talks for it, and come up with helpful topics that are of increasingly more general interest and use.&lt;/p&gt;
+
+&lt;h2 id=&#34;note-on-being-sick&#34;&gt;Note on being sick&lt;/h2&gt;
+
+&lt;p&gt;I&amp;rsquo;ve been sick for a week with contact dermatitis, which I thought I got from poison ivy, but may have come from somewhere else. I was hoping it would clear up on its own, so that I could avoid taking drugs, but I felt increasingly worse yesterday (the itching was very unpleasant and made sleep very difficult), and then during the conference, got even worse. I went home and immediately fell into a nap from exhaustion. When I woke up, I was feeling really terrible. I clearly needed immediate treatment. Abby had come home and told me she was going t take me to the local &lt;a href=&#34;http://upmc.com/Services/urgent-care/Pages/default.aspx&#34;&gt;UPMC Urgent Care&lt;/a&gt; center. So we went, and I got a truly painful steroid shot in the hip. It didn&amp;rsquo;t take long before I started feeling better, with relief from itching, so that I could at least sleep.&lt;/p&gt;
+
+&lt;p&gt;I decided that Dick Wall&amp;rsquo;s advice of not failing repeatedly applied to me. I have failed late and too many times by not going to a doctor earlier. I have reasons (some really terrible experiences with doctors earlier in my life who really botched things up big time, and also I generally don&amp;rsquo;t like getting shots or drugs), but reason has to kick in. I should have gone to a doctor last week when I started having real problems, or even better, gotten my neck rash checked out three weeks ago when it first appeared. I don&amp;rsquo;t like to admit my stupidity and stubbornness, but this is &amp;ldquo;honest communication&amp;rdquo;. I am publicly admitting that I made my own life miserable for weeks, as well as Abby&amp;rsquo;s, and also my fellow conference attendees who had to put up with my marred appearance and energy level (when I explained I wasn&amp;rsquo;t feeling well, people admitted to not wanting to ask me what was up with my neck and skin in general). It wasn&amp;rsquo;t reasonable for me to resist seeking immediate medical attention, and in the future, I will not only use this as a specific learning experience (check myself after any bites or rashes, and immediately have all affected clothing items washed), but a more general one about admitting failure early rather than hoping something going bad with my body will just get better.&lt;/p&gt;
+
+&lt;p&gt;I have had a habit of pushing myself too hard (really messing up not only my &lt;a href=&#34;../../blog/2013/04/20/on-overtraining-and-feeling-injured-two-weeks-before-the-pittsburgh-marathon/&#34;&gt;Pittsburgh Marathon&lt;/a&gt;, but also a &lt;a href=&#34;../../blog/2012/06/03/a-totally-exhausting-rachel-carson-trail-challenge-goal-training-hike/&#34;&gt;Rachel Carson Trail hike&lt;/a&gt; where if I had not been so fatigued, I would have paid more attention to plants brushing against me or the like, and even my 9-mile run last Saturday that proved too taxing given my incomplete recovery from both of those. Pushing too hard is just stupid, and I know it. What&amp;rsquo;s the worst thing: doing something stupid even though you know it; at least if you don&amp;rsquo;t know it, you can be forgiven.&lt;/p&gt;
+
+&lt;h3 id=&#34;update-of-2013-06-02&#34;&gt;(Update of 2013-06-02)&lt;/h3&gt;
+
+&lt;p&gt;The next day, I was feeling much better, but it&amp;rsquo;s clear that full recovery will take a while. I will continue taking steroid pills and applying steroid cream as needed to relieve the itching. I hope that in two weeks I&amp;rsquo;ll be all good again!&lt;/p&gt;
+
+&lt;h3 id=&#34;update-of-2014-06-05&#34;&gt;(Update of 2014-06-05)&lt;/h3&gt;
+
+&lt;p&gt;A year later, I reviewed this post just before my third Pittsburgh TechFest, in 2014, where I am to give another presentation.&lt;/p&gt;
+
+&lt;p&gt;It turned out that my health suffered tremendously for &lt;em&gt;months&lt;/em&gt;. I reported on that &lt;a href=&#34;../../blog/2013/08/10/emerging-from-my-three-months-of-illness-self-pitying-and-self-loathing/&#34;&gt;in August 2013&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;If you&amp;rsquo;ve attended Pittsburgh TechFest or will do so this year, I&amp;rsquo;d like to hear your thoughts about what you&amp;rsquo;ve learned and used, or hope to!&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>My Pittsburgh Scala Meetup talk on property-based testing using ScalaCheck</title>
+      <link>http://franklinchen.com/blog/2013/04/11/my-pittsburgh-scala-meetup-talk-on-property-based-testing-using-scalacheck/</link>
+      <pubDate>Thu, 11 Apr 2013 22:49:30 -0400</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/04/11/my-pittsburgh-scala-meetup-talk-on-property-based-testing-using-scalacheck/</guid>
+      <description>
+
+&lt;p&gt;Tonight was the &lt;a href=&#34;http://www.meetup.com/Pittsburgh-Scala-Meetup/events/108080782/&#34;&gt;third meeting&lt;/a&gt; of the &lt;a href=&#34;http://www.meetup.com/Pittsburgh-Scala-Meetup/&#34;&gt;Pittsburgh Scala Meetup&lt;/a&gt;. Our last meeting was &lt;a href=&#34;../../blog/2013/02/21/the-second-meeting-of-the-pittsburgh-scala-meetup-josh-suereth-on-functional-patterns-for-the-asynchronous-web/&#34;&gt;in late February&lt;/a&gt;, and we didn&amp;rsquo;t have a meeting in March.&lt;/p&gt;
+
+&lt;h2 id=&#34;attendance&#34;&gt;Attendance&lt;/h2&gt;
+
+&lt;p&gt;This time there were only six of us in attendance, but that had its advantages, as it resulted in everyone really participating fully in discussion.&lt;/p&gt;
+
+&lt;h2 id=&#34;presentation&#34;&gt;Presentation&lt;/h2&gt;
+
+&lt;p&gt;I gave a presentation &amp;ldquo;Beyond xUnit example-based testing: property-based testing with ScalaCheck&amp;rdquo; as an introduction to property-based testing, with examples using &lt;a href=&#34;http://www.scalacheck.org/&#34;&gt;ScalaCheck&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I prepared the presentation with the goal of spreading the word on property-based testing as a complement to much more widely used methods of testing in the TDD/BDD software development communities. My impression has been that outside of the functional programming communities such as those in Haskell (the pioneer of &lt;a href=&#34;http://en.wikipedia.org/wiki/QuickCheck&#34;&gt;QuickCheck&lt;/a&gt;), ML, and Haskell, there has not been as much use of property-based methods of design and testing. Fortunately, this has been changing.&lt;/p&gt;
+
+&lt;p&gt;In any case, I personally can no longer imagine not starting out design exploration without using ScalaCheck on Scala or Java based projects. It&amp;rsquo;s a useful additional tool for the developer&amp;rsquo;s toolkit.&lt;/p&gt;
+
+&lt;h3 id=&#34;slides-and-code&#34;&gt;Slides and code&lt;/h3&gt;
+
+&lt;p&gt;My slides are available &lt;a href=&#34;http://www.slideshare.net/FranklinChen/handout-18644963&#34;&gt;on slideshare&lt;/a&gt;, and a full SBT project of the code is &lt;a href=&#34;https://github.com/franklinchen/talk-on-scalacheck&#34;&gt;on GitHub&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Note that the slides are not in any way a substitute for the actual talk and the questions and answers and discussion during and after it! They are most useful as memory joggers for those who actually attended the presentation. A set of slides is nothing resembling a technical article or a blog post.&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src=&#34;http://www.slideshare.net/slideshow/embed_code/18644963&#34; width=&#34;427&#34; height=&#34;356&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px&#34; allowfullscreen webkitallowfullscreen mozallowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;http://www.slideshare.net/FranklinChen/handout-18644963&#34; title=&#34;Beyond xUnit example-based testing: property-based testing with ScalaCheck&#34; target=&#34;_blank&#34;&gt;Beyond xUnit example-based testing: property-based testing with ScalaCheck&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;http://www.slideshare.net/FranklinChen&#34; target=&#34;_blank&#34;&gt;Franklin Chen&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;after&#34;&gt;After&lt;/h2&gt;
+
+&lt;p&gt;Out of some questions during the talk, we came up with an idea for improving ScalaCheck that might be an interesting group project to work on.&lt;/p&gt;
+
+&lt;p&gt;There was also more general discussion of using Scala, upcoming and ongoing local Pittsburgh general tech gatherings, Josh filling us in on developments in the Scala world, and ideas for future presentations.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;It was a small gathering, but I enjoyed presenting on property-based testing, and we had some really good discussions. Another meeting for the Pittsburgh Scala Meetup has already been &lt;a href=&#34;http://www.meetup.com/Pittsburgh-Scala-Meetup/events/112652112/&#34;&gt;scheduled for May&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pittsburgh Python: distribute and other Python community controversies</title>
+      <link>http://franklinchen.com/blog/2013/02/27/pittsburgh-python-distribute-and-other-python-community-controversies/</link>
+      <pubDate>Wed, 27 Feb 2013 22:12:03 -0500</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/02/27/pittsburgh-python-distribute-and-other-python-community-controversies/</guid>
+      <description>&lt;p&gt;I was very interested to attend this month&amp;rsquo;s &lt;a href=&#34;http://www.meetup.com/pghpython/&#34;&gt;Pittsburgh Python User Group&lt;/a&gt; &lt;a href=&#34;http://www.meetup.com/pghpython/events/95504432/&#34;&gt;meeting&lt;/a&gt; because Nick Sloan was going to give a talk about packaging with &lt;a href=&#34;http://pythonhosted.org/distribute/&#34;&gt;&lt;code&gt;distribute&lt;/code&gt;&lt;/a&gt;: packaging in Python has been a &lt;em&gt;huge source of confusion&lt;/em&gt; to me, both as a user and as a developer.&lt;/p&gt;
+
+&lt;p&gt;Since my use of Python at work or for personal purposes has not been very large scale, I have limped along with settling on a clean setup to use for packaging my code. This is in stark contrast to my management of libraries in Perl, Ruby, and Java, where I think there has been more of a consensus in adoption of certain tools and conventions.&lt;/p&gt;
+
+&lt;p&gt;Also, Joe Esposito sent around some links to interesting discussions and news in the global Python community, so I looked forward to hearing what everyone thought.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-problem-with-python-packaging&#34;&gt;The problem with Python packaging&lt;/h2&gt;
+
+&lt;p&gt;OK, so the big problem I faced when trying to nicely set up packaging for a personal project a while ago was that there are many options. The &lt;a href=&#34;http://en.wikipedia.org/wiki/The_Paradox_of_Choice:_Why_More_Is_Less&#34;&gt;paradox of choice&lt;/a&gt; is insidious, and it is surprising to me in the Python community, which has generally prided itself on a general consensus on a philosophy of &lt;a href=&#34;http://wiki.python.org/moin/TOOWTDI&#34;&gt;&amp;ldquo;There&amp;rsquo;s Only One Way To Do It&amp;rdquo;&lt;/a&gt;, in sharp and deliberate contrast to the Perl community&amp;rsquo;s philosophy of &lt;a href=&#34;http://en.wikipedia.org/wiki/There&#39;s_more_than_one_way_to_do_it&#34;&gt;&amp;ldquo;There&amp;rsquo;s More Than One Way To Do It&amp;rdquo;&lt;/a&gt; (TIMTOWTDI).&lt;/p&gt;
+
+&lt;h2 id=&#34;nick-sloan-on-packaging-with-distribute-http-pythonhosted-org-distribute&#34;&gt;Nick Sloan on packaging with &lt;a href=&#34;http://pythonhosted.org/distribute/&#34;&gt;&lt;code&gt;distribute&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Nick summarized the situation of existing packaging systems for Python:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://docs.python.org/2/distutils/&#34;&gt;&lt;code&gt;distutils&lt;/code&gt;&lt;/a&gt; is lacking in features&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pythonhosted.org/setuptools/index.html&#34;&gt;&lt;code&gt;setuptools&lt;/code&gt;&lt;/a&gt; is stagnant&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pythonhosted.org/distribute/&#34;&gt;&lt;code&gt;distribute&lt;/code&gt;&lt;/a&gt; is a fork of &lt;code&gt;setuptools&lt;/code&gt; and aims to replace it&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;He then illustrated the basics of packaging with writing &lt;code&gt;setup.py&lt;/code&gt;, referencing &lt;a href=&#34;https://medium.com/kr-projects/b8388ba7c1a&#34;&gt;Kenneth Reitz&amp;rsquo;s recommendations on repository structure&lt;/a&gt;, based on &lt;code&gt;distribute&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;kenneth-reitz-s-recommendations-on-repository-structure&#34;&gt;Kenneth Reitz&amp;rsquo;s recommendations on repository structure&lt;/h3&gt;
+
+&lt;p&gt;The most interesting thing about Kenneth Reitz&amp;rsquo;s recommendations was that he advocated separating out &lt;em&gt;tests&lt;/em&gt; from the code of a module, to reduce dependencies for the installer and user of the module. I definitely prefer to have a separate directory tree for tests, as is standard by &lt;em&gt;convention&lt;/em&gt; when I write tests for projects in many other languages. For example:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Perl: &lt;code&gt;t/&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Ruby: &lt;code&gt;spec/&lt;/code&gt; when using RSpec&lt;/li&gt;
+&lt;li&gt;Java: &lt;code&gt;src/test/&lt;/code&gt; when using JUnit&lt;/li&gt;
+&lt;li&gt;Scala: &lt;code&gt;src/test/&lt;/code&gt; when using Specs2 and ScalaCheck&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I don&amp;rsquo;t really like his &lt;code&gt;tests/context.py&lt;/code&gt; system of imports, as it is too dynamic in chasing down imports, and therefore may not play well by default with standard tools:&lt;/p&gt;
+
+&lt;div class=&#34;highlight&#34; style=&#34;background: #f8f8f8&#34;&gt;&lt;pre style=&#34;line-height: 125%&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span style=&#34;color: #008000; font-weight: bold&#34;&gt;import&lt;/span&gt; &lt;span style=&#34;color: #0000FF; font-weight: bold&#34;&gt;os&lt;/span&gt;
+&lt;span style=&#34;color: #008000; font-weight: bold&#34;&gt;import&lt;/span&gt; &lt;span style=&#34;color: #0000FF; font-weight: bold&#34;&gt;sys&lt;/span&gt;
+sys&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;path&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;insert(&lt;span style=&#34;color: #666666&#34;&gt;0&lt;/span&gt;, os&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;path&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;abspath(&lt;span style=&#34;border: 1px solid #FF0000&#34;&gt;‘&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;..&lt;/span&gt;&lt;span style=&#34;border: 1px solid #FF0000&#34;&gt;’&lt;/span&gt;))
+
+&lt;span style=&#34;color: #008000; font-weight: bold&#34;&gt;import&lt;/span&gt; &lt;span style=&#34;color: #0000FF; font-weight: bold&#34;&gt;sample&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;div class=&#34;highlight&#34; style=&#34;background: #f8f8f8&#34;&gt;&lt;pre style=&#34;line-height: 125%&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span style=&#34;color: #008000; font-weight: bold&#34;&gt;from&lt;/span&gt; &lt;span style=&#34;color: #0000FF; font-weight: bold&#34;&gt;.context&lt;/span&gt; &lt;span style=&#34;color: #008000; font-weight: bold&#34;&gt;import&lt;/span&gt; sample
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;That said, I decided to give his recommendations a shot.&lt;/p&gt;
+
+&lt;h3 id=&#34;another-twist&#34;&gt;Another twist&lt;/h3&gt;
+
+&lt;p&gt;Meanwhile, Nick noted that there is also a &lt;a href=&#34;http://pythonhosted.org/Distutils2/&#34;&gt;&lt;code&gt;distutils2&lt;/code&gt;&lt;/a&gt; project now, to improve &lt;code&gt;distutils&lt;/code&gt;, and that nobody is working on &lt;code&gt;distribute&lt;/code&gt; any more. This sounds like a crazy soap opera in the Python world.&lt;/p&gt;
+
+&lt;h2 id=&#34;python-community-debates-and-news&#34;&gt;Python community debates and news&lt;/h2&gt;
+
+&lt;p&gt;Joe opened up the discussion on Python community news.&lt;/p&gt;
+
+&lt;h3 id=&#34;start-writing-more-classes&#34;&gt;&amp;ldquo;Start Writing More Classes&amp;rdquo;?&lt;/h3&gt;
+
+&lt;p&gt;In the Python community, there has always been some controversy over whether to go all-out object-oriented with classes or write in a more functional style. The language supports both styles, although classes were a fairly late addition to the language.&lt;/p&gt;
+
+&lt;h4 id=&#34;stop-writing-classes&#34;&gt;&amp;ldquo;Stop Writing Classes&amp;rdquo;?&lt;/h4&gt;
+
+&lt;p&gt;Last year, at PyCon 2012, there was a talk, &amp;ldquo;Stop Writing Classes&amp;rdquo;, that made waves:&lt;/p&gt;
+
+&lt;iframe width=&#34;420&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/o9pEzgHorH0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;I thought it was a good talk, because it exposed how many things done with classes are superfluous, creating code bloat and deeply nested hierarchies: often you can just use a functional style with data that is not all wrapped into classes.&lt;/p&gt;
+
+&lt;h4 id=&#34;a-rebuttal&#34;&gt;A rebuttal&lt;/h4&gt;
+
+&lt;p&gt;Just two weeks ago, someone wrote a post on how &lt;a href=&#34;http://lucumr.pocoo.org/2013/2/13/moar-classes/&#34;&gt;Python programmers should be writing more classes, not less&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I was not happy about this post because it set up a straw man. Really, he was simply arguing for modular code vs. monolithic code, and observing that some people who don&amp;rsquo;t use classes end up writing monolithic code. He even states as much at the end of his post. So the title of his post is misleading.&lt;/p&gt;
+
+&lt;h3 id=&#34;other-news&#34;&gt;Other news&lt;/h3&gt;
+
+&lt;p&gt;There were various other smaller topics discussed, but &lt;code&gt;distribute&lt;/code&gt; and classes dominated this evening.&lt;/p&gt;
+
+&lt;h2 id=&#34;updates-after-the-meetup&#34;&gt;(Updates after the meetup)&lt;/h2&gt;
+
+&lt;p&gt;After I went home, I updated &lt;a href=&#34;https://github.com/FranklinChen/project-euler-python&#34;&gt;one of my sample Python projects&lt;/a&gt; to adhere to Kenneth Reitz&amp;rsquo;s guidelines.&lt;/p&gt;
+
+&lt;p&gt;Also, some weeks later, I noticed an &lt;a href=&#34;http://mail.python.org/pipermail/distutils-sig/2013-March/020126.html&#34;&gt;announcement that &lt;code&gt;setuptools&lt;/code&gt; and &lt;code&gt;distribute&lt;/code&gt; were going to merge efforts&lt;/a&gt;. Hooray!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>How Justice Clarence Thomas uncovered a seven-year-old bug in my computer program</title>
+      <link>http://franklinchen.com/blog/2013/01/18/how-justice-clarence-thomas-uncovered-a-seven-year-old-bug-in-my-computer-program/</link>
+      <pubDate>Fri, 18 Jan 2013 13:55:11 -0500</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/01/18/how-justice-clarence-thomas-uncovered-a-seven-year-old-bug-in-my-computer-program/</guid>
+      <description>&lt;figure &gt;
+    
+        &lt;img src=&#34;http://www.supremecourt.gov/about/justice_pictures/CThomas.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Justice Clarence Thomas&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Today, &lt;a href=&#34;http://en.wikipedia.org/wiki/Clarence_Thomas&#34;&gt;Justice Clarence Thomas&lt;/a&gt; of the &lt;a href=&#34;http://www.supremecourt.gov/&#34;&gt;Supreme Court of the United States&lt;/a&gt; uncovered a seven-year-old bug in a computer program I wrote years ago.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s what happened:&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;oral-arguments-of-scotus-http-www-supremecourt-gov-oral-arguments-oral-arguments-aspx&#34;&gt;&lt;a href=&#34;http://www.supremecourt.gov/oral_arguments/oral_arguments.aspx&#34;&gt;Oral arguments of SCOTUS&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Several years ago, as part of the &lt;a href=&#34;http://talkbank.org/&#34;&gt;TalkBank&lt;/a&gt; project, I wrote a suite of computer programs to clean up, correct, and transform &lt;a href=&#34;http://www.supremecourt.gov/oral_arguments/argument_transcripts.aspx&#34;&gt;SCOTUS oral argument transcripts&lt;/a&gt; into a particular text file format called &lt;a href=&#34;http://childes.psy.cmu.edu/&#34;&gt;CHAT&lt;/a&gt;, to enable analysis and further transformation.&lt;/p&gt;
+
+&lt;p&gt;The CHAT transcripts are aligned (by humans), utterance by utterance, with the available audio files, in order to create a nice way to simultaneously read the text while listening, with the ability to pause, skip to a particular section, etc.&lt;/p&gt;
+
+&lt;h2 id=&#34;example-hamdan-v-rumsfeld-http-en-wikipedia-org-wiki-hamdan-v-rumsfeld&#34;&gt;Example: &lt;a href=&#34;http://en.wikipedia.org/wiki/Hamdan_v._Rumsfeld&#34;&gt;Hamdan v. Rumsfeld&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h3 id=&#34;text-formats&#34;&gt;Text formats&lt;/h3&gt;
+
+&lt;p&gt;SCOTUS provides an oral transcript in &lt;a href=&#34;http://www.supremecourt.gov/oral_arguments/argument_transcripts/05-184.pdf&#34;&gt;PDF format&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;At CMU we have made the &lt;a href=&#34;http://talkbank.org/data-orig/Meeting/SCOTUS/2005/05-184.cha&#34;&gt;CHAT-formatted text&lt;/a&gt; of each transcript available, as well as ZIP archives of &lt;a href=&#34;http://talkbank.org/data/Meeting/SCOTUS/2005.zip&#34;&gt;entire corpora&lt;/a&gt; and the &lt;a href=&#34;http://talkbank.org/data-xml/Meeting/SCOTUS/2005.zip&#34;&gt;equivalent XML&lt;/a&gt; converted automatically from CHAT.&lt;/p&gt;
+
+&lt;h3 id=&#34;media-playback&#34;&gt;Media playback&lt;/h3&gt;
+
+&lt;p&gt;The linked transcripts can be played back in several ways:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Directly from the &lt;a href=&#34;http://talkbank.org/browser/index.php?url=Meeting/SCOTUS/2005/05-184.cha&#34;&gt;CMU site&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Downloading the &lt;a href=&#34;http://talkbank.org/data/Meeting/SCOTUS/2005.zip&#34;&gt;2005 corpus&lt;/a&gt; and running the &lt;a href=&#34;http://childes.psy.cmu.edu/clan/&#34;&gt;CLAN&lt;/a&gt; desktop application on a transcript.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oyez.org/&#34;&gt;Oyez&lt;/a&gt; provides their own interface, through transformation of the CHAT files, to an &lt;a href=&#34;http://www.oyez.org/cases/2000-2009/2005/2005_05_184&#34;&gt;entire site for each case&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;what-happened-today&#34;&gt;What happened today&lt;/h2&gt;
+
+&lt;p&gt;Today, as I have done on Thursdays or Fridays for years now when SCOTUS is in session, I have converted the oral argument transcripts for this week in order to hand off to the Oyez people for their use.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-conversion-software&#34;&gt;The conversion software&lt;/h3&gt;
+
+&lt;p&gt;The conversion happens in three steps.&lt;/p&gt;
+
+&lt;h4 id=&#34;pre-processing&#34;&gt;Pre-processing&lt;/h4&gt;
+
+&lt;p&gt;The conversion is not fully automatic, because there are always errors of some kind in the transcripts that I correct manually. I wrote a set of twenty-nine separate &lt;a href=&#34;http://www.perl.org/&#34;&gt;Perl&lt;/a&gt; scripts that do a lot of cleanup and checking of transcripts as a pre-processing step.&lt;/p&gt;
+
+&lt;h4 id=&#34;parsing-validation-transformation&#34;&gt;Parsing, validation, transformation&lt;/h4&gt;
+
+&lt;p&gt;The main task of parsing and validation and transformation uses a program written in Java and using the &lt;a href=&#34;http://antlr.org/&#34;&gt;ANTLR&lt;/a&gt; parser generator framework.&lt;/p&gt;
+
+&lt;p&gt;Note: these programs were written several years ago, hence the use of ANTLR version 2 rather than ANTLR 3. Newer projects of mine have used ANTLR 3 (&lt;a href=&#34;http://antlr4.org/&#34;&gt;ANTLR 4&lt;/a&gt; is only now about to hit 4.0).&lt;/p&gt;
+
+&lt;h4 id=&#34;post-processing&#34;&gt;Post-processing&lt;/h4&gt;
+
+&lt;p&gt;A post-processing Perl script is used after the initial CHAT generation, in order to convert numerical and other tokens into the desired spoken form; at the &lt;a href=&#34;http://pghpw.org/ppw2010/&#34;&gt;Pittsburgh Perl Workshop 2010&lt;/a&gt;, I gave a little talk, &lt;a href=&#34;http://pghpw.org/ppw2010/talk/3029&#34;&gt;How do you pronounce &amp;ldquo;07-1191&amp;rdquo;?&lt;/a&gt;, about this part of the project.&lt;/p&gt;
+
+&lt;h4 id=&#34;reliable-legacy-software&#34;&gt;Reliable legacy software&lt;/h4&gt;
+
+&lt;p&gt;No new development has been done on these programs for several years, since as far as can be determined, there have been no remaining bugs in the programs.&lt;/p&gt;
+
+&lt;p&gt;These programs have, to date, successfully generated 3,468 CHAT files that have been validated. In the first year or two, there were bugs quickly found and fixed, and then I don&amp;rsquo;t remember the last time a bug was found.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Until today&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-bug&#34;&gt;The bug&lt;/h2&gt;
+
+&lt;p&gt;The bug came today as I was processing this week&amp;rsquo;s case &lt;a href=&#34;http://www.supremecourt.gov/oral_arguments/argument_transcripts/11-9953.pdf&#34;&gt;11-9953&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I got an error message when my pre-processing phase exited after an error while running the script &lt;code&gt;find-bad-ids.pl&lt;/code&gt;:&lt;/p&gt;
+
+&lt;div class=&#34;highlight&#34; style=&#34;background: #f8f8f8&#34;&gt;&lt;pre style=&#34;line-height: 125%&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span style=&#34;color: #888888&#34;&gt;THOMAS not found&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;I was confused. I looked at the transcript and saw:&lt;/p&gt;
+
+&lt;blockquote&gt;
+JUSTICE SCALIA: And another of his counsel, Mr. Singer -- of the three that he had -- he was a graduate of Harvard law school, wasn&#39;t he?
+
+MS. SIGLER: Yes, Your Honor.
+
+JUSTICE SCALIA: Son of a gun.
+
+JUSTICE THOMAS: Well -- he did not --
+
+(Laughter.)
+
+MS. SIGLER: I would refute that, Justice Thomas.
+
+JUSTICE SOTOMAYOR: Counsel, do you want to define constitutionally adequate counsel? Is it anybody who&#39;s graduated from Harvard and Yale?
+
+(Laughter.)
+&lt;/blockquote&gt;
+
+&lt;p&gt;I was confused about why my script would not recognized Justice Thomas. I looked at the Perl source code, saw where I initialized a table of Justice names, and saw:&lt;/p&gt;
+
+&lt;div class=&#34;highlight&#34; style=&#34;background: #f8f8f8&#34;&gt;&lt;pre style=&#34;line-height: 125%&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span style=&#34;color: #008000; font-weight: bold&#34;&gt;use&lt;/span&gt; &lt;span style=&#34;color: #0000FF; font-weight: bold&#34;&gt;String::Approx&lt;/span&gt; &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;#39;amatch&amp;#39;&lt;/span&gt;;
+
+&lt;span style=&#34;color: #19177C&#34;&gt;$lastNames&lt;/span&gt;{REHNQUIST} &lt;span style=&#34;color: #666666&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;-1&lt;/span&gt;;
+&lt;span style=&#34;color: #19177C&#34;&gt;$lastNames&lt;/span&gt;{STEVENS} &lt;span style=&#34;color: #666666&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;-1&lt;/span&gt;;
+&lt;span style=&#34;color: #408080; font-style: italic&#34;&gt;# ... code omitted&lt;/span&gt;
+
+    &lt;span style=&#34;color: #008000; font-weight: bold&#34;&gt;if&lt;/span&gt; (&lt;span style=&#34;color: #AA22FF; font-weight: bold&#34;&gt;not&lt;/span&gt; &lt;span style=&#34;color: #008000&#34;&gt;exists&lt;/span&gt; &lt;span style=&#34;color: #19177C&#34;&gt;$lastNames&lt;/span&gt;{&lt;span style=&#34;color: #19177C&#34;&gt;$upperLastName&lt;/span&gt;}) {
+      &lt;span style=&#34;color: #008000; font-weight: bold&#34;&gt;if&lt;/span&gt; (&lt;span style=&#34;color: #008000; font-weight: bold&#34;&gt;my&lt;/span&gt; &lt;span style=&#34;color: #19177C&#34;&gt;@matches&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;=&lt;/span&gt; amatch(&lt;span style=&#34;color: #19177C&#34;&gt;$upperLastName&lt;/span&gt;, &lt;span style=&#34;color: #19177C&#34;&gt;@ids&lt;/span&gt;)) {
+        &lt;span style=&#34;color: #008000&#34;&gt;warn&lt;/span&gt; &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;$path:$.: $lastName: guessing to be $matches[0]\n&amp;quot;&lt;/span&gt;;
+      }
+      &lt;span style=&#34;color: #008000; font-weight: bold&#34;&gt;else&lt;/span&gt; {
+        &lt;span style=&#34;color: #008000&#34;&gt;warn&lt;/span&gt; &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;$path:$.: $lastName not found\n&amp;quot;&lt;/span&gt;;
+      }
+    }
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;I had simply forgotten seven years ago to put into the table initialization the following code:&lt;/p&gt;
+
+&lt;div class=&#34;highlight&#34; style=&#34;background: #f8f8f8&#34;&gt;&lt;pre style=&#34;line-height: 125%&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span style=&#34;color: #19177C&#34;&gt;$lastNames&lt;/span&gt;{THOMAS} &lt;span style=&#34;color: #666666&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;-1&lt;/span&gt;;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;And this bug had lain undiscovered for seven years because &lt;a href=&#34;http://www.washingtonpost.com/politics/clarence-thomas-breaks-long-silence-during-supreme-court-oral-arguments/2013/01/14/a7c6023c-5e7a-11e2-9940-6fc488f3fecd_story.html&#34;&gt;Justice Thomas has not spoken in seven years&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h3 id=&#34;how-the-bug-arose&#34;&gt;How the bug arose&lt;/h3&gt;
+
+&lt;p&gt;Justice Thomas did speak in the following transcripts I successfully converted years ago:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;sup&gt;1999&lt;/sup&gt;&amp;frasl;&lt;sub&gt;99&lt;/sub&gt;-478&lt;/li&gt;
+&lt;li&gt;&lt;sup&gt;2000&lt;/sup&gt;&amp;frasl;&lt;sub&gt;99&lt;/sub&gt;-1848&lt;/li&gt;
+&lt;li&gt;&lt;sup&gt;2000&lt;/sup&gt;&amp;frasl;&lt;sub&gt;99&lt;/sub&gt;-1964&lt;/li&gt;
+&lt;li&gt;&lt;sup&gt;2001&lt;/sup&gt;&amp;frasl;&lt;sub&gt;00&lt;/sub&gt;-1770&lt;/li&gt;
+&lt;li&gt;&lt;sup&gt;2001&lt;/sup&gt;&amp;frasl;&lt;sub&gt;01&lt;/sub&gt;-631&lt;/li&gt;
+&lt;li&gt;&lt;sup&gt;2002&lt;/sup&gt;&amp;frasl;&lt;sub&gt;01&lt;/sub&gt;-1107&lt;/li&gt;
+&lt;li&gt;&lt;sup&gt;2002&lt;/sup&gt;&amp;frasl;&lt;sub&gt;02&lt;/sub&gt;-516&lt;/li&gt;
+&lt;li&gt;&lt;sup&gt;2004&lt;/sup&gt;&amp;frasl;&lt;sub&gt;03&lt;/sub&gt;-1164&lt;/li&gt;
+&lt;li&gt;&lt;sup&gt;2005&lt;/sup&gt;&amp;frasl;&lt;sub&gt;04&lt;/sub&gt;-1067&lt;/li&gt;
+&lt;li&gt;&lt;sup&gt;2005&lt;/sup&gt;&amp;frasl;&lt;sub&gt;04&lt;/sub&gt;-1327&lt;/li&gt;
+&lt;li&gt;&lt;sup&gt;2005&lt;/sup&gt;&amp;frasl;&lt;sub&gt;04&lt;/sub&gt;-52&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;What happened was that they were generated before I wrote the &lt;code&gt;find-bad-ids.pl&lt;/code&gt; script. The main program in Java has its own table of justices. The purpose of the pre-processing Perl script is to catch errors earlier than handing off to the Java program. In particular, the use of approximate string matching enables easy correction of typos before ANTLR ever sees the text to parse. Before the pre-processing scripts, the text that arrived at ANTLR often had a lot of systematic errors that were annoying to fix, so I wrote in Perl both a cleanup pre-processing phase and a checking pre-processing phase. They include tests for all kinds of &amp;ldquo;suspicious&amp;rdquo; formatting and tokens and ambiguity that require manual judgment and correction.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;I still don&amp;rsquo;t know why I forgot to put Justice Thomas into the table initialization code in my Perl script seven years ago, but it resulted in a bug that was not detected until today. The lesson: your computer program can have bugs if you didn&amp;rsquo;t get test data that represented all possible situations, including that of Justice Thomas actually speaking during a SCOTUS oral argument!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>2013 is my year of Scala</title>
+      <link>http://franklinchen.com/blog/2013/01/11/2013-is-my-year-of-scala/</link>
+      <pubDate>Fri, 11 Jan 2013 15:17:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/01/11/2013-is-my-year-of-scala/</guid>
+      <description>&lt;p&gt;Last night was the &lt;a href=&#34;http://www.meetup.com/Pittsburgh-Scala-Meetup/events/93174312/&#34;&gt;first meeting&lt;/a&gt; of the new &lt;a href=&#34;http://www.meetup.com/Pittsburgh-Scala-Meetup/&#34;&gt;Pittsburgh Scala meetup&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;And this morning I suddenly signed up to attend the &lt;a href=&#34;http://nescala.org/&#34;&gt;Northeast Scala Symposium&lt;/a&gt; (NE Scala) being held soon in February in Philadelphia!&lt;/p&gt;
+
+&lt;p&gt;2013 is my &amp;ldquo;year of Scala&amp;rdquo;. What does this mean?&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;leaving-java&#34;&gt;&amp;ldquo;Leaving&amp;rdquo; Java&lt;/h2&gt;
+
+&lt;p&gt;I just &lt;a href=&#34;../../blog/2012/11/15/review-of-courseras-fall-2012-functional-programming-principles-in-scala/&#34;&gt;recently went through Martin Odersky&amp;rsquo;s &amp;ldquo;Functional Programming Principles in Scala&amp;rdquo; course&lt;/a&gt;. As a result of that, I decided on New Year that 2013 is going to be my &amp;ldquo;year of Scala&amp;rdquo;, which in practice means that I will use it as my main general-purpose programming language for software development wherever feasible. In particular, at work I have been in the process of converting a large Java project from using &lt;a href=&#34;http://maven.apache.org/&#34;&gt;Maven&lt;/a&gt; for a complex build to using the Scala-based &lt;a href=&#34;http://www.scala-sbt.org/&#34;&gt;SBT&lt;/a&gt; instead (last year I was &lt;a href=&#34;../../blog/2012/09/24/a-short-example-of-why-i-prefer-static-typing-learning-gradle/&#34;&gt;evaluating both SBT and the Groovy-based Gradle&lt;/a&gt;, but SBT won, after I figured out how to do what I need with it).&lt;/p&gt;
+
+&lt;p&gt;The beauty of Scala is that you can seamlessly continue to use existing Java code and libraries; this interoperability is a huge win, compared to other statically typed functional programming languages such as ML and Haskell.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-first-pittsburgh-scala-meetup-session&#34;&gt;The first Pittsburgh Scala meetup session&lt;/h2&gt;
+
+&lt;p&gt;It was an informal social meeting upstairs in the Harvard and Highland bar (resulting from not yet obtaining an official quiet place to really meet regularly).&lt;/p&gt;
+
+&lt;p&gt;It turned out that only six of us showed up for this informal meeting. &lt;a href=&#34;http://jamieforrest.com/&#34;&gt;Jamie Forrest&lt;/a&gt;, who created this meetup group, was there, as was &lt;a href=&#34;http://jsuereth.com/&#34;&gt;Josh Suereth&lt;/a&gt;, who works for &lt;a href=&#34;http://www.typesafe.com/&#34;&gt;Typesafe&lt;/a&gt; and has regularly been involved in Scala &lt;a href=&#34;../../blog/2011/10/26/open-spaces-success-at-the-pittsburgh-java-users-group/&#34;&gt;discussions&lt;/a&gt; and &lt;a href=&#34;../../blog/2012/06/09/report-on-the-first-pittsburgh-techfest-2012/&#34;&gt;presentations&lt;/a&gt; in the Pittsburgh area. I also met three people I hadn&amp;rsquo;t known before, Andrii, Ashton, and Barrett.&lt;/p&gt;
+
+&lt;p&gt;It was kind of loud in the bar, so it was often difficult for me to hear, but I think we had a good time meeting each other and exchanging some thoughts about how we use Scala (or plan to use it) and why.&lt;/p&gt;
+
+&lt;p&gt;So now that we&amp;rsquo;ve gotten the meetup group off the ground, I look forward to a Scala community growing here in Pittsburgh! We decided that we need to find a proper meeting place, and we&amp;rsquo;ll start having people give talks, and come up with ideas for a group project to work on.&lt;/p&gt;
+
+&lt;h2 id=&#34;ne-scala-http-nescala-org&#34;&gt;&lt;a href=&#34;http://nescala.org/&#34;&gt;NE Scala&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Also, at the meetup, Josh reminded us that there were still spaces left for &lt;a href=&#34;http://www.meetup.com/nescala/events/97192402/&#34;&gt;registering for NE Scala&lt;/a&gt;. I hadn&amp;rsquo;t actually considered going, because I&amp;rsquo;m already very busy for January and February, but this morning upon waking up, I suddenly decided that maybe I should not pass up this opportunity to go and get the big picture of what the Scala community is up to!&lt;/p&gt;
+
+&lt;p&gt;In a flurry of email exchanges, I ended up registering for the conference with the idea of carpooling with Josh and sharing lodging, then Jamie got in on it too, so the three of us will be heading off to Philadelphia together in March. This will be my first out-of-town travel to a conference since &lt;a href=&#34;http://www.informatik.uni-trier.de/~ley/db/conf/pldi/pldi98.html&#34;&gt;PLDI 1998&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;I&amp;rsquo;m definitely throwing myself into the Scala world now, with the Pittsburgh Scala meetup going and with my registration for the NE Scala conference.&lt;/p&gt;
+
+&lt;h2 id=&#34;update&#34;&gt;(Update)&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;../../blog/2013/02/10/ne-scala-2013-my-first-scala-conference/&#34;&gt;NE Scala 2013 was quite intense&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Review of Coursera&#39;s Fall 2012 &#34;Functional Programming Principles in Scala&#34;</title>
+      <link>http://franklinchen.com/blog/2012/11/15/review-of-courseras-fall-2012-functional-programming-principles-in-scala/</link>
+      <pubDate>Thu, 15 Nov 2012 21:27:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/11/15/review-of-courseras-fall-2012-functional-programming-principles-in-scala/</guid>
+      <description>&lt;figure &gt;
+    
+        &lt;img src=&#34;http://www.scala-lang.org/sites/default/files/newsflash_logo.png&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;In fall of 2012, I completed the initial offering, through &lt;a href=&#34;http://www.coursera.org/&#34;&gt;Coursera&lt;/a&gt;, of &lt;a href=&#34;http://lampwww.epfl.ch/~odersky/&#34;&gt;Martin Odersky&lt;/a&gt;&amp;rsquo;s &lt;a href=&#34;http://www.coursera.org/course/progfun&#34;&gt;&amp;ldquo;Functional Programming Principles in Scala&amp;rdquo; online course&lt;/a&gt;, which was held from September 18 through November.&lt;/p&gt;
+
+&lt;p&gt;This is a review of the course, which is planned to be offered again (so those of you who missed it the first time can sign up for the second iteration when it is available).&lt;/p&gt;
+
+&lt;p&gt;Also check out the &lt;a href=&#34;http://docs.scala-lang.org/news/functional-programming-principles-in-scala-impressions-and-statistics.html&#34;&gt;instructor report&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-purpose-of-the-course&#34;&gt;The purpose of the course&lt;/h2&gt;
+
+&lt;p&gt;I have noticed very often that people learning to program or to perform some task that involves programming are very fixated on the question of &amp;ldquo;what computer language should I use?&amp;rdquo; or &amp;ldquo;what computer language is the course/project going to use?&amp;rdquo; This is a mistake because what is important in learning programming or getting better at it is not trivial questions of syntax, but matters of &lt;em&gt;understanding&lt;/em&gt; what things mean and having a correct mental model of what is going on. In the end, one has to go back to fundamentals.&lt;/p&gt;
+
+&lt;p&gt;So although this course has &amp;ldquo;Scala&amp;rdquo; in its title, it is really a brief introduction to functional programming, using &lt;a href=&#34;http://www.scala-lang.org/&#34;&gt;Scala&lt;/a&gt; as one of many possible languages in which to express it.&lt;/p&gt;
+
+&lt;h2 id=&#34;my-background-in-computer-science-and-functional-programming&#34;&gt;My background in computer science and functional programming&lt;/h2&gt;
+
+&lt;p&gt;I am a college graduate with a physics degree who &lt;em&gt;never took a single computer science or programming course in college&lt;/em&gt;, because I found programming to be strange, difficult, and scary, based on &lt;a href=&#34;../../blog/2012/01/16/how-school-made-me-hate-computer-science-and-programming/&#34;&gt;my experiences before college&lt;/a&gt;. I did not take up programming seriously until after college, when I found myself wanting a career change, and took a second look at computer programming.&lt;/p&gt;
+
+&lt;p&gt;As I have mentioned earlier, a &lt;a href=&#34;../../blog/2011/10/25/rip-john-mccarthy-but-lisp-will-never-die/&#34;&gt;turning point in my life&lt;/a&gt; was when a friend recommended to me that I focus not on &amp;ldquo;learning&amp;rdquo; some arbitrary computer language, but on learning the &lt;em&gt;principles&lt;/em&gt; of programming first, after which any specific language could be understood quickly in light of the principles.&lt;/p&gt;
+
+&lt;p&gt;So I learned functional programming through working through &lt;a href=&#34;http://mitpress.mit.edu/sicp/&#34;&gt;The Structure and Interpretation of Computer Programs&lt;/a&gt;, coding up my solutions to the exercises using &lt;a href=&#34;http://gambitscheme.org/&#34;&gt;Gambit Scheme&lt;/a&gt; on a &lt;a href=&#34;http://en.wikipedia.org/wiki/Macintosh_Classic&#34;&gt;Macintosh Classic&lt;/a&gt;. I then learned C and C++ and got my first job as a software engineer.&lt;/p&gt;
+
+&lt;p&gt;The next big jump for me came when I encountered my first statically typed functional languages in around 1995: &lt;a href=&#34;http://caml.inria.fr/caml-light/index.en.html&#34;&gt;Caml Light&lt;/a&gt; and &lt;a href=&#34;http://www.smlnj.org/&#34;&gt;Standard ML&lt;/a&gt; and &lt;a href=&#34;http://www.haskell.org/&#34;&gt;Haskell&lt;/a&gt; through &lt;a href=&#34;http://www.haskell.org/hugs/&#34;&gt;Gofer/Hugs&lt;/a&gt;. I was so inspired by the possibilities of &lt;em&gt;improving the programming experience&lt;/em&gt; that I decided to leave my job and apply for graduate school in computer science.&lt;/p&gt;
+
+&lt;p&gt;I was in the &lt;a href=&#34;http://www.csd.cs.cmu.edu/education/phd/&#34;&gt;Carnegie Mellon University CS PhD program&lt;/a&gt; for two years before leaving after 1999. I left for a combination of different reasons, but I am definitely still a believer in the original mission I had before going to graduate school: improving the experience of practical software development by every means necessary.&lt;/p&gt;
+
+&lt;h2 id=&#34;my-plan-overcome-resistance-to-scala&#34;&gt;My plan: overcome resistance to Scala&lt;/h2&gt;
+
+&lt;p&gt;Ironically, what I planned to get out of the course is &lt;em&gt;not&lt;/em&gt; what I expect most students in the course would or &lt;em&gt;should&lt;/em&gt; get out of it! I treated the course as a way to get myself to force myself to use and really learn the Scala language (since I did not need an introduction to functional programming), by solving programming exercises that I probably had done in the past in other languages.&lt;/p&gt;
+
+&lt;p&gt;Scala had been around for years, but I had resisted doing much with it because it seemed very complex and changing all the time and because the tool ecosystem seemed to be immature and not usable for me. That led me to my not investing in the effort to truly read up on it and experiment to use at work.&lt;/p&gt;
+
+&lt;p&gt;I am happy to report that Scala is actually usable now and all my concerns about it are no longer relevant. 2012 seems to me to be the year when Scala became truly usable for general production. (I will report later on my current plans in motion to migrate from Java to Scala at work.)&lt;/p&gt;
+
+&lt;h2 id=&#34;observations-about-the-course&#34;&gt;Observations about the course&lt;/h2&gt;
+
+&lt;h3 id=&#34;installation-of-software&#34;&gt;Installation of software&lt;/h3&gt;
+
+&lt;p&gt;There were initially some glitches when setting up &lt;a href=&#34;http://eclipse.org/&#34;&gt;Eclipse&lt;/a&gt; and &lt;a href=&#34;http://www.scala-sbt.org/&#34;&gt;SBT&lt;/a&gt;, but eventually, an Eclipse distribution made specifically for the class was made available and solved my problems.&lt;/p&gt;
+
+&lt;p&gt;That said, I preferred to use Emacs and SBT for writing code for the course.&lt;/p&gt;
+
+&lt;h3 id=&#34;theoretical-material&#34;&gt;Theoretical material&lt;/h3&gt;
+
+&lt;p&gt;Martin Odersky&amp;rsquo;s lectures were entirely as one would expect in a basic academic course on programming language principles: laying the fundamental mathematical groundwork: operational semantics, structural induction, etc.&lt;/p&gt;
+
+&lt;p&gt;This material can be very dry and abstract, and I have to wonder how many students encountering it for the first time slog through long lectures of this kind of content. Personally, if I were teaching these ideas, I would use less of the typical &amp;ldquo;mathematical&amp;rdquo; kind of example when illustrating them.&lt;/p&gt;
+
+&lt;h3 id=&#34;lecture-format&#34;&gt;Lecture format&lt;/h3&gt;
+
+&lt;p&gt;I was surprised by the scarcity of within-lecture quizzes as checkpoints for the student, because I have completed several Coursera courses in which they were much more frequent (and in my mind useful). I think the course would benefit from breaking up lectures into smaller chunks with more quizzes.&lt;/p&gt;
+
+&lt;h3 id=&#34;programming-assignments&#34;&gt;Programming assignments&lt;/h3&gt;
+
+&lt;p&gt;The programming assignments involved filling in code skeletons in otherwise complete programs that solved some task. Again, the tasks involved seemed typically mathematical and &amp;ldquo;classic&amp;rdquo; in nature, such as anagram solving, Huffman coding and decoding, although there was also an assignment on tweet analysis.&lt;/p&gt;
+
+&lt;h3 id=&#34;testing&#34;&gt;Testing&lt;/h3&gt;
+
+&lt;p&gt;I appreciated that the assignments were distributed as self-contained SBT projects, along with rudimentary &lt;a href=&#34;http://junit.org/&#34;&gt;JUnit&lt;/a&gt;-style test suites, run through &lt;a href=&#34;http://www.scalatest.org/&#34;&gt;ScalaTest&lt;/a&gt; that one could add to. I get the impression that many courses on programming do not address the issue of testing at all, with the result that students flail while copying and pasting code in some IDE or REPL instead of adopting an automated testing discipline that not only decreases frustration but will prove to be a real-life practice to be used in their studies and careers.&lt;/p&gt;
+
+&lt;p&gt;It was great to have these programming assignments distributed as complete deploy able projects. I actually looked at the non-assignment-relevant code and configurations in order to learn more about real-life SBT and Scala use for my own plans to migrate from Java to Scala at work.&lt;/p&gt;
+
+&lt;h3 id=&#34;scala-the-language&#34;&gt;Scala the language&lt;/h3&gt;
+
+&lt;p&gt;Scala is introduced at first as a kind of standard functional language (even though in reality Scala&amp;rsquo;s functions are actually objects). Algebraic data types are introduced through Scala&amp;rsquo;s object encoding as &lt;code&gt;case class&lt;/code&gt; in a hierarchy. I think the instructor did a good job in illustrating through example how Scala manages to blend the traditional functional and object worlds in a single language, while emphasizing the functional aspects.&lt;/p&gt;
+
+&lt;h3 id=&#34;most-interesting&#34;&gt;Most interesting&lt;/h3&gt;
+
+&lt;p&gt;For me, the most interesting aspect of the course and assignments was the focus on using Scala&amp;rsquo;s &amp;ldquo;for comprehension&amp;rdquo; syntactic sugar to write very concise and clear code. An entire week of lectures was focused on collections and explained how the syntactic sugar is translated into &lt;code&gt;map&lt;/code&gt;, &lt;code&gt;flatMap&lt;/code&gt;, and &lt;code&gt;filter&lt;/code&gt;. With the popularity of comprehension or similar syntax in many languages these days, I think it is very important to make sure that everyone knows that it is not just magic, but is just syntactic sugar for the important concepts that underlie it. I think the course did a good job in illustrating how comprehensions can be used not only for lists, but for many other types as well, and types that one can define oneself (Scala&amp;rsquo;s comprehension syntax is meant for any &lt;a href=&#34;http://en.wikipedia.org/wiki/Monad_(functional_programming)&#34;&gt;monad&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h4 id=&#34;update-of-2013-02-27&#34;&gt;(Update of 2013-02-27)&lt;/h4&gt;
+
+&lt;p&gt;I just saw a good recent expository example of &lt;a href=&#34;http://tmorris.net/posts/memoisation-with-state-using-scala/index.html&#34;&gt;the use of comprehension syntax to simplify the look of code that involves writing your own monad&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;I strongly recommend Martin Odersky&amp;rsquo;s &amp;ldquo;Functional Programming Principles in Scala&amp;rdquo; course to all who are interested in understanding the basics behind programming language semantics and how to apply this knowledge in writing and reasoning about clear, elegant programs to solve problems. A course like this could be taught using any number of languages as a vehicle, but I think Scala works particularly well because it is a JVM-based language that interoperates seamlessly with Java and Java&amp;rsquo;s entire tool chain, so anything you learn here, you can apply immediately in real-life work if you already operate in the JVM-based programming world. Scala is not a toy language, but is used at &lt;a href=&#34;http://twitter.github.com/scala_school/&#34;&gt;Twitter&lt;/a&gt; and many other enterprises that require reliability, performance, scalability while solving very complex problems.&lt;/p&gt;
+
+&lt;p&gt;A final reminder: if you missed this free course the first time around, by all means check it out when it is offered again!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>A short example of why I prefer static typing: learning Gradle</title>
+      <link>http://franklinchen.com/blog/2012/09/24/a-short-example-of-why-i-prefer-static-typing-learning-gradle/</link>
+      <pubDate>Mon, 24 Sep 2012 17:07:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/09/24/a-short-example-of-why-i-prefer-static-typing-learning-gradle/</guid>
+      <description>&lt;p&gt;I make no secret of the fact the I prefer to program in &lt;a href=&#34;http://en.wikipedia.org/wiki/Programming_language#Static_versus_dynamic_typing&#34;&gt;statically-typed languages&lt;/a&gt;. That is not to say that I don&amp;rsquo;t write programs in dynamically typed languages. In fact, I have written and will continue to write programs in &lt;a href=&#34;../../categories/perl/&#34;&gt;Perl&lt;/a&gt;, &lt;a href=&#34;../../categories/python/&#34;&gt;Python&lt;/a&gt;, &lt;a href=&#34;../../categories/ruby/&#34;&gt;Ruby&lt;/a&gt;, &lt;a href=&#34;../../categories/javascript/&#34;&gt;JavaScript&lt;/a&gt;, and other dynamically typed programs, because pragmatically speaking, there is a whole lot more to programming to get something done than questions of &lt;a href=&#34;http://en.wikipedia.org/wiki/Type_system&#34;&gt;type systems&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Nevertheless, it is always painful to me when I hit a wall when learning and using an unfamiliar API from a dynamically typed language. I always think, &amp;ldquo;if only this API were statically typed, so that when I encounter an error, I can immediately look up what went wrong&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s an example as I&amp;rsquo;ve been learning &lt;a href=&#34;http://www.gradle.org/&#34;&gt;Gradle&lt;/a&gt; while evaluating it along with learning &lt;a href=&#34;http://www.scala-sbt.org/&#34;&gt;SBT&lt;/a&gt;, as two candidate build tools for me to switch to out of &lt;a href=&#34;http://maven.apache.org/&#34;&gt;Maven&lt;/a&gt; as my build tool for a primarily Java-based project. Note that Gradle is basically an embedded domain-specific language using the dynamically typed language &lt;a href=&#34;http://groovy.codehaus.org/&#34;&gt;Groovy&lt;/a&gt;, while SBT is an embedded domain-specific language using the statically typed language &lt;a href=&#34;http://www.scala-lang.org/&#34;&gt;Scala&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;code-example&#34;&gt;Code example&lt;/h2&gt;
+
+&lt;p&gt;Here&amp;rsquo;s a code example from a book I&amp;rsquo;ve been going through while studying Gradle, &lt;a href=&#34;http://gradleware.com/registered/books/building-and-testing/&#34;&gt;&amp;ldquo;Building and Testing with Gradle&amp;rdquo;&lt;/a&gt;:&lt;/p&gt;
+
+&lt;h3 id=&#34;example-3-21-use-the-ant-path-references-inside-the-gradle-build&#34;&gt;Example 3.21. Use the Ant path references inside the Gradle build&lt;/h3&gt;
+
+&lt;div class=&#34;highlight&#34; style=&#34;background: #f8f8f8&#34;&gt;&lt;pre style=&#34;line-height: 125%&#34;&gt;&lt;span&gt;&lt;/span&gt;ant&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;importBuild&lt;/span&gt; &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;#39;build.xml&amp;#39;&lt;/span&gt;
+
+defaultTasks &lt;span style=&#34;color: #666666&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;[&lt;/span&gt;&lt;span style=&#34;color: #BA2121&#34;&gt;&amp;#39;gradleBuild&amp;#39;&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;]&lt;/span&gt;
+
+&lt;span style=&#34;color: #408080; font-style: italic&#34;&gt;////////////////////////////////////////////////////////////////////////&lt;/span&gt;
+&lt;span style=&#34;color: #408080; font-style: italic&#34;&gt;// Gradle paths retrieved from Ant and then built using a Gradle task&lt;/span&gt;
+repositories &lt;span style=&#34;color: #666666&#34;&gt;{&lt;/span&gt;
+    flatDir &lt;span style=&#34;color: #A0A000&#34;&gt;name:&lt;/span&gt; &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;#39;localRepository1&amp;#39;&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color: #A0A000&#34;&gt;dirs:&lt;/span&gt; ant&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;references&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;[&lt;/span&gt;&lt;span style=&#34;color: #BA2121&#34;&gt;&amp;#39;antPathToLibs1&amp;#39;&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;]&lt;/span&gt;
+    flatDir &lt;span style=&#34;color: #A0A000&#34;&gt;name:&lt;/span&gt; &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;#39;localRepository2&amp;#39;&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color: #A0A000&#34;&gt;dirs:&lt;/span&gt; ant&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;references&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;antPathToLibs2&lt;/span&gt;
+    flatDir &lt;span style=&#34;color: #A0A000&#34;&gt;name:&lt;/span&gt; &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;#39;localRepository3&amp;#39;&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color: #A0A000&#34;&gt;dirs:&lt;/span&gt; &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;antlibs&amp;quot;&lt;/span&gt;
+&lt;span style=&#34;color: #666666&#34;&gt;}&lt;/span&gt;
+
+task gradleBuild &lt;span style=&#34;color: #666666&#34;&gt;&amp;lt;&amp;lt;&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;{&lt;/span&gt;
+    &lt;span style=&#34;color: #408080; font-style: italic&#34;&gt;//Set classpath to include the JAR&lt;/span&gt;
+    println &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;The repositories bridged from Ant to Gradle are:&amp;quot;&lt;/span&gt;
+    println repositories&lt;span style=&#34;color: #666666&#34;&gt;*.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;name&lt;/span&gt;
+
+    println repositories&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;localRepository1&lt;/span&gt;
+
+    println repositories&lt;span style=&#34;color: #666666&#34;&gt;[&lt;/span&gt;&lt;span style=&#34;color: #BA2121&#34;&gt;&amp;#39;localRepository2&amp;#39;&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;]&lt;/span&gt;
+
+    println &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;localRepository3 class = &amp;quot;&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;+&lt;/span&gt; repositories&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;localRepository3&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;class&lt;/span&gt;
+    println &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;localRepository3 name = &amp;quot;&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;+&lt;/span&gt; repositories&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;localRepository3&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;name&lt;/span&gt;
+    println &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;localRepository3 latest = &amp;quot;&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;+&lt;/span&gt; repositories&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;localRepository3&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;latest&lt;/span&gt;
+    println &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;localRepository3 ivyPatterns = &amp;quot;&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;+&lt;/span&gt; repositories&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;localRepository3&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;ivyPatterns&lt;/span&gt;
+    println &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;localRepository3 artifactPatterns =&lt;/span&gt;
+&lt;span style=&#34;color: #BA2121&#34;&gt;       &amp;quot;&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;+&lt;/span&gt; repositories&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;localRepository3&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;artifactPatterns&lt;/span&gt;
+    println &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;localRepository3 checkconsistency =&lt;/span&gt;
+&lt;span style=&#34;color: #BA2121&#34;&gt;       &amp;quot;&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;+&lt;/span&gt; repositories&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;localRepository3&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;checkconsistency&lt;/span&gt;
+    println &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;localRepository3 m2compatible =&lt;/span&gt;
+&lt;span style=&#34;color: #BA2121&#34;&gt;       &amp;quot;&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;+&lt;/span&gt; repositories&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;localRepository3&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;m2compatible&lt;/span&gt;
+    println &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;localRepository3 methods =&lt;/span&gt;
+&lt;span style=&#34;color: #BA2121&#34;&gt;       &amp;quot;&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;+&lt;/span&gt; repositories&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;localRepository3&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;metaClass&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;methods&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;*.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;name&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;sort&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;().&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;unique&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;()&lt;/span&gt;
+&lt;span style=&#34;color: #666666&#34;&gt;}&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h2 id=&#34;error-output&#34;&gt;Error output&lt;/h2&gt;
+
+&lt;p&gt;Unfortunately, this Gradle build file, when executed under the current version of Gradle, dies with an error:&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;highlight&#34; style=&#34;background: #f8f8f8&#34;&gt;&lt;pre style=&#34;line-height: 125%&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span style=&#34;color: #000080; font-weight: bold&#34;&gt;$&lt;/span&gt; ./run-example.bsh
+&lt;span style=&#34;color: #888888&#34;&gt;:gradleBuild&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;The repositories bridged from Ant to Gradle are:&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;[localRepository1, localRepository2, localRepository3]&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;org.gradle.api.internal.artifacts.repositories.DefaultFlatDirArtifactRepository_Decorated@7f205d8d&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;org.gradle.api.internal.artifacts.repositories.DefaultFlatDirArtifactRepository_Decorated@5eef2e7c&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;localRepository3 class = class org.gradle.api.internal.artifacts.repositories.DefaultFlatDirArtifactRepository_Decorated&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;localRepository3 name = localRepository3&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;:gradleBuild FAILED&lt;/span&gt;
+
+&lt;span style=&#34;color: #888888&#34;&gt;FAILURE: Build failed with an exception.&lt;/span&gt;
+
+&lt;span style=&#34;color: #888888&#34;&gt;* Where:&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;Build file &amp;#39;oreilly-gradle-book-examples/ant-classpathanttogradle/build.gradle&amp;#39; line: 24&lt;/span&gt;
+
+&lt;span style=&#34;color: #888888&#34;&gt;* What went wrong:&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;Execution failed for task &amp;#39;:gradleBuild&amp;#39;.&lt;/span&gt;
+&lt;span style=&#34;color: #000080; font-weight: bold&#34;&gt;&amp;gt;&lt;/span&gt; Could not find property &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;#39;latest&amp;#39;&lt;/span&gt; on org.gradle.api.internal.artifacts.repositories.DefaultFlatDirArtifactRepository_Decorated@8c1e4d5.
+
+&lt;span style=&#34;color: #888888&#34;&gt;* Try:&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output.&lt;/span&gt;
+
+&lt;span style=&#34;color: #888888&#34;&gt;BUILD FAILED&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;After much searching online, I still could not figure out what properties are supposed to be available from &lt;code&gt;repositories.localRepository3&lt;/code&gt;. I looked at the &lt;a href=&#34;http://www.gradle.org/docs/current/javadoc/overview-tree.html&#34;&gt;Gradle documentation&lt;/a&gt;, and I looked up the package &lt;a href=&#34;http://www.gradle.org/docs/current/javadoc/org/gradle/api/artifacts/repositories/package-tree.html&#34;&gt;&lt;code&gt;org.gradle.api.internal.artifacts.repositories&lt;/code&gt;&lt;/a&gt; without success.&lt;/p&gt;
+
+&lt;p&gt;Gradle&amp;rsquo;s API has changed since the publication of the book, obviously. And in fact, I have been submitting &lt;a href=&#34;https://github.com/gradleware/oreilly-gradle-book-examples/commit/351f31f1cdede84233b977e67031720177144aab&#34;&gt;GitHub pull requests&lt;/a&gt; as I update the code examples while encountering apparent changes. But sometimes, as in this case, it has been too confusing for me to figure out how to update the code. You could say that this is always the case for any code in any language, but what bothers me is the nature of error messages and documentation in APIs for dynamically typed languages such as Groovy. These experiences remind me that &lt;em&gt;types are documentation&lt;/em&gt;, that &lt;em&gt;types are a way for a programmer to tell the world how code is supposed to be used&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Gradle seems to be a promising build tool, and I will continue to evaluate it while skipping over the particular mysterious error I encountered (since it is not really relevant to what I want to do in my builds), but I wish I could have better figured out what went wrong with the book&amp;rsquo;s code example. Meanwhile, it remains to be seen what kinds of problems I will encounter when using SBT. Again, I have to emphasize that my goal is to get things done, correctly and efficiently. Whatever works best, I will use, whatever its drawbacks: in another project, I happily used &lt;a href=&#34;../../categories/scons/&#34;&gt;SCons&lt;/a&gt; as a build tool, based on the dynamically typed language Python, and of course, I have used &lt;a href=&#34;http://rake.rubyforge.org/&#34;&gt;Rake&lt;/a&gt; for Ruby projects.&lt;/p&gt;
+
+&lt;h3 id=&#34;update-of-2015-05-18&#34;&gt;(Update of 2015-05-18)&lt;/h3&gt;
+
+&lt;p&gt;Wow, that was written in fall of 2012.&lt;/p&gt;
+
+&lt;p&gt;Since then, I have heavily used SBT from then to the present first for Java, then for Scala, which &lt;a href=&#34;http://franklinchen.com/blog/2013/01/11/2013-is-my-year-of-scala/&#34;&gt;became my main programming language in early 2013&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Also, in early 2015, &lt;a href=&#34;http://blog.pivotal.io/pivotal/news-2/groovy-2-4-and-grails-3-0-to-be-last-major-releases-under-pivotal-sponsorship&#34;&gt;Pivotal got out of the Groovy business&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Meanwhile, in early 2015 as I adopted Haskell as my main language for new projects, I switched away from SCons as a general-purpose build tool to Haskell-based &lt;a href=&#34;http://shakebuild.com/&#34;&gt;Shake&lt;/a&gt;, which works really great for me.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Returning to chess, part 2: rejoining the Pittsburgh Chess Club and signing up for my sixth Fred Sorensen Memorial tournament</title>
+      <link>http://franklinchen.com/blog/2012/08/29/returning-to-chess/</link>
+      <pubDate>Wed, 29 Aug 2012 21:28:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/08/29/returning-to-chess/</guid>
+      <description>&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/federico-franklin-2006.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Federico Garcia vs. Franklin Chen in 2006&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;(A chess tournament in 2006.)&lt;/p&gt;
+
+&lt;p&gt;So tonight I stopped by the &lt;a href=&#34;http://pittsburghcc.org/&#34;&gt;Pittsburgh Chess Club&lt;/a&gt; to renew my expired membership and pre-register for the next 6-round Tuesday night tournament, the Fred Sorensen Memorial, which starts on Tuesday after Labor Day. This will be the sixth time I&amp;rsquo;m playing in this annual tournament.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s been almost two years since I played tournament chess.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s a look back at previous years of the tournament and reflections on why I&amp;rsquo;ve played off and on, and what makes this &amp;ldquo;comeback&amp;rdquo; different from all the rest.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;fred-sorensen-memorial-tournament-in-the-fall&#34;&gt;Fred Sorensen Memorial tournament in the fall&lt;/h2&gt;
+
+&lt;p&gt;I first played in this tournament in &lt;a href=&#34;http://main.uschess.org/assets/msa_joomla/XtblMain.php?200510184561-12226800&#34;&gt;2005&lt;/a&gt;, as part of my first year back to tournament chess in two decades. I was still trying to regain my skill, and did not play so well. I lost one game, and took second place with a score of 5.0/6.0 points.&lt;/p&gt;
+
+&lt;p&gt;By &lt;a href=&#34;http://main.uschess.org/assets/msa_joomla/XtblMain.php?200610176361-12226800&#34;&gt;2006&lt;/a&gt;, I was rapidly improving my chess, in the process of making some really radical changes to my knowledge and playing style (given that when I played as a kid, I was basically self-taught and never studied chess in any systematic, thorough way). I won with a perfect score of 6.0/6.0 points.&lt;/p&gt;
+
+&lt;p&gt;In &lt;a href=&#34;http://main.uschess.org/assets/msa_joomla/XtblMain.php?200710163361-12226800&#34;&gt;2007&lt;/a&gt;, I was still improving, and won with a score of 5.&lt;sup&gt;5&lt;/sup&gt;&amp;frasl;&lt;sub&gt;6&lt;/sub&gt;.0 points.&lt;/p&gt;
+
+&lt;p&gt;In &lt;a href=&#34;http://main.uschess.org/assets/msa_joomla/XtblMain.php?200810145131-12226800&#34;&gt;2008&lt;/a&gt;, I had gone several months already playing worse than I had in 2006 and 2007, and I tied for first with a score of 5.0/5.0 points. What happened was that I had first met Abby in late 2006, and started dating in mid-2007. I was not putting any energy into improving or even maintaining my competitive chess sharpness. In retrospect, I should have made some tough decisions about priorities and stopped playing tournament chess by the beginning of 2008. In fact, after playing a couple more months, I quit chess entirely for almost two years: Abby and I got married in 2009.&lt;/p&gt;
+
+&lt;p&gt;In &lt;a href=&#34;http://main.uschess.org/assets/msa_joomla/XtblMain.php?201010121031-12226800&#34;&gt;2010&lt;/a&gt;, I attempted to make a comeback to chess, but I was not playing well; I was physically and mentally exhausted from other concerns in my life the entire time, even falling asleep during some of my games. I still managed to tie for first with a score of 5.0/5.0 points, but lost rating points doing so. After a couple of months, I quit chess again for almost two years. There was just no room for chess as long as I was focused on completely new priorities including marriage, home, and my 2011 return to music after decades away from it.&lt;/p&gt;
+
+&lt;h2 id=&#34;why-am-i-coming-back-to-chess-yet-again-now-in-2012&#34;&gt;Why am I coming back to chess yet again now, in 2012?&lt;/h2&gt;
+
+&lt;p&gt;This year, I&amp;rsquo;ve slowly returned to playing a little bit of chess casually, analyzing games, and even &lt;a href=&#34;../../categories/chess/&#34;&gt;writing a bit about chess&lt;/a&gt;. And I&amp;rsquo;m kind of hungering for competition again.&lt;/p&gt;
+
+&lt;p&gt;But this time, I have a different attitude and goal than in the past. In the past, when I was in &amp;ldquo;chess mode&amp;rdquo;, I was obsessed with things like winning, achievement, improving my rating, maybe attaining an official &lt;a href=&#34;http://en.wikipedia.org/wiki/Chess_master&#34;&gt;National Master title&lt;/a&gt; (which had slipped past my fingers in 2007: if I had dropped out of one of my tournaments in progress, I would have acquired enough wins to receive the title, but out of sheer pride, I wanted to finish the tournament and ended up on a losing streak).&lt;/p&gt;
+
+&lt;h3 id=&#34;my-goals&#34;&gt;My goals&lt;/h3&gt;
+
+&lt;p&gt;Now, my goal is to play well while having fun. I am explicitly not setting a goal of winning games or winning tournaments. I trust that if I play well, I will get whatever I deserve.&lt;/p&gt;
+
+&lt;p&gt;In fact, tonight I did something I have never done in my life as a tournament player: I have taken a bye for one of the rounds in the tournament, because of a schedule conflict. Taking the bye means receiving half a point for not playing, and that means decreasing my chances of winning the tournament. Someone not taking a bye could win six games in a row, while my taking a bye means that my maximum possible score if I won five games would be good for at best second place. By taking a bye, I am choosing not to make winning this tournament my highest priority.&lt;/p&gt;
+
+&lt;p&gt;In the fourth scheduled round (of six), there is a presentation at the meeting of the &lt;a href=&#34;http://www.pghtech.org/networks/PittJug/events.aspx&#34;&gt;Pittsburgh Java Users Group (PittJUG)&lt;/a&gt; that I want to attend. In past years, when I was playing Tuesday night chess tournaments most Tuesday, I would miss meetings of PittJUG or other groups that met on Tuesdays. At this point in my life, improving my knowledge as a software developer is more important than winning a chess tournament.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;I am returning to tournament chess with a different mindset than I had in previous years. This time, I want to maximize my enjoyment rather than my achievement. We&amp;rsquo;ll see how this goes. For the record, it seems that I actually always did the best anyway when my goal was enjoyment and I felt relaxed. It was when I put a lot of pressure on myself, as I got better and better, that I repeatedly choked.&lt;/p&gt;
+
+&lt;h4 id=&#34;update-of-2015-12-21&#34;&gt;(Update of 2015-12-21)&lt;/h4&gt;
+
+&lt;p&gt;So much for &amp;ldquo;enjoyment&amp;rdquo;: three years later, I made a focused push,
+temporarily putting many things aside in my life, in the fall of 2015
+to &lt;a href=&#34;../../blog/2016/01/22/on-finally-achieving-the-us-national-master-chess-title-at-age-45-part-1&#34;&gt;achieve my US Chess National Master&lt;/a&gt; title, and finally made it, a
+dream come true.&lt;/p&gt;
+
+&lt;p&gt;I found an outlet for the enjoyment part of chess, however: teaching
+private lessons since 2013.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Report on the first Pittsburgh TechFest, 2012</title>
+      <link>http://franklinchen.com/blog/2012/06/09/report-on-the-first-pittsburgh-techfest-2012/</link>
+      <pubDate>Sat, 09 Jun 2012 20:24:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/06/09/report-on-the-first-pittsburgh-techfest-2012/</guid>
+      <description>&lt;figure &gt;
+    
+        &lt;img src=&#34;https://sphotos-a.xx.fbcdn.net/hphotos-prn1/532862_293436380745383_58658441_n.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Pittsburgh TechFest 2012&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;I was excited to attend the very first &lt;a href=&#34;http://pghtechfest.com/&#34;&gt;Pittsburgh TechFest&lt;/a&gt;, held at &lt;a href=&#34;http://www.laroche.edu/&#34;&gt;LaRoche College&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This was my first local programming conference since some Perl conferences years ago!&lt;/p&gt;
+
+&lt;h2 id=&#34;why-attend&#34;&gt;Why attend?&lt;/h2&gt;
+
+&lt;p&gt;In the past couple of years, I have increasingly explored &lt;a href=&#34;../../blog/2011/10/16/pittsburgh-software-developer-communities/&#34;&gt;Pittsburgh&amp;rsquo;s growing programmer meetup scene&lt;/a&gt;, but I wanted to expand beyond that to start attending some local conferences, so of course I was going to attend this one. (I had to cancel a hiking/camping outing in order to make it!)&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-venue&#34;&gt;The venue&lt;/h2&gt;
+
+&lt;p&gt;LaRoche College is in the &lt;a href=&#34;http://en.wikipedia.org/wiki/North_Hills_(Pennsylvania)&#34;&gt;North Hills&lt;/a&gt;, about a twenty-minute drive (in light traffic conditions) from the city of Pittsburgh. This was the first time I&amp;rsquo;d been in LaRoche. They had a decent amount of space for all the sessions for the conference. I think the venue worked out great, and we were also provided lunch in the cafeteria.&lt;/p&gt;
+
+&lt;h2 id=&#34;keynote&#34;&gt;Keynote&lt;/h2&gt;
+
+&lt;p&gt;The keynote speech was by &lt;a href=&#34;http://www.docondev.com/&#34;&gt;Michael &amp;ldquo;Doc&amp;rdquo; Norton&lt;/a&gt; of &lt;a href=&#34;http://leandog.com/&#34;&gt;LeanDog&lt;/a&gt;. He talked about our shared goal, as evidenced by attending the conference, of becoming an &amp;ldquo;excellent software developer&amp;rdquo;. He emphasized the &lt;em&gt;polyglot&lt;/em&gt; nature of the conference, which was organized by members of various local communities including .NET and Java, among others. &amp;ldquo;We don&amp;rsquo;t work alone today,&amp;rdquo; he emphasized. He urged us to broaden ourselves at the conference, and go to talks about topics outside of our own comfortable experience. He used the concept of the &amp;ldquo;T&amp;rdquo; as something to aspire to: having deep knowledge in something but also having broad knowledge of other things.&lt;/p&gt;
+
+&lt;p&gt;I enjoyed the keynote speech and resolved to check out ideas new to me that I might be able to use. The speech actually caused me to spontaneously change some of my original marked-down preferences for which sessions I would attend!&lt;/p&gt;
+
+&lt;h3 id=&#34;update-of-2013-06-01&#34;&gt;(Update of 2013-06-01)&lt;/h3&gt;
+
+&lt;p&gt;&amp;ldquo;Doc&amp;rdquo; has in the past year moved to Groupon.&lt;/p&gt;
+
+&lt;h2 id=&#34;overview-of-sessions&#34;&gt;Overview of sessions&lt;/h2&gt;
+
+&lt;p&gt;The problem I (well, all of us) faced for this conference was that there was a huge number of concurrent talks on all kinds of topics in any given time slot. There were over 30 speakers and over 40 sessions, all in a single day.&lt;/p&gt;
+
+&lt;p&gt;This meant having to decide what to attend and what to miss. Topics came from areas such as:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;.NET&lt;/li&gt;
+&lt;li&gt;Node&lt;/li&gt;
+&lt;li&gt;CoffeeScript&lt;/li&gt;
+&lt;li&gt;Ruby&lt;/li&gt;
+&lt;li&gt;Java&lt;/li&gt;
+&lt;li&gt;PHP&lt;/li&gt;
+&lt;li&gt;Selenium&lt;/li&gt;
+&lt;li&gt;Kinect&lt;/li&gt;
+&lt;li&gt;Scala&lt;/li&gt;
+&lt;li&gt;UX&lt;/li&gt;
+&lt;li&gt;Agile&lt;/li&gt;
+&lt;li&gt;Backbone&lt;/li&gt;
+&lt;li&gt;REST&lt;/li&gt;
+&lt;li&gt;iOS&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;sessions-i-attended&#34;&gt;Sessions I attended&lt;/h2&gt;
+
+&lt;h3 id=&#34;user-experience-maps-for-agile-modeling-maria-emerson-http-www-mariaemerson-com&#34;&gt;User Experience Maps for Agile Modeling (&lt;a href=&#34;http://www.mariaemerson.com/&#34;&gt;Maria Emerson&lt;/a&gt;)&lt;/h3&gt;
+
+&lt;p&gt;The first session I attended was completely outside of my usual world, involving &lt;a href=&#34;http://en.wikipedia.org/wiki/User_experience_design&#34;&gt;&amp;ldquo;user experience&amp;rdquo; (UX)&lt;/a&gt;. I chose it because it was a hands-on workshop. I freely confess that I am usually not very excited by sitting around listening to someone talk and put up code on slides; I feel I could do that at home by myself.&lt;/p&gt;
+
+&lt;p&gt;Maria led us through a simulation of the kind of work she does. We broke up into teams, we were told to design a mobile app for rowers who rent from a boat house, and used sticky notes, a whiteboard, and &amp;ldquo;butcher paper&amp;rdquo; as we went through an abbreviated version of the work flow of figuring out what the app should do and what issues it should address. I thought it was a fantastic workshop.&lt;/p&gt;
+
+&lt;h3 id=&#34;creating-your-own-software-company-kendall-miller&#34;&gt;Creating Your Own Software Company (Kendall Miller)&lt;/h3&gt;
+
+&lt;p&gt;The second session was, again, about something I&amp;rsquo;m not currently doing and is new to me.&lt;/p&gt;
+
+&lt;p&gt;It was by a .NET guy from &lt;a href=&#34;http://www.gibraltarsoftware.com/&#34;&gt;Gibraltar Software&lt;/a&gt; who talked about the nuts and bolts of starting, and especially sustaining, a software company. I learned a lot from his presentation and the discussions, about handling such resources as time, funding, pricing, and especially the &lt;em&gt;psychology&lt;/em&gt; of the customer, as well as self-psychology.&lt;/p&gt;
+
+&lt;p&gt;For example, he emphasized looking at the &lt;em&gt;market&lt;/em&gt; first, when coming up with a conscious plan to achieve &amp;ldquo;deliberate success&amp;rdquo;, rather than get carried away by idealism or fuzzy hopes. He argued that &lt;em&gt;marketing&lt;/em&gt; is what it&amp;rsquo;s all about, and that all business is about &lt;em&gt;people&lt;/em&gt; relating to &lt;em&gt;people&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Very informative and fascinating session!&lt;/p&gt;
+
+&lt;h3 id=&#34;lunch&#34;&gt;Lunch&lt;/h3&gt;
+
+&lt;p&gt;Lunch was surprisingly high quality and filling, in the campus cafeteria.&lt;/p&gt;
+
+&lt;h3 id=&#34;you-say-tomato-i-say-pomodoro-joel-cochran&#34;&gt;You say Tomato, I say Pomodoro (Joel Cochran)&lt;/h3&gt;
+
+&lt;p&gt;After lunch, I went to a session about the &lt;a href=&#34;http://www.pomodorotechnique.com/&#34;&gt;Pomodoro Technique&lt;/a&gt; of time management. I had heard about the Pomodoro Technique for some time, but it sounded bizarre, and I never experimented with implementing it myself.&lt;/p&gt;
+
+&lt;p&gt;I took some notes, but left not really feeling convinced that I would try the technique.&lt;/p&gt;
+
+&lt;h3 id=&#34;introduction-to-actors-using-scala-josh-suereth-http-jsuereth-com&#34;&gt;Introduction to Actors using Scala (&lt;a href=&#34;http://jsuereth.com/&#34;&gt;Josh Suereth&lt;/a&gt;)&lt;/h3&gt;
+
+&lt;p&gt;I first met Josh almost two years ago, when he gave a talk in October 2010 for &lt;a href=&#34;http://java.net/projects/pittjug/&#34;&gt;PittJUG&lt;/a&gt;, &amp;ldquo;Why you want to learn Scala&amp;rdquo;. After that, he has periodically come to more PittJUG meetings, such as a nice &lt;a href=&#34;../../blog/2011/10/26/open-spaces-success-at-the-pittsburgh-java-users-group/&#34;&gt;&amp;ldquo;open spaces&amp;rdquo; one we had last year&lt;/a&gt;. Josh had this morning given a talk &amp;ldquo;Introduction to Functional Programming using Scala&amp;rdquo; that I had skipped, but I attended this one because I had always meant to look into using &lt;a href=&#34;http://en.wikipedia.org/wiki/Actor_model&#34;&gt;actors&lt;/a&gt; for concurrency.&lt;/p&gt;
+
+&lt;p&gt;Josh gave a nice presentation that left me knowing that I definitely wanted to look into actors (and Scala) further.&lt;/p&gt;
+
+&lt;p&gt;Oh, and he was plugging his new book &lt;a href=&#34;http://www.manning.com/suereth/&#34;&gt;Scala in Depth&lt;/a&gt;. I went and bought the ebook when I got home! It&amp;rsquo;s good.&lt;/p&gt;
+
+&lt;h3 id=&#34;hypermedia-api-design-steve-klabnik-http-steveklabnik-com&#34;&gt;Hypermedia API Design (&lt;a href=&#34;http://steveklabnik.com/&#34;&gt;Steve Klabnik&lt;/a&gt;)&lt;/h3&gt;
+
+&lt;p&gt;The final session I attended was an unusual one. Steve Klabnik gave a fairly philosophical rather than technical talk about &lt;a href=&#34;http://www.designinghypermediaapis.com/&#34;&gt;hypermedia API design&lt;/a&gt;. He spoke about the need to make sure the Web remains open and flexible. His point of view is that &amp;ldquo;everything is politics&amp;rdquo;, so when we&amp;rsquo;re talking about how applications can and should communicate with each other, we have some implicit political vision in mind.&lt;/p&gt;
+
+&lt;p&gt;The presentation was kind of abstract for me, probably because I don&amp;rsquo;t currently do much with Web application design. He spoke of metadata, interpretation, and dynamic contracts. If I end up in the Web world again sometime, I&amp;rsquo;ll try to figure out exactly what Steve was trying to say!&lt;/p&gt;
+
+&lt;h2 id=&#34;what-next&#34;&gt;What next?&lt;/h2&gt;
+
+&lt;p&gt;I took a lot of notes that I hope to study and use in my career as a software developer. Also, I&amp;rsquo;m inspired by seeing so many people I know giving talks. At some point, I should start sharing what I know by giving presentations also.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s &lt;a href=&#34;http://updyke.com/blog/2012/06/09/pittsburgh-techfest-2012/&#34;&gt;another participant&amp;rsquo;s review of the Pittsburgh TechFest&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;I&amp;rsquo;d like to thank the organizers of the very first Pittsburgh TechFest, and the sponsors who made the conference so inexpensive and accessible. And of course, I appreciate everyone who signed on to give a presentation. I learned a lot over the course of the day, and look forward to another Pittsburgh TechFest in 2013!&lt;/p&gt;
+
+&lt;h3 id=&#34;update-of-2013-06-01-1&#34;&gt;(Update of 2013-06-01)&lt;/h3&gt;
+
+&lt;p&gt;I went to &lt;a href=&#34;../../blog/2013/06/01/report-on-the-second-pittsburgh-techfest-2013/&#34;&gt;Pittsburgh TechFest again in 2013&lt;/a&gt;, and had a great time, despite being sick. Also, as I had promised myself a year ago, I gave a presentation there! &lt;a href=&#34;../../blog/2013/06/01/pittsburgh-tech-fest-2013-my-talk-stop-overusing-regular-expressions/&#34;&gt;Full report here&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pittsburgh Java User Group: Get Going with Git on Java Projects</title>
+      <link>http://franklinchen.com/blog/2012/02/21/pittsburgh-java-users-group-get-going-with-git-on-java-projects/</link>
+      <pubDate>Tue, 21 Feb 2012 20:34:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/02/21/pittsburgh-java-users-group-get-going-with-git-on-java-projects/</guid>
+      <description>&lt;p&gt;Tonight the &lt;a href=&#34;http://java.net/projects/pittjug/&#34;&gt;Pittsburgh Java User Group&lt;/a&gt; (&lt;a href=&#34;../../categories/pittjug/&#34;&gt;PittJUG&lt;/a&gt;) had another meeting at the &lt;a href=&#34;http://www.pghtech.org/&#34;&gt;Pittsburgh Technology Council&lt;/a&gt;. &lt;a href=&#34;http://twitter.com/matthewmccull&#34;&gt;Matthew McCullough&lt;/a&gt; of &lt;a href=&#34;http://github.com/&#34;&gt;GitHub&lt;/a&gt; gave a talk &amp;ldquo;Get Going with &lt;a href=&#34;http://git-scm.com/&#34;&gt;Git&lt;/a&gt; on Java Projects&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;I arrived early and couldn&amp;rsquo;t help admiring the view outside before entering the building as there was still daylight. Here are the Birmingham Bridge and the &lt;a href=&#34;http://en.wikipedia.org/wiki/Monongahela_River&#34;&gt;Monongahela River&lt;/a&gt;:&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/pittjug-2012-02-21/birmingham-bridge.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;View of Birmingham Bridge from Pittsburgh Technology Council&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/pittjug-2012-02-21/monongahela.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;View across Monongahela River from Pittsburgh Technology Council&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;I had a good time tonight.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;social-time&#34;&gt;Social time&lt;/h2&gt;
+
+&lt;p&gt;PittJUG meetings are advertised as starting at 5:30 PM, although the talk starts at 6:00. These days I always try to get there by 5:30 in order to get a good seat, settle in, and eat pizza and socialize, and that&amp;rsquo;s what I did today.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-talk&#34;&gt;The talk&lt;/h2&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/pittjug-2012-02-21/matthew-mccullough-git.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Matthew McCullough of GitHub speaking on Git at PittJUG&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Matthew McCullough gave an energetic and clear presentation on some fundamentals of Git. There were good questions from the audience throughout, and he answered them well.&lt;/p&gt;
+
+&lt;p&gt;The title of the talk was, I suppose, inaccurate, because there was not much that was Java-specific. It was more of a general introduction to Git. He is going to be doing &lt;a href=&#34;http://www.pghtech.org/networks/PittJug/events.aspx&#34;&gt;GitHub&amp;rsquo;s Git Foundations Workshop tomorrow&lt;/a&gt;, covering much more of Git and details of Java environments. I am not attending this workshop, but based on his introductory presentation today, I&amp;rsquo;m sure it will be great.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m not sure how to summarize his talk, since I came to it already having spent quite a bit of time learning and understanding Git from various sources, including working through many &lt;a href=&#34;http://gitimmersion.com/&#34;&gt;tutorials&lt;/a&gt;, reading excellent &lt;a href=&#34;http://progit.org/&#34;&gt;Web references&lt;/a&gt; and other books, and actually using it on a daily basis for some time now.&lt;/p&gt;
+
+&lt;h3 id=&#34;my-learning-style&#34;&gt;My learning style&lt;/h3&gt;
+
+&lt;p&gt;I am definitely not yet an &amp;ldquo;expert&amp;rdquo; at Git (I have done some interactive rebasing, but nothing more complicated than that), so I felt it would be very useful to get an integrated personal view of what is important about Git and why, and Matthew was great at telling a story with his own words and emphases and personal anecdotes, such as moving &lt;a href=&#34;http://groovy.codehaus.org/&#34;&gt;Groovy&lt;/a&gt; over from &lt;a href=&#34;http://subversion.apache.org/&#34;&gt;Subversion&lt;/a&gt; to Git. I did end up taking quite a few notes even though I already &amp;ldquo;knew&amp;rdquo; most of what he talked about, because I liked various tips or analogies that he made. I find it highly valuable to get different narratives whenever deepening my understanding of something; in school and outside of school, I have always read multiple books in parallel, finding myself some book other than the &amp;ldquo;official&amp;rdquo; one, in order to broaden my perspective and as a robustness/redundancy measure, in case (as always happens), one source is flawed or confusing in some section.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;I enjoyed this PittJUG meeting and am motivated to continue to improve my understanding and use of Git. Actually, at work I am about to transition a legacy Subversion repository to Git. I expect we will get a lot of benefits from this transition, and I will report on the results after I effect the transition and observe how everyone operates under the new system.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pittsburgh Java User Group: Developing Languages Using JRuby</title>
+      <link>http://franklinchen.com/blog/2012/01/24/pittsburgh-java-user-group-developing-languages-using-jruby/</link>
+      <pubDate>Tue, 24 Jan 2012 22:23:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/01/24/pittsburgh-java-user-group-developing-languages-using-jruby/</guid>
+      <description>
+
+&lt;p&gt;Tonight at PittJUG, Chris Umbel gave a version of the talk he did for the Pittsburgh Ruby group a couple of months ago. You can read my report on that &lt;a href=&#34;../../blog/2011/10/06/pittsburgh-ruby-building-a-compiler-in-jruby/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;You might wonder why I attended the PittJUG meeting then, if I already heard the talk. The fact is, I&amp;rsquo;ve learned that the most value I get from attending these user group meetings is not so much the presentations (although I get considerable value, actually, from learning about good or not so good presentation techniques), but just hanging out to chat before and after a presentation, whether about the topic of the presentation or not.&lt;/p&gt;
+
+&lt;h2 id=&#34;presentation-materials&#34;&gt;Presentation materials&lt;/h2&gt;
+
+&lt;p&gt;Greg has uploaded Chris&amp;rsquo;s slides as well as a video of the PittJUG talk:&lt;/p&gt;
+
+&lt;iframe src=&#34;http://www.slideshare.net/slideshow/embed_code/11327294&#34; width=&#34;427&#34; height=&#34;356&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px&#34; allowfullscreen webkitallowfullscreen mozallowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;http://www.slideshare.net/akinsgre/building-a-compiler-in-jruby&#34; title=&#34;Building a compiler in JRuby&#34; target=&#34;_blank&#34;&gt;Building a compiler in JRuby&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;http://www.slideshare.net/akinsgre&#34; target=&#34;_blank&#34;&gt;akinsgre&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/wvg1m-lyKsU&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Global Day of CodeRetreat: Pittsburgh</title>
+      <link>http://franklinchen.com/blog/2011/12/06/global-day-of-coderetreat-pittsburgh/</link>
+      <pubDate>Tue, 06 Dec 2011 21:24:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2011/12/06/global-day-of-coderetreat-pittsburgh/</guid>
+      <description>&lt;p&gt;As I mentioned &lt;a href=&#34;../../blog/2011/12/04/why-i-am-writing-this-week-for-csedweek/&#34;&gt;on Sunday in introducing CSEdWeek&lt;/a&gt;, Saturday was the ambitious &lt;a href=&#34;http://blog.coderetreat.com/global-day-of-coderetreat&#34;&gt;Global Day of CodeRetreat&lt;/a&gt;, whose local &lt;a href=&#34;http://globalcoderetreat2011pittsburgh.eventbrite.com/&#34;&gt;Pittsburgh edition&lt;/a&gt; I participated in, with around 50 of us total. The global event was held simultaneously in 90 cities and had around 2000 attendees. I had a great time, although I was totally exhausted by the time it was over (it lasted from before 9 AM to after 6 PM; what a way to spend a Saturday!).&lt;/p&gt;
+
+&lt;p&gt;What is CodeRetreat and what can you get out of it as a software developer?&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/global-day-of-coderetreat/code-retreat-start.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Pittsburgh CodeRetreat starting&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/global-day-of-coderetreat/code-retreat-start-2.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Pittsburgh CodeRetreat starting&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-coderetreat-concept&#34;&gt;The CodeRetreat concept&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://coderetreat.org/&#34;&gt;CodeRetreat&lt;/a&gt; is the brainchild of &lt;a href=&#34;http://coreyhaines.com/&#34;&gt;Corey Haines&lt;/a&gt;. The motto is &amp;ldquo;Programmers honing their craft together.&amp;rdquo; The basic idea is the programmers gather for an all-day event in which they pair up with different partners for six sessions to work again and again on the same problem, starting from scratch each time. You can read about more &lt;a href=&#34;http://coderetreat.org/about&#34;&gt;formal details&lt;/a&gt;, but I didn&amp;rsquo;t before I went to the event, and in this post I will walk through my experience as a first-time participant.&lt;/p&gt;
+
+&lt;p&gt;If CodeRetreat already sounds weird, it&amp;rsquo;s because it is. I had heard about it earlier from a couple of people I&amp;rsquo;d met at the &lt;a href=&#34;http://www.pghgeekoutday.com/&#34;&gt;Pittsburgh Geek Out Day&lt;/a&gt; sessions who had gone to such events in the past. To be completely honest, the first time I heard about it, it sounded weird. And the second time, after hearing about the session held in Pittsburgh in May when I was out of town, it sounded weird too.  But I&amp;rsquo;m the kind of person who is willing to try weird things if I don&amp;rsquo;t believe they can be actively harmful and have a chance of being very beneficial.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m going to state up front that if you are a programmer and haven&amp;rsquo;t been to a CodeRetreat, and one is happening in your area, you should try it out.&lt;/p&gt;
+
+&lt;h2 id=&#34;morning-introduction&#34;&gt;Morning introduction&lt;/h2&gt;
+
+&lt;p&gt;I arrived before 8:30 AM, in time for taking a seat at a table and doing some socializing over coffee and donuts/bagels.  &lt;strong&gt;Socializing is one of the big reasons to go to an event like this; I had never been in a room of fifty local developers from all kinds of domain and programming language backgrounds.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We were told that our task was to implement &lt;a href=&#34;http://en.wikipedia.org/wiki/Conway&#39;s_Game_of_Life&#34;&gt;Conway&amp;rsquo;s game of life&lt;/a&gt;. Actually, we all already knew that, because we had been informed before the event. To keep myself fresh for the event, I deliberately did no thinking about the problem, working on an algorithm, or coding it. I do not know how many other people took this attitude, and am curious how it affects the nature of participation (I will discuss some speculations later in this post).&lt;/p&gt;
+
+&lt;h2 id=&#34;first-session&#34;&gt;First session&lt;/h2&gt;
+
+&lt;p&gt;I don&amp;rsquo;t remember what specific instructions we were given for our first session, other than to pair up. I may have been too distracted by the socializing at the time. &lt;strong&gt;It would have been useful to have received handouts to guide us.&lt;/strong&gt; I do know that at some point in the morning, before the first or second session, we were directed to look at the whiteboard that had the &amp;ldquo;four rules of simple design&amp;rdquo; written on it:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/global-day-of-coderetreat/four-rules-of-simple-design&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Four rules of simple design&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;four-rules-of-simple-design&#34;&gt;Four rules of simple design&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Passes all tests&lt;/li&gt;
+&lt;li&gt;Clear, expressive, consistent&lt;/li&gt;
+&lt;li&gt;Duplicates no behavior, config&lt;/li&gt;
+&lt;li&gt;Minimal methods, classes, modules&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;my-first-pairing-experience&#34;&gt;My first pairing experience&lt;/h3&gt;
+
+&lt;p&gt;I&amp;rsquo;d heard about &lt;a href=&#34;http://en.wikipedia.org/wiki/Pair_programming&#34;&gt;pair programming&lt;/a&gt; for a decade, in the context of &lt;a href=&#34;http://en.wikipedia.org/wiki/Extreme_programming&#34;&gt;Extreme Programming (XP)&lt;/a&gt;, but had never practiced it. To be honest, as late as a year ago I found the concept very strange and distasteful. Interestingly, by this year, as a result of participating in a lot of &lt;a href=&#34;../../blog/2011/10/16/pittsburgh-software-developer-communities/&#34;&gt;local programmer group meetings&lt;/a&gt;, I became more sociable generally and more amenable to real-time sharing of ideas.  &lt;strong&gt;Part of the reason I decided to go to CodeRetreat was to experience pairing.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;For the first session, I paired with Adam, since I knew him (in fact, I had gotten him to register at the last minute for the event) and we could work together in Java.&lt;/p&gt;
+
+&lt;p&gt;We gathered around his laptop, and spent quite a bit of time (of the allotted 45 minutes per session) sketching out a design for implementing Conway&amp;rsquo;s game of life. First we had to decide what variant of the game to implement: fixed grid with boundary or infinite? We decided on infinite. Then we had to figure out an appropriate algorithm and data representation. We came up with that. We ended up writing scaffolding for a complete application, for initializing the grid, displaying it, computing the next step, etc. Unfortunately, time expired when we were just about to implement the rules for the game.&lt;/p&gt;
+
+&lt;p&gt;Then we were told to &lt;em&gt;delete all our code&lt;/em&gt;. That was kind of shocking. We weren&amp;rsquo;t allowed to just archive it somewhere. We had to delete it right there and then:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/global-day-of-coderetreat/code-deleted&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;observations&#34;&gt;Observations&lt;/h3&gt;
+
+&lt;p&gt;I was disappointed that we didn&amp;rsquo;t have something to show after 45 minutes. I was also shocked about having to delete our work. I felt that the infrastructure we had set up was valuable. I was confused by how what we were doing was contrary with how I would operate in real life on a real programming project. 45 minutes was not enough time to do the kinds of things I really wanted to do.&lt;/p&gt;
+
+&lt;p&gt;Meanwhile, at some point I realized that we had violated the &amp;ldquo;rules of simple design&amp;rdquo;. We had a proliferation of interfaces and in fact we kept changing them in order to be able to compile while nearing something that could actually run.&lt;/p&gt;
+
+&lt;h2 id=&#34;second-session&#34;&gt;Second session&lt;/h2&gt;
+
+&lt;p&gt;I think that for the second session we were instructed to use &lt;a href=&#34;http://en.wikipedia.org/wiki/Test-driven_development&#34;&gt;test-driven development&lt;/a&gt;:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/global-day-of-coderetreat/tdd-cycle.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;I looked for another Java programmer, and paired with Heath, whom I had met earlier in various events but never worked with. We had some ideas based on what we each had done in the first session and got going. This time, we used my laptop, and the first thing I did was start writing tests with &lt;a href=&#34;http://www.junit.org/&#34;&gt;JUnit&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We made good progress, but I felt hampered by Java&amp;rsquo;s verbose syntax, and also I confess to copying and pasting test setup code just because time was short. I ended up feeling conflicted because the time constraints of this event were generating powerful perverse incentives. I think a lot of us kind of liked the idea of getting something working and done, and cut corners throughout the day. This is something that should be addressed by the CodeRetreat organizers and facilitators. After each session, many of us ended up saying, &amp;ldquo;We almost finished!&amp;rdquo; or something like that. I tried to resist having that mentality, but it was difficult given the time limit.&lt;/p&gt;
+
+&lt;h2 id=&#34;third-session&#34;&gt;Third session&lt;/h2&gt;
+
+&lt;p&gt;The final morning session had me pairing with a Python programmer, Joe.&lt;/p&gt;
+
+&lt;p&gt;We were supposed to do &amp;ldquo;ping pong pairing&amp;rdquo;, which I hadn&amp;rsquo;t heard of before. The idea was to take turns being the one writing tests and being the one writing code to pass the tests.&lt;/p&gt;
+
+&lt;p&gt;Joe and I wasted some time getting set up with Dropbox so that we could use both our laptops in order to get concurrency benefits.&lt;/p&gt;
+
+&lt;p&gt;I started out writing tests using &lt;a href=&#34;http://docs.python.org/library/unittest.html&#34;&gt;unittest&lt;/a&gt; and Joe wrote the game implementation. It turned out we never actually ping-ponged, so we violated the intent of the session. We both got into the idea of being able to get something done. In particular, we agreed on a purely functional algorithm, which we knew would be expressible very compactly in Python.&lt;/p&gt;
+
+&lt;p&gt;We ran into concurrency problems because we were perpetually editing source files such that I kept seeing an out of date version of his code and vice versa. &amp;ldquo;Concurrent&amp;rdquo; development using something like Git is one thing, but having one&amp;rsquo;s view of a project change underneath one&amp;rsquo;s feet is another. I don&amp;rsquo;t think the Dropbox idea worked so well, but a number of us that day independently came up with it and spread it around and used it. I now think that&amp;rsquo;s not only cheating, but it even further distances the situation from that of real life software development!&lt;/p&gt;
+
+&lt;p&gt;Also, in the end, Joe had written a lot more code than we had tested, and I had written a lot more tests that were not yet passing. So I think the experiment didn&amp;rsquo;t work out well. We were not keeping to the TDD cycle we were supposed to keep to, in which a test is written, code is written to pass it, then another test written making the code fail, etc.&lt;/p&gt;
+
+&lt;h2 id=&#34;lunch&#34;&gt;Lunch&lt;/h2&gt;
+
+&lt;p&gt;For various reasons, we kept falling behind schedule in the morning, such that it was later than planned when we finally took a lunch break. We each got a nice box lunch, and I took a short nap before resuming more socialization and discussion, which was finally interrupted when we had to begin the afternoon sessions.&lt;/p&gt;
+
+&lt;h2 id=&#34;fourth-session&#34;&gt;Fourth session&lt;/h2&gt;
+
+&lt;p&gt;The fourth session was supposed to be &amp;ldquo;mute ping pong pairing with loophole&amp;rdquo;, in which we were not supposed to communicate except through code, and the one writing code to pass tests was supposed to be fiendish and write code that would pass the existing tests but would clearly not be the correct long-term code for the problem at hand.&lt;/p&gt;
+
+&lt;p&gt;I paired with Chris, using Java, and we did the Dropbox thing. Unfortunately, we spent a large amount of time getting set up. We both had problems connecting to the WiFi for a while. Furthermore, we finally realized that two machines both running IntelliJ IDEA on the same project was a bad idea, because of clobbering of project state. I switched to Emacs, but then we had to rig up a script for me to be able to compile and run stuff he was generating in IntelliJ IDEA. There was just too much setup time wasted.&lt;/p&gt;
+
+&lt;p&gt;Chris took up the test-writing duties and I proceeded to write code. This was my first time during the day to write code to pass someone else&amp;rsquo;s tests, so the experience was quite interesting. Thanks to static typing, the tests Chris wrote forced me to write various classes and methods. I did play the trick of writing degenerate code that passed one of his tests and forced him to write more tests.&lt;/p&gt;
+
+&lt;p&gt;We ran out of time before we got to ping pong the roles. Oops. I did learn something from this &amp;ldquo;no talking about design up front&amp;rdquo; session though: tests can go a long way to drive and constrain the kinds of designs possible to solve a problem. And I was clearly not writing anything extra when focusing purely on passing the existing tests.&lt;/p&gt;
+
+&lt;h2 id=&#34;fifth-session&#34;&gt;Fifth session&lt;/h2&gt;
+
+&lt;p&gt;The fifth session was supposed to be &amp;ldquo;open&amp;rdquo; to however we wanted to go about implementing the game.&lt;/p&gt;
+
+&lt;p&gt;I was paired with Demeng, who uses C#, which I have never used. It was not clear to me what we should do. Somehow, we ended up deciding to have me work on a Haskell implementation of a general design we discussed, so that he could watch and ask me questions and learn some Haskell in the process as I explained to him how to express something we wanted. Given that he was familiar with Python, I felt this was a feasible goal, and it was going quite well, actually. I would write a line of code and explain it to him, or he would tell me something to express, and I would write the code.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, I was still not set up for production Haskell development, e.g., with a testing framework, so we had ad hoc tests.&lt;/p&gt;
+
+&lt;h2 id=&#34;sixth-session&#34;&gt;Sixth session&lt;/h2&gt;
+
+&lt;p&gt;The sixth session had each pair rotate to the right to work on someone&amp;rsquo;s machine and code from the fifth session.&lt;/p&gt;
+
+&lt;p&gt;This was quite traumatic for some of us.&lt;/p&gt;
+
+&lt;p&gt;Demeng and I got moved to a laptop with C# going. He took charge, but I felt somewhat helpless because I had to keep asking about various C# constructs, and also, the original programmers didn&amp;rsquo;t use a testing framework that made it easy to start looking at the existing tests and write more. Even worse, it was getting late and Demeng had to leave, so I was left alone trying to figure out what was going on.&lt;/p&gt;
+
+&lt;p&gt;The pair who ended up with my Haskell code was in even worse shape. They didn&amp;rsquo;t know any Haskell, and were fairly confused and kept on asking me for help. They didn&amp;rsquo;t manage to write any code that compiled. I felt bad about having used Haskell in the fifth session without knowing that it was going to become a new pair&amp;rsquo;s legacy code!&lt;/p&gt;
+
+&lt;h2 id=&#34;what-i-got-out-of-coderetreat&#34;&gt;What I got out of CodeRetreat&lt;/h2&gt;
+
+&lt;p&gt;I&amp;rsquo;m not sure I got what was &amp;ldquo;intended&amp;rdquo; out of CodeRetreat, if the intent was for us to rigorously follow the guidelines and rules we were given. There were too many perverse incentives and little enforcement. Also, the frictions of different languages, IDEs, and operating systems were sometimes significant.&lt;/p&gt;
+
+&lt;p&gt;What I mostly got out of CodeRetreat was value at a meta-level. It was a time to socialize, to meet new people and even work with them. It was a time for many participants who had yet heard about TDD and various design principles to thinking about them and give them a try. It was a time to learn about other languages and development environments, even if only at a shallow level. It was a time for exploring different algorithms and data structures for the same problem.&lt;/p&gt;
+
+&lt;p&gt;The most concrete thing I learned was that pairing can be very stimulating and useful. CodeRetreat has made me think that I can definitely imagine pairing as a regular work practice.&lt;/p&gt;
+
+&lt;h3 id=&#34;education-and-cs-ed-week&#34;&gt;Education and CS Ed Week&lt;/h3&gt;
+
+&lt;p&gt;Although I think less chaos and more guidance would improve CodeRetreat, something about the whole process of getting people together and making them share is in itself a great example of learning and teaching. I&amp;rsquo;d call CodeRetreat an example of &amp;ldquo;education&amp;rdquo;, even though it is far removed from the conventional lecture hall. Nobody leaves CodeRetreat with a huge set of additional facts in the brain, but I&amp;rsquo;m sure many of us leave having experienced a taste of many ideas, shared recommendations to appropriate books and web sites to examine and study, and notions of how to change our actual practices in the real world.&lt;/p&gt;
+
+&lt;p&gt;What does any of this have to do with CS Ed Week? I think there is tension in the educational system between those who believe it should teach fundamental (usually meaning mathematical and abstract) foundations of computing, and those who believe that students should also be prepared for the messiness and realities of the &amp;ldquo;real world&amp;rdquo;. Meanwhile, a lot of the press concerning CS Ed Week focuses on very pragmatic arguments that the US badly needs more appropriately trained employees for computing jobs.&lt;/p&gt;
+
+&lt;p&gt;I don&amp;rsquo;t see how it is possible to really attract more young people into computing without at least helping them understand what a career in computing might entail. That requires some kind of exposure to what we actually do. It&amp;rsquo;s not enough to just teach a middle school student some kid-friendly programming language, or to teach a vocational student Java, or to teach an undergrad the details of Fibonacci heaps. The big picture is missing.&lt;/p&gt;
+
+&lt;p&gt;Events similar to CodeRetreat could play a role in getting a lot of people exposure to the big picture. Furthermore, even many of us who already work in computing do not see the big picture, because it is so easy to get out of date once out of school and working in some narrow niche. So &amp;ldquo;continuing education&amp;rdquo; is just as important as education at K-12 or in undergrad or grad school.&lt;/p&gt;
+
+&lt;h2 id=&#34;concerns-about-coderetreat&#34;&gt;Concerns about CodeRetreat&lt;/h2&gt;
+
+&lt;p&gt;It&amp;rsquo;s not clear to me that Conway&amp;rsquo;s game of life is such a good topic. It&amp;rsquo;s not very much like typical programming tasks. In fact, my mind wandered toward thinking about clever ideas for preprocessing, compilation, parallelization, and memoization that I&amp;rsquo;m not sure I would want to work on with someone for 45 minutes. I brought up this concern at lunch but was told that the task always remains the same because it serves its purpose, it works, and consistency is important.&lt;/p&gt;
+
+&lt;p&gt;There needs to be a way to help us resist perverse incentives to finish an app.&lt;/p&gt;
+
+&lt;p&gt;We should be better prepared to cope with different languages and development environments.&lt;/p&gt;
+
+&lt;h2 id=&#34;will-i-attend-the-next-coderetreat-in-pittsburgh&#34;&gt;Will I attend the next CodeRetreat in Pittsburgh?&lt;/h2&gt;
+
+&lt;p&gt;I have to confess that I do not know whether I will decide it worthwhile to go to another one. It&amp;rsquo;s too early to think about that, although Jim Hurne has already set February 25 as the date for the next one! I still have to fully digest what I experienced, make use of it, and then think about how I would maximally benefit from and contribute to another CodeRetreat.&lt;/p&gt;
+
+&lt;h2 id=&#34;thank-you&#34;&gt;Thank you!&lt;/h2&gt;
+
+&lt;p&gt;Thank you, Vivisimo and M*Modal, for being sponsors and hosts for the event.&lt;/p&gt;
+
+&lt;p&gt;Thanks you, &lt;a href=&#34;http://twitter.com/jthurne&#34;&gt;Jim Hurne&lt;/a&gt;, for putting so much work into not only the Pittsburgh event, but more broadly, the global one.&lt;/p&gt;
+
+&lt;p&gt;Thanks you, &lt;a href=&#34;http://twitter.com/coxandrew&#34;&gt;Andrew Cox&lt;/a&gt; and &lt;a href=&#34;http://twitter.com/josephrkramer&#34;&gt;Joseph Kramer&lt;/a&gt;, for acting as facilitators all day  (Andrew has written up a detail account of his experience on Saturday as a &lt;a href=&#34;http://andrewcox.org/post/13810557640/coderetreat-a-first-time-facilitators-perspective&#34;&gt;facilitator&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Thank you, Adam, Heath, Joe, Chris, Demeng, for pairing with me.&lt;/p&gt;
+
+&lt;p&gt;And thanks to everyone else who was at CodeRetreat.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Seeing the inventor of the abstract data type</title>
+      <link>http://franklinchen.com/blog/2011/11/10/seeing-the-inventor-of-the-abstract-data-type/</link>
+      <pubDate>Thu, 10 Nov 2011 18:54:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2011/11/10/seeing-the-inventor-of-the-abstract-data-type/</guid>
+      <description>&lt;p&gt;&lt;em&gt;(Important update added to the end of this post.)&lt;/em&gt;&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/liskov/power-of-abstraction.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Barbara Liskov accepting Katayanagi Prize at CMU&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;a href=&#34;http://events.web.cmu.edu/ecal/event/131972213534041859&#34;&gt;Today at CMU&lt;/a&gt;, I finally had the opportunity to see a living legend, &lt;a href=&#34;http://en.wikipedia.org/wiki/Barbara_Liskov&#34;&gt;Barbara Liskov&lt;/a&gt;, computer science professor at MIT and winner of the &lt;a href=&#34;http://en.wikipedia.org/wiki/Turing_Award&#34;&gt;Turing Award&lt;/a&gt; in 2008. She won it largely for her invention of the &lt;a href=&#34;http://en.wikipedia.org/wiki/Abstract_data_type&#34;&gt;abstract data type&lt;/a&gt;, a concept that is so foundational in modern software development that a programmer ignorant of history is likely to react, &amp;ldquo;What, she got a Turing Award for something so obvious?&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;But that&amp;rsquo;s the beauty of computer science: it is such a young field that many of the ideas we take for granted now were &lt;em&gt;not&lt;/em&gt; so obvious decades ago, and had to be discovered and codified and explained.&lt;/p&gt;
+
+&lt;p&gt;I had to leave Liskov&amp;rsquo;s talk right after she was done (it had already run over time), so I missed the question-and-answer session, unfortunately. I had been considering asking some questions, but since I lost that opportunity, I will pose them here instead.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-invention-of-the-abstract-data-type&#34;&gt;The invention of the abstract data type&lt;/h2&gt;
+
+&lt;p&gt;Basically, Liskov formalized the notion of the abstract data type (ADT) while at MIT in the early 1970s, and with some graduate students implemented ADTs as a fundamental construct in an actual programming language, &lt;a href=&#34;http://en.wikipedia.org/wiki/CLU_(programming_language)&#34;&gt;CLU&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Most of you probably haven&amp;rsquo;t heard of CLU, unless you went to &lt;a href=&#34;http://www.pmg.csail.mit.edu/CLU.html&#34;&gt;MIT&lt;/a&gt; where it&amp;rsquo;s been used for ages in courses. I only know about CLU because a long time ago, I had an MIT friend who mentioned CLU when I was asking him &lt;a href=&#34;../../blog/2011/10/25/rip-john-mccarthy-but-lisp-will-never-die/&#34;&gt;what to learn to become a programmer&lt;/a&gt;. I never actually wrote or ran a program in CLU, although I did take a look at the language. Some features of CLU (recall that it was developed in the early 1970s):&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;modules (called &amp;ldquo;clusters&amp;rdquo;)&lt;/li&gt;
+&lt;li&gt;information hiding&lt;/li&gt;
+&lt;li&gt;static typing, including what are now called generics&lt;/li&gt;
+&lt;li&gt;iterators (what we now usually call &lt;a href=&#34;http://en.wikipedia.org/wiki/Generator_%28computer_science%29&#34;&gt;generators&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;exception handling&lt;/li&gt;
+&lt;li&gt;garbage collection&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Think about it. Java, developed &lt;em&gt;two decades&lt;/em&gt; after CLU, didn&amp;rsquo;t even have generics. And it does not have true iterators.&lt;/p&gt;
+
+&lt;h3 id=&#34;a-tangent-on-technology-adoption&#34;&gt;A tangent on technology adoption&lt;/h3&gt;
+
+&lt;p&gt;If you are in industry, a lesson to take away is that there is probably computer science research in academia &lt;em&gt;right now&lt;/em&gt; that is useful but you won&amp;rsquo;t be using for twenty or thirty years.&lt;/p&gt;
+
+&lt;p&gt;If you are in academia, you might want to consider helping get good technology out the door before industry wastes two or three decades flailing around using inferior or broken ideas. (In fact, Liskov in her talk today noted that she had considered commercializing CLU.)&lt;/p&gt;
+
+&lt;h3 id=&#34;influence-on-other-languages&#34;&gt;Influence on other languages&lt;/h3&gt;
+
+&lt;p&gt;Liskov chose in her initial work to focus on data abstraction, rather than unify that with object-orientation, which had begun being implemented in the 1960s by &lt;a href=&#34;http://en.wikipedia.org/wiki/Simula&#34;&gt;Simula&lt;/a&gt;, but later contributed to the understanding of &lt;a href=&#34;http://en.wikipedia.org/wiki/Liskov_substitution_principle&#34;&gt;subtyping&lt;/a&gt; in object-oriented languages.&lt;/p&gt;
+
+&lt;p&gt;C++ took templates and exceptions from CLU. (Java, of course, took them from C++.)&lt;/p&gt;
+
+&lt;p&gt;Python, Ruby and other newer languages include iterators. To clarify: C++ and Java have &amp;ldquo;iterators&amp;rdquo; of a much different variety, which are just ordinary objects that have been implemented in often a convoluted way to maintain state for iterating through another object. The &amp;ldquo;real&amp;rdquo; iterators operate in conjunction with a special language construct usually called &lt;code&gt;yield&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;questions-i-have&#34;&gt;Questions I have&lt;/h2&gt;
+
+&lt;p&gt;The world is globalized and connected now much more than it was back in the 1970s. So sometimes I wonder, what if it had been more connected in the past?&lt;/p&gt;
+
+&lt;h3 id=&#34;the-c-world&#34;&gt;The C world&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://en.wikipedia.org/wiki/C_(programming_language)&#34;&gt;C&lt;/a&gt; was developed between 1969 and 1973.  &lt;a href=&#34;../../blog/2011/10/13/why-dennis-ritchie-is-important/&#34;&gt;Dennis Ritchie&lt;/a&gt; wrote a little article, &lt;a href=&#34;https://www.bell-labs.com/usr/dmr/www/chist.html&#34;&gt;&amp;ldquo;The Development of the C Language&amp;rdquo;&lt;/a&gt;, in which he acknowledged the debt to Fortran and Algol. However, its goal as a low-level language for implementing Unix meant that it cut various corners. I wonder if the history of computing would have been different had there been more attention paid, even in the constrained context of Unix implementation, to interesting academic work. I don&amp;rsquo;t know what Ritchie and Thompson and others knew, if anything, about the work on modularity, types, etc. Maybe they knew, but didn&amp;rsquo;t care because they were building something just for themselves and they were such good programmers they didn&amp;rsquo;t need any help writing great code. It would be interesting, as a matter of historical record, to know who knew what and thought what, when.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-functional-programming-world&#34;&gt;The functional programming world&lt;/h3&gt;
+
+&lt;p&gt;Absent from Liskov&amp;rsquo;s talk was any mention of the functional programming world.  &lt;a href=&#34;http://en.wikipedia.org/wiki/ML_programming_language&#34;&gt;ML&lt;/a&gt; came on the scene also in the 1970s. Later, &lt;a href=&#34;http://en.wikipedia.org/wiki/Standard_ML&#34;&gt;Standard ML&lt;/a&gt; came along. I don&amp;rsquo;t know the details of the exact chronology, but Standard ML had polymorphism and exceptions right off the bat, and a module system added on top of that.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Liskov&amp;rsquo;s talk involved a lot of tracing of the history of ideas that led to her contributions.&lt;/p&gt;
+
+&lt;p&gt;I am very curious about what influenced what, in the entire space of the history of programming languages. Obviously, a lot of ideas were floating around in the 1960s, 1970s, and 1980s, so it&amp;rsquo;s possible that many programming language features were invented independently from the same pool of rough ideas.&lt;/p&gt;
+
+&lt;p&gt;Sometimes I wonder whether continual reinvention could be minimized, by more sharing and awareness. Even today there is a proliferation of languages, many of which were or are invented by some individual who is not aware of the full history or rigorous achievements in the area of programming language semantics or design, and therefore perpetuate problems that for decades already we have known to avoid. I wonder if this situation is really inevitable.&lt;/p&gt;
+
+&lt;p&gt;Of course, the question might be moot, because it is always possible that human beings will simply make radically different choices, even when they are fully aware of all the ideas that are around at any given time.&lt;/p&gt;
+
+&lt;p&gt;What&amp;rsquo;s the next step? What will we using doing twenty years from now that is currently already brewing in a university or other research lab &lt;em&gt;right now&lt;/em&gt;? From my point of view, the most interesting work being done right now is that focused on going beyond the currently most powerful statically typed languages (such as ML, Haskell, Scala) to &lt;a href=&#34;http://en.wikipedia.org/wiki/Dependent_type&#34;&gt;dependently typed languages&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;update&#34;&gt;(Update)&lt;/h2&gt;
+
+&lt;p&gt;I have been told that it is misleading to describe Liskov as &amp;ldquo;the inventor of the abstract data type&amp;rdquo;. I admit this was a terrible title for my talk report. The content of my report should make it clear that I was baffled by Liskov&amp;rsquo;s omission of entire lines of research from the 1970s that address data abstraction, whether through ML or John Reynolds&amp;rsquo; work. See &lt;a href=&#34;http://franklinchen.com/blog/2011/11/10/seeing-the-inventor-of-the-abstract-data-type/#comment-361232515&#34;&gt;Bob Harper&amp;rsquo;s Disqus comment here&lt;/a&gt; for his own elaborations.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Open Spaces success at the Pittsburgh Java User Group!</title>
+      <link>http://franklinchen.com/blog/2011/10/26/open-spaces-success-at-the-pittsburgh-java-users-group/</link>
+      <pubDate>Wed, 26 Oct 2011 21:19:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2011/10/26/open-spaces-success-at-the-pittsburgh-java-users-group/</guid>
+      <description>&lt;p&gt;Yesterday evening, the &lt;a href=&#34;http://java.net/projects/pittjug/&#34;&gt;Pittsburgh Java User Group&lt;/a&gt; (PittJUG) for the first time adopted an Open Spaces format. The basic idea is that instead of having someone give an hour-long presentation on something, everyone gets involved in choosing topics of discussion and we all break up into small groups to sit in a circle and chat (&lt;a href=&#34;https://docs.google.com/document/d/1Yufdr8zGBCWawsuEfKXXkM6ddcHnuhywzGw1lJ0u5TE/edit&#34;&gt;more details&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;If you have never been to an event with this Open Spaces format and philosophy, such an idea might sound chaotic and confusing. The first time I heard about the format, I was extremely skeptical. But the first time I went to an event adopting it, the first &lt;a href=&#34;http://www.pghgeekoutday.com/&#34;&gt;Pittsburgh Geek Out Day&lt;/a&gt;, I found it quite useful and am totally sold on its virtues.&lt;/p&gt;
+
+&lt;p&gt;This is a report on the two sessions that I attended. The &lt;a href=&#34;http://java.net/projects/pittjug/lists/pittjug/archive&#34;&gt;PittJUG mailing list&lt;/a&gt; has some discussion already of the two sessions that I had to miss.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/pittjug/first-open-spaces.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;First Open Spaces at PittJUG&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-topics&#34;&gt;The topics&lt;/h2&gt;
+
+&lt;p&gt;Fifteen of us showed up, and the goal was to collectively decide on four topics to break up into two time slots and two rooms, so that for each time slot, one could choose one of the two topics available and meet in the designated room. We went around the room so that everyone could volunteer a topic of interest, and eventually we consolidated popular related topics such that we had the following:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Software entrepreneurship&lt;/li&gt;
+&lt;li&gt;IDEs&lt;/li&gt;
+&lt;li&gt;Scala&lt;/li&gt;
+&lt;li&gt;Testing and continuous deployment&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I had actually submitted three Post-It notes suggesting topics on IDEs, Scala, and testing, so I was pretty happy that others were thinking similarly, and I ended up having to choose between Scala and testing, and going to the Scala session.&lt;/p&gt;
+
+&lt;p&gt;Each session ended up having around eight people each, so there were no extremely small or extremely large sessions.&lt;/p&gt;
+
+&lt;h2 id=&#34;ides&#34;&gt;IDEs&lt;/h2&gt;
+
+&lt;p&gt;At the session on IDEs, discussion revolved mostly around the following IDEs:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Eclipse&lt;/li&gt;
+&lt;li&gt;IntelliJ IDEA&lt;/li&gt;
+&lt;li&gt;NetBeans&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Everyone had extensive experience with and advocacy of at least one of these, so it was good to have many different points of view.&lt;/p&gt;
+
+&lt;p&gt;Some of the things I learned:&lt;/p&gt;
+
+&lt;h3 id=&#34;eclipse&#34;&gt;Eclipse&lt;/h3&gt;
+
+&lt;p&gt;Eclipse is free, and a lot of plugins are developed for it, but all of us have had some kind of problem using Eclipse, such as trouble installing a plugin, crashes, competing plugins (such as for Maven), refresh/synchronization problems, inconsistency across platforms. Some advocates of Eclipse said that once you get it working, it&amp;rsquo;s great. And from an ideological and philosophical point of view, it is completely free.&lt;/p&gt;
+
+&lt;h3 id=&#34;intellij-idea&#34;&gt;IntelliJ IDEA&lt;/h3&gt;
+
+&lt;p&gt;IntelliJ IDEA started off as a purely commercial product but has been available in a free community edition. For some people, the fact that it is not completely free is a minus. On the other hand, since the IntelliJ ecosystem is less sprawling than that of Eclipse, there are fewer headaches when it comes to choice of plugins and getting things to work.&lt;/p&gt;
+
+&lt;h3 id=&#34;netbeans&#34;&gt;NetBeans&lt;/h3&gt;
+
+&lt;p&gt;Some people particularly liked NetBeans. One advantage of it is the tight integration with Java EE 6. Things work out of the box. Also, the UML support is good (in contrast to Eclipse).&lt;/p&gt;
+
+&lt;h3 id=&#34;philosophy&#34;&gt;Philosophy&lt;/h3&gt;
+
+&lt;p&gt;We talked about the question of what our individual preferences was: a system that offered many components to choose from and configure, or a system that works out of the box. Many of us choose depending on the situation; sometimes it&amp;rsquo;s nice to build your own, but sometimes one just wants to get stuff done quickly.&lt;/p&gt;
+
+&lt;h3 id=&#34;practical-considerations&#34;&gt;Practical considerations&lt;/h3&gt;
+
+&lt;p&gt;There was a fair amount of discussion of practical considerations when choosing an IDE. Sometimes there is no choice, when working with other people or in a particular organization. Also, there was discussion of whether it makes sense for people to use different IDEs when operating on the same code base.&lt;/p&gt;
+
+&lt;h3 id=&#34;more-than-just-about-code&#34;&gt;More than just about code&lt;/h3&gt;
+
+&lt;p&gt;Time was running out when we started talking about how nice it would be if we could have an IDE link code to design documents.&lt;/p&gt;
+
+&lt;h2 id=&#34;scala&#34;&gt;Scala&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://jsuereth.com/&#34;&gt;Josh Suereth&lt;/a&gt; was our resident Scala expert, so a lot of questions we asked were answered by him.&lt;/p&gt;
+
+&lt;h3 id=&#34;how-to-get-into-scala&#34;&gt;How to get into Scala&lt;/h3&gt;
+
+&lt;p&gt;One good way to start getting into Scala is to use a Scala testing framework with an existing Java code base.&lt;/p&gt;
+
+&lt;p&gt;Another way is to use Scala for new applications.&lt;/p&gt;
+
+&lt;p&gt;The question of whether to rewrite old Java applications in Scala depends on whether a whole new architecture is desired. If not, then it may not be worth rewriting in Scala. Perhaps parts of it could be rewritten, or given a Scala wrapper for the sake of interfacing with new Scala code.&lt;/p&gt;
+
+&lt;h3 id=&#34;testing&#34;&gt;Testing&lt;/h3&gt;
+
+&lt;p&gt;ScalaCheck was mentioned as being very useful.&lt;/p&gt;
+
+&lt;p&gt;I asked about &lt;a href=&#34;http://etorreborre.github.com/specs2/&#34;&gt;specs2&lt;/a&gt;, since I have been trying to figure out how to use it (I currently have used the more traditional &lt;a href=&#34;http://www.scalatest.org/&#34;&gt;ScalaTest&lt;/a&gt;). I was &amp;ldquo;happy&amp;rdquo; to hear from Josh that indeed, there is a learning curve for this framework, so I&amp;rsquo;m not the only one who finds it difficult.  Scala is designed to make it easy to write DSLs. Unfortunately, learning a DSL can be involved.&lt;/p&gt;
+
+&lt;p&gt;We went off on a tangential discussion of DSLs.&lt;/p&gt;
+
+&lt;h3 id=&#34;dsls&#34;&gt;DSLs&lt;/h3&gt;
+
+&lt;p&gt;The question was whether DSLs really help &amp;ldquo;non-programmers&amp;rdquo; in one&amp;rsquo;s organization contribute to development, by enabling them to express their knowledge. Answers were mixed. Some of us had seen DSLs fail miserably at their intent. Josh mentioned cases of DSLs working well, e.g., use of DSLs to help junior developers get going, and use of DSLs for configuration.&lt;/p&gt;
+
+&lt;h3 id=&#34;groovy&#34;&gt;Groovy&lt;/h3&gt;
+
+&lt;p&gt;There was discussion of Groovy as another JVM-based language for doing some of the same things one can do with Scala, e.g., DSL-based web and testing frameworks.&lt;/p&gt;
+
+&lt;p&gt;It was interesting to me, since I have not really used Groovy, that a number of people had tried it and gotten bitten because it is dynamically typed and therefore, many problems occur at runtime when one wishes they would occur at compile time. This experience is in line with my preference for static typing. What attracts me to Scala is that it has type inference that reduces a lot of clutter in code and enables writing code that almost looks like what you would write in a dynamically typed language.&lt;/p&gt;
+
+&lt;h2 id=&#34;retrospective&#34;&gt;Retrospective&lt;/h2&gt;
+
+&lt;p&gt;After the two time slots were over, we gathered together for a brief discussion of the evening. I was pleased that one person said he had been skeptical of the whole Open Spaces idea but had enjoyed the format.&lt;/p&gt;
+
+&lt;p&gt;I think all of us had a good time sharing our knowledge and experience, and engaging in friendly debates on various topics. I certainly enjoy Open Spaces meetings more than the usual &amp;ldquo;sitting at a long presentation&amp;rdquo; format.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pittsburgh software developer communities</title>
+      <link>http://franklinchen.com/blog/2011/10/16/pittsburgh-software-developer-communities/</link>
+      <pubDate>Sun, 16 Oct 2011 19:38:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2011/10/16/pittsburgh-software-developer-communities/</guid>
+      <description>&lt;p&gt;In the past couple of years, I started to get involved in various local Pittsburgh groups of people who are committed enough to the art and science of software development to actually meet up outside of work to share ideas and experiences. Now and then, there has been talk of bringing the different groups together for special events, to share even more (especially outside the boundaries of particular computer language communities), so I felt it was a good time for me to compile a list of the different groups whose meetings I have attended or at least have heard about.&lt;/p&gt;
+
+&lt;p&gt;I welcome additions and corrections as well as further discussion of this list. I will update the list upon feedback.&lt;/p&gt;
+
+&lt;p&gt;(Last update: 2011-10-18)&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;ruby&#34;&gt;Ruby&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://pghrb.org/&#34;&gt;Pittsburgh Ruby group&lt;/a&gt; is quite active. It has been meeting the first Thursday of every month at Vivisimo.&lt;/p&gt;
+
+&lt;p&gt;I have been attending this more as I finally started getting into Ruby in 2010.&lt;/p&gt;
+
+&lt;h2 id=&#34;python&#34;&gt;Python&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://pghpython.org/&#34;&gt;Pittsburgh Python group&lt;/a&gt; is also active. It has been meeting the fourth Wednesday of every month at Vivisimo.&lt;/p&gt;
+
+&lt;p&gt;There is a lot of use of Python for scientific computing, such as natural language processing and machine learning, among this community.&lt;/p&gt;
+
+&lt;p&gt;I do not attend this group&amp;rsquo;s meetings regularly because I currently only use Python to maintain an &lt;a href=&#34;http://www.scons.org/&#34;&gt;SCons&lt;/a&gt; script at work.&lt;/p&gt;
+
+&lt;h2 id=&#34;javascript&#34;&gt;JavaScript&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://www.meetup.com/Pittsburgh-JavaScript-Developers/&#34;&gt;Pittsburgh JavaScript meetup group&lt;/a&gt; only came into being in June 2011, thanks to &lt;a href=&#34;http://www.fusioncube.net/&#34;&gt;Steve Brownlee&lt;/a&gt;, who hosts the meetup at Smith Micro up in McCandless.&lt;/p&gt;
+
+&lt;p&gt;The group has been pretty active, despite the location.&lt;/p&gt;
+
+&lt;h2 id=&#34;jquery&#34;&gt;jQuery&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://www.jburgh.com/&#34;&gt;Pittsburgh jQuery user group&lt;/a&gt; is scheduled to meet once a month at &lt;a href=&#34;http://www.hackpittsburgh.org/&#34;&gt;HackPittsburgh&lt;/a&gt; in Uptown. However, I get the impression that it has not been meeting very regularly. I attended the meeting in March and another in August, but otherwise, have had to miss a meeting or there was none.&lt;/p&gt;
+
+&lt;p&gt;There has been some talk of merging with the JavaScript meetup group.&lt;/p&gt;
+
+&lt;h2 id=&#34;java&#34;&gt;Java&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://java.net/projects/pittjug/&#34;&gt;Pittsburgh Java User Group&lt;/a&gt; has been around for quite some time. It meets at the &lt;a href=&#34;http://www.pghtech.org/&#34;&gt;Pittsburgh Technology Council&lt;/a&gt; on Second Avenue. When there are meetings, they are announced on the mailing list and posted at the &lt;a href=&#34;http://www.pghtech.org/events/default.aspx&#34;&gt;pghtech calendar&lt;/a&gt; where one should register before attending.&lt;/p&gt;
+
+&lt;p&gt;PittJUG was more active in the past: I was attending fairly regularly in 2009 and 2010, but now meetings have been infrequent.&lt;/p&gt;
+
+&lt;p&gt;However, an experiment is about to begin to revitalize the group: on October 25, we&amp;rsquo;ll be trying an &lt;a href=&#34;http://www.pghgeekoutday.com/home/open-spaces&#34;&gt;Open Spaces&lt;/a&gt; format to take place of the old format that seemed to result in long presentations by people.&lt;/p&gt;
+
+&lt;h2 id=&#34;pittsburgh-geek-out-day&#34;&gt;Pittsburgh Geek Out Day&lt;/h2&gt;
+
+&lt;p&gt;Speaking of &lt;a href=&#34;http://www.pghgeekoutday.com/home/open-spaces&#34;&gt;Open Spaces&lt;/a&gt;, &lt;a href=&#34;http://www.pghgeekoutday.com/&#34;&gt;Pittsburgh Geek Out Day&lt;/a&gt; was created specifically to use that very format. There have been three &amp;ldquo;geek out day&amp;rdquo; meetings so far, in April, May, and August 2011. The first two involved blocking out a Saturday morning each, and the second was on a Wednesday evening, and I attended all three.&lt;/p&gt;
+
+&lt;p&gt;I am sold on the virtues of Open Spaces. The format of long presentations by people is, I think, usually quite inefficient of everyone&amp;rsquo;s time and attention. A lot of the users groups have moved toward &amp;ldquo;lightning talks&amp;rdquo;, which are definitely an improvement, but opening things up toward even more active participation by everyone was a revelation to me.&lt;/p&gt;
+
+&lt;p&gt;The next meeting of Pittsburgh Geek Out Day is November 5, so sign up if you haven&amp;rsquo;t been to one yet and can spare a Saturday morning!&lt;/p&gt;
+
+&lt;h2 id=&#34;agile&#34;&gt;Agile&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://www.meetup.com/PittsburghAgile/&#34;&gt;Pittsburgh Agile meetup group&lt;/a&gt; is fairly new, having its first meeting in April 2011. It has been meeting at &lt;a href=&#34;http://www.matrixformedia.com/&#34;&gt;Matrix Solutions&lt;/a&gt; on the North Shore and is active.&lt;/p&gt;
+
+&lt;p&gt;This group involves a mix of people who are developers as well as those who are managers, and of course, those who fall into both categories.&lt;/p&gt;
+
+&lt;h2 id=&#34;apple&#34;&gt;Apple&lt;/h2&gt;
+
+&lt;p&gt;Developers for Apple platforms, i.e., MacOS X and iOS, have a home at &lt;a href=&#34;http://cocoaheads.org/us/PittsburghPennsylvania/index.html&#34;&gt;CocoaHeads&lt;/a&gt;.  I have never been to their meetings, but have a friend who attends, and it seems to be pretty active.&lt;/p&gt;
+
+&lt;p&gt;It meets the third Thursday of every month at Smith Micro.&lt;/p&gt;
+
+&lt;h2 id=&#34;apple-ios&#34;&gt;Apple iOS&lt;/h2&gt;
+
+&lt;p&gt;There is an &lt;a href=&#34;http://www.meetup.com/iPhone-iPad-Mobile-App-Developers-Pittsburgh-Meetup/&#34;&gt;Pittsburgh Apple iOS meetup group&lt;/a&gt;, but I have not been to it.&lt;/p&gt;
+
+&lt;h2 id=&#34;clojure&#34;&gt;Clojure&lt;/h2&gt;
+
+&lt;p&gt;There is a &lt;a href=&#34;http://www.meetup.com/Clojure-PGH/&#34;&gt;Pittsburgh Clojure users group&lt;/a&gt; that used to meet, but I never made it to any of the meetings, and it seems to be inactive now.&lt;/p&gt;
+
+&lt;h2 id=&#34;coding-dojo&#34;&gt;Coding dojo&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://tech.groups.yahoo.com/group/PghCodingDojo/&#34;&gt;Pittsburgh Coding Dojo&lt;/a&gt; was active many years ago, but has been rather inactive recently. The last meeting I went to was in March 2011.&lt;/p&gt;
+
+&lt;h2 id=&#34;net&#34;&gt;.NET&lt;/h2&gt;
+
+&lt;p&gt;There is an active &lt;a href=&#34;http://pghdotnet.org/&#34;&gt;Pittsburgh .NET users group&lt;/a&gt;, but I have never been to any of its meetings.&lt;/p&gt;
+
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;I hope that this list will be useful to those who are already a member of one or more groups and interested in checking out the others, and perhaps in creating cross-group learning experiences and events.&lt;/p&gt;
+
+&lt;p&gt;Are there any other groups of interest that I am missing? Please let me know.&lt;/p&gt;
+
+&lt;p&gt;Also: since I have always taken notes for myself at each meeting of each user group that I have attended in the past couple of years (ha, I should have started blogging earlier, given my obsession with writing), if anyone is interested in any summaries or the like, let me know. So far, the only meeting I have written up for my blog has been a recent &lt;a href=&#34;../../blog/2011/10/14/agile-anti-patterns/&#34;&gt;Agile meetup on anti-patterns&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;updates&#34;&gt;Updates&lt;/h2&gt;
+
+&lt;h3 id=&#34;2011-10-18&#34;&gt;2011-10-18&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/akinsgre&#34;&gt;Greg&lt;/a&gt; reminded me to mention this useful calendar of &lt;a href=&#34;http://pghtechevents.com/&#34;&gt;Pittsburgh tech events&lt;/a&gt;. Some months ago, I subscribed to it using Google Calendar, and it really is quite helpful to have around.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

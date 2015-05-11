@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rest on Franklin Chen</title>
+    <link>http://franklinchen.com/categories/rest/atom/index.xml</link>
+    <description>Recent content in Rest on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/categories/rest/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Report on the first Pittsburgh TechFest, 2012</title>
+      <link>http://franklinchen.com/blog/2012/06/09/report-on-the-first-pittsburgh-techfest-2012/</link>
+      <pubDate>Sat, 09 Jun 2012 20:24:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/06/09/report-on-the-first-pittsburgh-techfest-2012/</guid>
+      <description>&lt;figure &gt;
+    
+        &lt;img src=&#34;https://sphotos-a.xx.fbcdn.net/hphotos-prn1/532862_293436380745383_58658441_n.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Pittsburgh TechFest 2012&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;I was excited to attend the very first &lt;a href=&#34;http://pghtechfest.com/&#34;&gt;Pittsburgh TechFest&lt;/a&gt;, held at &lt;a href=&#34;http://www.laroche.edu/&#34;&gt;LaRoche College&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This was my first local programming conference since some Perl conferences years ago!&lt;/p&gt;
+
+&lt;h2 id=&#34;why-attend&#34;&gt;Why attend?&lt;/h2&gt;
+
+&lt;p&gt;In the past couple of years, I have increasingly explored &lt;a href=&#34;../../blog/2011/10/16/pittsburgh-software-developer-communities/&#34;&gt;Pittsburgh&amp;rsquo;s growing programmer meetup scene&lt;/a&gt;, but I wanted to expand beyond that to start attending some local conferences, so of course I was going to attend this one. (I had to cancel a hiking/camping outing in order to make it!)&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-venue&#34;&gt;The venue&lt;/h2&gt;
+
+&lt;p&gt;LaRoche College is in the &lt;a href=&#34;http://en.wikipedia.org/wiki/North_Hills_(Pennsylvania)&#34;&gt;North Hills&lt;/a&gt;, about a twenty-minute drive (in light traffic conditions) from the city of Pittsburgh. This was the first time I&amp;rsquo;d been in LaRoche. They had a decent amount of space for all the sessions for the conference. I think the venue worked out great, and we were also provided lunch in the cafeteria.&lt;/p&gt;
+
+&lt;h2 id=&#34;keynote&#34;&gt;Keynote&lt;/h2&gt;
+
+&lt;p&gt;The keynote speech was by &lt;a href=&#34;http://www.docondev.com/&#34;&gt;Michael &amp;ldquo;Doc&amp;rdquo; Norton&lt;/a&gt; of &lt;a href=&#34;http://leandog.com/&#34;&gt;LeanDog&lt;/a&gt;. He talked about our shared goal, as evidenced by attending the conference, of becoming an &amp;ldquo;excellent software developer&amp;rdquo;. He emphasized the &lt;em&gt;polyglot&lt;/em&gt; nature of the conference, which was organized by members of various local communities including .NET and Java, among others. &amp;ldquo;We don&amp;rsquo;t work alone today,&amp;rdquo; he emphasized. He urged us to broaden ourselves at the conference, and go to talks about topics outside of our own comfortable experience. He used the concept of the &amp;ldquo;T&amp;rdquo; as something to aspire to: having deep knowledge in something but also having broad knowledge of other things.&lt;/p&gt;
+
+&lt;p&gt;I enjoyed the keynote speech and resolved to check out ideas new to me that I might be able to use. The speech actually caused me to spontaneously change some of my original marked-down preferences for which sessions I would attend!&lt;/p&gt;
+
+&lt;h3 id=&#34;update-of-2013-06-01&#34;&gt;(Update of 2013-06-01)&lt;/h3&gt;
+
+&lt;p&gt;&amp;ldquo;Doc&amp;rdquo; has in the past year moved to Groupon.&lt;/p&gt;
+
+&lt;h2 id=&#34;overview-of-sessions&#34;&gt;Overview of sessions&lt;/h2&gt;
+
+&lt;p&gt;The problem I (well, all of us) faced for this conference was that there was a huge number of concurrent talks on all kinds of topics in any given time slot. There were over 30 speakers and over 40 sessions, all in a single day.&lt;/p&gt;
+
+&lt;p&gt;This meant having to decide what to attend and what to miss. Topics came from areas such as:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;.NET&lt;/li&gt;
+&lt;li&gt;Node&lt;/li&gt;
+&lt;li&gt;CoffeeScript&lt;/li&gt;
+&lt;li&gt;Ruby&lt;/li&gt;
+&lt;li&gt;Java&lt;/li&gt;
+&lt;li&gt;PHP&lt;/li&gt;
+&lt;li&gt;Selenium&lt;/li&gt;
+&lt;li&gt;Kinect&lt;/li&gt;
+&lt;li&gt;Scala&lt;/li&gt;
+&lt;li&gt;UX&lt;/li&gt;
+&lt;li&gt;Agile&lt;/li&gt;
+&lt;li&gt;Backbone&lt;/li&gt;
+&lt;li&gt;REST&lt;/li&gt;
+&lt;li&gt;iOS&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;sessions-i-attended&#34;&gt;Sessions I attended&lt;/h2&gt;
+
+&lt;h3 id=&#34;user-experience-maps-for-agile-modeling-maria-emerson-http-www-mariaemerson-com&#34;&gt;User Experience Maps for Agile Modeling (&lt;a href=&#34;http://www.mariaemerson.com/&#34;&gt;Maria Emerson&lt;/a&gt;)&lt;/h3&gt;
+
+&lt;p&gt;The first session I attended was completely outside of my usual world, involving &lt;a href=&#34;http://en.wikipedia.org/wiki/User_experience_design&#34;&gt;&amp;ldquo;user experience&amp;rdquo; (UX)&lt;/a&gt;. I chose it because it was a hands-on workshop. I freely confess that I am usually not very excited by sitting around listening to someone talk and put up code on slides; I feel I could do that at home by myself.&lt;/p&gt;
+
+&lt;p&gt;Maria led us through a simulation of the kind of work she does. We broke up into teams, we were told to design a mobile app for rowers who rent from a boat house, and used sticky notes, a whiteboard, and &amp;ldquo;butcher paper&amp;rdquo; as we went through an abbreviated version of the work flow of figuring out what the app should do and what issues it should address. I thought it was a fantastic workshop.&lt;/p&gt;
+
+&lt;h3 id=&#34;creating-your-own-software-company-kendall-miller&#34;&gt;Creating Your Own Software Company (Kendall Miller)&lt;/h3&gt;
+
+&lt;p&gt;The second session was, again, about something I&amp;rsquo;m not currently doing and is new to me.&lt;/p&gt;
+
+&lt;p&gt;It was by a .NET guy from &lt;a href=&#34;http://www.gibraltarsoftware.com/&#34;&gt;Gibraltar Software&lt;/a&gt; who talked about the nuts and bolts of starting, and especially sustaining, a software company. I learned a lot from his presentation and the discussions, about handling such resources as time, funding, pricing, and especially the &lt;em&gt;psychology&lt;/em&gt; of the customer, as well as self-psychology.&lt;/p&gt;
+
+&lt;p&gt;For example, he emphasized looking at the &lt;em&gt;market&lt;/em&gt; first, when coming up with a conscious plan to achieve &amp;ldquo;deliberate success&amp;rdquo;, rather than get carried away by idealism or fuzzy hopes. He argued that &lt;em&gt;marketing&lt;/em&gt; is what it&amp;rsquo;s all about, and that all business is about &lt;em&gt;people&lt;/em&gt; relating to &lt;em&gt;people&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Very informative and fascinating session!&lt;/p&gt;
+
+&lt;h3 id=&#34;lunch&#34;&gt;Lunch&lt;/h3&gt;
+
+&lt;p&gt;Lunch was surprisingly high quality and filling, in the campus cafeteria.&lt;/p&gt;
+
+&lt;h3 id=&#34;you-say-tomato-i-say-pomodoro-joel-cochran&#34;&gt;You say Tomato, I say Pomodoro (Joel Cochran)&lt;/h3&gt;
+
+&lt;p&gt;After lunch, I went to a session about the &lt;a href=&#34;http://www.pomodorotechnique.com/&#34;&gt;Pomodoro Technique&lt;/a&gt; of time management. I had heard about the Pomodoro Technique for some time, but it sounded bizarre, and I never experimented with implementing it myself.&lt;/p&gt;
+
+&lt;p&gt;I took some notes, but left not really feeling convinced that I would try the technique.&lt;/p&gt;
+
+&lt;h3 id=&#34;introduction-to-actors-using-scala-josh-suereth-http-jsuereth-com&#34;&gt;Introduction to Actors using Scala (&lt;a href=&#34;http://jsuereth.com/&#34;&gt;Josh Suereth&lt;/a&gt;)&lt;/h3&gt;
+
+&lt;p&gt;I first met Josh almost two years ago, when he gave a talk in October 2010 for &lt;a href=&#34;http://java.net/projects/pittjug/&#34;&gt;PittJUG&lt;/a&gt;, &amp;ldquo;Why you want to learn Scala&amp;rdquo;. After that, he has periodically come to more PittJUG meetings, such as a nice &lt;a href=&#34;../../blog/2011/10/26/open-spaces-success-at-the-pittsburgh-java-users-group/&#34;&gt;&amp;ldquo;open spaces&amp;rdquo; one we had last year&lt;/a&gt;. Josh had this morning given a talk &amp;ldquo;Introduction to Functional Programming using Scala&amp;rdquo; that I had skipped, but I attended this one because I had always meant to look into using &lt;a href=&#34;http://en.wikipedia.org/wiki/Actor_model&#34;&gt;actors&lt;/a&gt; for concurrency.&lt;/p&gt;
+
+&lt;p&gt;Josh gave a nice presentation that left me knowing that I definitely wanted to look into actors (and Scala) further.&lt;/p&gt;
+
+&lt;p&gt;Oh, and he was plugging his new book &lt;a href=&#34;http://www.manning.com/suereth/&#34;&gt;Scala in Depth&lt;/a&gt;. I went and bought the ebook when I got home! It&amp;rsquo;s good.&lt;/p&gt;
+
+&lt;h3 id=&#34;hypermedia-api-design-steve-klabnik-http-steveklabnik-com&#34;&gt;Hypermedia API Design (&lt;a href=&#34;http://steveklabnik.com/&#34;&gt;Steve Klabnik&lt;/a&gt;)&lt;/h3&gt;
+
+&lt;p&gt;The final session I attended was an unusual one. Steve Klabnik gave a fairly philosophical rather than technical talk about &lt;a href=&#34;http://www.designinghypermediaapis.com/&#34;&gt;hypermedia API design&lt;/a&gt;. He spoke about the need to make sure the Web remains open and flexible. His point of view is that &amp;ldquo;everything is politics&amp;rdquo;, so when we&amp;rsquo;re talking about how applications can and should communicate with each other, we have some implicit political vision in mind.&lt;/p&gt;
+
+&lt;p&gt;The presentation was kind of abstract for me, probably because I don&amp;rsquo;t currently do much with Web application design. He spoke of metadata, interpretation, and dynamic contracts. If I end up in the Web world again sometime, I&amp;rsquo;ll try to figure out exactly what Steve was trying to say!&lt;/p&gt;
+
+&lt;h2 id=&#34;what-next&#34;&gt;What next?&lt;/h2&gt;
+
+&lt;p&gt;I took a lot of notes that I hope to study and use in my career as a software developer. Also, I&amp;rsquo;m inspired by seeing so many people I know giving talks. At some point, I should start sharing what I know by giving presentations also.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s &lt;a href=&#34;http://updyke.com/blog/2012/06/09/pittsburgh-techfest-2012/&#34;&gt;another participant&amp;rsquo;s review of the Pittsburgh TechFest&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;I&amp;rsquo;d like to thank the organizers of the very first Pittsburgh TechFest, and the sponsors who made the conference so inexpensive and accessible. And of course, I appreciate everyone who signed on to give a presentation. I learned a lot over the course of the day, and look forward to another Pittsburgh TechFest in 2013!&lt;/p&gt;
+
+&lt;h3 id=&#34;update-of-2013-06-01-1&#34;&gt;(Update of 2013-06-01)&lt;/h3&gt;
+
+&lt;p&gt;I went to &lt;a href=&#34;../../blog/2013/06/01/report-on-the-second-pittsburgh-techfest-2013/&#34;&gt;Pittsburgh TechFest again in 2013&lt;/a&gt;, and had a great time, despite being sick. Also, as I had promised myself a year ago, I gave a presentation there! &lt;a href=&#34;../../blog/2013/06/01/pittsburgh-tech-fest-2013-my-talk-stop-overusing-regular-expressions/&#34;&gt;Full report here&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

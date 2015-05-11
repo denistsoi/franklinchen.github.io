@@ -1,0 +1,505 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+	<meta name="generator" content="Hugo 0.19" />
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>Franklin Chen &middot; Franklin Chen</title>
+
+  
+  <link rel="stylesheet" href="http://franklinchen.com/css/poole.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/hyde.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/poole-overrides.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/hyde-overrides.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/hyde-x.css">
+
+  <link rel="stylesheet" href="http://franklinchen.com/css/franklin.css">
+
+  <link rel="stylesheet" href="http://franklinchen.com/css/highlight/default.css">
+  <link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://franklinchen.com/touch-icon-144-precomposed.png">
+  <link href="http://franklinchen.com/favicon.png" rel="icon">
+
+  
+  
+  
+  <link href="http://franklinchen.com/index.xml" rel="alternate" type="application/rss+xml" title="Franklin Chen &middot; Franklin Chen" />
+
+  <meta name="description" content="Franklin Chen&#39;s personal Web site and blog">
+  <meta name="keywords" content="Franklin Chen, blog">
+  <link rel="author" href="http://plus.google.com/100967806642012078047">
+</head>
+<body class="theme-base-0e">
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      
+        
+        <h1>Franklin Chen</h1>
+        <p class="lead">Infinity in the palm of my hand.</p>
+    </div>
+
+    <ul class="sidebar-nav">
+      
+      <li class="sidebar-nav-item"><a href="http://franklinchen.com/contact/">Contact</a></li>
+      
+      <li class="sidebar-nav-item"><a href="http://ConscientiousProgrammer.com/">Programming blog</a></li>
+      <li class="sidebar-nav-item"><a href="http://chessimprover.com/author/franklinc/">Chess blog</a></li>
+      <li class="sidebar-nav-item"><a href="https://www.flickr.com/photos/franklinmingchen/">Photos</a></li>
+    </ul>
+
+    <ul class="sidebar-nav">
+      <li class="sidebar-nav-item">
+      <a href="https://github.com/FranklinChen"><i class="fa fa-github-square fa-3x"></i></a>
+      
+      
+      <a href="http://www.linkedin.com/in/franklinchen"><i class="fa fa-linkedin-square fa-3x"></i></a>
+      <a href="http://google.com/&#43;FranklinChen"><i class="fa fa-google-plus-square fa-3x"></i></a>
+      <a href="http://www.facebook.com/franklin.chen"><i class="fa fa-facebook-square fa-3x"></i></a>
+      <a href="http://twitter.com/franklinchen"><i class="fa fa-twitter-square fa-3x"></i></a>
+      <a href="http://www.youtube.com/user/FranklinChen"><i class="fa fa-youtube-square fa-3x"></i></a>
+      <a href="http://franklinchen.com/atom.xml" type="application/rss+xml"><i class="fa fa-rss-square fa-3x"></i></a>
+      </li>
+    </ul>
+
+    
+
+    <p>Copyright &copy; 2017 Franklin Chen<br/>
+       Powered by <a href="http://gohugo.io">Hugo</a> and <a href="https://github.com/zyro/hyde-x">Hyde-X</a></p>
+  </div>
+</div>
+
+
+<div class="content container">
+  <div class="posts">
+    
+    
+    <div class="post">
+      <h1 class="post-title">
+        <a href="http://franklinchen.com/blog/2013/05/29/pittsburgh-scala-meetup-my-talk-stop-overusing-regular-expressions/">Pittsburgh Scala Meetup: my talk &#34;Stop Overusing Regular Expressions!&#34;</a>
+      </h1>
+      <span class="post-date">May 29, 2013 &middot; 3 minute read &middot; <a href="http://franklinchen.com/blog/2013/05/29/pittsburgh-scala-meetup-my-talk-stop-overusing-regular-expressions/#disqus_thread">Comments</a>
+      
+      <br/>
+      <a class="label" href="http://franklinchen.com/categories/programming">programming</a><a class="label" href="http://franklinchen.com/categories/scala">Scala</a><a class="label" href="http://franklinchen.com/categories/akka">Akka</a><a class="label" href="http://franklinchen.com/categories/regular-expressions">regular expressions</a><a class="label" href="http://franklinchen.com/categories/parser-combinators">parser combinators</a><a class="label" href="http://franklinchen.com/categories/ruby">Ruby</a><a class="label" href="http://franklinchen.com/categories/javascript">JavaScript</a><a class="label" href="http://franklinchen.com/categories/python">Python</a><a class="label" href="http://franklinchen.com/categories/mmodal">M*Modal</a><a class="label" href="http://franklinchen.com/categories/pittsburgh-techfest">Pittsburgh TechFest</a><a class="label" href="http://franklinchen.com/categories/typesafe">TypeSafe</a>
+      </span>
+      
+      <p>So two days ago, <a href="http://jamieforrest.com/">Jamie</a> sent email out to the <a href="http://www.meetup.com/Pittsburgh-Scala-Meetup/">Pittsburgh Scala meetup group</a> saying that our planned speaker Barrett, who was to have talked about his experiences using <a href="http://akka.io/">Akka</a>, was not going to make it, and asked if anyone else could talk about something.</p>
+
+<h2 id="i-suddenly-stepped-in-as-a-substitute-speaker">I suddenly stepped in as a substitute speaker</h2>
+
+<p>Since I was already supposed to give a talk on Saturday at the 2013 <a href="http://pghtechfest.com/">Pittsburgh TechFest</a>, and was in the process of finishing my work on it, I volunteered to give an early version of my Pittsburgh TechFest talk <a href="http://www.meetup.com/Pittsburgh-Scala-Meetup/events/115817242/">at the Scala meetup</a>, since I actually happen to provide Scala code in the talk. Ha, this meant giving two talks in two successive meetings, because at the last meeting, I gave a <a href="../../blog/2013/04/11/my-pittsburgh-scala-meetup-talk-on-property-based-testing-using-scalacheck/">talk on property-based testing using ScalaCheck</a>.</p>
+
+<p></p>
+      <a href="http://franklinchen.com/blog/2013/05/29/pittsburgh-scala-meetup-my-talk-stop-overusing-regular-expressions/">Read On &rarr;</a>
+      
+    </div>
+    
+    <div class="post">
+      <h1 class="post-title">
+        <a href="http://franklinchen.com/blog/2013/05/25/learning-the-congo-de-captieux-traditional-french-dance/">Learning the Congo de Captieux traditional French dance</a>
+      </h1>
+      <span class="post-date">May 25, 2013 &middot; 1 minute read &middot; <a href="http://franklinchen.com/blog/2013/05/25/learning-the-congo-de-captieux-traditional-french-dance/#disqus_thread">Comments</a>
+      
+      <br/>
+      <a class="label" href="http://franklinchen.com/categories/music">music</a><a class="label" href="http://franklinchen.com/categories/french-dance">French dance</a><a class="label" href="http://franklinchen.com/categories/congo-de-captieux">Congo de Captieux</a><a class="label" href="http://franklinchen.com/categories/pittsburgh">Pittsburgh</a>
+      </span>
+      
+      Abby and I went to a French dance potluck party hosted by Lisa that included a special dance workshop on &ldquo;Congo de Captieux&rdquo; taught by her and a visitor, Lynn. This is a set dance for groups of four dancers (two couples) that really moves along and gets you sweaty! Here is a sample of what it looks like (not of us):
+ We haven&rsquo;t been doing French dance or music lately because of lots of things going on (including Abby&rsquo;s breaking her foot in February; she can finally do a bit of dancing again), so it was good to be back.
+      <a href="http://franklinchen.com/blog/2013/05/25/learning-the-congo-de-captieux-traditional-french-dance/">Read On &rarr;</a>
+      
+    </div>
+    
+    <div class="post">
+      <h1 class="post-title">
+        <a href="http://franklinchen.com/blog/2013/05/24/why-i-will-always-pronounce-gif-like-gift-and-not-like-jif/">Why I will always pronounce &#34;GIF&#34; like &#34;gift&#34; and not like &#34;Jif&#34;</a>
+      </h1>
+      <span class="post-date">May 24, 2013 &middot; 4 minute read &middot; <a href="http://franklinchen.com/blog/2013/05/24/why-i-will-always-pronounce-gif-like-gift-and-not-like-jif/#disqus_thread">Comments</a>
+      
+      <br/>
+      <a class="label" href="http://franklinchen.com/categories/gif">GIF</a><a class="label" href="http://franklinchen.com/categories/language">language</a>
+      </span>
+      
+      <p>Recently Steve Wilhite, the creator of <a href="http://en.wikipedia.org/wiki/Graphics_Interchange_Format">GIF (Graphics Interchange Format)</a>, tried to settle once and for all the age-old (well, 26-year-old, since the invention of GIF in 1987) question of how to pronounce &ldquo;GIF&rdquo;, claiming that it is <a href="http://howtopronouncegif.com/">pronounced as &ldquo;jif&rdquo;</a>:</p>
+
+<blockquote>
+"The Oxford English Dictionary accepts both pronunciations," Mr. Wilhite said. "They are wrong. It is a soft ‘G,’ pronounced ‘jif.’ End of story." 
+</blockquote>
+
+<p>Of course, whole &ldquo;debate&rdquo; is kind of silly, because it doesn&rsquo;t really matter how it&rsquo;s pronounced.</p>
+
+<p><em>Or does it?</em></p>
+
+<p></p>
+      <a href="http://franklinchen.com/blog/2013/05/24/why-i-will-always-pronounce-gif-like-gift-and-not-like-jif/">Read On &rarr;</a>
+      
+    </div>
+    
+    <div class="post">
+      <h1 class="post-title">
+        <a href="http://franklinchen.com/blog/2013/05/22/reflections-on-richard-wagners-200th-birthday/">Reflections on Richard Wagner&#39;s 200th birthday: beautiful music without a future</a>
+      </h1>
+      <span class="post-date">May 22, 2013 &middot; 8 minute read &middot; <a href="http://franklinchen.com/blog/2013/05/22/reflections-on-richard-wagners-200th-birthday/#disqus_thread">Comments</a>
+      
+      <br/>
+      <a class="label" href="http://franklinchen.com/categories/music">music</a><a class="label" href="http://franklinchen.com/categories/richard-wagner">Richard Wagner</a><a class="label" href="http://franklinchen.com/categories/adolf-hitler">Adolf Hitler</a><a class="label" href="http://franklinchen.com/categories/philosophy">philosophy</a><a class="label" href="http://franklinchen.com/categories/politics">politics</a><a class="label" href="http://franklinchen.com/categories/friedrich-nietzsche">Friedrich Nietzsche</a><a class="label" href="http://franklinchen.com/categories/philosophy">philosophy</a><a class="label" href="http://franklinchen.com/categories/johannes-brahms">Johannes Brahms</a><a class="label" href="http://franklinchen.com/categories/arnold-sch%C3%B6nberg">Arnold Schönberg</a><a class="label" href="http://franklinchen.com/categories/modernism">modernism</a><a class="label" href="http://franklinchen.com/categories/opera">opera</a><a class="label" href="http://franklinchen.com/categories/wilhelm-furtw%C3%A4ngler">Wilhelm Furtwängler</a><a class="label" href="http://franklinchen.com/categories/german-romanticism">German Romanticism</a><a class="label" href="http://franklinchen.com/categories/lorin-maazel">Lorin Maazel</a><a class="label" href="http://franklinchen.com/categories/anti-semitism">anti-Semitism</a>
+      </span>
+      
+      <p>A couple of days ago, I was driving and had the radio on and heard Richard Wagner&rsquo;s prelude to act 1 of his opera <a href="http://en.wikipedia.org/wiki/Die_Meistersinger_von_N%C3%BCrnberg">&ldquo;Die Meistersinger&rdquo;</a>, and was transported into the lush musical world that is so uniquely Wagner: seductive orchestral colors, chromatic harmony, melodic motifs, fine storytelling, stirring climaxes, and in this particular musical excerpt, ironic yet clever use of counterpoint. I had to pull over for a while to finish listening to the prelude and fully enjoy the <em>guilty</em> rush of emotional excitement in this fun but over-the-top piece. Why the guilt?</p>
+
+<h2 id="controversy">Controversy</h2>
+
+<p>The controversial music composer <a href="http://en.wikipedia.org/wiki/Richard_Wagner">Richard Wagner</a> was born 200 years ago. In keeping with the media&rsquo;s love of arbitrarily nice round numbers and anniversaries, there&rsquo;s a lot of commentary about celebrations of his birthdays or reasons <em>not</em> to celebrate. Here are just a few articles that came up during a Web search:</p>
+
+<ul>
+<li><a href="http://www.washingtonpost.com/entertainment/music/germany-celebrates-200th-birthday-of-composer-richard-wagner/2013/05/22/b8f93924-c2b2-11e2-9642-a56177f1cdf7_story.html?tid=pm_entertainment_pop">&ldquo;Germany celebrates 200th birthday of Richard Wagner, Hitler&rsquo;s favorite composer&rdquo;</a></li>
+<li><a href="http://fullcomment.nationalpost.com/2013/05/22/barbara-kay-if-you-must-listen-to-wagner-do-it-in-private/">&ldquo;If you must listen to Wagner, do it in private&rdquo;</a></li>
+<li><a href="http://www.towntopics.com/wordpress/2013/05/22/whistling-in-the-dark-on-wagners-200th-birthday/">&ldquo;Whistling in the dark on Wagner&rsquo;s 200th birthday&rdquo;</a></li>
+<li><a href="http://jessicamusic.blogspot.com/2013/05/dear-richard-i-need-to-tell-you.html">&ldquo;Dear Richard, I need to tell you something&rdquo;</a></li>
+<li><a href="http://www.newyorker.com/online/blogs/culture/2013/05/wagner-bicentennial-birthday-music-recordings.html">&ldquo;A Wagner birthday roast&rdquo;</a></li>
+</ul>
+
+<p>None of this commentary actually addresses my mixed feelings about Wagner.</p>
+
+<p></p>
+      <a href="http://franklinchen.com/blog/2013/05/22/reflections-on-richard-wagners-200th-birthday/">Read On &rarr;</a>
+      
+    </div>
+    
+    <div class="post">
+      <h1 class="post-title">
+        <a href="http://franklinchen.com/blog/2013/05/21/voting-in-the-face-of-election-apathy/">Voting in the face of election apathy</a>
+      </h1>
+      <span class="post-date">May 21, 2013 &middot; 3 minute read &middot; <a href="http://franklinchen.com/blog/2013/05/21/voting-in-the-face-of-election-apathy/#disqus_thread">Comments</a>
+      
+      <br/>
+      <a class="label" href="http://franklinchen.com/categories/politics">politics</a><a class="label" href="http://franklinchen.com/categories/voting">voting</a><a class="label" href="http://franklinchen.com/categories/pennsylvania">Pennsylvania</a><a class="label" href="http://franklinchen.com/categories/pittsburgh">Pittsburgh</a><a class="label" href="http://franklinchen.com/categories/mayor">mayor</a>
+      </span>
+      
+      My voter receipt, May 2013   Those of you who follow my blog know that I have been conflicted about voting, but go and do it anyway, most of the time, e.g., in November 2011 for the municipal election and in November 2012 for the general election, when I felt there were some politicians very important to vote against.
+Apathy or ignorance? In April 2012&rsquo;s general primary, however, I was sufficiently apathetic that I didn&rsquo;t bother voting, although Abby did.
+      <a href="http://franklinchen.com/blog/2013/05/21/voting-in-the-face-of-election-apathy/">Read On &rarr;</a>
+      
+    </div>
+    
+    <div class="post">
+      <h1 class="post-title">
+        <a href="http://franklinchen.com/blog/2013/05/21/attending-a-meeting-of-the-washington-dc-recorder-society-while-visiting/">Attending a meeting of the Washington DC Recorder Society while visiting</a>
+      </h1>
+      <span class="post-date">May 21, 2013 &middot; 1 minute read &middot; <a href="http://franklinchen.com/blog/2013/05/21/attending-a-meeting-of-the-washington-dc-recorder-society-while-visiting/#disqus_thread">Comments</a>
+      
+      <br/>
+      <a class="label" href="http://franklinchen.com/categories/music">music</a><a class="label" href="http://franklinchen.com/categories/recorder">recorder</a><a class="label" href="http://franklinchen.com/categories/washington-recorder-society">Washington Recorder Society</a>
+      </span>
+      
+      While in Washington, D.C. with Abby to visit new nephew, I took time out to attend a meeting of the Washington Recorder Society. It&rsquo;s a much bigger group than the Pittsburgh Recorder Society! We broke up into many subgroups and I joined a couple of other people to play together. I enjoyed the hospitality and refreshments.
+      
+      
+    </div>
+    
+    <div class="post">
+      <h1 class="post-title">
+        <a href="http://franklinchen.com/blog/2013/05/15/google-io-2013-extended-pittsburgh/">Google I/O 2013 Extended: Pittsburgh</a>
+      </h1>
+      <span class="post-date">May 15, 2013 &middot; 3 minute read &middot; <a href="http://franklinchen.com/blog/2013/05/15/google-io-2013-extended-pittsburgh/#disqus_thread">Comments</a>
+      
+      <br/>
+      <a class="label" href="http://franklinchen.com/categories/programming">programming</a><a class="label" href="http://franklinchen.com/categories/google-i/o">Google I/O</a><a class="label" href="http://franklinchen.com/categories/google">Google</a><a class="label" href="http://franklinchen.com/categories/pittsburgh">Pittsburgh</a><a class="label" href="http://franklinchen.com/categories/android">Android</a>
+      </span>
+      
+      <p>Last year I attended &ldquo;Google I/O Extended: Pittsburgh&rdquo; <a href="../../blog/2012/06/27/attending-my-first-google-io-extended-pittsburgh/">for the first time</a>. This year, I decided to attend <a href="http://pittsburghioextended.eventbrite.com/">again</a>.</p>
+
+<p>I was shocked by some aspects of my experience.</p>
+
+<p></p>
+      <a href="http://franklinchen.com/blog/2013/05/15/google-io-2013-extended-pittsburgh/">Read On &rarr;</a>
+      
+    </div>
+    
+    <div class="post">
+      <h1 class="post-title">
+        <a href="http://franklinchen.com/blog/2013/05/12/chatham-baroque-the-pleasures-of-purcell/">Chatham Baroque: The Pleasures of Purcell</a>
+      </h1>
+      <span class="post-date">May 12, 2013 &middot; 2 minute read &middot; <a href="http://franklinchen.com/blog/2013/05/12/chatham-baroque-the-pleasures-of-purcell/#disqus_thread">Comments</a>
+      
+      <br/>
+      <a class="label" href="http://franklinchen.com/categories/pittsburgh">Pittsburgh</a><a class="label" href="http://franklinchen.com/categories/chatham-baroque">Chatham Baroque</a><a class="label" href="http://franklinchen.com/categories/music">music</a><a class="label" href="http://franklinchen.com/categories/baroque">baroque</a><a class="label" href="http://franklinchen.com/categories/henry-purcell">Henry Purcell</a><a class="label" href="http://franklinchen.com/categories/viola-da-gamba">viola da gamba</a>
+      </span>
+      
+      It was a little crazy, but right after I came home from a mega-long Rachel Carson Trail hike today, I rushed to shower and change and run over to a special concert, &ldquo;The Pleasures of Purcell&rdquo; by the Chatham Baroque at the local Church of the Redeemer in the Squirrel Hill neighborhood. Objectively, I should have just called it a day after the hike, but I love the Chatham Baroque and learning from Annie earlier that they were playing in the neighborhood just several blocks from where I live made me decide to hop over there.
+      <a href="http://franklinchen.com/blog/2013/05/12/chatham-baroque-the-pleasures-of-purcell/">Read On &rarr;</a>
+      
+    </div>
+    
+    <div class="post">
+      <h1 class="post-title">
+        <a href="http://franklinchen.com/blog/2013/05/12/my-rachel-carson-trail-hike-for-the-year/">My Rachel Carson Trail hike for the year (13.4 miles): and how this is about love and gratitude</a>
+      </h1>
+      <span class="post-date">May 12, 2013 &middot; 11 minute read &middot; <a href="http://franklinchen.com/blog/2013/05/12/my-rachel-carson-trail-hike-for-the-year/#disqus_thread">Comments</a>
+      
+      <br/>
+      <a class="label" href="http://franklinchen.com/categories/hiking">hiking</a><a class="label" href="http://franklinchen.com/categories/rachel-carson-trail">Rachel Carson Trail</a><a class="label" href="http://franklinchen.com/categories/rachel-carson-trail-challenge">Rachel Carson Trail Challenge</a><a class="label" href="http://franklinchen.com/categories/north-park">North Park</a><a class="label" href="http://franklinchen.com/categories/smartphone">smartphone</a><a class="label" href="http://franklinchen.com/categories/fivefingers">FiveFingers</a><a class="label" href="http://franklinchen.com/categories/north-park">North Park</a>
+      </span>
+      
+      <p>Today I did my first hike of the year (normally I would have done hiking already in the spring, but the combination of Abby&rsquo;s broken foot and my Pittsburgh Marathon training this year resulted in no space for hiking until after the <a href="../../blog/2013/05/06/2013-pittsburgh-marathon-my-135th-race-was-my-worst-i-finished/">marathon, which I did seven days ago</a>).</p>
+
+<p>My first hike of the year just happened to turn out to be a grueling Rachel Carson Trail hike.</p>
+
+<p>Last year, I reported on the two Rachel Carson Trail Challenge goal training hikes I did in <a href="../../blog/2012/04/29/a-pretty-rachel-carson-trail-challenge-goal-training-hike/">late April</a> and <a href="../../blog/2012/06/03/a-totally-exhausting-rachel-carson-trail-challenge-goal-training-hike/">early June</a>. This year, I did the fourth of eight of the <a href="http://www.rachelcarsontrails.org/rct/challenge/rctc13/goaltraining">year&rsquo;s goal training hikes</a> offered.</p>
+
+<ul>
+<li>Sunday, May 12</li>
+<li>Leader: Donna Stolz 412-303-6102, Eileen Lessman 412-760-8863</li>
+<li>13.4 miles</li>
+<li>Elevation change: 5055 ft</li>
+</ul>
+
+<p>&ldquo;This hike begins in North Park and heads over to Emmerling Park, then up and over Rich Hill and Lefever Hill. We end at the Log Cabin Road checkpoint location. Meet at Log Cabin Road parking area. Take Route 28 to Exit #12. Turn right at the end of the ramp, then right at the stop sign onto Little Deer Creek Road (aka Russellton Road). Travel about 1.5 miles and turn right on Log Cabin Road. Park about 100 yards ahead on the right.&rdquo;</p>
+
+<p>As of this year, I&rsquo;ve decided to do <em>only one</em> Rachel Carson Trail hike a year, so this was it.</p>
+
+<p>Here is my report on the hike, as well as my long-awaited explanation of why this trail means so much to me.</p>
+
+<p></p>
+      <a href="http://franklinchen.com/blog/2013/05/12/my-rachel-carson-trail-hike-for-the-year/">Read On &rarr;</a>
+      
+    </div>
+    
+    <div class="post">
+      <h1 class="post-title">
+        <a href="http://franklinchen.com/blog/2013/05/09/back-to-what-running-is-really-about-for-me/">Back to what running is really about for me</a>
+      </h1>
+      <span class="post-date">May 9, 2013 &middot; 2 minute read &middot; <a href="http://franklinchen.com/blog/2013/05/09/back-to-what-running-is-really-about-for-me/#disqus_thread">Comments</a>
+      
+      <br/>
+      <a class="label" href="http://franklinchen.com/categories/running">running</a><a class="label" href="http://franklinchen.com/categories/exercise">exercise</a><a class="label" href="http://franklinchen.com/categories/pittsburgh-marathon">Pittsburgh Marathon</a><a class="label" href="http://franklinchen.com/categories/pittsburgh">Pittsburgh</a><a class="label" href="http://franklinchen.com/categories/frick-park">Frick Park</a><a class="label" href="http://franklinchen.com/categories/psychology">psychology</a>
+      </span>
+      
+      Cloudy day drizzling rain in Frick Park   So, four days after my disappointing Pittsburgh Marathon, I&rsquo;ve recovered enough to first walk, and now do some light running as well. I did a very slow, short 3-mile run in Frick Park.
+I&rsquo;m guessing it will take me another two or three weeks to be completely recovered physically, but I&rsquo;m ecstatic to be out and about again. I&rsquo;m also happy that I&rsquo;m emotionally recovered already; I was pretty unbalanced leading up to and after the ordeal.
+      <a href="http://franklinchen.com/blog/2013/05/09/back-to-what-running-is-really-about-for-me/">Read On &rarr;</a>
+      
+    </div>
+    
+    
+    
+    <ul class="pagination">
+        
+        <li>
+            <a href="../../" aria-label="First"><span aria-hidden="true">&laquo;&laquo;</span></a>
+        </li>
+        
+        <li
+        >
+        <a href="../../page/24/" aria-label="Previous"><span aria-hidden="true">&laquo;</span></a>
+        </li>
+        
+        <li
+        ><a href="../../">1</a></li>
+        
+        <li
+        ><a href="../../page/2/">2</a></li>
+        
+        <li
+        ><a href="../../page/3/">3</a></li>
+        
+        <li
+        ><a href="../../page/4/">4</a></li>
+        
+        <li
+        ><a href="../../page/5/">5</a></li>
+        
+        <li
+        ><a href="../../page/6/">6</a></li>
+        
+        <li
+        ><a href="../../page/7/">7</a></li>
+        
+        <li
+        ><a href="../../page/8/">8</a></li>
+        
+        <li
+        ><a href="../../page/9/">9</a></li>
+        
+        <li
+        ><a href="../../page/10/">10</a></li>
+        
+        <li
+        ><a href="../../page/11/">11</a></li>
+        
+        <li
+        ><a href="../../page/12/">12</a></li>
+        
+        <li
+        ><a href="../../page/13/">13</a></li>
+        
+        <li
+        ><a href="../../page/14/">14</a></li>
+        
+        <li
+        ><a href="../../page/15/">15</a></li>
+        
+        <li
+        ><a href="../../page/16/">16</a></li>
+        
+        <li
+        ><a href="../../page/17/">17</a></li>
+        
+        <li
+        ><a href="../../page/18/">18</a></li>
+        
+        <li
+        ><a href="../../page/19/">19</a></li>
+        
+        <li
+        ><a href="../../page/20/">20</a></li>
+        
+        <li
+        ><a href="../../page/21/">21</a></li>
+        
+        <li
+        ><a href="../../page/22/">22</a></li>
+        
+        <li
+        ><a href="../../page/23/">23</a></li>
+        
+        <li
+        ><a href="../../page/24/">24</a></li>
+        
+        <li
+        class="active"><a href="../../page/25/">25</a></li>
+        
+        <li
+        ><a href="../../page/26/">26</a></li>
+        
+        <li
+        ><a href="../../page/27/">27</a></li>
+        
+        <li
+        ><a href="../../page/28/">28</a></li>
+        
+        <li
+        ><a href="../../page/29/">29</a></li>
+        
+        <li
+        ><a href="../../page/30/">30</a></li>
+        
+        <li
+        ><a href="../../page/31/">31</a></li>
+        
+        <li
+        ><a href="../../page/32/">32</a></li>
+        
+        <li
+        ><a href="../../page/33/">33</a></li>
+        
+        <li
+        ><a href="../../page/34/">34</a></li>
+        
+        <li
+        ><a href="../../page/35/">35</a></li>
+        
+        <li
+        ><a href="../../page/36/">36</a></li>
+        
+        <li
+        ><a href="../../page/37/">37</a></li>
+        
+        <li
+        ><a href="../../page/38/">38</a></li>
+        
+        <li
+        ><a href="../../page/39/">39</a></li>
+        
+        <li
+        ><a href="../../page/40/">40</a></li>
+        
+        <li
+        ><a href="../../page/41/">41</a></li>
+        
+        <li
+        ><a href="../../page/42/">42</a></li>
+        
+        <li
+        ><a href="../../page/43/">43</a></li>
+        
+        <li
+        ><a href="../../page/44/">44</a></li>
+        
+        <li
+        ><a href="../../page/45/">45</a></li>
+        
+        <li
+        ><a href="../../page/46/">46</a></li>
+        
+        <li
+        ><a href="../../page/47/">47</a></li>
+        
+        <li
+        ><a href="../../page/48/">48</a></li>
+        
+        <li
+        ><a href="../../page/49/">49</a></li>
+        
+        <li
+        ><a href="../../page/50/">50</a></li>
+        
+        <li
+        ><a href="../../page/51/">51</a></li>
+        
+        <li
+        ><a href="../../page/52/">52</a></li>
+        
+        <li
+        ><a href="../../page/53/">53</a></li>
+        
+        <li
+        ><a href="../../page/54/">54</a></li>
+        
+        <li
+        ><a href="../../page/55/">55</a></li>
+        
+        <li
+        ><a href="../../page/56/">56</a></li>
+        
+        <li
+        ><a href="../../page/57/">57</a></li>
+        
+        <li
+        ><a href="../../page/58/">58</a></li>
+        
+        <li
+        ><a href="../../page/59/">59</a></li>
+        
+        <li
+        ><a href="../../page/60/">60</a></li>
+        
+        <li
+        ><a href="../../page/61/">61</a></li>
+        
+        <li
+        >
+        <a href="../../page/26/" aria-label="Next"><span aria-hidden="true">&raquo;</span></a>
+        </li>
+        
+        <li>
+            <a href="../../page/61/" aria-label="Last"><span aria-hidden="true">&raquo;&raquo;</span></a>
+        </li>
+        
+    </ul>
+    
+  </div>
+</div>
+<script src="http://franklinchen.com/js/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+</body>
+</html>
+

@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>Pittsburgh Scala Meetup: my talk &#34;Stop Overusing Regular Expressions!&#34; &middot; Franklin Chen</title>
+
+  
+  <link rel="stylesheet" href="http://franklinchen.com/css/poole.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/hyde.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/poole-overrides.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/hyde-overrides.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/hyde-x.css">
+
+  <link rel="stylesheet" href="http://franklinchen.com/css/franklin.css">
+
+  <link rel="stylesheet" href="http://franklinchen.com/css/highlight/default.css">
+  <link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://franklinchen.com/touch-icon-144-precomposed.png">
+  <link href="http://franklinchen.com/favicon.png" rel="icon">
+
+  
+  
+  
+  
+
+  <meta name="description" content="Franklin Chen&#39;s personal Web site and blog">
+  <meta name="keywords" content="Franklin Chen, blog">
+  <link rel="author" href="http://plus.google.com/100967806642012078047">
+</head>
+<body class="theme-base-0e">
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      
+        
+        <h1>Franklin Chen</h1>
+        <p class="lead">Infinity in the palm of my hand.</p>
+    </div>
+
+    <ul class="sidebar-nav">
+      
+      <li class="sidebar-nav-item"><a href="http://franklinchen.com/contact/">Contact</a></li>
+      
+      <li class="sidebar-nav-item"><a href="http://ConscientiousProgrammer.com/">Programming blog</a></li>
+      <li class="sidebar-nav-item"><a href="http://chessimprover.com/author/franklinc/">Chess blog</a></li>
+      <li class="sidebar-nav-item"><a href="https://www.flickr.com/photos/franklinmingchen/">Photos</a></li>
+    </ul>
+
+    <ul class="sidebar-nav">
+      <li class="sidebar-nav-item">
+      <a href="https://github.com/FranklinChen"><i class="fa fa-github-square fa-3x"></i></a>
+      
+      
+      <a href="http://www.linkedin.com/in/franklinchen"><i class="fa fa-linkedin-square fa-3x"></i></a>
+      <a href="http://google.com/&#43;FranklinChen"><i class="fa fa-google-plus-square fa-3x"></i></a>
+      <a href="http://www.facebook.com/franklin.chen"><i class="fa fa-facebook-square fa-3x"></i></a>
+      <a href="http://twitter.com/franklinchen"><i class="fa fa-twitter-square fa-3x"></i></a>
+      <a href="http://www.youtube.com/user/FranklinChen"><i class="fa fa-youtube-square fa-3x"></i></a>
+      <a href="http://franklinchen.com/atom.xml" type="application/rss+xml"><i class="fa fa-rss-square fa-3x"></i></a>
+      </li>
+    </ul>
+
+    
+
+    <p>Copyright &copy; 2016 Franklin Chen<br/>
+       Powered by <a href="http://gohugo.io">Hugo</a> and <a href="https://github.com/zyro/hyde-x">Hyde-X</a></p>
+  </div>
+</div>
+
+
+<div class="content container">
+  <div class="post">
+    <h1>Pittsburgh Scala Meetup: my talk &#34;Stop Overusing Regular Expressions!&#34;</h1>
+    
+
+<p>So two days ago, <a href="http://jamieforrest.com/">Jamie</a> sent email out to the <a href="http://www.meetup.com/Pittsburgh-Scala-Meetup/">Pittsburgh Scala meetup group</a> saying that our planned speaker Barrett, who was to have talked about his experiences using <a href="http://akka.io/">Akka</a>, was not going to make it, and asked if anyone else could talk about something.</p>
+
+<h2 id="i-suddenly-stepped-in-as-a-substitute-speaker">I suddenly stepped in as a substitute speaker</h2>
+
+<p>Since I was already supposed to give a talk on Saturday at the 2013 <a href="http://pghtechfest.com/">Pittsburgh TechFest</a>, and was in the process of finishing my work on it, I volunteered to give an early version of my Pittsburgh TechFest talk <a href="http://www.meetup.com/Pittsburgh-Scala-Meetup/events/115817242/">at the Scala meetup</a>, since I actually happen to provide Scala code in the talk. Ha, this meant giving two talks in two successive meetings, because at the last meeting, I gave a <a href="../../../../../blog/2013/04/11/my-pittsburgh-scala-meetup-talk-on-property-based-testing-using-scalacheck/">talk on property-based testing using ScalaCheck</a>.</p>
+
+<h2 id="presentation">Presentation</h2>
+
+<p>My presentation was &ldquo;Stop overusing regular expressions!&rdquo;</p>
+
+<p>Here is my abstract as submitted to Pittsburgh TechFest:
+<blockquote>
+Regular expressions are very commonly used to process and validate text data. Unfortunately, they suffer from various limitations. I will discuss the limitations and illustrate how using grammars instead can be an improvement. I will make the examples concrete using parsing libraries in a couple of representative languages, although the ideas are language-independent. (I&rsquo;ll try to squeeze in, say, Ruby, Python, JavaScript, Scala.)</p>
+
+<p>I will emphasize ease of use, since one reason for the overuse of regular expressions is that they are so easy to pull out of one&rsquo;s toolbox.
+</blockquote></p>
+
+<h3 id="attendance">Attendance</h3>
+
+<p>Turnout was small: five people other than myself. By the way, we&rsquo;ve discovered unsurprisingly predictable pattern: roughly half the people who RSVP &ldquo;yes&rdquo; on the meetups show up.</p>
+
+<h3 id="slides-and-code">Slides and code</h3>
+
+<p>The material for the talk <em>as given</em> is at <a href="https://github.com/franklinchen/talk-on-overusing-regular-expressions/tree/meetup-talk">this tag of my GitHub repository</a>.</p>
+
+<p>My <a href="https://github.com/franklinchen/talk-on-overusing-regular-expressions">master branch of the GitHub repository</a> will always have my latest revisions.</p>
+
+<h4 id="update-of-2013-06-01">(Update of 2013-06-01)</h4>
+
+<p>I made substantial revisions in the presentation and code before Pittsburgh TechFest. I recommend looking at the latest version. Details in my <a href="../../../../../blog/2013/06/01/pittsburgh-tech-fest-2013-my-talk-stop-overusing-regular-expressions/">report on my talk at Pittsburgh TechFest 2013</a>.</p>
+
+<p><iframe src="http://www.slideshare.net/slideshow/embed_code/22302440" width="427" height="356" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen webkitallowfullscreen mozallowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="http://www.slideshare.net/FranklinChen/handout-22302440" title="Stop overusing regular expressions!" target="_blank">Stop overusing regular expressions!</a> </strong> from <strong><a href="http://www.slideshare.net/FranklinChen" target="_blank">Franklin Chen</a></strong> </div></p>
+
+<h2 id="after">After</h2>
+
+<p>There was great feedback after the talk. Some material I went through took quickly, without a smooth transition to relate ideas, and my final page of Scala code that contained dense use of all kinds of operators and idioms was something I stumbled through trying to explain, even as I was feeling that explaining it was a tangent from the main points of the talk.</p>
+
+<p>There was casual discussion of Scala and other topics after the talk as well. I was pretty excited to hear about how useful Akka has become in solving important problems.</p>
+
+<h2 id="thanks">Thanks</h2>
+
+<p>Thanks to everyone who came to the talk! I enjoyed sharing my experiences and recommendations, and engaging in discussion about the topics, and getting to make a mental note of things to change in my delivery, slides, and code for Pittsburgh TechFest on Saturday.</p>
+
+<p>Thanks to <a href="http://justin-pihony.blogspot.com/">Justin</a> for arranging a meeting place for the Pittsburgh Scala meetup at <a href="http://mmodal.com/">M*Modal</a>, and thanks to M*Modal for providing the space!</p>
+
+<p>And thanks to Jamie again for creating the Pittsburgh Scala meetup group, and <a href="http://typesafe.com/">TypeSafe</a> for being a sponsor now, thanks to <a href="http://jsuereth.com/">Josh</a> (who sadly did not make it to this meeting).</p>
+
+    <div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'franklinchen';
+    var disqus_identifier = 'http:\/\/franklinchen.com\/blog\/2013\/05\/29\/pittsburgh-scala-meetup-my-talk-stop-overusing-regular-expressions\/';
+    var disqus_title = 'Pittsburgh Scala Meetup: my talk \x22Stop Overusing Regular Expressions!\x22';
+    var disqus_url = 'http:\/\/franklinchen.com\/blog\/2013\/05\/29\/pittsburgh-scala-meetup-my-talk-stop-overusing-regular-expressions\/';
+
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+  </div>
+</div>
+<script src="http://franklinchen.com/js/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+</body>
+</html>
+

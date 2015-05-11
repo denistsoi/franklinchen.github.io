@@ -1,0 +1,1865 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sicilian Defense on Franklin Chen</title>
+    <link>http://franklinchen.com/categories/sicilian-defense/atom/index.xml</link>
+    <description>Recent content in Sicilian Defense on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/categories/sicilian-defense/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>World Chess Championship 2013 round 10: Magnus Carlsen is the new world champion</title>
+      <link>http://franklinchen.com/blog/2013/11/22/world-chess-championship-2013-round-10-magnus-carlsen-is-the-new-world-champion/</link>
+      <pubDate>Fri, 22 Nov 2013 18:17:34 -0500</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/11/22/world-chess-championship-2013-round-10-magnus-carlsen-is-the-new-world-champion/</guid>
+      <description>&lt;p&gt;In my continuing coverage of the &lt;a href=&#34;http://chennai2013.fide.com/&#34;&gt;World Chess Championship between Anand and Carlsen&lt;/a&gt;, today I cover round ten, in which a draw gave 22-year-old Magnus Carlsen the FIDE World Chess Champion title. Congratulations to Carlsen, and thank you, Anand, for showing your fighting spirit by playing the Sicilian Defense today!&lt;/p&gt;
+
+&lt;p&gt;Game and notes below:&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;my-opening-predictions-for-today&#34;&gt;My opening predictions for today&lt;/h2&gt;
+
+&lt;p&gt;I announced my opening predictions the night before today&amp;rsquo;s game.&lt;/p&gt;
+
+&lt;p&gt;My primary prediction was that Carlsen would play &lt;code&gt;1 e4&lt;/code&gt; and Anand would play &lt;code&gt;c5&lt;/code&gt; for an aggressive Najdorf Sicilian, and that Carlsen would play a &lt;code&gt;Be2/Nf3&lt;/code&gt; line in response. My secondary prediction was that if Carlsen played something other than &lt;code&gt;1 e4&lt;/code&gt;, then Anand would try a King&amp;rsquo;s Indian as Black.&lt;/p&gt;
+
+&lt;h2 id=&#34;summary-of-the-game&#34;&gt;Summary of the game&lt;/h2&gt;
+
+&lt;p&gt;It turns out that I was partially right in my prediction. There was a Sicilian Defense, and Anand did try entering a Najdorf. I was very happy to see this, because there was some discussion among my chess friends yesterday about whether Anand would simply play for a safe, quick draw, rather than try to fight back in the match for a win. Anand did try to fight back after all, playing the riskiest variation even against Carlsen&amp;rsquo;s avoidance of the Najdorf with the drawish Moscow Variation.&lt;/p&gt;
+
+&lt;p&gt;Objectively the middlegame was very equal for some time, as Anand set up a &lt;a href=&#34;http://en.wikipedia.org/wiki/Hedgehog_%28chess%29&#34;&gt;Hedgehog&lt;/a&gt; position against Carlsen&amp;rsquo;s Maróczy Bind setup. In fact, Anand implicitly offered a draw by shuffling his King back and forth. Carlsen decided to play on for a win, advancing on the Queenside with &lt;code&gt;a4&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;Shortly after that, Anand started slipping a bit, allowing Carlsen to improve White&amp;rsquo;s position, and at one critical point Anand made a big blunder that should have lost the game, hanging the important &lt;code&gt;d6&lt;/code&gt; Pawn to White&amp;rsquo;s capture by the &lt;code&gt;e5&lt;/code&gt; Pawn. But Carlsen prematurely captured the Pawn too early, allowing Anand to regain it and simplify into a Knight and Pawn ending that should be a draw.&lt;/p&gt;
+
+&lt;p&gt;However, White had chances because of the Queen side majority and more active King. Anand found very sharp counterplay that caused Carlson to decide to stop playing for a possible win, and shut the game down for a draw.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-state-of-the-match&#34;&gt;The state of the match&lt;/h3&gt;
+
+&lt;p&gt;Carlsen is the new world champion!&lt;/p&gt;
+
+&lt;h2 id=&#34;the-game&#34;&gt;The game&lt;/h2&gt;
+
+&lt;p&gt;&lt;link href=&#34;../../chess/pgn4web/template.css&#34; type=&#34;text/css&#34; rel=&#34;stylesheet&#34;&gt;&lt;/link&gt;&lt;/p&gt;
+
+&lt;style type=&#34;text/css&#34;&gt;
+  #GameLastComment {
+    font-style: italic
+  }
+&lt;/style&gt;
+
+&lt;script src=&#34;../../chess/pgn4web/pgn4web.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
+
+&lt;script type=&#34;text/javascript&#34;&gt;
+    &#34;use strict&#34;;
+
+    SetPgnUrl(&#34;/chess/anand-carlsen.pgn&#34;);
+    SetImagePath(&#34;/chess/pgn4web/images&#34;);
+    SetHighlightOption(true);
+    SetCommentsIntoMoveText(true);
+    SetCommentsOnSeparateLines(true);
+    SetInitialGame(10);
+    SetShortcutKeysEnabled(true);
+&lt;/script&gt;
+
+&lt;table&gt;
+    &lt;tr valign=&#34;top&#34;&gt;
+      &lt;td&gt;
+        &lt;div id=&#34;GameBoard&#34;&gt;&lt;/div&gt;
+        &lt;div id=&#34;GameButtons&#34;&gt;&lt;/div&gt;
+        &lt;span class=&#34;label&#34;&gt;Move comment:&lt;/span&gt;&lt;br&gt;&lt;span id=&#34;GameLastComment&#34;&gt;&lt;/span&gt;
+      &lt;/td&gt;
+
+      &lt;td&gt;
+        &lt;span class=&#34;label&#34;&gt;Event:&lt;/span&gt; &lt;span id=&#34;GameEvent&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Site:&lt;/span&gt; &lt;span id=&#34;GameSite&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Round:&lt;/span&gt; &lt;span id=&#34;GameRound&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Date:&lt;/span&gt; &lt;span id=&#34;GameDate&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;White:&lt;/span&gt; &lt;span id=&#34;GameWhite&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Black:&lt;/span&gt; &lt;span id=&#34;GameBlack&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Result:&lt;/span&gt; &lt;span id=&#34;GameResult&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Side to move:&lt;/span&gt; &lt;span id=&#34;GameSideToMove&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Last move:&lt;/span&gt; &lt;span id=&#34;GameLastMove&#34;&gt;&lt;/span&gt;&amp;nbsp; &lt;span class=&#34;label&#34;&gt;variations:&lt;/span&gt; &lt;span id=&#34;GameLastVariations&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Next move:&lt;/span&gt; &lt;span id=&#34;GameNextMove&#34;&gt;&lt;/span&gt;&amp;nbsp; &lt;span class=&#34;label&#34;&gt;variations:&lt;/span&gt; &lt;span id=&#34;GameNextVariations&#34;&gt;&lt;/span&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;hr/&gt;
+
+&lt;div id=&#34;GameText&#34;&gt;&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>World Chess Championship 2013, round 3: a fighting game worth studying</title>
+      <link>http://franklinchen.com/blog/2013/11/12/world-chess-championship-2013-round-3-a-fighting-game-worth-studying/</link>
+      <pubDate>Tue, 12 Nov 2013 22:47:56 -0500</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/11/12/world-chess-championship-2013-round-3-a-fighting-game-worth-studying/</guid>
+      <description>&lt;p&gt;In my continuing coverage of the &lt;a href=&#34;http://chennai2013.fide.com/&#34;&gt;World Chess Championship between Anand and Carlsen&lt;/a&gt;, today I cover round three, an exciting fighting game well worth studying.&lt;/p&gt;
+
+&lt;p&gt;Game and notes below:&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;If you were bored by the &lt;a href=&#34;../../blog/2013/11/09/world-chess-championship-2013/&#34;&gt;first round&lt;/a&gt; and the &lt;a href=&#34;../../blog/2013/11/10/world-chess-championship-2013-round-2-declining-the-sacrifice/&#34;&gt;second round&lt;/a&gt; games, because the play in both games involved no major errors and therefore ended quickly in a draw, study this third round game, even though it too ended in a draw!&lt;/p&gt;
+
+&lt;p&gt;Carlsen opened with the unambitious &lt;a href=&#34;http://en.wikipedia.org/wiki/R%C3%A9ti_Opening&#34;&gt;Réti Opening&lt;/a&gt; yet again, and Anand was happy to repeat the &lt;a href=&#34;http://en.wikipedia.org/wiki/Gr%C3%BCnfeld_Defence&#34;&gt;Grünfeld Defense&lt;/a&gt; setup of round 1. Carlsen varied by a very quick c4 thrust against Anand&amp;rsquo;s d5 Pawn, but Anand played the most aggressive continuation, taking the Pawn, guaranteeing an asymmetrical Pawn structure and therefore a chance at fighting chess.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-ambitious-maróczy-bind&#34;&gt;The ambitious Maróczy Bind&lt;/h3&gt;
+
+&lt;p&gt;In fact, Anand aggressively adopted a reverse &lt;a href=&#34;http://en.wikipedia.org/wiki/Sicilian_Defence,_Dragon_Variation&#34;&gt;Dragon Sicilian Defense&lt;/a&gt; setup, with good long-term positional prospects as Black. Furthermore, he also quickly chose a plan to try to transform the position into a deadly reverse &lt;a href=&#34;http://en.wikipedia.org/wiki/Mar%C3%B3czy_Bind&#34;&gt;Maróczy Bind&lt;/a&gt; structure to squeeze Carlsen to death. Carlsen played inaccurately and in fact allowed Anand to adopt this structure.&lt;/p&gt;
+
+&lt;p&gt;If you are not familiar with the Maróczy Bind setup, check out a couple of my games in which I won using it, so you can see what can happen against weak defense:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../blog/2012/09/19/round-3-of-pittsburgh-chess-club-tournament-another-approach-against-the-sicilian-squeezing-with-the-bind/&#34;&gt;as White&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://chessimprover.com/the-value-of-thematic-complete-games-against-a-weaker-opponent/&#34;&gt;in reverse as Black&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;carlsen-s-defense&#34;&gt;Carlsen&amp;rsquo;s defense&lt;/h3&gt;
+
+&lt;p&gt;Carlsen decided that instead of risking being squeezed to death, he would lash out and sacrifice a Pawn to get some open lines and possibly get chances against Anand&amp;rsquo;s King in order to simplify to a draw. I&amp;rsquo;m not sure whether it was sound, and Anand may have been able to play more challengingly to win (I have not done the intensive computer analysis to draw a conclusion), but in the end Anand wound up allowing simplification and losing back the won Pawn with a dead drawn ending.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-state-of-the-match-carlsen-under-real-pressure&#34;&gt;The state of the match: Carlsen under real pressure&lt;/h3&gt;
+
+&lt;p&gt;This is now the &lt;em&gt;third game in a row in which Anand acquired an advantage out of the opening&lt;/em&gt;. And in each game, his advantage in the game has only grown. This trend is not at all good for Carlsen. He has been completely neutralized as Anand has consistently gained superior space and piece play. Carlsen had to fight hard for a draw in this game. As White in two games now, he has been playing the opening poorly, which one does not need to be a world class player to see. Is this rope-a-dope or what?&lt;/p&gt;
+
+&lt;p&gt;But what about Anand? Why did he keep on taking the safe way out to a draw in three games when he could have avoided &lt;em&gt;simplification&lt;/em&gt; each time in an attempt to win? If Anand plays cautiously when he has the advantage, what might happen if Carlsen starts playing differently and gets Anand&amp;rsquo;s back against the wall in a game?&lt;/p&gt;
+
+&lt;h2 id=&#34;the-game&#34;&gt;The game&lt;/h2&gt;
+
+&lt;p&gt;&lt;link href=&#34;../../chess/pgn4web/template.css&#34; type=&#34;text/css&#34; rel=&#34;stylesheet&#34;&gt;&lt;/link&gt;&lt;/p&gt;
+
+&lt;style type=&#34;text/css&#34;&gt;
+  #GameLastComment {
+    font-style: italic
+  }
+&lt;/style&gt;
+
+&lt;script src=&#34;../../chess/pgn4web/pgn4web.js&#34; type=&#34;text/javascript&#34;&gt;&lt;/script&gt;
+
+&lt;script type=&#34;text/javascript&#34;&gt;
+    &#34;use strict&#34;;
+
+    SetPgnUrl(&#34;/chess/anand-carlsen.pgn&#34;);
+    SetImagePath(&#34;/chess/pgn4web/images&#34;);
+    SetHighlightOption(true);
+    SetCommentsIntoMoveText(true);
+    SetCommentsOnSeparateLines(true);
+    SetInitialGame(3);
+    SetShortcutKeysEnabled(true);
+&lt;/script&gt;
+
+&lt;table&gt;
+    &lt;tr valign=&#34;top&#34;&gt;
+      &lt;td&gt;
+        &lt;div id=&#34;GameBoard&#34;&gt;&lt;/div&gt;
+        &lt;div id=&#34;GameButtons&#34;&gt;&lt;/div&gt;
+        &lt;span class=&#34;label&#34;&gt;Move comment:&lt;/span&gt;&lt;br&gt;&lt;span id=&#34;GameLastComment&#34;&gt;&lt;/span&gt;
+      &lt;/td&gt;
+
+      &lt;td&gt;
+        &lt;span class=&#34;label&#34;&gt;Event:&lt;/span&gt; &lt;span id=&#34;GameEvent&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Site:&lt;/span&gt; &lt;span id=&#34;GameSite&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Round:&lt;/span&gt; &lt;span id=&#34;GameRound&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Date:&lt;/span&gt; &lt;span id=&#34;GameDate&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;White:&lt;/span&gt; &lt;span id=&#34;GameWhite&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Black:&lt;/span&gt; &lt;span id=&#34;GameBlack&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Result:&lt;/span&gt; &lt;span id=&#34;GameResult&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Side to move:&lt;/span&gt; &lt;span id=&#34;GameSideToMove&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Last move:&lt;/span&gt; &lt;span id=&#34;GameLastMove&#34;&gt;&lt;/span&gt;&amp;nbsp; &lt;span class=&#34;label&#34;&gt;variations:&lt;/span&gt; &lt;span id=&#34;GameLastVariations&#34;&gt;&lt;/span&gt;
+        &lt;br/&gt;
+        &lt;span class=&#34;label&#34;&gt;Next move:&lt;/span&gt; &lt;span id=&#34;GameNextMove&#34;&gt;&lt;/span&gt;&amp;nbsp; &lt;span class=&#34;label&#34;&gt;variations:&lt;/span&gt; &lt;span id=&#34;GameNextVariations&#34;&gt;&lt;/span&gt;
+      &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+
+&lt;hr/&gt;
+
+&lt;div id=&#34;GameText&#34;&gt;&lt;/div&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pittsburgh Chess Club Championship 2013, Round 2: surviving time trouble</title>
+      <link>http://franklinchen.com/blog/2013/01/23/pittsburgh-chess-club-championship-2013-round-2-surviving-time-trouble/</link>
+      <pubDate>Wed, 23 Jan 2013 07:27:58 -0500</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/01/23/pittsburgh-chess-club-championship-2013-round-2-surviving-time-trouble/</guid>
+      <description>&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/ozbek-chen-2013-01-22_files/round-2.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;PCC Championship 2013 round 2&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Round 2 of the annual &lt;a href=&#34;http://pittsburghcc.org/&#34;&gt;Pittsburgh Chess Club&lt;/a&gt; Championship had me playing a tough and very long game, the second to last game to finish (which it did after four hours). There was time trouble for both me and my opponent near the end of the game, but I managed to win.&lt;/p&gt;
+
+&lt;p&gt;So I thought I would touch on the issue of time trouble in chess.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;my-complete-annotated-game&#34;&gt;My complete annotated game&lt;/h2&gt;
+
+&lt;p&gt;At your convenience, you can &lt;a href=&#34;../../chess/ozbek-chen-2013-01-22.htm&#34;&gt;enjoy playing over the game with my annotations, including diagrams&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;preparation&#34;&gt;Preparation&lt;/h2&gt;
+
+&lt;p&gt;As mentioned in &lt;a href=&#34;../../blog/2013/01/16/pittsburgh-chess-club-championship-2013-round-1-the-art-of-swindling/&#34;&gt;my report on round 1&lt;/a&gt;, after which I knew who my opponent was supposed to be for round 2, Melih Ozbek, I had nothing to prepare for this round. I had only played him once before, as White, not as Black.&lt;/p&gt;
+
+&lt;h2 id=&#34;overview-of-my-game&#34;&gt;Overview of my game&lt;/h2&gt;
+
+&lt;h3 id=&#34;the-opening&#34;&gt;The opening&lt;/h3&gt;
+
+&lt;p&gt;It turned out that Melih plays the Grand Prix Attack against the Sicilian Defense, which was featured in &lt;a href=&#34;../../blog/2012/11/13/round-1-of-pittsburgh-chess-club-tournament-revenge-of-the-knight/&#34;&gt;one of my games in a previous tournament&lt;/a&gt;. We arrived at a thematic position in which I felt happy on the Black side:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/ozbek-chen-2013-01-22_files/diag3F9A762725479855.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Grand Prix Attack&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;the-middlegame&#34;&gt;The middlegame&lt;/h3&gt;
+
+&lt;p&gt;Eventually we reached an important position in which I managed to get in &lt;code&gt;f5&lt;/code&gt;, permanently blocking White from that thematic square:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/ozbek-chen-2013-01-22_files/diag3F9A768E7324A2EE.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Black f5&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;After White took on &lt;code&gt;f5&lt;/code&gt;, we reached a position in which Black arguably is the one with the attacking chances on the King side, having the half open &lt;code&gt;g&lt;/code&gt; file and pressure against White&amp;rsquo;s Pawn on &lt;code&gt;g2&lt;/code&gt;. Objectively, White can hold, but Black is the one with the attack:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/ozbek-chen-2013-01-22_files/diag3F9A76A432B17CBD.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;g file&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Melih invited me into complications by giving up the &lt;code&gt;b2&lt;/code&gt; Pawn in exchange for the &lt;code&gt;c5&lt;/code&gt; Pawn. I was happy to oblige, and we reached an interesting position in which White fought for counterplay on the Queen side and center:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/ozbek-chen-2013-01-22_files/diag3F9A772E7467C0D2.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;White counterplay?&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;After some inaccuracies by White, we reached a position clearly favorable to Black:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/ozbek-chen-2013-01-22_files/diag3F9A774051C00605.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Black attacks&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;h4 id=&#34;the-clock-is-ticking-for-both-of-us&#34;&gt;The clock is ticking for both of us&lt;/h4&gt;
+
+&lt;p&gt;I thought for a long time but could not find a win (and there isn&amp;rsquo;t one). I then realized I had to play &lt;em&gt;something&lt;/em&gt;, and that clearly I was getting tired because I could not think as well as I could hours earlier at the beginning of the game.&lt;/p&gt;
+
+&lt;p&gt;I could not afford to get into time trouble later in the game when I expected more important positions to potentially arise. I started playing &amp;ldquo;safely&amp;rdquo;, with the idea of waiting for my opponent to make worse moves than mine.&lt;/p&gt;
+
+&lt;h5 id=&#34;missing-a-win&#34;&gt;Missing a win&lt;/h5&gt;
+
+&lt;p&gt;We reached this position, in which there was a beautiful forced win that I completely missed. If I had found it, I would be submitting my game for the &amp;ldquo;Best Attack&amp;rdquo; special prize for the tournament!&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/ozbek-chen-2013-01-22_files/diag3F9A77B8B61E04E6.gif&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;The winning move is &lt;code&gt;Ra2!!&lt;/code&gt; sacrificing a Rook to deflect White from King defense. If White takes the Rook, then Black invades with &lt;code&gt;Qg3&lt;/code&gt;.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/ozbek-chen-2013-01-22_files/diag3F9A77DD37A5E039.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Black mates&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;h5 id=&#34;more-misses&#34;&gt;More misses&lt;/h5&gt;
+
+&lt;p&gt;There are more sacrificial wins I also missed later. For example, this sacrifice on &lt;code&gt;g2&lt;/code&gt; enables Black to win by getting down to the back rank with the Rook and Queen:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/ozbek-chen-2013-01-22_files/diag3F9A77FC494A8518.gif&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Anyway, we reached another critical position where there was a clear win for Black. I saw it but time was running low, I was getting confused, and I didn&amp;rsquo;t play it (&lt;code&gt;Bh4&lt;/code&gt; and then &lt;code&gt;Bg3+&lt;/code&gt;), instead playing &lt;code&gt;e5&lt;/code&gt;:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/ozbek-chen-2013-01-22_files/diag3F9A7846DA08DD96.gif&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;It turns out that White could have simply played &lt;code&gt;Nf3&lt;/code&gt; and held everything, but he didn&amp;rsquo;t, and so the position was critical yet again. This time, I played &lt;code&gt;Bh4&lt;/code&gt;, of course.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/ozbek-chen-2013-01-22_files/diag3F9A7892319E8700.gif&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;But then I inexplicably chose not to play the winning &lt;code&gt;Bg3+&lt;/code&gt;. All I can say is that in time trouble sometimes things get confused in my brain.&lt;/p&gt;
+
+&lt;p&gt;I played &lt;code&gt;exf4&lt;/code&gt; instead, which is so bizarre, because it allows White onto the diagonal straight to the King, that I don&amp;rsquo;t know what I was thinking! (Note that by this time neither players were keeping score, because of the time trouble.)&lt;/p&gt;
+
+&lt;p&gt;Finally, I played the winning move &lt;code&gt;Rxh3+!&lt;/code&gt;, except that I didn&amp;rsquo;t see the whole winning followup so I get no credit for this move:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/ozbek-chen-2013-01-22_files/diag3F9A78DA6DD6ECB9.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Winning move&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Here, I faltered completely, failing to do the zigzag checking dance with the Queen to pick up White&amp;rsquo;s Knight at &lt;code&gt;c2&lt;/code&gt; with check before proceeding further:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/ozbek-chen-2013-01-22_files/diag3F9A7903986AAD94.gif&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Instead, we entered an endgame that, sadly for Black, is actually quite tenable for White.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-endgame&#34;&gt;The endgame&lt;/h3&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/ozbek-chen-2013-01-22_files/diag3F9A7910CCB70D40.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Endgame&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;However, because I had been so obsessed with playing quickly in time trouble, I was ahead on the clock, and my opponent barely had any time to think at all, and in a position like this, the Queen can be very dangerous because of checking possibilities and tactics that might pick up a stray piece. And that&amp;rsquo;s what happened, as my opponent played blunder after blunder. He hung not only his Rook, but eventually his Knight as well.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/ozbek-chen-2013-01-22_files/diag3F9A7956B4698036.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;White losing the Rook&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;With hardly any time on the clock left, Melih touched his King reflexively in this position, saw that his Knight was hanging, and resigned.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/ozbek-chen-2013-01-22_files/diag3F9A79A460851C64.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Final position&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;h2 id=&#34;lessons-learned-from-my-game&#34;&gt;Lessons learned from my game&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Having a time advantage near the end was helpful.&lt;/li&gt;
+&lt;li&gt;In time trouble, if you don&amp;rsquo;t see the win, at least don&amp;rsquo;t blunder into a loss.&lt;/li&gt;
+&lt;li&gt;When short of time, it is advantageous to have the attack and to have active, obviously used weapons such as a Queen and passed Pawns.&lt;/li&gt;
+&lt;li&gt;Anything can happen in time trouble, so setting easy tactical traps (such as forking pieces) is a valid strategy.&lt;/li&gt;
+&lt;li&gt;Remember that most human chess games are really &lt;em&gt;lost&lt;/em&gt;, not &lt;em&gt;won&lt;/em&gt;; many positions that look bad are, to computers, completely defensible. But in practice, some positions are harder to defend by humans (especially under time pressure) than others.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A note on my time trouble issues: these days I have not been playing very well under time trouble, but I remember a period when I was actually pretty good at playing with little time, and won the &lt;a href=&#34;../../blog/2011/10/18/disagreement-on-the-use-of-time/&#34;&gt;2006 Pennsylvania State Game/29 Championship as well as the 2006 Pennsylvania Action Chess Championship with perfect scores&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;So I think dealing with time constraints is totally a matter of regular practice and training. I used to play 5-minute blitz a lot, and that helped me make practical decisions reflexively with little time. I am too busy these days to hang out at the club and play blitz, so my overall chess competitiveness has suffered as a result.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-next&#34;&gt;What next?&lt;/h2&gt;
+
+&lt;p&gt;Next week for round 3, I get White again against John Ahlborg, whom I played for the first time also as White &lt;a href=&#34;../../blog/2012/09/19/round-3-of-pittsburgh-chess-club-tournament-another-approach-against-the-sicilian-squeezing-with-the-bind/&#34;&gt;a couple of months ago&lt;/a&gt;. Now that he knows how I play, I expect he will be prepared against me in some fashion. No worries, I am probably not going to repeat any ideas I&amp;rsquo;ve posted so far on this blog!&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;I had a tough game in which although I may have had a small advantage during much of it, I did not actually have a won position until near the end, but at that point, time pressure marred both my play and my opponent&amp;rsquo;s. Finally, as the pieces went flying on the board, he erred worse than I did, and I won.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Round 5 of Pittsburgh Chess Club Tournament: psychology of losing another won game</title>
+      <link>http://franklinchen.com/blog/2012/12/11/round-5-of-pittsburgh-chess-club-tournament-psychology-of-losing-another-won-game/</link>
+      <pubDate>Tue, 11 Dec 2012 23:59:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/12/11/round-5-of-pittsburgh-chess-club-tournament-psychology-of-losing-another-won-game/</guid>
+      <description>&lt;p&gt;After &lt;a href=&#34;../../blog/2012/12/04/round-4-of-pittsburgh-chess-club-tournament-the-agony-of-losing-a-won-game-against-the-difficult-opponent/&#34;&gt;losing a won game against a difficult opponent&lt;/a&gt; last week in round 4, I was hoping to redeem myself in round 5 this week by playing well. I played against a fellow Expert whom I had never played in a tournament game before, but had played a couple of blitz games with several years ago.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, I fell apart even more bizarrely than in last week&amp;rsquo;s game: I lost another won game, and threw away a draw at the last moment. &lt;strong&gt;I have lost two games in a row in which I had a winning position&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;This is a report on the game and the raw psychological aspects of what happened.&lt;/p&gt;
+
+&lt;p&gt;Why? Well, over the years, many people have come up to me confused about what happened when I fell apart mysteriously in a chess game, and I always found it hard to explain, but this time, I&amp;rsquo;m giving as detailed an explanation as I can. This is not an easy exercise for me, because it inevitably means facing various demons and admitting to personal weaknesses I (still) have, but my mission since beginning to blog about chess has been to tell the &lt;em&gt;unfiltered truth&lt;/em&gt; of what happens to us human, fallible chess players. Whether you already experience this as a serious tournament player or whether you do not play chess, I think you will find the psychology fascinating.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-complete-annotated-game&#34;&gt;The complete annotated game&lt;/h2&gt;
+
+&lt;p&gt;At your convenience, you can &lt;a href=&#34;../../chess/wallnau-chen-2012-12-11.htm&#34;&gt;enjoy playing over the game with my annotations, including diagrams.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;preparation&#34;&gt;Preparation&lt;/h2&gt;
+
+&lt;p&gt;I did not do any preparation for the game, because I had no idea what opening he was going to play against me as White. Also, I have been very short on time for chess in the past two weeks, during which I have been occupied preparing for music gigs (I performed in one &lt;a href=&#34;../../blog/2012/12/09/playing-music-on-recorders-at-a-phipps-conservatory-candlelight-evening/&#34;&gt;on Sunday&lt;/a&gt; and have another one coming up Friday). This among many other things I need to get done before the holidays begin (hence my light blogging lately).&lt;/p&gt;
+
+&lt;h2 id=&#34;overview-of-my-game&#34;&gt;Overview of my game&lt;/h2&gt;
+
+&lt;h3 id=&#34;the-opening&#34;&gt;The opening&lt;/h3&gt;
+
+&lt;p&gt;As Black, I responded to &lt;code&gt;e4&lt;/code&gt; with the Sicilian Defense, which has been featured in many of my previous games. My opponent played the &lt;a href=&#34;http://en.wikipedia.org/wiki/Nicolas_Rossolimo&#34;&gt;Rossolimo&lt;/a&gt; variation, and I responded with an aggressive if a bit risky continuation:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/wallnau-chen-2012-12-11_files/diag3FEF6640572FE93B.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Rossolimo variation&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;The point is to try to hold on to the two Bishops and the center at the same time. We reached a typical position in which Black is behind in development and has a weaker Pawn structure, but does have the two Bishops:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/wallnau-chen-2012-12-11_files/diag3FEF664483F53C30.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Rossolimo variation&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;the-middle&#34;&gt;The middle&lt;/h3&gt;
+
+&lt;p&gt;My opponent started going astray, conceding equality and then reaching a clearly worse position in which he was the one underdeveloped and I was about to take over the center:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/wallnau-chen-2012-12-11_files/diag3FEF6647612F3696.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;White worse&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;I was very happy at this point, having coming out of the opening with a clear advantage.&lt;/p&gt;
+
+&lt;h4 id=&#34;paradox-of-choice&#34;&gt;Paradox of choice&lt;/h4&gt;
+
+&lt;p&gt;But the stronger my position got, the more anxious and confused I got! I think this is a result of the &lt;a href=&#34;http://en.wikipedia.org/wiki/The_Paradox_of_Choice:_Why_More_Is_Less&#34;&gt;paradox of choice&lt;/a&gt;. So many good moves, so which is best? Life is easier when there is only one clearly best move, with all other candidate moves being obviously bad. To play chess well, it is necessary not only to achieve a good position, but to keep playing correctly enough to follow up and win.&lt;/p&gt;
+
+&lt;p&gt;We reached this position that is just plain good for Black:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/wallnau-chen-2012-12-11_files/diag3FEF664D08FEFBCC.gif&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Now, I could have achieved a very strong position, by trading my bad Bishop on &lt;code&gt;g6&lt;/code&gt; for his Knight on &lt;code&gt;f5&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;But I grew &lt;em&gt;overambitious&lt;/em&gt;: I chose to maintain tension instead of simplifying, waiting for my opponent to weaken his position further, since he had with almost every move since the opening fallen into a worse position.&lt;/p&gt;
+
+&lt;p&gt;In short, I was getting psychologically unbalanced and playing subjectively rather than objectively: I was &lt;em&gt;ignoring&lt;/em&gt; a perfectly good continuation, which I saw and evaluated, because I was &lt;em&gt;hoping&lt;/em&gt; for more.&lt;/p&gt;
+
+&lt;h4 id=&#34;strange-psychology-leading-to-a-winning-position&#34;&gt;Strange psychology leading to a winning position&lt;/h4&gt;
+
+&lt;p&gt;What happened instead was very strange, and does not happen to me often.&lt;/p&gt;
+
+&lt;p&gt;Step one: I played a bad move, &lt;code&gt;Rfe8&lt;/code&gt;, that could have been punished by an equalizing tactical continuation:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/wallnau-chen-2012-12-11_files/diag3FEF6650FDD7BFFE.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Rfe8 bad&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;em&gt;The moment I released my Rook&lt;/em&gt;, I immediately saw that &lt;code&gt;exd5&lt;/code&gt; would regain the Pawn, because Black cannot retake, given the tactical idea of &lt;code&gt;f4&lt;/code&gt; attacking the pinned Black Bishop.&lt;/p&gt;
+
+&lt;p&gt;But he either missed it or wanted to try for more, and played a different move!&lt;/p&gt;
+
+&lt;p&gt;So the psychological game continued. Now that I saw &lt;code&gt;f4&lt;/code&gt;, I played a move designed to encourage my opponent yet again to try &lt;code&gt;f4&lt;/code&gt;, except that this time it would be a bad move. And he fell for it!&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/wallnau-chen-2012-12-11_files/diag3FEF665D144E9B57.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;f4??&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;I calmly retreated my Bishop to &lt;code&gt;f6&lt;/code&gt;, and (correctly) evaluated that I had a won game: it was just a question of how to deliver the final blow.&lt;/p&gt;
+
+&lt;p&gt;My opponent sensed that it was time to try to sacrifice one Pawn to develop his Bishop with &lt;code&gt;Bd2&lt;/code&gt; and hope for a draw:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/wallnau-chen-2012-12-11_files/diag3FEF665F438C2EEE.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Sacrificing b Pawn&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;h4 id=&#34;mentally-falling-apart&#34;&gt;Mentally falling apart&lt;/h4&gt;
+
+&lt;p&gt;Seeing this brazen move that clearly must lose, I simply fell apart psychologically.&lt;/p&gt;
+
+&lt;p&gt;If nothing else, I could just take the free Pawn on &lt;code&gt;b2&lt;/code&gt;, and see what happens next. &lt;strong&gt;There was no way I could lose if I took the Pawn right away&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Instead, I started having all kinds of weird thoughts. I totally lost control of my wandering mind: I sat for &lt;strong&gt;23 minutes&lt;/strong&gt; all confused. There&amp;rsquo;s a saying in chess circles: &amp;ldquo;long think, wrong think&amp;rdquo;, or &amp;ldquo;paralysis by analysis&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;I should have gotten up and taken a little walk outside in the hall to get some oxygen and clear my mind. That probably would have enabled me to continue in the game objectively and calmly.&lt;/p&gt;
+
+&lt;p&gt;Instead, after spending too much time with my mind doing &lt;em&gt;who knows what&lt;/em&gt;, I lost confidence in my ability to calculate, and looked for a way to go into a fully simplified endgame a Pawn up.&lt;/p&gt;
+
+&lt;p&gt;Note: the fastest winning continuation was to trade pieces and push &lt;code&gt;d4&lt;/code&gt;.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/wallnau-chen-2012-12-11_files/diag3FEF6668ECA22D65.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Black winning&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;the-end&#34;&gt;The end&lt;/h3&gt;
+
+&lt;p&gt;The endgame was not even forced. My opponent could have varied anywhere along the way. But miraculously, it turned out that he did in fact play into the exact line I wanted!&lt;/p&gt;
+
+&lt;p&gt;We reached the endgame position I had calculated all along:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/wallnau-chen-2012-12-11_files/diag3FEF667CD3EFA704.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Endgame&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;h4 id=&#34;rejecting-the-pawn-up-unlosable-endgame&#34;&gt;Rejecting the Pawn-up unlosable endgame&lt;/h4&gt;
+
+&lt;p&gt;At this point, I &lt;em&gt;suddenly&lt;/em&gt; changed my plans. I was originally going to trade Rooks and win the &lt;code&gt;b2&lt;/code&gt; Pawn and have a Pawn-up ending in which there was no way to lose, but upon realizing that it was likely drawn, I decided to see if I could find a way to win by keeping the Rooks on the board. I knew it was going to be risky because my King was less active than his King.&lt;/p&gt;
+
+&lt;p&gt;We reached this position:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/wallnau-chen-2012-12-11_files/diag3FEF66801ACC0468.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Rook came down&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;h4 id=&#34;hallucinating-a-win&#34;&gt;Hallucinating a win&lt;/h4&gt;
+
+&lt;p&gt;At this point, I suddenly hallucinated a variation that I thought would result in my Queening a Pawn!!&lt;/p&gt;
+
+&lt;p&gt;It ended with my playing &lt;code&gt;c2&lt;/code&gt; and &lt;strong&gt;grabbing the Black Queen from my opponent&amp;rsquo;s side of the table&lt;/strong&gt;, expecting to Queen my &lt;code&gt;c&lt;/code&gt; Pawn!!&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/wallnau-chen-2012-12-11_files/diag3FEF6682312EADE2.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Hallucination&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;h4 id=&#34;no-more-win-in-a-drawn-position-about-to-lose-the-pawn-back&#34;&gt;No more win in a drawn position, about to lose the Pawn back&lt;/h4&gt;
+
+&lt;p&gt;I was left in shock after my opponent played the obvious &lt;code&gt;Ba3&lt;/code&gt;:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/wallnau-chen-2012-12-11_files/diag3FEF6682CC86E51A.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;No Queening&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;It&amp;rsquo;s not fun realizing that your mental state has deteriorated so much in the past hour that you hallucinated a win that did not exist.&lt;/p&gt;
+
+&lt;h4 id=&#34;accepting-that-it-is-a-draw&#34;&gt;Accepting that it is a draw&lt;/h4&gt;
+
+&lt;p&gt;So I did the right thing: I spent precious time calming down, I acknowledged that it was a draw, and I spent the time (I was starting to get into time pressure, under 10 minutes left on the clock) calculating and deciding on a clear &lt;em&gt;forced&lt;/em&gt; draw, by trading off White&amp;rsquo;s &lt;code&gt;f5&lt;/code&gt; Pawn in order to free my King, and I proceeded as planned:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/wallnau-chen-2012-12-11_files/diag3FEF668415DB8321.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Trying to force a draw&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;If White plays the obvious &lt;code&gt;fxg6&lt;/code&gt;, then the forced line leads to this drawn position I aimed for:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/wallnau-chen-2012-12-11_files/diag3FEF6686BB28EEC5.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Obvious draw&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;h4 id=&#34;getting-swindled&#34;&gt;Getting swindled&lt;/h4&gt;
+
+&lt;p&gt;My opponent cleverly did not play the obvious move, but left his &lt;code&gt;f5&lt;/code&gt; Pawn hanging, playing &lt;code&gt;Kd3&lt;/code&gt;:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/wallnau-chen-2012-12-11_files/diag3FEF6684DCB2D40D.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Swindle&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;I call this a swindle because it is a move that is based on the hope that Black will&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;take the Pawn instead of continuing as planned with the draw variation&lt;/li&gt;
+&lt;li&gt;blunder afterwards and drop all the King side Pawns&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Unfortunately, that is exactly what happened.&lt;/p&gt;
+
+&lt;p&gt;I could have just played &lt;code&gt;Kg7&lt;/code&gt; calmly in order to play &lt;code&gt;Kf6&lt;/code&gt; and &lt;em&gt;force&lt;/em&gt; the same variation I had calculated earlier for a draw.&lt;/p&gt;
+
+&lt;p&gt;Instead, I took the Pawn, sensing that maybe I could &lt;em&gt;win&lt;/em&gt; if my opponent was the one to follow up incorrectly!&lt;/p&gt;
+
+&lt;p&gt;But under increasing time pressure, I started playing mindlessly, and my position got weirder and weirder, even if still drawn:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/wallnau-chen-2012-12-11_files/diag3FEF668D7A977DC7.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;White making progress&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;h4 id=&#34;losing-the-drawn-position&#34;&gt;Losing the drawn position&lt;/h4&gt;
+
+&lt;p&gt;Because of time pressure, I stopped keeping score after this position, which is still drawn:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/wallnau-chen-2012-12-11_files/diag3FEF66916F7041F9.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Drawn position&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;All I had to do was play &lt;code&gt;Bd8&lt;/code&gt; and White can make no more progress.&lt;/p&gt;
+
+&lt;p&gt;But the moment I stopped keeping score was also the moment I stopped thinking about my moves and just played randomly. The rest of the game is not interesting. The final position:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/wallnau-chen-2012-12-11_files/diag3FEF669347AFA22A.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Black resigned&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;h2 id=&#34;lessons-learned&#34;&gt;Lessons learned&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;I made a lot of bad decisions as a result of hallucinated variations and the paradox of choice.&lt;/li&gt;
+&lt;li&gt;Through psychology, I lured my opponent into playing a losing move, &lt;code&gt;f4&lt;/code&gt;, that looked aggressive.&lt;/li&gt;
+&lt;li&gt;Through psychology, he lured me into playing an unnecessary, greedy Pawn capture in the ending when I had already calculated the draw.&lt;/li&gt;
+&lt;li&gt;Unlike in last week&amp;rsquo;s game, this time I was willing, eventually, to accept the draw: I did take the time out to calculate a forced draw and play the beginning of the plan.&lt;/li&gt;
+&lt;li&gt;But too many times in the game, I suddenly changed already correctly calculated plans, without care, simply because of emotion over some possibility. When you have already expended time on a continuation, there may not be enough time to reconsider a completely new continuation.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;priority-mismatch&#34;&gt;Priority mismatch&lt;/h3&gt;
+
+&lt;p&gt;Finally: I have been playing chess without my full mental faculties because of other things going on in my life; my two losses in the past two weeks display my weakened state. In fact, I played this chess game while missing a music rehearsal I could have gone to, and given that in the long run, I am committed to music as being of higher priority than chess, I played this game with an unbalanced, partially resentful mind.&lt;/p&gt;
+
+&lt;p&gt;I had to miss the final Tuesday &lt;a href=&#34;../../blog/2012/11/24/preparing-to-play-irish-flute-in-the-holiday-ball/&#34;&gt;rehearsal for the Holiday Ball for Friday&lt;/a&gt;. I mentioned two weeks ago deliberately missing a Pittsburgh Chess League match game &lt;a href=&#34;../../blog/2012/12/02/oblivion-obsession-time-to-start-playing-melodica/&#34;&gt;in order to attend the first rehearsal&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;When my actions are in conflict with my real priorities, something goes wrong. I now believe that as soon as I knew the schedule for the Holiday Ball rehearsals, I should have asked the tournament director for a bye for this round. I learned the schedule on November 26, so on Tuesday the 27th, when I played in &lt;a href=&#34;../../blog/2012/11/27/round-3-of-pittsburgh-chess-club-tournament-the-difficult-opponent-and-revenge-of-the-bishop/&#34;&gt;round 3&lt;/a&gt;, I could have asked for a bye for round 5, just as in the last Tuesday night tournament, I asked for a &lt;a href=&#34;../../blog/2012/10/02/round-4-of-pittsburgh-chess-club-tournament-on-benoni-emasculation-and-learning/&#34;&gt;bye at the start for round 4&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Also, I am in the middle of trying to finish an online &lt;a href=&#34;http://www.coursera.com/&#34;&gt;Coursera&lt;/a&gt; course right now. The final project is due Sunday.&lt;/p&gt;
+
+&lt;p&gt;In other words, I should not play a chess tournament game if my heart is not totally in it, and I have too many other things I need to do.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-next&#34;&gt;What next?&lt;/h2&gt;
+
+&lt;p&gt;I will finish out the tournament with round 6 next week. My musical activities will be winding down this weekend, and my online course, so I should be mentally free on Tuesday.&lt;/p&gt;
+
+&lt;p&gt;Obviously, I have no chance at coming in first place in this tournament, or even second, I believe, but I would like to finish this tournament with honor, with a well-played game.&lt;/p&gt;
+
+&lt;p&gt;Then I need to evaluate what my commitments are going to be during the time period of the next Tuesday night tournament, the annual Pittsburgh Chess Club Championship held in January-February. Because if I&amp;rsquo;m going to be busy with higher-priority activities, it is probably best not to play any more at all! I have taken breaks from chess before when too busy to really enjoy it.&lt;/p&gt;
+
+&lt;p&gt;I am definitely planning to finish out the season of the Pittsburgh Chess League, by playing in the winter and spring, because it is a lesser commitment (one Sunday a month). It is the weekly Tuesday night tournaments that are quite a big challenge to complete.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;I had a tense chess game in which I played bizarrely at various points. I congratulate my opponent for hanging in there during a game in which he was mostly on the defensive, and pouncing when I made errors. I&amp;rsquo;ve tried to explain the poor thought processes that led to my uneven play, and also place my chess experiences in context of other things in my life.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Round 1 of Pittsburgh Chess Club tournament: revenge of the Knight</title>
+      <link>http://franklinchen.com/blog/2012/11/13/round-1-of-pittsburgh-chess-club-tournament-revenge-of-the-knight/</link>
+      <pubDate>Tue, 13 Nov 2012 23:07:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/11/13/round-1-of-pittsburgh-chess-club-tournament-revenge-of-the-knight/</guid>
+      <description>&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/sax-chen-2012-11-13_files/round1.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Panoramic view of round 1&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;So I started another &lt;a href=&#34;http://pittsburghcc.org/&#34;&gt;Pittsburgh Chess Club&lt;/a&gt; 6-round Tuesday night tournament, the 16th Robert P. Smith Memorial. (I reported on my previous Tuesday night tournament &lt;a href=&#34;../../blog/2012/10/09/final-round-of-pittsburgh-chess-club-tournament-clawing-back-from-a-terrible-position-to-draw-and-tie-for-first/&#34;&gt;here&lt;/a&gt;.)&lt;/p&gt;
+
+&lt;h2 id=&#34;today-s-lesson&#34;&gt;Today&amp;rsquo;s lesson&lt;/h2&gt;
+
+&lt;p&gt;In my game for round 1, we see the power of a good Knight, especially in contrast to a bad Bishop.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-complete-annotated-game&#34;&gt;The complete annotated game&lt;/h2&gt;
+
+&lt;p&gt;At your convenience, you can &lt;a href=&#34;../../chess/sax-chen-2012-11-13.htm&#34;&gt;enjoy playing over the game with my annotations, including diagrams.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;preparation&#34;&gt;Preparation&lt;/h2&gt;
+
+&lt;p&gt;Since this was round 1, there was no telling in advance who my opponent would be. So I had no preparation other than just having played a &lt;a href=&#34;../../blog/2012/11/11/pittsburgh-chess-league-round-3-back-to-chess-after-a-month-off/&#34;&gt;Pittsburgh Chess League game on Sunday&lt;/a&gt;. Surprisingly, that experience did prove useful in my game, as I will explain.&lt;/p&gt;
+
+&lt;h3 id=&#34;strength&#34;&gt;Strength&lt;/h3&gt;
+
+&lt;p&gt;I expected to be the highest-rated player in the tournament again, &lt;a href=&#34;../../blog/2012/09/04/round-1-of-the-pittsburgh-chess-club-tournament-the-greek-gift-sacrifice/&#34;&gt;as in the last one&lt;/a&gt;, so I expected that round 1 would pair me against someone considerably lower-rated than me. As usual, however, I &lt;em&gt;respect&lt;/em&gt; all of my opponents, regardless of rating. Upsets do happen, especially when one does not take an opponent seriously.&lt;/p&gt;
+
+&lt;p&gt;It turned out that I was paired against someone I had never actually met before, much less played against. I enjoyed this situation, as it meant &lt;em&gt;unpredictability&lt;/em&gt;. There is something to be said for the pleasures of refining one&amp;rsquo;s way of playing against an opponent one has faced before, but there is also something to be said for totally real-time improvisation.&lt;/p&gt;
+
+&lt;p&gt;The game ended up long, taking over three hours to complete. It wasn&amp;rsquo;t just a quick and easy win, despite my opponent being 500 rating points lower than me.&lt;/p&gt;
+
+&lt;h2 id=&#34;overview-of-my-game&#34;&gt;Overview of my game&lt;/h2&gt;
+
+&lt;h3 id=&#34;the-opening&#34;&gt;The opening&lt;/h3&gt;
+
+&lt;p&gt;As I had Black, I was of course much more limited in my choice of opening than I am as White. As I did in &lt;a href=&#34;../../blog/2012/09/12/round-2-of-the-pittsburgh-chess-club-tournament-winning-in-the-sicilian-defense-the-philosophy-and-psychology-of-struggle/&#34;&gt;round 2 of the previous tournament&lt;/a&gt;, I countered &lt;code&gt;e4&lt;/code&gt; with the aggressive Sicilian Defense.&lt;/p&gt;
+
+&lt;p&gt;My opponent played the &lt;a href=&#34;http://en.wikipedia.org/wiki/Grand_Prix_Attack#Grand_Prix_Attack&#34;&gt;Grand Prix Attack&lt;/a&gt;. White&amp;rsquo;s goal in this variation is to focus on launching a King side attack against Black, by playing an early &lt;code&gt;f4&lt;/code&gt;, with the plan of eventually playing &lt;code&gt;f5&lt;/code&gt;, bringing the White Queen to &lt;code&gt;e1&lt;/code&gt; and &lt;code&gt;h4&lt;/code&gt;, etc. This attack often works effectively on weaker players, but objectively, Black can defend against it.&lt;/p&gt;
+
+&lt;p&gt;He chose an unusual sub-variation I had not seen before, &lt;code&gt;Bd3&lt;/code&gt;, after which I made a positionally rather risky decision that I would not make again, but just happened to feel like engaging in at the time: I decided to develop my King Knight not to a &amp;ldquo;normal&amp;rdquo; square such as &lt;code&gt;f6&lt;/code&gt;, but to the &amp;ldquo;rim&amp;rdquo; at &lt;code&gt;h6&lt;/code&gt; instead:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/sax-chen-2012-11-13_files/diag3FEEA2EBE9513819.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Knight on h6&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;My justification was that I wanted the option of playing my own attack with &lt;code&gt;f5&lt;/code&gt;. I was in the mood for dynamic complications rather than a more sedate middle game:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/sax-chen-2012-11-13_files/diag3FEEA2FCBB78288F.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;After f5&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;the-middle&#34;&gt;The middle&lt;/h3&gt;
+
+&lt;p&gt;White made a strategic mistake in allowing my Knight on &lt;code&gt;h6&lt;/code&gt; to get to a great outpost on &lt;code&gt;f5&lt;/code&gt;:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/sax-chen-2012-11-13_files/diag3FEEA315583EFCC5.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Knight on f5&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;The position was still roughly equal at this point, but gradually White made more inaccurate moves, ceding an advantage to me. In fact, by the position, I already had a won game (but missed the best continuation):&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/sax-chen-2012-11-13_files/diag3FEEA375BB2E5EA8.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;White is actually lost&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Note how poor White&amp;rsquo;s Bishop on &lt;code&gt;d2&lt;/code&gt; is, while Black&amp;rsquo;s Knight on &lt;code&gt;f5&lt;/code&gt; is clearly the strongest of all the remaining minor pieces (four Bishops and two Knights).&lt;/p&gt;
+
+&lt;p&gt;In the following position, I have just played the Pawn advance &lt;code&gt;e4&lt;/code&gt;:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/sax-chen-2012-11-13_files/diag3FEEA39EC079C057.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;e4 advance by Black&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;the-good-knight&#34;&gt;The good Knight&lt;/h3&gt;
+
+&lt;p&gt;Perhaps White had thought that I would play &lt;code&gt;Ne3&lt;/code&gt; trading my Knight for White&amp;rsquo;s Bishop on &lt;code&gt;d2&lt;/code&gt;. No! I was not going to make the mistake again of thoughtlessly trading a good Knight for a bad Bishop, the way &lt;a href=&#34;../../blog/2012/11/11/pittsburgh-chess-league-round-3-back-to-chess-after-a-month-off/&#34;&gt;I just reported on doing so on Sunday&lt;/a&gt;! Both common sense and tactical calculation rebel against such an idea.&lt;/p&gt;
+
+&lt;p&gt;In fact, in the game I proceeded to make White&amp;rsquo;s bad Bishop even worse:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/sax-chen-2012-11-13_files/diag3FEEA3B5152816D7.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;White&amp;#39;s Bishop back on c1&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;h2 id=&#34;the-end&#34;&gt;The end&lt;/h2&gt;
+
+&lt;p&gt;In the final blow in the game, I set a trap, offering White a &amp;ldquo;free&amp;rdquo; Pawn, which he mistakenly took (but I had a completely won position anyway; this is not &amp;ldquo;hope chess&amp;rdquo; where an idea only works if you hope your opponent falls into a trap). I moved the Knight from &lt;code&gt;f5&lt;/code&gt; to &lt;code&gt;d6&lt;/code&gt;, not only threatening White&amp;rsquo;s Rook, but also with the intention of redeploying the Knight to &lt;code&gt;e4&lt;/code&gt; and then &lt;code&gt;f2&lt;/code&gt;. And I did so.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/sax-chen-2012-11-13_files/diag3FEEA3CB57323DC1.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;White&amp;#39;s Rook threatened and trap set&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/sax-chen-2012-11-13_files/diag3FEEA3CFED99F3B3.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;White&amp;#39;s Rook trapped&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;White struggled on for a few more bizarre moves before resigning:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/sax-chen-2012-11-13_files/diag3FEEA3E9E022DAFE.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;White resigned&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;h2 id=&#34;lessons-learned&#34;&gt;Lessons learned&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Because of my game on Sunday (and reflections on previous games before that), I was very conscious of the power of the Knight and wanted to use it well.&lt;/li&gt;
+&lt;li&gt;My anti-positional &lt;code&gt;f5&lt;/code&gt; idea &amp;ldquo;worked&amp;rdquo;, and created an interesting position and middle game out of which I did well, but I feel guilty about having played this milder version of &amp;ldquo;hope chess&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;Sometimes it&amp;rsquo;s not clear to a bystander how much thought actually goes into a &lt;em&gt;sound&lt;/em&gt; attack, because the vast majority of calculations during an attack inevitably go into thinking about possible continuations that &lt;em&gt;never happen&lt;/em&gt; during the game, but must be evaluated in case they do happen. (See the annotations for some details of the alternative lines that did not happen.)&lt;/li&gt;
+&lt;li&gt;I did miss a faster, more immediate win (see the annotations for details); this is something I sometimes do when I have a clear advantage and end up with a little bit of tunnel vision in which I initially see &lt;em&gt;too many&lt;/em&gt; good moves, and instead of investigating them all thoroughly, I investigate one, decide it is good, and then go with it. How to zoom in more effectively is an ongoing problem to solve.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;what-next&#34;&gt;What next?&lt;/h2&gt;
+
+&lt;p&gt;Next week for round 2 I will get a stronger opponent, but play White. For reasons I&amp;rsquo;ll explain after the fact, I&amp;rsquo;m thinking of playing completely differently with White than I have in the past Tuesday night tournament and in the Pittsburgh Chess League so far! Stay tuned. I want to explore some themes so that I can write about them.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;I got off to a good start in the Tuesday night tournament with an interesting game in which I played a fairly precise attack. And I was happy, after abusing my Knight in Sunday&amp;rsquo;s game, to make my Knight the hero of the first Tuesday night round. I must remember to love each of my pieces in each game I play.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Round 5 of Pittsburgh Chess Club Tournament: On Benoni &#34;Emasculation&#34; and Learning</title>
+      <link>http://franklinchen.com/blog/2012/10/02/round-4-of-pittsburgh-chess-club-tournament-on-benoni-emasculation-and-learning/</link>
+      <pubDate>Tue, 02 Oct 2012 21:35:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/10/02/round-4-of-pittsburgh-chess-club-tournament-on-benoni-emasculation-and-learning/</guid>
+      <description>&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/mirra-chen-2012-10-02_files/diag3FECB4B6781E764C.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;White in reverse Benoni being crushed&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Tonight was the fifth (and penultimate) round of the current six-round Tuesday night tournament at the &lt;a href=&#34;http://pittsburghcc.org/&#34;&gt;Pittsburgh Chess Club&lt;/a&gt;, the 14th Fred Sorensen Memorial. I last reported on the &lt;a href=&#34;../../blog/2012/09/19/round-3-of-pittsburgh-chess-club-tournament-another-approach-against-the-sicilian-squeezing-with-the-bind/&#34;&gt;third round&lt;/a&gt;, rather than the fourth round, because as I &lt;a href=&#34;../../blog/2012/08/29/returning-to-chess/&#34;&gt;mentioned in August upon signing up for the tournament&lt;/a&gt;, I took a bye for the fourth round because of a schedule conflict with a &lt;a href=&#34;http://www.pghtech.org/networks/PittJug/events.aspx&#34;&gt;Pittsburgh Java User Group&lt;/a&gt; meeting that I wanted to attend.&lt;/p&gt;
+
+&lt;p&gt;Thankfully, I came back for the fifth round finding that I was still tied for first, despite taking a half point bye in the fourth round, because nobody else had a perfect score after four rounds either.&lt;/p&gt;
+
+&lt;p&gt;The game tonight ended up one-sided; right after he resigned, he called it an &amp;ldquo;emasculation&amp;rdquo; (I won fairly quickly, in less than two hours). However:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;the unfolding of the game provides what I think is a nice illustration of how to win thematically against a Benoni opening structure&lt;/li&gt;
+&lt;li&gt;my opponent and I had a good discussion, after the game, about learning and improvement&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-complete-annotated-game&#34;&gt;The complete annotated game&lt;/h2&gt;
+
+&lt;p&gt;At your convenience, you can &lt;a href=&#34;../../chess/mirra-chen-2012-10-02.htm&#34;&gt;enjoy playing over the game with my annotations, including diagrams.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-paradox-of-choice-how-to-play-against-the-english-opening-as-black&#34;&gt;The paradox of choice: how to play against the English Opening as Black?&lt;/h2&gt;
+
+&lt;p&gt;I learned some days before tonight&amp;rsquo;s game that my opponent and I were going to be paired. Based on my memory, and my database of games, I expected my opponent to play the &lt;a href=&#34;http://en.wikipedia.org/wiki/English_Opening&#34;&gt;English Opening&lt;/a&gt;. In our last game, in 2010, he had played the English. I planned to avoid the variation that I had played then, because of course he would be prepared for it.&lt;/p&gt;
+
+&lt;h3 id=&#34;reverse-sicilian&#34;&gt;Reverse Sicilian?&lt;/h3&gt;
+
+&lt;p&gt;I have a confession to make: in the past, I hated facing the English Opening as Black. It&amp;rsquo;s the &lt;a href=&#34;http://en.wikipedia.org/wiki/The_Paradox_of_Choice:_Why_More_Is_Less&#34;&gt;paradox of choice&lt;/a&gt;: there are so many different ways to play against it. It is not a forcing, direct opening the way &lt;code&gt;1 e4&lt;/code&gt; and &lt;code&gt;1 d4&lt;/code&gt; are. In its purest form, in fact, it is a psychological trick, an attempt to play a &lt;a href=&#34;../../categories/sicilian-defense/&#34;&gt;Sicilian Defense&lt;/a&gt; in reverse, but with an extra move, if Black takes up the challenge of playing &lt;code&gt;1... e5&lt;/code&gt;. That extra move makes a huge difference, both objectively and psychologically, in the kinds of positions and evaluations that can arise, as noted English Opening theoretician &lt;a href=&#34;http://www.amazon.com/Mastering-Chess-Openings-John-Watson/dp/1904600980&#34;&gt;John Watson&lt;/a&gt; has brilliantly explained. Roughly, it&amp;rsquo;s like playing the Sicilian Defense but getting an extra punch in before the fight starts.&lt;/p&gt;
+
+&lt;p&gt;In my 2010 game against my opponent, I in fact took up the challenge as Black and went into an aggressive reversed Sicilian variation, one tempo down: I played the Rubinstein Variation, which is exactly the &lt;a href=&#34;../../blog/2012/09/19/round-3-of-pittsburgh-chess-club-tournament-another-approach-against-the-sicilian-squeezing-with-the-bind/&#34;&gt;Maróczy Bind&lt;/a&gt; in reverse. This is very risky, and although I won that game, I have also lost playing it. I do not play that kind of reversed Sicilian any more.&lt;/p&gt;
+
+&lt;h3 id=&#34;alternatives&#34;&gt;Alternatives&lt;/h3&gt;
+
+&lt;p&gt;There are many, many alternatives to playing for a reverse Sicilian as Black. Tonight I chose to aim to fight for the &lt;code&gt;d5&lt;/code&gt; square, to play to occupy the center and Queen side.&lt;/p&gt;
+
+&lt;h2 id=&#34;overview-of-my-game&#34;&gt;Overview of my game&lt;/h2&gt;
+
+&lt;h3 id=&#34;the-opening&#34;&gt;The opening&lt;/h3&gt;
+
+&lt;p&gt;As expected, my opponent played &lt;code&gt;1 c4&lt;/code&gt;, the English Opening. After some more moves, it turned out that my opponent allowed me to play a reversed &lt;a href=&#34;http://en.wikipedia.org/wiki/Benoni_Defense&#34;&gt;Benoni&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Again, there are dangers in playing reversed openings, in which Black takes the aggressive role White ordinarily takes but with a tempo down, but in this case, because of a positional subtlety, I was allowed to play a good version of the reversed Benoni as Black:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/mirra-chen-2012-10-02_files/diag3FECB4B2327E393B.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;A good reversed Benoni for Black&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;The problem for White is that he used his extra moves to play &lt;code&gt;b3&lt;/code&gt; and &lt;code&gt;Bb2&lt;/code&gt;, but now the Bishop is blocked up and is misplaced. This is an example of what proponents of the Black pieces such as John Watson and &lt;a href=&#34;http://en.wikipedia.org/wiki/Andr%C3%A1s_Adorj%C3%A1n&#34;&gt;András Adorján&lt;/a&gt; have observed about the subtleties of having extra moves: sometimes they are committal and do not help the side which has them!&lt;/p&gt;
+
+&lt;h4 id=&#34;concepts-of-the-benoni&#34;&gt;Concepts of the Benoni&lt;/h4&gt;
+
+&lt;p&gt;For those who are not very familiar with the Benoni as a chess opening, here is an overview of the goals of the two sides, which I&amp;rsquo;ll call the &lt;em&gt;attacker&lt;/em&gt; and the &lt;em&gt;counter-attacker&lt;/em&gt; (in the regular Benoni, these are White and Black, respectively, and in the reversed Benoni, these are Black and White, respectively).&lt;/p&gt;
+
+&lt;p&gt;Note that I don&amp;rsquo;t mention a role &lt;em&gt;defender&lt;/em&gt; here, because this opening is so sharp and aggressive for both sides that really, both sides are simultaneously attacking and defending for their lives. This opening is not for the faint-hearted for either side! It is a &amp;ldquo;kill or be killed&amp;rdquo; type of opening. I have played the Benoni on both sides, and both killed and been killed. (Most recently, I &lt;a href=&#34;../../blog/2012/05/31/some-pretty-attacking-chess-at-a-party-last-weekend/&#34;&gt;played the counter-attacking role against a boy in a casual game&lt;/a&gt; and broke through quickly.)&lt;/p&gt;
+
+&lt;p&gt;The &lt;em&gt;attacker&lt;/em&gt; has more space, has a center pawn wedge thrust into the innards of the counter-attacker&amp;rsquo;s position, and aims to squeeze the counter-attacker to death, preventing Queen side counterplay, while preparing to blast through at the tip of the pawn wedge.&lt;/p&gt;
+
+&lt;p&gt;The &lt;em&gt;counter-attacker&lt;/em&gt; has less space, and hopes to launch a flank attack on the back end of the attacker&amp;rsquo;s pawn wedge and destroy the attacker&amp;rsquo;s center, coming around the attacker&amp;rsquo;s weakened Queen side to swarm in that way.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-middle&#34;&gt;The middle&lt;/h3&gt;
+
+&lt;p&gt;The game tonight had the counter-attacker never getting Queen side counterplay off the ground, while the attacker (Black) broke through without resistance in the center: note that Black has played &lt;code&gt;e4&lt;/code&gt; successfully and White&amp;rsquo;s thematic &lt;code&gt;b4&lt;/code&gt; is nowhere near possible.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/mirra-chen-2012-10-02_files/diag3FECB4B5607FAC81.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;e pawn advance against the Benoni&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;the-end&#34;&gt;The end&lt;/h3&gt;
+
+&lt;p&gt;There was no real end game to speak of, since by the time Queens came off the board, the game was lost for White.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/mirra-chen-2012-10-02_files/diag3FECB4B9B8C41929.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Queens are off, but game is over&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;h2 id=&#34;discussion-with-my-opponent&#34;&gt;Discussion with my opponent&lt;/h2&gt;
+
+&lt;p&gt;After the game, my opponent and I discussed the errors that he made during the game: I considered that allowing the reverse Benoni after &lt;code&gt;b3&lt;/code&gt; and &lt;code&gt;Bb2&lt;/code&gt; was an error, and then after that, failing to prevent e4 with Nd2 was an error.&lt;/p&gt;
+
+&lt;h3 id=&#34;study&#34;&gt;Study&lt;/h3&gt;
+
+&lt;p&gt;He noted that he had prepared for our game by studying our game in 2010 and had improved his understanding of the opening variation we had played then, but I told him that I, too, had looked at the game, and never planned to walk into his preparation. He said that he had every confidence that if I had played the same opening variation, I would have done my homework also, to improve what I did last time. He said he respected that even against a weaker player such as himself, he trusted that I would not play an opening I considered inferior or unsound &lt;em&gt;just because I could get away it&lt;/em&gt;. I really appreciated this comment and statement of trust, because in fact this is my current serious attitude. In a blitz game, I might play around, but in a serious tournament game, I will no longer play &amp;ldquo;junk&amp;rdquo;. &lt;em&gt;This was not always the case&lt;/em&gt;. In fact, in one of our earliest games, years ago, I had played junk against him and won, but not felt happy about doing that.&lt;/p&gt;
+
+&lt;h3 id=&#34;learning&#34;&gt;Learning&lt;/h3&gt;
+
+&lt;p&gt;I congratulated him for doing his homework, and having improved so much in the past couple of years, and he said he learns from his mistakes. Bravo! I have no doubt that he will study the opening we played today and be ready in the future not just for me, but anyone who plays how I did today. Some people make the mistake, during these Tuesday night tournaments in which we face the same people repeatedly, of preparing one-shot ideas against specific opponents, but what we really want to do (and what he does and what I do) is use these rematches as excuses to improve our &lt;em&gt;general&lt;/em&gt; knowledge and skill.&lt;/p&gt;
+
+&lt;p&gt;My opponent said, before we parted tonight, &amp;ldquo;I don&amp;rsquo;t learn from my wins. I learn from my losses.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;I would amend that remark, however. I try to learn from my wins as well. Just because I won this game doesn&amp;rsquo;t mean I haven&amp;rsquo;t gone and analyzed &lt;em&gt;where I could have won even faster&lt;/em&gt; or &lt;em&gt;possible good moves he could have made that I overlooked&lt;/em&gt;. Every game that I play, whether I win or lose, I want to learn something from. I have won games in which I played horribly and didn&amp;rsquo;t see anything and only won because my opponent saw less. I&amp;rsquo;m not satisfied with just &lt;em&gt;seeing more than someone else&lt;/em&gt;; I actually want &lt;em&gt;to see the naked truth&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-next&#34;&gt;What next?&lt;/h2&gt;
+
+&lt;p&gt;Next Tuesday is the last round of the six-round tournament. I am now the undisputed leader for first, meaning that if I draw next week, I am guaranteed at least a tie for first prize; if I win, I get clear first prize.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;None of that really matters to me&lt;/em&gt;. I&amp;rsquo;m in this to play as well as I can, enjoy the art, enjoy the sport, and to write up everything I learn along the way, whether I win, draw, or lose. I am, of course, grateful that I have been winning.&lt;/p&gt;
+
+&lt;h3 id=&#34;update-of-2012-10-07&#34;&gt;(Update of 2012-10-07)&lt;/h3&gt;
+
+&lt;p&gt;Oops, it turns out that I was wrong in figuring that I was the undisputed leader for first going into the final round: in fact, someone took a bye in the fifth round after a perfect score in the first four rounds, so he and I are tied for first going into the final round, and in fact, we are playing each other on Tuesday. So if I draw, that only guarantees that we split first prize. I need to win in order to get clear first prize.&lt;/p&gt;
+
+&lt;p&gt;I am, of course, playing for a win. For better or for worse, &lt;strong&gt;I have never played for a draw in my life, against anyone, even a Grandmaster.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Tonight I got a chance to play an opening, reverse Benoni, that I haven&amp;rsquo;t played for some time in a tournament, and I won the game through clear, thematic moves. In addition, we had a pleasant discussion after the game, and I look forward to seeing him play better in this opening in the future, and I too will refine my play in it.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Round 3 of Pittsburgh Chess Club tournament: another approach against the Sicilian: squeezing with the Bind</title>
+      <link>http://franklinchen.com/blog/2012/09/19/round-3-of-pittsburgh-chess-club-tournament-another-approach-against-the-sicilian-squeezing-with-the-bind/</link>
+      <pubDate>Wed, 19 Sep 2012 07:46:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/09/19/round-3-of-pittsburgh-chess-club-tournament-another-approach-against-the-sicilian-squeezing-with-the-bind/</guid>
+      <description>&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/14th-fred-sorensen-memorial/round-3.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Third round&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Yesterday was the third round of the current six-round Tuesday night tournament at the &lt;a href=&#34;http://pittsburghcc.org/&#34;&gt;Pittsburgh Chess Club&lt;/a&gt;, the 14th Fred Sorensen Memorial.&lt;/p&gt;
+
+&lt;p&gt;Every round has gotten tougher and tougher, as it should because winners get paired against each other. This week I was White against a youthful opponent who was, like me, an Expert in rating (his current rating is 2034, while mine is 2110). I expected an intense struggle, and there was one. Our game was the second to last to finish, taking just over four hours to complete, going all the way to the endgame.&lt;/p&gt;
+
+&lt;p&gt;In this post, I discuss&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;White fighting against the Sicilian in a different way from how I have discussed earlier&lt;/li&gt;
+&lt;li&gt;the reasons for certain inaccuracies in the game that made it longer than it could have been&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;playing-the-sicilian-as-white&#34;&gt;Playing the Sicilian as White&lt;/h2&gt;
+
+&lt;p&gt;In my post about my game in the second round, I discussed &lt;a href=&#34;../../blog/2012/09/12/round-2-of-the-pittsburgh-chess-club-tournament-winning-in-the-sicilian-defense-the-philosophy-and-psychology-of-struggle/&#34;&gt;some philosophical and psychological ideas behind playing the Sicilian as either color&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I have also written about one way of playing White in the Sicilian, aiming for quick development and a &lt;a href=&#34;../../blog/2012/09/15/deja-vu-in-chess-recognize-this-sicilian-pattern/&#34;&gt;direct attack on Black&amp;rsquo;s King&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-slow-approach&#34;&gt;The slow approach&lt;/h3&gt;
+
+&lt;p&gt;Yesterday, I played White in the Sicilian, but in a very different style: the slow, &amp;ldquo;positional&amp;rdquo; style of the &lt;a href=&#34;http://en.wikipedia.org/wiki/Mar%C3%B3czy_Bind&#34;&gt;Maróczy Bind&lt;/a&gt;. I was using a bit of psychology, entering the game with the intention of playing a space-gaining type of game to squeeze my opponent to death. I had never played my opponent before, but based on general experience, like to use a squeeze when facing younger opponents rather than a direct attack on the King.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/chen-ahlborg-2012-09-18_files/diag3FA8F84867B77F6E.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Maróczy Bind&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;The point of the Bind is to gain space using the &lt;code&gt;c4&lt;/code&gt; and &lt;code&gt;e4&lt;/code&gt; Pawns, and start off the game really just defending these Pawns and the &lt;code&gt;d4&lt;/code&gt; square, and preventing Black from gaining counterplay. The plan then is to complete development and fortifying the position, and only after that begin some kind of attack on Black, whether on the Queen side, center, or King side, depending on the concrete direction of the game.&lt;/p&gt;
+
+&lt;p&gt;Black&amp;rsquo;s task against the Bind is to relieve pressure through exchanging minor pieces and taking advantage of holes in White&amp;rsquo;s position by maneuvers to establish outposts and then engage in counterplay, usually on the Queen side but sometimes also in the center or even King side.&lt;/p&gt;
+
+&lt;h2 id=&#34;a-note-on-generalism-in-chess&#34;&gt;A note on generalism in chess&lt;/h2&gt;
+
+&lt;p&gt;I am happy to play in a variety of different styles in chess, in different openings. There was a time when I preferred to be a &lt;em&gt;specialist&lt;/em&gt;, but in the end, I found it more fun and effective, personally, to be a &lt;em&gt;generalist&lt;/em&gt;. I think today, especially, when people have access to databases of games and computer-aided analysis of forcing tactical lines, generalism and unpredictability are actually assets.&lt;/p&gt;
+
+&lt;p&gt;For example, I am aware that every time I annotate one of my games here online, I am providing research material for any future opponents of mine. So be it. You can be sure that I will never play exactly the same way as I have just played recently!&lt;/p&gt;
+
+&lt;h2 id=&#34;overview-of-my-game&#34;&gt;Overview of my game&lt;/h2&gt;
+
+&lt;h3 id=&#34;the-opening&#34;&gt;The opening&lt;/h3&gt;
+
+&lt;p&gt;The game didn&amp;rsquo;t even originally start out as a Sicilian. It started out with what I expected was going to become a &lt;a href=&#34;http://en.wikipedia.org/wiki/King&#39;s_Indian_Defence&#34;&gt;King&amp;rsquo;s Indian Defense&lt;/a&gt;, but my opponent refused to comply, and transposed into the Maróczy Bind of the Accelerated Dragon of the Sicilian Defense instead.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-middle&#34;&gt;The middle&lt;/h3&gt;
+
+&lt;p&gt;At a critical point near the end of the opening phase, I chose a less familiar, more aggressive continuation than what most people play (and what my opponent expected). My opponent fell in with my plans and allowed me to achieve what I considered a pleasant Bind on his position.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/chen-ahlborg-2012-09-18_files/diag3FA8F875D7EB7D5A.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Maróczy Bind in action&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;To my surprise, instead of letting me continue the slow strangle, my opponent responded violently with an interesting Pawn sacrifice to open up the position. However, he tried to hard to not make it a sacrifice, and to regain the Pawn, but that resulted in my keeping the Pawn anyway and also smashing into his King side. I pressed on with the attack, and quickly achieved a winning position by force.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/chen-ahlborg-2012-09-18_files/diag3FA8F8B20A1A7CCB.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Winning attack&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;But then I strangely faltered, losing mental energy. In retrospect it is hard to see how I missed what I missed, but sometimes that happens. I had not budgeted my energy expenditure well during the game: I spent a lot of energy playing almost perfectly, like a computer, earlier in the game, to achieve the won position, and then once I achieved the won position, I somehow relaxed and got careless.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-end&#34;&gt;The end&lt;/h3&gt;
+
+&lt;p&gt;I played what I thought was the winning move, and expected resignation, when all of a sudden I noticed that I missed a single move by Black, a move that completely altered the nature of the position. I even momentarily thought I might be losing!!&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/chen-ahlborg-2012-09-18_files/diag3FA8F90A3290DD6A.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Queen checks&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;I regrouped and saw that I was not losing, but Black could simplify into an endgame one Pawn down that might be good enough for a draw. I had a possible winning plan in case Black entered into this endgame and was prepared to fight it out.&lt;/p&gt;
+
+&lt;p&gt;But then it was Black&amp;rsquo;s turn to falter badly, and he chose not to enter the endgame, but this resulted in my winning by means of a threat against his King. The only way for Black to stop checkmate was to enter a worse endgame, a King and Pawn endgame that was hopeless. I marched my &lt;code&gt;a&lt;/code&gt; Pawn toward its Queening square and he resigned. What an end to the game!&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/chen-ahlborg-2012-09-18_files/diag3FD4A5619D8204E9.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Final position&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;h2 id=&#34;the-complete-annotated-game&#34;&gt;The complete annotated game&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;../../chess/chen-ahlborg-2012-09-18.htm&#34;&gt;Enjoy playing over the game with my annotations, including diagrams!&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Yesterday&amp;rsquo;s game was an intense and long. The ups and downs reflect human fallibility as well as ingenuity. After a good deal of accurate and forcing play, I almost let a win slip away, but my opponent erred and I managed to win after all. Chess reminds me again and again that even when the game is almost over, you cannot get careless and let up on the pressure until the game really is over.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Déja vu in chess: recognize this Sicilian pattern?</title>
+      <link>http://franklinchen.com/blog/2012/09/15/deja-vu-in-chess-recognize-this-sicilian-pattern/</link>
+      <pubDate>Sat, 15 Sep 2012 21:01:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/09/15/deja-vu-in-chess-recognize-this-sicilian-pattern/</guid>
+      <description>&lt;p&gt;Just a couple of days ago I wrote about &lt;a href=&#34;../../blog/2012/09/12/round-2-of-the-pittsburgh-chess-club-tournament-winning-in-the-sicilian-defense-the-philosophy-and-psychology-of-struggle/&#34;&gt;playing the Sicilian Defense in chess&lt;/a&gt;. I noted how I play both sides of the Sicilian Defense: I enjoy the fight both as White and as Black.&lt;/p&gt;
+
+&lt;p&gt;Tonight I stopped by the &lt;a href=&#34;http://pittsburghcc.org/&#34;&gt;Pittsburgh Chess Club&lt;/a&gt; briefly, and played four quick blitz games for fun. One of them was one of my shortest blitz games ever. I think it lasted no more than &lt;em&gt;thirty seconds&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;How did that come about?&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/sicilian-f7_files/diag3FEBC9EEA07BFC02.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Black resigned, 2012&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;patterns&#34;&gt;Patterns&lt;/h2&gt;
+
+&lt;p&gt;Back in the 1960s, the psychologist and chess master &lt;a href=&#34;http://en.wikipedia.org/wiki/Adriaan_de_Groot&#34;&gt;Adrian de Groot&lt;/a&gt; famously did research on how expert chess players differ from novice and intermediate chess players in their thought processes. In the end, he found that recognizing and using patterns was one of the key differences: it was not so much that experts could calculate much faster and deeper, but that they could recognize patterns and hone in on relevant features to investigate further during a game.&lt;/p&gt;
+
+&lt;p&gt;Most of us who play at a chess club at all are at a high enough level that we use and recognize patterns called &lt;a href=&#34;http://en.wikipedia.org/wiki/Chess_opening&#34;&gt;chess openings&lt;/a&gt;. Earlier this week I wrote about a particular chess opening, the Sicilian Defense.&lt;/p&gt;
+
+&lt;p&gt;The reason we can play entire chess games in &amp;ldquo;blitz&amp;rdquo; fashion (with under 5 minutes per game for each side, usually, but sometimes players agree to play under 10 minutes or 3 minutes or even just 1 minute, which I sometimes enjoy doing) is because we can rely a lot on pattern matching.&lt;/p&gt;
+
+&lt;p&gt;So in one of my 10-minute blitz games tonight, we each played the first six moves in probably no more than six seconds (counting one second to just physically move a piece from one square to another and then hit the clock), because it was just a standard Sicilian Defense variation that we both knew by heart up till that point.&lt;/p&gt;
+
+&lt;h2 id=&#34;when-the-position-is-new-there-still-may-be-approximate-pattern-matches&#34;&gt;When the position is new, there still may be approximate pattern matches&lt;/h2&gt;
+
+&lt;p&gt;Very quickly in chess, the position becomes new, something that one has not seen before in the previous couple of thousand games of chess in one&amp;rsquo;s life. This is what makes chess so fascinating: it is just not possible to memorize all the possible positions in chess. Even if you have played millions of games of chess, the very next game you will probably encounter a position different from anything you have seen before.&lt;/p&gt;
+
+&lt;p&gt;In the blitz game, novelty began at move six, when my opponent played a non-standard move. This made me pause for just about one second before making my next move (instead of the first six moves during which I did no real thinking at all). Did I do some kind of big calculation? No: from general principles and an approximate matching with the dozens of similar positions I have seen before, combined with &amp;ldquo;theoretical principles&amp;rdquo; suggesting that the move was inaccurate, I simply continued with a reasonable reply. In a slower game, I might have taken more time to figure out what a &amp;ldquo;best&amp;rdquo; reply would be, but when time is short, &amp;ldquo;good&amp;rdquo; is good enough.&lt;/p&gt;
+
+&lt;p&gt;Meanwhile, even at move six, my pattern recognition was already kicking in. I was immediately recognizing the similarity to a game that I played 27 years ago, in 1985. Yes, we chess players who intensely love the game actually do remember elements of many of the games we have ever played in our lives; and those of who remember the most play the best. By coincidence, I was remembering a game that just three months ago I wrote about, &lt;a href=&#34;../../blog/2012/06/02/they-published-my-brilliant-chess-game/&#34;&gt;a game of mine that was published in Michigan Chess after it was played&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;comparison&#34;&gt;Comparison&lt;/h3&gt;
+
+&lt;p&gt;Compare the following positions, which occurred after I played my Bishop to &lt;code&gt;c4&lt;/code&gt;, and Black is to move.&lt;/p&gt;
+
+&lt;p&gt;The first is from 1985:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/accelerated-dragon-trap_files/diag3FDFE53CD1696B3D.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Black to move, 1985&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;The second is from tonight:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/sicilian-f7_files/diag3FEBC9EC3F88942F.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Black to move, 2012&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;The similarities are obvious: both are positions out of the Accelerated Dragon of the Sicilian, and Black is behind on King-side development, and has played an early &lt;code&gt;a6&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;The differences involve Black&amp;rsquo;s Knight on &lt;code&gt;c6&lt;/code&gt; and White&amp;rsquo;s Bishop on &lt;code&gt;e3&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-critical-position&#34;&gt;The critical position&lt;/h2&gt;
+
+&lt;p&gt;It turned out that my blitz opponent fell into a trap that I have never seen before in its exact form, but it was so close to similar traps that I could easily focus on seeing whether the similarities justified a similar continuation on my part.&lt;/p&gt;
+
+&lt;p&gt;The critical position has White to move and win.&lt;/p&gt;
+
+&lt;p&gt;The first is from 1985:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/accelerated-dragon-trap_files/diag3FDFE53F3ECA481F.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;White to move, 1985&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;The second is from tonight:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/sicilian-f7_files/diag3FEBC9ED44832E65.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;White to move, 2012&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;In both positions, the winning move is &lt;code&gt;Bxf7+&lt;/code&gt; followed by &lt;code&gt;Ne6&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;In 1985, I had actually thought for about half an hour to verify that this truly wins. Tonight, I thought for about ten seconds to prove in my head that it wins, and then I played the move, after which my opponent also thought for about ten seconds and then resigned.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-point-of-pattern-matching&#34;&gt;The point of pattern matching&lt;/h2&gt;
+
+&lt;p&gt;The point is the pattern matching &lt;em&gt;does not automatically give you the answer&lt;/em&gt;, but gives you a &lt;em&gt;possible head start&lt;/em&gt; in the search for finding an answer: it gives you a goal to aim for, and in many cases substitutes &lt;em&gt;verification&lt;/em&gt; for &lt;em&gt;search&lt;/em&gt;. Search is hard. Verification is often easy. For example, if you had to guess someone&amp;rsquo;s password by just brute force going through the alphabet, it would take forever. But if you knew up front that very likely this person will use certain words or numbers, then you can just try out various combinations of those and maybe get the answer without searching through every legal possibility. The same happens in chess, music, tennis, programming, cooking, flying, and everything else: having seen and personally experienced many patterns and their possible solutions makes it easier to solve new problems.&lt;/p&gt;
+
+&lt;p&gt;There is a caveat I would like to explore in future writing: the &lt;em&gt;danger of misleading patterns&lt;/em&gt;. We humans love to find patterns and often rely on patterns when they are actually completely misleading. Failure in chess and other human activities often comes from relying too much on analogies from patterns.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-annotated-game&#34;&gt;The annotated game&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;../../chess/sicilian-f7.htm&#34;&gt;Enjoy playing over the complete game with my annotations, including diagrams!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Also, I have to repeat what I said in my &lt;a href=&#34;../../blog/2012/06/02/they-published-my-brilliant-chess-game/&#34;&gt;earlier post about this pattern&lt;/a&gt;: it is not original; I first saw it in a Bobby Fischer game that I saw and studied in around 1978.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Pattern matching&lt;/em&gt;, both looking to create good patterns and looking to avoid falling into bad ones, is key in developing expertise in chess. Although most games I play have their own unique novel character, sometimes I play a game in which some key pattern is all there is to the game.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Round 2 of the Pittsburgh Chess Club tournament: winning in the Sicilian Defense; the philosophy and psychology of struggle</title>
+      <link>http://franklinchen.com/blog/2012/09/12/round-2-of-the-pittsburgh-chess-club-tournament-winning-in-the-sicilian-defense-the-philosophy-and-psychology-of-struggle/</link>
+      <pubDate>Wed, 12 Sep 2012 07:41:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/09/12/round-2-of-the-pittsburgh-chess-club-tournament-winning-in-the-sicilian-defense-the-philosophy-and-psychology-of-struggle/</guid>
+      <description>&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/14th-fred-sorensen-memorial/round-2.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Second round&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Yesterday was the second round of the current six-round Tuesday night tournament at the &lt;a href=&#34;http://pittsburghcc.org/&#34;&gt;Pittsburgh Chess Club&lt;/a&gt;, the 14th Fred Sorensen Memorial.&lt;/p&gt;
+
+&lt;p&gt;Last week &lt;a href=&#34;../../blog/2012/09/04/round-1-of-the-pittsburgh-chess-club-tournament-the-greek-gift-sacrifice/&#34;&gt;I reported on my quick &amp;ldquo;Greek gift sacrifice&amp;rdquo; win in the first round&lt;/a&gt;. This week, my game was far from quick: it was a long struggle lasting most of the allotted four-hour maximum; my game lasted over three hours before I finally won.&lt;/p&gt;
+
+&lt;p&gt;In this post, I frankly discuss the course of the game, including the crucial &lt;em&gt;psychological&lt;/em&gt; aspects.&lt;/p&gt;
+
+&lt;p&gt;I begin with a summary of the basic &lt;em&gt;philosophical&lt;/em&gt; concepts of the opening, the Sicilian Defense, in terms that I hope both &lt;strong&gt;novices&lt;/strong&gt; and &lt;strong&gt;non-chess-players&lt;/strong&gt; can appreciate.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;playing-as-black-in-chess&#34;&gt;Playing as Black in chess&lt;/h2&gt;
+
+&lt;p&gt;When one is playing as Black in chess, there are two philosophies of how to face White:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;defend&lt;/em&gt; against and neutralize White&amp;rsquo;s first move advantage, by also occupying the center and holding it against White&amp;rsquo;s attack&lt;/li&gt;
+&lt;li&gt;ignore White&amp;rsquo;s game plan, and choose to start an indirect &lt;em&gt;counter-attack&lt;/em&gt; on White&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The first option is safest, while the second option is risky.&lt;/p&gt;
+
+&lt;h2 id=&#34;brief-introduction-to-the-sicilian-defense&#34;&gt;Brief introduction to the Sicilian Defense&lt;/h2&gt;
+
+&lt;p&gt;In the Sicilian Defense, the second, very aggressive option is chosen: the basic idea is the Black on the very first move unbalances the position, taunting White, saying, &amp;ldquo;attack my King if you dare, but I&amp;rsquo;m going for your Queen side&amp;rdquo;. Whereas White has claimed the center with the e Pawn, Black plays on the flank with the c Pawn:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://www.thechesswebsite.com/wp-content/uploads/2012/07/sicilian-big.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Sicilian Defense&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;The &lt;a href=&#34;http://en.wikipedia.org/wiki/Sicilian_Defence&#34;&gt;Sicilian Defense&lt;/a&gt; in chess is, in my view, the most exciting of all chess openings for Black.&lt;/p&gt;
+
+&lt;p&gt;The critical lines in the &lt;a href=&#34;http://en.wikipedia.org/wiki/Sicilian_Defence#Open_Sicilian:_2.Nf3_and_3.d4&#34;&gt;open Sicilian&lt;/a&gt; are those in which White takes up Black&amp;rsquo;s challenge head on and opens up the position by allowing Black to trade the c Pawn for White&amp;rsquo;s d Pawn. For example (as in my game yesterday):&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://www.thechesswebsite.com/images/najdorf-medium.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Najdorf Variation&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;i-have-played-both-sides-of-the-sicilian&#34;&gt;I have played both sides of the Sicilian&lt;/h3&gt;
+
+&lt;p&gt;Playing this opening as Black is not for the faint of heart. Famous temperamental, attacking players such as &lt;a href=&#34;http://en.wikipedia.org/wiki/Bobby_Fischer&#34;&gt;Bobby Fischer&lt;/a&gt; and &lt;a href=&#34;http://en.wikipedia.org/wiki/Garry_Kasparov&#34;&gt;Garry Kasparov&lt;/a&gt; used it as their weapon of choice during their careers.&lt;/p&gt;
+
+&lt;p&gt;I did not play the Sicilian Defense as Black as a kid. I only started playing it as an adult as part of my reinvention of myself as a chess player when returning to the game after a twenty-year absence. I had shied away from the Sicilian because of a desire to be different (it&amp;rsquo;s a popular opening) and because of laziness (I did not want to study a lot of opening theory).&lt;/p&gt;
+
+&lt;p&gt;In fact, when I was a kid, I liked nothing better than playing the White side of the Sicilian. I loved destroying Black in the Sicilian.&lt;/p&gt;
+
+&lt;p&gt;During my time in the past couple of years finally starting to play the Sicilian Defense as Black, I have suffered some horrendous quick losses as Black, in which my King was hunted down and destroyed as White Pawns and pieces crashed through my defenses. But I have also enjoyed some really exciting wins as Black as I fended off White&amp;rsquo;s attack and destroyed White&amp;rsquo;s Queen side and center.&lt;/p&gt;
+
+&lt;h3 id=&#34;black-s-goals&#34;&gt;Black&amp;rsquo;s goals&lt;/h3&gt;
+
+&lt;p&gt;In the critical lines of the open Sicilian, Black&amp;rsquo;s goal is to defend accurately against any attacks by White while slowly building up a counter-attack. The hope is that as White&amp;rsquo;s attack out of the opening fails and becomes overextended, Black will be in position to explode and rip White apart. It&amp;rsquo;s an exciting way to play.&lt;/p&gt;
+
+&lt;p&gt;Here is an example of a great position for Black (in the game I just played yesterday):&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/prokhov-chen-2012-09-11_files/diag3FEF16058D672C77.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Prokhov-Chen&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Notice that Black is still far behind in King side development, but has managed to take control of the Queen side and center away from White. Black has a clear advantage here, but no win yet, and must play precisely to maintain the advantage and not fall into danger.&lt;/p&gt;
+
+&lt;p&gt;(In fact, at this very moment in the game, I started playing poorly. More on that later.)&lt;/p&gt;
+
+&lt;h3 id=&#34;white-s-goals&#34;&gt;White&amp;rsquo;s goals&lt;/h3&gt;
+
+&lt;p&gt;In the critical lines of the open Sicilian, White&amp;rsquo;s goal is to find tactics in order to break through to Black&amp;rsquo;s King before Black has any chance to do anything useful in return.&lt;/p&gt;
+
+&lt;p&gt;Here is an example of a great position for White, from a &lt;a href=&#34;../../blog/2012/06/02/they-published-my-brilliant-chess-game/&#34;&gt;&amp;ldquo;brilliancy&amp;rdquo; I played in 1985&lt;/a&gt;:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/accelerated-dragon-trap_files/diag3FDFE53F3ECA481F.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Chen-Winfield, Michigan Open 1985&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Notice that Black is far behind in piece development, and White already has pieces mobilized against Black&amp;rsquo;s King, and in fact has a won game.&lt;/p&gt;
+
+&lt;p&gt;When White plays well and Black plays poorly in the Sicilian Defense, the result is usually a brutal win for White (as it was in this old game of mine).&lt;/p&gt;
+
+&lt;h2 id=&#34;my-game&#34;&gt;My game&lt;/h2&gt;
+
+&lt;p&gt;As Black yesterday, I faced an opponent I have played several tournament games with over the years. He always plays aggressively. All my games with him have been very tense, with a lot of tactics in the air and many opportunities for both sides to go wrong at critical moments.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-opening&#34;&gt;The opening&lt;/h3&gt;
+
+&lt;p&gt;I played the Sicilian against him, and by move eight the battle lines had already been drawn: in an English Attack, he was attacking my King side with the Pawn advance g4 and I was attacking his Queen side with the Pawn advance b5.&lt;/p&gt;
+
+&lt;p&gt;He played the opening inaccurately and I obtained a thematic Black advantage.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-middle&#34;&gt;The middle&lt;/h3&gt;
+
+&lt;p&gt;Unfortunately, at a critical position, I chose an inferior continuation that left me with no remaining advantage.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Psychologically&lt;/em&gt;, it&amp;rsquo;s always difficult when you are playing a chess game and realize that you have made a mistake and that all the work you did to secure an advantage is gone. Objectively, the correct thing to do is to stay calm and play the position as it exists in the &lt;em&gt;present&lt;/em&gt;, rather than dwell on the &lt;em&gt;past&lt;/em&gt;, but this is easier said than done.&lt;/p&gt;
+
+&lt;p&gt;I find that it is easy to slip into one of two errors at such critical turning points:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;get angry about losing advantage, and desperately make aggressive moves to try to reclaim an advantage&lt;/li&gt;
+&lt;li&gt;get fearful of losing even more ground, and pre-emptively become passive and defensive&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In this game, I leaned into the second failure mode. At first, I was tempted to go the first route, by continuing my Queen side attack without regard for my King. It&amp;rsquo;s possible that, without the anger component, such an attack was justifiable (a computer might choose it). But I knew that my mind was unbalanced and that I might not be able to properly fend off an attack on my King. So I took the conservative way out, by planning to put my King into safety. As a result, I allowed White to get a fine middle game position, but I saved energy to recoup mentally.&lt;/p&gt;
+
+&lt;p&gt;After my King was safe, I restarted my Queen side attack, even though objectively the chances of its success were by now very low.&lt;/p&gt;
+
+&lt;p&gt;However, White fell prey to psychology as well. My opponent must have been trying to achieve a draw, because instead of playing aggressively, he blocked up the Pawns and then tried to trade off all our Rooks to go into what he thought was a safe endgame for him.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-end&#34;&gt;The end&lt;/h3&gt;
+
+&lt;p&gt;I became more and more confident about my chances as he embarked on this defensive course of action, because it showed the psychologically, he was not able to understand that he had a clear advantage he could exploit. My realization that he was faltering mentally made me regain my poise and focus and I played to make the most of my position.&lt;/p&gt;
+
+&lt;p&gt;Then at a critical point, when my attacking plans were about to reach an end, he panicked and played a blunder that enabled me to win a Pawn for nothing.&lt;/p&gt;
+
+&lt;p&gt;At this point, it was still possible for him to have defended well and maybe even drawn, despite the Pawn deficit. But instead, he continued to fall apart. I took care to play very precisely to take control of the situation on the board, and after fourteen moves (played in 73 minutes; he took 29 minutes to think while I took 44 minutes to think), he resigned.&lt;/p&gt;
+
+&lt;p&gt;I was proud of how I came back from a seemingly lifeless, drawn position to restore my mental state to one of objective calculation, and secure the win after his blunder of a Pawn.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-annotated-game&#34;&gt;The annotated game&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;../../chess/prokhov-chen-2012-09-11.htm&#34;&gt;Enjoy playing over the game with my annotations, including diagrams!&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Winning my game in round 2 was not easy. I let my opening advantage peter out, became discouraged, regrouped mentally, then was lucky that my opponent blundered and gave me a chance to win the game all over again, and I did. This is the life cycle of many chess games between humans.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>They published my brilliant chess game, hinting it was not so original, but was it?</title>
+      <link>http://franklinchen.com/blog/2012/06/02/they-published-my-brilliant-chess-game/</link>
+      <pubDate>Sat, 02 Jun 2012 12:19:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/06/02/they-published-my-brilliant-chess-game/</guid>
+      <description>&lt;p&gt;The past couple of days, I have been writing about what I learned through playing chess as a kid. I continue today by discussion a game I played right before retiring from chess at age fifteen. This game came to my mind when I was writing about the &lt;a href=&#34;../../blog/2012/05/30/life-lessons-i-learned-from-a-lunch-recess-chess-game-at-age-seven/&#34;&gt;chess computer game I played at age seven&lt;/a&gt;, because I played against the &lt;a href=&#34;http://en.wikipedia.org/wiki/Sicilian_Defence,_Accelerated_Dragon&#34;&gt;Accelerated Dragon of the Sicilian Defense&lt;/a&gt; in that game, and in my retirement tournament I also played a game against that opening.&lt;/p&gt;
+
+&lt;p&gt;My final tournament before I started the 11th grade and became fully absorbed in academic study was kind of special because I played reasonably well, achieving an Expert rating just as I retired, jumping from a rating of 1934 to over 2000, and because it was one of those tournaments held in East Lansing, which meant visiting and staying with my &lt;a href=&#34;../../blog/2012/03/16/remembering-my-uncle-steve/&#34;&gt;aunt and uncle and cousins&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The game I played in the Michigan Open was the second to last chess game I played in a serious tournament before returning to chess over twenty years later. It ended up being published in the &lt;a href=&#34;http://www.michess.org/interim/magazine/1980s/MC8510.pdf&#34;&gt;following Michigan Chess magazine issue&lt;/a&gt;, warranting a short note that it was reminiscent of a &amp;ldquo;famous Fischer-Reshevsky debacle&amp;rdquo;.&lt;/p&gt;
+
+&lt;h2 id=&#34;pride-or-shame-creative-or-original&#34;&gt;Pride or shame? Creative or original?&lt;/h2&gt;
+
+&lt;p&gt;When I was playing my game, I was feeling pretty proud of my winning combination, even though I knew it was not completely original; I in fact had been inspired by a theme in the Fischer-Reshevsky game that I had remembered when first encountering it in a book with my father back when I was eight years old. When I read the Michigan Chess magazine column and saw that, of course, the editor saw the resemblance, I felt deflated. As a result, I never showed my father the mention of my game in the magazine, nor did I show the game to him.&lt;/p&gt;
+
+&lt;p&gt;But today, I am going to display this game.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;my-game&#34;&gt;My game&lt;/h2&gt;
+
+&lt;p&gt;In my game, I embarked on a double sacrifice combination that, if one had never seen the theme before, looks spectacular. If one had seen the theme before, it might look boring. But actually, it required accurate calculation to make the concrete variation of the theme actually work: playing simply by analogy is disastrous in chess because any small difference in a position can radically change its evaluation. So although I cannot take credit for spotting the theme, I think I can take credit for making sure that it actually applies in context.&lt;/p&gt;
+
+&lt;p&gt;Here is the critical position of my game, with White to play and win:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/accelerated-dragon-trap_files/diag3FDFE53F3ECA481F.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Chen-Winfield, Michigan Open 1985&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Here is the critical position of &lt;a href=&#34;http://www.chessgames.com/perl/chessgame?gid=1008376&#34;&gt;Fischer-Reshevsky, US Championship 1958&lt;/a&gt;:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/accelerated-dragon-trap_files/diag3FDFE554B3C66396.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Fischer-Reshevsky, US Championship 1958&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;If you have not seen either game before, do you see the similarities? Can you spot the forced wins?&lt;/p&gt;
+
+&lt;h2 id=&#34;the-full-annotations&#34;&gt;The full annotations&lt;/h2&gt;
+
+&lt;p&gt;Check out my annotations of both &lt;a href=&#34;../../chess/accelerated-dragon-trap.htm&#34;&gt;my game and Bobby Fischer&amp;rsquo;s game&lt;/a&gt;. My annotations go further into what I was thinking during the game. (The game page pops up defaulting to showing my game; use the upper-right corner selection menu to switch view to Fischer&amp;rsquo;s game.)&lt;/p&gt;
+
+&lt;h2 id=&#34;a-discussion-of-the-theme-and-variations&#34;&gt;A discussion of the theme and variations&lt;/h2&gt;
+
+&lt;p&gt;So if you have looked through the games now, you can see that the basic theme is of trying to trap Black&amp;rsquo;s Queen and win it, and in order to avoid losing the Queen immediately, Black has to move the King out and risk being checkmated. And the key moves for White are to play Bxf7+ to remove the f Pawn that defends e6, and then Ne6 attacking the Queen. What is critical is evaluating whether Black can just take the Knight on e6 with the King and survive.&lt;/p&gt;
+
+&lt;p&gt;There are some real differences in how the theme plays out in my game and Fischer&amp;rsquo;s game:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;In Fischer&amp;rsquo;s game, the Queen really is trapped; and taking the Knight on e6 with the King leads to a quick forced checkmate&lt;/li&gt;
+&lt;li&gt;In my game, the Queen is not actually trapped, because the Queen can always go to e8, but in that case, I win the rook on c7 instead; finally, in my game, Black can in fact take the Knight on e6 with the King, and this does not lead to a forced checkmate, because Black has Bxc3+ freeing up the g7 square for the King to possibly escape to.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In retrospect, I should not have been too ashamed by the resemblance to Fischer&amp;rsquo;s game, because there were real differences that lead to completely different calculations and variations in winning the game. I did have to use my own mind. The calculations are not so hard for a strong player, but I was not even at an Expert rating yet at the time, so my game was pretty good for a Class A rated player.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-i-have-learned&#34;&gt;What I have learned&lt;/h2&gt;
+
+&lt;p&gt;Some useful lessons I have learned upon revisiting this game:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Having a deep background in already existing knowledge (such as already played games) helps one spot a theme and apply it in a new situation.&lt;/li&gt;
+&lt;li&gt;There is no shame in stealing and using someone&amp;rsquo;s good idea.&lt;/li&gt;
+&lt;li&gt;Even when stealing an idea, it requires one&amp;rsquo;s own ingenuity to make sure it works in a new context.&lt;/li&gt;
+&lt;li&gt;Do not let your own honest judgment of your work be swayed too much by what is said about it in a publication.&lt;/li&gt;
+&lt;li&gt;I could have been more proud of myself in front of my parents when I was a kid and shared my excitement at my personal accomplishments.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

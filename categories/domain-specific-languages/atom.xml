@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Domain Specific Languages on Franklin Chen</title>
+    <link>http://franklinchen.com/categories/domain-specific-languages/atom/index.xml</link>
+    <description>Recent content in Domain Specific Languages on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/categories/domain-specific-languages/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A short example of why I prefer static typing: learning Gradle</title>
+      <link>http://franklinchen.com/blog/2012/09/24/a-short-example-of-why-i-prefer-static-typing-learning-gradle/</link>
+      <pubDate>Mon, 24 Sep 2012 17:07:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/09/24/a-short-example-of-why-i-prefer-static-typing-learning-gradle/</guid>
+      <description>&lt;p&gt;I make no secret of the fact the I prefer to program in &lt;a href=&#34;http://en.wikipedia.org/wiki/Programming_language#Static_versus_dynamic_typing&#34;&gt;statically-typed languages&lt;/a&gt;. That is not to say that I don&amp;rsquo;t write programs in dynamically typed languages. In fact, I have written and will continue to write programs in &lt;a href=&#34;../../categories/perl/&#34;&gt;Perl&lt;/a&gt;, &lt;a href=&#34;../../categories/python/&#34;&gt;Python&lt;/a&gt;, &lt;a href=&#34;../../categories/ruby/&#34;&gt;Ruby&lt;/a&gt;, &lt;a href=&#34;../../categories/javascript/&#34;&gt;JavaScript&lt;/a&gt;, and other dynamically typed programs, because pragmatically speaking, there is a whole lot more to programming to get something done than questions of &lt;a href=&#34;http://en.wikipedia.org/wiki/Type_system&#34;&gt;type systems&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Nevertheless, it is always painful to me when I hit a wall when learning and using an unfamiliar API from a dynamically typed language. I always think, &amp;ldquo;if only this API were statically typed, so that when I encounter an error, I can immediately look up what went wrong&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s an example as I&amp;rsquo;ve been learning &lt;a href=&#34;http://www.gradle.org/&#34;&gt;Gradle&lt;/a&gt; while evaluating it along with learning &lt;a href=&#34;http://www.scala-sbt.org/&#34;&gt;SBT&lt;/a&gt;, as two candidate build tools for me to switch to out of &lt;a href=&#34;http://maven.apache.org/&#34;&gt;Maven&lt;/a&gt; as my build tool for a primarily Java-based project. Note that Gradle is basically an embedded domain-specific language using the dynamically typed language &lt;a href=&#34;http://groovy.codehaus.org/&#34;&gt;Groovy&lt;/a&gt;, while SBT is an embedded domain-specific language using the statically typed language &lt;a href=&#34;http://www.scala-lang.org/&#34;&gt;Scala&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;code-example&#34;&gt;Code example&lt;/h2&gt;
+
+&lt;p&gt;Here&amp;rsquo;s a code example from a book I&amp;rsquo;ve been going through while studying Gradle, &lt;a href=&#34;http://gradleware.com/registered/books/building-and-testing/&#34;&gt;&amp;ldquo;Building and Testing with Gradle&amp;rdquo;&lt;/a&gt;:&lt;/p&gt;
+
+&lt;h3 id=&#34;example-3-21-use-the-ant-path-references-inside-the-gradle-build&#34;&gt;Example 3.21. Use the Ant path references inside the Gradle build&lt;/h3&gt;
+
+&lt;div class=&#34;highlight&#34; style=&#34;background: #f8f8f8&#34;&gt;&lt;pre style=&#34;line-height: 125%&#34;&gt;&lt;span&gt;&lt;/span&gt;ant&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;importBuild&lt;/span&gt; &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;#39;build.xml&amp;#39;&lt;/span&gt;
+
+defaultTasks &lt;span style=&#34;color: #666666&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;[&lt;/span&gt;&lt;span style=&#34;color: #BA2121&#34;&gt;&amp;#39;gradleBuild&amp;#39;&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;]&lt;/span&gt;
+
+&lt;span style=&#34;color: #408080; font-style: italic&#34;&gt;////////////////////////////////////////////////////////////////////////&lt;/span&gt;
+&lt;span style=&#34;color: #408080; font-style: italic&#34;&gt;// Gradle paths retrieved from Ant and then built using a Gradle task&lt;/span&gt;
+repositories &lt;span style=&#34;color: #666666&#34;&gt;{&lt;/span&gt;
+    flatDir &lt;span style=&#34;color: #A0A000&#34;&gt;name:&lt;/span&gt; &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;#39;localRepository1&amp;#39;&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color: #A0A000&#34;&gt;dirs:&lt;/span&gt; ant&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;references&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;[&lt;/span&gt;&lt;span style=&#34;color: #BA2121&#34;&gt;&amp;#39;antPathToLibs1&amp;#39;&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;]&lt;/span&gt;
+    flatDir &lt;span style=&#34;color: #A0A000&#34;&gt;name:&lt;/span&gt; &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;#39;localRepository2&amp;#39;&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color: #A0A000&#34;&gt;dirs:&lt;/span&gt; ant&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;references&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;antPathToLibs2&lt;/span&gt;
+    flatDir &lt;span style=&#34;color: #A0A000&#34;&gt;name:&lt;/span&gt; &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;#39;localRepository3&amp;#39;&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color: #A0A000&#34;&gt;dirs:&lt;/span&gt; &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;antlibs&amp;quot;&lt;/span&gt;
+&lt;span style=&#34;color: #666666&#34;&gt;}&lt;/span&gt;
+
+task gradleBuild &lt;span style=&#34;color: #666666&#34;&gt;&amp;lt;&amp;lt;&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;{&lt;/span&gt;
+    &lt;span style=&#34;color: #408080; font-style: italic&#34;&gt;//Set classpath to include the JAR&lt;/span&gt;
+    println &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;The repositories bridged from Ant to Gradle are:&amp;quot;&lt;/span&gt;
+    println repositories&lt;span style=&#34;color: #666666&#34;&gt;*.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;name&lt;/span&gt;
+
+    println repositories&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;localRepository1&lt;/span&gt;
+
+    println repositories&lt;span style=&#34;color: #666666&#34;&gt;[&lt;/span&gt;&lt;span style=&#34;color: #BA2121&#34;&gt;&amp;#39;localRepository2&amp;#39;&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;]&lt;/span&gt;
+
+    println &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;localRepository3 class = &amp;quot;&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;+&lt;/span&gt; repositories&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;localRepository3&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;class&lt;/span&gt;
+    println &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;localRepository3 name = &amp;quot;&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;+&lt;/span&gt; repositories&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;localRepository3&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;name&lt;/span&gt;
+    println &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;localRepository3 latest = &amp;quot;&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;+&lt;/span&gt; repositories&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;localRepository3&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;latest&lt;/span&gt;
+    println &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;localRepository3 ivyPatterns = &amp;quot;&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;+&lt;/span&gt; repositories&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;localRepository3&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;ivyPatterns&lt;/span&gt;
+    println &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;localRepository3 artifactPatterns =&lt;/span&gt;
+&lt;span style=&#34;color: #BA2121&#34;&gt;       &amp;quot;&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;+&lt;/span&gt; repositories&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;localRepository3&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;artifactPatterns&lt;/span&gt;
+    println &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;localRepository3 checkconsistency =&lt;/span&gt;
+&lt;span style=&#34;color: #BA2121&#34;&gt;       &amp;quot;&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;+&lt;/span&gt; repositories&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;localRepository3&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;checkconsistency&lt;/span&gt;
+    println &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;localRepository3 m2compatible =&lt;/span&gt;
+&lt;span style=&#34;color: #BA2121&#34;&gt;       &amp;quot;&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;+&lt;/span&gt; repositories&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;localRepository3&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;m2compatible&lt;/span&gt;
+    println &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;localRepository3 methods =&lt;/span&gt;
+&lt;span style=&#34;color: #BA2121&#34;&gt;       &amp;quot;&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;+&lt;/span&gt; repositories&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;localRepository3&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;metaClass&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;methods&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;*.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;name&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;sort&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;().&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;unique&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;()&lt;/span&gt;
+&lt;span style=&#34;color: #666666&#34;&gt;}&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h2 id=&#34;error-output&#34;&gt;Error output&lt;/h2&gt;
+
+&lt;p&gt;Unfortunately, this Gradle build file, when executed under the current version of Gradle, dies with an error:&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;highlight&#34; style=&#34;background: #f8f8f8&#34;&gt;&lt;pre style=&#34;line-height: 125%&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span style=&#34;color: #000080; font-weight: bold&#34;&gt;$&lt;/span&gt; ./run-example.bsh
+&lt;span style=&#34;color: #888888&#34;&gt;:gradleBuild&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;The repositories bridged from Ant to Gradle are:&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;[localRepository1, localRepository2, localRepository3]&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;org.gradle.api.internal.artifacts.repositories.DefaultFlatDirArtifactRepository_Decorated@7f205d8d&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;org.gradle.api.internal.artifacts.repositories.DefaultFlatDirArtifactRepository_Decorated@5eef2e7c&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;localRepository3 class = class org.gradle.api.internal.artifacts.repositories.DefaultFlatDirArtifactRepository_Decorated&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;localRepository3 name = localRepository3&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;:gradleBuild FAILED&lt;/span&gt;
+
+&lt;span style=&#34;color: #888888&#34;&gt;FAILURE: Build failed with an exception.&lt;/span&gt;
+
+&lt;span style=&#34;color: #888888&#34;&gt;* Where:&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;Build file &amp;#39;oreilly-gradle-book-examples/ant-classpathanttogradle/build.gradle&amp;#39; line: 24&lt;/span&gt;
+
+&lt;span style=&#34;color: #888888&#34;&gt;* What went wrong:&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;Execution failed for task &amp;#39;:gradleBuild&amp;#39;.&lt;/span&gt;
+&lt;span style=&#34;color: #000080; font-weight: bold&#34;&gt;&amp;gt;&lt;/span&gt; Could not find property &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;#39;latest&amp;#39;&lt;/span&gt; on org.gradle.api.internal.artifacts.repositories.DefaultFlatDirArtifactRepository_Decorated@8c1e4d5.
+
+&lt;span style=&#34;color: #888888&#34;&gt;* Try:&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output.&lt;/span&gt;
+
+&lt;span style=&#34;color: #888888&#34;&gt;BUILD FAILED&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;After much searching online, I still could not figure out what properties are supposed to be available from &lt;code&gt;repositories.localRepository3&lt;/code&gt;. I looked at the &lt;a href=&#34;http://www.gradle.org/docs/current/javadoc/overview-tree.html&#34;&gt;Gradle documentation&lt;/a&gt;, and I looked up the package &lt;a href=&#34;http://www.gradle.org/docs/current/javadoc/org/gradle/api/artifacts/repositories/package-tree.html&#34;&gt;&lt;code&gt;org.gradle.api.internal.artifacts.repositories&lt;/code&gt;&lt;/a&gt; without success.&lt;/p&gt;
+
+&lt;p&gt;Gradle&amp;rsquo;s API has changed since the publication of the book, obviously. And in fact, I have been submitting &lt;a href=&#34;https://github.com/gradleware/oreilly-gradle-book-examples/commit/351f31f1cdede84233b977e67031720177144aab&#34;&gt;GitHub pull requests&lt;/a&gt; as I update the code examples while encountering apparent changes. But sometimes, as in this case, it has been too confusing for me to figure out how to update the code. You could say that this is always the case for any code in any language, but what bothers me is the nature of error messages and documentation in APIs for dynamically typed languages such as Groovy. These experiences remind me that &lt;em&gt;types are documentation&lt;/em&gt;, that &lt;em&gt;types are a way for a programmer to tell the world how code is supposed to be used&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Gradle seems to be a promising build tool, and I will continue to evaluate it while skipping over the particular mysterious error I encountered (since it is not really relevant to what I want to do in my builds), but I wish I could have better figured out what went wrong with the book&amp;rsquo;s code example. Meanwhile, it remains to be seen what kinds of problems I will encounter when using SBT. Again, I have to emphasize that my goal is to get things done, correctly and efficiently. Whatever works best, I will use, whatever its drawbacks: in another project, I happily used &lt;a href=&#34;../../categories/scons/&#34;&gt;SCons&lt;/a&gt; as a build tool, based on the dynamically typed language Python, and of course, I have used &lt;a href=&#34;http://rake.rubyforge.org/&#34;&gt;Rake&lt;/a&gt; for Ruby projects.&lt;/p&gt;
+
+&lt;h3 id=&#34;update-of-2015-05-18&#34;&gt;(Update of 2015-05-18)&lt;/h3&gt;
+
+&lt;p&gt;Wow, that was written in fall of 2012.&lt;/p&gt;
+
+&lt;p&gt;Since then, I have heavily used SBT from then to the present first for Java, then for Scala, which &lt;a href=&#34;http://franklinchen.com/blog/2013/01/11/2013-is-my-year-of-scala/&#34;&gt;became my main programming language in early 2013&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Also, in early 2015, &lt;a href=&#34;http://blog.pivotal.io/pivotal/news-2/groovy-2-4-and-grails-3-0-to-be-last-major-releases-under-pivotal-sponsorship&#34;&gt;Pivotal got out of the Groovy business&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Meanwhile, in early 2015 as I adopted Haskell as my main language for new projects, I switched away from SCons as a general-purpose build tool to Haskell-based &lt;a href=&#34;http://shakebuild.com/&#34;&gt;Shake&lt;/a&gt;, which works really great for me.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pittsburgh Python meetup: I gave my first lightning talk ever; the topic was SCons</title>
+      <link>http://franklinchen.com/blog/2012/08/23/pittsburgh-python-meetup-i-gave-my-first-lightning-talk-ever-the-topic-was-scons/</link>
+      <pubDate>Thu, 23 Aug 2012 21:53:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/08/23/pittsburgh-python-meetup-i-gave-my-first-lightning-talk-ever-the-topic-was-scons/</guid>
+      <description>
+
+&lt;p&gt;Yesterday I gave my first &lt;a href=&#34;http://en.wikipedia.org/wiki/Lightning_talk&#34;&gt;lightning talk&lt;/a&gt; in my life, as far as I can remember.&lt;/p&gt;
+
+&lt;p&gt;I spoke for probably around five minutes at the monthly meeting of the &lt;a href=&#34;http://pghpython.org/&#34;&gt;Pittsburgh Python User Group&lt;/a&gt;, which had a &lt;a href=&#34;http://www.meetup.com/pghpython/events/72341992/&#34;&gt;module show-and-tell night&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I originally had not planned to attend the meeting, since although I have been to meetings of the Python group since January 2011, &lt;a href=&#34;../../blog/2011/10/16/pittsburgh-software-developer-communities/&#34;&gt;I stopped going over a year ago&lt;/a&gt;. But I suddenly decided on short notice to volunteer before the meeting to give a little talk on the Python-based tool &lt;a href=&#34;http://www.scons.org/&#34;&gt;SCons&lt;/a&gt;. I did this for a couple of reasons:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Two weeks ago at Steel City Ruby Conf, &lt;a href=&#34;../../blog/2012/08/07/the-first-steel-city-ruby-conference-an-amazing-experience/&#34;&gt;I decided to start giving talks at programming groups&lt;/a&gt;; I committed to giving a talk at the Ruby group, but this week suddenly saw the opportunity to give a low-pressure lightning talk at the Python group.&lt;/li&gt;
+&lt;li&gt;I&amp;rsquo;d mentioned my use of SCons a long time ago at the Python group and I have been feeling obliged to actually promote this excellent tool.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;the-module-show-and-tell&#34;&gt;The module show and tell&lt;/h2&gt;
+
+&lt;p&gt;It turned out that only four of us had described ahead of time a module to talk about. The first three spoke about &lt;code&gt;multiprocessing&lt;/code&gt;, &lt;code&gt;formencode&lt;/code&gt;, and &lt;code&gt;urllib2&lt;/code&gt;, then I finally stepped up and talked about SCons. After that, it was good to see people spontaneously get up and talk about other Python libraries and software, including &lt;code&gt;requests&lt;/code&gt;, &lt;code&gt;numba&lt;/code&gt;, &lt;code&gt;lxml&lt;/code&gt;, &lt;code&gt;melopy&lt;/code&gt;, and &lt;code&gt;logbook&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;what-i-tried-to-do-in-my-talk&#34;&gt;What I tried to do in my talk&lt;/h3&gt;
+
+&lt;p&gt;I tried to give a concrete example of why I use SCons to manage building various artifacts from source files and directories, analyzing them, and removing outdated material. Essentially, in 2006, I was looking for an alternative to GNU &lt;code&gt;make&lt;/code&gt; because I wanted the power of a full-blown programming language in order to do builds that require real computation that depend on conditions, SCons. SCons is an embedded &lt;a href=&#34;http://en.wikipedia.org/wiki/Domain-specific_language&#34;&gt;domain specific language&lt;/a&gt; for construction, in contrast to &lt;code&gt;make&lt;/code&gt;, which is an external domain specific language (actually, GNU &lt;code&gt;make&lt;/code&gt; is more than that; it is a perverse Turing-complete language).&lt;/p&gt;
+
+&lt;p&gt;Using SCons, I can generate dependencies dynamically by writing Python code (in contrast to the &lt;code&gt;make&lt;/code&gt; paradigm in which one often writes, using some separate language, a script to generate a &lt;code&gt;Makefile&lt;/code&gt; to include into the master &lt;code&gt;Makefile&lt;/code&gt;).&lt;/p&gt;
+
+&lt;p&gt;Furthermore, &amp;ldquo;builders&amp;rdquo; that do the work of connecting targets with sources can be written in Python; in &lt;code&gt;make&lt;/code&gt;, builder actions are shell commands, which means that if you have to do something nontrivial, you have to write some program to call from &lt;code&gt;make&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;It is so much more convenient to do everything with Python and Python libraries rather than to write extra programs to call.&lt;/p&gt;
+
+&lt;p&gt;During the talk, I drew some sketches of directory trees and sources and targets on the whiteboard to illustrate what kinds of actions were handled by an SCons script I had written for a specific purpose at work.&lt;/p&gt;
+
+&lt;p&gt;For a longer talk, I would have prepared a few slides and added more clarifying detail to my presentation, but I decided to just do this one impromptu.&lt;/p&gt;
+
+&lt;h2 id=&#34;my-source-code&#34;&gt;My source code&lt;/h2&gt;
+
+&lt;p&gt;The source code for my example SCons script is available on &lt;a href=&#34;http://github.com/FranklinChen/update-childes-talkbank/&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Since it was originally written in 2006, it was not developed the way I would do it today (for example, it is a single monolithic script, does not have proper user-level documentation, has hard-coded strings, and was not designed in a test-driven way), but it works. If new requirements cause me to need to change the code, I will definitely refactor first.&lt;/p&gt;
+
+&lt;p&gt;Part of me had wanted to refactor before public release, but I decided that perfectionism had held me back too long from sharing, so I was just going to put the code as it is.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;I have very little experience giving talks at all. The few &amp;ldquo;long&amp;rdquo; talks I&amp;rsquo;ve given over the years have been a nerve-wracking experience in which I did badly. I have a long-term goal of actually being a decent public speaker, so that I can share my knowledge more effectively with the world. It will take study, practice, self-assessment, and experience. I&amp;rsquo;ve delayed progress on this goal for too long, and am happy to start putting myself out there, starting small in lower-stakes situations and building up from there.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pittsburgh Java User Group: Developing Languages Using JRuby</title>
+      <link>http://franklinchen.com/blog/2012/01/24/pittsburgh-java-user-group-developing-languages-using-jruby/</link>
+      <pubDate>Tue, 24 Jan 2012 22:23:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/01/24/pittsburgh-java-user-group-developing-languages-using-jruby/</guid>
+      <description>
+
+&lt;p&gt;Tonight at PittJUG, Chris Umbel gave a version of the talk he did for the Pittsburgh Ruby group a couple of months ago. You can read my report on that &lt;a href=&#34;../../blog/2011/10/06/pittsburgh-ruby-building-a-compiler-in-jruby/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;You might wonder why I attended the PittJUG meeting then, if I already heard the talk. The fact is, I&amp;rsquo;ve learned that the most value I get from attending these user group meetings is not so much the presentations (although I get considerable value, actually, from learning about good or not so good presentation techniques), but just hanging out to chat before and after a presentation, whether about the topic of the presentation or not.&lt;/p&gt;
+
+&lt;h2 id=&#34;presentation-materials&#34;&gt;Presentation materials&lt;/h2&gt;
+
+&lt;p&gt;Greg has uploaded Chris&amp;rsquo;s slides as well as a video of the PittJUG talk:&lt;/p&gt;
+
+&lt;iframe src=&#34;http://www.slideshare.net/slideshow/embed_code/11327294&#34; width=&#34;427&#34; height=&#34;356&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px&#34; allowfullscreen webkitallowfullscreen mozallowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;http://www.slideshare.net/akinsgre/building-a-compiler-in-jruby&#34; title=&#34;Building a compiler in JRuby&#34; target=&#34;_blank&#34;&gt;Building a compiler in JRuby&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;http://www.slideshare.net/akinsgre&#34; target=&#34;_blank&#34;&gt;akinsgre&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/wvg1m-lyKsU&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My first Pittsburgh Clojure Meetup: Ambrose Bonnaire-Sergeant on core.logic</title>
+      <link>http://franklinchen.com/blog/2011/11/15/my-first-pittsburgh-clojure-meetup-ambrose-bonnaire-sergeant-on-core-logic/</link>
+      <pubDate>Tue, 15 Nov 2011 23:12:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2011/11/15/my-first-pittsburgh-clojure-meetup-ambrose-bonnaire-sergeant-on-core-logic/</guid>
+      <description>&lt;p&gt;I finally attended a &lt;a href=&#34;http://www.meetup.com/Clojure-PGH/events/16249445/&#34;&gt;meeting&lt;/a&gt; of the local &lt;a href=&#34;http://www.meetup.com/Clojure-PGH/&#34;&gt;Pittsburgh Clojure meetup&lt;/a&gt; group, for the first time!&lt;/p&gt;
+
+&lt;p&gt;I came to this meeting largely because I heard that Ambrose Bonnaire-Sergeant, a student in Australia, was visiting the US &lt;a href=&#34;http://cemerick.com/2011/11/08/ambrose-has-received-his-clojure-scholarship-thanks-to-you/&#34;&gt;on scholarship&lt;/a&gt; to present at &lt;a href=&#34;https://github.com/relevance/clojure-conj/tree/master/2011-slides&#34;&gt;Clojure/Conj&lt;/a&gt; and was happening to be in town in Pittsburgh, and therefore was going to visit the Pittsburgh Clojure meetup group and talk about his recent work on logic programming.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;a-note-on-clojure&#34;&gt;A note on Clojure&lt;/h2&gt;
+
+&lt;p&gt;I confess I haven&amp;rsquo;t yet done anything with the Clojure language.&lt;/p&gt;
+
+&lt;p&gt;However, two decades ago, back in the 1990s, I spent a lot of time programming in Scheme, another Lisp variant, and I also did a tiny bit of programming in Common Lisp (but when I discovered Scheme, I basically lost all interest in Common Lisp).&lt;/p&gt;
+
+&lt;p&gt;It is remarkable to me that a Lisp has become revived again recently, because for decades it was always such a niche language. Probably most of us who have used Lisp at all have done so through Emacs, which is configured using Emacs Lisp. I&amp;rsquo;m pretty excited about the Lisp revival, despite my having my own reasons not to prefer Lisp right now for my own programming.&lt;/p&gt;
+
+&lt;h2 id=&#34;ambrose-s-presentation&#34;&gt;Ambrose&amp;rsquo;s presentation&lt;/h2&gt;
+
+&lt;p&gt;I got lost during Ambrose&amp;rsquo;s presentation since the logic programming library &lt;a href=&#34;https://github.com/clojure/core.logic&#34;&gt;&lt;code&gt;core.logic&lt;/code&gt;&lt;/a&gt; is an embedded domain-specific language with its own look. One of the advantages of Lisp is that macros enable creating domain-specific languages; of course, this is also a disadvantage. If I wanted to understand &lt;code&gt;core.logic&lt;/code&gt;, I would have to go off on my own and study it and play around with it and probably even study its implementation.&lt;/p&gt;
+
+&lt;p&gt;This is how I felt also last month when I went to a &lt;a href=&#34;../../blog/2011/10/06/pittsburgh-ruby-building-a-compiler-in-jruby/&#34;&gt;Ruby meetup that also involved domain-specific languages&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pittsburgh Ruby: Building a Compiler in JRuby</title>
+      <link>http://franklinchen.com/blog/2011/10/06/pittsburgh-ruby-building-a-compiler-in-jruby/</link>
+      <pubDate>Thu, 06 Oct 2011 22:29:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2011/10/06/pittsburgh-ruby-building-a-compiler-in-jruby/</guid>
+      <description>
+
+&lt;p&gt;Tonight I attended the meeting of the &lt;a href=&#34;http://pghrb.heroku.com/&#34;&gt;Pittsburgh Ruby group&lt;/a&gt; at Vivisimo. It&amp;rsquo;s been a year now since I first discovered the Pittsburgh Ruby group and finally attended my first meeting as an initial non-Rubyist on November 4, 2010, at the encouragement of Bruce, who said it was a friendly group.&lt;/p&gt;
+
+&lt;h2 id=&#34;presentation&#34;&gt;Presentation&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.chrisumbel.com/&#34;&gt;Chris Umbel&lt;/a&gt; gave a talk, &amp;ldquo;Building a compiler in JRuby&amp;rdquo;. Basically, he was inspired by Ian Dee&amp;rsquo;s work with a toy language &lt;a href=&#34;https://github.com/undees/thnad&#34;&gt;Thnad&lt;/a&gt; at JRubyConf 2011 to illustrate writing a simple compiler, and decided to do similarly, inventing &amp;ldquo;sucklang&amp;rdquo;, a &amp;ldquo;language that sucks&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;The room was totally packed! Clearly there was great interest in this topic.&lt;/p&gt;
+
+&lt;p&gt;The main tools used were:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://kschiess.github.com/parslet/&#34;&gt;Parslet&lt;/a&gt;, a parser combinator library for Ruby&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/headius/bitescript&#34;&gt;Bitescript&lt;/a&gt;, a Java bytecode generation library for Ruby&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The interesting thing to me was how both these tools involved internal &lt;a href=&#34;http://en.wikipedia.org/wiki/Domain-specific_language&#34;&gt;domain-specific languages (DSLs)&lt;/a&gt;, really showcasing how easy it is to create internal DSLs for Ruby. The down side, of course, is that not having been familiar with these tools before the talk, I was totally bewildered as Chris sped through overviews of them! I did make a note to investigate the libraries later.&lt;/p&gt;
+
+&lt;p&gt;It is definitely cool that with these DSLs, you can get up and going quickly to implement a toy language.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

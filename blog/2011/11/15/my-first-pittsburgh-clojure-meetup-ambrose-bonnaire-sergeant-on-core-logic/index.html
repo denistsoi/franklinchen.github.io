@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>My first Pittsburgh Clojure Meetup: Ambrose Bonnaire-Sergeant on core.logic &middot; Franklin Chen</title>
+
+  
+  <link rel="stylesheet" href="http://franklinchen.com/css/poole.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/hyde.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/poole-overrides.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/hyde-overrides.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/hyde-x.css">
+
+  <link rel="stylesheet" href="http://franklinchen.com/css/franklin.css">
+
+  <link rel="stylesheet" href="http://franklinchen.com/css/highlight/default.css">
+  <link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://franklinchen.com/touch-icon-144-precomposed.png">
+  <link href="http://franklinchen.com/favicon.png" rel="icon">
+
+  
+  
+  
+  
+
+  <meta name="description" content="Franklin Chen&#39;s personal Web site and blog">
+  <meta name="keywords" content="Franklin Chen, blog">
+  <link rel="author" href="http://plus.google.com/100967806642012078047">
+</head>
+<body class="theme-base-0e">
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      
+        
+        <h1>Franklin Chen</h1>
+        <p class="lead">Infinity in the palm of my hand.</p>
+    </div>
+
+    <ul class="sidebar-nav">
+      
+      <li class="sidebar-nav-item"><a href="http://franklinchen.com/contact/">Contact</a></li>
+      
+      <li class="sidebar-nav-item"><a href="http://ConscientiousProgrammer.com/">Programming blog</a></li>
+      <li class="sidebar-nav-item"><a href="http://chessimprover.com/author/franklinc/">Chess blog</a></li>
+      <li class="sidebar-nav-item"><a href="https://www.flickr.com/photos/franklinmingchen/">Photos</a></li>
+    </ul>
+
+    <ul class="sidebar-nav">
+      <li class="sidebar-nav-item">
+      <a href="https://github.com/FranklinChen"><i class="fa fa-github-square fa-3x"></i></a>
+      
+      
+      <a href="http://www.linkedin.com/in/franklinchen"><i class="fa fa-linkedin-square fa-3x"></i></a>
+      <a href="http://google.com/&#43;FranklinChen"><i class="fa fa-google-plus-square fa-3x"></i></a>
+      <a href="http://www.facebook.com/franklin.chen"><i class="fa fa-facebook-square fa-3x"></i></a>
+      <a href="http://twitter.com/franklinchen"><i class="fa fa-twitter-square fa-3x"></i></a>
+      <a href="http://www.youtube.com/user/FranklinChen"><i class="fa fa-youtube-square fa-3x"></i></a>
+      <a href="http://franklinchen.com/atom.xml" type="application/rss+xml"><i class="fa fa-rss-square fa-3x"></i></a>
+      </li>
+    </ul>
+
+    
+
+    <p>Copyright &copy; 2016 Franklin Chen<br/>
+       Powered by <a href="http://gohugo.io">Hugo</a> and <a href="https://github.com/zyro/hyde-x">Hyde-X</a></p>
+  </div>
+</div>
+
+
+<div class="content container">
+  <div class="post">
+    <h1>My first Pittsburgh Clojure Meetup: Ambrose Bonnaire-Sergeant on core.logic</h1>
+    
+
+<p>I finally attended a <a href="http://www.meetup.com/Clojure-PGH/events/16249445/">meeting</a> of the local <a href="http://www.meetup.com/Clojure-PGH/">Pittsburgh Clojure meetup</a> group, for the first time!</p>
+
+<p>I came to this meeting largely because I heard that Ambrose Bonnaire-Sergeant, a student in Australia, was visiting the US <a href="http://cemerick.com/2011/11/08/ambrose-has-received-his-clojure-scholarship-thanks-to-you/">on scholarship</a> to present at <a href="https://github.com/relevance/clojure-conj/tree/master/2011-slides">Clojure/Conj</a> and was happening to be in town in Pittsburgh, and therefore was going to visit the Pittsburgh Clojure meetup group and talk about his recent work on logic programming.</p>
+
+<h2 id="a-note-on-clojure">A note on Clojure</h2>
+
+<p>I confess I haven&rsquo;t yet done anything with the Clojure language.</p>
+
+<p>However, two decades ago, back in the 1990s, I spent a lot of time programming in Scheme, another Lisp variant, and I also did a tiny bit of programming in Common Lisp (but when I discovered Scheme, I basically lost all interest in Common Lisp).</p>
+
+<p>It is remarkable to me that a Lisp has become revived again recently, because for decades it was always such a niche language. Probably most of us who have used Lisp at all have done so through Emacs, which is configured using Emacs Lisp. I&rsquo;m pretty excited about the Lisp revival, despite my having my own reasons not to prefer Lisp right now for my own programming.</p>
+
+<h2 id="ambrose-s-presentation">Ambrose&rsquo;s presentation</h2>
+
+<p>I got lost during Ambrose&rsquo;s presentation since the logic programming library <a href="https://github.com/clojure/core.logic"><code>core.logic</code></a> is an embedded domain-specific language with its own look. One of the advantages of Lisp is that macros enable creating domain-specific languages; of course, this is also a disadvantage. If I wanted to understand <code>core.logic</code>, I would have to go off on my own and study it and play around with it and probably even study its implementation.</p>
+
+<p>This is how I felt also last month when I went to a <a href="../../../../../blog/2011/10/06/pittsburgh-ruby-building-a-compiler-in-jruby/">Ruby meetup that also involved domain-specific languages</a>.</p>
+
+    <div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'franklinchen';
+    var disqus_identifier = 'http:\/\/franklinchen.com\/blog\/2011\/11\/15\/my-first-pittsburgh-clojure-meetup-ambrose-bonnaire-sergeant-on-core-logic\/';
+    var disqus_title = 'My first Pittsburgh Clojure Meetup: Ambrose Bonnaire-Sergeant on core.logic';
+    var disqus_url = 'http:\/\/franklinchen.com\/blog\/2011\/11\/15\/my-first-pittsburgh-clojure-meetup-ambrose-bonnaire-sergeant-on-core-logic\/';
+
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+  </div>
+</div>
+<script src="http://franklinchen.com/js/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+</body>
+</html>
+

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Typesafe on Franklin Chen</title>
+    <link>http://franklinchen.com/categories/typesafe/atom/index.xml</link>
+    <description>Recent content in Typesafe on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/categories/typesafe/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Pittsburgh Scala Meetup: my talk &#34;Stop Overusing Regular Expressions!&#34;</title>
+      <link>http://franklinchen.com/blog/2013/05/29/pittsburgh-scala-meetup-my-talk-stop-overusing-regular-expressions/</link>
+      <pubDate>Wed, 29 May 2013 22:37:07 -0400</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/05/29/pittsburgh-scala-meetup-my-talk-stop-overusing-regular-expressions/</guid>
+      <description>&lt;p&gt;So two days ago, &lt;a href=&#34;http://jamieforrest.com/&#34;&gt;Jamie&lt;/a&gt; sent email out to the &lt;a href=&#34;http://www.meetup.com/Pittsburgh-Scala-Meetup/&#34;&gt;Pittsburgh Scala meetup group&lt;/a&gt; saying that our planned speaker Barrett, who was to have talked about his experiences using &lt;a href=&#34;http://akka.io/&#34;&gt;Akka&lt;/a&gt;, was not going to make it, and asked if anyone else could talk about something.&lt;/p&gt;
+
+&lt;h2 id=&#34;i-suddenly-stepped-in-as-a-substitute-speaker&#34;&gt;I suddenly stepped in as a substitute speaker&lt;/h2&gt;
+
+&lt;p&gt;Since I was already supposed to give a talk on Saturday at the 2013 &lt;a href=&#34;http://pghtechfest.com/&#34;&gt;Pittsburgh TechFest&lt;/a&gt;, and was in the process of finishing my work on it, I volunteered to give an early version of my Pittsburgh TechFest talk &lt;a href=&#34;http://www.meetup.com/Pittsburgh-Scala-Meetup/events/115817242/&#34;&gt;at the Scala meetup&lt;/a&gt;, since I actually happen to provide Scala code in the talk. Ha, this meant giving two talks in two successive meetings, because at the last meeting, I gave a &lt;a href=&#34;../../blog/2013/04/11/my-pittsburgh-scala-meetup-talk-on-property-based-testing-using-scalacheck/&#34;&gt;talk on property-based testing using ScalaCheck&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;presentation&#34;&gt;Presentation&lt;/h2&gt;
+
+&lt;p&gt;My presentation was &amp;ldquo;Stop overusing regular expressions!&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;Here is my abstract as submitted to Pittsburgh TechFest:
+&lt;blockquote&gt;
+Regular expressions are very commonly used to process and validate text data. Unfortunately, they suffer from various limitations. I will discuss the limitations and illustrate how using grammars instead can be an improvement. I will make the examples concrete using parsing libraries in a couple of representative languages, although the ideas are language-independent. (I&amp;rsquo;ll try to squeeze in, say, Ruby, Python, JavaScript, Scala.)&lt;/p&gt;
+
+&lt;p&gt;I will emphasize ease of use, since one reason for the overuse of regular expressions is that they are so easy to pull out of one&amp;rsquo;s toolbox.
+&lt;/blockquote&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;attendance&#34;&gt;Attendance&lt;/h3&gt;
+
+&lt;p&gt;Turnout was small: five people other than myself. By the way, we&amp;rsquo;ve discovered unsurprisingly predictable pattern: roughly half the people who RSVP &amp;ldquo;yes&amp;rdquo; on the meetups show up.&lt;/p&gt;
+
+&lt;h3 id=&#34;slides-and-code&#34;&gt;Slides and code&lt;/h3&gt;
+
+&lt;p&gt;The material for the talk &lt;em&gt;as given&lt;/em&gt; is at &lt;a href=&#34;https://github.com/franklinchen/talk-on-overusing-regular-expressions/tree/meetup-talk&#34;&gt;this tag of my GitHub repository&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;My &lt;a href=&#34;https://github.com/franklinchen/talk-on-overusing-regular-expressions&#34;&gt;master branch of the GitHub repository&lt;/a&gt; will always have my latest revisions.&lt;/p&gt;
+
+&lt;h4 id=&#34;update-of-2013-06-01&#34;&gt;(Update of 2013-06-01)&lt;/h4&gt;
+
+&lt;p&gt;I made substantial revisions in the presentation and code before Pittsburgh TechFest. I recommend looking at the latest version. Details in my &lt;a href=&#34;../../blog/2013/06/01/pittsburgh-tech-fest-2013-my-talk-stop-overusing-regular-expressions/&#34;&gt;report on my talk at Pittsburgh TechFest 2013&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src=&#34;http://www.slideshare.net/slideshow/embed_code/22302440&#34; width=&#34;427&#34; height=&#34;356&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px&#34; allowfullscreen webkitallowfullscreen mozallowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;http://www.slideshare.net/FranklinChen/handout-22302440&#34; title=&#34;Stop overusing regular expressions!&#34; target=&#34;_blank&#34;&gt;Stop overusing regular expressions!&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;http://www.slideshare.net/FranklinChen&#34; target=&#34;_blank&#34;&gt;Franklin Chen&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;after&#34;&gt;After&lt;/h2&gt;
+
+&lt;p&gt;There was great feedback after the talk. Some material I went through took quickly, without a smooth transition to relate ideas, and my final page of Scala code that contained dense use of all kinds of operators and idioms was something I stumbled through trying to explain, even as I was feeling that explaining it was a tangent from the main points of the talk.&lt;/p&gt;
+
+&lt;p&gt;There was casual discussion of Scala and other topics after the talk as well. I was pretty excited to hear about how useful Akka has become in solving important problems.&lt;/p&gt;
+
+&lt;h2 id=&#34;thanks&#34;&gt;Thanks&lt;/h2&gt;
+
+&lt;p&gt;Thanks to everyone who came to the talk! I enjoyed sharing my experiences and recommendations, and engaging in discussion about the topics, and getting to make a mental note of things to change in my delivery, slides, and code for Pittsburgh TechFest on Saturday.&lt;/p&gt;
+
+&lt;p&gt;Thanks to &lt;a href=&#34;http://justin-pihony.blogspot.com/&#34;&gt;Justin&lt;/a&gt; for arranging a meeting place for the Pittsburgh Scala meetup at &lt;a href=&#34;http://mmodal.com/&#34;&gt;M*Modal&lt;/a&gt;, and thanks to M*Modal for providing the space!&lt;/p&gt;
+
+&lt;p&gt;And thanks to Jamie again for creating the Pittsburgh Scala meetup group, and &lt;a href=&#34;http://typesafe.com/&#34;&gt;TypeSafe&lt;/a&gt; for being a sponsor now, thanks to &lt;a href=&#34;http://jsuereth.com/&#34;&gt;Josh&lt;/a&gt; (who sadly did not make it to this meeting).&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

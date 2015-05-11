@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Revv Oakland on Franklin Chen</title>
+    <link>http://franklinchen.com/categories/revv-oakland/atom/index.xml</link>
+    <description>Recent content in Revv Oakland on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/categories/revv-oakland/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>My Pittsburgh Scala Meetup talk on property-based testing using ScalaCheck</title>
+      <link>http://franklinchen.com/blog/2013/04/11/my-pittsburgh-scala-meetup-talk-on-property-based-testing-using-scalacheck/</link>
+      <pubDate>Thu, 11 Apr 2013 22:49:30 -0400</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/04/11/my-pittsburgh-scala-meetup-talk-on-property-based-testing-using-scalacheck/</guid>
+      <description>
+
+&lt;p&gt;Tonight was the &lt;a href=&#34;http://www.meetup.com/Pittsburgh-Scala-Meetup/events/108080782/&#34;&gt;third meeting&lt;/a&gt; of the &lt;a href=&#34;http://www.meetup.com/Pittsburgh-Scala-Meetup/&#34;&gt;Pittsburgh Scala Meetup&lt;/a&gt;. Our last meeting was &lt;a href=&#34;../../blog/2013/02/21/the-second-meeting-of-the-pittsburgh-scala-meetup-josh-suereth-on-functional-patterns-for-the-asynchronous-web/&#34;&gt;in late February&lt;/a&gt;, and we didn&amp;rsquo;t have a meeting in March.&lt;/p&gt;
+
+&lt;h2 id=&#34;attendance&#34;&gt;Attendance&lt;/h2&gt;
+
+&lt;p&gt;This time there were only six of us in attendance, but that had its advantages, as it resulted in everyone really participating fully in discussion.&lt;/p&gt;
+
+&lt;h2 id=&#34;presentation&#34;&gt;Presentation&lt;/h2&gt;
+
+&lt;p&gt;I gave a presentation &amp;ldquo;Beyond xUnit example-based testing: property-based testing with ScalaCheck&amp;rdquo; as an introduction to property-based testing, with examples using &lt;a href=&#34;http://www.scalacheck.org/&#34;&gt;ScalaCheck&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I prepared the presentation with the goal of spreading the word on property-based testing as a complement to much more widely used methods of testing in the TDD/BDD software development communities. My impression has been that outside of the functional programming communities such as those in Haskell (the pioneer of &lt;a href=&#34;http://en.wikipedia.org/wiki/QuickCheck&#34;&gt;QuickCheck&lt;/a&gt;), ML, and Haskell, there has not been as much use of property-based methods of design and testing. Fortunately, this has been changing.&lt;/p&gt;
+
+&lt;p&gt;In any case, I personally can no longer imagine not starting out design exploration without using ScalaCheck on Scala or Java based projects. It&amp;rsquo;s a useful additional tool for the developer&amp;rsquo;s toolkit.&lt;/p&gt;
+
+&lt;h3 id=&#34;slides-and-code&#34;&gt;Slides and code&lt;/h3&gt;
+
+&lt;p&gt;My slides are available &lt;a href=&#34;http://www.slideshare.net/FranklinChen/handout-18644963&#34;&gt;on slideshare&lt;/a&gt;, and a full SBT project of the code is &lt;a href=&#34;https://github.com/franklinchen/talk-on-scalacheck&#34;&gt;on GitHub&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Note that the slides are not in any way a substitute for the actual talk and the questions and answers and discussion during and after it! They are most useful as memory joggers for those who actually attended the presentation. A set of slides is nothing resembling a technical article or a blog post.&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src=&#34;http://www.slideshare.net/slideshow/embed_code/18644963&#34; width=&#34;427&#34; height=&#34;356&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px&#34; allowfullscreen webkitallowfullscreen mozallowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;http://www.slideshare.net/FranklinChen/handout-18644963&#34; title=&#34;Beyond xUnit example-based testing: property-based testing with ScalaCheck&#34; target=&#34;_blank&#34;&gt;Beyond xUnit example-based testing: property-based testing with ScalaCheck&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;http://www.slideshare.net/FranklinChen&#34; target=&#34;_blank&#34;&gt;Franklin Chen&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;after&#34;&gt;After&lt;/h2&gt;
+
+&lt;p&gt;Out of some questions during the talk, we came up with an idea for improving ScalaCheck that might be an interesting group project to work on.&lt;/p&gt;
+
+&lt;p&gt;There was also more general discussion of using Scala, upcoming and ongoing local Pittsburgh general tech gatherings, Josh filling us in on developments in the Scala world, and ideas for future presentations.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;It was a small gathering, but I enjoyed presenting on property-based testing, and we had some really good discussions. Another meeting for the Pittsburgh Scala Meetup has already been &lt;a href=&#34;http://www.meetup.com/Pittsburgh-Scala-Meetup/events/112652112/&#34;&gt;scheduled for May&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The second meeting of the Pittsburgh Scala Meetup: Josh Suereth on functional patterns for the asynchronous Web</title>
+      <link>http://franklinchen.com/blog/2013/02/21/the-second-meeting-of-the-pittsburgh-scala-meetup-josh-suereth-on-functional-patterns-for-the-asynchronous-web/</link>
+      <pubDate>Thu, 21 Feb 2013 23:56:50 -0400</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/02/21/the-second-meeting-of-the-pittsburgh-scala-meetup-josh-suereth-on-functional-patterns-for-the-asynchronous-web/</guid>
+      <description>
+
+&lt;p&gt;Tonight was the &lt;a href=&#34;http://www.meetup.com/Pittsburgh-Scala-Meetup/events/99077622/&#34;&gt;second meeting&lt;/a&gt; of the &lt;a href=&#34;http://www.meetup.com/Pittsburgh-Scala-Meetup/&#34;&gt;Pittsburgh Scala Meetup&lt;/a&gt;. It was our first &amp;ldquo;real&amp;rdquo; meeting, in the sense that &lt;a href=&#34;../../blog/2013/01/11/2013-is-my-year-of-scala/&#34;&gt;our first meetup&lt;/a&gt; was just a little gathering in a bar, and this time, we were able to use a nice space in &lt;a href=&#34;http://www.revvoakland.com/&#34;&gt;Revv Oakland&lt;/a&gt; to meet in.&lt;/p&gt;
+
+&lt;h2 id=&#34;attendance&#34;&gt;Attendance&lt;/h2&gt;
+
+&lt;p&gt;A large number of people showed up, which was encouraging, indicating local Pittsburgh interest in Scala.&lt;/p&gt;
+
+&lt;h2 id=&#34;presentation&#34;&gt;Presentation&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://jsuereth.com/&#34;&gt;Josh Suereth&lt;/a&gt; gave the first presentation for the group, a version targeted more to novices of the &lt;a href=&#34;http://jsuereth.com/scala/2013/02/13/nescala-intro-to-fp-talk.html&#34;&gt;talk he gave at NE Scala 2013&lt;/a&gt;, &amp;ldquo;Functional Programming Patterns for the Asynchronous Web&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;By the way, his NE Scala talk, which was constrained because it had be squeezed into 30 minutes and for a diverse audience, is available &lt;a href=&#34;http://nescala.org/#t-12229286&#34;&gt;at the NE Scala site as both video and slides&lt;/a&gt;. I didn&amp;rsquo;t attend his talk when &lt;a href=&#34;../../blog/2013/02/10/ne-scala-2013-my-first-scala-conference/&#34;&gt;we went to NE Scala&lt;/a&gt; because he test-drove it with Jamie and me and I wanted to see people I didn&amp;rsquo;t already know, and different topics.&lt;/p&gt;
+
+&lt;h2 id=&#34;after&#34;&gt;After&lt;/h2&gt;
+
+&lt;p&gt;After the talk, there was general discussion.&lt;/p&gt;
+
+&lt;p&gt;We also brainstormed ideas for a group project. One of the ideas was to create a Web site using &lt;a href=&#34;http://www.playframework.com/&#34;&gt;Play&lt;/a&gt;. Jamie created an initial &lt;a href=&#34;https://github.com/pghscala/web&#34;&gt;GitHub repository for this&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;It&amp;rsquo;s great that the Pittsburgh Scala Meetup is really getting off the ground now. Now that we have a space to use, hopefully we will begin a regularly occurring meeting. And of course, volunteers are needed to start giving talks!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stanford University on Franklin Chen</title>
+    <link>http://franklinchen.com/categories/stanford-university/atom/index.xml</link>
+    <description>Recent content in Stanford University on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/categories/stanford-university/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Experiment in learning: completing Stanford online course: Machine Learning</title>
+      <link>http://franklinchen.com/blog/2012/01/12/experiment-in-learning-completing-stanford-online-course-machine-learning/</link>
+      <pubDate>Thu, 12 Jan 2012 23:54:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/01/12/experiment-in-learning-completing-stanford-online-course-machine-learning/</guid>
+      <description>&lt;p&gt;Yesterday I wrote about my experience with completing, in fall 2011, the free online Stanford course &lt;a href=&#34;../../blog/2012/01/11/experiment-in-learning-completing-stanford-online-course-introduction-to-databases/&#34;&gt;Introduction to Databases&lt;/a&gt;. Today I am writing about my experience with completing &lt;a href=&#34;http://www.ml-class.org/&#34;&gt;Machine Learning&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This course was different in many important ways from the databases course.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;why-did-i-take-this-online-course&#34;&gt;Why did I take this online course?&lt;/h2&gt;
+
+&lt;p&gt;I have been quite interested in machine learning for a long time now. Years ago, I started taking a course in machine learning at Carnegie Mellon but had to drop it because I was overbooked with too many other things to do. The closest I have ever come to machine learning was completing a course years ago in [&amp;ldquo;language technologies&amp;rdquo;] at Carnegie Mellon. That was a survey course running through the topics of information retrieval, parsing, machine translation, etc.&lt;/p&gt;
+
+&lt;p&gt;For the same reasons that I mentioned in my post yesterday, I did not expect to try to take a traditional formal-classroom machine learning course again: I don&amp;rsquo;t find that to be an efficient route to learning given my time constraints involving work and personal projects outside of work.&lt;/p&gt;
+
+&lt;p&gt;Self-study has always been an option, and I have several machine learning textbooks, some of which are clearer than others, and elegantly explain the theoretical basis, but at this stage of my life I&amp;rsquo;m more interested in &lt;em&gt;application&lt;/em&gt; than in getting deep into theory.&lt;/p&gt;
+
+&lt;h2 id=&#34;completion-of-the-course&#34;&gt;Completion of the course&lt;/h2&gt;
+
+&lt;p&gt;In December 2011, I did complete the machine learning course, having done all the in-lecture quizzes, the review questions, and the programming exercises. There were no exams.&lt;/p&gt;
+
+&lt;p&gt;Although we were not required to, I did all the optional sections of the programming exercises.&lt;/p&gt;
+
+&lt;p&gt;I received my &amp;ldquo;statement of accomplishment&amp;rdquo; recently, and had a perfect score in the course. (That is not say much, and I&amp;rsquo;ll explain why.)&lt;/p&gt;
+
+&lt;h2 id=&#34;my-strategy&#34;&gt;My strategy&lt;/h2&gt;
+
+&lt;p&gt;As with the databases class, I tried to be efficient. In the end, I think I spent about five hours a week on the course.&lt;/p&gt;
+
+&lt;h3 id=&#34;textbooks&#34;&gt;Textbooks&lt;/h3&gt;
+
+&lt;p&gt;I did not use any textbooks during the course. The course was self-contained, with the lectures covering all the concepts and explanations and equations and algorithms necessary to complete the programming assignments.&lt;/p&gt;
+
+&lt;p&gt;Once I did try to look up an algorithm to get more theoretical insight about it, but immediately encountered an annoying problem: everyone seems to use slightly different mathematical notation.&lt;/p&gt;
+
+&lt;h3 id=&#34;lectures-and-demos&#34;&gt;Lectures and demos&lt;/h3&gt;
+
+&lt;p&gt;The lectures were the core of the course. I watched them, taking notes for myself as I felt the need, and made sure to get the in-lecture quizzes right before moving on to the next lecture segment or lecture.&lt;/p&gt;
+
+&lt;p&gt;Professor Andrew Ng obviously put a great deal of care into the video lectures. These were some of the most lucid and attention-maintaining lectures I have ever seen in my entire life, either live or in person. His calm and upbeat tone and pacing, along with useful demos and annotations on the slides, and humility while offering practical advice on the work flow of solving problems using machine learning, were what made this course really enjoyable and memorable!&lt;/p&gt;
+
+&lt;p&gt;In &amp;ldquo;real life&amp;rdquo; lectures, there are a lot of opportunities for wasted time. I think video lectures solve many of the problems because demo setup, false starts, administrative reminders can be omitted or edited out. On the other hand, student questions in real life can also potentially not be useful to every student in attendance, but can also potentially be very useful. I think that in a video lecture, the instructor must be more aware of potential confusions and questions, in order to anticipate them rather then relegate them to online forum discussions. The in-lecture quizzes go a bit of the way toward filling in gaps, I think.&lt;/p&gt;
+
+&lt;h3 id=&#34;review-exercises&#34;&gt;Review exercises&lt;/h3&gt;
+
+&lt;p&gt;I did the review exercises after watching the relevant lectures and completing their embedded quizzes.&lt;/p&gt;
+
+&lt;h3 id=&#34;online-discussion-forum&#34;&gt;Online discussion forum&lt;/h3&gt;
+
+&lt;p&gt;I did not really use the online discussion forum, except when I was encountering bugs in Octave on Mac OS, and looked to see if other people had problems, and yes, they did.&lt;/p&gt;
+
+&lt;h3 id=&#34;programming-exercises&#34;&gt;Programming exercises&lt;/h3&gt;
+
+&lt;p&gt;I started the programming exercise for the week only after completing all the other material. We used the Octave programming language and environment in the course.&lt;/p&gt;
+
+&lt;h2 id=&#34;difficulty-of-the-course&#34;&gt;Difficulty of the course&lt;/h2&gt;
+
+&lt;p&gt;Overall, the course was not very difficult. And that was fine, given my goal of efficient mastery of practical basics, such that I could continue deeper learning and use in the future.&lt;/p&gt;
+
+&lt;p&gt;That said, the hungry theorist within me felt a little left out by the relentlessly practical nature of the course.&lt;/p&gt;
+
+&lt;p&gt;Also, the programming exercises could have been more involved.&lt;/p&gt;
+
+&lt;h2 id=&#34;benefits-of-the-course-format&#34;&gt;Benefits of the course format&lt;/h2&gt;
+
+&lt;h3 id=&#34;time-flexibility-and-efficiency&#34;&gt;Time flexibility and efficiency&lt;/h3&gt;
+
+&lt;p&gt;As mentioned in my post about databases, I appreciated that I could work through lectures at any time, and without having to go to a classroom somewhere. There was also the option of speeding up the video, but I have to confess that just made things eerie, and I only tried that once before returning to normal speed.&lt;/p&gt;
+
+&lt;h3 id=&#34;in-lecture-quizzes&#34;&gt;In-lecture quizzes&lt;/h3&gt;
+
+&lt;p&gt;In-lecture quizzes are a vital part of this whole learning experience. (In fact, I wish there had been more!)&lt;/p&gt;
+
+&lt;h2 id=&#34;flaws-in-the-online-course-format&#34;&gt;Flaws in the online course format&lt;/h2&gt;
+
+&lt;h3 id=&#34;lecture-slides-were-late&#34;&gt;Lecture slides were late&lt;/h3&gt;
+
+&lt;p&gt;The lecture slides tended to arrive late in a week, well after I had already watched the lectures. If lecture slides had been provided as soon as the videos were posted, that would have made note-taking much more efficient. I ended up basically taking my own notes during the lectures before the slides appeared.&lt;/p&gt;
+
+&lt;h3 id=&#34;less-depth&#34;&gt;Less depth&lt;/h3&gt;
+
+&lt;p&gt;I enjoyed that there was a focus on practical application at the expense of theory, but I would have liked to see optional lectures and/or handouts covering theoretical proofs as relevant to what we were applying.&lt;/p&gt;
+
+&lt;p&gt;There was no opportunity to work on an open-ended project for assessment and feedback.&lt;/p&gt;
+
+&lt;h3 id=&#34;programming-exercises-were-too-easy&#34;&gt;Programming exercises were too easy&lt;/h3&gt;
+
+&lt;p&gt;The biggest flaw in the course was that the programming exercises were too easy.&lt;/p&gt;
+
+&lt;p&gt;The level of hand-holding in the exercise descriptions was really extreme, with equations and algorithms given and even a lot of Octave code hints that sometimes practically gave away what needed to be done (which often was just a few lines of code). I would not have minded not having any of those hints. It is not so hard to consult the slides for the algorithms discussed, and some of the specific Octave hints could have been extracted into a more general machine-learning-independent discussion of common Octave computational techniques (such as tricks to express vectorization in the face of bias units).&lt;/p&gt;
+
+&lt;p&gt;The hand-holding extended to the use of a pre-written monolithic driver program for each exercise. Obviously, the student would have done best to study the entire driver program&amp;rsquo;s code, but it was easy to get by without doing so. There should have been at least one assignment in which the student wrote an entire Octave program, including the driver (given sufficient hints). I don&amp;rsquo;t like the idea that many of us who completed this course might be going out in the world just copying and pasting from driver programs to get stuff done. And that brings me to another matter of concern.&lt;/p&gt;
+
+&lt;p&gt;The code given to us was monolithic, not modular. Out of laziness, I did little to remedy the situation, although in a real project rather than a programming exercise to complete quickly and get over with. When I was writing code for the exercises, and testing and running my code, I would just comment code out of the driver programs that I wasn&amp;rsquo;t using at the time. It would have been better if we had been given a modular driver so that we could test different parts of the exercise more independently. The code we were given simply did not adhere to the good programming practices I would expect if were programming in Java or C++ or something like that. Just because it&amp;rsquo;s Octave doesn&amp;rsquo;t mean we should be programming sloppily.&lt;/p&gt;
+
+&lt;p&gt;So I would advise providing more modular and test-encouraging starter code for the programming exercises.&lt;/p&gt;
+
+&lt;h3 id=&#34;octave-glitches&#34;&gt;Octave glitches&lt;/h3&gt;
+
+&lt;p&gt;There was a bug in the Mac OS version of Octave we were told to download. This wasted a good amount of my time when doing one of the programming exercises, until I discovered on the online forum that other people had encountered the same bug. I think that in an online course, making sure up front that everything works on the all the platforms should be of high priority.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;I felt it was worthwhile completing the Stanford online machine learning course. The broad practical survey gives me sufficient confidence that I could immediately use machine learning to solve some real problems today, as well as confidence that I could deepen my understanding by continuing more theoretical study.&lt;/p&gt;
+
+&lt;p&gt;I am grateful to Professor Andrew Ng and his team for making this course run as smoothly as it did.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Experiment in learning: completing Stanford online course: Introduction to Databases</title>
+      <link>http://franklinchen.com/blog/2012/01/11/experiment-in-learning-completing-stanford-online-course-introduction-to-databases/</link>
+      <pubDate>Wed, 11 Jan 2012 21:31:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/01/11/experiment-in-learning-completing-stanford-online-course-introduction-to-databases/</guid>
+      <description>&lt;p&gt;In October 2011, Stanford University broke new ground by offering three free online computer science courses:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ai-class.com/&#34;&gt;Introduction to Artificial Intelligence&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.db-class.org/&#34;&gt;Introduction to Databases&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ml-class.org/&#34;&gt;Machine Learning&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Curious, I signed up for all three of the courses, since I had never taken a course in any of these three subjects.&lt;/p&gt;
+
+&lt;p&gt;Because I was not enjoying the AI course and did not expect to find it so useful, I dropped it after completing all the assignments in the first week or two.&lt;/p&gt;
+
+&lt;p&gt;Here I report on the databases course. I will follow up with a report on the machine learning course.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;why-did-i-take-this-online-course&#34;&gt;Why did I take this online course?&lt;/h2&gt;
+
+&lt;p&gt;For the record, the subject of databases is not inherently all that interesting to me.&lt;/p&gt;
+
+&lt;p&gt;I took the databases course with the aim of efficiently filling in a gap in my formal education: I was not a computer science major and never took a single computer science course in college, and did not take a databases course in graduate school. I have always had the option, of course, of taking a databases course here at Carnegie Mellon University, or just reading and studying material on my own, but there have been two obvious reasons not to.&lt;/p&gt;
+
+&lt;p&gt;I did not take a databases course at Carnegie Mellon because I have taken courses here before and they are very time-consuming for someone who is working. Not only are there lectures and recitations at fixed times, but also a good amount of homework. I have never liked this format of learning, even when I was a full-time student. It always seemed inefficient, and cramming in a lot of detailed material into each course always left me feeling that I was not mastering everything anyway and was not going to retain it, if the subject was not something of primary interest or use to me. Therefore, I am pretty much done with taking traditional courses for learning. They are not an efficient use of my time or energy. What is efficient is intense learning and mastery of fundamentals and retaining them.&lt;/p&gt;
+
+&lt;p&gt;I did try some self-study years ago, but that was problematic, because I couldn&amp;rsquo;t easily determine what fundamentals to focus on and how to assess myself with relatively little effort. I bought a &lt;a href=&#34;http://www.mhhe.com/engcs/compsci/silberschatz_bridge/index.mhtml&#34;&gt;standard textbook&lt;/a&gt; a long time ago, but was unable to force myself to read it because it was so dry and thick. I just got confused and bored out of my mind.&lt;/p&gt;
+
+&lt;p&gt;Taking an online course with no grade hanging over my head seemed a good way to experiment and learn whatever I felt I was up to learning, based on such factors as difficulty and time commitment.&lt;/p&gt;
+
+&lt;h2 id=&#34;completion-of-the-course&#34;&gt;Completion of the course&lt;/h2&gt;
+
+&lt;p&gt;In December 2011, I did complete the databases course, having done all the in-lecture quizzes, the review exercises, the midterm, and the final exam. I did not get a perfect score, but missed a few points.&lt;/p&gt;
+
+&lt;h2 id=&#34;my-strategy&#34;&gt;My strategy&lt;/h2&gt;
+
+&lt;p&gt;Given how little time I had to devote to the Stanford classes (sadly, much of my weekend time was spent trying to get stuff done by the end of Sunday), I tried to be efficient. In the end, I spent about four hours a week on the databases course, most of which was devoted simply to working through the lecture and demo videos. I can easily imagine an in-depth traditional course taking up to ten hours a week (lectures and recitations, homework, context switching in the middle of the work day).&lt;/p&gt;
+
+&lt;h3 id=&#34;textbooks&#34;&gt;Textbooks&lt;/h3&gt;
+
+&lt;p&gt;I had no time to read any of the suggested textbooks. And any time I tried to browse the old edition of the textbook I have, I just got impatient and confused anyway.&lt;/p&gt;
+
+&lt;h3 id=&#34;lectures-and-demos&#34;&gt;Lectures and demos&lt;/h3&gt;
+
+&lt;p&gt;What I did do was faithfully watch the lectures, and make notes on the slides which I printed out beforehand, master all the in-lecture quizzes (with some exceptions, to be discussed below), and then complete the review exercises, using the &amp;ldquo;testing workbench&amp;rdquo; until I got every one of my answers &amp;ldquo;correct&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;For the demos of relational algebra and XSLT and XQuery and SQL engines, we were urged to experiment ourselves with creating queries and the like, but because of time constraints, I chose not to do that. I did carefully follow along with the commented code transcripts of the demos, however, and pause the demos (which often went at breakneck speed!) to go over the transcript and write some notes to myself before moving on.&lt;/p&gt;
+
+&lt;p&gt;The instructor, Professor Jennifer Widom, was very enthusiastic and clear in her lectures and demos. Her &amp;ldquo;screenside chats&amp;rdquo; were useful in &amp;ldquo;humanizing&amp;rdquo; the course experience.&lt;/p&gt;
+
+&lt;h3 id=&#34;online-discussion-forum&#34;&gt;Online discussion forum&lt;/h3&gt;
+
+&lt;p&gt;I did not really use the online discussion forum.&lt;/p&gt;
+
+&lt;h3 id=&#34;other-study&#34;&gt;Other study&lt;/h3&gt;
+
+&lt;p&gt;I did not much use the optional exercises. I looked at them but did not find them very useful.&lt;/p&gt;
+
+&lt;p&gt;I did not &amp;ldquo;study&amp;rdquo; for the midterm or final exams; I just went and took them with no review of anything.&lt;/p&gt;
+
+&lt;h2 id=&#34;difficulty-of-the-course&#34;&gt;Difficulty of the course&lt;/h2&gt;
+
+&lt;p&gt;Overall, the course was not very difficult. And that was fine. When I&amp;rsquo;m trying to learn the fundamentals of a subject that is not my primary interest or usefulness, I&amp;rsquo;m not interested in being forced to run the gauntlet as though I were training to become an instant expert by completion of a course.&lt;/p&gt;
+
+&lt;p&gt;That said, there were some topics in the course that we were rightly warned were difficult. The material on multivalued dependencies, relational design theory were quite abstract and dry. I will confess that I never fully mastered this material. But I did not feel it worth the effort to master it all.&lt;/p&gt;
+
+&lt;h2 id=&#34;benefits-of-the-course-format&#34;&gt;Benefits of the course format&lt;/h2&gt;
+
+&lt;h3 id=&#34;time-flexibility-and-efficiency&#34;&gt;Time flexibility and efficiency&lt;/h3&gt;
+
+&lt;p&gt;Very nice in comparison with traditional courses was that I could watch the lectures at any time. Typically I worked through lectures before bedtime on some weekdays, on Friday (which I was taking off every week from work from October till December to ease my burden, using up vacation time that had accumulated and needed to be used anyway), and on Saturday. Sometimes I was too occupied during the work week to watch any lectures until Thursday or Friday. That was not optimal, because catching up was unpleasant (as with real life lectures, I really do not like watching one for more than twenty minutes at a time), but at least it was actually possible to load up on lectures and catch up.&lt;/p&gt;
+
+&lt;h3 id=&#34;in-lecture-quizzes&#34;&gt;In-lecture quizzes&lt;/h3&gt;
+
+&lt;p&gt;The in-lecture quizzes were &lt;em&gt;very&lt;/em&gt; helpful, and one of the highlights of this learning format. They enabled me to get quick assessment of whether I totally understood the material I just watched or needed to review a bit more.&lt;/p&gt;
+
+&lt;p&gt;Sometimes I was tired or distracted when watching a lecture segment and found myself at a loss at a quiz. It was very useful to catch myself at frequent quiz checkpoints. In a traditional lecture, I have certainly experienced getting lost and basically wasting a whole half hour or more as a result of not having demonstrated to myself mastery before moving on. With the ungraded quizzes that one can take again and again, I found it mostly easy to go back to review a lecture and then master the topic being quizzed. The process was quite efficient, for the most part.&lt;/p&gt;
+
+&lt;h3 id=&#34;testing-workbench&#34;&gt;Testing workbench&lt;/h3&gt;
+
+&lt;p&gt;The testing workbench was also useful, in that it gave immediate feedback on whether an answer (typically a query I had to write) was correct on a test case. Most of the time I was correct at first try, but sometimes I made a mistake and had to correct it.&lt;/p&gt;
+
+&lt;p&gt;That you could keep on making submissions was, I think, a good feature, because the real goal is to master something, after all. I never liked it when I was in school and sometimes I would take a class and got penalized for making mistakes in homework, even though I quickly mastered the material after the feedback of the homework errors. Should students be graded on what they know at the end of a course, or on what they know at some transient snapshot in time when they were in the process of learning?&lt;/p&gt;
+
+&lt;h3 id=&#34;software-tools&#34;&gt;Software tools&lt;/h3&gt;
+
+&lt;p&gt;I assume some people just typed their queries into the testing workbench and messed with them until they passed. I did not do that. I downloaded the data and tools (such as SQLite), and developed my answers totally outside the testing workbench, then copied and pasted to the testing workbench. I found this a much more useful way to learn and write code.&lt;/p&gt;
+
+&lt;h2 id=&#34;flaws-in-the-online-course-format&#34;&gt;Flaws in the online course format&lt;/h2&gt;
+
+&lt;h3 id=&#34;less-depth&#34;&gt;Less depth&lt;/h3&gt;
+
+&lt;p&gt;Without more detailed homework and projects that would require supplemental reading, there was less depth than there would be in a traditional course.&lt;/p&gt;
+
+&lt;p&gt;The midterm and final exams were somewhat simplistic, being just multiple-choice questions. Perhaps they should be extended with questions asking for SQL and XML queries to be submitted.&lt;/p&gt;
+
+&lt;p&gt;Obviously, the format of the course did not allow for interesting independent projects to be done and assessed.&lt;/p&gt;
+
+&lt;h3 id=&#34;assignment-due-dates&#34;&gt;Assignment due dates&lt;/h3&gt;
+
+&lt;p&gt;Unfortunately, assignment due dates were chosen far beyond the actual schedule of the lectures, which meant a lot of people, including me, &amp;ldquo;procrastinated&amp;rdquo;. This made for a very stressful December as I was spending all my time outside of work struggling to catch up before the final exam. Psychologically, this lax assignment due date policy was a mistake.&lt;/p&gt;
+
+&lt;h3 id=&#34;sql-itself&#34;&gt;SQL itself&lt;/h3&gt;
+
+&lt;p&gt;This may not be a drawback of the course, as such, but of the state of the SQL world: practically every lecture talked about standards and how the implementations of SQL don&amp;rsquo;t implement everything in the SQL standard and differ from each other. We learned constructs that were not supported by any of the SQL implementations recommended to us! I presume that in a traditional course, we would have had access to some proprietary database that did support the full SQL standard?&lt;/p&gt;
+
+&lt;h3 id=&#34;lack-of-worked-out-examples&#34;&gt;Lack of worked-out examples&lt;/h3&gt;
+
+&lt;p&gt;As long as the material wasn&amp;rsquo;t very difficult, I found the process of verifying mastery to be very efficient. The trouble came when I didn&amp;rsquo;t understand something. In particular, multivalued dependencies and relational design theory turned out to cause me problems. I chose not to work too hard to resolve them, but was surprised by the lack of suitable material provided to help out.&lt;/p&gt;
+
+&lt;p&gt;What I would have found very useful would have been more supplementary material, in the form of worked-out examples. And I was surprised that the optional exercises only came with an answer key, not &lt;em&gt;explanations&lt;/em&gt;. It&amp;rsquo;s not sufficiently useful to know whether one&amp;rsquo;s answer is correct, or to be told which answer (of a multiple-choice question) is correct.&lt;/p&gt;
+
+&lt;p&gt;Theoretically, I could have asked for help on the discussion forum, and I would have if the material happened to be more interesting and important. But I happened to make the decision to not fully master every corner of multivalued dependencies and normalization, because I judged that if I ever needed to get this stuff straight, I could run an algorithm rather than compute things by hand.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;I felt it was worthwhile completing the Stanford online databases course. For me, it was as much a personal experiment with online learning as it was a matter of learning more about databases in particular.&lt;/p&gt;
+
+&lt;p&gt;I am grateful to Professor Jennifer Widom and her team for making this course possible.&lt;/p&gt;
+
+&lt;h2 id=&#34;postscript&#34;&gt;Postscript&lt;/h2&gt;
+
+&lt;p&gt;I will also write a report on the machine learning course, which was very different in various ways from the databases course.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

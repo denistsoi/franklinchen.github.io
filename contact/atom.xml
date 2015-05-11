@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contacts on Franklin Chen</title>
+    <link>http://franklinchen.com/contact/atom/index.xml</link>
+    <description>Recent content in Contacts on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/contact/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Contact</title>
+      <link>http://franklinchen.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/contact/</guid>
+      <description>
+
+&lt;h2 id=&#34;my-name&#34;&gt;My name&lt;/h2&gt;
+
+&lt;p&gt;I like to be called &lt;strong&gt;Franklin&lt;/strong&gt;, not &amp;ldquo;Frank&amp;rdquo;.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://www.gravatar.com/avatar/f8a7ccb41af2422d10599464b96cf034.png?size=200&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Franklin Chen&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;h2 id=&#34;email&#34;&gt;Email&lt;/h2&gt;
+
+&lt;p&gt;Please send me email at &lt;a href=&#39;&amp;#109;&amp;#97;&amp;#105;&amp;#108;&amp;#116;&amp;#111;&amp;#58;&amp;#102;&amp;#114;&amp;#97;&amp;#110;&amp;#107;&amp;#108;&amp;#105;&amp;#110;&amp;#99;&amp;#104;&amp;#101;&amp;#110;&amp;#64;&amp;#102;&amp;#114;&amp;#97;&amp;#110;&amp;#107;&amp;#108;&amp;#105;&amp;#110;&amp;#99;&amp;#104;&amp;#101;&amp;#110;&amp;#46;&amp;#99;&amp;#111;&amp;#109;&#39;&gt;&amp;#102;&amp;#114;&amp;#97;&amp;#110;&amp;#107;&amp;#108;&amp;#105;&amp;#110;&amp;#99;&amp;#104;&amp;#101;&amp;#110;&amp;#64;&amp;#102;&amp;#114;&amp;#97;&amp;#110;&amp;#107;&amp;#108;&amp;#105;&amp;#110;&amp;#99;&amp;#104;&amp;#101;&amp;#110;&amp;#46;&amp;#99;&amp;#111;&amp;#109;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;some-social-networks-i-m-on&#34;&gt;Some social networks I&amp;rsquo;m on&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://twitter.com/franklinchen&#34;&gt;Twitter: @franklinchen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://plus.google.com/+FranklinChen?rel=me&#34;&gt;Google+&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.linkedin.com/in/franklinchen&#34;&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.facebook.com/franklin.chen&#34;&gt;Facebook&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;my-location&#34;&gt;My location&lt;/h2&gt;
+
+&lt;p&gt;I live in Pittsburgh, Pennsylvania. If you see me around town, feel free to say &amp;ldquo;hi&amp;rdquo;!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.tripadvisor.com/LocationPhotos-g53449-Pittsburgh_Pennsylvania.html&#34;&gt;&lt;img alt=&#34;Pittsburgh Images&#34; src=&#34;http://media-cdn.tripadvisor.com/media/photo-s/01/34/bd/a1/view-from-top-of-incline.jpg&#34;/&gt;&lt;/a&gt;&lt;br/&gt;This photo of &lt;a href=&#34;http://www.tripadvisor.com/Tourism-g53449-Pittsburgh_Pennsylvania-Vacations.html&#34;&gt;Pittsburgh&lt;/a&gt; is courtesy of TripAdvisor&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

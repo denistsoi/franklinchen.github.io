@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ml on Franklin Chen</title>
+    <link>http://franklinchen.com/categories/ml/atom/index.xml</link>
+    <description>Recent content in Ml on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/categories/ml/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>RIP, John McCarthy; but Lisp will never die</title>
+      <link>http://franklinchen.com/blog/2011/10/25/rip-john-mccarthy-but-lisp-will-never-die/</link>
+      <pubDate>Tue, 25 Oct 2011 00:14:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2011/10/25/rip-john-mccarthy-but-lisp-will-never-die/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;(Updated 2012-01-16)&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The legendary computer scientist &lt;a href=&#34;http://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)&#34;&gt;John McCarthy&lt;/a&gt; died yesterday. So there goes another guy without whom my life today would be unimaginably different: &lt;a href=&#34;../../blog/2011/10/05/i-cannot-imagine-my-life-without-the-influence-of-steve-jobs/&#34;&gt;Steve Jobs&lt;/a&gt; and &lt;a href=&#34;../../blog/2011/10/13/why-dennis-ritchie-is-important/&#34;&gt;Dennis Ritchie&lt;/a&gt; just left us this month!&lt;/p&gt;
+
+&lt;p&gt;In a way, more than Jobs, and more than Ritchie, McCarthy indirectly got me taking seriously the whole field of computing, and actually loving it.&lt;/p&gt;
+
+&lt;p&gt;Because I &lt;em&gt;never for a moment&lt;/em&gt; enjoyed computer programming until I discovered &lt;a href=&#34;http://en.wikipedia.org/wiki/Lisp_(programming_language)&#34;&gt;Lisp&lt;/a&gt;, the programming language that McCarthy invented and what he will surely be most remembered for most, among his other contributions to computer science.&lt;/p&gt;
+
+&lt;p&gt;My story of love and hate in computer programming:&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;i-hate-programming&#34;&gt;I hate programming&lt;/h2&gt;
+
+&lt;p&gt;I had finished my junior year of high school and was away from home for the first time in my life, attending the &lt;a href=&#34;http://www.cee.org/programs/rsi&#34;&gt;Research Science Institute&lt;/a&gt;(RSI), a free summer science program. There, I encountered a lot of very smart and already accomplished peers.&lt;/p&gt;
+
+&lt;p&gt;A new friend I made at the science program was into artificial intelligence (AI) (a term coined by John McCarthy, in fact), and programming in Lisp and Prolog. He ended up doing his summer project on expert systems. He had the books on &lt;a href=&#34;http://www.amazon.com/Artificial-Intelligence-Addison-Wesley-computer-science/dp/0201084546&#34;&gt;AI&lt;/a&gt; and &lt;a href=&#34;http://www.amazon.com/LISP-Patrick-Henry-Winston/dp/0201083728&#34;&gt;Lisp&lt;/a&gt; by Patrick Winston, and he and others raved about a book by &lt;a href=&#34;http://en.wikipedia.org/wiki/Douglas_Hofstadter&#34;&gt;Doug Hofstadter&lt;/a&gt; called &lt;a href=&#34;http://en.wikipedia.org/wiki/Gödel,_Escher,_Bach&#34;&gt;&lt;em&gt;Gödel, Escher, Bach&lt;/em&gt;&lt;/a&gt;(GEB). None of the books made any sense to me at the time, but I made a note to look them up after the summer.&lt;/p&gt;
+
+&lt;p&gt;Myself, I had gone to the program with vague ideas of doing something related to physics. I got assigned to work at the United States Geological Survey (USGS) under Allan Tanner. I was profoundly disappointed to find that I was assigned to write FORTRAN or something to control a plotter, because at this point in my life, I &lt;em&gt;hated&lt;/em&gt; computer programming!! I asked to do something else, and ended up digging holes in the ground to measure radon availability. I didn&amp;rsquo;t feel I accomplished anything really all summer, but was thanked in a paper he wrote later.&lt;/p&gt;
+
+&lt;p&gt;Wait, so I was interested in Lisp but hated programming? What was going on?&lt;/p&gt;
+
+&lt;p&gt;The science program had apparently thought I was interested in programming because I had just completed an Advanced Placement course in computer science in high school. It was a course based on Pascal. I left the course rather uninterested in programming. We learned about arrays, linked lists, hash tables, trees, searching, sorting, etc., and it was all very dry and abstract. The course was my least favorite of my junior year in high school. Before this course, I had been exposed to BASIC, COBOL, and FORTRAN, and these were even less appealing to me. So I had the picture of computing as drudgery for doing numerical calculations and generating reports.&lt;/p&gt;
+
+&lt;p&gt;Lisp seemed different. It didn&amp;rsquo;t even seem like &amp;ldquo;programming&amp;rdquo; in the same sense. I saw my peers firing up the Golden Common Lisp REPL on PCs and &lt;em&gt;interacting&lt;/em&gt; with data, creating lists, using atoms, doing &lt;em&gt;symbolic&lt;/em&gt; computation easily. At the time, I could not even make the connection between this kind of programming and anything I had learned in my Pascal-based high school course. There, linked lists took a lot to implement, and we learned about &lt;code&gt;new&lt;/code&gt; and &lt;code&gt;dispose&lt;/code&gt; and pointers. The effort to learn all this low-level stuff resulted in my never seeing from the course what much higher-level applications could be built on top.&lt;/p&gt;
+
+&lt;h2 id=&#34;again-i-still-hate-programming&#34;&gt;Again, I still hate programming&lt;/h2&gt;
+
+&lt;p&gt;Anyway, after I returned home, I started teaching myself Lisp, but didn&amp;rsquo;t get very far because a new interest overrode all others. This despite my also new interest in Lisp and AI, reading GEB and even having Doug Hofstadter autograph my copy of &lt;a href=&#34;http://en.wikipedia.org/wiki/Metamagical_Themas&#34;&gt;&lt;em&gt;Metamagical Themas&lt;/em&gt;&lt;/a&gt;, which had cute Lisp interludes.&lt;/p&gt;
+
+&lt;p&gt;At the science program I had heard peers raving about the &lt;a href=&#34;http://www.feynmanlectures.info/&#34;&gt;Feynman Lectures on Physics&lt;/a&gt;. To make a long story short, after returning home, I read as far as I could before my senior year in high school began, I fell in love with physics, took Advanced Placement physics, and ended up going to college majoring in physics.&lt;/p&gt;
+
+&lt;p&gt;Actually, freshman year in college, I considered taking the introductory computer science sequence, since a lot of my new friends (as well as friends I made at the Research Science Institute over a year earlier) did, but although the second semester involved cool-sounding Lisp projects, the first semester involved a language called &lt;a href=&#34;../../blog/2011/10/13/why-dennis-ritchie-is-important/&#34;&gt;C&lt;/a&gt;. Taking a quick look at Kernighan and Ritchie&amp;rsquo;s book, and the first homework assignment, I bailed out. The language looked like noise to me. It seemed worse than Pascal, far worse. As a result, I never took a computer science course as an undergraduate in college at all!&lt;/p&gt;
+
+&lt;h2 id=&#34;i-love-programming&#34;&gt;I love programming&lt;/h2&gt;
+
+&lt;p&gt;My physics journey ended in disaster. By my junior year, I was questioning the viability of my goal, in theoretical high energy physics, of working toward the &amp;ldquo;theory of everything&amp;rdquo;. String theory was getting popular, but I had no faith in it as a viable research program. I finished out my degree, and continued on to grad school hoping to do something else, but by the time I arrived, I had actually lost all interest in physics already. So I left after a year.&lt;/p&gt;
+
+&lt;p&gt;What next?&lt;/p&gt;
+
+&lt;p&gt;I needed to learn something else and find a job. I thought back to computer programming, especially since I was very excited about what Macs could do.  A friend of mine who had attended MIT recommended that I pick up &lt;a href=&#34;http://mitpress.mit.edu/sicp/&#34;&gt;&lt;em&gt;The Structure and Interpretation of Computer Programs&lt;/em&gt;&lt;/a&gt;(SICP) to really learn programming, before tackling C.  So I did.  This book used Lisp, or more precisely, MIT Scheme, a variant of Lisp. I got a used Mac SE/30, a free Scheme interpreter (Gambit, I think), and worked through the book.&lt;/p&gt;
+
+&lt;p&gt;Reading SICP was one of the most profound experiences of my entire life. A full review would require its own article. In any case, it made me love and understand programming, for the first time, really.&lt;/p&gt;
+
+&lt;p&gt;I can imagine books similar to SICP using more recent, sophisticated, statically typed languages such as ML, Haskell, or Scala, but the exposition would require more careful design, because Lisp&amp;rsquo;s macros and its &amp;ldquo;pun&amp;rdquo; of using S-expression syntax to represent abstract syntax make a lot of things easier.&lt;/p&gt;
+
+&lt;p&gt;(I did then go learn C and C++ and find a job. Later discovering ML and Haskell and loving programming even more, and continuing on from there to the present is many more stories.)&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Lisp is a very old language, half a century old, and I happen not to use it much these days (because given a choice, I prefer static types, I prefer syntactic sugar, and I dislike parentheses), but I predict it will survive forever, because the core is so elegant and self-contained.&lt;/p&gt;
+
+&lt;p&gt;Thank you, John McCarthy!&lt;/p&gt;
+
+&lt;h2 id=&#34;update-2012-01-16&#34;&gt;&lt;strong&gt;Update 2012-01-16&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;I wrote a companion post on &lt;a href=&#34;../../blog/2012/01/16/how-school-made-me-hate-computer-science-and-programming/&#34;&gt;my K-12 experiences with computing education&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;A near contemporary of mine, Natasha Chen (no relation), wrote an &lt;a href=&#34;http://www.eimacs.com/blog/2011/12/learn-computer-programming-without-complicated-syntax/&#34;&gt;article in 1992 on her experiences with computing education&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

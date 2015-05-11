@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grounding on Franklin Chen</title>
+    <link>http://franklinchen.com/categories/grounding/atom/index.xml</link>
+    <description>Recent content in Grounding on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/categories/grounding/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Is there a grounding problem in empirical computational linguistics?</title>
+      <link>http://franklinchen.com/blog/2014/05/13/is-there-a-grounding-problem-in-empirical-computational-linguistics/</link>
+      <pubDate>Tue, 13 May 2014 20:28:29 -0400</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2014/05/13/is-there-a-grounding-problem-in-empirical-computational-linguistics/</guid>
+      <description>&lt;p&gt;I saw an announcement for a lunch talk at CMU with the intriguing title &amp;ldquo;Theoretical and Practical Grounding in Empirical Computational Linguistics&amp;rdquo;, by &lt;a href=&#34;http://www.cl.uni-heidelberg.de/~riezler/&#34;&gt;Stefan Riezler&lt;/a&gt; of Heidelberg University.&lt;/p&gt;
+
+&lt;p&gt;Abstract: &lt;strong&gt;Philosophy of science has pointed out a circularity problem in empirical sciences that arises if all known measuring procedures for a quantity of a theory presuppose the validity of this theory. We discuss how this problem relates to empirical computational linguistics, and define a criterion of T-non-theoretical grounding as guidance to avoid such circularities. We exemplify how this criterion can be met by crowdsourcing, task-related data annotation, or data in the wild. In particular, we illustrate the benefits of grounded learning in the area of statistical machine translation, e.g., by grounding machine translation in semantic parsing and in cross-lingual information retrieval.&lt;/strong&gt;&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/nlp-2014-05-13/presentation.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;I attended the talk because of my long-standing interest in the philosophy of science, a subject I spent a lot of time studying in college (although my degree was in physics).&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-problem&#34;&gt;The problem&lt;/h2&gt;
+
+&lt;p&gt;When using machine learning, there is a fundamental issue of whether one can run around in circles during feature discovery. For example, if you have labeled data, and you train a system, and then claim to find useful features which are actually just equivalent to what you were given, then there is a problem. Your system may not generalize to unseen data.&lt;/p&gt;
+
+&lt;p&gt;Riezler opened with a simple example of the circularity problem of grounding in science involving Archimedean statics. Suppose you measure mass through use of a balance scale. Then how do you evaluate an empirical claim about the theory of Archimedean statics? If you use a balance scale, there is a circularity in the use of &lt;a href=&#34;http://plato.stanford.edu/entries/theoretical-terms-science/&#34;&gt;theoretical terms&lt;/a&gt;. Is there a way out? Yes, there is: use a different theory to &lt;em&gt;ground&lt;/em&gt; your terms: make a distinction, for a theory T, between T-theoretical and T-non-theoretical terms, and make a correspondence (some kind of &amp;ldquo;transfer&amp;rdquo;), so that non-circular progress can actually be made.&lt;/p&gt;
+
+&lt;p&gt;In his talk, Riezler presented methods of learning for machine translation that he claimed to be free of the circularity problem. One method is &amp;ldquo;naive&amp;rdquo; coders (rather than expert coders) and crowdsourcing. Another is semantic parsing in which evaluation is based on a real-world task, getting the right answer according to a gold standard.&lt;/p&gt;
+
+&lt;h2 id=&#34;questions&#34;&gt;Questions&lt;/h2&gt;
+
+&lt;p&gt;Some interesting questions were posed by the audience.&lt;/p&gt;
+
+&lt;h3 id=&#34;isn-t-circularity-only-a-problem-for-science-but-not-for-engineering-systems&#34;&gt;&amp;ldquo;Isn&amp;rsquo;t circularity only a problem for science, but not for engineering systems?&amp;rdquo;&lt;/h3&gt;
+
+&lt;p&gt;Answer: a system that fails to generalize is a problem.&lt;/p&gt;
+
+&lt;h3 id=&#34;how-can-we-know-if-we-are-doing-it-wrong&#34;&gt;&amp;ldquo;How can we know if we are doing it wrong?&amp;rdquo;&lt;/h3&gt;
+
+&lt;p&gt;Answer: talk to a social scientist!&lt;/p&gt;
+
+&lt;h2 id=&#34;cookies&#34;&gt;Cookies&lt;/h2&gt;
+
+&lt;p&gt;Cookies were available as part of lunch. In accordance with my promise, here are photos of two I ate:&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/nlp-2014-05-13/cookie1.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/nlp-2014-05-13/cookie2.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;They were big. I should probably have eaten just the first one.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;I&amp;rsquo;m not a working computational linguist, and it&amp;rsquo;s been over a decade since the only course I&amp;rsquo;ve taken in computational linguistics at CMU (in 2003), so I can&amp;rsquo;t pretend that I entirely followed the presentation, but I found interesting his attempt to apply philosophical considerations toward generating new ways to tackle empirical computational linguistics, and hope more people take philosophy seriously in the field of machine learning in general. I have an impression that some practitioners just sling data and numbers around, but may not be aware of the pitfalls of the grounding problem.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

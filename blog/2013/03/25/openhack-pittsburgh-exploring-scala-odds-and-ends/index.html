@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>OpenHack Pittsburgh: exploring Scala odds and ends &middot; Franklin Chen</title>
+
+  
+  <link rel="stylesheet" href="http://franklinchen.com/css/poole.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/hyde.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/poole-overrides.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/hyde-overrides.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/hyde-x.css">
+
+  <link rel="stylesheet" href="http://franklinchen.com/css/franklin.css">
+
+  <link rel="stylesheet" href="http://franklinchen.com/css/highlight/default.css">
+  <link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://franklinchen.com/touch-icon-144-precomposed.png">
+  <link href="http://franklinchen.com/favicon.png" rel="icon">
+
+  
+  
+  
+  
+
+  <meta name="description" content="Franklin Chen&#39;s personal Web site and blog">
+  <meta name="keywords" content="Franklin Chen, blog">
+  <link rel="author" href="http://plus.google.com/100967806642012078047">
+</head>
+<body class="theme-base-0e">
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      
+        
+        <h1>Franklin Chen</h1>
+        <p class="lead">Infinity in the palm of my hand.</p>
+    </div>
+
+    <ul class="sidebar-nav">
+      
+      <li class="sidebar-nav-item"><a href="http://franklinchen.com/contact/">Contact</a></li>
+      
+      <li class="sidebar-nav-item"><a href="http://ConscientiousProgrammer.com/">Programming blog</a></li>
+      <li class="sidebar-nav-item"><a href="http://chessimprover.com/author/franklinc/">Chess blog</a></li>
+      <li class="sidebar-nav-item"><a href="https://www.flickr.com/photos/franklinmingchen/">Photos</a></li>
+    </ul>
+
+    <ul class="sidebar-nav">
+      <li class="sidebar-nav-item">
+      <a href="https://github.com/FranklinChen"><i class="fa fa-github-square fa-3x"></i></a>
+      
+      
+      <a href="http://www.linkedin.com/in/franklinchen"><i class="fa fa-linkedin-square fa-3x"></i></a>
+      <a href="http://google.com/&#43;FranklinChen"><i class="fa fa-google-plus-square fa-3x"></i></a>
+      <a href="http://www.facebook.com/franklin.chen"><i class="fa fa-facebook-square fa-3x"></i></a>
+      <a href="http://twitter.com/franklinchen"><i class="fa fa-twitter-square fa-3x"></i></a>
+      <a href="http://www.youtube.com/user/FranklinChen"><i class="fa fa-youtube-square fa-3x"></i></a>
+      <a href="http://franklinchen.com/atom.xml" type="application/rss+xml"><i class="fa fa-rss-square fa-3x"></i></a>
+      </li>
+    </ul>
+
+    
+
+    <p>Copyright &copy; 2016 Franklin Chen<br/>
+       Powered by <a href="http://gohugo.io">Hugo</a> and <a href="https://github.com/zyro/hyde-x">Hyde-X</a></p>
+  </div>
+</div>
+
+
+<div class="content container">
+  <div class="post">
+    <h1>OpenHack Pittsburgh: exploring Scala odds and ends</h1>
+    
+
+<p><a href="http://www.meetup.com/pittsburgh-ruby/events/106184432/">A third OpenHack Pittsburgh</a> meeting was organized, and I attended again. It was held again at <a href="http://www.thebeautyshoppe.org/">The Beauty Shoppe</a>, just like the <a href="../../../../../blog/2013/02/25-openhack-pittsburgh-studying-scala/">previous time</a>.</p>
+
+<p>I was pleased by how much progress had been made in the construction inside. The space was looking really nice.</p>
+
+<h2 id="scala-stuff">Scala stuff</h2>
+
+<p>My plan was to continue working on a personal project in Scala. That plan kind of changed because Roy wanted to ask me questions about Scala. I told him that I&rsquo;m still learning stuff myself, but answered his questions as well as I could.</p>
+
+<h3 id="unit-testing">Unit testing</h3>
+
+<p>One question Roy had was about unit test frameworks and generating independent tests (as opposed to writing a single test that makes many generated assertions, because such a test would simply stop at the first failed assertion. I told him this was easy to do with either the <a href="http://etorreborre.github.com/specs2/">Specs2</a> unit testing framework or the <a href="http://www.scalatest.org/">ScalaTest</a> one (I use Specs2).</p>
+
+<p>Here&rsquo;s sample code showing <a href="https://github.com/FranklinChen/test-loop-over-tests">how to do it</a>.</p>
+
+<h3 id="property-based-testing">Property-based testing</h3>
+
+<p>I also mentioned that I was working on a presentation on a cool Scala library supporting property-based testing, <a href="http://www.scalacheck.org/">ScalaCheck</a>.</p>
+
+<h4 id="update-of-2013-04-11">(Update of 2013-04-11)</h4>
+
+<p>I ended up <a href="../../../../../blog/2013/04/11/my-pittsburgh-scala-meetup-talk-on-property-based-testing-using-scalacheck/">giving a talk at the Pittsburgh Scala meetup in April on ScalaCheck</a>.</p>
+
+<h3 id="continuations">Continuations</h3>
+
+<p>Roy asked about continuations in Scala, in the context of an idea he had for a Web app.</p>
+
+<p>I said that I hadn&rsquo;t personally used first-class continuations in Scala, but knew support for delimited continuations existed as a compiler plugin. So I looked up how to use them and created a little project as proof of concept (nothing worth seeing, just typical examples of code with <code>shift</code> and <code>reset</code> comparable to how I&rsquo;d seen them used in other languages with delimited continuations); check out <a href="http://suereth.blogspot.com/2010/03/how-you-should-think-about-delimited.html">Josh Suereth&rsquo;s (somewhat dated) article on delimited continuations in Scala</a> for more details.</p>
+
+<p>But I asked Roy what he really wanted continuations for anyway. They are a low-level concept, and there are higher-level constructs built on top of continuations that I think are more useful.</p>
+
+<p>He said that he wanted to be able to have code &ldquo;look&rdquo; like it was synchronous but actually be asynchronous.</p>
+
+<h4 id="update-of-2014-04-21">(Update of 2014-04-21)</h4>
+
+<p>Scala continuations have been deprecated in <a href="http://typesafe.com/blog/scala-211-has-arrived">Scala 2.11</a>.</p>
+
+<h3 id="futures">Futures</h3>
+
+<p>So I told him, that&rsquo;s the perfect use case for <a href="http://docs.scala-lang.org/overviews/core/futures.html">futures</a>, which are well-supported in Scala, especially because of their compositional monadic properties in conjunction with nice <code>for</code>-comprehension syntax.</p>
+
+<p>I said, the only drawback is that you have to write code in monadic style.</p>
+
+<p>When I went home after OpenHack Pittsburgh, however, I coincidentally found that there was a project to improve the syntax of writing this kind of asynchronous computation! <a href="http://doc.akka.io/docs/akka/snapshot/scala/dataflow.html">Akka Dataflow</a> does precisely this, using the continuation plugin.</p>
+
+<h4 id="update-of-2013-08-27">(Update of 2013-08-27)</h4>
+
+<p>There has been other work to improve syntactic support for asynchronous computation. <a href="https://github.com/scala/async"><code>async</code></a> uses <a href="http://scalamacros.org/">macros</a> to try to provide the nice syntactic experience without the overhead of the continuation plugin.</p>
+
+<h4 id="update-of-2013-12-17">(Update of 2013-12-17)</h4>
+
+<p><a href="https://github.com/akka/akka/commit/66e40084946f6f993a2c62d9921718704daf448a"><code>dataflow</code> has been deprecated</a>, now that <code>async</code> is fully mature (I have been happily using it for a while now).</p>
+
+<h4 id="update-of-2013-12-31">(Update of 2013-12-31)</h4>
+
+<p>More specifically, <code>async</code> was much improved just in time for it to be officially used in the Coursera course &ldquo;Principles of Reactive Programming&rdquo;, which <a href="http://conscientiousprogrammer.com/blog/2013/12/31/review-of-the-free-coursera-course-principles-of-reactive-programming/">I just completed and reviewed</a>.</p>
+
+<h3 id="implicits">Implicits</h3>
+
+<p>Roy asked me about other interesting features of Scala. I had to say something about implicits, of course, useful for simulating monkey patching as well as simulating Haskell type classes.</p>
+
+<p>Implicits are probably the single most interesting language feature of Scala.</p>
+
+<h4 id="update-of-2014-02-13">(Update of 2014-02-13)</h4>
+
+<p>There was a <a href="http://conscientiousprogrammer.com/blog/2014/02/13/pittsburgh-scala-meetup-implicits/">Pittsburgh Scala Meetup session on implicits</a>.</p>
+
+<h3 id="specialization-of-generics">Specialization of generics</h3>
+
+<p>Roy wanted to know whether generics can be specialized in Scala (in contrast to Java, which treats generics as erasure). I said, yes, actually. Fully automatic, efficient specialization is still being improved on, but for now, there&rsquo;s a manual way to do specialization through the <a href="http://lampwww.epfl.ch/~dragos/files/scala-spec.pdf"><code>@specialized</code> annotation</a>.</p>
+
+<h4 id="update-of-2014-07-17">(Update of 2014-07-17)</h4>
+
+<p>There&rsquo;s also <a href="http://scala-miniboxing.org/">Miniboxing</a> for efficiency.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>It was stimulating talking with Roy about Scala and trying to explain stuff to him on the fly, or look stuff up (thank goodness for WiFi in The Beauty Shoppe!), or code something right there and then. The conversations also caused me to do my homework after the meetup!</p>
+
+    <div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'franklinchen';
+    var disqus_identifier = 'http:\/\/franklinchen.com\/blog\/2013\/03\/25\/openhack-pittsburgh-exploring-scala-odds-and-ends\/';
+    var disqus_title = 'OpenHack Pittsburgh: exploring Scala odds and ends';
+    var disqus_url = 'http:\/\/franklinchen.com\/blog\/2013\/03\/25\/openhack-pittsburgh-exploring-scala-odds-and-ends\/';
+
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+  </div>
+</div>
+<script src="http://franklinchen.com/js/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+</body>
+</html>
+

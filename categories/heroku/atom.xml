@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Heroku on Franklin Chen</title>
+    <link>http://franklinchen.com/categories/heroku/atom/index.xml</link>
+    <description>Recent content in Heroku on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/categories/heroku/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Pittsburgh Python: Kenneth Reitz on Heroku</title>
+      <link>http://franklinchen.com/blog/2013/04/24/pittsburgh-python-kenneth-reitz-on-heroku/</link>
+      <pubDate>Wed, 24 Apr 2013 21:31:46 -0400</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/04/24/pittsburgh-python-kenneth-reitz-on-heroku/</guid>
+      <description>
+
+&lt;p&gt;This month, the Pittsburgh Python User Group had a &lt;a href=&#34;http://www.meetup.com/pghpython/events/107277042&#34;&gt;special guest speaker for its meeting&lt;/a&gt;, Kenneth Reitz of Heroku.&lt;/p&gt;
+
+&lt;p&gt;I was eager to see him in person, because he has been a huge contributor to the Python community. His module &lt;code&gt;requests&lt;/code&gt; (which won me over when Chad gave a lightning talk on it last year) is much-loved, as well as his opinionated and reasoned writings about documentation, API design, and packaging (as &lt;a href=&#34;../../blog/2013/02/27/pittsburgh-python-distribute-and-other-python-community-controversies/&#34;&gt;I reported on two months ago&lt;/a&gt;).&lt;/p&gt;
+
+&lt;h2 id=&#34;kenneth-reitz-s-presentation&#34;&gt;Kenneth Reitz&amp;rsquo;s presentation&lt;/h2&gt;
+
+&lt;p&gt;There was a huge turnout for this presentation. The Pittsburgh Python group has grown significantly in the past two years (I had begun attending it in January 2011 when it was meeting at Vivisimo). I think it&amp;rsquo;s because of publicity from joining Meetup.com in January 2012, and now also because it&amp;rsquo;s meeting in Google Pittsburgh.&lt;/p&gt;
+
+&lt;p&gt;Kenneth gave a very casual live demo of how to use Heroku with Python, starting by cloning a simple Django &amp;ldquo;to-do list&amp;rdquo; project, using &lt;code&gt;virtualenv&lt;/code&gt; and &lt;code&gt;pip&lt;/code&gt; to install project requirements, and then Git pushing to Heroku.&lt;/p&gt;
+
+&lt;p&gt;You can check out the &lt;a href=&#34;https://pghpy.herokuapp.com/&#34;&gt;resulting site&lt;/a&gt; and amuse yourself by checking out what Pittsburgh Python people had on their minds when randomly creating to-do items and checking them off and deleting them!&lt;/p&gt;
+
+&lt;p&gt;He gave a whirlwind tour of how to do scaling, hook up Postgres as a Heroku add-on, etc. It went by too fast for me to fully process.&lt;/p&gt;
+
+&lt;p&gt;He recommended some random cool sites to check out:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://12factor.net/&#34;&gt;The Twelve-Factor App&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://crate.io/&#34;&gt;Crate&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Free course review: Software Engineering for Software as a Service (Part I), from Coursera</title>
+      <link>http://franklinchen.com/blog/2012/04/13/free-course-review-software-engineering-for-software-as-a-service-part-i-from-coursera/</link>
+      <pubDate>Fri, 13 Apr 2012 21:29:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/04/13/free-course-review-software-engineering-for-software-as-a-service-part-i-from-coursera/</guid>
+      <description>&lt;p&gt;So after putting quite a bit of time, from February 20 to March 23, into the free Coursera course &lt;a href=&#34;http://www.saas-class.org/&#34;&gt;&amp;ldquo;Software Engineering for Software as a Service (Part I)&amp;rdquo;&lt;/a&gt;, I just received my &amp;ldquo;Statement of Accomplishment&amp;rdquo;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+Congratulations! You have successfully completed the free online offering of Software Engineering for Software as a Service (Part I), offered February to April, 2012. To successfully complete this free online class, students were required to watch lectures, complete quizzes, and do weekly assignments.
+&lt;/blockquote&gt;
+
+&lt;p&gt;My review:&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;mooc-explosion&#34;&gt;MOOC explosion&lt;/h2&gt;
+
+&lt;p&gt;Just half a year ago, in the fall of 2011, my life was &lt;em&gt;radically altered&lt;/em&gt; by the introduction of free massive open online courses (&lt;a href=&#34;http://en.wikipedia.org/wiki/Massive_open_online_course&#34;&gt;MOOCs&lt;/a&gt;). Eager to learn new skills and ideas of all kinds, I jumped into enrolling in a whole bunch of them.&lt;/p&gt;
+
+&lt;p&gt;I went crazy, actually: I took a very heavy load, enrolling in and completing two Stanford MOOCs while doing everything else I was doing:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../blog/2012/01/11/experiment-in-learning-completing-stanford-online-course-introduction-to-databases/&#34;&gt;Introduction to Databases&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../blog/2012/01/12/experiment-in-learning-completing-stanford-online-course-machine-learning/&#34;&gt;Machine Learning&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;These two courses each lasted for two months, starting in early October and ending in mid-December of 2011.&lt;/p&gt;
+
+&lt;p&gt;This spring of 2012, I went crazy again and took a very heavy load of two MOOCs, through Coursera:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Software Engineering for Software as a Service (Part I) (discussed here)&lt;/li&gt;
+&lt;li&gt;Model Thinking&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;update-on-model-thinking&#34;&gt;(Update on Model Thinking)&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;../../blog/2012/06/16/review-of-coursera-course-model-thinking/&#34;&gt;An incomplete review of Model Thinking.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;why-did-i-take-this-course&#34;&gt;Why did I take this course?&lt;/h2&gt;
+
+&lt;p&gt;I signed up for this course in February because I was curious about &lt;a href=&#34;http://rubyonrails.org/&#34;&gt;Ruby on Rails&lt;/a&gt;. I have not done much Web development since the old days of Perl, so I decided to update my skills in this area, which is not what I do in my current job. Also, although I have used some Ruby at my job, I felt that the course would help me deepen my understanding of the language.&lt;/p&gt;
+
+&lt;p&gt;Also, this course was advertised as not being about Rails so much as about &amp;ldquo;software engineering&amp;rdquo; using the concept of &amp;ldquo;software as a service&amp;rdquo; as a concrete domain. So I was interested in getting my hands dirty in adopting the instructors&amp;rsquo; &amp;ldquo;opinionated&amp;rdquo; idea of an &amp;ldquo;Agile&amp;rdquo; &amp;ldquo;software engineering&amp;rdquo; process for development.&lt;/p&gt;
+
+&lt;h2 id=&#34;materials&#34;&gt;Materials&lt;/h2&gt;
+
+&lt;p&gt;Lectures on video were provided. I found them useful but fairly poor in production qualities (sound problems and quite a few in-video quiz glitches). I understand that the instructors may improve these materials, for future offerings of the course, after the scramble of getting everything together for the first trial run of this course!&lt;/p&gt;
+
+&lt;p&gt;Somewhat controversially, the instructors&amp;rsquo; &lt;a href=&#34;http://beta.saasbook.info/&#34;&gt;textbook that was still in rough alpha condition&lt;/a&gt; was recommended for the course. Originally I wasn&amp;rsquo;t going to buy it, but I found references from the course that made it sound like it would be useful, so I bought it. It was rather poorly formatted and repeated a lot that was already in the lecture videos and slides, but did have additional material. The book was inexpensive enough that its flaws did not annoy me excessively. (Eventually the book finally entered beta!)&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://sites.google.com/site/longlastingsoftware/_/rsrc/1366223530547/config/cover.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Book cover&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Confusingly, we were also to watch the &lt;a href=&#34;http://screencast.saasbook.info/&#34;&gt;videos for the book&lt;/a&gt;. Having course material spread out like this was annoying.&lt;/p&gt;
+
+&lt;p&gt;We were told that the course was going to cover about half of the book, and that there might be a second online course offered at some point, to finish the book.&lt;/p&gt;
+
+&lt;h2 id=&#34;coursework&#34;&gt;Coursework&lt;/h2&gt;
+
+&lt;p&gt;There were quizzes. I experienced glitches in dealing with them. For example, in one of the quizzes, the timer ran down because I started it but then had to attend to something (I was at home in the evening then). When I went back, I couldn&amp;rsquo;t retake the quiz, so I got no credit for anything! It was upsetting, but then again, my goal was to learn, not to get a perfect score in this class. Also, sometimes when I got an answer wrong on a quiz, there was no feedback about what I did wrong! This was quite annoying. The quiz system needs to be significantly improved.&lt;/p&gt;
+
+&lt;p&gt;The programming assignments were the heart of the course. They sometimes took quite a long time to complete. There were several reasons for this.&lt;/p&gt;
+
+&lt;p&gt;One was just that Rails is big, and in learning to actually write and deploy Rails applications, I had to get familiar with the online documentation to search for Rails methods to use. Another was the use of Cucumber. It took forever to run Cucumber tests. From reading various online Rails tutorials and articles about testing, it appeared to me that the course instructors&amp;rsquo; testing methodology was suspect, but who was I to complain, since I was just learning all this stuff myself?&lt;/p&gt;
+
+&lt;p&gt;That leads to the main problem, which is that of spaghetti code: the &amp;ldquo;Rotten Potatoes&amp;rdquo; app that we modified incrementally had logic spread out all over the place. It was very difficult for me to understand what happened where, and what could happen or could not. There were code paths that involved implicit changes of state and hacking in routes and actions. It all felt wrong. Also, I strongly favor statically typed languages, and using Ruby was rather painful for me: you pull attributes out from thin air, stick them into the controller, and then suddenly you have to know you can use them in the view, etc.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-i-learned&#34;&gt;What I learned&lt;/h2&gt;
+
+&lt;p&gt;I learned a huge amount, actually. This was the first time I&amp;rsquo;d systematically work through developing an application from the ground up using &lt;a href=&#34;http://en.wikipedia.org/wiki/Test-driven_development&#34;&gt;Test-Driven Development&lt;/a&gt; (TDD) and &lt;a href=&#34;http://en.wikipedia.org/wiki/Behavior-driven_development&#34;&gt;Behavior-Driven Development&lt;/a&gt;, for example. &lt;strong&gt;I am completely sold on TDD and BDD now.&lt;/strong&gt; It was very useful writing down, in code, scenarios to expect to happen or not happen, before implementing the behavior. I have issues with Cucumber, the tool, but the process itself, I am sold on.&lt;/p&gt;
+
+&lt;p&gt;It was also very satisfying incrementally developing a Rails application that actually did something.&lt;/p&gt;
+
+&lt;p&gt;And it was also useful gaining experience using Git and Heroku.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Despite rough patches in the course (that I hope will be remedied in a future offering), I found that I learned a lot. I would definitely recommend this course to anyone interested in gaining experience incrementally developing an application, and certainly if desiring to get started with Ruby and Rails.&lt;/p&gt;
+
+&lt;p&gt;I hope there will be a part two of this course offered, to complete the material from the Berkeley course.&lt;/p&gt;
+
+&lt;h3 id=&#34;update-of-2013-12-13&#34;&gt;(Update of 2013-12-13)&lt;/h3&gt;
+
+&lt;p&gt;It&amp;rsquo;s been almost two years since I took this course, during which I have not done anything with Rails since, although I have started experimenting with using &lt;a href=&#34;http://www.playframework.com/&#34;&gt;Play&lt;/a&gt; for &lt;a href=&#34;http://www.scala-lang.org/&#34;&gt;Scala&lt;/a&gt;, which is similar in spirit.&lt;/p&gt;
+
+&lt;p&gt;Meanwhile, this course has moved off Coursera to the &lt;a href=&#34;http://www.edx.org/&#34;&gt;edX&lt;/a&gt; MOOC platform. &lt;a href=&#34;http://www.edx.org/course/uc-berkeleyx/uc-berkeleyx-cs-169-2x-software-service-1005&#34;&gt;Part 2 was offered in August 2013&lt;/a&gt; and a revised version of &lt;a href=&#34;http://www.edx.org/course/uc-berkeleyx/uc-berkeleyx-cs169-1x-software-service-1136&#34;&gt;part 1 was offered in September 2013&lt;/a&gt;: &amp;ldquo;The presentation order and amount of time spent on some material is being changed in response to feedback from both on-campus and online students. This run of the class also includes all new videos, two new homeworks and all new exam questions. The new class also includes embedded live chat with Teaching Assistants and other students and opportunities for remote pair programming with other students. Group tutorial Q&amp;amp;A sessions will also be held and broadcast live through Google Hangouts and YouTube.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;I presume both parts of the course will continue to be offered in the future. I would like to take part 2 at some point, but that depends on what time I can devote to it.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

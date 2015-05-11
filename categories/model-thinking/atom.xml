@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Model Thinking on Franklin Chen</title>
+    <link>http://franklinchen.com/categories/model-thinking/atom/index.xml</link>
+    <description>Recent content in Model Thinking on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/categories/model-thinking/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Review of Coursera course: Model Thinking</title>
+      <link>http://franklinchen.com/blog/2012/06/16/review-of-coursera-course-model-thinking/</link>
+      <pubDate>Sat, 16 Jun 2012 22:09:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/06/16/review-of-coursera-course-model-thinking/</guid>
+      <description>&lt;p&gt;I finally got my &amp;ldquo;Statement of Accomplishment&amp;rdquo; for the Coursera course &lt;a href=&#34;http://www.coursera.org/course/modelthinking&#34;&gt;&amp;ldquo;Model Thinking&amp;rdquo;&lt;/a&gt;, which lasted for four months, starting in February, taught by &lt;a href=&#34;http://vserver1.cscs.lsa.umich.edu/~spage/&#34;&gt;Scott Page&lt;/a&gt; of the University of Michigan.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;why&#34;&gt;Why?&lt;/h2&gt;
+
+&lt;p&gt;Why did I take this course? Largely out of curiosity, because it was there and &amp;ldquo;free&amp;rdquo;, and because &lt;a href=&#34;http://mathbabe.org/2012/02/12/new-online-course-model-thinking/&#34;&gt;mathbabe&amp;rsquo;s blog mentioned it&lt;/a&gt;. There was no direct applicability to anything I&amp;rsquo;m doing now for work or anything. But I was hoping to get some insight into the construction and use of mathematical models in general, in light of all the controversies that come up with regard to whether models can be trusted or are useful.&lt;/p&gt;
+
+&lt;p&gt;There was much online video lecture time, along with quizzes and assignments and a huge amount of reading (simply because the course lasted a whole ten weeks). The instructor was very clear in his lectures. I enjoyed seeing how certain kinds of surprisingly simple models can generate complex phenomena. Of course, this does not necessarily mean that the phenomena we see are &amp;ldquo;explained&amp;rdquo; by such models, but that complex phenomena do not necessarily imply that a complex model is required.&lt;/p&gt;
+
+&lt;h2 id=&#34;two-coursera-courses-so-far-this-year&#34;&gt;Two Coursera courses so far this year&lt;/h2&gt;
+
+&lt;p&gt;This course was a huge amount of work, and during February and March I was also concurrently taking and completed another Coursera course, &lt;a href=&#34;../../blog/2012/04/13/free-course-review-software-engineering-for-software-as-a-service-part-i-from-coursera/&#34;&gt;&amp;ldquo;Software Engineering for Software as a Service (Part I)&amp;rdquo;&lt;/a&gt;. This plus everything else I have been doing in the first half of this year was really overkill.&lt;/p&gt;
+
+&lt;h2 id=&#34;update-of-2014-01-16&#34;&gt;(Update of 2014-01-16)&lt;/h2&gt;
+
+&lt;p&gt;This is an unfinished post that is one of many in the past two years that lay unfinished because I had originally planned to write a very detailed report but never got around to it. I decided that I might as well release all these unfinished posts rather than leave them completely out of the record.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

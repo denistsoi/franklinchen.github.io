@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Octave on Franklin Chen</title>
+    <link>http://franklinchen.com/categories/octave/atom/index.xml</link>
+    <description>Recent content in Octave on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/categories/octave/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Experiment in learning: completing Stanford online course: Machine Learning</title>
+      <link>http://franklinchen.com/blog/2012/01/12/experiment-in-learning-completing-stanford-online-course-machine-learning/</link>
+      <pubDate>Thu, 12 Jan 2012 23:54:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/01/12/experiment-in-learning-completing-stanford-online-course-machine-learning/</guid>
+      <description>&lt;p&gt;Yesterday I wrote about my experience with completing, in fall 2011, the free online Stanford course &lt;a href=&#34;../../blog/2012/01/11/experiment-in-learning-completing-stanford-online-course-introduction-to-databases/&#34;&gt;Introduction to Databases&lt;/a&gt;. Today I am writing about my experience with completing &lt;a href=&#34;http://www.ml-class.org/&#34;&gt;Machine Learning&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This course was different in many important ways from the databases course.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;why-did-i-take-this-online-course&#34;&gt;Why did I take this online course?&lt;/h2&gt;
+
+&lt;p&gt;I have been quite interested in machine learning for a long time now. Years ago, I started taking a course in machine learning at Carnegie Mellon but had to drop it because I was overbooked with too many other things to do. The closest I have ever come to machine learning was completing a course years ago in [&amp;ldquo;language technologies&amp;rdquo;] at Carnegie Mellon. That was a survey course running through the topics of information retrieval, parsing, machine translation, etc.&lt;/p&gt;
+
+&lt;p&gt;For the same reasons that I mentioned in my post yesterday, I did not expect to try to take a traditional formal-classroom machine learning course again: I don&amp;rsquo;t find that to be an efficient route to learning given my time constraints involving work and personal projects outside of work.&lt;/p&gt;
+
+&lt;p&gt;Self-study has always been an option, and I have several machine learning textbooks, some of which are clearer than others, and elegantly explain the theoretical basis, but at this stage of my life I&amp;rsquo;m more interested in &lt;em&gt;application&lt;/em&gt; than in getting deep into theory.&lt;/p&gt;
+
+&lt;h2 id=&#34;completion-of-the-course&#34;&gt;Completion of the course&lt;/h2&gt;
+
+&lt;p&gt;In December 2011, I did complete the machine learning course, having done all the in-lecture quizzes, the review questions, and the programming exercises. There were no exams.&lt;/p&gt;
+
+&lt;p&gt;Although we were not required to, I did all the optional sections of the programming exercises.&lt;/p&gt;
+
+&lt;p&gt;I received my &amp;ldquo;statement of accomplishment&amp;rdquo; recently, and had a perfect score in the course. (That is not say much, and I&amp;rsquo;ll explain why.)&lt;/p&gt;
+
+&lt;h2 id=&#34;my-strategy&#34;&gt;My strategy&lt;/h2&gt;
+
+&lt;p&gt;As with the databases class, I tried to be efficient. In the end, I think I spent about five hours a week on the course.&lt;/p&gt;
+
+&lt;h3 id=&#34;textbooks&#34;&gt;Textbooks&lt;/h3&gt;
+
+&lt;p&gt;I did not use any textbooks during the course. The course was self-contained, with the lectures covering all the concepts and explanations and equations and algorithms necessary to complete the programming assignments.&lt;/p&gt;
+
+&lt;p&gt;Once I did try to look up an algorithm to get more theoretical insight about it, but immediately encountered an annoying problem: everyone seems to use slightly different mathematical notation.&lt;/p&gt;
+
+&lt;h3 id=&#34;lectures-and-demos&#34;&gt;Lectures and demos&lt;/h3&gt;
+
+&lt;p&gt;The lectures were the core of the course. I watched them, taking notes for myself as I felt the need, and made sure to get the in-lecture quizzes right before moving on to the next lecture segment or lecture.&lt;/p&gt;
+
+&lt;p&gt;Professor Andrew Ng obviously put a great deal of care into the video lectures. These were some of the most lucid and attention-maintaining lectures I have ever seen in my entire life, either live or in person. His calm and upbeat tone and pacing, along with useful demos and annotations on the slides, and humility while offering practical advice on the work flow of solving problems using machine learning, were what made this course really enjoyable and memorable!&lt;/p&gt;
+
+&lt;p&gt;In &amp;ldquo;real life&amp;rdquo; lectures, there are a lot of opportunities for wasted time. I think video lectures solve many of the problems because demo setup, false starts, administrative reminders can be omitted or edited out. On the other hand, student questions in real life can also potentially not be useful to every student in attendance, but can also potentially be very useful. I think that in a video lecture, the instructor must be more aware of potential confusions and questions, in order to anticipate them rather then relegate them to online forum discussions. The in-lecture quizzes go a bit of the way toward filling in gaps, I think.&lt;/p&gt;
+
+&lt;h3 id=&#34;review-exercises&#34;&gt;Review exercises&lt;/h3&gt;
+
+&lt;p&gt;I did the review exercises after watching the relevant lectures and completing their embedded quizzes.&lt;/p&gt;
+
+&lt;h3 id=&#34;online-discussion-forum&#34;&gt;Online discussion forum&lt;/h3&gt;
+
+&lt;p&gt;I did not really use the online discussion forum, except when I was encountering bugs in Octave on Mac OS, and looked to see if other people had problems, and yes, they did.&lt;/p&gt;
+
+&lt;h3 id=&#34;programming-exercises&#34;&gt;Programming exercises&lt;/h3&gt;
+
+&lt;p&gt;I started the programming exercise for the week only after completing all the other material. We used the Octave programming language and environment in the course.&lt;/p&gt;
+
+&lt;h2 id=&#34;difficulty-of-the-course&#34;&gt;Difficulty of the course&lt;/h2&gt;
+
+&lt;p&gt;Overall, the course was not very difficult. And that was fine, given my goal of efficient mastery of practical basics, such that I could continue deeper learning and use in the future.&lt;/p&gt;
+
+&lt;p&gt;That said, the hungry theorist within me felt a little left out by the relentlessly practical nature of the course.&lt;/p&gt;
+
+&lt;p&gt;Also, the programming exercises could have been more involved.&lt;/p&gt;
+
+&lt;h2 id=&#34;benefits-of-the-course-format&#34;&gt;Benefits of the course format&lt;/h2&gt;
+
+&lt;h3 id=&#34;time-flexibility-and-efficiency&#34;&gt;Time flexibility and efficiency&lt;/h3&gt;
+
+&lt;p&gt;As mentioned in my post about databases, I appreciated that I could work through lectures at any time, and without having to go to a classroom somewhere. There was also the option of speeding up the video, but I have to confess that just made things eerie, and I only tried that once before returning to normal speed.&lt;/p&gt;
+
+&lt;h3 id=&#34;in-lecture-quizzes&#34;&gt;In-lecture quizzes&lt;/h3&gt;
+
+&lt;p&gt;In-lecture quizzes are a vital part of this whole learning experience. (In fact, I wish there had been more!)&lt;/p&gt;
+
+&lt;h2 id=&#34;flaws-in-the-online-course-format&#34;&gt;Flaws in the online course format&lt;/h2&gt;
+
+&lt;h3 id=&#34;lecture-slides-were-late&#34;&gt;Lecture slides were late&lt;/h3&gt;
+
+&lt;p&gt;The lecture slides tended to arrive late in a week, well after I had already watched the lectures. If lecture slides had been provided as soon as the videos were posted, that would have made note-taking much more efficient. I ended up basically taking my own notes during the lectures before the slides appeared.&lt;/p&gt;
+
+&lt;h3 id=&#34;less-depth&#34;&gt;Less depth&lt;/h3&gt;
+
+&lt;p&gt;I enjoyed that there was a focus on practical application at the expense of theory, but I would have liked to see optional lectures and/or handouts covering theoretical proofs as relevant to what we were applying.&lt;/p&gt;
+
+&lt;p&gt;There was no opportunity to work on an open-ended project for assessment and feedback.&lt;/p&gt;
+
+&lt;h3 id=&#34;programming-exercises-were-too-easy&#34;&gt;Programming exercises were too easy&lt;/h3&gt;
+
+&lt;p&gt;The biggest flaw in the course was that the programming exercises were too easy.&lt;/p&gt;
+
+&lt;p&gt;The level of hand-holding in the exercise descriptions was really extreme, with equations and algorithms given and even a lot of Octave code hints that sometimes practically gave away what needed to be done (which often was just a few lines of code). I would not have minded not having any of those hints. It is not so hard to consult the slides for the algorithms discussed, and some of the specific Octave hints could have been extracted into a more general machine-learning-independent discussion of common Octave computational techniques (such as tricks to express vectorization in the face of bias units).&lt;/p&gt;
+
+&lt;p&gt;The hand-holding extended to the use of a pre-written monolithic driver program for each exercise. Obviously, the student would have done best to study the entire driver program&amp;rsquo;s code, but it was easy to get by without doing so. There should have been at least one assignment in which the student wrote an entire Octave program, including the driver (given sufficient hints). I don&amp;rsquo;t like the idea that many of us who completed this course might be going out in the world just copying and pasting from driver programs to get stuff done. And that brings me to another matter of concern.&lt;/p&gt;
+
+&lt;p&gt;The code given to us was monolithic, not modular. Out of laziness, I did little to remedy the situation, although in a real project rather than a programming exercise to complete quickly and get over with. When I was writing code for the exercises, and testing and running my code, I would just comment code out of the driver programs that I wasn&amp;rsquo;t using at the time. It would have been better if we had been given a modular driver so that we could test different parts of the exercise more independently. The code we were given simply did not adhere to the good programming practices I would expect if were programming in Java or C++ or something like that. Just because it&amp;rsquo;s Octave doesn&amp;rsquo;t mean we should be programming sloppily.&lt;/p&gt;
+
+&lt;p&gt;So I would advise providing more modular and test-encouraging starter code for the programming exercises.&lt;/p&gt;
+
+&lt;h3 id=&#34;octave-glitches&#34;&gt;Octave glitches&lt;/h3&gt;
+
+&lt;p&gt;There was a bug in the Mac OS version of Octave we were told to download. This wasted a good amount of my time when doing one of the programming exercises, until I discovered on the online forum that other people had encountered the same bug. I think that in an online course, making sure up front that everything works on the all the platforms should be of high priority.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;I felt it was worthwhile completing the Stanford online machine learning course. The broad practical survey gives me sufficient confidence that I could immediately use machine learning to solve some real problems today, as well as confidence that I could deepen my understanding by continuing more theoretical study.&lt;/p&gt;
+
+&lt;p&gt;I am grateful to Professor Andrew Ng and his team for making this course run as smoothly as it did.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

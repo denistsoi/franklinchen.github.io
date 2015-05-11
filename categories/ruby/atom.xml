@@ -1,0 +1,1469 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ruby on Franklin Chen</title>
+    <link>http://franklinchen.com/categories/ruby/atom/index.xml</link>
+    <description>Recent content in Ruby on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/categories/ruby/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Another unexpected life change: one month of learning to play ukulele</title>
+      <link>http://franklinchen.com/blog/2013/08/23/another-unexpected-life-change-one-month-of-learning-to-play-ukulele/</link>
+      <pubDate>Fri, 23 Aug 2013 21:26:10 -0400</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/08/23/another-unexpected-life-change-one-month-of-learning-to-play-ukulele/</guid>
+      <description>&lt;p&gt;Almost exactly one month ago, on Monday, July 22, I vowed to spend at least a couple of minutes a day for two weeks attempting to learn to play the ukulele.&lt;/p&gt;
+
+&lt;p&gt;Here is how the story began and how it has unfolded in the past month.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;jim-weirich-on-ukulele-almost-three-years-ago-december-2-2010&#34;&gt;Jim Weirich on ukulele almost three years ago (December 2, 2010)&lt;/h2&gt;
+
+&lt;p&gt;The first time I ever remember seing and hearing a ukulele up close was during a Pittsburgh Ruby meetup on December 2, 2010. Jim Weirich was a guest speaker. Before his talk, he and &amp;ldquo;The Searchers&amp;rdquo; (Jean Lange on flute, Colin Dean on trumpet, Carol Nichols on clarinet) performed the Ruby song, &amp;ldquo;Has Anybody Seen My Code?&amp;rdquo; (alternate lyrics to &lt;a href=&#34;http://en.wikipedia.org/wiki/Has_Anybody_Seen_My_Gal%3F_%28song%29&#34;&gt;&amp;ldquo;Has Anybody Seen My Gal?&amp;rdquo;&lt;/a&gt;):&lt;/p&gt;
+
+&lt;iframe width=&#34;420&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/vKrr7aXUc1E&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Immediately after this, I thought to myself, it would be fun to be playing ukulele and singing like Jim just did.&lt;/p&gt;
+
+&lt;h2 id=&#34;discovering-jake-shimabukuro-february-2011&#34;&gt;Discovering Jake Shimabukuro (February 2011)&lt;/h2&gt;
+
+&lt;p&gt;Two months later, on February 5, 2011, I accidentally came across a popular video of &lt;a href=&#34;http://jakeshimabukuro.com/&#34;&gt;Jake Shimabukuro&lt;/a&gt; playing tenor ukulele, &amp;ldquo;Ukulele weeps&amp;rdquo;:&lt;/p&gt;
+
+&lt;iframe width=&#34;420&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/puSkP3uym5k&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;I was &lt;em&gt;totally&lt;/em&gt; blown away by this performance, and was convinced of the limitless possibilities of the ukulele.  I instantly decided that I wanted to learn to play the instrument. I had never played a string instrument before: once I had tried guitar for a couple of minutes and given up forever because it had seemed way too hard.&lt;/p&gt;
+
+&lt;h2 id=&#34;quitting-chess&#34;&gt;Quitting Chess&lt;/h2&gt;
+
+&lt;p&gt;Now, at this point in my life, I was very dissatisfied by how I was spending my time outside of work. I had been playing tournament chess, but playing very poorly and without my heart really being in it in the past months of participation. I was feeling miserable about having two more rounds to play in the 2011 Pittsburgh Chess Club Championship. (In retrospect, I should have simply dropped out rather than continue my misery. But I had this idea that I should finish out what I start. Sometimes that&amp;rsquo;s true, but in this case, it clearly was not.)&lt;/p&gt;
+
+&lt;p&gt;The very same day I discovered Jake Shimabukuro, I sent the link to my friend Farokh, telling him, &amp;ldquo;I&amp;rsquo;ve been thinking about taking up the ukulele for a while now. I tried learning guitar some years ago but the instrument was too big for me, so I&amp;rsquo;m looking for a small stringed instrument I could play a variety of music on.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;And I made up my mind on the spot that I was retiring from chess after finishing the tournament: the very same day I also wrote my friend Steve, &amp;ldquo;I have the idea of replacing chess with music seamlessly. If you recall, 2005 was supposed to be my &amp;lsquo;year of music&amp;rsquo;, but I started playing chess again after Christmas of 2004. It&amp;rsquo;s time to retire.&amp;rdquo;&lt;/p&gt;
+
+&lt;h3 id=&#34;what-happened-to-the-year-of-music-2005&#34;&gt;What happened to the &amp;ldquo;year of music&amp;rdquo;, 2005?&lt;/h3&gt;
+
+&lt;p&gt;In August 2002, I bought a flute hoping to get back to playing the instrument, after not having done so in two decades, but I quickly gave up because it seemed too hard. This despite buying exactly one piece of sheet music with the plan to play it, &amp;ldquo;Après un rêve&amp;rdquo;, which by the way I finally ended up playing a decade later, &lt;a href=&#34;../../blog/2013/07/04/more-summer-musical-partying/&#34;&gt;at a party last month&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;In late 2004, I decided that in 2005, I would give one more shot at playing music.&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Unfortunately&amp;rdquo;, on December 29, 2004, I went to a meeting of the Pittsburgh Chess Club for the first time, got hooked, and shortly after that, joined the club, and &lt;a href=&#34;../../blog/2012/08/30/why-i-do-not-play-chess-online-chess-as-a-human-activity/&#34;&gt;began playing in tournaments again for the first time in two decades&lt;/a&gt;. I spent a number of years making chess my main activity outside of work, until &lt;a href=&#34;../../blog/2012/03/10/flute-loving-it-again/&#34;&gt;I met Abby in late 2006&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Flute had to wait.&lt;/p&gt;
+
+&lt;h2 id=&#34;recorder-vs-ukulele&#34;&gt;Recorder vs. ukulele?&lt;/h2&gt;
+
+&lt;p&gt;Back to February 5, 2011: this very day, I immediately told Abby that I wanted to play ukulele. She was skeptical, but had her friend Lynette lend me a soprano ukulele to try out.&lt;/p&gt;
+
+&lt;p&gt;On February 15, 2011, after the last round of the 2011 Pittsburgh Chess Club Championship, I immediately &amp;ldquo;retired&amp;rdquo; from chess. (By the way, I &amp;ldquo;unretired&amp;rdquo; and &lt;a href=&#34;../../blog/2012/08/21/returning-to-chess/&#34;&gt;returned to tournament chess in fall 2012&lt;/a&gt;.)&lt;/p&gt;
+
+&lt;p&gt;I immediately started to practice recorder regularly (because it seemed an &amp;ldquo;easy&amp;rdquo; gateway to playing any music at all without a steep learning curve: I was discouraged by my failure at flute years earlier), and also planned to start playing ukulele.&lt;/p&gt;
+
+&lt;p&gt;On February 19, 2011, I wrote Farokh about my progress: &amp;ldquo;After a couple of days of spending a minute or two trying to play the G7 chord on the ukulele, I can finally sort of do it, in isolation. I will keep toughening my left hand for some more days before trying to start real work on the ukulele. Meanwhile, today I took a break from the soprano recorder and started playing the alto, finally. Fingerings are the same, but the pitches are different, so it&amp;rsquo;s pretty confusing. Obviously it&amp;rsquo;s not a good idea to try to learn both simultaneously. The alto is harder to play for me because it&amp;rsquo;s bigger, but I like the sound a lot more, and in the long run, it&amp;rsquo;s more versatile, suitable for music the modern flute can play. So I may stick with the alto for a while before going back to the soprano. I&amp;rsquo;m very much enjoying getting back to music. It had kind of exited my life around five years ago (!!) since I got back into chess in 2005. I have now completely quit chess, cold turkey, to make time for music. Music is much more rewarding, in the end.&amp;rdquo;&lt;/p&gt;
+
+&lt;h2 id=&#34;recorder-wins-march-2011&#34;&gt;Recorder wins (March 2011)&lt;/h2&gt;
+
+&lt;p&gt;On March 2, 2011, I finally ordered a soprano ukulele online, because the one lent to me simply had structural defects.&lt;/p&gt;
+
+&lt;p&gt;But I had the same frustrations as with the loaner ukulele. The instrument seemed very hard to play. On March 20, 2011, I went to my first meeting of the Pittsburgh Recorder Society. I was making progress with daily practice, and so I completely abandoned the ukulele. It collected dust for well over two years.&lt;/p&gt;
+
+&lt;p&gt;It turned out that I did continue with recorder, largely because I found the Pittsburgh Recorder Society and joined it, and I have been playing recorder &lt;a href=&#34;../../blog/2013/02/23/celebrating-two-years-of-playing-recorder/&#34;&gt;ever since&lt;/a&gt;, even attending my first music camp less than two years later, the week-long &lt;a href=&#34;../../blog/2012/07/21/mideast-early-music-workshop-a-life-changing-experience/&#34;&gt;summer 2012 Mideast Early Music Workshop&lt;/a&gt;, which focuses on recorders.&lt;/p&gt;
+
+&lt;p&gt;If there had been a Pittsburgh ukelele group at the time, the course of my entire musical life could have been altered: I would not have spent the last two years of my musical life on recorders, modern flute, &lt;a href=&#34;../../categories/baroque-flute/&#34;&gt;Baroque flute&lt;/a&gt;, &lt;a href=&#34;../../categories/irish-flute/&#34;&gt;Irish flute&lt;/a&gt;, and &lt;a href=&#34;../../blog/tin-whistle/&#34;&gt;tin whistle&lt;/a&gt; (years that I treasure, so I am actually glad that I gave up ukulele when I did!).&lt;/p&gt;
+
+&lt;h2 id=&#34;steel-city-ruby-music-jam-august-2012&#34;&gt;Steel City Ruby music jam (August 2012)&lt;/h2&gt;
+
+&lt;p&gt;Fast-forward a year, to the &lt;a href=&#34;../../blog/2012/08/22/steel-city-ruby-conf-review-part-1-its-about-people/&#34;&gt;first Steel City Ruby conference&lt;/a&gt;, where I knew Jim Weirich was going to be a speaker, and therefore that he was going to do a music jam. I brought my Irish flute, not really sure whether I was going to have the courage to join in, since I had only &lt;a href=&#34;../../blog/2012/07/02/my-first-french-music-jam-anxious-but-excited/&#34;&gt;just&lt;/a&gt; &lt;a href=&#34;../../blog/2012/07/03/petrified-at-a-music-jam-session-so-i-didnt-play-but-watched-and-listened/&#34;&gt;begun&lt;/a&gt; &lt;a href=&#34;../../blog/2012/07/07/another-terrifying-music-jam-session-but-i-played-a-little-bit-of-blues-and-old-time/&#34;&gt;music jamming&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I ended up completely chickening out and choosing to go out for lunch instead, and when I came back they were still playing and I watched. I silently vowed to myself that the following year, if Jim was coming to Steel City Ruby again, I would not chicken out.&lt;/p&gt;
+
+&lt;h2 id=&#34;music-from-august-december-2012&#34;&gt;Music from August-December 2012&lt;/h2&gt;
+
+&lt;p&gt;I launched myself into the new local French music jam, going to my &lt;a href=&#34;../../blog/2012/08/27/my-second-french-music-jam-playing-my-irish-flute-in-public-for-the-first-time/&#34;&gt;second one&lt;/a&gt; just shortly after Steel City Ruby, and then proceeding further, bit by bit overcoming my fear of being incompetent as a musician. The entire past year has been very rewarding for me musically, as I kept on practicing, playing, &lt;a href=&#34;../../blog/2012/10/28/singing-and-playing-bossa-nova-favorite-chega-de-saudade-at-dunkin-donuts-for-j-jam/&#34;&gt;anywhere&lt;/a&gt; and &lt;a href=&#34;../../blog/2012/10/27/singing-an-irish-ballad-as-an-asian-pirate-at-a-halloween-belly-dance-hafla/&#34;&gt;everywhere&lt;/a&gt;, on &lt;a href=&#34;../../blog/2012/12/09/playing-music-on-recorders-at-a-phipps-conservatory-candlelight-evening/&#34;&gt;recorders&lt;/a&gt;, &lt;a href=&#34;../../blog/2013/03/17/finally-doing-some-latin-music-jamming-on-flute/&#34;&gt;flute&lt;/a&gt;, &lt;a href=&#34;../../blog/2012/09/08/finally-performing-some-sonatas-for-baroque-flute/&#34;&gt;Baroque flute&lt;/a&gt;, &lt;a href=&#34;../../blog/2012/12/14/pittsburgh-contras-and-squares-holiday-ball-2012/&#34;&gt;Irish flute and tin whistle&lt;/a&gt;, &lt;a href=&#34;../../blog/2012/12/22/playing-tango-on-melodica-and-singing-christmas-carols/&#34;&gt;melodica&lt;/a&gt;, &lt;a href=&#34;../../blog/2012/11/17/a-childhood-dream-come-true-i-am-now-finally-singing-for-real/&#34;&gt;voice&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;music-from-january-july-2013&#34;&gt;Music from January-July 2013&lt;/h2&gt;
+
+&lt;p&gt;Some of my newer musical activities this year: &lt;a href=&#34;../../blog/2013/01/26/music-i-just-played-for-the-first-time-recorder-sonata-tangos/&#34;&gt;tango on flute&lt;/a&gt;, &lt;a href=&#34;../../blog/2013/01/28/my-first-blues-music-jam-happened-after-the-regular-french-music-jam/&#34;&gt;blues&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;back-to-string-instruments-viola-da-gamba-july-2013&#34;&gt;Back to string instruments? Viola da gamba (July 2013)&lt;/h2&gt;
+
+&lt;p&gt;Last month, I went to the week-long Mideast Early Music Workshop for the second time. (I&amp;rsquo;m still finishing up the full report to post.)&lt;/p&gt;
+
+&lt;p&gt;The day I arrived at music camp, it turned out that the instructor for the class on &amp;ldquo;viol for the novice&amp;rdquo; was looking for one more person to show interest in learning viol (also known as viola da gamba), since there was only one student signed up at the time. (The &lt;a href=&#34;http://en.wikipedia.org/wiki/Viol‎&#34;&gt;viol&lt;/a&gt; is a fretted instrument that you play with a bow.)&lt;/p&gt;
+
+&lt;p&gt;I thought to myself, heck, I&amp;rsquo;ll give this a shot. It would be a no-risk attempt to try again to learn the basics of playing a string instrument!&lt;/p&gt;
+
+&lt;p&gt;So I signed up. I was lent a treble viol.&lt;/p&gt;
+
+&lt;p&gt;It was crazy hard for me to learn how to bow without making horrible sounds, and hard for me to play the most trivial melodies by fretting while bowing. Neither I nor the other beginner after just a week felt ready to even play a simple melody in the final student concert. I had spent quite a bit of time practicing.&lt;/p&gt;
+
+&lt;p&gt;But I learned a couple of things from this experience:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;If I really wanted to, I could play a bowed string instrument; my strokes and control were clearly getting better every day.&lt;/li&gt;
+&lt;li&gt;If I really wanted to, I could play a fretted string instrument; I was slowly becoming able to pluck out a melody.&lt;/li&gt;
+&lt;li&gt;If I really wanted to, I could learn to be competent at viola da gamba, just like all my other workshop companions who told me they had started as total beginners years ago.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It turns out that I&amp;rsquo;m not very interested in playing viola da gamba, compared to lots of other things I could be doing. But the &lt;em&gt;confidence&lt;/em&gt; that I could if I wanted to was very empowering.&lt;/p&gt;
+
+&lt;h2 id=&#34;guitar-ukulele&#34;&gt;Guitar, ukulele&lt;/h2&gt;
+
+&lt;p&gt;It turns out that in June, before my music camp, Farokh had started learning to play guitar. On July 22, two days after I returned from music camp, he told me he getting very serious about guitar. This was quite impressive because unlike me, he did not even have any musical background at all in K-12. I was deeply moved by Farokh&amp;rsquo;s dedication and seriousness as an adult latecomer to music.&lt;/p&gt;
+
+&lt;p&gt;So on July 22, I replied to him, &amp;ldquo;I will pick up my ukulele tonight and give it a go. There&amp;rsquo;s a new Pittsburgh uke meetup so if I can actually get going with it, there is a good place to continue.&amp;rdquo;&lt;/p&gt;
+
+&lt;h2 id=&#34;steel-city-ukuleles&#34;&gt;Steel City Ukuleles&lt;/h2&gt;
+
+&lt;p&gt;Yes, there is a &lt;a href=&#34;http://www.meetup.com/Steel-City-Ukuleles/&#34;&gt;Steel City Ukuleles&lt;/a&gt; meetup group. I have known about it for over a year, by accident from an &lt;a href=&#34;http://www.pghcitypaper.com/pittsburgh/steel-city-ukuleles-keeps-strummin/Content?oid=1506609&#34;&gt;article in the Pittsburgh Post-Gazette&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;So on March 28, I had written the organizer, &amp;ldquo;Hi, I just saw a local news article about the Steel City Ukuleles. I bought a soprano ukulele a year ago but have barely started learning to play it. I&amp;rsquo;m interested in getting going on it and maybe joining the group.&amp;rdquo; I got a friendly response, but given that I could not really play, and that I was already very busy with my recorder and flute activities, I had no time to try again to learn ukulele from scratch.&lt;/p&gt;
+
+&lt;p&gt;There was no way I would attend the meetup until I was at least a beginner.&lt;/p&gt;
+
+&lt;h2 id=&#34;practice&#34;&gt;Practice&lt;/h2&gt;
+
+&lt;p&gt;On July 22, I started &amp;ldquo;practicing&amp;rdquo; ukulele no more than five minutes a day (that&amp;rsquo;s as much as I could tolerate without calluses on my left fingers), and just trying to make the most basic chords after C work (which they never had earlier): G7, F. I kept on smudging and buzzing.&lt;/p&gt;
+
+&lt;p&gt;On July 25, I was still having trouble getting an F to work. Farokh chided me for my feelings of discouragement on ukulele, saying he was making progress on guitar: &amp;ldquo;Have you practiced the F chord every day for weeks until you get it?  If not, you haven&amp;rsquo;t been sufficiently dedicated.  This is how people learn to play guitar; it&amp;rsquo;s like digging through a brick wall with a spoon!  You need to build up your dexterity.  It took me two weeks to play the G chord decently.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;On July 28, six days after starting again with ukulele, and making tiny bits of progress, I wrote Farokh, &amp;ldquo;My plan with uke is to take just a few minutes a day for the next week or two, then reassess what next. I have to observe the advice I give everyone: something small every day for two weeks before giving anything up.&amp;rdquo; In my experience, when learning something new, the first two weeks can be very, very discouraging, but if you quit before the two weeks are up, you may never know how close you were to making the breakthrough that everyone else who persevered can make.&lt;/p&gt;
+
+&lt;p&gt;On July 31, I was continuing to make progress, playing longer than five minutes at a time. Calluses started forming. Fingers became more precise. Still could barely actually play, but the improvement was real. I decided to aim to get proficient enough to attend the &lt;a href=&#34;http://www.meetup.com/Steel-City-Ukuleles/events/117972052/&#34;&gt;September 4 meeting of the Steel City Ukuleles&lt;/a&gt;. I did not feel I would be ready to attend the &lt;a href=&#34;http://www.meetup.com/Steel-City-Ukuleles/events/117972012/&#34;&gt;August 7 meeting&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;But at least I used the trick of &lt;em&gt;committing&lt;/em&gt; to the September meeting, by posting to the August event site introducing myself and saying I planned to come in September. I wanted people to know that I was just starting out and had a month to get ready. I also wanted people to remember that when I showed up, so that I wouldn&amp;rsquo;t be just some random guy, but &lt;em&gt;the guy who told us a month ago he was going to come&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;books&#34;&gt;Books&lt;/h3&gt;
+
+&lt;p&gt;I started working through some books on ukulele. Progress through them was very difficult, because some of the books just went way too fast, without explanation. These concise books are worthless.&lt;/p&gt;
+
+&lt;p&gt;On August 3, I got hold of &amp;ldquo;The Complete Idiot&amp;rsquo;s Guide to Playing Ukulele&amp;rdquo;. This was useful, but had confusing orders of presentation and omissions in explanation. Still, I managed to learn some more chords (while still not playing anything quite right) and some fingerpicking while at it. I hit a wall pretty quickly though. The book has a lot of really hard stuff in it, and could occupy me for a year or two, I think.&lt;/p&gt;
+
+&lt;p&gt;On August 10, I started working through &amp;ldquo;Ukulele for Dummies&amp;rdquo;, and made good progress.&lt;/p&gt;
+
+&lt;h3 id=&#34;three-weeks-up&#34;&gt;Three weeks up&lt;/h3&gt;
+
+&lt;p&gt;After my three-week trial period of daily practice, I assessed my status.&lt;/p&gt;
+
+&lt;p&gt;Despite the ups and downs of practice, I knew that I had made tremendous progress. Sometimes I would plateau for two days but then suddenly &amp;ldquo;get&amp;rdquo; something.&lt;/p&gt;
+
+&lt;p&gt;I still had trouble with the most basic barre chord, but actually, when I counted, I had learned around twelve chords and could do some basic progressions in some keys. I was buzzing out less and my fingers were starting to go just where they needed to go (if the chord changes were slow enough). It was an amazing feeling, the feeling of &lt;em&gt;being a beginner&lt;/em&gt; rather than &lt;em&gt;being nothing at all&lt;/em&gt; (which was the feeling I had during the whole first week and part of the second week).&lt;/p&gt;
+
+&lt;p&gt;Ukulele calluses after one month:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/ukulele-calluses.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Ukulele calluses&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;bad-instrument&#34;&gt;Bad instrument?&lt;/h3&gt;
+
+&lt;p&gt;But I was getting increasingly annoyed by the fact that my instrument seems defective. The A string is sharp when fretted. I still don&amp;rsquo;t know what the problem is. I regret having bought this instrument years ago online, unseen and unplayed.&lt;/p&gt;
+
+&lt;h2 id=&#34;steel-city-ruby-2013-august-17-18&#34;&gt;Steel City Ruby 2013, August 17-18&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://conscientiousprogrammer.com/blog/2013/08/18/steel-city-ruby-2013-my-second-year-and-it-radically-changed-my-life-again-part-1/&#34;&gt;first morning&lt;/a&gt; of the &lt;a href=&#34;http://steelcityruby.org/&#34;&gt;Steel City Ruby&lt;/a&gt; conference, as I was about to leave home, I suddenly had a thought. Originally I was going to bring my Irish flute to the conference, as I had last year, to join a music jam with Jim Weirich (a speaker again at the conference).&lt;/p&gt;
+
+&lt;p&gt;I tweeted, &lt;a href=&#34;https://twitter.com/franklinchen/status/368346099712786432&#34;&gt;&amp;ldquo;Was thinking of bringing my uke to #scrc13 because of @jimweirich, but been learning it only 3 weeks, feel like imposter.&amp;rdquo;&lt;/a&gt;. Jim replied, &lt;a href=&#34;https://twitter.com/jimweirich/status/368348104397185024&#34;&gt;&amp;ldquo;oh yes! Please bring!&amp;rdquo;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;So I did bring my ukulele. Early on in the day, it was announced that there would be a music jam on the second day of the conference. So the next day, I brought my ukulele in again. And so we had a music jam: Jim, PJ Hagerty, Carol Nichols, and me.&lt;/p&gt;
+
+&lt;p&gt;I was nervous, and couldn&amp;rsquo;t keep up with everything, but had a great time. It also happened to be the first time I ever played ukulele outside of just practicing at home. We did Jim&amp;rsquo;s Ruby song, the very one that I had seen him do almost three years ago at the Pittsburgh Ruby meetup, as well as his Lisp song, and a whole bunch of other stuff, like Hank Williams. (It&amp;rsquo;s hard to believe, but I hadn&amp;rsquo;t played music with other people in a month, since the Mideast Early Music Workshop ended, but I was really focused on personal ukulele practice like a monk.)&lt;/p&gt;
+
+&lt;p&gt;Some photos of us (sadly without Carol, who was sitting opposite the three of us):&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://pbs.twimg.com/media/BR4fd0xCUAEwWRq.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Looking for music to play&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://pbs.twimg.com/media/BR4mjIUCYAIde9U.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;PJ, Franklin, Jim&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;So I ended up playing ukulele with others sooner than I had originally intended or expected. Also, at one point I briefly swapped instruments with Jim so that I could feel what it was like to play a tenor. Surprisingly to me, although it was of course &amp;ldquo;big&amp;rdquo;, it was not as unmanageable as I feared it might be. I always imagined that eventually I&amp;rsquo;d &amp;ldquo;graduate&amp;rdquo; to playing a tenor, after first playing soprano, then concert size, sort of like my progression on recorder of first soprano, then alto, then tenor, then finally &lt;a href=&#34;../../blog/2011/10/03/my-new-bass-and-sopranino-recorders-and-having-fun/&#34;&gt;bass&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;sunday-the-day-after&#34;&gt;Sunday: the day after&lt;/h2&gt;
+
+&lt;p&gt;The very day after the conference jam session, I got email about the Steel City Ukuleles meeting on &lt;a href=&#34;http://www.meetup.com/Steel-City-Ukuleles/events/117971802/&#34;&gt;Wednesday&lt;/a&gt;. In my &amp;ldquo;planning&amp;rdquo;, I had neglected to realize that the group met twice a month, not just once a month! So I didn&amp;rsquo;t have to wait till September 4 after all. I felt I was probably already competent enough to function on Wednesday; I looked at the musical selections, and felt reassured that even if I still have problems with fast chord changes, I could participate without making a total mess of everything. So I signed up!&lt;/p&gt;
+
+&lt;h2 id=&#34;monday-need-better-instrument&#34;&gt;Monday: need better instrument?&lt;/h2&gt;
+
+&lt;p&gt;I went to the local music store to check out concert size ukuleles, because if I need to get a better instrument, I think I might like that size better than the soprano. I have not made any decisions yet. I feel I need to improve further, to better understand instruments and try different kinds, before buying another one.&lt;/p&gt;
+
+&lt;h2 id=&#34;wednesday-my-first-time-at-steel-city-ukuleles&#34;&gt;Wednesday: my first time at Steel City Ukuleles&lt;/h2&gt;
+
+&lt;p&gt;When I arrived, Linda lent me an electric tenor for me to try out. I ended up playing it for the whole two hours because the intonation was good, unlike my soprano. For the most part, I did not have difficulty with the larger instrument.&lt;/p&gt;
+
+&lt;p&gt;Some photos:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://photos4.meetupstatic.com/photos/event/6/d/1/c/highres_274467932.jpeg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Steel City Ukuleles group photo&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;As you can see, I ended up just leaving my soprano ukulele on the ground unused during this session:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://photos1.meetupstatic.com/photos/event/6/d/2/6/highres_274467942.jpeg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Another group photo&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;As the meetup was winding down, because it got dark outside, and my fingers were tired, I captured some footage of &amp;ldquo;Has Anybody Seen My Gal?&amp;rdquo; being done by the group:&lt;/p&gt;
+
+&lt;iframe width=&#34;420&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/LM1Pi2zX484&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;How fitting it is that the very tune I first heard from Jim Weirich almost three years ago is the one to close out my first attendance of the Steel City Ukuleles!&lt;/p&gt;
+
+&lt;h2 id=&#34;what-next&#34;&gt;What next?&lt;/h2&gt;
+
+&lt;p&gt;A month ago, when I was only practicing ukulele five minutes a day, I was still doing some flute practice. But I have not been playing flute or recorder for quite some time now (last time was probably a week ago). I feel bad about this, but I seem to be in ukulele mode now.&lt;/p&gt;
+
+&lt;p&gt;I need to keep flute and recorder in &amp;ldquo;maintenance mode&amp;rdquo; rather than just abandon them entirely.&lt;/p&gt;
+
+&lt;p&gt;Meanwhile, it is of course very exciting to be a beginner at ukulele. To make massive improvements on ukulele, I &lt;em&gt;must&lt;/em&gt; make it my musical &lt;em&gt;focus&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;instruments&#34;&gt;Instruments&lt;/h2&gt;
+
+&lt;p&gt;Linda warned me that her electric tenor ukulele has a high action. After playing it the next day at home, I realized that indeed it has a high action that shreds my left fingers. So it&amp;rsquo;s not working for me.&lt;/p&gt;
+
+&lt;p&gt;Meanwhile, Abby yesterday brought home a concert-sized &lt;a href=&#34;http://en.wikipedia.org/wiki/Banjo_uke&#34;&gt;banjolele&lt;/a&gt; borrowed from a friend:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/banjolele.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Banjolele&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;I&amp;rsquo;ve been using it to get the feel of the concert size while continuing to practice and learn, and so far it&amp;rsquo;s been working great, giving me confidence that I should in fact buy a concert size ukulele.&lt;/p&gt;
+
+&lt;h3 id=&#34;update-of-2013-09-23&#34;&gt;(Update of 2013-09-23)&lt;/h3&gt;
+
+&lt;p&gt;A month later, I actually did finally &lt;a href=&#34;../../blog/2013/09/23/finally-got-a-nice-new-ukulele-mainland-classic-mahogony-concert/&#34;&gt;buy a concert ukulele&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;It&amp;rsquo;s been quite a journey, getting into music and into ukulele through seemingly chance and trivial events such as music at a Pittsburgh Ruby meetup and hearing about Jake Shimabukuro.&lt;/p&gt;
+
+&lt;p&gt;And I&amp;rsquo;m so excited that I&amp;rsquo;m playing ukulele now. It&amp;rsquo;s a whole different music world for me. I&amp;rsquo;ll write more about what I mean, as I continue to progress.&lt;/p&gt;
+
+&lt;h3 id=&#34;update-of-2013-09-04&#34;&gt;(Update of 2013-09-04)&lt;/h3&gt;
+
+&lt;p&gt;Two weeks after my first Steel City Ukuleles meeting, I went back for more, attending &lt;a href=&#34;../../blog/2013/09/04/my-second-meeting-of-the-steel-city-ukuleles/&#34;&gt;my second meeting&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pittsburgh Tech Fest 2013: my talk &#34;Stop Overusing Regular Expressions!&#34;</title>
+      <link>http://franklinchen.com/blog/2013/06/01/pittsburgh-tech-fest-2013-my-talk-stop-overusing-regular-expressions/</link>
+      <pubDate>Sat, 01 Jun 2013 23:48:22 -0400</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/06/01/pittsburgh-tech-fest-2013-my-talk-stop-overusing-regular-expressions/</guid>
+      <description>&lt;p&gt;At Pittsburgh TechFest 2013 (&lt;a href=&#34;../../blog/2013/06/01/report-on-the-second-pittsburgh-techfest-2013/&#34;&gt;full report here&lt;/a&gt;), I gave a talk for a one-hour time slot before lunch.&lt;/p&gt;
+
+&lt;p&gt;This was &lt;a href=&#34;../../blog/2013/01/18/how-justice-clarence-thomas-uncovered-a-seven-year-old-bug-in-my-computer-program/&#34;&gt;my first talk at a conference in three years&lt;/a&gt;, and only my second at a conference in my life! I feel that I have much improved as a presenter since then.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s how it went.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;presentation&#34;&gt;Presentation&lt;/h2&gt;
+
+&lt;p&gt;My presentation was &amp;ldquo;Stop overusing regular expressions!&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;Here is my abstract as submitted to Pittsburgh TechFest:
+&lt;blockquote&gt;
+Regular expressions are very commonly used to process and validate text data. Unfortunately, they suffer from various limitations. I will discuss the limitations and illustrate how using grammars instead can be an improvement. I will make the examples concrete using parsing libraries in a couple of representative languages, although the ideas are language-independent. (I&amp;rsquo;ll try to squeeze in, say, Ruby, Python, JavaScript, Scala.)&lt;/p&gt;
+
+&lt;p&gt;I will emphasize ease of use, since one reason for the overuse of regular expressions is that they are so easy to pull out of one&amp;rsquo;s toolbox.
+&lt;/blockquote&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;revised&#34;&gt;Revised&lt;/h3&gt;
+
+&lt;p&gt;Just on Wednesday, &lt;a href=&#34;../../blog/2013/05/29/pittsburgh-scala-meetup-my-talk-stop-overusing-regular-expressions/&#34;&gt;I had given a version of this talk at the Pittsburgh Scala meetup&lt;/a&gt;, but revised it considerably based on feedback and my own impressions.&lt;/p&gt;
+
+&lt;h3 id=&#34;slides-and-code&#34;&gt;Slides and code&lt;/h3&gt;
+
+&lt;p&gt;The material for the talk &lt;em&gt;as given&lt;/em&gt; is at &lt;a href=&#34;https://github.com/franklinchen/talk-on-overusing-regular-expressions/tree/pitt-tech-fest-talk&#34;&gt;this tag of my GitHub repository&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;My &lt;a href=&#34;https://github.com/franklinchen/talk-on-overusing-regular-expressions&#34;&gt;master branch of the GitHub repository&lt;/a&gt; will always have my latest revisions. I expect continue to add more code in different languages, for example.&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src=&#34;http://www.slideshare.net/slideshow/embed_code/22302440&#34; width=&#34;427&#34; height=&#34;356&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px&#34; allowfullscreen webkitallowfullscreen mozallowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;http://www.slideshare.net/FranklinChen/handout-22302440&#34; title=&#34;Stop overusing regular expressions!&#34; target=&#34;_blank&#34;&gt;Stop overusing regular expressions!&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;http://www.slideshare.net/FranklinChen&#34; target=&#34;_blank&#34;&gt;Franklin Chen&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;after&#34;&gt;After&lt;/h2&gt;
+
+&lt;p&gt;I tried to minimize discussion of the final Scala code slide, which in one page creates a full parser for &amp;ldquo;toy JSON&amp;rdquo; into a tree of Scala objects, because I intended mainly to give this as proof of concept, not to get into explaining the funny operator overloading that makes the parser so concise, but this seemed to be an issue anyway. I now lean toward thinking that in the future, I need to create a parallel slide that replaces the operators with standard method names instead.&lt;/p&gt;
+
+&lt;p&gt;Why did I use Scala for example code anyway? A major reason is that it is indeed very concise, and yet fully statically typed. I could fit all each of my Scala code examples on a single slide. I did that with Ruby also, up to a point. Writing the classes in Ruby (or Python, Java, etc.) would have taken pages of boilerplate, as opposed to using Scala&amp;rsquo;s case classes. (Of course I wasn&amp;rsquo;t going to use ML or Haskell at all in the talk for this audience.)&lt;/p&gt;
+
+&lt;p&gt;I was surprised to learn how quickly I had finished my presentation (around 45 minutes), given that I had actually added many slides after my Pittsburgh Scala version (which had lasted around the same time). I think it could have been because of the following:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Having practiced the talk once, I was more fluent and stumbled less, and explained some things better.&lt;/li&gt;
+&lt;li&gt;My additional transitional and motivational slides were clarifying, and reduced confusion that I had to address in my earlier version.&lt;/li&gt;
+&lt;li&gt;I still get the impression that when I speak, I get overexcited and talk too quickly!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;attendance&#34;&gt;Attendance&lt;/h3&gt;
+
+&lt;p&gt;Turnout was small, around eight people, but enthusiastic. Half the people I already knew, but the other half were new to me.&lt;/p&gt;
+
+&lt;p&gt;I have some hypotheses about why attendance was relatively low (I think most of the talks I went to had 20-40 people):&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Several people actually told me they would have attended my talk, but they too were giving talks or there were others that just happened to have higher priority.&lt;/li&gt;
+&lt;li&gt;The topic is more specialized and yet abstract than others: conceptual rather than devoted to &amp;ldquo;how to use library X in language Y&amp;rdquo; or &amp;ldquo;how to improve your career.&lt;/li&gt;
+&lt;li&gt;I have no name recognition outside of Pittsburgh, and I submitted a completely non-self-promotional, vague bio; I will definitely fix this in all future talk submissions anywhere.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;thanks&#34;&gt;Thanks&lt;/h2&gt;
+
+&lt;p&gt;Thanks to everyone who came to the talk and asked questions and got discussion going! I appreciate having had the opportunity to share my experiences and recommendations at a conference.&lt;/p&gt;
+
+&lt;p&gt;Ha, I was happy that Josh was able to come to my talk, since he missed the Pittsburgh Scala meetup on Wednesday!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Report on the second Pittsburgh TechFest, 2013</title>
+      <link>http://franklinchen.com/blog/2013/06/01/report-on-the-second-pittsburgh-techfest-2013/</link>
+      <pubDate>Sat, 01 Jun 2013 22:06:17 -0400</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/06/01/report-on-the-second-pittsburgh-techfest-2013/</guid>
+      <description>&lt;p&gt;Last year (&lt;a href=&#34;../../blog/2012/06/09/report-on-the-first-pittsburgh-techfest-2012/&#34;&gt;my report here&lt;/a&gt;), I attended the very first &lt;a href=&#34;http://pghtechfest.com/&#34;&gt;Pittsburgh Tech Fest&lt;/a&gt;, held at &lt;a href=&#34;http://www.laroche.edu/&#34;&gt;LaRoche College&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;my-second-year&#34;&gt;My second year&lt;/h2&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://pghtechfest.com/images/pt_logo_2.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Pittsburgh TechFest 2013&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;I was very excited to attend it again this year, with a twist: I reported last year that I was inspired by seeing people I know giving talks, and two months later, after the very first &lt;a href=&#34;http://steelcityruby.org/&#34;&gt;Steel City Ruby Conf&lt;/a&gt; &lt;a href=&#34;../../blog/2012/08/07/the-first-steel-city-ruby-conference-an-amazing-experience/&#34;&gt;decided to finally start giving talks myself&lt;/a&gt;, starting with user group talks. When the organizers of this year&amp;rsquo;s Pittsburgh TechFest put out a call for presentations four months ago, I knew I wanted to submit some, and so I did. My talk &amp;ldquo;Stop overusing regular expressions!&amp;rdquo; was accepted!&lt;/p&gt;
+
+&lt;p&gt;This year I had a goal of enjoying the conference even more than I enjoyed last year&amp;rsquo;s, and I succeeded!&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;speakers-dinner-the-evening-before-the-conference&#34;&gt;Speakers&amp;rsquo; dinner the evening before the conference&lt;/h2&gt;
+
+&lt;p&gt;All speakers were invited to a speakers&amp;rsquo; dinner for the evening before the one-day conference, so I eagerly attended, in order to see some old friends as well as meet new people I hadn&amp;rsquo;t met before. That was fun. This was at &lt;a href=&#34;http://www.foxandhound.com/&#34;&gt;Fox and Hound Bar and Grill&lt;/a&gt; on McKnight Road. I had to fight through considerable rush hour traffic (and also feeling rather ill: more on that later) to get up north out there from the city, but made it. Tortilla chips, veggie trays, baked potatoes, chicken wings: not my usual diet, but those who know me know that I actually love this stuff, ha (thirty pounds ago I ate like that more often)!&lt;/p&gt;
+
+&lt;p&gt;The always eerie thing is meeting people in person &lt;em&gt;finally&lt;/em&gt; that you&amp;rsquo;ve mainly &amp;ldquo;known&amp;rdquo; from Twitter or email. For example, last year, when I was far more &lt;em&gt;shy&lt;/em&gt;, I never actually met the founders of the new conference and talked with them. At the speakers&amp;rsquo; dinner, I finally met Eric Kepes and Dave Hoerster, for example!&lt;/p&gt;
+
+&lt;p&gt;Last year, I basically made myself invisible and kind of only hung out a little bit with some people, whom I already knew! &lt;a href=&#34;../../blog/2012/08/22/steel-city-ruby-conf-review-part-1-its-about-people/&#34;&gt;My experience at Steel City Ruby Conf completely altered how I feel I should relate to people, not only in programming conferences but in life&lt;/a&gt;. I&amp;rsquo;m still slowly getting out of my shell that I basically lived in for four decades, but I know I&amp;rsquo;ve made some real progress in the past year.&lt;/p&gt;
+
+&lt;h2 id=&#34;breakfast-the-day-of-the-conference&#34;&gt;Breakfast the day of the conference&lt;/h2&gt;
+
+&lt;p&gt;Unfortunately, because I was in a rush, I did not eat any breakfast before leaving home. Somehow, I had assumed there would be breakfast provided at the conference (in the form of bagels and fruit, something like that). I was wrong. There was just juice, coffee, tea. Luckily, I had an emergency energy bar in my bag, and ate it.&lt;/p&gt;
+
+&lt;p&gt;Others I talked to were also confused by the lack of food. Maybe in the future it should be made clear whether there is any food provided at the beginning of the day.&lt;/p&gt;
+
+&lt;h2 id=&#34;keynote&#34;&gt;Keynote&lt;/h2&gt;
+
+&lt;p&gt;This year, the keynote speech was by &lt;a href=&#34;http://www.linkedin.com/in/dickwall&#34;&gt;Dick Wall&lt;/a&gt;, whom some of you may know from the &lt;a href=&#34;http://javaposse.com/&#34;&gt;Java Posse&lt;/a&gt; podcast, others from the &lt;a href=&#34;http://www.scalawags.tv/&#34;&gt;Scalawags&lt;/a&gt; podcast that started half a year ago (Scala fans, you have to watch this: it also features &lt;a href=&#34;http://www.linkedin.com/in/djspiewak&#34;&gt;Daniel Spiewak&lt;/a&gt; and Pittsburgh&amp;rsquo;s own &lt;a href=&#34;http://jsuereth.com/&#34;&gt;Josh Suereth&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Dick gave a passionate, personal, entertaining, and thoughtful talk urging all of us to adopt a mindset of taking risks and embracing &lt;em&gt;failure&lt;/em&gt;, just as he has in his professional life: he has worked at many companies, including Google and small startups, and his own currently, &lt;a href=&#34;http://www.escalatesoft.com/&#34;&gt;Escalate&lt;/a&gt;, which is devoted to Scala training and mentoring.&lt;/p&gt;
+
+&lt;h3 id=&#34;some-lessons-from-dick&#34;&gt;Some lessons from Dick&lt;/h3&gt;
+
+&lt;p&gt;Some of the lessons Dick imparted, while putting up slides of some pretty epic failures (software or otherwise, including mountain biking, which he does):&lt;/p&gt;
+
+&lt;p&gt;Do not overplan; be prepared to adapt to the present situation.&lt;/p&gt;
+
+&lt;p&gt;If something is not working, don&amp;rsquo;t continue just because you have invested in it already (&lt;a href=&#34;http://en.wikipedia.org/wiki/Sunk_costs&#34;&gt;sunk cost&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Do something new and valuable; for example, don&amp;rsquo;t write yet another &lt;a href=&#34;http://en.wikipedia.org/wiki/Content_management_system&#34;&gt;CMS&lt;/a&gt;, because people have already done it.&lt;/p&gt;
+
+&lt;p&gt;The worst thing to do is to &amp;ldquo;waste engineering effort&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Fail &lt;em&gt;early&lt;/em&gt;, never in production! Example: the &lt;a href=&#34;http://en.wikipedia.org/wiki/Tacoma_Narrows_Bridge&#34;&gt;Tacoma Narrows Bridge&lt;/a&gt; disaster.&lt;/p&gt;
+
+&lt;p&gt;If you fail repeatedly at something, maybe it&amp;rsquo;s time to stop it and move on.&lt;/p&gt;
+
+&lt;p&gt;Honest communication is key. Often, late failure happens because someone was afraid to honestly speak up about design flaws, and often this is because there is a culture against such honesty.&lt;/p&gt;
+
+&lt;p&gt;Don&amp;rsquo;t focus on &lt;a href=&#34;http://en.wikipedia.org/wiki/Happy_path&#34;&gt;happy path testing&lt;/a&gt;, but on the sad path: think up front about how something can fail, before even coding.&lt;/p&gt;
+
+&lt;p&gt;You can&amp;rsquo;t know whether you&amp;rsquo;ve succeeded or failed unless you have defined concretely what success means in a given context.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://en.wikipedia.org/wiki/Software_craftsmanship&#34;&gt;software craftsmanship&lt;/a&gt; movement, which focuses on quality, is well-meaning but often results in people afraid to try new things (such as learn and use a new language) because they are afraid of writing &amp;ldquo;bad code&amp;rdquo; at first. It&amp;rsquo;s OK to start out by writing bad code.&lt;/p&gt;
+
+&lt;p&gt;One way of failing early is to push failure to compile time (he briefly gave a plug for Scala&amp;rsquo;s type system as one way to do this).&lt;/p&gt;
+
+&lt;h2 id=&#34;overview-of-sessions&#34;&gt;Overview of sessions&lt;/h2&gt;
+
+&lt;p&gt;As with last year, or actually far &amp;ldquo;worse&amp;rdquo;, there were a huge number of sessions and limited time slots. I counted six major time slots, with an average of nine sessions during each, so anyone who attended a session in a given time slot basically had choose &lt;em&gt;one out of nine&lt;/em&gt;. This is pretty wild. (Depending on logistics, hopefully next year the conference can move to a two-day format.)&lt;/p&gt;
+
+&lt;p&gt;Consistent with my philosophy in the past year of conference attendance, I chose to seek out talks that fulfilled the following criteria:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;topics revolving around philosophy, experience, wisdom rather than technical tutorials&lt;/li&gt;
+&lt;li&gt;speakers &lt;em&gt;not&lt;/em&gt; from Pittsburgh and whom I do &lt;em&gt;not&lt;/em&gt; already know&lt;/li&gt;
+&lt;li&gt;stuff I&amp;rsquo;m very interested in that benefits particularly from a guided intro versus looking up a tutorial online&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;sessions-i-attended&#34;&gt;Sessions I attended&lt;/h2&gt;
+
+&lt;h3 id=&#34;messaging-with-rabbitmq-handerson-gomes-http-www-linkedin-com-in-handersongomes&#34;&gt;Messaging with RabbitMQ (&lt;a href=&#34;http://www.linkedin.com/in/handersongomes&#34;&gt;Handerson Gomes&lt;/a&gt;)&lt;/h3&gt;
+
+&lt;p&gt;Actually, I already know Handerson from Pittsburgh meetups. But, as he offered for his session a sequence of lightning talks on RabbitMQ, I thought I would learn something.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, after his first couple of intro talks, I was feeling so sleepy and ill (more on my physical condition at the end of this report) that I had to bail out and take a nap. I napped for about half an hour, much needed before the second session. Then I realized I wasn&amp;rsquo;t just sleepy, but also starving, and found a vending machine and got more food! Meanwhile, I immediately logged into my health care provider&amp;rsquo;s Web site and submitted a request for a doctor&amp;rsquo;s appointment on Monday.&lt;/p&gt;
+
+&lt;h3 id=&#34;it-s-cool-nobody-else-knows-what-they-re-doing-either-jared-faris-http-www-jaredthenerd-com&#34;&gt;It&amp;rsquo;s Cool, Nobody Else Knows What They&amp;rsquo;re Doing Either (&lt;a href=&#34;http://www.jaredthenerd.com/&#34;&gt;Jared Faris&lt;/a&gt;)&lt;/h3&gt;
+
+&lt;p&gt;This was an interesting philosophical discussion about career and personal development, much in the lines of the keynote speech by Dick Wall.&lt;/p&gt;
+
+&lt;p&gt;Jared said that to really learn, we have to &lt;em&gt;challenge&lt;/em&gt; ourselves. We have to go beyond our comfort zone. How far? He suggested that we should take on stuff that we&amp;rsquo;re 80% sure we can do: if we are too ambitious and commit to something we feel only 50% sure of, that is too risky, because then we might just fail without really learning something from the experience.&lt;/p&gt;
+
+&lt;h4 id=&#34;some-lessons-from-jared&#34;&gt;Some lessons from Jared&lt;/h4&gt;
+
+&lt;p&gt;&lt;em&gt;Ask for help&lt;/em&gt;. Jared related that in the past, he was too proud to ask for help because there&amp;rsquo;s sometimes an implicit gamesmanship among us software developers: we don&amp;rsquo;t want to look dumber than our friends, and we fear rejection. But he learned that asking for help was effective, because in the long run it means getting better faster, rather than flailing alone. Stop trying to impress people.&lt;/p&gt;
+
+&lt;p&gt;The way to stretch yourself is to build a base of what you do know, so that when you go beyond that, you have the tools to move to the next level.&lt;/p&gt;
+
+&lt;p&gt;Be &amp;ldquo;honest but confident&amp;rdquo;. Do not fear the art of self-promotion: if you hold back on speaking up for yourself because you don&amp;rsquo;t know it all, then you&amp;rsquo;ll lose out to someone who does speak up.&lt;/p&gt;
+
+&lt;h3 id=&#34;stop-overusing-regular-expressions-me&#34;&gt;Stop overusing regular expressions! (me)&lt;/h3&gt;
+
+&lt;p&gt;I could not attend any of the interesting sessions in the third time slot because I was giving a talk.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s &lt;a href=&#34;../../blog/2013/06/01/pittsburgh-tech-fest-2013-my-talk-stop-overusing-regular-expressions/&#34;&gt;my report about my talk&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;lunch&#34;&gt;Lunch&lt;/h3&gt;
+
+&lt;p&gt;Lunch was of the usual La Roche College cafeteria high quality, nutritious and filling. (And I also ate some cake and pie as well, ha!) This time I socialized more, sitting with some people I knew (but not so well) and people I didn&amp;rsquo;t know. It was great.&lt;/p&gt;
+
+&lt;p&gt;I skipped the lunchtime vendor talks. They might have been interesting, but I needed a break from sitting around in talks, and certainly did not feel like taking lunch outside to eat alone while listening to someone talk! There seemed to be a sizable audience for the one outside the cafeteria, however, so I&amp;rsquo;m happy they found it useful!&lt;/p&gt;
+
+&lt;h3 id=&#34;redesign-is-not-a-four-letter-word-adam-kalnas-http-www-linkedin-com-pub-adam-kalnas-4-660-638&#34;&gt;Redesign is not a four letter word (&lt;a href=&#34;http://www.linkedin.com/pub/adam-kalnas/4/660/638&#34;&gt;Adam Kalnas&lt;/a&gt;)&lt;/h3&gt;
+
+&lt;p&gt;So this was a short (30-minute) talk about redesign. Although Adam works in the .NET world, the lessons he learned and shared with us are not platform-specific. He described how an architecture at &lt;a href=&#34;http://www.omnyx.com/&#34;&gt;Omnyx&lt;/a&gt; was redesigned successfully. The steps included&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Writing pinning tests for a system that had no automated tests at all.&lt;/li&gt;
+&lt;li&gt;Creating an abstract interface for an existing layer.&lt;/li&gt;
+&lt;li&gt;Rewriting code to go through the interface API.&lt;/li&gt;
+&lt;li&gt;Creating a parallel implementation for the interface.&lt;/li&gt;
+&lt;li&gt;Using &lt;a href=&#34;http://martinfowler.com/bliki/FeatureToggle.html&#34;&gt;feature toggles&lt;/a&gt; to keep both implementations in the code.&lt;/li&gt;
+&lt;li&gt;Finally switching off the feature toggle and deleting the old implementation.&lt;/li&gt;
+&lt;li&gt;All the while adding more &lt;a href=&#34;http://en.wikipedia.org/wiki/Test-driven_development&#34;&gt;TDD&lt;/a&gt; tests.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;It was a really nice story of how a really gnarly legacy architecture was successfully brought into the world of cleaner interfaces and automated tests.&lt;/p&gt;
+
+&lt;h3 id=&#34;node-js-design-patterns-for-the-discerning-developer-aaron-cois-http-www-linkedin-com-pub-constantine-aaron-cois-6-312-824&#34;&gt;Node.js Design Patterns for the Discerning Developer (&lt;a href=&#34;http://www.linkedin.com/pub/constantine-aaron-cois/6/312/824&#34;&gt;Aaron Cois&lt;/a&gt;)&lt;/h3&gt;
+
+&lt;p&gt;I am fairly new to the &lt;a href=&#34;http://nodejs.org/&#34;&gt;Node.js&lt;/a&gt; world, having first heard of it two years ago at a &lt;a href=&#34;http://meetups.jquery.com/events/nodejs-with-todd-eichel&#34;&gt;March 2011 meeting of the Pittsburgh jQuery meetup&lt;/a&gt; in which Todd Eichel introduced Node to the group.&lt;/p&gt;
+
+&lt;p&gt;I don&amp;rsquo;t currently actively use Node except, amusingly, as a vehicle for testing non-client JavaScript code for my own purposes.&lt;/p&gt;
+
+&lt;p&gt;Aaron basically talked about how to deal with the whole &amp;ldquo;callback hell&amp;rdquo; problem when dealing with the asynchronous APIs of Node. There was hairy looking code that he transformed or wrote wrappers for in order to make less hairy, but to my eye it was still hairy. I have forked his &lt;a href=&#34;https://github.com/cacois/node-patterns-discerning&#34;&gt;GitHub repository for the talk&lt;/a&gt; and hope to go through the code more closely.&lt;/p&gt;
+
+&lt;h3 id=&#34;scaling-out-with-akka-actors-josh-suereth-http-jsuereth-com&#34;&gt;Scaling out with Akka Actors (&lt;a href=&#34;http://jsuereth.com/&#34;&gt;Josh Suereth&lt;/a&gt;)&lt;/h3&gt;
+
+&lt;p&gt;I&amp;rsquo;m still not an active &lt;a href=&#34;http://akka.io/&#34;&gt;Akka&lt;/a&gt; user, although there is something I believe I could use Akka for fruitfully at work, to considerably improve some efficiency (but in practice, nobody is complaining about the speed, so as a practical matter it has been of no priority to scale out the task in question), and also some personal projects.&lt;/p&gt;
+
+&lt;p&gt;Josh has been promoting Akka for some time: it was at last year&amp;rsquo;s Pittsburgh TechFest that I got my first real introduction to it. Since then, Josh has given more advanced talks on architectures using Akka, as Akka continues to improve and provide more features.&lt;/p&gt;
+
+&lt;p&gt;I learned quite a bit from this talk about scaling out (vs. scaling up): the focus on topology, the adding of new actors whenever you want to handle some transient state or manage other actors. It&amp;rsquo;s really a different way of thinking than &amp;ldquo;ordinary&amp;rdquo; programming and is perhaps more faithful to the original concept of &amp;ldquo;object-oriented&amp;rdquo; (being focused entirely on being asynchronous and passing immutable messages) than what has been considered object-oriented in the past couple of decades.&lt;/p&gt;
+
+&lt;p&gt;For more details, check out his slides and code at his &lt;a href=&#34;https://github.com/jsuereth/intro-to-actors&#34;&gt;GitHub repository&lt;/a&gt;. Note that the code for the clusters talk is on the &lt;a href=&#34;https://github.com/jsuereth/intro-to-actors/tree/clusters&#34;&gt;&lt;code&gt;clusters&lt;/code&gt; branch&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I am definitely going to start using Akka this year. I think the time for actors has truly come.&lt;/p&gt;
+
+&lt;h2 id=&#34;after&#34;&gt;After&lt;/h2&gt;
+
+&lt;p&gt;Dave Hoerster gave the closing speech, thanking all the many sponsors who supported the conference. It was definitely really cool how many sponsors there were. He also noted that there may be an attempt to scale up to a two-day event, which would be really cool if it can be made to happen.&lt;/p&gt;
+
+&lt;p&gt;There were raffle prizes. Amusingly, the vast number of people randomly chosen had already left the premises (hey, it was a long day), so it took a while to give everything away (although some prizes were marked to be emailed to those who were no longer present).&lt;/p&gt;
+
+&lt;p&gt;After the official conclusion of the conference, some people gathered in groups to have dinner together. I wanted to join Josh and Dick, but knew that I was feeling really miserable and had to go home to shower and sleep.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-next&#34;&gt;What next?&lt;/h2&gt;
+
+&lt;p&gt;I will apply the lessons I learned from all the talks and conversations I participated in.&lt;/p&gt;
+
+&lt;p&gt;One thing I&amp;rsquo;ve done is forked a bunch of GitHub repositories for talks that people have posted online (and not just talks I went to) that seem like useful places for me to concretely learn and explore further. Ideas are fine, but working code is working code!&lt;/p&gt;
+
+&lt;h2 id=&#34;thanks&#34;&gt;Thanks&lt;/h2&gt;
+
+&lt;p&gt;I&amp;rsquo;m really grateful not only to attend this conference, but also speak in it, and learn a lot of things, meet new people (and add their blogs to my RSS feeds as well as follow them on Twitter), and share ideas with everyone. I thank the organizers who put in even more work than last year, because of so many more attendees and speakers! I thank the speakers whose presentations I attended (and those I met whose presentations I would have wanted to attended if not for the time conflicts) for sharing their knowledge and experience. And La Roche College was a good venue (and I noticed that this year there was not the temperature problem of last year, when it was just way too cold in the rooms).&lt;/p&gt;
+
+&lt;p&gt;I hope to come to another Pittsburgh TechFest in 2014. Of course, I would submit some talks for it, and come up with helpful topics that are of increasingly more general interest and use.&lt;/p&gt;
+
+&lt;h2 id=&#34;note-on-being-sick&#34;&gt;Note on being sick&lt;/h2&gt;
+
+&lt;p&gt;I&amp;rsquo;ve been sick for a week with contact dermatitis, which I thought I got from poison ivy, but may have come from somewhere else. I was hoping it would clear up on its own, so that I could avoid taking drugs, but I felt increasingly worse yesterday (the itching was very unpleasant and made sleep very difficult), and then during the conference, got even worse. I went home and immediately fell into a nap from exhaustion. When I woke up, I was feeling really terrible. I clearly needed immediate treatment. Abby had come home and told me she was going t take me to the local &lt;a href=&#34;http://upmc.com/Services/urgent-care/Pages/default.aspx&#34;&gt;UPMC Urgent Care&lt;/a&gt; center. So we went, and I got a truly painful steroid shot in the hip. It didn&amp;rsquo;t take long before I started feeling better, with relief from itching, so that I could at least sleep.&lt;/p&gt;
+
+&lt;p&gt;I decided that Dick Wall&amp;rsquo;s advice of not failing repeatedly applied to me. I have failed late and too many times by not going to a doctor earlier. I have reasons (some really terrible experiences with doctors earlier in my life who really botched things up big time, and also I generally don&amp;rsquo;t like getting shots or drugs), but reason has to kick in. I should have gone to a doctor last week when I started having real problems, or even better, gotten my neck rash checked out three weeks ago when it first appeared. I don&amp;rsquo;t like to admit my stupidity and stubbornness, but this is &amp;ldquo;honest communication&amp;rdquo;. I am publicly admitting that I made my own life miserable for weeks, as well as Abby&amp;rsquo;s, and also my fellow conference attendees who had to put up with my marred appearance and energy level (when I explained I wasn&amp;rsquo;t feeling well, people admitted to not wanting to ask me what was up with my neck and skin in general). It wasn&amp;rsquo;t reasonable for me to resist seeking immediate medical attention, and in the future, I will not only use this as a specific learning experience (check myself after any bites or rashes, and immediately have all affected clothing items washed), but a more general one about admitting failure early rather than hoping something going bad with my body will just get better.&lt;/p&gt;
+
+&lt;p&gt;I have had a habit of pushing myself too hard (really messing up not only my &lt;a href=&#34;../../blog/2013/04/20/on-overtraining-and-feeling-injured-two-weeks-before-the-pittsburgh-marathon/&#34;&gt;Pittsburgh Marathon&lt;/a&gt;, but also a &lt;a href=&#34;../../blog/2012/06/03/a-totally-exhausting-rachel-carson-trail-challenge-goal-training-hike/&#34;&gt;Rachel Carson Trail hike&lt;/a&gt; where if I had not been so fatigued, I would have paid more attention to plants brushing against me or the like, and even my 9-mile run last Saturday that proved too taxing given my incomplete recovery from both of those. Pushing too hard is just stupid, and I know it. What&amp;rsquo;s the worst thing: doing something stupid even though you know it; at least if you don&amp;rsquo;t know it, you can be forgiven.&lt;/p&gt;
+
+&lt;h3 id=&#34;update-of-2013-06-02&#34;&gt;(Update of 2013-06-02)&lt;/h3&gt;
+
+&lt;p&gt;The next day, I was feeling much better, but it&amp;rsquo;s clear that full recovery will take a while. I will continue taking steroid pills and applying steroid cream as needed to relieve the itching. I hope that in two weeks I&amp;rsquo;ll be all good again!&lt;/p&gt;
+
+&lt;h3 id=&#34;update-of-2014-06-05&#34;&gt;(Update of 2014-06-05)&lt;/h3&gt;
+
+&lt;p&gt;A year later, I reviewed this post just before my third Pittsburgh TechFest, in 2014, where I am to give another presentation.&lt;/p&gt;
+
+&lt;p&gt;It turned out that my health suffered tremendously for &lt;em&gt;months&lt;/em&gt;. I reported on that &lt;a href=&#34;../../blog/2013/08/10/emerging-from-my-three-months-of-illness-self-pitying-and-self-loathing/&#34;&gt;in August 2013&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;If you&amp;rsquo;ve attended Pittsburgh TechFest or will do so this year, I&amp;rsquo;d like to hear your thoughts about what you&amp;rsquo;ve learned and used, or hope to!&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pittsburgh Scala Meetup: my talk &#34;Stop Overusing Regular Expressions!&#34;</title>
+      <link>http://franklinchen.com/blog/2013/05/29/pittsburgh-scala-meetup-my-talk-stop-overusing-regular-expressions/</link>
+      <pubDate>Wed, 29 May 2013 22:37:07 -0400</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/05/29/pittsburgh-scala-meetup-my-talk-stop-overusing-regular-expressions/</guid>
+      <description>&lt;p&gt;So two days ago, &lt;a href=&#34;http://jamieforrest.com/&#34;&gt;Jamie&lt;/a&gt; sent email out to the &lt;a href=&#34;http://www.meetup.com/Pittsburgh-Scala-Meetup/&#34;&gt;Pittsburgh Scala meetup group&lt;/a&gt; saying that our planned speaker Barrett, who was to have talked about his experiences using &lt;a href=&#34;http://akka.io/&#34;&gt;Akka&lt;/a&gt;, was not going to make it, and asked if anyone else could talk about something.&lt;/p&gt;
+
+&lt;h2 id=&#34;i-suddenly-stepped-in-as-a-substitute-speaker&#34;&gt;I suddenly stepped in as a substitute speaker&lt;/h2&gt;
+
+&lt;p&gt;Since I was already supposed to give a talk on Saturday at the 2013 &lt;a href=&#34;http://pghtechfest.com/&#34;&gt;Pittsburgh TechFest&lt;/a&gt;, and was in the process of finishing my work on it, I volunteered to give an early version of my Pittsburgh TechFest talk &lt;a href=&#34;http://www.meetup.com/Pittsburgh-Scala-Meetup/events/115817242/&#34;&gt;at the Scala meetup&lt;/a&gt;, since I actually happen to provide Scala code in the talk. Ha, this meant giving two talks in two successive meetings, because at the last meeting, I gave a &lt;a href=&#34;../../blog/2013/04/11/my-pittsburgh-scala-meetup-talk-on-property-based-testing-using-scalacheck/&#34;&gt;talk on property-based testing using ScalaCheck&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;presentation&#34;&gt;Presentation&lt;/h2&gt;
+
+&lt;p&gt;My presentation was &amp;ldquo;Stop overusing regular expressions!&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;Here is my abstract as submitted to Pittsburgh TechFest:
+&lt;blockquote&gt;
+Regular expressions are very commonly used to process and validate text data. Unfortunately, they suffer from various limitations. I will discuss the limitations and illustrate how using grammars instead can be an improvement. I will make the examples concrete using parsing libraries in a couple of representative languages, although the ideas are language-independent. (I&amp;rsquo;ll try to squeeze in, say, Ruby, Python, JavaScript, Scala.)&lt;/p&gt;
+
+&lt;p&gt;I will emphasize ease of use, since one reason for the overuse of regular expressions is that they are so easy to pull out of one&amp;rsquo;s toolbox.
+&lt;/blockquote&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;attendance&#34;&gt;Attendance&lt;/h3&gt;
+
+&lt;p&gt;Turnout was small: five people other than myself. By the way, we&amp;rsquo;ve discovered unsurprisingly predictable pattern: roughly half the people who RSVP &amp;ldquo;yes&amp;rdquo; on the meetups show up.&lt;/p&gt;
+
+&lt;h3 id=&#34;slides-and-code&#34;&gt;Slides and code&lt;/h3&gt;
+
+&lt;p&gt;The material for the talk &lt;em&gt;as given&lt;/em&gt; is at &lt;a href=&#34;https://github.com/franklinchen/talk-on-overusing-regular-expressions/tree/meetup-talk&#34;&gt;this tag of my GitHub repository&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;My &lt;a href=&#34;https://github.com/franklinchen/talk-on-overusing-regular-expressions&#34;&gt;master branch of the GitHub repository&lt;/a&gt; will always have my latest revisions.&lt;/p&gt;
+
+&lt;h4 id=&#34;update-of-2013-06-01&#34;&gt;(Update of 2013-06-01)&lt;/h4&gt;
+
+&lt;p&gt;I made substantial revisions in the presentation and code before Pittsburgh TechFest. I recommend looking at the latest version. Details in my &lt;a href=&#34;../../blog/2013/06/01/pittsburgh-tech-fest-2013-my-talk-stop-overusing-regular-expressions/&#34;&gt;report on my talk at Pittsburgh TechFest 2013&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src=&#34;http://www.slideshare.net/slideshow/embed_code/22302440&#34; width=&#34;427&#34; height=&#34;356&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px&#34; allowfullscreen webkitallowfullscreen mozallowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;http://www.slideshare.net/FranklinChen/handout-22302440&#34; title=&#34;Stop overusing regular expressions!&#34; target=&#34;_blank&#34;&gt;Stop overusing regular expressions!&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;http://www.slideshare.net/FranklinChen&#34; target=&#34;_blank&#34;&gt;Franklin Chen&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;after&#34;&gt;After&lt;/h2&gt;
+
+&lt;p&gt;There was great feedback after the talk. Some material I went through took quickly, without a smooth transition to relate ideas, and my final page of Scala code that contained dense use of all kinds of operators and idioms was something I stumbled through trying to explain, even as I was feeling that explaining it was a tangent from the main points of the talk.&lt;/p&gt;
+
+&lt;p&gt;There was casual discussion of Scala and other topics after the talk as well. I was pretty excited to hear about how useful Akka has become in solving important problems.&lt;/p&gt;
+
+&lt;h2 id=&#34;thanks&#34;&gt;Thanks&lt;/h2&gt;
+
+&lt;p&gt;Thanks to everyone who came to the talk! I enjoyed sharing my experiences and recommendations, and engaging in discussion about the topics, and getting to make a mental note of things to change in my delivery, slides, and code for Pittsburgh TechFest on Saturday.&lt;/p&gt;
+
+&lt;p&gt;Thanks to &lt;a href=&#34;http://justin-pihony.blogspot.com/&#34;&gt;Justin&lt;/a&gt; for arranging a meeting place for the Pittsburgh Scala meetup at &lt;a href=&#34;http://mmodal.com/&#34;&gt;M*Modal&lt;/a&gt;, and thanks to M*Modal for providing the space!&lt;/p&gt;
+
+&lt;p&gt;And thanks to Jamie again for creating the Pittsburgh Scala meetup group, and &lt;a href=&#34;http://typesafe.com/&#34;&gt;TypeSafe&lt;/a&gt; for being a sponsor now, thanks to &lt;a href=&#34;http://jsuereth.com/&#34;&gt;Josh&lt;/a&gt; (who sadly did not make it to this meeting).&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pittsburgh Python: distribute and other Python community controversies</title>
+      <link>http://franklinchen.com/blog/2013/02/27/pittsburgh-python-distribute-and-other-python-community-controversies/</link>
+      <pubDate>Wed, 27 Feb 2013 22:12:03 -0500</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/02/27/pittsburgh-python-distribute-and-other-python-community-controversies/</guid>
+      <description>&lt;p&gt;I was very interested to attend this month&amp;rsquo;s &lt;a href=&#34;http://www.meetup.com/pghpython/&#34;&gt;Pittsburgh Python User Group&lt;/a&gt; &lt;a href=&#34;http://www.meetup.com/pghpython/events/95504432/&#34;&gt;meeting&lt;/a&gt; because Nick Sloan was going to give a talk about packaging with &lt;a href=&#34;http://pythonhosted.org/distribute/&#34;&gt;&lt;code&gt;distribute&lt;/code&gt;&lt;/a&gt;: packaging in Python has been a &lt;em&gt;huge source of confusion&lt;/em&gt; to me, both as a user and as a developer.&lt;/p&gt;
+
+&lt;p&gt;Since my use of Python at work or for personal purposes has not been very large scale, I have limped along with settling on a clean setup to use for packaging my code. This is in stark contrast to my management of libraries in Perl, Ruby, and Java, where I think there has been more of a consensus in adoption of certain tools and conventions.&lt;/p&gt;
+
+&lt;p&gt;Also, Joe Esposito sent around some links to interesting discussions and news in the global Python community, so I looked forward to hearing what everyone thought.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-problem-with-python-packaging&#34;&gt;The problem with Python packaging&lt;/h2&gt;
+
+&lt;p&gt;OK, so the big problem I faced when trying to nicely set up packaging for a personal project a while ago was that there are many options. The &lt;a href=&#34;http://en.wikipedia.org/wiki/The_Paradox_of_Choice:_Why_More_Is_Less&#34;&gt;paradox of choice&lt;/a&gt; is insidious, and it is surprising to me in the Python community, which has generally prided itself on a general consensus on a philosophy of &lt;a href=&#34;http://wiki.python.org/moin/TOOWTDI&#34;&gt;&amp;ldquo;There&amp;rsquo;s Only One Way To Do It&amp;rdquo;&lt;/a&gt;, in sharp and deliberate contrast to the Perl community&amp;rsquo;s philosophy of &lt;a href=&#34;http://en.wikipedia.org/wiki/There&#39;s_more_than_one_way_to_do_it&#34;&gt;&amp;ldquo;There&amp;rsquo;s More Than One Way To Do It&amp;rdquo;&lt;/a&gt; (TIMTOWTDI).&lt;/p&gt;
+
+&lt;h2 id=&#34;nick-sloan-on-packaging-with-distribute-http-pythonhosted-org-distribute&#34;&gt;Nick Sloan on packaging with &lt;a href=&#34;http://pythonhosted.org/distribute/&#34;&gt;&lt;code&gt;distribute&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Nick summarized the situation of existing packaging systems for Python:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://docs.python.org/2/distutils/&#34;&gt;&lt;code&gt;distutils&lt;/code&gt;&lt;/a&gt; is lacking in features&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pythonhosted.org/setuptools/index.html&#34;&gt;&lt;code&gt;setuptools&lt;/code&gt;&lt;/a&gt; is stagnant&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pythonhosted.org/distribute/&#34;&gt;&lt;code&gt;distribute&lt;/code&gt;&lt;/a&gt; is a fork of &lt;code&gt;setuptools&lt;/code&gt; and aims to replace it&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;He then illustrated the basics of packaging with writing &lt;code&gt;setup.py&lt;/code&gt;, referencing &lt;a href=&#34;https://medium.com/kr-projects/b8388ba7c1a&#34;&gt;Kenneth Reitz&amp;rsquo;s recommendations on repository structure&lt;/a&gt;, based on &lt;code&gt;distribute&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;kenneth-reitz-s-recommendations-on-repository-structure&#34;&gt;Kenneth Reitz&amp;rsquo;s recommendations on repository structure&lt;/h3&gt;
+
+&lt;p&gt;The most interesting thing about Kenneth Reitz&amp;rsquo;s recommendations was that he advocated separating out &lt;em&gt;tests&lt;/em&gt; from the code of a module, to reduce dependencies for the installer and user of the module. I definitely prefer to have a separate directory tree for tests, as is standard by &lt;em&gt;convention&lt;/em&gt; when I write tests for projects in many other languages. For example:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Perl: &lt;code&gt;t/&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Ruby: &lt;code&gt;spec/&lt;/code&gt; when using RSpec&lt;/li&gt;
+&lt;li&gt;Java: &lt;code&gt;src/test/&lt;/code&gt; when using JUnit&lt;/li&gt;
+&lt;li&gt;Scala: &lt;code&gt;src/test/&lt;/code&gt; when using Specs2 and ScalaCheck&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I don&amp;rsquo;t really like his &lt;code&gt;tests/context.py&lt;/code&gt; system of imports, as it is too dynamic in chasing down imports, and therefore may not play well by default with standard tools:&lt;/p&gt;
+
+&lt;div class=&#34;highlight&#34; style=&#34;background: #f8f8f8&#34;&gt;&lt;pre style=&#34;line-height: 125%&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span style=&#34;color: #008000; font-weight: bold&#34;&gt;import&lt;/span&gt; &lt;span style=&#34;color: #0000FF; font-weight: bold&#34;&gt;os&lt;/span&gt;
+&lt;span style=&#34;color: #008000; font-weight: bold&#34;&gt;import&lt;/span&gt; &lt;span style=&#34;color: #0000FF; font-weight: bold&#34;&gt;sys&lt;/span&gt;
+sys&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;path&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;insert(&lt;span style=&#34;color: #666666&#34;&gt;0&lt;/span&gt;, os&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;path&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;abspath(&lt;span style=&#34;border: 1px solid #FF0000&#34;&gt;‘&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;..&lt;/span&gt;&lt;span style=&#34;border: 1px solid #FF0000&#34;&gt;’&lt;/span&gt;))
+
+&lt;span style=&#34;color: #008000; font-weight: bold&#34;&gt;import&lt;/span&gt; &lt;span style=&#34;color: #0000FF; font-weight: bold&#34;&gt;sample&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;div class=&#34;highlight&#34; style=&#34;background: #f8f8f8&#34;&gt;&lt;pre style=&#34;line-height: 125%&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span style=&#34;color: #008000; font-weight: bold&#34;&gt;from&lt;/span&gt; &lt;span style=&#34;color: #0000FF; font-weight: bold&#34;&gt;.context&lt;/span&gt; &lt;span style=&#34;color: #008000; font-weight: bold&#34;&gt;import&lt;/span&gt; sample
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;That said, I decided to give his recommendations a shot.&lt;/p&gt;
+
+&lt;h3 id=&#34;another-twist&#34;&gt;Another twist&lt;/h3&gt;
+
+&lt;p&gt;Meanwhile, Nick noted that there is also a &lt;a href=&#34;http://pythonhosted.org/Distutils2/&#34;&gt;&lt;code&gt;distutils2&lt;/code&gt;&lt;/a&gt; project now, to improve &lt;code&gt;distutils&lt;/code&gt;, and that nobody is working on &lt;code&gt;distribute&lt;/code&gt; any more. This sounds like a crazy soap opera in the Python world.&lt;/p&gt;
+
+&lt;h2 id=&#34;python-community-debates-and-news&#34;&gt;Python community debates and news&lt;/h2&gt;
+
+&lt;p&gt;Joe opened up the discussion on Python community news.&lt;/p&gt;
+
+&lt;h3 id=&#34;start-writing-more-classes&#34;&gt;&amp;ldquo;Start Writing More Classes&amp;rdquo;?&lt;/h3&gt;
+
+&lt;p&gt;In the Python community, there has always been some controversy over whether to go all-out object-oriented with classes or write in a more functional style. The language supports both styles, although classes were a fairly late addition to the language.&lt;/p&gt;
+
+&lt;h4 id=&#34;stop-writing-classes&#34;&gt;&amp;ldquo;Stop Writing Classes&amp;rdquo;?&lt;/h4&gt;
+
+&lt;p&gt;Last year, at PyCon 2012, there was a talk, &amp;ldquo;Stop Writing Classes&amp;rdquo;, that made waves:&lt;/p&gt;
+
+&lt;iframe width=&#34;420&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/o9pEzgHorH0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;I thought it was a good talk, because it exposed how many things done with classes are superfluous, creating code bloat and deeply nested hierarchies: often you can just use a functional style with data that is not all wrapped into classes.&lt;/p&gt;
+
+&lt;h4 id=&#34;a-rebuttal&#34;&gt;A rebuttal&lt;/h4&gt;
+
+&lt;p&gt;Just two weeks ago, someone wrote a post on how &lt;a href=&#34;http://lucumr.pocoo.org/2013/2/13/moar-classes/&#34;&gt;Python programmers should be writing more classes, not less&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I was not happy about this post because it set up a straw man. Really, he was simply arguing for modular code vs. monolithic code, and observing that some people who don&amp;rsquo;t use classes end up writing monolithic code. He even states as much at the end of his post. So the title of his post is misleading.&lt;/p&gt;
+
+&lt;h3 id=&#34;other-news&#34;&gt;Other news&lt;/h3&gt;
+
+&lt;p&gt;There were various other smaller topics discussed, but &lt;code&gt;distribute&lt;/code&gt; and classes dominated this evening.&lt;/p&gt;
+
+&lt;h2 id=&#34;updates-after-the-meetup&#34;&gt;(Updates after the meetup)&lt;/h2&gt;
+
+&lt;p&gt;After I went home, I updated &lt;a href=&#34;https://github.com/FranklinChen/project-euler-python&#34;&gt;one of my sample Python projects&lt;/a&gt; to adhere to Kenneth Reitz&amp;rsquo;s guidelines.&lt;/p&gt;
+
+&lt;p&gt;Also, some weeks later, I noticed an &lt;a href=&#34;http://mail.python.org/pipermail/distutils-sig/2013-March/020126.html&#34;&gt;announcement that &lt;code&gt;setuptools&lt;/code&gt; and &lt;code&gt;distribute&lt;/code&gt; were going to merge efforts&lt;/a&gt;. Hooray!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Why flatten a tree when you can just traverse it?</title>
+      <link>http://franklinchen.com/blog/2013/02/15/why-flatten-a-tree-when-you-can-just-traverse-it/</link>
+      <pubDate>Fri, 15 Feb 2013 15:11:08 -0500</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/02/15/why-flatten-a-tree-when-you-can-just-traverse-it/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;http://michaelfeathers.typepad.com/michael_feathers_blog/&#34;&gt;Michael Feathers&lt;/a&gt; wrote a blog post about &lt;a href=&#34;http://michaelfeathers.typepad.com/michael_feathers_blog/2013/02/sub-tree-selection-with-flattenselect.html&#34;&gt;avoiding explicitly traversing a tree recursively&lt;/a&gt; by taking advantage of its representation as nested arrays and using array operations to flatten.&lt;/p&gt;
+
+&lt;p&gt;I was unhappy about this solution because&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;it creates a bunch of intermediate arrays&lt;/li&gt;
+&lt;li&gt;it concatenates arrays repeatedly, which is expensive for a very large tree&lt;/li&gt;
+&lt;li&gt;the recursive solution seems more simple, clear, and efficient&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;So I wrote up the recursive solution. Some features of the solution:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;it uses Ruby&amp;rsquo;s idiomatic &lt;code&gt;yield&lt;/code&gt; construct&lt;/li&gt;
+&lt;li&gt;for convenience, it creates an &lt;code&gt;Enumerable&lt;/code&gt; so that you can do whatever you want while iterating through the tree&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Here&amp;rsquo;s the code:&lt;/p&gt;
+
+&lt;script src=&#34;https://gist.github.com/4963218.js&#34;&gt;&lt;/script&gt;
+
+</description>
+    </item>
+    
+    <item>
+      <title>Attending the first OpenHack Pittsburgh meeting</title>
+      <link>http://franklinchen.com/blog/2013/01/21/attending-the-first-openhack-pittsburgh-meeting/</link>
+      <pubDate>Mon, 21 Jan 2013 21:49:13 -0500</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/01/21/attending-the-first-openhack-pittsburgh-meeting/</guid>
+      <description>
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://openhack.github.com/images/logo-green.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;OpenHack logo&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;I was excited to attend the &lt;a href=&#34;http://www.meetup.com/pittsburgh-ruby/events/96033112/&#34;&gt;very first meeting&lt;/a&gt; of &lt;a href=&#34;http://openhack.github.com/pittsburgh/&#34;&gt;OpenHack Pittsburgh&lt;/a&gt;, out of curiosity and as a way to force myself to make progress on a personal programming project of mine using Scala (ironically, after spending the day at work on Scala; apparently I couldn&amp;rsquo;t get enough of it).&lt;/p&gt;
+
+&lt;p&gt;The point of &lt;a href=&#34;http://openhack.github.com/&#34;&gt;OpenHack&lt;/a&gt; is to provide a space for programmers to meet up and work on something. It could be a shared project, it could be a personal project.&lt;/p&gt;
+
+&lt;p&gt;Some people come with something to work on, others come to meet other programmers and pitch in on a project, others come to learn something. It was cool that some people left the first meeting finally getting set up on Ruby or Python or Clojure, and working on a project, with help from other people.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/openhack-pittsburgh-2013-01-21/room.jpeg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;One room&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/openhack-pittsburgh-2013-01-21/conference-room.jpeg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Conference room&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;And yes, in the two hours I was there, I did make good progress on my project. It&amp;rsquo;s not finished yet though.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/openhack-pittsburgh-2013-01-21/closeup.jpeg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Franklin and others&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;h2 id=&#34;thanks&#34;&gt;Thanks&lt;/h2&gt;
+
+&lt;p&gt;Many thanks to &lt;a href=&#34;http://www.4moms.com/&#34;&gt;4moms&lt;/a&gt; for hosting the first OpenHack Pittsburgh meetup, and providing the sandwiches and chips and beverages!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A short example of why I prefer static typing: learning Gradle</title>
+      <link>http://franklinchen.com/blog/2012/09/24/a-short-example-of-why-i-prefer-static-typing-learning-gradle/</link>
+      <pubDate>Mon, 24 Sep 2012 17:07:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/09/24/a-short-example-of-why-i-prefer-static-typing-learning-gradle/</guid>
+      <description>&lt;p&gt;I make no secret of the fact the I prefer to program in &lt;a href=&#34;http://en.wikipedia.org/wiki/Programming_language#Static_versus_dynamic_typing&#34;&gt;statically-typed languages&lt;/a&gt;. That is not to say that I don&amp;rsquo;t write programs in dynamically typed languages. In fact, I have written and will continue to write programs in &lt;a href=&#34;../../categories/perl/&#34;&gt;Perl&lt;/a&gt;, &lt;a href=&#34;../../categories/python/&#34;&gt;Python&lt;/a&gt;, &lt;a href=&#34;../../categories/ruby/&#34;&gt;Ruby&lt;/a&gt;, &lt;a href=&#34;../../categories/javascript/&#34;&gt;JavaScript&lt;/a&gt;, and other dynamically typed programs, because pragmatically speaking, there is a whole lot more to programming to get something done than questions of &lt;a href=&#34;http://en.wikipedia.org/wiki/Type_system&#34;&gt;type systems&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Nevertheless, it is always painful to me when I hit a wall when learning and using an unfamiliar API from a dynamically typed language. I always think, &amp;ldquo;if only this API were statically typed, so that when I encounter an error, I can immediately look up what went wrong&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s an example as I&amp;rsquo;ve been learning &lt;a href=&#34;http://www.gradle.org/&#34;&gt;Gradle&lt;/a&gt; while evaluating it along with learning &lt;a href=&#34;http://www.scala-sbt.org/&#34;&gt;SBT&lt;/a&gt;, as two candidate build tools for me to switch to out of &lt;a href=&#34;http://maven.apache.org/&#34;&gt;Maven&lt;/a&gt; as my build tool for a primarily Java-based project. Note that Gradle is basically an embedded domain-specific language using the dynamically typed language &lt;a href=&#34;http://groovy.codehaus.org/&#34;&gt;Groovy&lt;/a&gt;, while SBT is an embedded domain-specific language using the statically typed language &lt;a href=&#34;http://www.scala-lang.org/&#34;&gt;Scala&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;code-example&#34;&gt;Code example&lt;/h2&gt;
+
+&lt;p&gt;Here&amp;rsquo;s a code example from a book I&amp;rsquo;ve been going through while studying Gradle, &lt;a href=&#34;http://gradleware.com/registered/books/building-and-testing/&#34;&gt;&amp;ldquo;Building and Testing with Gradle&amp;rdquo;&lt;/a&gt;:&lt;/p&gt;
+
+&lt;h3 id=&#34;example-3-21-use-the-ant-path-references-inside-the-gradle-build&#34;&gt;Example 3.21. Use the Ant path references inside the Gradle build&lt;/h3&gt;
+
+&lt;div class=&#34;highlight&#34; style=&#34;background: #f8f8f8&#34;&gt;&lt;pre style=&#34;line-height: 125%&#34;&gt;&lt;span&gt;&lt;/span&gt;ant&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;importBuild&lt;/span&gt; &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;#39;build.xml&amp;#39;&lt;/span&gt;
+
+defaultTasks &lt;span style=&#34;color: #666666&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;[&lt;/span&gt;&lt;span style=&#34;color: #BA2121&#34;&gt;&amp;#39;gradleBuild&amp;#39;&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;]&lt;/span&gt;
+
+&lt;span style=&#34;color: #408080; font-style: italic&#34;&gt;////////////////////////////////////////////////////////////////////////&lt;/span&gt;
+&lt;span style=&#34;color: #408080; font-style: italic&#34;&gt;// Gradle paths retrieved from Ant and then built using a Gradle task&lt;/span&gt;
+repositories &lt;span style=&#34;color: #666666&#34;&gt;{&lt;/span&gt;
+    flatDir &lt;span style=&#34;color: #A0A000&#34;&gt;name:&lt;/span&gt; &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;#39;localRepository1&amp;#39;&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color: #A0A000&#34;&gt;dirs:&lt;/span&gt; ant&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;references&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;[&lt;/span&gt;&lt;span style=&#34;color: #BA2121&#34;&gt;&amp;#39;antPathToLibs1&amp;#39;&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;]&lt;/span&gt;
+    flatDir &lt;span style=&#34;color: #A0A000&#34;&gt;name:&lt;/span&gt; &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;#39;localRepository2&amp;#39;&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color: #A0A000&#34;&gt;dirs:&lt;/span&gt; ant&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;references&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;antPathToLibs2&lt;/span&gt;
+    flatDir &lt;span style=&#34;color: #A0A000&#34;&gt;name:&lt;/span&gt; &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;#39;localRepository3&amp;#39;&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color: #A0A000&#34;&gt;dirs:&lt;/span&gt; &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;antlibs&amp;quot;&lt;/span&gt;
+&lt;span style=&#34;color: #666666&#34;&gt;}&lt;/span&gt;
+
+task gradleBuild &lt;span style=&#34;color: #666666&#34;&gt;&amp;lt;&amp;lt;&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;{&lt;/span&gt;
+    &lt;span style=&#34;color: #408080; font-style: italic&#34;&gt;//Set classpath to include the JAR&lt;/span&gt;
+    println &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;The repositories bridged from Ant to Gradle are:&amp;quot;&lt;/span&gt;
+    println repositories&lt;span style=&#34;color: #666666&#34;&gt;*.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;name&lt;/span&gt;
+
+    println repositories&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;localRepository1&lt;/span&gt;
+
+    println repositories&lt;span style=&#34;color: #666666&#34;&gt;[&lt;/span&gt;&lt;span style=&#34;color: #BA2121&#34;&gt;&amp;#39;localRepository2&amp;#39;&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;]&lt;/span&gt;
+
+    println &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;localRepository3 class = &amp;quot;&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;+&lt;/span&gt; repositories&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;localRepository3&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;class&lt;/span&gt;
+    println &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;localRepository3 name = &amp;quot;&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;+&lt;/span&gt; repositories&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;localRepository3&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;name&lt;/span&gt;
+    println &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;localRepository3 latest = &amp;quot;&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;+&lt;/span&gt; repositories&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;localRepository3&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;latest&lt;/span&gt;
+    println &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;localRepository3 ivyPatterns = &amp;quot;&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;+&lt;/span&gt; repositories&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;localRepository3&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;ivyPatterns&lt;/span&gt;
+    println &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;localRepository3 artifactPatterns =&lt;/span&gt;
+&lt;span style=&#34;color: #BA2121&#34;&gt;       &amp;quot;&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;+&lt;/span&gt; repositories&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;localRepository3&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;artifactPatterns&lt;/span&gt;
+    println &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;localRepository3 checkconsistency =&lt;/span&gt;
+&lt;span style=&#34;color: #BA2121&#34;&gt;       &amp;quot;&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;+&lt;/span&gt; repositories&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;localRepository3&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;checkconsistency&lt;/span&gt;
+    println &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;localRepository3 m2compatible =&lt;/span&gt;
+&lt;span style=&#34;color: #BA2121&#34;&gt;       &amp;quot;&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;+&lt;/span&gt; repositories&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;localRepository3&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;m2compatible&lt;/span&gt;
+    println &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;localRepository3 methods =&lt;/span&gt;
+&lt;span style=&#34;color: #BA2121&#34;&gt;       &amp;quot;&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;+&lt;/span&gt; repositories&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;localRepository3&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;metaClass&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;methods&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;*.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;name&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;sort&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;().&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;unique&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;()&lt;/span&gt;
+&lt;span style=&#34;color: #666666&#34;&gt;}&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h2 id=&#34;error-output&#34;&gt;Error output&lt;/h2&gt;
+
+&lt;p&gt;Unfortunately, this Gradle build file, when executed under the current version of Gradle, dies with an error:&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;highlight&#34; style=&#34;background: #f8f8f8&#34;&gt;&lt;pre style=&#34;line-height: 125%&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span style=&#34;color: #000080; font-weight: bold&#34;&gt;$&lt;/span&gt; ./run-example.bsh
+&lt;span style=&#34;color: #888888&#34;&gt;:gradleBuild&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;The repositories bridged from Ant to Gradle are:&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;[localRepository1, localRepository2, localRepository3]&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;org.gradle.api.internal.artifacts.repositories.DefaultFlatDirArtifactRepository_Decorated@7f205d8d&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;org.gradle.api.internal.artifacts.repositories.DefaultFlatDirArtifactRepository_Decorated@5eef2e7c&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;localRepository3 class = class org.gradle.api.internal.artifacts.repositories.DefaultFlatDirArtifactRepository_Decorated&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;localRepository3 name = localRepository3&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;:gradleBuild FAILED&lt;/span&gt;
+
+&lt;span style=&#34;color: #888888&#34;&gt;FAILURE: Build failed with an exception.&lt;/span&gt;
+
+&lt;span style=&#34;color: #888888&#34;&gt;* Where:&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;Build file &amp;#39;oreilly-gradle-book-examples/ant-classpathanttogradle/build.gradle&amp;#39; line: 24&lt;/span&gt;
+
+&lt;span style=&#34;color: #888888&#34;&gt;* What went wrong:&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;Execution failed for task &amp;#39;:gradleBuild&amp;#39;.&lt;/span&gt;
+&lt;span style=&#34;color: #000080; font-weight: bold&#34;&gt;&amp;gt;&lt;/span&gt; Could not find property &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;#39;latest&amp;#39;&lt;/span&gt; on org.gradle.api.internal.artifacts.repositories.DefaultFlatDirArtifactRepository_Decorated@8c1e4d5.
+
+&lt;span style=&#34;color: #888888&#34;&gt;* Try:&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output.&lt;/span&gt;
+
+&lt;span style=&#34;color: #888888&#34;&gt;BUILD FAILED&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;After much searching online, I still could not figure out what properties are supposed to be available from &lt;code&gt;repositories.localRepository3&lt;/code&gt;. I looked at the &lt;a href=&#34;http://www.gradle.org/docs/current/javadoc/overview-tree.html&#34;&gt;Gradle documentation&lt;/a&gt;, and I looked up the package &lt;a href=&#34;http://www.gradle.org/docs/current/javadoc/org/gradle/api/artifacts/repositories/package-tree.html&#34;&gt;&lt;code&gt;org.gradle.api.internal.artifacts.repositories&lt;/code&gt;&lt;/a&gt; without success.&lt;/p&gt;
+
+&lt;p&gt;Gradle&amp;rsquo;s API has changed since the publication of the book, obviously. And in fact, I have been submitting &lt;a href=&#34;https://github.com/gradleware/oreilly-gradle-book-examples/commit/351f31f1cdede84233b977e67031720177144aab&#34;&gt;GitHub pull requests&lt;/a&gt; as I update the code examples while encountering apparent changes. But sometimes, as in this case, it has been too confusing for me to figure out how to update the code. You could say that this is always the case for any code in any language, but what bothers me is the nature of error messages and documentation in APIs for dynamically typed languages such as Groovy. These experiences remind me that &lt;em&gt;types are documentation&lt;/em&gt;, that &lt;em&gt;types are a way for a programmer to tell the world how code is supposed to be used&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Gradle seems to be a promising build tool, and I will continue to evaluate it while skipping over the particular mysterious error I encountered (since it is not really relevant to what I want to do in my builds), but I wish I could have better figured out what went wrong with the book&amp;rsquo;s code example. Meanwhile, it remains to be seen what kinds of problems I will encounter when using SBT. Again, I have to emphasize that my goal is to get things done, correctly and efficiently. Whatever works best, I will use, whatever its drawbacks: in another project, I happily used &lt;a href=&#34;../../categories/scons/&#34;&gt;SCons&lt;/a&gt; as a build tool, based on the dynamically typed language Python, and of course, I have used &lt;a href=&#34;http://rake.rubyforge.org/&#34;&gt;Rake&lt;/a&gt; for Ruby projects.&lt;/p&gt;
+
+&lt;h3 id=&#34;update-of-2015-05-18&#34;&gt;(Update of 2015-05-18)&lt;/h3&gt;
+
+&lt;p&gt;Wow, that was written in fall of 2012.&lt;/p&gt;
+
+&lt;p&gt;Since then, I have heavily used SBT from then to the present first for Java, then for Scala, which &lt;a href=&#34;http://franklinchen.com/blog/2013/01/11/2013-is-my-year-of-scala/&#34;&gt;became my main programming language in early 2013&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Also, in early 2015, &lt;a href=&#34;http://blog.pivotal.io/pivotal/news-2/groovy-2-4-and-grails-3-0-to-be-last-major-releases-under-pivotal-sponsorship&#34;&gt;Pivotal got out of the Groovy business&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Meanwhile, in early 2015 as I adopted Haskell as my main language for new projects, I switched away from SCons as a general-purpose build tool to Haskell-based &lt;a href=&#34;http://shakebuild.com/&#34;&gt;Shake&lt;/a&gt;, which works really great for me.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Happy Programmers&#39; Day!</title>
+      <link>http://franklinchen.com/blog/2012/09/12/happy-programmers-day/</link>
+      <pubDate>Wed, 12 Sep 2012 21:56:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/09/12/happy-programmers-day/</guid>
+      <description>&lt;p&gt;Happy &lt;a href=&#34;http://en.wikipedia.org/wiki/Programmers&#39;_Day&#34;&gt;Programmers&amp;rsquo; Day&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;I only by accident found out that today was Programmers&amp;rsquo; Day. It is apparently observed the 256th day of each year. This is my first year of &amp;ldquo;observing&amp;rdquo; the day.&lt;/p&gt;
+
+&lt;p&gt;Since the day is almost over, I hurriedly came up with this little piece of code. Guess what it does?&lt;/p&gt;
+
+&lt;p&gt;{% codeblock Mystery Ruby lang:ruby &lt;a href=&#34;http://github.com/FranklinChen/programmers-day/blob/master/ruby/mystery.rb&#34;&gt;http://github.com/FranklinChen/programmers-day/blob/master/ruby/mystery.rb&lt;/a&gt; %}
+require_relative &amp;lsquo;utils&amp;rsquo;&lt;/p&gt;
+
+&lt;p&gt;class Mystery
+  attr_reader :mysterious
+end
+{% endcodeblock %}&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;The trick, of course, lies in what we have in &lt;code&gt;utils.rb&lt;/code&gt;:&lt;/p&gt;
+
+&lt;div class=&#34;highlight&#34; style=&#34;background: #f8f8f8&#34;&gt;&lt;pre style=&#34;line-height: 125%&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span style=&#34;color: #008000; font-weight: bold&#34;&gt;class&lt;/span&gt; &lt;span style=&#34;color: #0000FF; font-weight: bold&#34;&gt;Class&lt;/span&gt;
+  &lt;span style=&#34;color: #008000; font-weight: bold&#34;&gt;alias&lt;/span&gt; orig_attr_reader &lt;span style=&#34;color: #008000&#34;&gt;attr_reader&lt;/span&gt;
+
+  &lt;span style=&#34;color: #008000; font-weight: bold&#34;&gt;def&lt;/span&gt; &lt;span style=&#34;color: #0000FF&#34;&gt;attr_reader&lt;/span&gt;(&lt;span style=&#34;color: #666666&#34;&gt;*&lt;/span&gt;args)
+    args&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;each &lt;span style=&#34;color: #008000; font-weight: bold&#34;&gt;do&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;|&lt;/span&gt;arg&lt;span style=&#34;color: #666666&#34;&gt;|&lt;/span&gt;
+      &lt;span style=&#34;color: #008000; font-weight: bold&#34;&gt;if&lt;/span&gt; arg &lt;span style=&#34;color: #666666&#34;&gt;==&lt;/span&gt; &lt;span style=&#34;color: #19177C&#34;&gt;:mysterious&lt;/span&gt;
+        &lt;span style=&#34;color: #008000&#34;&gt;puts&lt;/span&gt; &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;Happy Programmers&amp;#39; Day!&amp;quot;&lt;/span&gt;
+      &lt;span style=&#34;color: #008000; font-weight: bold&#34;&gt;end&lt;/span&gt;
+    &lt;span style=&#34;color: #008000; font-weight: bold&#34;&gt;end&lt;/span&gt;
+
+    orig_attr_reader(&lt;span style=&#34;color: #666666&#34;&gt;*&lt;/span&gt;args)
+  &lt;span style=&#34;color: #008000; font-weight: bold&#34;&gt;end&lt;/span&gt;
+&lt;span style=&#34;color: #008000; font-weight: bold&#34;&gt;end&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Very simple, nothing fancy, but perverse enough for a bit of Programmers&amp;rsquo; Day fun.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Running my 8th Pretty Good Race 5K: dealing with disappointment</title>
+      <link>http://franklinchen.com/blog/2012/09/07/running-my-8th-pretty-good-race-5k-dealing-with-disappointment/</link>
+      <pubDate>Fri, 07 Sep 2012 19:47:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/09/07/running-my-8th-pretty-good-race-5k-dealing-with-disappointment/</guid>
+      <description>&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/pretty-good-race-2012/registration.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Registration table&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;This year I ran, for the eighth time in my life, the &lt;a href=&#34;http://www.cs.cmu.edu/~kalp/PGR/&#34;&gt;CMU Pretty Good Race 5K&lt;/a&gt;; on National Running Day earlier this year, I described &lt;a href=&#34;../../blog/2012/06/06/i-celebrated-national-running-day-in-schenley-park-remembering-how-i-began-to-run-13-year-ago/&#34;&gt;how special this race has been to me&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Things did not go as planned, but I made the most of the event anyway, and was happy and even amused by some of the things that happened.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;preparation&#34;&gt;Preparation&lt;/h2&gt;
+
+&lt;p&gt;One of the big problems was that I was not at all feeling prepared for the race.&lt;/p&gt;
+
+&lt;h3 id=&#34;foot-problem&#34;&gt;Foot problem&lt;/h3&gt;
+
+&lt;p&gt;For one thing, I felt very tired for days after my last race, the &lt;a href=&#34;../../blog/2012/08/25/my-eighth-time-doing-run-around-the-square-5k/&#34;&gt;Run Around the Square of almost two weeks ago&lt;/a&gt;. I gave so much of myself during that race that afterwards, I just didn&amp;rsquo;t feel like running again for a while.&lt;/p&gt;
+
+&lt;p&gt;Worse than that, my left foot has been bothering me ever since that race, discouraging me even more from continuing my regular running. I am pretty sure that I injured my arch area because I had the shoe strap of my Vibram FiveFingers KSO Trek shoe too tight. I had it on tighter than during my normal runs, out of &amp;ldquo;fear&amp;rdquo; of the shoe coming off or slipping during the race on the Schenley Park hilly trail. &lt;strong&gt;Shoe too tight was a mistake I will never make again.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;life-intervened&#34;&gt;Life intervened&lt;/h3&gt;
+
+&lt;p&gt;Finally, and most significantly, I have spent the last week spending a lot of time on the talk I gave yesterday at the &lt;a href=&#34;http://pghrb.heroku.com/&#34;&gt;Pittsburgh Ruby group&lt;/a&gt;, as &lt;a href=&#34;../../blog/2012/08/07/the-first-steel-city-ruby-conference-an-amazing-experience/&#34;&gt;I had promised I would a month ago&lt;/a&gt;. That took a lot out of me. In fact, if I had not already committed, with Abby, to run the Pretty Good Race this year, I would not have done it at all, after all my energy was drained in the past week. But it would have been unfair to bail out on Abby given that this is one of the few races we have started doing together.&lt;/p&gt;
+
+&lt;p&gt;I suppose I could have decided to give the talk for the October meeting of the Ruby group instead, knowing up front the annual date of the Pretty Good Race. That had crossed my mind, but I also had instantly decided (with no regrets) that giving the talk as soon as possible after I promised to do it was of much higher priority than anything involving any of my races.&lt;/p&gt;
+
+&lt;h2 id=&#34;weather-conditions&#34;&gt;Weather conditions&lt;/h2&gt;
+
+&lt;p&gt;The race was made much more difficult by the unpredictable weather. For days it would be cold, then hot. Well, it turned out that race day was very hot. It had to be like 80F. I was even thinking that this might be the warmest race I&amp;rsquo;ve ever run in, but actually, that&amp;rsquo;s probably not quite true: races in July tend to be pretty hot.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-plan&#34;&gt;The plan&lt;/h2&gt;
+
+&lt;p&gt;So I started the race with no hope whatsoever of surpassing last year&amp;rsquo;s time of 24:36. I was just going to try to run an honest race at steady effort, and use my usual mental tricks of trying to speed up in the second half and try to catch people ahead of me. In particular, the fearsome very long uphill at the end is something that I wanted to have enough energy for to sprint up; in every year up till now, I have waited until the finish line is in sight before I start my sprint. I did not always manage to pass everyone in front of me, and I also at least once let someone sprint past me.&lt;/p&gt;
+
+&lt;p&gt;This year, during some training runs on the course, I experimented with running hard for just the second half and figuring out how much energy to conserve so that I would be able to start the sprint from far beyond that point, from around the curve. That way, I would have the possibility of powering through with nobody able to catch me. &lt;em&gt;I&amp;rsquo;d never started my sprint from so far out before in any race&lt;/em&gt;, so this was going to be an experiment.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-race&#34;&gt;The race&lt;/h2&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/pretty-good-race-2012/franklin-before-race.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Franklin before the race&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;beginning&#34;&gt;Beginning&lt;/h3&gt;
+
+&lt;p&gt;I went out at a steady pace. After less than a mile, runners had more or less spread out and found their pace. I slowly caught up to someone who was running at approximately my pace. This is when things got interesting.&lt;/p&gt;
+
+&lt;p&gt;This runner ahead of me sensed that I was catching up and decided to surge. I was confused by this move, but just kept on going at my pace. Maybe she just preferred running with nobody around her; but I was trying to give her some space by coming up from the side and behind her, rather than directly behind her. Having someone breathe down your neck is not very pleasant, after all.&lt;/p&gt;
+
+&lt;h3 id=&#34;middle&#34;&gt;Middle&lt;/h3&gt;
+
+&lt;p&gt;As she kept increasing her distance from me, I concluded that she was probably just faster than me, found her natural pace, and I would never catch her. There was nobody else visible directly ahead of me, so I had no other target during the first half of the race, but I knew that since it was mostly uphill, and I&amp;rsquo;m stronger downhill than uphill, and a lot of runners go out too fast in the first half of races, it was a question of whom I would start catching during the second half.&lt;/p&gt;
+
+&lt;p&gt;But then, as I approached the turnaround point (this is an out and back course on Panther Hollow Trail), I noticed that far ahead of me, beyond the designated turnaround point (where there were volunteers directing people to turn around, and some runners were in fact there turning around), was this runner who had blasted past me. Maybe she was in the zone or something, but she missed the turnaround point! She started coming back as I reached the turnaround point.&lt;/p&gt;
+
+&lt;p&gt;I felt bad that she had made a mistake, but then again, this was a new opportunity for me. I already knew that she was faster than me. But she wasted time and energy falling behind me in the race. Could I actually prevent her from coming past me during the entire second half of the race, given my head start?&lt;/p&gt;
+
+&lt;p&gt;I didn&amp;rsquo;t look back once as I focused on running the second half of the race, almost all downhill.&lt;/p&gt;
+
+&lt;h3 id=&#34;end&#34;&gt;End&lt;/h3&gt;
+
+&lt;p&gt;Probably no more than a quarter mile from the end, she passed me and started putting distance between us. But at my targeted location to put in my kick, I &lt;em&gt;screamed&lt;/em&gt;, three or four times, while doing what I&amp;rsquo;d done in training: going into an all-out long sprint. I think I totally freaked her out, because she kind of just stepped aside and started jogging or something (that&amp;rsquo;s what it seemed like as I charged past and then around the curve and then up the steep hill).&lt;/p&gt;
+
+&lt;p&gt;I continued throwing out a periodic scream until I finished. For the first hundred or so races in my life, I never screamed, but I started this habit only last year, at &lt;a href=&#34;../../blog/2011/10/01/run-shadyside-5k-outrunning-mickey-mouse-and-lending-a-trumpet/&#34;&gt;Run Shadyside&lt;/a&gt;. I believe it actually helps me a lot when I&amp;rsquo;m in pain and need to &amp;ldquo;wake up&amp;rdquo; into a new gear of existence temporarily. I just worry about whether it scares people.&lt;/p&gt;
+
+&lt;p&gt;It turned out that I finished ten seconds earlier than her. Mission accomplished, after all.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-is-important&#34;&gt;What is important&lt;/h2&gt;
+
+&lt;p&gt;Here I am, shortly after finishing:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/pretty-good-race-2012/franklin-exhausted.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Franklin exhausted&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Here&amp;rsquo;s Abby coming up the hill for the finish:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/pretty-good-race-2012/abby-finishing.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Abby finishing on the uphill&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;I was pretty proud of having executed the most demanding sprint finish of my entire life. I know that my final race time of 26:05 is far slower than my 24:36 of last year, but as far as my effort was concerned, I did give it my all. &lt;em&gt;It&amp;rsquo;s not about how fast I went, but how much I gave of what I had.&lt;/em&gt; (Apparently, at the London Olympics, some runner was banned for &lt;a href=&#34;http://www.telegraph.co.uk/sport/olympics/athletics/9456916/Algerian-runner-banned-for-not-trying-hard-enough-at-London-2012.html&#34;&gt;&amp;ldquo;not trying hard enough&amp;rdquo;&lt;/a&gt;.)&lt;/p&gt;
+
+&lt;p&gt;Abby, in her second Pretty Good Race, ran 2:07 faster than last year, in more difficult conditions. It&amp;rsquo;s really great how she&amp;rsquo;s improved her fitness so much since she started running. &lt;em&gt;It&amp;rsquo;s not about how fast she ran, but how she&amp;rsquo;s improved.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-next-race&#34;&gt;The next race&lt;/h2&gt;
+
+&lt;p&gt;The next race that I&amp;rsquo;m already committed to is the Great Race 10K, which I&amp;rsquo;m signed up already to run for the &lt;a href=&#34;../../blog/2011/09/25/blistered-but-blissful-in-the-burgh/&#34;&gt;tenth time&lt;/a&gt;. I still need to recover my energy for it, and also let my foot pain go away.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;For various reasons, I was not able to run the Pretty Good Race fast this year. But I had an exciting experience anyway and made the most of it.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>My Pittsburgh Ruby talk: &#34;nil: historical, theoretical, comparative, philosophical, and practical perspectives&#34;</title>
+      <link>http://franklinchen.com/blog/2012/09/06/my-pittsburgh-ruby-talk-nil/</link>
+      <pubDate>Thu, 06 Sep 2012 23:07:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/09/06/my-pittsburgh-ruby-talk-nil/</guid>
+      <description>&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/franklin-ruby-nil.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Franklin speaking at Pittsburgh Ruby on nil&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;a href=&#34;../../blog/2012/08/07/the-first-steel-city-ruby-conference-an-amazing-experience/&#34;&gt;As promised&lt;/a&gt;, I finally &lt;a href=&#34;http://www.meetup.com/pittsburgh-ruby/events/79619402/&#34;&gt;gave a talk&lt;/a&gt; at our local &lt;a href=&#34;http://pghrb.heroku.com/&#34;&gt;Pittsburgh Ruby group&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s a brief report (along with links to a video and slides).&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;a-video-and-slides&#34;&gt;A video and slides&lt;/h2&gt;
+
+&lt;p&gt;&lt;iframe src=&#34;http://player.vimeo.com/video/49474228?badge=0&#34; width=&#34;500&#34; height=&#34;281&#34; frameborder=&#34;0&#34; webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt; &lt;p&gt;&lt;a href=&#34;http://vimeo.com/49474228&#34;&gt;Franklin Chen - nil&lt;/a&gt; from &lt;a href=&#34;http://vimeo.com/user11358803&#34;&gt;Corey Purcell&lt;/a&gt; on &lt;a href=&#34;http://vimeo.com&#34;&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+
+&lt;p&gt;Slides are &lt;a href=&#34;http://franklinchen.com/talk-on-nil/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;my-preparation&#34;&gt;My preparation&lt;/h2&gt;
+
+&lt;p&gt;Preparing for this talk was quite challenging for me.&lt;/p&gt;
+
+&lt;h3 id=&#34;time&#34;&gt;Time&lt;/h3&gt;
+
+&lt;p&gt;First of all, I couldn&amp;rsquo;t work on the talk right after Steel City Ruby Conf ended, because I almost immediately disappeared, for almost two weeks, for a trip to New Mexico with Abby for a friend&amp;rsquo;s wedding and our own little vacation tacked onto it.&lt;/p&gt;
+
+&lt;p&gt;And I came back to face a whole of projects to pick back up on after the long absence, including stuff at work, &lt;a href=&#34;../../blog/2012/08/17/the-inaugural-liberty-mile-a-review-of-pittsburghs-first-road-mile-race/&#34;&gt;running in a mile race for the first time&lt;/a&gt;, continuing to &lt;a href=&#34;../../blog/2012/08/27/my-second-french-music-jam-playing-my-irish-flute-in-public-for-the-first-time/&#34;&gt;play French traditional dance music&lt;/a&gt;, and &lt;a href=&#34;../../blog/2012/09/04/round-1-of-the-pittsburgh-chess-club-tournament-the-greek-gift-sacrifice/&#34;&gt;returning to playing tournament chess after almost two years&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;technical-material&#34;&gt;Technical material&lt;/h3&gt;
+
+&lt;p&gt;Word of my talk was spread fairly wide because it was going to happen during the first meeting of the Pittsburgh Ruby group after Steel City Ruby Conf and because various friends of mine were interested in finally seeing me give a talk and I&amp;rsquo;d given it a provocative title. Over twenty people were signed up on the &lt;a href=&#34;http://www.meetup.com/pittsburgh-ruby/events/79619402/&#34;&gt;Meetup page&lt;/a&gt; in no time at all.&lt;/p&gt;
+
+&lt;p&gt;I faced the obvious question of what material to include, given that the scope of the topic is vast (any Web search for the topic of the use of &lt;code&gt;nil&lt;/code&gt; or &lt;code&gt;null&lt;/code&gt; quickly brings up no shortage of blog posts and rants about it).&lt;/p&gt;
+
+&lt;p&gt;Also, given that I expected quite a diverse audience, I had to think about what might be possible to convey clearly in no more than an hour of time.&lt;/p&gt;
+
+&lt;p&gt;I wanted to focus on conveying that there &lt;em&gt;really&lt;/em&gt; is a problem, that it is &lt;em&gt;not&lt;/em&gt; a matter of debate that it exists. I also wanted to explain the problem in terms of &lt;em&gt;types&lt;/em&gt;, so I felt I had to give a quick overview of &lt;em&gt;static type systems&lt;/em&gt;, because I believed that most of the audience had never seen or used one in a modern form.&lt;/p&gt;
+
+&lt;p&gt;I used the contrasting examples of &lt;a href=&#34;../../blog/2011/10/25/rip-john-mccarthy-but-lisp-will-never-die/&#34;&gt;John McCarthy&lt;/a&gt; and &lt;a href=&#34;http://en.wikipedia.org/wiki/Tony_Hoare&#34;&gt;Tony Hoare&lt;/a&gt; in order to illustrate that the &lt;em&gt;problem&lt;/em&gt; exists whether you are coming from the &lt;em&gt;dynamically typed&lt;/em&gt; world (as McCarthy was) or the &lt;em&gt;statically typed&lt;/em&gt; world (as Hoare was). I thought it was particularly important to point out that most mainstream &amp;ldquo;statically typed&amp;rdquo; languages exhibit the &lt;code&gt;null&lt;/code&gt; problem because people like Hoare took a shortcut and put a hole into languages such as C and Java.&lt;/p&gt;
+
+&lt;p&gt;I also wanted to frame the issues along some philosophical axes, in terms of who is responsible for what and how, when something goes wrong in code. If we want principled solutions, we have to understand what is at stake, other than hacking something to maybe sometimes work.&lt;/p&gt;
+
+&lt;p&gt;Since I expected to spend most of the time really explaining the problem, I did not spend much time on solutions. I explained the static typing &lt;a href=&#34;http://en.wikipedia.org/wiki/Option_type&#34;&gt;&lt;code&gt;Maybe&lt;/code&gt; (or &lt;code&gt;Option&lt;/code&gt;) solution&lt;/a&gt;, but left it open-ended what the best solution is when it comes to dynamically typed languages such as Ruby; I suggested that the &lt;a href=&#34;http://en.wikipedia.org/wiki/Null_Object_pattern&#34;&gt;Null Object pattern&lt;/a&gt; or the &lt;a href=&#34;http://martinfowler.com/eaaCatalog/specialCase.html&#34;&gt;Special Case pattern&lt;/a&gt; may be usable, but there are issues when trying to object-orientify in the face of &lt;a href=&#34;http://en.wikipedia.org/wiki/Multiple_dispatch&#34;&gt;multiple dispatch&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;presentation-skills&#34;&gt;Presentation skills&lt;/h3&gt;
+
+&lt;p&gt;Having very little experience in giving presentations (and knowing that I have done quite poorly in the past), I spent a good amount of time reading various books and blog posts of advice on presenting. I found them very useful and will continue to study them and apply their insights. At some point I&amp;rsquo;ll write up a compilation of what I have found useful. I am absolutely committed to a lifetime pursuit of improving my presentation skills, because if I can&amp;rsquo;t explain my ideas clearly and convincingly to people, then who else can do it for me? It&amp;rsquo;s my responsibility if I want to have a real impact on the world.&lt;/p&gt;
+
+&lt;p&gt;I also jumped at the opportunity to give an &lt;a href=&#34;../../blog/2012/08/23/pittsburgh-python-meetup-i-gave-my-first-lightning-talk-ever-the-topic-was-scons/&#34;&gt;impromptu lightning talk at the Pittsburgh Python group meeting&lt;/a&gt;, as practice in facing people and speaking.&lt;/p&gt;
+
+&lt;h3 id=&#34;presentation-software&#34;&gt;Presentation software&lt;/h3&gt;
+
+&lt;p&gt;I had some struggles as I decided was presentation software to use in order to prepare slides. I didn&amp;rsquo;t want to use a proprietary format, and I wanted to be able to easily include nicely formatted code fragments. I found no perfect solution, but ended up using the &lt;a href=&#34;http://github.com/adamzap/landslide&#34;&gt;landslide&lt;/a&gt; tool implemented in Python to generate an HTML slide show.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-presentation&#34;&gt;The presentation&lt;/h2&gt;
+
+&lt;p&gt;I arrived in something of a manic mood. I was quite nervous, but I treated the situation in exactly the same way as I&amp;rsquo;ve been learning from having started to perform music in the past year. The presentation is not about &lt;em&gt;me&lt;/em&gt;. It&amp;rsquo;s about trying to offer something valuable to everyone who is taking the time to be there to see it: hopefully something entertaining, intriguing, and practically useful.&lt;/p&gt;
+
+&lt;p&gt;I finished up earlier than I expected, in less than hour. (I took that as a sign that I had gone too fast, unfortunately.)&lt;/p&gt;
+
+&lt;h2 id=&#34;reflections&#34;&gt;Reflections&lt;/h2&gt;
+
+&lt;p&gt;I am very grateful to have been given the opportunity to speak at the Pittsburgh Ruby group meeting. A lot of people spread the word around and we had something like twenty-five people show up! That was a great turnout. And it was an alert, friendly, supportive group of people.&lt;/p&gt;
+
+&lt;p&gt;I appreciated that some individuals came up to me and said they liked the talk. Also, I think that my considerable work into trying to be meaningfully entertaining (with my opening anecdotes involving McCarthy and Hoare) seemed a success.&lt;/p&gt;
+
+&lt;p&gt;In the end, I believe I had too much material. This is obviously a typical problem in many presentations, especially where one wants to make sure that everyone gets to the same page through a &amp;ldquo;review&amp;rdquo; of concepts (which unfortunately will be brand new to some people). I don&amp;rsquo;t know how to solve this problem. Maybe a suggested reading list, targeted tutorial, or questionnaire before the talk? Or splitting into multiple installments? I will continue to grapple with this question of how to completely reach a sufficient number of people in an audience.&lt;/p&gt;
+
+&lt;p&gt;I felt this experience was a little breakthrough for me, as a first step in giving a full-length presentation and beginning to experience the &amp;ldquo;other side&amp;rdquo; of presentations (since I have attended so many as a listener). It feels like when I moved over from dancing to the other side, playing music for dancers.&lt;/p&gt;
+
+&lt;h2 id=&#34;supporting-web-site&#34;&gt;Supporting Web site&lt;/h2&gt;
+
+&lt;p&gt;I have a &lt;a href=&#34;http://github.com/franklinchen/talk-on-nil&#34;&gt;supporting Web site for the talk&lt;/a&gt; whose purpose is to be a place for me to add references and code as I continue monitoring this topic online.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;I put a lot of work into the presentation I gave at Pittsburgh Ruby, and was pretty happy about how it turned out. Of course, I&amp;rsquo;m raising the bar for the future. I plan to continue giving presentations when I feel I have something real to share and contribute, not only at Pittsburgh Ruby, but for other groups and occasions also.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Steel City Ruby Conf review: Part 1: It&#39;s About People</title>
+      <link>http://franklinchen.com/blog/2012/08/22/steel-city-ruby-conf-review-part-1-its-about-people/</link>
+      <pubDate>Wed, 22 Aug 2012 11:29:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/08/22/steel-city-ruby-conf-review-part-1-its-about-people/</guid>
+      <description>&lt;p&gt;The inaugural &lt;a href=&#34;http://steelcityrubyconf.org/&#34;&gt;Steel City Ruby Conf&lt;/a&gt; was over two weeks ago. I was so excited by it that I vowed to change my life in several ways. Although I was way too busy with work, and a wedding to fly to (that Abby and I expanded into a full-blown vacation), I knew that the excitement would fade if I did not do at least one thing in order to remember and revisit the experience, so I wrote up a &lt;a href=&#34;../../blog/2012/08/07/the-first-steel-city-ruby-conference-an-amazing-experience/&#34;&gt;very short blog post&lt;/a&gt; immediately after the conference in order to publicly commit to both &lt;em&gt;writing&lt;/em&gt; more and also &lt;em&gt;doing&lt;/em&gt; something new.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s part 1 of my actual review of the conference.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-keynote-of-corey-haines&#34;&gt;The keynote of Corey Haines&lt;/h2&gt;
+
+&lt;p&gt;The conference opened on Friday, August 3, after some delays because of the long registration line, with Corey Haines giving the keynote.&lt;/p&gt;
+
+&lt;p&gt;This was my first Ruby conference, and I had never seen &lt;a href=&#34;http://coreyhaines.com/&#34;&gt;Corey Haines&lt;/a&gt; before, but I knew of him as one of the founders of &lt;a href=&#34;http://coderetreat.org/&#34;&gt;Coderetreat&lt;/a&gt;, an unusual workshop an instance of which I attended and &lt;a href=&#34;../../blog/2011/12/06/global-day-of-coderetreat-pittsburgh/&#34;&gt;reported on last December&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The talk was geared toward people attending a conference for the first time, but having gone to some conferences in the past, I found it informative and inspiring nonetheless.&lt;/p&gt;
+
+&lt;p&gt;Corey pointed out that the primary purpose of a conference is to &lt;em&gt;meet people&lt;/em&gt;. We all really know this; there is only so much one can actually get out of sitting around at technical talks (I will write more about that in part 2 of this series).&lt;/p&gt;
+
+&lt;h3 id=&#34;introversion-versus-shyness&#34;&gt;Introversion versus shyness&lt;/h3&gt;
+
+&lt;p&gt;Yet, as Corey pointed out, many of us are &lt;em&gt;introverts&lt;/em&gt;. He identified himself as an introvert. And we also tend to be &lt;em&gt;shy&lt;/em&gt;. Corey correctly pointed out that there is a substantial &lt;a href=&#34;http://www.google.com/search?q=introversion+shyness&#34;&gt;difference between the concepts of introversion and shyness&lt;/a&gt;, and that introverts don&amp;rsquo;t also have to act shy.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m an introvert; &lt;strong&gt;that is part of who I am and will never change&lt;/strong&gt;. I have also battled shyness all my life; in fact, my level of shyness was for decades extreme and severe and hampered me greatly. I am far less shy now than I have been in the past, and I continue to work on being even less so.&lt;/p&gt;
+
+&lt;h3 id=&#34;a-call-to-action&#34;&gt;A call to action&lt;/h3&gt;
+
+&lt;p&gt;Corey advised us &lt;em&gt;not to eat alone&lt;/em&gt;. He also said to &lt;em&gt;sit with people you don&amp;rsquo;t already know&lt;/em&gt;, because why should we go to a conference and just hang out with our colleagues whom we already see every day? He even challenged us to &lt;em&gt;meet twenty new people&lt;/em&gt; over the conference weekend.&lt;/p&gt;
+
+&lt;h2 id=&#34;my-response-to-corey-s-keynote&#34;&gt;My response to Corey&amp;rsquo;s keynote&lt;/h2&gt;
+
+&lt;h3 id=&#34;at-the-conference&#34;&gt;At the conference&lt;/h3&gt;
+
+&lt;p&gt;Inspired by Corey, I did many things differently at this conference than I have done in the past.&lt;/p&gt;
+
+&lt;p&gt;I decided that in between talks, I would do some switching of where I sat, so that I would mix with more new people.&lt;/p&gt;
+
+&lt;p&gt;I decided that in between talks, I would, apart from getting up to take a break, actively seek out conversation.&lt;/p&gt;
+
+&lt;p&gt;I knew I would not meet twenty new people (I did not take Corey&amp;rsquo;s advice literally but rather in spirit), but I did end up meeting and talking with more new people in two days than I usually do in several months.&lt;/p&gt;
+
+&lt;p&gt;I took the opportunity also to talk much more in depth with local people I had met in the past but mostly had engaged in small talk with.&lt;/p&gt;
+
+&lt;p&gt;I ate lunch with different groups of people, all new and some from out of town. At Saturday&amp;rsquo;s party sponsored by ModCloth, I met yet more people while eating appetizers.&lt;/p&gt;
+
+&lt;h4 id=&#34;update-of-2013-08-23&#34;&gt;(Update of 2013-08-23)&lt;/h4&gt;
+
+&lt;p&gt;One personal detail I did not make note of here in this post was that I approached Jim Weirich and thanked him for the time he came to Pittsburgh to give a talk, and played music on ukulele with some members of the Pittsburgh Ruby user group, before giving his talk, &amp;ldquo;The Polite Programmer&amp;rsquo;s Guide to Ruby Etiquette&amp;rdquo; (which was a fine presentation I learned a lot from). This was on December 2, 2010, and was my second attendance of the group (my first was the November 4, 2010 meeting). I was taken totally by surprise by this musical prelude to the presentation! My gut impression was that any community that celebrated having fun with music was one worth continuing to check out.&lt;/p&gt;
+
+&lt;p&gt;Not only did this fun draw me into the Ruby group, but also it played a role in encouraging me to take up playing music, and indeed, ukulele eventually! &lt;a href=&#34;../../blog/2013/08/23/another-unexpected-life-change-one-month-of-learning-to-play-ukulele/&#34;&gt;The full story is here&lt;/a&gt;. One part of the story is in 2012, I was afraid to participate in the lunch time music jam with Jim and other people, but in 2013, I stepped up, and played ukulele.&lt;/p&gt;
+
+&lt;h3 id=&#34;after-the-conference&#34;&gt;After the conference&lt;/h3&gt;
+
+&lt;p&gt;I followed more people on Twitter and began connecting with more people (local and not) with LinkedIn.&lt;/p&gt;
+
+&lt;p&gt;I vowed to start giving talks at local user groups, starting with the local Ruby group.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Corey Haines really set the tone for my experience of Steel City Ruby Conf. His keynote was a catalyst for my setting in motion some changes I already &amp;ldquo;knew&amp;rdquo; I should be making in my life but out of inertia had not followed up on. I thank him for saying what needs to be said.&lt;/p&gt;
+
+&lt;h2 id=&#34;if-you-were-at-steel-city-ruby-conf&#34;&gt;&lt;strong&gt;If you were at Steel City Ruby Conf&lt;/strong&gt;&lt;/h2&gt;
+
+&lt;p&gt;If you were at Steel City Ruby Conf, I want to know what you got out of it:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Did you reflect on your experience and share it with someone, through private conversation or through a public discussion?&lt;/li&gt;
+&lt;li&gt;How is your personal or work life, two weeks later, different as a result?&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;update-of-2013-08-23-1&#34;&gt;(Update of 2013-08-23)&lt;/h2&gt;
+
+&lt;p&gt;I never finished writing a &amp;ldquo;Part 2&amp;rdquo; to this post. It was supposed to focus on the technical side of the conference, with the observation that it was not just about Ruby, but about practices that are independent of programming language and/or have to do with larger issues in the world of software development beyond the &amp;ldquo;coding&amp;rdquo; part.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The first Steel City Ruby Conf: an amazing experience</title>
+      <link>http://franklinchen.com/blog/2012/08/07/the-first-steel-city-ruby-conference-an-amazing-experience/</link>
+      <pubDate>Tue, 07 Aug 2012 01:05:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/08/07/the-first-steel-city-ruby-conference-an-amazing-experience/</guid>
+      <description>
+
+&lt;p&gt;(Updated 2012-08-22)&lt;/p&gt;
+
+&lt;p&gt;Last Friday and Saturday, I attended the intense new local tech conference in Pittsburgh, the first &lt;a href=&#34;http://steelcityrubyconf.org/&#34;&gt;Steel City Ruby Conference&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;It was one of the most amazing, unusual experiences in my entire life.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ll write up more about this conference in a week or two, as I have a lot to do right now.&lt;/p&gt;
+
+&lt;p&gt;For now, I&amp;rsquo;m just announcing that I have been inspired to plan to do many things I&amp;rsquo;ve never done before. One of these many things is to finally give a talk at the local &lt;a href=&#34;http://pghrb.heroku.com/&#34;&gt;Pittsburgh Ruby group&lt;/a&gt;, after almost two years of lurking there.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s time for me to contribute by doing more than showing up the meetings and sometimes asking questions and participating in discussions. It&amp;rsquo;s time to be more active. So I&amp;rsquo;ve committed to giving a talk on Thursday, September 6, 2012. I still don&amp;rsquo;t know all the details, but I have decided that the topic will be &lt;code&gt;nil&lt;/code&gt;, and I will approach the topic through historical, theoretical, comparative, philosophical, and practical points of view.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;ll give more details later this month.&lt;/p&gt;
+
+&lt;h2 id=&#34;update-of-2012-08-22&#34;&gt;Update of 2012-08-22&lt;/h2&gt;
+
+&lt;p&gt;Here is &lt;a href=&#34;../../blog/2012/08/22/steel-city-ruby-conf-review-part-1-its-about-people/&#34;&gt;part 1 of my review of Steel City Ruby Conf&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>RSpec new expectation: finally not shoving a verb into a noun</title>
+      <link>http://franklinchen.com/blog/2012/06/23/rspec-new-expectation-finally-not-shoving-a-verb-into-a-noun/</link>
+      <pubDate>Sat, 23 Jun 2012 22:05:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/06/23/rspec-new-expectation-finally-not-shoving-a-verb-into-a-noun/</guid>
+      <description>&lt;p&gt;I recently saw a note describing how Ruby&amp;rsquo;s RSpec will soon deprecate &lt;code&gt;should&lt;/code&gt; in favor of the &lt;a href=&#34;http://myronmars.to/n/dev-blog/2012/06/rspecs-new-expectation-syntax&#34;&gt;&amp;ldquo;new expectation syntax&amp;rdquo;&lt;/a&gt; &lt;code&gt;expect&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;I sighed. &lt;code&gt;should&lt;/code&gt; was a terrible mistake in the first place.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;Calling this a change in &lt;em&gt;syntax&lt;/em&gt; is misleading. It&amp;rsquo;s the &lt;em&gt;semantics&lt;/em&gt; that matters, and it&amp;rsquo;s the obsessive desire to play with syntax in the first place that led to the original &lt;code&gt;should&lt;/code&gt; &lt;a href=&#34;http://en.wikipedia.org/wiki/Monkey_patch&#34;&gt;monkey-patching&lt;/a&gt; nightmare.&lt;/p&gt;
+
+&lt;p&gt;In the terminology of Steve Yegge&amp;rsquo;s famous rant about the &lt;a href=&#34;http://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html&#34;&gt;kingdom of nouns&lt;/a&gt;: there was no good reason to shove the &lt;em&gt;verb&lt;/em&gt; &lt;code&gt;should&lt;/code&gt; into a class definition (&lt;em&gt;noun&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;An expectation of something shouldn&amp;rsquo;t be monkey-patched into an object.&lt;/p&gt;
+
+&lt;p&gt;The expectation is external, not internal, not something to be owned by a class. The new RSpec finally recognizes this.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Report on the first Pittsburgh TechFest, 2012</title>
+      <link>http://franklinchen.com/blog/2012/06/09/report-on-the-first-pittsburgh-techfest-2012/</link>
+      <pubDate>Sat, 09 Jun 2012 20:24:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/06/09/report-on-the-first-pittsburgh-techfest-2012/</guid>
+      <description>&lt;figure &gt;
+    
+        &lt;img src=&#34;https://sphotos-a.xx.fbcdn.net/hphotos-prn1/532862_293436380745383_58658441_n.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Pittsburgh TechFest 2012&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;I was excited to attend the very first &lt;a href=&#34;http://pghtechfest.com/&#34;&gt;Pittsburgh TechFest&lt;/a&gt;, held at &lt;a href=&#34;http://www.laroche.edu/&#34;&gt;LaRoche College&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This was my first local programming conference since some Perl conferences years ago!&lt;/p&gt;
+
+&lt;h2 id=&#34;why-attend&#34;&gt;Why attend?&lt;/h2&gt;
+
+&lt;p&gt;In the past couple of years, I have increasingly explored &lt;a href=&#34;../../blog/2011/10/16/pittsburgh-software-developer-communities/&#34;&gt;Pittsburgh&amp;rsquo;s growing programmer meetup scene&lt;/a&gt;, but I wanted to expand beyond that to start attending some local conferences, so of course I was going to attend this one. (I had to cancel a hiking/camping outing in order to make it!)&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-venue&#34;&gt;The venue&lt;/h2&gt;
+
+&lt;p&gt;LaRoche College is in the &lt;a href=&#34;http://en.wikipedia.org/wiki/North_Hills_(Pennsylvania)&#34;&gt;North Hills&lt;/a&gt;, about a twenty-minute drive (in light traffic conditions) from the city of Pittsburgh. This was the first time I&amp;rsquo;d been in LaRoche. They had a decent amount of space for all the sessions for the conference. I think the venue worked out great, and we were also provided lunch in the cafeteria.&lt;/p&gt;
+
+&lt;h2 id=&#34;keynote&#34;&gt;Keynote&lt;/h2&gt;
+
+&lt;p&gt;The keynote speech was by &lt;a href=&#34;http://www.docondev.com/&#34;&gt;Michael &amp;ldquo;Doc&amp;rdquo; Norton&lt;/a&gt; of &lt;a href=&#34;http://leandog.com/&#34;&gt;LeanDog&lt;/a&gt;. He talked about our shared goal, as evidenced by attending the conference, of becoming an &amp;ldquo;excellent software developer&amp;rdquo;. He emphasized the &lt;em&gt;polyglot&lt;/em&gt; nature of the conference, which was organized by members of various local communities including .NET and Java, among others. &amp;ldquo;We don&amp;rsquo;t work alone today,&amp;rdquo; he emphasized. He urged us to broaden ourselves at the conference, and go to talks about topics outside of our own comfortable experience. He used the concept of the &amp;ldquo;T&amp;rdquo; as something to aspire to: having deep knowledge in something but also having broad knowledge of other things.&lt;/p&gt;
+
+&lt;p&gt;I enjoyed the keynote speech and resolved to check out ideas new to me that I might be able to use. The speech actually caused me to spontaneously change some of my original marked-down preferences for which sessions I would attend!&lt;/p&gt;
+
+&lt;h3 id=&#34;update-of-2013-06-01&#34;&gt;(Update of 2013-06-01)&lt;/h3&gt;
+
+&lt;p&gt;&amp;ldquo;Doc&amp;rdquo; has in the past year moved to Groupon.&lt;/p&gt;
+
+&lt;h2 id=&#34;overview-of-sessions&#34;&gt;Overview of sessions&lt;/h2&gt;
+
+&lt;p&gt;The problem I (well, all of us) faced for this conference was that there was a huge number of concurrent talks on all kinds of topics in any given time slot. There were over 30 speakers and over 40 sessions, all in a single day.&lt;/p&gt;
+
+&lt;p&gt;This meant having to decide what to attend and what to miss. Topics came from areas such as:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;.NET&lt;/li&gt;
+&lt;li&gt;Node&lt;/li&gt;
+&lt;li&gt;CoffeeScript&lt;/li&gt;
+&lt;li&gt;Ruby&lt;/li&gt;
+&lt;li&gt;Java&lt;/li&gt;
+&lt;li&gt;PHP&lt;/li&gt;
+&lt;li&gt;Selenium&lt;/li&gt;
+&lt;li&gt;Kinect&lt;/li&gt;
+&lt;li&gt;Scala&lt;/li&gt;
+&lt;li&gt;UX&lt;/li&gt;
+&lt;li&gt;Agile&lt;/li&gt;
+&lt;li&gt;Backbone&lt;/li&gt;
+&lt;li&gt;REST&lt;/li&gt;
+&lt;li&gt;iOS&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;sessions-i-attended&#34;&gt;Sessions I attended&lt;/h2&gt;
+
+&lt;h3 id=&#34;user-experience-maps-for-agile-modeling-maria-emerson-http-www-mariaemerson-com&#34;&gt;User Experience Maps for Agile Modeling (&lt;a href=&#34;http://www.mariaemerson.com/&#34;&gt;Maria Emerson&lt;/a&gt;)&lt;/h3&gt;
+
+&lt;p&gt;The first session I attended was completely outside of my usual world, involving &lt;a href=&#34;http://en.wikipedia.org/wiki/User_experience_design&#34;&gt;&amp;ldquo;user experience&amp;rdquo; (UX)&lt;/a&gt;. I chose it because it was a hands-on workshop. I freely confess that I am usually not very excited by sitting around listening to someone talk and put up code on slides; I feel I could do that at home by myself.&lt;/p&gt;
+
+&lt;p&gt;Maria led us through a simulation of the kind of work she does. We broke up into teams, we were told to design a mobile app for rowers who rent from a boat house, and used sticky notes, a whiteboard, and &amp;ldquo;butcher paper&amp;rdquo; as we went through an abbreviated version of the work flow of figuring out what the app should do and what issues it should address. I thought it was a fantastic workshop.&lt;/p&gt;
+
+&lt;h3 id=&#34;creating-your-own-software-company-kendall-miller&#34;&gt;Creating Your Own Software Company (Kendall Miller)&lt;/h3&gt;
+
+&lt;p&gt;The second session was, again, about something I&amp;rsquo;m not currently doing and is new to me.&lt;/p&gt;
+
+&lt;p&gt;It was by a .NET guy from &lt;a href=&#34;http://www.gibraltarsoftware.com/&#34;&gt;Gibraltar Software&lt;/a&gt; who talked about the nuts and bolts of starting, and especially sustaining, a software company. I learned a lot from his presentation and the discussions, about handling such resources as time, funding, pricing, and especially the &lt;em&gt;psychology&lt;/em&gt; of the customer, as well as self-psychology.&lt;/p&gt;
+
+&lt;p&gt;For example, he emphasized looking at the &lt;em&gt;market&lt;/em&gt; first, when coming up with a conscious plan to achieve &amp;ldquo;deliberate success&amp;rdquo;, rather than get carried away by idealism or fuzzy hopes. He argued that &lt;em&gt;marketing&lt;/em&gt; is what it&amp;rsquo;s all about, and that all business is about &lt;em&gt;people&lt;/em&gt; relating to &lt;em&gt;people&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Very informative and fascinating session!&lt;/p&gt;
+
+&lt;h3 id=&#34;lunch&#34;&gt;Lunch&lt;/h3&gt;
+
+&lt;p&gt;Lunch was surprisingly high quality and filling, in the campus cafeteria.&lt;/p&gt;
+
+&lt;h3 id=&#34;you-say-tomato-i-say-pomodoro-joel-cochran&#34;&gt;You say Tomato, I say Pomodoro (Joel Cochran)&lt;/h3&gt;
+
+&lt;p&gt;After lunch, I went to a session about the &lt;a href=&#34;http://www.pomodorotechnique.com/&#34;&gt;Pomodoro Technique&lt;/a&gt; of time management. I had heard about the Pomodoro Technique for some time, but it sounded bizarre, and I never experimented with implementing it myself.&lt;/p&gt;
+
+&lt;p&gt;I took some notes, but left not really feeling convinced that I would try the technique.&lt;/p&gt;
+
+&lt;h3 id=&#34;introduction-to-actors-using-scala-josh-suereth-http-jsuereth-com&#34;&gt;Introduction to Actors using Scala (&lt;a href=&#34;http://jsuereth.com/&#34;&gt;Josh Suereth&lt;/a&gt;)&lt;/h3&gt;
+
+&lt;p&gt;I first met Josh almost two years ago, when he gave a talk in October 2010 for &lt;a href=&#34;http://java.net/projects/pittjug/&#34;&gt;PittJUG&lt;/a&gt;, &amp;ldquo;Why you want to learn Scala&amp;rdquo;. After that, he has periodically come to more PittJUG meetings, such as a nice &lt;a href=&#34;../../blog/2011/10/26/open-spaces-success-at-the-pittsburgh-java-users-group/&#34;&gt;&amp;ldquo;open spaces&amp;rdquo; one we had last year&lt;/a&gt;. Josh had this morning given a talk &amp;ldquo;Introduction to Functional Programming using Scala&amp;rdquo; that I had skipped, but I attended this one because I had always meant to look into using &lt;a href=&#34;http://en.wikipedia.org/wiki/Actor_model&#34;&gt;actors&lt;/a&gt; for concurrency.&lt;/p&gt;
+
+&lt;p&gt;Josh gave a nice presentation that left me knowing that I definitely wanted to look into actors (and Scala) further.&lt;/p&gt;
+
+&lt;p&gt;Oh, and he was plugging his new book &lt;a href=&#34;http://www.manning.com/suereth/&#34;&gt;Scala in Depth&lt;/a&gt;. I went and bought the ebook when I got home! It&amp;rsquo;s good.&lt;/p&gt;
+
+&lt;h3 id=&#34;hypermedia-api-design-steve-klabnik-http-steveklabnik-com&#34;&gt;Hypermedia API Design (&lt;a href=&#34;http://steveklabnik.com/&#34;&gt;Steve Klabnik&lt;/a&gt;)&lt;/h3&gt;
+
+&lt;p&gt;The final session I attended was an unusual one. Steve Klabnik gave a fairly philosophical rather than technical talk about &lt;a href=&#34;http://www.designinghypermediaapis.com/&#34;&gt;hypermedia API design&lt;/a&gt;. He spoke about the need to make sure the Web remains open and flexible. His point of view is that &amp;ldquo;everything is politics&amp;rdquo;, so when we&amp;rsquo;re talking about how applications can and should communicate with each other, we have some implicit political vision in mind.&lt;/p&gt;
+
+&lt;p&gt;The presentation was kind of abstract for me, probably because I don&amp;rsquo;t currently do much with Web application design. He spoke of metadata, interpretation, and dynamic contracts. If I end up in the Web world again sometime, I&amp;rsquo;ll try to figure out exactly what Steve was trying to say!&lt;/p&gt;
+
+&lt;h2 id=&#34;what-next&#34;&gt;What next?&lt;/h2&gt;
+
+&lt;p&gt;I took a lot of notes that I hope to study and use in my career as a software developer. Also, I&amp;rsquo;m inspired by seeing so many people I know giving talks. At some point, I should start sharing what I know by giving presentations also.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s &lt;a href=&#34;http://updyke.com/blog/2012/06/09/pittsburgh-techfest-2012/&#34;&gt;another participant&amp;rsquo;s review of the Pittsburgh TechFest&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;I&amp;rsquo;d like to thank the organizers of the very first Pittsburgh TechFest, and the sponsors who made the conference so inexpensive and accessible. And of course, I appreciate everyone who signed on to give a presentation. I learned a lot over the course of the day, and look forward to another Pittsburgh TechFest in 2013!&lt;/p&gt;
+
+&lt;h3 id=&#34;update-of-2013-06-01-1&#34;&gt;(Update of 2013-06-01)&lt;/h3&gt;
+
+&lt;p&gt;I went to &lt;a href=&#34;../../blog/2013/06/01/report-on-the-second-pittsburgh-techfest-2013/&#34;&gt;Pittsburgh TechFest again in 2013&lt;/a&gt;, and had a great time, despite being sick. Also, as I had promised myself a year ago, I gave a presentation there! &lt;a href=&#34;../../blog/2013/06/01/pittsburgh-tech-fest-2013-my-talk-stop-overusing-regular-expressions/&#34;&gt;Full report here&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

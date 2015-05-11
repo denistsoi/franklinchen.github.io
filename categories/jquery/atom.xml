@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jquery on Franklin Chen</title>
+    <link>http://franklinchen.com/categories/jquery/atom/index.xml</link>
+    <description>Recent content in Jquery on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/categories/jquery/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Reflections on 2011</title>
+      <link>http://franklinchen.com/blog/2011/12/31/reflections-on-2011/</link>
+      <pubDate>Sat, 31 Dec 2011 18:52:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2011/12/31/reflections-on-2011/</guid>
+      <description>&lt;p&gt;I reflect on my year of 2011 as it ends. Since I did not start blogging until September, I go into more detail of what happened before then.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;january&#34;&gt;January&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Abby and I continued our project of massively reorganizing our home, a project that began when she moved in during summer 2010. We were very grateful that Abby&amp;rsquo;s father helped out a lot.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I continued getting rid of a lot of stuff, including another eighteen boxes of my books, as I became an initially reluctant &lt;a href=&#34;../../categories/minimalism/&#34;&gt;minimalist&lt;/a&gt;. We sold or gave away a &lt;em&gt;huge&lt;/em&gt; number of various of belongings.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby started cooking much more than in the past, and we enjoyed trying new dishes of her making.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I enjoyed some light cross-country skiing in the winter, using the &lt;a href=&#34;http://en.wikipedia.org/wiki/Schenley_Park_Golf_Course&#34;&gt;Bob O&amp;rsquo;Connor Golf Course at Schenley Park&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I began a weekly Zen &lt;a href=&#34;../../categories/meditation/&#34;&gt;meditation&lt;/a&gt; session offered at Carnegie Mellon University.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I started moving very gradually toward a &lt;a href=&#34;../../categories/paleo/&#34;&gt;paleo&lt;/a&gt; diet and exercise routine, and immediately experienced benefits. &amp;ldquo;The Paleo Solution&amp;rdquo; by &lt;a href=&#34;http://robbwolf.com/&#34;&gt;Robb Wolf&lt;/a&gt; was very useful.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I started learning modern &lt;a href=&#34;../../categories/javascript/&#34;&gt;JavaScript&lt;/a&gt; for a new project at work, getting into client-side Web development. As part of that, I learned &lt;a href=&#34;../../categories/jquery/&#34;&gt;jQuery&lt;/a&gt; through a free &lt;a href=&#34;http://p2pu.org/&#34;&gt;P2PU&lt;/a&gt; course and used it in the project.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I started using &lt;a href=&#34;http://en.wikipedia.org/wiki/XQuery&#34;&gt;XQuery&lt;/a&gt; at work to process XML in a clear and concise way. I had used XSLT in the past, but it was very unpleasant.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I decided, for various reasons, to stop writing new &lt;a href=&#34;../../categories/perl/&#34;&gt;Perl&lt;/a&gt; scripts and move to &lt;a href=&#34;../../categories/python/&#34;&gt;Python&lt;/a&gt; instead.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I started playing in my final (and disastrous) &lt;a href=&#34;../../categories/chess/&#34;&gt;chess&lt;/a&gt; tournament, the Pittsburgh Chess Club Championship (which I had won in 2006 and 2007).&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;february&#34;&gt;February&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Pittsburgh was all about the Steelers, and I went to a &lt;a href=&#34;http://en.wikipedia.org/wiki/Super_Bowl_XLV&#34;&gt;Super Bowl&lt;/a&gt; party for the first time, but we lost!&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I read &amp;ldquo;The Art of Non-Conformity&amp;rdquo; by &lt;a href=&#34;http://chrisguillebeau.com/&#34;&gt;Chris Guillebeau&lt;/a&gt; and found it so inspiring that I decided to take action and start making big changes to my life, in my own way.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;One big change: I quit playing chess, cold turkey, after having been unenthusiastic about it for months already (and playing correspondingly poorly). When the passion and enjoyment are gone, there is no point in hanging onto something just because it has been such an important part of my life for years.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;After years of not playing any music at all, I started playing &lt;a href=&#34;../../categories/recorder/&#34;&gt;recorder&lt;/a&gt;, and vowed to play every single day if possible. Ten months later, I am still playing recorder.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I began attending a lot of &lt;a href=&#34;../../blog/2011/10/16/pittsburgh-software-developer-communities/&#34;&gt;local software developer group meetings&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I started learning the &lt;a href=&#34;../../categories/scala/&#34;&gt;Scala&lt;/a&gt; programming language and decided to use it on a small project.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;march&#34;&gt;March&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Abby and I continued our meditation practice at CMU, and went to our first mini-&lt;a href=&#34;http://en.wikipedia.org/wiki/Sesshin&#34;&gt;sesshin&lt;/a&gt; on a Saturday.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I continued practicing recorder every single day, and joined the &lt;a href=&#34;http://www.andrew.cmu.edu/user/lukas/pcars/Welcome.html&#34;&gt;local chapter of the American Recorder Society&lt;/a&gt;. It was very exciting to meet new people and to get into a wide range of music I had never really listened to or played.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I saw a video of &lt;a href=&#34;http://jakeshimabukuro.com/&#34;&gt;Jake Shimabukuro&lt;/a&gt; playing &lt;a href=&#34;../../categories/ukulele/&#34;&gt;ukulele&lt;/a&gt; so beautifully that I was inspired to buy a ukulele and start learning to play it. (Unfortunately, it would turn out that time constraints caused me not to pursue ukulele far. This will change in 2012.)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I got pulled into the Ruby programming language because it is well-supported on Mac OS and it is easy to install libraries and tools, of which there are many that are quite useful.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I went to &lt;a href=&#34;http://farmtotablepa.com/&#34;&gt;Farm to Table&lt;/a&gt; in Pittsburgh, and after that, Abby started moving toward paleo eating, with even better results than my smaller experiments earlier.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I started our &lt;a href=&#34;../../categories/hiking/&#34;&gt;hiking&lt;/a&gt; season in the spring. Hiking is special to us; it was one of our first shared activities (after initially meeting during salsa dancing), and one we return to again and again. When there is no calendar conflict and the weather is acceptable, we like hiking almost every weekend from spring through fall.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;{% img /images/steves-soup-hike-2011-03-26.jpg Abby in front of me at Steve&amp;rsquo;s Soup Hike %}&lt;/p&gt;
+
+&lt;h2 id=&#34;april&#34;&gt;April&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;I started wearing &lt;a href=&#34;../../categories/fivefingers/&#34;&gt;Vibram FiveFingers shoes&lt;/a&gt; almost all the time, whether walking or running (but not yet for hiking).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I went to &lt;a href=&#34;../../categories/yoga/&#34;&gt;yoga&lt;/a&gt; at the &lt;a href=&#34;http://www.clpgh.org/locations/squirrelhill/&#34;&gt;Squirrel Hill Library&lt;/a&gt; for the first time.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;may&#34;&gt;May&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;I began my experiment with barefoot running, in observation of &lt;a href=&#34;http://barefootrunners.org/ibrd&#34;&gt;International Barefoot Running Day&lt;/a&gt;. I started walking around barefoot at work, ignoring the confused looks or comments of colleagues. (I still go barefoot at work.)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I bought a &lt;a href=&#34;../../categories/melodica/&#34;&gt;melodica&lt;/a&gt;, inspired by the amazing performances of &lt;a href=&#34;http://jnote.org/&#34;&gt;James Howard Young&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I took a little vacation, spending some days in New York visiting Nathaniel and Yael and their baby. I finally fulfilled my dream (from before marriage) of taking Abby to Coney Island to walk on the boardwalk and at the beach, eating pizza, and riding the Wonder Wheel, just as I once did when I was six years old.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I started doing research into major home renovations for the summer.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I visited my parents, and my sister Linda and her husband Andre also visited, with my mother throwing a delayed reception at home for the both of us who had gotten married in the past two years. Abby got to meet my parents&amp;rsquo; friends, finally. And I went running with my brother-in-law for the first time! Also, I took Abby to the little park in Ann Arbor where as a too-shy teenager I used to go and sit on a particular bench and wish I were sitting with my dream girl. Mission accomplished!&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;june&#34;&gt;June&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;John and I did a tough 19-mile training hike on the &lt;a href=&#34;http://www.rachelcarsontrails.org/rct&#34;&gt;Rachel Carson Trail&lt;/a&gt; and decided we&amp;rsquo;d had enough of that trail, and I decided I was probably not going to do the 35-mile &lt;a href=&#34;http://www.rachelcarsontrails.org/rct/challenge&#34;&gt;Rachel Carson Trail Challenge&lt;/a&gt; again (having completed it three times in the past).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;{% img /images/rachel-carson-trail-2011-06-05.jpg John on Rachel Carson Trail %}&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Abby started wearing Vibram FiveFingers more and more for walking and running, and even walking barefoot on the streets (something I had not yet seriously done myself at the time).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I stupidly threw out my back during exercise, and my back took weeks to fully recover (I could still run and hike, but not lift weights). Never again, I hope. I felt like a 90-year-old when my back was hurting constantly.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;We started some home improvement projects.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;july&#34;&gt;July&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;I started gravitating to almost exclusively body weight &lt;a href=&#34;../../categories/strength-training/&#34;&gt;strength training&lt;/a&gt;, as a reaction to my having injured my back earlier.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I went kayaking on the &lt;a href=&#34;http://en.wikipedia.org/wiki/Kiskiminetas_River&#34;&gt;Kiski River&lt;/a&gt; with &amp;ldquo;Fireman Steve&amp;rdquo; and the kayaking gang.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;On a longish hike, Abby surprised me by wearing Vibram FiveFingers shoes and they worked great for her, making her much faster and less sore, and I made a note to ditch my trail running shoes (which I had been using for years for hiking) in favor of FiveFingers for my next hike (which I did, and I have not gone back to regular shoes for hiking!).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I finally took Abby to &lt;a href=&#34;http://www.sandhillberries.com/&#34;&gt;Sand Hill Berries&lt;/a&gt; for tasty pie for the first time, always having intended to take her there when dating, but never having been in the vicinity with her then.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Major home renovation finally began, after much research, and we got electrical upgrade, insulation, and bathroom demolition and rebuilding. Very disruptive to our lives for weeks!&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I did another mini-&lt;a href=&#34;http://en.wikipedia.org/wiki/Sesshin&#34;&gt;sesshin&lt;/a&gt; at CMU.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;After a lifetime of almost never drinking coffee (average of maybe three or four cups a year), I became an avid espresso fan (one small cup a day) as a result of my boss getting a machine at work.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I started doing more barefoot running.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;august&#34;&gt;August&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Bathroom renovation done at last.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I were regularly hiking in Vibram FiveFingers.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;{% img /images/abby-franklin-soup-hike-vibram.jpg Abby and Franklin on Steve&amp;rsquo;s Soup Hike part 3 wearing Vibram FiveFingers %}&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Abby joined me to run in her first ever 5K race, &lt;a href=&#34;http://www.runaroundthesquare.com/&#34;&gt;Run Around the Square&lt;/a&gt; in Regent Square (mostly on the trails of Frick Park). What a special day! This race was my first ever 5K race when I started running in races in 2000.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I started to learn &lt;a href=&#34;../../categories/accordion/&#34;&gt;accordion&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;september&#34;&gt;September&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;I started running to work two or three times a week.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I ran in the &lt;a href=&#34;http://www.cs.cmu.edu/~kalp/PGR/&#34;&gt;CMU SCS Pretty Good Race 5K&lt;/a&gt; together, her second 5K race.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I went to &lt;a href=&#34;http://podcamppittsburgh.com/&#34;&gt;PodCamp Pittsburgh&lt;/a&gt;, and after that, &lt;a href=&#34;../../blog/2011/09/22/starting-a-new-web-site/&#34;&gt;I started this blog&lt;/a&gt; and proceeded to maintain a habit of posting every day (a routine that has been modified since then).&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;october&#34;&gt;October&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;I started expanding beyond just writing for my blog, and began contributing to the Web through &lt;a href=&#34;http://twitter.com/franklinchen&#34;&gt;my Twitter account&lt;/a&gt; as well as writing comments on other people&amp;rsquo;s blog posts.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I started taking Stanford online classes: &lt;a href=&#34;http://www.ml-class.org/&#34;&gt;Machine Learning&lt;/a&gt; and &lt;a href=&#34;http://www.db-class.org/&#34;&gt;Introduction to Databases&lt;/a&gt;. (Blog posts on my experiences to appear soon.) Unfortunately, as a result of the extra time commitment, October through December were quite hectic for me.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I continued to move more toward a paleo diet.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;november&#34;&gt;November&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;I started playing &lt;a href=&#34;../../categories/flute/&#34;&gt;flute&lt;/a&gt; again.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Probably because of fatigue and a compromised immune system, I came down with a skin ailment that I got serious treatment for, but it took almost two months to completely clear up and I spent over a month truly miserable &lt;sup&gt;24&lt;/sup&gt;&amp;frasl;&lt;sub&gt;7&lt;/sub&gt;!&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;december&#34;&gt;December&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;I started playing Baroque flute.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I started playing tin whistle.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I prepared for and made it through two music performances, playing recorder and flute (and almost tin whistle).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I ended the year completely exhausted, on the verge of getting sick, and took a long break from blogging.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;The final week, Abby and I were on a hectic travel schedule that involved meeting up with her parents, my parents, her sister Carrie, Carrie&amp;rsquo;s boyfriend Alain, Alain&amp;rsquo;s parents, Alain&amp;rsquo;s extended family, my sister Linda, and her husband Andre. I am grateful that we got to meet up with so many people (and arranged for various of the individuals to meet up with various of the others!), but the trip was quite stressful to me, because I was not physically or emotionally prepared for it at all. (I will report later on what I learned from the experience.)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;2011 was quite a year for me and Abby. We had many changes and adventures in our lives: our home, our diet, our exercise, our outdoors activities, travel. For me, the biggest changes were quitting chess, starting music practice and performance, throwing myself into blogging and tweeting, getting more and more active in local software developer groups, applying new (to me) development tools at work, and in the fall, taking Stanford online courses in computer science.&lt;/p&gt;
+
+&lt;p&gt;Although I ended the year in poor shape, because of being overbooked, I am very excited by how many positive changes took place. I have an entirely new set of plans and priorities to formulate soon for 2012 in collaboration with Abby, in hope of learning from the lessons of my failures and omissions of 2011, and restoring balance.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pittsburgh software developer communities</title>
+      <link>http://franklinchen.com/blog/2011/10/16/pittsburgh-software-developer-communities/</link>
+      <pubDate>Sun, 16 Oct 2011 19:38:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2011/10/16/pittsburgh-software-developer-communities/</guid>
+      <description>&lt;p&gt;In the past couple of years, I started to get involved in various local Pittsburgh groups of people who are committed enough to the art and science of software development to actually meet up outside of work to share ideas and experiences. Now and then, there has been talk of bringing the different groups together for special events, to share even more (especially outside the boundaries of particular computer language communities), so I felt it was a good time for me to compile a list of the different groups whose meetings I have attended or at least have heard about.&lt;/p&gt;
+
+&lt;p&gt;I welcome additions and corrections as well as further discussion of this list. I will update the list upon feedback.&lt;/p&gt;
+
+&lt;p&gt;(Last update: 2011-10-18)&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;ruby&#34;&gt;Ruby&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://pghrb.org/&#34;&gt;Pittsburgh Ruby group&lt;/a&gt; is quite active. It has been meeting the first Thursday of every month at Vivisimo.&lt;/p&gt;
+
+&lt;p&gt;I have been attending this more as I finally started getting into Ruby in 2010.&lt;/p&gt;
+
+&lt;h2 id=&#34;python&#34;&gt;Python&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://pghpython.org/&#34;&gt;Pittsburgh Python group&lt;/a&gt; is also active. It has been meeting the fourth Wednesday of every month at Vivisimo.&lt;/p&gt;
+
+&lt;p&gt;There is a lot of use of Python for scientific computing, such as natural language processing and machine learning, among this community.&lt;/p&gt;
+
+&lt;p&gt;I do not attend this group&amp;rsquo;s meetings regularly because I currently only use Python to maintain an &lt;a href=&#34;http://www.scons.org/&#34;&gt;SCons&lt;/a&gt; script at work.&lt;/p&gt;
+
+&lt;h2 id=&#34;javascript&#34;&gt;JavaScript&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://www.meetup.com/Pittsburgh-JavaScript-Developers/&#34;&gt;Pittsburgh JavaScript meetup group&lt;/a&gt; only came into being in June 2011, thanks to &lt;a href=&#34;http://www.fusioncube.net/&#34;&gt;Steve Brownlee&lt;/a&gt;, who hosts the meetup at Smith Micro up in McCandless.&lt;/p&gt;
+
+&lt;p&gt;The group has been pretty active, despite the location.&lt;/p&gt;
+
+&lt;h2 id=&#34;jquery&#34;&gt;jQuery&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://www.jburgh.com/&#34;&gt;Pittsburgh jQuery user group&lt;/a&gt; is scheduled to meet once a month at &lt;a href=&#34;http://www.hackpittsburgh.org/&#34;&gt;HackPittsburgh&lt;/a&gt; in Uptown. However, I get the impression that it has not been meeting very regularly. I attended the meeting in March and another in August, but otherwise, have had to miss a meeting or there was none.&lt;/p&gt;
+
+&lt;p&gt;There has been some talk of merging with the JavaScript meetup group.&lt;/p&gt;
+
+&lt;h2 id=&#34;java&#34;&gt;Java&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://java.net/projects/pittjug/&#34;&gt;Pittsburgh Java User Group&lt;/a&gt; has been around for quite some time. It meets at the &lt;a href=&#34;http://www.pghtech.org/&#34;&gt;Pittsburgh Technology Council&lt;/a&gt; on Second Avenue. When there are meetings, they are announced on the mailing list and posted at the &lt;a href=&#34;http://www.pghtech.org/events/default.aspx&#34;&gt;pghtech calendar&lt;/a&gt; where one should register before attending.&lt;/p&gt;
+
+&lt;p&gt;PittJUG was more active in the past: I was attending fairly regularly in 2009 and 2010, but now meetings have been infrequent.&lt;/p&gt;
+
+&lt;p&gt;However, an experiment is about to begin to revitalize the group: on October 25, we&amp;rsquo;ll be trying an &lt;a href=&#34;http://www.pghgeekoutday.com/home/open-spaces&#34;&gt;Open Spaces&lt;/a&gt; format to take place of the old format that seemed to result in long presentations by people.&lt;/p&gt;
+
+&lt;h2 id=&#34;pittsburgh-geek-out-day&#34;&gt;Pittsburgh Geek Out Day&lt;/h2&gt;
+
+&lt;p&gt;Speaking of &lt;a href=&#34;http://www.pghgeekoutday.com/home/open-spaces&#34;&gt;Open Spaces&lt;/a&gt;, &lt;a href=&#34;http://www.pghgeekoutday.com/&#34;&gt;Pittsburgh Geek Out Day&lt;/a&gt; was created specifically to use that very format. There have been three &amp;ldquo;geek out day&amp;rdquo; meetings so far, in April, May, and August 2011. The first two involved blocking out a Saturday morning each, and the second was on a Wednesday evening, and I attended all three.&lt;/p&gt;
+
+&lt;p&gt;I am sold on the virtues of Open Spaces. The format of long presentations by people is, I think, usually quite inefficient of everyone&amp;rsquo;s time and attention. A lot of the users groups have moved toward &amp;ldquo;lightning talks&amp;rdquo;, which are definitely an improvement, but opening things up toward even more active participation by everyone was a revelation to me.&lt;/p&gt;
+
+&lt;p&gt;The next meeting of Pittsburgh Geek Out Day is November 5, so sign up if you haven&amp;rsquo;t been to one yet and can spare a Saturday morning!&lt;/p&gt;
+
+&lt;h2 id=&#34;agile&#34;&gt;Agile&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://www.meetup.com/PittsburghAgile/&#34;&gt;Pittsburgh Agile meetup group&lt;/a&gt; is fairly new, having its first meeting in April 2011. It has been meeting at &lt;a href=&#34;http://www.matrixformedia.com/&#34;&gt;Matrix Solutions&lt;/a&gt; on the North Shore and is active.&lt;/p&gt;
+
+&lt;p&gt;This group involves a mix of people who are developers as well as those who are managers, and of course, those who fall into both categories.&lt;/p&gt;
+
+&lt;h2 id=&#34;apple&#34;&gt;Apple&lt;/h2&gt;
+
+&lt;p&gt;Developers for Apple platforms, i.e., MacOS X and iOS, have a home at &lt;a href=&#34;http://cocoaheads.org/us/PittsburghPennsylvania/index.html&#34;&gt;CocoaHeads&lt;/a&gt;.  I have never been to their meetings, but have a friend who attends, and it seems to be pretty active.&lt;/p&gt;
+
+&lt;p&gt;It meets the third Thursday of every month at Smith Micro.&lt;/p&gt;
+
+&lt;h2 id=&#34;apple-ios&#34;&gt;Apple iOS&lt;/h2&gt;
+
+&lt;p&gt;There is an &lt;a href=&#34;http://www.meetup.com/iPhone-iPad-Mobile-App-Developers-Pittsburgh-Meetup/&#34;&gt;Pittsburgh Apple iOS meetup group&lt;/a&gt;, but I have not been to it.&lt;/p&gt;
+
+&lt;h2 id=&#34;clojure&#34;&gt;Clojure&lt;/h2&gt;
+
+&lt;p&gt;There is a &lt;a href=&#34;http://www.meetup.com/Clojure-PGH/&#34;&gt;Pittsburgh Clojure users group&lt;/a&gt; that used to meet, but I never made it to any of the meetings, and it seems to be inactive now.&lt;/p&gt;
+
+&lt;h2 id=&#34;coding-dojo&#34;&gt;Coding dojo&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://tech.groups.yahoo.com/group/PghCodingDojo/&#34;&gt;Pittsburgh Coding Dojo&lt;/a&gt; was active many years ago, but has been rather inactive recently. The last meeting I went to was in March 2011.&lt;/p&gt;
+
+&lt;h2 id=&#34;net&#34;&gt;.NET&lt;/h2&gt;
+
+&lt;p&gt;There is an active &lt;a href=&#34;http://pghdotnet.org/&#34;&gt;Pittsburgh .NET users group&lt;/a&gt;, but I have never been to any of its meetings.&lt;/p&gt;
+
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;I hope that this list will be useful to those who are already a member of one or more groups and interested in checking out the others, and perhaps in creating cross-group learning experiences and events.&lt;/p&gt;
+
+&lt;p&gt;Are there any other groups of interest that I am missing? Please let me know.&lt;/p&gt;
+
+&lt;p&gt;Also: since I have always taken notes for myself at each meeting of each user group that I have attended in the past couple of years (ha, I should have started blogging earlier, given my obsession with writing), if anyone is interested in any summaries or the like, let me know. So far, the only meeting I have written up for my blog has been a recent &lt;a href=&#34;../../blog/2011/10/14/agile-anti-patterns/&#34;&gt;Agile meetup on anti-patterns&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;updates&#34;&gt;Updates&lt;/h2&gt;
+
+&lt;h3 id=&#34;2011-10-18&#34;&gt;2011-10-18&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/akinsgre&#34;&gt;Greg&lt;/a&gt; reminded me to mention this useful calendar of &lt;a href=&#34;http://pghtechevents.com/&#34;&gt;Pittsburgh tech events&lt;/a&gt;. Some months ago, I subscribed to it using Google Calendar, and it really is quite helpful to have around.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>When jQuery Attacks</title>
+      <link>http://franklinchen.com/blog/2011/09/27/when-jquery-attacks/</link>
+      <pubDate>Tue, 27 Sep 2011 21:07:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2011/09/27/when-jquery-attacks/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s Tuesday night. After spending the day at work testing and debugging a new feature for a &lt;a href=&#34;http://java.com/&#34;&gt;Java&lt;/a&gt; program of mine that parses and transforms data using &lt;a href=&#34;http://antlr.org/&#34;&gt;ANTLR&lt;/a&gt;, what do I have to look forward to?&lt;/p&gt;
+
+&lt;p&gt;Apparently, the answer must be that I look forward to a &lt;em&gt;hellish&lt;/em&gt; 30 minute drive at 6:30 PM in the opposite direction of home (which is only two miles away), taking a planned detour to avoid an insane &lt;a href=&#34;http://www.dot.state.pa.us/PENNDOT/Districts/district11.nsf/befa2937349a7160852570a70047899a/1cf78bf5840af8b8852578c5006741a3?OpenDocument&#34;&gt;I-579 construction-caused backup&lt;/a&gt;, then weaving through a horrible &lt;a href=&#34;http://northhills.patch.com/articles/mcknight-road-construction-creates-headache-for-many&#34;&gt;&lt;em&gt;McKnightmare&lt;/em&gt; construction zone&lt;/a&gt;, in order to meet up with a handful of fellow &lt;a href=&#34;http://en.wikipedia.org/wiki/JavaScript&#34;&gt;JavaScript&lt;/a&gt; geeks, for another hour or so of more staring at computer code!&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://o1.aolcdn.com/dims-shared/dims3/PATCH/resize/600x450/http://hss-prod.hss.aol.com/hss/storage/patch/ff1b44dbd49a2a149de987454f154ba1&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;McKnight Road construction&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;The title &amp;ldquo;When &lt;a href=&#34;http://jquery.com/&#34;&gt;jQuery&lt;/a&gt; attacks&amp;rdquo; is actually not mine, but stolen from the title of today&amp;rsquo;s session by &lt;a href=&#34;http://www.fusioncube.net/&#34;&gt;Steven Brownlee&lt;/a&gt;, the gracious founder and host at &lt;a href=&#34;http://www.smithmicro.com/&#34;&gt;Smith Micro&lt;/a&gt; of the &lt;a href=&#34;http://www.meetup.com/Pittsburgh-JavaScript-Developers/&#34;&gt;Pittsburgh JavaScript meetup group&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.meetup.com/Pittsburgh-JavaScript-Developers/events/31718282/&#34;&gt;{% img /images/pittsburgh-javascript-meetup.jpg Today&amp;rsquo;s meeting of the Pittsburgh JavaScript meetup group %}&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Around eight or nine of us showed up tonight, and shared pizza Steve had ordered for us.&lt;/p&gt;
+
+&lt;p&gt;Steve briefly presented an overview of basic jQuery features, then we all just informally chatted about various topics that we brought up, from the coming impact of &lt;a href=&#34;http://www.html5rocks.com/&#34;&gt;HTML5&lt;/a&gt;, the rise of JavaScript and its future, the decline of such technologies as Flash and JBoss, different JavaScript engines such as &lt;a href=&#34;http://code.google.com/p/v8/&#34;&gt;v8&lt;/a&gt; and &lt;a href=&#34;http://www.mozilla.org/rhino/&#34;&gt;Rhino&lt;/a&gt;, client-side vs. server-side use of JavaScript (especially &lt;a href=&#34;http://nodejs.org/&#34;&gt;Node&lt;/a&gt;, which we have had meetups about already), and the controversy over Google&amp;rsquo;s &lt;a href=&#34;http://en.wikipedia.org/wiki/Google_Dart&#34;&gt;Dart&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;my-own-use-of-javascript&#34;&gt;My own use of JavaScript&lt;/h2&gt;
+
+&lt;p&gt;I have to confess that although I have used jQuery to prototype a web application I am developing, I have become uncomfortable with using just jQuery and adding layers on top of it using jQuery&amp;rsquo;s own bare-bones systems for &lt;a href=&#34;http://api.jquery.com/jQuery.template/&#34;&gt;templates&lt;/a&gt; and &lt;a href=&#34;http://api.jquery.com/link/&#34;&gt;data binding&lt;/a&gt; to cleanly structure the application rather than have it be a horrible tangled-spaghetti mess of DOM hacking.&lt;/p&gt;
+
+&lt;p&gt;I am currently evaluating full-blown &lt;a href=&#34;http://en.wikipedia.org/wiki/Model-view-controller&#34;&gt;MVC&lt;/a&gt; types of frameworks such as &lt;a href=&#34;http://documentcloud.github.com/backbone&#34;&gt;Backbone&lt;/a&gt; and &lt;a href=&#34;http://www.sproutcore.com/&#34;&gt;Sproutcore&lt;/a&gt; and &lt;a href=&#34;http://www.sencha.com/products/extjs/&#34;&gt;Sencha Ext JS 4&lt;/a&gt;. Stay tuned for my investigations of all that on this blog sometime.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

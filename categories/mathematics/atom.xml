@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mathematics on Franklin Chen</title>
+    <link>http://franklinchen.com/categories/mathematics/atom/index.xml</link>
+    <description>Recent content in Mathematics on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/categories/mathematics/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Geeking out at the annual CMU psychology holiday party: beauty and selling out</title>
+      <link>http://franklinchen.com/blog/2013/12/02/geeking-out-at-the-annual-cmu-psychology-holiday-party/</link>
+      <pubDate>Mon, 02 Dec 2013 20:31:24 -0500</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/12/02/geeking-out-at-the-annual-cmu-psychology-holiday-party/</guid>
+      <description>&lt;p&gt;At the annual &lt;a href=&#34;http://www.psy.cmu.edu/&#34;&gt;CMU psychology department&lt;/a&gt; holiday party this year, the featured entertainment is the pub quiz, which my office team has come in second place basically every year since its existence. (Although we never win, we believe that if we accumulate the standings over the years, we are clearly first: our consistent second place performance clearly beats the wild variance of any of the other teams&amp;rsquo; performances.)&lt;/p&gt;
+
+&lt;p&gt;There was a movie trivia category that we did very well in. Given a graphic, we were to determine the film title represented by the graphic.&lt;/p&gt;
+
+&lt;p&gt;Well, one of the images had everyone confused and silent, except for me, it seemed:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/math-quiz.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Math quiz&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-answer&#34;&gt;The answer&lt;/h2&gt;
+
+&lt;p&gt;The answer was immediately obvious to me, certifying me as the math geek in the department. Understandably, most psychology department people are not math geeks; but I&amp;rsquo;m not a psychologist, but a programmer, and my college degree is in physics.&lt;/p&gt;
+
+&lt;p&gt;The answer is, of course, &amp;ldquo;Beauty and the Beast&amp;rdquo;, because &lt;a href=&#34;http://en.wikipedia.org/wiki/Euler%27s_identity&#34;&gt;Euler&amp;rsquo;s identity&lt;/a&gt; is the &amp;ldquo;most beautiful equation&amp;rdquo; in all of mathematics. There is simply no doubt about this; it is so amazing and wondrous that if you&amp;rsquo;ve studied mathematics seriously, contemplating this equation is like seeing God or something.&lt;/p&gt;
+
+&lt;p&gt;And &amp;ldquo;666&amp;rdquo; is, by contrast, the &lt;a href=&#34;http://en.wikipedia.org/wiki/Number_of_the_beast&#34;&gt;mark of the beast&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-genuine-most-beautiful-equation-in-mathematics&#34;&gt;The genuine &amp;ldquo;most beautiful&amp;rdquo; equation in mathematics&lt;/h2&gt;
+
+&lt;p&gt;However, I have to add a disclaimer: Euler&amp;rsquo;s identity as we know it is &lt;em&gt;not really&lt;/em&gt; the most beautiful equation. It has a real flaw: it uses pi (&lt;em&gt;π&lt;/em&gt;).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;../../blog/2012/03/14/for-real-geeks-today-is-not-pi-day-but-half-tau-day/&#34;&gt;pi is a terrible mistake in the history of mathematics&lt;/a&gt;. The correct equation, had history adopted &lt;a href=&#34;http://tauday.com/&#34;&gt;tau instead of pi&lt;/a&gt;, would have been more beautiful:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://img.spikedmath.com/comics/fact-005-embrace-the-tau.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Euler with tau&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;(Images from &lt;a href=&#34;http://spikedmath.com/fact-005.html&#34;&gt;Spiked Math&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;So, Euler&amp;rsquo;s identity as we know it is &lt;em&gt;not quite&lt;/em&gt; the most beautiful equation. But it could be, if we all embraced tau.&lt;/p&gt;
+
+&lt;h2 id=&#34;back-to-reality&#34;&gt;Back to reality&lt;/h2&gt;
+
+&lt;p&gt;But I wasn&amp;rsquo;t going to get any points for the team by snidely answering the question with the nonexistent film title &amp;ldquo;Half Beauty and the Beast&amp;rdquo;. What can I say, I swallowed my pride and sold out to score an important point for our team.&lt;/p&gt;
+
+&lt;p&gt;Given how easily I sold out, it is clear that a hundred years from now, we&amp;rsquo;ll all still be using pi instead of tau.&lt;/p&gt;
+
+&lt;h2 id=&#34;update-of-2014-05-09&#34;&gt;(Update of 2014-05-09)&lt;/h2&gt;
+
+&lt;p&gt;Here is an interesting video reporting on brain research into the experience of &amp;ldquo;mathematical beauty&amp;rdquo; (both in mathematicians and non-mathematicians):&lt;/p&gt;
+
+&lt;iframe id=&#34;dit-video-embed&#34; width=&#34;640&#34; height=&#34;360&#34;
+src=&#34;http://snagplayer.video.dp.discovery.com/855979/snag-it-player.htm?auto=no&#34;
+frameborder=&#34;0&#34; scrolling=&#34;no&#34; allowtransparency=&#34;true&#34;&gt;&lt;/iframe&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

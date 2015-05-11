@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>English Opening on Franklin Chen</title>
+    <link>http://franklinchen.com/categories/english-opening/atom/index.xml</link>
+    <description>Recent content in English Opening on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/categories/english-opening/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Round 5 of Pittsburgh Chess Club Tournament: On Benoni &#34;Emasculation&#34; and Learning</title>
+      <link>http://franklinchen.com/blog/2012/10/02/round-4-of-pittsburgh-chess-club-tournament-on-benoni-emasculation-and-learning/</link>
+      <pubDate>Tue, 02 Oct 2012 21:35:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/10/02/round-4-of-pittsburgh-chess-club-tournament-on-benoni-emasculation-and-learning/</guid>
+      <description>&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/mirra-chen-2012-10-02_files/diag3FECB4B6781E764C.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;White in reverse Benoni being crushed&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Tonight was the fifth (and penultimate) round of the current six-round Tuesday night tournament at the &lt;a href=&#34;http://pittsburghcc.org/&#34;&gt;Pittsburgh Chess Club&lt;/a&gt;, the 14th Fred Sorensen Memorial. I last reported on the &lt;a href=&#34;../../blog/2012/09/19/round-3-of-pittsburgh-chess-club-tournament-another-approach-against-the-sicilian-squeezing-with-the-bind/&#34;&gt;third round&lt;/a&gt;, rather than the fourth round, because as I &lt;a href=&#34;../../blog/2012/08/29/returning-to-chess/&#34;&gt;mentioned in August upon signing up for the tournament&lt;/a&gt;, I took a bye for the fourth round because of a schedule conflict with a &lt;a href=&#34;http://www.pghtech.org/networks/PittJug/events.aspx&#34;&gt;Pittsburgh Java User Group&lt;/a&gt; meeting that I wanted to attend.&lt;/p&gt;
+
+&lt;p&gt;Thankfully, I came back for the fifth round finding that I was still tied for first, despite taking a half point bye in the fourth round, because nobody else had a perfect score after four rounds either.&lt;/p&gt;
+
+&lt;p&gt;The game tonight ended up one-sided; right after he resigned, he called it an &amp;ldquo;emasculation&amp;rdquo; (I won fairly quickly, in less than two hours). However:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;the unfolding of the game provides what I think is a nice illustration of how to win thematically against a Benoni opening structure&lt;/li&gt;
+&lt;li&gt;my opponent and I had a good discussion, after the game, about learning and improvement&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-complete-annotated-game&#34;&gt;The complete annotated game&lt;/h2&gt;
+
+&lt;p&gt;At your convenience, you can &lt;a href=&#34;../../chess/mirra-chen-2012-10-02.htm&#34;&gt;enjoy playing over the game with my annotations, including diagrams.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-paradox-of-choice-how-to-play-against-the-english-opening-as-black&#34;&gt;The paradox of choice: how to play against the English Opening as Black?&lt;/h2&gt;
+
+&lt;p&gt;I learned some days before tonight&amp;rsquo;s game that my opponent and I were going to be paired. Based on my memory, and my database of games, I expected my opponent to play the &lt;a href=&#34;http://en.wikipedia.org/wiki/English_Opening&#34;&gt;English Opening&lt;/a&gt;. In our last game, in 2010, he had played the English. I planned to avoid the variation that I had played then, because of course he would be prepared for it.&lt;/p&gt;
+
+&lt;h3 id=&#34;reverse-sicilian&#34;&gt;Reverse Sicilian?&lt;/h3&gt;
+
+&lt;p&gt;I have a confession to make: in the past, I hated facing the English Opening as Black. It&amp;rsquo;s the &lt;a href=&#34;http://en.wikipedia.org/wiki/The_Paradox_of_Choice:_Why_More_Is_Less&#34;&gt;paradox of choice&lt;/a&gt;: there are so many different ways to play against it. It is not a forcing, direct opening the way &lt;code&gt;1 e4&lt;/code&gt; and &lt;code&gt;1 d4&lt;/code&gt; are. In its purest form, in fact, it is a psychological trick, an attempt to play a &lt;a href=&#34;../../categories/sicilian-defense/&#34;&gt;Sicilian Defense&lt;/a&gt; in reverse, but with an extra move, if Black takes up the challenge of playing &lt;code&gt;1... e5&lt;/code&gt;. That extra move makes a huge difference, both objectively and psychologically, in the kinds of positions and evaluations that can arise, as noted English Opening theoretician &lt;a href=&#34;http://www.amazon.com/Mastering-Chess-Openings-John-Watson/dp/1904600980&#34;&gt;John Watson&lt;/a&gt; has brilliantly explained. Roughly, it&amp;rsquo;s like playing the Sicilian Defense but getting an extra punch in before the fight starts.&lt;/p&gt;
+
+&lt;p&gt;In my 2010 game against my opponent, I in fact took up the challenge as Black and went into an aggressive reversed Sicilian variation, one tempo down: I played the Rubinstein Variation, which is exactly the &lt;a href=&#34;../../blog/2012/09/19/round-3-of-pittsburgh-chess-club-tournament-another-approach-against-the-sicilian-squeezing-with-the-bind/&#34;&gt;Maróczy Bind&lt;/a&gt; in reverse. This is very risky, and although I won that game, I have also lost playing it. I do not play that kind of reversed Sicilian any more.&lt;/p&gt;
+
+&lt;h3 id=&#34;alternatives&#34;&gt;Alternatives&lt;/h3&gt;
+
+&lt;p&gt;There are many, many alternatives to playing for a reverse Sicilian as Black. Tonight I chose to aim to fight for the &lt;code&gt;d5&lt;/code&gt; square, to play to occupy the center and Queen side.&lt;/p&gt;
+
+&lt;h2 id=&#34;overview-of-my-game&#34;&gt;Overview of my game&lt;/h2&gt;
+
+&lt;h3 id=&#34;the-opening&#34;&gt;The opening&lt;/h3&gt;
+
+&lt;p&gt;As expected, my opponent played &lt;code&gt;1 c4&lt;/code&gt;, the English Opening. After some more moves, it turned out that my opponent allowed me to play a reversed &lt;a href=&#34;http://en.wikipedia.org/wiki/Benoni_Defense&#34;&gt;Benoni&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Again, there are dangers in playing reversed openings, in which Black takes the aggressive role White ordinarily takes but with a tempo down, but in this case, because of a positional subtlety, I was allowed to play a good version of the reversed Benoni as Black:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/mirra-chen-2012-10-02_files/diag3FECB4B2327E393B.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;A good reversed Benoni for Black&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;The problem for White is that he used his extra moves to play &lt;code&gt;b3&lt;/code&gt; and &lt;code&gt;Bb2&lt;/code&gt;, but now the Bishop is blocked up and is misplaced. This is an example of what proponents of the Black pieces such as John Watson and &lt;a href=&#34;http://en.wikipedia.org/wiki/Andr%C3%A1s_Adorj%C3%A1n&#34;&gt;András Adorján&lt;/a&gt; have observed about the subtleties of having extra moves: sometimes they are committal and do not help the side which has them!&lt;/p&gt;
+
+&lt;h4 id=&#34;concepts-of-the-benoni&#34;&gt;Concepts of the Benoni&lt;/h4&gt;
+
+&lt;p&gt;For those who are not very familiar with the Benoni as a chess opening, here is an overview of the goals of the two sides, which I&amp;rsquo;ll call the &lt;em&gt;attacker&lt;/em&gt; and the &lt;em&gt;counter-attacker&lt;/em&gt; (in the regular Benoni, these are White and Black, respectively, and in the reversed Benoni, these are Black and White, respectively).&lt;/p&gt;
+
+&lt;p&gt;Note that I don&amp;rsquo;t mention a role &lt;em&gt;defender&lt;/em&gt; here, because this opening is so sharp and aggressive for both sides that really, both sides are simultaneously attacking and defending for their lives. This opening is not for the faint-hearted for either side! It is a &amp;ldquo;kill or be killed&amp;rdquo; type of opening. I have played the Benoni on both sides, and both killed and been killed. (Most recently, I &lt;a href=&#34;../../blog/2012/05/31/some-pretty-attacking-chess-at-a-party-last-weekend/&#34;&gt;played the counter-attacking role against a boy in a casual game&lt;/a&gt; and broke through quickly.)&lt;/p&gt;
+
+&lt;p&gt;The &lt;em&gt;attacker&lt;/em&gt; has more space, has a center pawn wedge thrust into the innards of the counter-attacker&amp;rsquo;s position, and aims to squeeze the counter-attacker to death, preventing Queen side counterplay, while preparing to blast through at the tip of the pawn wedge.&lt;/p&gt;
+
+&lt;p&gt;The &lt;em&gt;counter-attacker&lt;/em&gt; has less space, and hopes to launch a flank attack on the back end of the attacker&amp;rsquo;s pawn wedge and destroy the attacker&amp;rsquo;s center, coming around the attacker&amp;rsquo;s weakened Queen side to swarm in that way.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-middle&#34;&gt;The middle&lt;/h3&gt;
+
+&lt;p&gt;The game tonight had the counter-attacker never getting Queen side counterplay off the ground, while the attacker (Black) broke through without resistance in the center: note that Black has played &lt;code&gt;e4&lt;/code&gt; successfully and White&amp;rsquo;s thematic &lt;code&gt;b4&lt;/code&gt; is nowhere near possible.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/mirra-chen-2012-10-02_files/diag3FECB4B5607FAC81.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;e pawn advance against the Benoni&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;the-end&#34;&gt;The end&lt;/h3&gt;
+
+&lt;p&gt;There was no real end game to speak of, since by the time Queens came off the board, the game was lost for White.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/mirra-chen-2012-10-02_files/diag3FECB4B9B8C41929.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Queens are off, but game is over&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;h2 id=&#34;discussion-with-my-opponent&#34;&gt;Discussion with my opponent&lt;/h2&gt;
+
+&lt;p&gt;After the game, my opponent and I discussed the errors that he made during the game: I considered that allowing the reverse Benoni after &lt;code&gt;b3&lt;/code&gt; and &lt;code&gt;Bb2&lt;/code&gt; was an error, and then after that, failing to prevent e4 with Nd2 was an error.&lt;/p&gt;
+
+&lt;h3 id=&#34;study&#34;&gt;Study&lt;/h3&gt;
+
+&lt;p&gt;He noted that he had prepared for our game by studying our game in 2010 and had improved his understanding of the opening variation we had played then, but I told him that I, too, had looked at the game, and never planned to walk into his preparation. He said that he had every confidence that if I had played the same opening variation, I would have done my homework also, to improve what I did last time. He said he respected that even against a weaker player such as himself, he trusted that I would not play an opening I considered inferior or unsound &lt;em&gt;just because I could get away it&lt;/em&gt;. I really appreciated this comment and statement of trust, because in fact this is my current serious attitude. In a blitz game, I might play around, but in a serious tournament game, I will no longer play &amp;ldquo;junk&amp;rdquo;. &lt;em&gt;This was not always the case&lt;/em&gt;. In fact, in one of our earliest games, years ago, I had played junk against him and won, but not felt happy about doing that.&lt;/p&gt;
+
+&lt;h3 id=&#34;learning&#34;&gt;Learning&lt;/h3&gt;
+
+&lt;p&gt;I congratulated him for doing his homework, and having improved so much in the past couple of years, and he said he learns from his mistakes. Bravo! I have no doubt that he will study the opening we played today and be ready in the future not just for me, but anyone who plays how I did today. Some people make the mistake, during these Tuesday night tournaments in which we face the same people repeatedly, of preparing one-shot ideas against specific opponents, but what we really want to do (and what he does and what I do) is use these rematches as excuses to improve our &lt;em&gt;general&lt;/em&gt; knowledge and skill.&lt;/p&gt;
+
+&lt;p&gt;My opponent said, before we parted tonight, &amp;ldquo;I don&amp;rsquo;t learn from my wins. I learn from my losses.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;I would amend that remark, however. I try to learn from my wins as well. Just because I won this game doesn&amp;rsquo;t mean I haven&amp;rsquo;t gone and analyzed &lt;em&gt;where I could have won even faster&lt;/em&gt; or &lt;em&gt;possible good moves he could have made that I overlooked&lt;/em&gt;. Every game that I play, whether I win or lose, I want to learn something from. I have won games in which I played horribly and didn&amp;rsquo;t see anything and only won because my opponent saw less. I&amp;rsquo;m not satisfied with just &lt;em&gt;seeing more than someone else&lt;/em&gt;; I actually want &lt;em&gt;to see the naked truth&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-next&#34;&gt;What next?&lt;/h2&gt;
+
+&lt;p&gt;Next Tuesday is the last round of the six-round tournament. I am now the undisputed leader for first, meaning that if I draw next week, I am guaranteed at least a tie for first prize; if I win, I get clear first prize.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;None of that really matters to me&lt;/em&gt;. I&amp;rsquo;m in this to play as well as I can, enjoy the art, enjoy the sport, and to write up everything I learn along the way, whether I win, draw, or lose. I am, of course, grateful that I have been winning.&lt;/p&gt;
+
+&lt;h3 id=&#34;update-of-2012-10-07&#34;&gt;(Update of 2012-10-07)&lt;/h3&gt;
+
+&lt;p&gt;Oops, it turns out that I was wrong in figuring that I was the undisputed leader for first going into the final round: in fact, someone took a bye in the fifth round after a perfect score in the first four rounds, so he and I are tied for first going into the final round, and in fact, we are playing each other on Tuesday. So if I draw, that only guarantees that we split first prize. I need to win in order to get clear first prize.&lt;/p&gt;
+
+&lt;p&gt;I am, of course, playing for a win. For better or for worse, &lt;strong&gt;I have never played for a draw in my life, against anyone, even a Grandmaster.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Tonight I got a chance to play an opening, reverse Benoni, that I haven&amp;rsquo;t played for some time in a tournament, and I won the game through clear, thematic moves. In addition, we had a pleasant discussion after the game, and I look forward to seeing him play better in this opening in the future, and I too will refine my play in it.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

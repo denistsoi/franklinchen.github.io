@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>Review of Coursera&#39;s Fall 2012 &#34;Functional Programming Principles in Scala&#34; &middot; Franklin Chen</title>
+
+  
+  <link rel="stylesheet" href="http://franklinchen.com/css/poole.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/hyde.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/poole-overrides.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/hyde-overrides.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/hyde-x.css">
+
+  <link rel="stylesheet" href="http://franklinchen.com/css/franklin.css">
+
+  <link rel="stylesheet" href="http://franklinchen.com/css/highlight/default.css">
+  <link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://franklinchen.com/touch-icon-144-precomposed.png">
+  <link href="http://franklinchen.com/favicon.png" rel="icon">
+
+  
+  
+  
+  
+
+  <meta name="description" content="Franklin Chen&#39;s personal Web site and blog">
+  <meta name="keywords" content="Franklin Chen, blog">
+  <link rel="author" href="http://plus.google.com/100967806642012078047">
+</head>
+<body class="theme-base-0e">
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      
+        
+        <h1>Franklin Chen</h1>
+        <p class="lead">Infinity in the palm of my hand.</p>
+    </div>
+
+    <ul class="sidebar-nav">
+      
+      <li class="sidebar-nav-item"><a href="http://franklinchen.com/contact/">Contact</a></li>
+      
+      <li class="sidebar-nav-item"><a href="http://ConscientiousProgrammer.com/">Programming blog</a></li>
+      <li class="sidebar-nav-item"><a href="http://chessimprover.com/author/franklinc/">Chess blog</a></li>
+      <li class="sidebar-nav-item"><a href="https://www.flickr.com/photos/franklinmingchen/">Photos</a></li>
+    </ul>
+
+    <ul class="sidebar-nav">
+      <li class="sidebar-nav-item">
+      <a href="https://github.com/FranklinChen"><i class="fa fa-github-square fa-3x"></i></a>
+      
+      
+      <a href="http://www.linkedin.com/in/franklinchen"><i class="fa fa-linkedin-square fa-3x"></i></a>
+      <a href="http://google.com/&#43;FranklinChen"><i class="fa fa-google-plus-square fa-3x"></i></a>
+      <a href="http://www.facebook.com/franklin.chen"><i class="fa fa-facebook-square fa-3x"></i></a>
+      <a href="http://twitter.com/franklinchen"><i class="fa fa-twitter-square fa-3x"></i></a>
+      <a href="http://www.youtube.com/user/FranklinChen"><i class="fa fa-youtube-square fa-3x"></i></a>
+      <a href="http://franklinchen.com/atom.xml" type="application/rss+xml"><i class="fa fa-rss-square fa-3x"></i></a>
+      </li>
+    </ul>
+
+    
+
+    <p>Copyright &copy; 2016 Franklin Chen<br/>
+       Powered by <a href="http://gohugo.io">Hugo</a> and <a href="https://github.com/zyro/hyde-x">Hyde-X</a></p>
+  </div>
+</div>
+
+
+<div class="content container">
+  <div class="post">
+    <h1>Review of Coursera&#39;s Fall 2012 &#34;Functional Programming Principles in Scala&#34;</h1>
+    
+
+
+<figure >
+    
+        <img src="http://www.scala-lang.org/sites/default/files/newsflash_logo.png" />
+    
+    
+</figure>
+
+
+<p>In fall of 2012, I completed the initial offering, through <a href="http://www.coursera.org/">Coursera</a>, of <a href="http://lampwww.epfl.ch/~odersky/">Martin Odersky</a>&rsquo;s <a href="http://www.coursera.org/course/progfun">&ldquo;Functional Programming Principles in Scala&rdquo; online course</a>, which was held from September 18 through November.</p>
+
+<p>This is a review of the course, which is planned to be offered again (so those of you who missed it the first time can sign up for the second iteration when it is available).</p>
+
+<p>Also check out the <a href="http://docs.scala-lang.org/news/functional-programming-principles-in-scala-impressions-and-statistics.html">instructor report</a>.</p>
+
+<h2 id="the-purpose-of-the-course">The purpose of the course</h2>
+
+<p>I have noticed very often that people learning to program or to perform some task that involves programming are very fixated on the question of &ldquo;what computer language should I use?&rdquo; or &ldquo;what computer language is the course/project going to use?&rdquo; This is a mistake because what is important in learning programming or getting better at it is not trivial questions of syntax, but matters of <em>understanding</em> what things mean and having a correct mental model of what is going on. In the end, one has to go back to fundamentals.</p>
+
+<p>So although this course has &ldquo;Scala&rdquo; in its title, it is really a brief introduction to functional programming, using <a href="http://www.scala-lang.org/">Scala</a> as one of many possible languages in which to express it.</p>
+
+<h2 id="my-background-in-computer-science-and-functional-programming">My background in computer science and functional programming</h2>
+
+<p>I am a college graduate with a physics degree who <em>never took a single computer science or programming course in college</em>, because I found programming to be strange, difficult, and scary, based on <a href="../../../../../blog/2012/01/16/how-school-made-me-hate-computer-science-and-programming/">my experiences before college</a>. I did not take up programming seriously until after college, when I found myself wanting a career change, and took a second look at computer programming.</p>
+
+<p>As I have mentioned earlier, a <a href="../../../../../blog/2011/10/25/rip-john-mccarthy-but-lisp-will-never-die/">turning point in my life</a> was when a friend recommended to me that I focus not on &ldquo;learning&rdquo; some arbitrary computer language, but on learning the <em>principles</em> of programming first, after which any specific language could be understood quickly in light of the principles.</p>
+
+<p>So I learned functional programming through working through <a href="http://mitpress.mit.edu/sicp/">The Structure and Interpretation of Computer Programs</a>, coding up my solutions to the exercises using <a href="http://gambitscheme.org/">Gambit Scheme</a> on a <a href="http://en.wikipedia.org/wiki/Macintosh_Classic">Macintosh Classic</a>. I then learned C and C++ and got my first job as a software engineer.</p>
+
+<p>The next big jump for me came when I encountered my first statically typed functional languages in around 1995: <a href="http://caml.inria.fr/caml-light/index.en.html">Caml Light</a> and <a href="http://www.smlnj.org/">Standard ML</a> and <a href="http://www.haskell.org/">Haskell</a> through <a href="http://www.haskell.org/hugs/">Gofer/Hugs</a>. I was so inspired by the possibilities of <em>improving the programming experience</em> that I decided to leave my job and apply for graduate school in computer science.</p>
+
+<p>I was in the <a href="http://www.csd.cs.cmu.edu/education/phd/">Carnegie Mellon University CS PhD program</a> for two years before leaving after 1999. I left for a combination of different reasons, but I am definitely still a believer in the original mission I had before going to graduate school: improving the experience of practical software development by every means necessary.</p>
+
+<h2 id="my-plan-overcome-resistance-to-scala">My plan: overcome resistance to Scala</h2>
+
+<p>Ironically, what I planned to get out of the course is <em>not</em> what I expect most students in the course would or <em>should</em> get out of it! I treated the course as a way to get myself to force myself to use and really learn the Scala language (since I did not need an introduction to functional programming), by solving programming exercises that I probably had done in the past in other languages.</p>
+
+<p>Scala had been around for years, but I had resisted doing much with it because it seemed very complex and changing all the time and because the tool ecosystem seemed to be immature and not usable for me. That led me to my not investing in the effort to truly read up on it and experiment to use at work.</p>
+
+<p>I am happy to report that Scala is actually usable now and all my concerns about it are no longer relevant. 2012 seems to me to be the year when Scala became truly usable for general production. (I will report later on my current plans in motion to migrate from Java to Scala at work.)</p>
+
+<h2 id="observations-about-the-course">Observations about the course</h2>
+
+<h3 id="installation-of-software">Installation of software</h3>
+
+<p>There were initially some glitches when setting up <a href="http://eclipse.org/">Eclipse</a> and <a href="http://www.scala-sbt.org/">SBT</a>, but eventually, an Eclipse distribution made specifically for the class was made available and solved my problems.</p>
+
+<p>That said, I preferred to use Emacs and SBT for writing code for the course.</p>
+
+<h3 id="theoretical-material">Theoretical material</h3>
+
+<p>Martin Odersky&rsquo;s lectures were entirely as one would expect in a basic academic course on programming language principles: laying the fundamental mathematical groundwork: operational semantics, structural induction, etc.</p>
+
+<p>This material can be very dry and abstract, and I have to wonder how many students encountering it for the first time slog through long lectures of this kind of content. Personally, if I were teaching these ideas, I would use less of the typical &ldquo;mathematical&rdquo; kind of example when illustrating them.</p>
+
+<h3 id="lecture-format">Lecture format</h3>
+
+<p>I was surprised by the scarcity of within-lecture quizzes as checkpoints for the student, because I have completed several Coursera courses in which they were much more frequent (and in my mind useful). I think the course would benefit from breaking up lectures into smaller chunks with more quizzes.</p>
+
+<h3 id="programming-assignments">Programming assignments</h3>
+
+<p>The programming assignments involved filling in code skeletons in otherwise complete programs that solved some task. Again, the tasks involved seemed typically mathematical and &ldquo;classic&rdquo; in nature, such as anagram solving, Huffman coding and decoding, although there was also an assignment on tweet analysis.</p>
+
+<h3 id="testing">Testing</h3>
+
+<p>I appreciated that the assignments were distributed as self-contained SBT projects, along with rudimentary <a href="http://junit.org/">JUnit</a>-style test suites, run through <a href="http://www.scalatest.org/">ScalaTest</a> that one could add to. I get the impression that many courses on programming do not address the issue of testing at all, with the result that students flail while copying and pasting code in some IDE or REPL instead of adopting an automated testing discipline that not only decreases frustration but will prove to be a real-life practice to be used in their studies and careers.</p>
+
+<p>It was great to have these programming assignments distributed as complete deploy able projects. I actually looked at the non-assignment-relevant code and configurations in order to learn more about real-life SBT and Scala use for my own plans to migrate from Java to Scala at work.</p>
+
+<h3 id="scala-the-language">Scala the language</h3>
+
+<p>Scala is introduced at first as a kind of standard functional language (even though in reality Scala&rsquo;s functions are actually objects). Algebraic data types are introduced through Scala&rsquo;s object encoding as <code>case class</code> in a hierarchy. I think the instructor did a good job in illustrating through example how Scala manages to blend the traditional functional and object worlds in a single language, while emphasizing the functional aspects.</p>
+
+<h3 id="most-interesting">Most interesting</h3>
+
+<p>For me, the most interesting aspect of the course and assignments was the focus on using Scala&rsquo;s &ldquo;for comprehension&rdquo; syntactic sugar to write very concise and clear code. An entire week of lectures was focused on collections and explained how the syntactic sugar is translated into <code>map</code>, <code>flatMap</code>, and <code>filter</code>. With the popularity of comprehension or similar syntax in many languages these days, I think it is very important to make sure that everyone knows that it is not just magic, but is just syntactic sugar for the important concepts that underlie it. I think the course did a good job in illustrating how comprehensions can be used not only for lists, but for many other types as well, and types that one can define oneself (Scala&rsquo;s comprehension syntax is meant for any <a href="http://en.wikipedia.org/wiki/Monad_(functional_programming)">monad</a>.</p>
+
+<h4 id="update-of-2013-02-27">(Update of 2013-02-27)</h4>
+
+<p>I just saw a good recent expository example of <a href="http://tmorris.net/posts/memoisation-with-state-using-scala/index.html">the use of comprehension syntax to simplify the look of code that involves writing your own monad</a>.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>I strongly recommend Martin Odersky&rsquo;s &ldquo;Functional Programming Principles in Scala&rdquo; course to all who are interested in understanding the basics behind programming language semantics and how to apply this knowledge in writing and reasoning about clear, elegant programs to solve problems. A course like this could be taught using any number of languages as a vehicle, but I think Scala works particularly well because it is a JVM-based language that interoperates seamlessly with Java and Java&rsquo;s entire tool chain, so anything you learn here, you can apply immediately in real-life work if you already operate in the JVM-based programming world. Scala is not a toy language, but is used at <a href="http://twitter.github.com/scala_school/">Twitter</a> and many other enterprises that require reliability, performance, scalability while solving very complex problems.</p>
+
+<p>A final reminder: if you missed this free course the first time around, by all means check it out when it is offered again!</p>
+
+    <div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'franklinchen';
+    var disqus_identifier = 'http:\/\/franklinchen.com\/blog\/2012\/11\/15\/review-of-courseras-fall-2012-functional-programming-principles-in-scala\/';
+    var disqus_title = 'Review of Coursera\x27s Fall 2012 \x22Functional Programming Principles in Scala\x22';
+    var disqus_url = 'http:\/\/franklinchen.com\/blog\/2012\/11\/15\/review-of-courseras-fall-2012-functional-programming-principles-in-scala\/';
+
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+  </div>
+</div>
+<script src="http://franklinchen.com/js/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+</body>
+</html>
+

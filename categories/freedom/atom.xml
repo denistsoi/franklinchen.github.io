@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Freedom on Franklin Chen</title>
+    <link>http://franklinchen.com/categories/freedom/atom/index.xml</link>
+    <description>Recent content in Freedom on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/categories/freedom/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Censored</title>
+      <link>http://franklinchen.com/blog/2011/11/16/censored/</link>
+      <pubDate>Wed, 16 Nov 2011 20:03:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2011/11/16/censored/</guid>
+      <description>&lt;p&gt;This site has temporarily been &lt;a href=&#34;http://americancensorship.org/&#34;&gt;censored&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Updated November 20: I have now removed the black-out banner and popup that I had put up for American Censorship Day. I hope some of you in the past couple of days have looked at the link to understand the issues involved.&lt;/p&gt;
+
+&lt;p&gt;The code was as follows:&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;&amp;lt;script type=&amp;quot;text/javascript&amp;quot; src=&amp;quot;http://americancensorship.org/js&amp;quot;&amp;gt;&amp;lt;/script&amp;gt;
+
+&amp;lt;a style=&amp;quot;width:400px;height:100px;vertical-align:middle;text-align:center;background-color:#000;position:absolute;z-index:5555;top:50px;left:50px;background-image:url(http://americancensorship.org/images/stop-censorship-small.png);background-position:center center;background-repeat:no-repeat;&amp;quot; href=&amp;quot;http://americancensorship.org&amp;quot;&amp;gt;&amp;lt;/a&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

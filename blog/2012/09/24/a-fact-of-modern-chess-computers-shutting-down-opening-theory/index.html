@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>A fact of modern chess: computers shutting down opening theory &middot; Franklin Chen</title>
+
+  
+  <link rel="stylesheet" href="http://franklinchen.com/css/poole.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/hyde.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/poole-overrides.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/hyde-overrides.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/hyde-x.css">
+
+  <link rel="stylesheet" href="http://franklinchen.com/css/franklin.css">
+
+  <link rel="stylesheet" href="http://franklinchen.com/css/highlight/default.css">
+  <link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://franklinchen.com/touch-icon-144-precomposed.png">
+  <link href="http://franklinchen.com/favicon.png" rel="icon">
+
+  
+  
+  
+  
+
+  <meta name="description" content="Franklin Chen&#39;s personal Web site and blog">
+  <meta name="keywords" content="Franklin Chen, blog">
+  <link rel="author" href="http://plus.google.com/100967806642012078047">
+</head>
+<body class="theme-base-0e">
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      
+        
+        <h1>Franklin Chen</h1>
+        <p class="lead">Infinity in the palm of my hand.</p>
+    </div>
+
+    <ul class="sidebar-nav">
+      
+      <li class="sidebar-nav-item"><a href="http://franklinchen.com/contact/">Contact</a></li>
+      
+      <li class="sidebar-nav-item"><a href="http://ConscientiousProgrammer.com/">Programming blog</a></li>
+      <li class="sidebar-nav-item"><a href="http://chessimprover.com/author/franklinc/">Chess blog</a></li>
+      <li class="sidebar-nav-item"><a href="https://www.flickr.com/photos/franklinmingchen/">Photos</a></li>
+    </ul>
+
+    <ul class="sidebar-nav">
+      <li class="sidebar-nav-item">
+      <a href="https://github.com/FranklinChen"><i class="fa fa-github-square fa-3x"></i></a>
+      
+      
+      <a href="http://www.linkedin.com/in/franklinchen"><i class="fa fa-linkedin-square fa-3x"></i></a>
+      <a href="http://google.com/&#43;FranklinChen"><i class="fa fa-google-plus-square fa-3x"></i></a>
+      <a href="http://www.facebook.com/franklin.chen"><i class="fa fa-facebook-square fa-3x"></i></a>
+      <a href="http://twitter.com/franklinchen"><i class="fa fa-twitter-square fa-3x"></i></a>
+      <a href="http://www.youtube.com/user/FranklinChen"><i class="fa fa-youtube-square fa-3x"></i></a>
+      <a href="http://franklinchen.com/atom.xml" type="application/rss+xml"><i class="fa fa-rss-square fa-3x"></i></a>
+      </li>
+    </ul>
+
+    
+
+    <p>Copyright &copy; 2016 Franklin Chen<br/>
+       Powered by <a href="http://gohugo.io">Hugo</a> and <a href="https://github.com/zyro/hyde-x">Hyde-X</a></p>
+  </div>
+</div>
+
+
+<div class="content container">
+  <div class="post">
+    <h1>A fact of modern chess: computers shutting down opening theory</h1>
+    
+
+<p>I saw the report of a stunning chess game between Veselin Topalov and Rustam Kasimzhanov that resulted in a draw. I think this game illustrates some important points about modern chess at the highest levels.</p>
+
+<p><a href="http://chess-news.ru/en/node/9478">The game</a> featured a temporary piece sacrifice in the <a href="http://en.wikipedia.org/wiki/Semi-Slav_Defense#Meran_Variation:_6.Bd3">Meran Variation of the Semi-Slav</a> that is <em>exciting</em> to see, but also made me feel rather <em>sad</em>.</p>
+
+<p>Black to move:</p>
+
+
+<figure >
+    
+        <img src="http://chess-news.ru/sites/default/files/u5/Foto-raznoe/2012-09-23_183645.jpg" />
+    
+    
+    <figcaption>
+        <h4>Black to move</h4>
+        
+    </figcaption>
+    
+</figure>
+
+
+<p>For <em>decades</em>, this kind of position has been standard opening theory, and usually it has been considered that Black&rsquo;s setup is not so good because it allows White to gain a lock on Black&rsquo;s Queen side by setting up <code>a3</code> and <code>b4</code> preventing Black from ever playing the freeing <code>...c5</code>.</p>
+
+<h2 id="computer-analysis">Computer analysis</h2>
+
+<p>I doubt that any human chess player would have come up with the sacrifice <code>...c5</code> without computer aid.</p>
+
+<p>The piece sacrifice is justified because if White attempts to hang on to the piece, he will get mated on the King side. As a result, Black has just enough time to regain the piece, and the end result is a simplified position in which the only reasonable result (for sufficiently strong players) is a quick <em>draw</em>.</p>
+
+<p>In other words, the cleverness of this novelty by Black is entirely based on the desire to achieve a draw. In top level chess, many players are satisfied to hold a draw as Black and work hard to win as White. So the nature of novelty hunting with computer aid is very different when preparing to play Black versus preparing to play White. Usually the elite prepare as White to take a risk, throw their opponent off balance, and <em>possibly</em> score a win, and prepare as Black to try to <em>guarantee</em> a draw.</p>
+
+<h2 id="some-quotes-from-the-players">Some quotes from the players</h2>
+
+<p>From the article mentioned above:</p>
+
+<p>Black said: &ldquo;<code>12...с5</code> is a novelty, however, it seems that a lot of spectators as well as my opponent knew about it. I just showed analyses and the game finished in a draw. We didn&rsquo;t spend much time on thinking today.&rdquo;</p>
+
+<p>White said: &ldquo;It&rsquo;s an obvious draw there, too many exchanges, but this happens; this is modern chess&hellip;&rdquo;</p>
+
+<h2 id="the-future">The future</h2>
+
+<p>What this novelty means is that anyone playing White going into this opening variation in the future cannot play the obvious &ldquo;best&rdquo; move <code>12 b4</code>, because it results in a draw.</p>
+
+<p>This subtlety interestingly accounts for the <em>bizarreness</em> of some modern chess. Amateurs are often confused by what happens in modern chess, because why are top level players avoiding certain openings or choosing not to play obviously good moves? Sometimes it is because of events like this, in which the obvious good move leads to a forced draw. It is probably the case that the entire game of chess is a forced draw, but a human as White who wants a chance of winning against someone with computer-aided knowledge of a way to force a draw against a good move must therefore play some other move, perhaps a &ldquo;worse&rdquo; one, in order to make the game unpredictable and take away the opponent&rsquo;s computer-aided strength.</p>
+
+<p>So modern chess has actually made the game much more chaotic and surprising in some ways, when the players actually choose to fight rather than go through the computer-solved motions (which they may sometimes do to save energy or in hope that the opponent has forgotten the remedy).</p>
+
+<p>Chess is not yet over.</p>
+
+<h3 id="update-of-2013-01-18">(Update of 2013-01-18)</h3>
+
+<p><a href="../../../../../blog/2013/01/18/modern-chess-computers-shutting-down-opening-theory-part-2/">An even more amazing development in this opening variation.</a></p>
+
+    <div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'franklinchen';
+    var disqus_identifier = 'http:\/\/franklinchen.com\/blog\/2012\/09\/24\/a-fact-of-modern-chess-computers-shutting-down-opening-theory\/';
+    var disqus_title = 'A fact of modern chess: computers shutting down opening theory';
+    var disqus_url = 'http:\/\/franklinchen.com\/blog\/2012\/09\/24\/a-fact-of-modern-chess-computers-shutting-down-opening-theory\/';
+
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+  </div>
+</div>
+<script src="http://franklinchen.com/js/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+</body>
+</html>
+

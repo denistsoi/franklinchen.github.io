@@ -1,0 +1,54 @@
+[Event "19th Robert P Smith Memorial"]
+[Site "Pittsburgh Chess Club"]
+[Date "2015.11.17"]
+[Round "3.6"]
+[White "Melih Ozbek"]
+[Black "Franklin Chen"]
+[Result "1/2-1/2"]
+[BlackElo "2172"]
+[ECO "C02"]
+[EventDate "2015.11.17"]
+[FEN "2r2rk1/pp2bpp1/2q1p2p/3pP3/1P6/2PQ1N2/P4PPP/2R1R1K1 w - - 1 22"]
+[Setup "1"]
+[TimeControl "G/120d5"]
+[WhiteElo "2129"]
+
+22. a3 { Creating a target for Black to attack.}  22... Qa4 { Of course hitting
+the a-Pawn.}  23. Ra1 Rc7 24. Rec1 Rfc8 { Black has considerable pressure on
+White's weak Queen side Pawns and can try to break through and win one of the
+Pawns eventually.}  25. h3 { Waiting move to prevent back rank stuff.}  25...
+Qb3 $6 ( 25... Bd8 { Rerouting the Bishop was best.} ) 26. Nd4 $2 { Not the
+best place for the Knight.}  ( 26. Nd2 { The right square, keeping Black out of
+c4.} ) 26... Qc4 27. Qd2 Qa6 { Confused about the best plan, I decided to wait
+for a mistake and redeploy my Rook.}  ( 27... a5) 28. Ra2 $2 { Leaving the back
+rank weak. This will become important.}  28... Rc4 { Now Black can think about
+redeploying the dark Bishop to d8 and b6 to hit the White Knight on d4.}  29.
+Rac2 $4 { Seemingly a trap  (  and it worked in the game  )  , but actually a
+losing blunder. Is the a-Pawn poisoned?}  29... Qxa3 { Taking the "poisoned"
+Pawn was the right move, but not played with enough thought.}  30. Ra2 $4 { Is
+Black's Queen trapped?}  30... Rxd4 $6 { I thought this was clever and played
+it way too quickly, thinking I won.}  ( 30... Bg5 $1 { I missed the big win!!
+This wins because White's Queen is overloaded and has to protect too many
+pieces: the Rook on a2, the Rook on c1, and the Knight on d4.}  31. f4 ( 31.
+Rxa3 Bxd2 32. Rd1 Bxc3 { White will eventually end up 3 Pawns down and dead
+lost.}  ) 31... Bxf4 32. Qxf4 { Loses the Rook on a2.}  32... Qxa2 ) 31. Qc2 {
+A critical moment. I was in shock because I had not considered that my Queen
+really was trapped.}  ( 31. cxd4 $4 { Loses the Rook on c1.}  31... Qxc1+ ) (
+31. Qxd4 $4 { Also loses the Rook on c1.}  31... Qxc1+ ) 31... Qxc3 $2 { I
+chickened out and played for the draw because I was suddenly scared of White's
+Queen and wanted her off.}  ( 31... Qxc1+ $1 { I should have sacrificed my
+Queen while getting a very strong, probably winning attack with the two Rooks
+and Bishop.}  32. Qxc1 Bxb4 { Black should be able to defend the King against
+the White Queen and Rook while creating threats against White's King.}  33. Qb2
+( 33. Rxa7 $4 { This is a natural continuation that happens to lose because
+White's Rook ends up useless and out of play.}  33... Bxc3 34. Rxb7 Re4 {
+Threatening to win White's Queen with a check on the back rank. Black's Bishop
+is very powerful.}  35. Qa3 Re1+ 36. Kh2 Re2 37. f4 { Trying to save the e5 and
+f2 Pawns fails.}  37... Bd2 38. Qf3 Re4 39. g3 Rc3 40. Qh5 g6 41. Qd1 Be1 { The
+end is near. White's King is exposed, and White's entire dark Pawn chain is
+going to be lost.}  ) 33... Rxc3 34. Rxa7 Rdc4 { Black has an advantage, but
+needs to be careful about White's Queen.}  35. Rxb7 $4 Rc2 36. Qb3 Bc5 { Black
+has a winning attack.}  ) 32. Qxc3 Rxc3 33. Rxc3 Bxb4 34. Rc8+ Kh7 35. Rxa7
+Rd1+ { The game continued with many errors on both sides until a draw was
+reached.}   1/2-1/2
+

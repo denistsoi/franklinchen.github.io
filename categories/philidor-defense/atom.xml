@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philidor Defense on Franklin Chen</title>
+    <link>http://franklinchen.com/categories/philidor-defense/atom/index.xml</link>
+    <description>Recent content in Philidor Defense on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/categories/philidor-defense/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Final round of Pittsburgh Chess Club tournament: clawing back from a terrible position to draw and tie for first</title>
+      <link>http://franklinchen.com/blog/2012/10/09/final-round-of-pittsburgh-chess-club-tournament-clawing-back-from-a-terrible-position-to-draw-and-tie-for-first/</link>
+      <pubDate>Tue, 09 Oct 2012 23:58:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/10/09/final-round-of-pittsburgh-chess-club-tournament-clawing-back-from-a-terrible-position-to-draw-and-tie-for-first/</guid>
+      <description>&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/chen-dean-2012-10-09_files/final-position.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Final position&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Tonight was the sixth (and final) round of the current six-round Tuesday night tournament at the &lt;a href=&#34;http://pittsburghcc.org/&#34;&gt;Pittsburgh Chess Club&lt;/a&gt;, the 14th Fred Sorensen Memorial. As mentioned in my report on the &lt;a href=&#34;../../blog/2012/10/02/round-4-of-pittsburgh-chess-club-tournament-on-benoni-emasculation-and-learning/&#34;&gt;fifth round&lt;/a&gt;, I was going into this final round paired against the only other player with my score so far, which meant that tonight, it was &lt;strong&gt;him or me&lt;/strong&gt;, for first prize!&lt;/p&gt;
+
+&lt;p&gt;It turned out that we drew, and therefore split first prize, both of us taking home $145 for our trouble (let&amp;rsquo;s not calculate the hourly opportunity cost; we are clearly not playing chess for the money here, ha).&lt;/p&gt;
+
+&lt;p&gt;Was this a &amp;ldquo;gentlemen&amp;rsquo;s draw&amp;rdquo;? &lt;strong&gt;No freaking way.&lt;/strong&gt; We were both out for blood in this game, and it lasted &lt;strong&gt;four hours and fifteen minutes&lt;/strong&gt;, being the last game to finish. I was in trouble and in danger of losing during most of the game, thanks to a series of errors on my part early on when I had built up a real advantage and then squandered it. My best possible scenario was to fight hard for the draw, and I&amp;rsquo;m proud I actually got it, despite my opponent pressing hard and refusing to concede the draw until the very final position.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s the story of what happened.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-complete-annotated-game&#34;&gt;The complete annotated game&lt;/h2&gt;
+
+&lt;p&gt;At your convenience, you can &lt;a href=&#34;../../chess/chen-dean-2012-10-09.htm&#34;&gt;enjoy playing over the game with my annotations, including diagrams.&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;preparation&#34;&gt;Preparation&lt;/h2&gt;
+
+&lt;p&gt;Since I learned over the weekend whom I was going to play tonight, I had time to &amp;ldquo;prepare&amp;rdquo; for the game. Unfortunately, sometimes I am not sure that is such a blessing. I feel more relaxed in day or weekend long tournaments in which one does not know far in advance about whom one is going to play.&lt;/p&gt;
+
+&lt;h3 id=&#34;strength&#34;&gt;Strength&lt;/h3&gt;
+
+&lt;p&gt;Objectively, my opponent and I are close in rating (him being a little lower) and therefore an evenly matched fight was expected. As Experts, we are fairly strong players: whereas he won the Pittsburgh Chess Club Championship in 2011 and 2012, I myself won the Pittsburgh Chess Club Championship in 2006 (a tie for first through fourth) and 2007.&lt;/p&gt;
+
+&lt;h3 id=&#34;psychology&#34;&gt;Psychology&lt;/h3&gt;
+
+&lt;p&gt;It was particularly stressful for me anticipating tonight&amp;rsquo;s game, because my opponent had actually played one tournament game with me in the past (in early 2011), and he had won after a really tough fight in which I felt I played quite poorly (losing a dead drawn position in the end game). It is easy to say to oneself that one should be objective and not let the sting of past losses have an effect on one&amp;rsquo;s mental state, but it&amp;rsquo;s easier to say than to do! I am very conscious of the feeling I have of wanting &amp;ldquo;revenge&amp;rdquo; for a loss, and consider this feeling to be counterproductive.&lt;/p&gt;
+
+&lt;h3 id=&#34;opening-choice&#34;&gt;Opening choice&lt;/h3&gt;
+
+&lt;p&gt;It is very tempting to try to &amp;ldquo;prepare&amp;rdquo; for someone specific, by studying up on one&amp;rsquo;s opponent&amp;rsquo;s likely openings or strategies days in advance. On the one hand, it can be fun to learn something in depth as part of the whole process. On the other hand, it is easy to get tunnel vision and end up thrown off by the unexpected, by expecting too much.&lt;/p&gt;
+
+&lt;p&gt;Well, it turns out that until tonight, I had never played White against my opponent. However, I had watched him play earlier in the tournament and noticed that he played the &lt;a href=&#34;http://en.wikipedia.org/wiki/Philidor_Defence&#34;&gt;Philidor Defense&lt;/a&gt;. Now, I have only played against the Philidor Defense only once in my life, I believe, 32 years ago in my first tournament as a child. It is not a popular opening. However, it has recently suddenly become revived.&lt;/p&gt;
+
+&lt;h4 id=&#34;stupid-or-brave-short-or-long-term&#34;&gt;Stupid or brave? Short or long term?&lt;/h4&gt;
+
+&lt;p&gt;As White, &lt;strong&gt;I don&amp;rsquo;t have to allow Black to play the Philidor.&lt;/strong&gt; But why should I deliberately allow it, given that I can sidestep it? Because I believe that &lt;em&gt;objectively&lt;/em&gt;, the Philidor Defense is &lt;em&gt;not very good&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Also, a feature of my chess play, maybe a &lt;em&gt;perverse weakness&lt;/em&gt;, or maybe an &lt;em&gt;enterprising strength&lt;/em&gt;, is that I like to take on new challenges that are not forced on me, but freely chosen. Given the opportunity to learn a new opening and play it, I tend to go ahead and do that rather than stick entirely to my &lt;em&gt;comfort zone&lt;/em&gt;, playing what I already know. It would have been very easy for me to sidestep the Philidor tonight, but I chose to study it a bit and &lt;em&gt;deliberately&lt;/em&gt; walk into my opponent&amp;rsquo;s desired opening.&lt;/p&gt;
+
+&lt;p&gt;I have to confess that I have paid the price repeatedly over the years, losing games or drawing games instead of winning, because of deliberately playing unfamiliar kinds of positions. It is very painful to do worse because of being outside of my comfort zone. But part of me truly believes that life is richer for trying experiments and for learning from failures. In fact, if I think about the failures more objectively, I realize that many of my easy wins in recent years are wins that came to me because I had first lost in similar positions and then learned the lesson the hard way. For example, the first couple of times I played the Sicilian Defense as Black, I got killed. But then I got better and started winning a lot with it. Life is so much richer as a result of having eventually figured out how to play the Sicilian Defense!&lt;/p&gt;
+
+&lt;h2 id=&#34;overview-of-my-game&#34;&gt;Overview of my game&lt;/h2&gt;
+
+&lt;h3 id=&#34;the-opening&#34;&gt;The opening&lt;/h3&gt;
+
+&lt;p&gt;So we in fact did end up in a Philidor Defense, as expected. We arrived at a very standard opening position, one which I&amp;rsquo;ve never played on either side, but one that I studied.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/chen-dean-2012-10-09_files/diag3FA98051F1BBD940.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Standard position&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Black&amp;rsquo;s goal in the Philidor Defense is similar to the goal in the open Sicilian Defense or King&amp;rsquo;s Indian: accept less space initially, but eventually put pressure on White&amp;rsquo;s center. White&amp;rsquo;s task is to hold the center, stop Black&amp;rsquo;s counterplay on the Queen side and center, and basically rip apart Black&amp;rsquo;s position with a King side attack.&lt;/p&gt;
+
+&lt;p&gt;It turned out that I executed White&amp;rsquo;s attack very well, actually, to a point. I reached a very good attacking position as White:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/chen-dean-2012-10-09_files/diag3FA980674DDD0A99.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;King side attack&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;the-middle&#34;&gt;The middle&lt;/h3&gt;
+
+&lt;p&gt;I totally fell apart in the early middle game, because of impatience and hubris upon &lt;em&gt;knowing&lt;/em&gt; that I had achieved a great position. Here is the first critical position, at which White has an overwhelming advantage, but at which I became extremely careless:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/chen-dean-2012-10-09_files/diag3FA980F44784E9E7.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;King side attack&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;I became fixated on the idea of winning Black&amp;rsquo;s &lt;code&gt;d6&lt;/code&gt; Pawn, but neglected to keep my own center protected:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/chen-dean-2012-10-09_files/diag3FA9812599ED7C70.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;White losing advantage&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;I tried to complicate things, but my opponent was precise in maintaining an advantage and winning a Pawn.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/chen-dean-2012-10-09_files/diag3FA9816DD625E22A.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;White down a Pawn&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;At this point, my only hope was to fight on with the Bishops being of opposite colors, in order to make a draw.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-end&#34;&gt;The end&lt;/h3&gt;
+
+&lt;p&gt;The task of drawing was made more complicated by the fact that my emotional turmoil had led me to spend a lot of time thinking and recovering, and so I was behind on the clock. It is critical not to lose too much time on the clock relative to your opponent, because in the ending, the inferior side has to play more precisely. So I made very pragmatic choices to play moves that, given very little thinking time, were not necessarily best but seemed to be consistent with a clear drawing plan and also forced my opponent to make his own choices and think, thereby narrowing the time gap between us.&lt;/p&gt;
+
+&lt;p&gt;For hours, I defended, and eventually after a Queen trade, I grew confident that I could hold the draw:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/chen-dean-2012-10-09_files/diag3FA9821CFCCFAA07.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Queens are off&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Time became very short for both sides, and my opponent agreed to a draw only after he was down to almost one minute left on his clock while I had two minutes on mine, and an error on his side had made the draw trivial.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../chess/chen-dean-2012-10-09_files/diag3FA9829F16B11C6D.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Draw agreed&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;I was all sweaty from the intense effort.&lt;/p&gt;
+
+&lt;h2 id=&#34;lessons-learned&#34;&gt;Lessons learned&lt;/h2&gt;
+
+&lt;p&gt;I know that it is not the wisest thing in the world to play an opening for the first time in a serious tournament game. Even if objectively I know, from study, what the strategies and possible tactics are, it is just that much more of a cognitive load to carry. In the past, I would work out new openings by playing blitz at the club, but I don&amp;rsquo;t have time for much blitz chess any more.&lt;/p&gt;
+
+&lt;p&gt;I have a bad habit of getting careless at critical moments in a game when I feel that I am on the verge of winning. In my next tournament, I will work to combat this bad habit.&lt;/p&gt;
+
+&lt;p&gt;I was proud of fighting back for a draw successfully despite all the problems I caused myself. The game&amp;rsquo;s not over until it&amp;rsquo;s over.&lt;/p&gt;
+
+&lt;h2 id=&#34;what-next&#34;&gt;What next?&lt;/h2&gt;
+
+&lt;p&gt;This is the first chess tournament that I&amp;rsquo;ve won/tied-for-first since the &lt;a href=&#34;http://main.uschess.org/assets/msa_joomla/XtblMain.php?201010121031-12226800&#34;&gt;12th Fred Sorensen Memorial&lt;/a&gt; of two years ago. My &amp;ldquo;comeback&amp;rdquo; feels fairly good, although I&amp;rsquo;d like to win again a tournament outright, with a perfect score: straight wins, no draws.&lt;/p&gt;
+
+&lt;p&gt;My rating went up a few points, &lt;a href=&#34;http://main.uschess.org/assets/msa_joomla/XtblMain.php?201010121031-12226800&#34;&gt;from 2110 to 2122&lt;/a&gt;. The last-round draw with an Expert lower-rated than me did cost me some points.&lt;/p&gt;
+
+&lt;p&gt;I haven&amp;rsquo;t yet decided whether to play in the next Tuesday night tournament, which starts in a month, on Tuesday, November 13. I have a month to decide.&lt;/p&gt;
+
+&lt;p&gt;I am, of course, &lt;a href=&#34;http://www.scottberkun.com/blog/2012/how-to-be-good-at-anything/&#34;&gt;always trying to improve&lt;/a&gt; at chess, using however much time and effort I can actually budget toward it.&lt;/p&gt;
+
+&lt;p&gt;Since playing in a chess tournament is a kind of athletic performance, I am trying to apply what I&amp;rsquo;m learning from other forms of performance about &lt;a href=&#34;http://musiciansway.com/blog/2012/10/excelling-under-pressure/&#34;&gt;excelling under pressure&lt;/a&gt;. The mismatch I often feel between my &amp;ldquo;ability&amp;rdquo; and my &amp;ldquo;performance&amp;rdquo; is something I am addressing.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;I more or less achieved my goals for this tournament. I played reasonably well, and of the five games I played, I won four and drew one. I also analyzed and published my tournament games online for the first time, warts and all.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

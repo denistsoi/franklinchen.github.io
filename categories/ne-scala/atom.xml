@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ne Scala on Franklin Chen</title>
+    <link>http://franklinchen.com/categories/ne-scala/atom/index.xml</link>
+    <description>Recent content in Ne Scala on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/categories/ne-scala/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>The second meeting of the Pittsburgh Scala Meetup: Josh Suereth on functional patterns for the asynchronous Web</title>
+      <link>http://franklinchen.com/blog/2013/02/21/the-second-meeting-of-the-pittsburgh-scala-meetup-josh-suereth-on-functional-patterns-for-the-asynchronous-web/</link>
+      <pubDate>Thu, 21 Feb 2013 23:56:50 -0400</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/02/21/the-second-meeting-of-the-pittsburgh-scala-meetup-josh-suereth-on-functional-patterns-for-the-asynchronous-web/</guid>
+      <description>
+
+&lt;p&gt;Tonight was the &lt;a href=&#34;http://www.meetup.com/Pittsburgh-Scala-Meetup/events/99077622/&#34;&gt;second meeting&lt;/a&gt; of the &lt;a href=&#34;http://www.meetup.com/Pittsburgh-Scala-Meetup/&#34;&gt;Pittsburgh Scala Meetup&lt;/a&gt;. It was our first &amp;ldquo;real&amp;rdquo; meeting, in the sense that &lt;a href=&#34;../../blog/2013/01/11/2013-is-my-year-of-scala/&#34;&gt;our first meetup&lt;/a&gt; was just a little gathering in a bar, and this time, we were able to use a nice space in &lt;a href=&#34;http://www.revvoakland.com/&#34;&gt;Revv Oakland&lt;/a&gt; to meet in.&lt;/p&gt;
+
+&lt;h2 id=&#34;attendance&#34;&gt;Attendance&lt;/h2&gt;
+
+&lt;p&gt;A large number of people showed up, which was encouraging, indicating local Pittsburgh interest in Scala.&lt;/p&gt;
+
+&lt;h2 id=&#34;presentation&#34;&gt;Presentation&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://jsuereth.com/&#34;&gt;Josh Suereth&lt;/a&gt; gave the first presentation for the group, a version targeted more to novices of the &lt;a href=&#34;http://jsuereth.com/scala/2013/02/13/nescala-intro-to-fp-talk.html&#34;&gt;talk he gave at NE Scala 2013&lt;/a&gt;, &amp;ldquo;Functional Programming Patterns for the Asynchronous Web&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;By the way, his NE Scala talk, which was constrained because it had be squeezed into 30 minutes and for a diverse audience, is available &lt;a href=&#34;http://nescala.org/#t-12229286&#34;&gt;at the NE Scala site as both video and slides&lt;/a&gt;. I didn&amp;rsquo;t attend his talk when &lt;a href=&#34;../../blog/2013/02/10/ne-scala-2013-my-first-scala-conference/&#34;&gt;we went to NE Scala&lt;/a&gt; because he test-drove it with Jamie and me and I wanted to see people I didn&amp;rsquo;t already know, and different topics.&lt;/p&gt;
+
+&lt;h2 id=&#34;after&#34;&gt;After&lt;/h2&gt;
+
+&lt;p&gt;After the talk, there was general discussion.&lt;/p&gt;
+
+&lt;p&gt;We also brainstormed ideas for a group project. One of the ideas was to create a Web site using &lt;a href=&#34;http://www.playframework.com/&#34;&gt;Play&lt;/a&gt;. Jamie created an initial &lt;a href=&#34;https://github.com/pghscala/web&#34;&gt;GitHub repository for this&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;It&amp;rsquo;s great that the Pittsburgh Scala Meetup is really getting off the ground now. Now that we have a space to use, hopefully we will begin a regularly occurring meeting. And of course, volunteers are needed to start giving talks!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>NE Scala 2013: my first Scala conference!</title>
+      <link>http://franklinchen.com/blog/2013/02/10/ne-scala-2013-my-first-scala-conference/</link>
+      <pubDate>Sun, 10 Feb 2013 20:20:13 -0500</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/02/10/ne-scala-2013-my-first-scala-conference/</guid>
+      <description>
+
+&lt;p&gt;I went to my first ever Scala conference, &lt;a href=&#34;http://nescala.org/&#34;&gt;NE Scala&lt;/a&gt;, held in Philadelphia, with Josh and Jamie, as mentioned in my report on &lt;a href=&#34;../../blog/2013/01/11/2013-is-my-year-of-scala/&#34;&gt;the very first Pittsburgh Scala meetup group meeting&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;It was intense. Being a novice to Scala, most of the talks I attended covered stuff completely new to me.&lt;/p&gt;
+
+&lt;p&gt;I returned determined to dig deeper into the Scala ecosystem and use the language effectively.&lt;/p&gt;
+
+&lt;h2 id=&#34;videos&#34;&gt;Videos&lt;/h2&gt;
+
+&lt;p&gt;Videos of the talks are available at &lt;a href=&#34;http://www.youtube.com/playlist?list=PLndbWGuLoHeaOpTHoNhelI4NdnSqpeXA7&#34;&gt;this play list&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;By the way, &lt;a href=&#34;http://scalawags.tv/scalawags-live-at-ne-scala&#34;&gt;an episode of Scalawags was recorded live at NE Scala&lt;/a&gt; and does not appear in that play list. I was present and thought it was a very useful question and answer session.&lt;/p&gt;
+
+&lt;h2 id=&#34;update-of-2014-01-16&#34;&gt;(Update of 2014-01-16)&lt;/h2&gt;
+
+&lt;p&gt;This is an unfinished post that is one of many in the past two years that lay unfinished because I had originally planned to write a very detailed report but never got around to it. I decided that I might as well release all these unfinished posts rather than leave them completely out of the record.&lt;/p&gt;
+
+&lt;p&gt;Meanwhile, almost a year later, I am still using Scala. I really did stop writing new Java code at work and switch to Scala.&lt;/p&gt;
+
+&lt;p&gt;NE Scala 2014 registration recently opened up; unfortunately, it is in New York City, far away, and space is limited, so I am not attending.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2013 is my year of Scala</title>
+      <link>http://franklinchen.com/blog/2013/01/11/2013-is-my-year-of-scala/</link>
+      <pubDate>Fri, 11 Jan 2013 15:17:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/01/11/2013-is-my-year-of-scala/</guid>
+      <description>&lt;p&gt;Last night was the &lt;a href=&#34;http://www.meetup.com/Pittsburgh-Scala-Meetup/events/93174312/&#34;&gt;first meeting&lt;/a&gt; of the new &lt;a href=&#34;http://www.meetup.com/Pittsburgh-Scala-Meetup/&#34;&gt;Pittsburgh Scala meetup&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;And this morning I suddenly signed up to attend the &lt;a href=&#34;http://nescala.org/&#34;&gt;Northeast Scala Symposium&lt;/a&gt; (NE Scala) being held soon in February in Philadelphia!&lt;/p&gt;
+
+&lt;p&gt;2013 is my &amp;ldquo;year of Scala&amp;rdquo;. What does this mean?&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;leaving-java&#34;&gt;&amp;ldquo;Leaving&amp;rdquo; Java&lt;/h2&gt;
+
+&lt;p&gt;I just &lt;a href=&#34;../../blog/2012/11/15/review-of-courseras-fall-2012-functional-programming-principles-in-scala/&#34;&gt;recently went through Martin Odersky&amp;rsquo;s &amp;ldquo;Functional Programming Principles in Scala&amp;rdquo; course&lt;/a&gt;. As a result of that, I decided on New Year that 2013 is going to be my &amp;ldquo;year of Scala&amp;rdquo;, which in practice means that I will use it as my main general-purpose programming language for software development wherever feasible. In particular, at work I have been in the process of converting a large Java project from using &lt;a href=&#34;http://maven.apache.org/&#34;&gt;Maven&lt;/a&gt; for a complex build to using the Scala-based &lt;a href=&#34;http://www.scala-sbt.org/&#34;&gt;SBT&lt;/a&gt; instead (last year I was &lt;a href=&#34;../../blog/2012/09/24/a-short-example-of-why-i-prefer-static-typing-learning-gradle/&#34;&gt;evaluating both SBT and the Groovy-based Gradle&lt;/a&gt;, but SBT won, after I figured out how to do what I need with it).&lt;/p&gt;
+
+&lt;p&gt;The beauty of Scala is that you can seamlessly continue to use existing Java code and libraries; this interoperability is a huge win, compared to other statically typed functional programming languages such as ML and Haskell.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-first-pittsburgh-scala-meetup-session&#34;&gt;The first Pittsburgh Scala meetup session&lt;/h2&gt;
+
+&lt;p&gt;It was an informal social meeting upstairs in the Harvard and Highland bar (resulting from not yet obtaining an official quiet place to really meet regularly).&lt;/p&gt;
+
+&lt;p&gt;It turned out that only six of us showed up for this informal meeting. &lt;a href=&#34;http://jamieforrest.com/&#34;&gt;Jamie Forrest&lt;/a&gt;, who created this meetup group, was there, as was &lt;a href=&#34;http://jsuereth.com/&#34;&gt;Josh Suereth&lt;/a&gt;, who works for &lt;a href=&#34;http://www.typesafe.com/&#34;&gt;Typesafe&lt;/a&gt; and has regularly been involved in Scala &lt;a href=&#34;../../blog/2011/10/26/open-spaces-success-at-the-pittsburgh-java-users-group/&#34;&gt;discussions&lt;/a&gt; and &lt;a href=&#34;../../blog/2012/06/09/report-on-the-first-pittsburgh-techfest-2012/&#34;&gt;presentations&lt;/a&gt; in the Pittsburgh area. I also met three people I hadn&amp;rsquo;t known before, Andrii, Ashton, and Barrett.&lt;/p&gt;
+
+&lt;p&gt;It was kind of loud in the bar, so it was often difficult for me to hear, but I think we had a good time meeting each other and exchanging some thoughts about how we use Scala (or plan to use it) and why.&lt;/p&gt;
+
+&lt;p&gt;So now that we&amp;rsquo;ve gotten the meetup group off the ground, I look forward to a Scala community growing here in Pittsburgh! We decided that we need to find a proper meeting place, and we&amp;rsquo;ll start having people give talks, and come up with ideas for a group project to work on.&lt;/p&gt;
+
+&lt;h2 id=&#34;ne-scala-http-nescala-org&#34;&gt;&lt;a href=&#34;http://nescala.org/&#34;&gt;NE Scala&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Also, at the meetup, Josh reminded us that there were still spaces left for &lt;a href=&#34;http://www.meetup.com/nescala/events/97192402/&#34;&gt;registering for NE Scala&lt;/a&gt;. I hadn&amp;rsquo;t actually considered going, because I&amp;rsquo;m already very busy for January and February, but this morning upon waking up, I suddenly decided that maybe I should not pass up this opportunity to go and get the big picture of what the Scala community is up to!&lt;/p&gt;
+
+&lt;p&gt;In a flurry of email exchanges, I ended up registering for the conference with the idea of carpooling with Josh and sharing lodging, then Jamie got in on it too, so the three of us will be heading off to Philadelphia together in March. This will be my first out-of-town travel to a conference since &lt;a href=&#34;http://www.informatik.uni-trier.de/~ley/db/conf/pldi/pldi98.html&#34;&gt;PLDI 1998&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;I&amp;rsquo;m definitely throwing myself into the Scala world now, with the Pittsburgh Scala meetup going and with my registration for the NE Scala conference.&lt;/p&gt;
+
+&lt;h2 id=&#34;update&#34;&gt;(Update)&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;../../blog/2013/02/10/ne-scala-2013-my-first-scala-conference/&#34;&gt;NE Scala 2013 was quite intense&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

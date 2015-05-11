@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>Modern chess: computers shutting down opening theory, part 2 &middot; Franklin Chen</title>
+
+  
+  <link rel="stylesheet" href="http://franklinchen.com/css/poole.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/hyde.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/poole-overrides.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/hyde-overrides.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/hyde-x.css">
+
+  <link rel="stylesheet" href="http://franklinchen.com/css/franklin.css">
+
+  <link rel="stylesheet" href="http://franklinchen.com/css/highlight/default.css">
+  <link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://franklinchen.com/touch-icon-144-precomposed.png">
+  <link href="http://franklinchen.com/favicon.png" rel="icon">
+
+  
+  
+  
+  
+
+  <meta name="description" content="Franklin Chen&#39;s personal Web site and blog">
+  <meta name="keywords" content="Franklin Chen, blog">
+  <link rel="author" href="http://plus.google.com/100967806642012078047">
+</head>
+<body class="theme-base-0e">
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      
+        
+        <h1>Franklin Chen</h1>
+        <p class="lead">Infinity in the palm of my hand.</p>
+    </div>
+
+    <ul class="sidebar-nav">
+      
+      <li class="sidebar-nav-item"><a href="http://franklinchen.com/contact/">Contact</a></li>
+      
+      <li class="sidebar-nav-item"><a href="http://ConscientiousProgrammer.com/">Programming blog</a></li>
+      <li class="sidebar-nav-item"><a href="http://chessimprover.com/author/franklinc/">Chess blog</a></li>
+      <li class="sidebar-nav-item"><a href="https://www.flickr.com/photos/franklinmingchen/">Photos</a></li>
+    </ul>
+
+    <ul class="sidebar-nav">
+      <li class="sidebar-nav-item">
+      <a href="https://github.com/FranklinChen"><i class="fa fa-github-square fa-3x"></i></a>
+      
+      
+      <a href="http://www.linkedin.com/in/franklinchen"><i class="fa fa-linkedin-square fa-3x"></i></a>
+      <a href="http://google.com/&#43;FranklinChen"><i class="fa fa-google-plus-square fa-3x"></i></a>
+      <a href="http://www.facebook.com/franklin.chen"><i class="fa fa-facebook-square fa-3x"></i></a>
+      <a href="http://twitter.com/franklinchen"><i class="fa fa-twitter-square fa-3x"></i></a>
+      <a href="http://www.youtube.com/user/FranklinChen"><i class="fa fa-youtube-square fa-3x"></i></a>
+      <a href="http://franklinchen.com/atom.xml" type="application/rss+xml"><i class="fa fa-rss-square fa-3x"></i></a>
+      </li>
+    </ul>
+
+    
+
+    <p>Copyright &copy; 2016 Franklin Chen<br/>
+       Powered by <a href="http://gohugo.io">Hugo</a> and <a href="https://github.com/zyro/hyde-x">Hyde-X</a></p>
+  </div>
+</div>
+
+
+<div class="content container">
+  <div class="post">
+    <h1>Modern chess: computers shutting down opening theory, part 2</h1>
+    
+
+<p>Last September, I described how a <a href="../../../../../blog/2012/09/24/a-fact-of-modern-chess-computers-shutting-down-opening-theory/">shocking chess opening novelty</a> illustrates the subtlety of human chess preparation and the psychology of practical play.</p>
+
+<p>I had no idea that an even bigger shock was to come, in the very same chess opening variation.</p>
+
+<h2 id="critical-position">Critical position</h2>
+
+<p>This is a critical position of the <a href="http://en.wikipedia.org/wiki/Semi-Slav_Defense#Meran_Variation:_6.Bd3">Meran Variation of the Semi-Slav</a>, White to play:</p>
+
+
+<figure >
+    
+        <img src="http://images.huffingtonpost.com/2013-01-17-Anand1.jpg" />
+    
+    
+    <figcaption>
+        <h4>Meran</h4>
+        
+    </figcaption>
+    
+</figure>
+
+
+<p>Last September, Topalov as White played the natural <code>12 b4</code>, but that led to the stunning sacrifice <code>12...c5</code> that leads to a draw for Black. As I said in my blog post: &ldquo;What this novelty means is that anyone playing White going into this opening variation in the future cannot play the obvious &ldquo;best&rdquo; move <code>12 b4</code>, because it results in a draw.&rdquo;</p>
+
+<h2 id="what-else-for-white-to-try">What else for White to try?</h2>
+
+<p>So in a recent game between Aronian and Anand (<a href="http://www.huffingtonpost.com/lubomir-kavalek/amazing-chess-brilliancy_b_2497593.html">full annotated game here</a>), Aronian deviated by playing instead <code>12 Ng5</code>, sidestepping the known draw.</p>
+
+<p>But amazingly, Anand, as Black played <code>12...c5</code> anyway!! It looks insane. If it&rsquo;s an acceptable move, then surely Aronian must have done his own computer research ahead of time to deal with it?</p>
+
+<p>No, he clearly had not seen everything coming, because after the amazing sacrifice <code>15...Bc5</code>, Aronian played a poor move, which led to the astounding <code>15...Nde5</code> by Anand leading to this position:</p>
+
+
+<figure >
+    
+        <img src="http://images.huffingtonpost.com/2013-01-17-Anand3.jpg" />
+    
+    
+    <figcaption>
+        <h4>Near the end</h4>
+        
+    </figcaption>
+    
+</figure>
+
+
+<p>Anand then won the game after several more moves.</p>
+
+<p><strong>It may have been his most brilliant game in his career, and will definitely be in any anthology of the greatest games ever played in the history of chess.</strong></p>
+
+<h2 id="quotes">Quotes</h2>
+
+<p><a href="http://en.chessbase.com/home/TabId/211/PostId/4008776">Aronian said</a>: &ldquo;I think I ran into a theoretical trap. I was not aware of Bc5, which is very strong. Vishy said he had prepared it for somebody else. I should study openings better.&rdquo;</p>
+
+<p>Anand said: &ldquo;It was the same concept [as Rotlevy-Rubinstein].&rdquo;</p>
+
+<p><a href="http://www.telegraph.co.uk/culture/chess/9806562/Anand-crushes-Aronian.html">World number one Magnus Carlsen described the game as &ldquo;mind-blowing and really something special&rdquo;.</a></p>
+
+<h2 id="observations">Observations</h2>
+
+<p>First of all, note how this game shows that computers still have not meant the death of human chess: Aronian, one of the strongest and most brilliant chess players in the world, armed with all the computation power he wanted, did not analyze this line deeply enough with computer aid to see that Black could play the crazy-looking sacrifice <code>15...Bc5</code>. It took <em>human creativity</em>, not brute-force compute power, to find this move. Of course, it took computer analysis to <em>validate</em> this move.</p>
+
+<p>Second, this game means that the move <code>12 Ng5</code> will never again be seen in top level chess, because now we know that Black can achieve at least a draw.</p>
+
+<p><em>Or do we?</em> Is it possible that there is still something overlooked, an improvement for White somewhere? Actually, not really: now that the whole <em>forcing</em> line by Black has been revealed, it is easy for any chess player to zero in on all possibilities and evaluate all of them with computer aid. This entire opening variation starting with Black&rsquo;s &ldquo;threat&rdquo; to play <code>...c5</code> is probably done. (Of course, if it is shown otherwise, I will have another blog post to write.)</p>
+
+<h3 id="pattern-recognition">Pattern recognition</h3>
+
+<p>It is probably critical to note that Anand found his brilliant concept through an analogy with the famous Rotlevy-Rubinstein sacrificial game that basically every chess player sees and learns early on: I remember first reading through that game at age seven from a library book and being totally wowed by it.</p>
+
+<p>This is just a reminder that human chess players still get their edge (in certain circumstances) over brute force computer search, through pattern recognition, as <a href="http://en.wikipedia.org/wiki/Adriaan_de_Groot">de Groot</a> verified half a century ago in his classic study of strong chess players.</p>
+
+<p>Chess is not yet over.</p>
+
+    <div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'franklinchen';
+    var disqus_identifier = 'http:\/\/franklinchen.com\/blog\/2013\/01\/18\/modern-chess-computers-shutting-down-opening-theory-part-2\/';
+    var disqus_title = 'Modern chess: computers shutting down opening theory, part 2';
+    var disqus_url = 'http:\/\/franklinchen.com\/blog\/2013\/01\/18\/modern-chess-computers-shutting-down-opening-theory-part-2\/';
+
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+  </div>
+</div>
+<script src="http://franklinchen.com/js/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+</body>
+</html>
+

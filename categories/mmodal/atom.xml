@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mmodal on Franklin Chen</title>
+    <link>http://franklinchen.com/categories/mmodal/atom/index.xml</link>
+    <description>Recent content in Mmodal on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/categories/mmodal/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Pittsburgh Scala meetup: Introduction to Actors Systems</title>
+      <link>http://franklinchen.com/blog/2013/06/18/pittsburgh-scala-meetup-introduction-to-actors-systems/</link>
+      <pubDate>Tue, 18 Jun 2013 23:10:20 -0400</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/06/18/pittsburgh-scala-meetup-introduction-to-actors-systems/</guid>
+      <description>&lt;p&gt;Josh Suereth spoke again at the latest &lt;a href=&#34;http://www.meetup.com/Pittsburgh-Scala-Meetup/&#34;&gt;Pittsburgh Scala Meetup&lt;/a&gt; &lt;a href=&#34;http://www.meetup.com/Pittsburgh-Scala-Meetup/events/123884682/&#34;&gt;event&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;He gave an introduction to actors using &lt;a href=&#34;http://akka.io/&#34;&gt;Akka&lt;/a&gt;. I&amp;rsquo;d attended a version of his introductory talk over a year ago, actually, when he gave it at the &lt;a href=&#34;../../blog/2012/06/09/report-on-the-first-pittsburgh-techfest-2012/&#34;&gt;first Pittsburgh TechFest&lt;/a&gt;, so it was basically review for me.&lt;/p&gt;
+
+&lt;p&gt;However, the discussion during the presentation and afterwards was what the meetup was really about, and I found that really useful.&lt;/p&gt;
+
+&lt;p&gt;Sadly, I still have not yet written a real actor-based software system yet.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pittsburgh Scala Meetup: my talk &#34;Stop Overusing Regular Expressions!&#34;</title>
+      <link>http://franklinchen.com/blog/2013/05/29/pittsburgh-scala-meetup-my-talk-stop-overusing-regular-expressions/</link>
+      <pubDate>Wed, 29 May 2013 22:37:07 -0400</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/05/29/pittsburgh-scala-meetup-my-talk-stop-overusing-regular-expressions/</guid>
+      <description>&lt;p&gt;So two days ago, &lt;a href=&#34;http://jamieforrest.com/&#34;&gt;Jamie&lt;/a&gt; sent email out to the &lt;a href=&#34;http://www.meetup.com/Pittsburgh-Scala-Meetup/&#34;&gt;Pittsburgh Scala meetup group&lt;/a&gt; saying that our planned speaker Barrett, who was to have talked about his experiences using &lt;a href=&#34;http://akka.io/&#34;&gt;Akka&lt;/a&gt;, was not going to make it, and asked if anyone else could talk about something.&lt;/p&gt;
+
+&lt;h2 id=&#34;i-suddenly-stepped-in-as-a-substitute-speaker&#34;&gt;I suddenly stepped in as a substitute speaker&lt;/h2&gt;
+
+&lt;p&gt;Since I was already supposed to give a talk on Saturday at the 2013 &lt;a href=&#34;http://pghtechfest.com/&#34;&gt;Pittsburgh TechFest&lt;/a&gt;, and was in the process of finishing my work on it, I volunteered to give an early version of my Pittsburgh TechFest talk &lt;a href=&#34;http://www.meetup.com/Pittsburgh-Scala-Meetup/events/115817242/&#34;&gt;at the Scala meetup&lt;/a&gt;, since I actually happen to provide Scala code in the talk. Ha, this meant giving two talks in two successive meetings, because at the last meeting, I gave a &lt;a href=&#34;../../blog/2013/04/11/my-pittsburgh-scala-meetup-talk-on-property-based-testing-using-scalacheck/&#34;&gt;talk on property-based testing using ScalaCheck&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;presentation&#34;&gt;Presentation&lt;/h2&gt;
+
+&lt;p&gt;My presentation was &amp;ldquo;Stop overusing regular expressions!&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;Here is my abstract as submitted to Pittsburgh TechFest:
+&lt;blockquote&gt;
+Regular expressions are very commonly used to process and validate text data. Unfortunately, they suffer from various limitations. I will discuss the limitations and illustrate how using grammars instead can be an improvement. I will make the examples concrete using parsing libraries in a couple of representative languages, although the ideas are language-independent. (I&amp;rsquo;ll try to squeeze in, say, Ruby, Python, JavaScript, Scala.)&lt;/p&gt;
+
+&lt;p&gt;I will emphasize ease of use, since one reason for the overuse of regular expressions is that they are so easy to pull out of one&amp;rsquo;s toolbox.
+&lt;/blockquote&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;attendance&#34;&gt;Attendance&lt;/h3&gt;
+
+&lt;p&gt;Turnout was small: five people other than myself. By the way, we&amp;rsquo;ve discovered unsurprisingly predictable pattern: roughly half the people who RSVP &amp;ldquo;yes&amp;rdquo; on the meetups show up.&lt;/p&gt;
+
+&lt;h3 id=&#34;slides-and-code&#34;&gt;Slides and code&lt;/h3&gt;
+
+&lt;p&gt;The material for the talk &lt;em&gt;as given&lt;/em&gt; is at &lt;a href=&#34;https://github.com/franklinchen/talk-on-overusing-regular-expressions/tree/meetup-talk&#34;&gt;this tag of my GitHub repository&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;My &lt;a href=&#34;https://github.com/franklinchen/talk-on-overusing-regular-expressions&#34;&gt;master branch of the GitHub repository&lt;/a&gt; will always have my latest revisions.&lt;/p&gt;
+
+&lt;h4 id=&#34;update-of-2013-06-01&#34;&gt;(Update of 2013-06-01)&lt;/h4&gt;
+
+&lt;p&gt;I made substantial revisions in the presentation and code before Pittsburgh TechFest. I recommend looking at the latest version. Details in my &lt;a href=&#34;../../blog/2013/06/01/pittsburgh-tech-fest-2013-my-talk-stop-overusing-regular-expressions/&#34;&gt;report on my talk at Pittsburgh TechFest 2013&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src=&#34;http://www.slideshare.net/slideshow/embed_code/22302440&#34; width=&#34;427&#34; height=&#34;356&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px&#34; allowfullscreen webkitallowfullscreen mozallowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;http://www.slideshare.net/FranklinChen/handout-22302440&#34; title=&#34;Stop overusing regular expressions!&#34; target=&#34;_blank&#34;&gt;Stop overusing regular expressions!&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;http://www.slideshare.net/FranklinChen&#34; target=&#34;_blank&#34;&gt;Franklin Chen&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;after&#34;&gt;After&lt;/h2&gt;
+
+&lt;p&gt;There was great feedback after the talk. Some material I went through took quickly, without a smooth transition to relate ideas, and my final page of Scala code that contained dense use of all kinds of operators and idioms was something I stumbled through trying to explain, even as I was feeling that explaining it was a tangent from the main points of the talk.&lt;/p&gt;
+
+&lt;p&gt;There was casual discussion of Scala and other topics after the talk as well. I was pretty excited to hear about how useful Akka has become in solving important problems.&lt;/p&gt;
+
+&lt;h2 id=&#34;thanks&#34;&gt;Thanks&lt;/h2&gt;
+
+&lt;p&gt;Thanks to everyone who came to the talk! I enjoyed sharing my experiences and recommendations, and engaging in discussion about the topics, and getting to make a mental note of things to change in my delivery, slides, and code for Pittsburgh TechFest on Saturday.&lt;/p&gt;
+
+&lt;p&gt;Thanks to &lt;a href=&#34;http://justin-pihony.blogspot.com/&#34;&gt;Justin&lt;/a&gt; for arranging a meeting place for the Pittsburgh Scala meetup at &lt;a href=&#34;http://mmodal.com/&#34;&gt;M*Modal&lt;/a&gt;, and thanks to M*Modal for providing the space!&lt;/p&gt;
+
+&lt;p&gt;And thanks to Jamie again for creating the Pittsburgh Scala meetup group, and &lt;a href=&#34;http://typesafe.com/&#34;&gt;TypeSafe&lt;/a&gt; for being a sponsor now, thanks to &lt;a href=&#34;http://jsuereth.com/&#34;&gt;Josh&lt;/a&gt; (who sadly did not make it to this meeting).&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Global Day of CodeRetreat: Pittsburgh</title>
+      <link>http://franklinchen.com/blog/2011/12/06/global-day-of-coderetreat-pittsburgh/</link>
+      <pubDate>Tue, 06 Dec 2011 21:24:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2011/12/06/global-day-of-coderetreat-pittsburgh/</guid>
+      <description>&lt;p&gt;As I mentioned &lt;a href=&#34;../../blog/2011/12/04/why-i-am-writing-this-week-for-csedweek/&#34;&gt;on Sunday in introducing CSEdWeek&lt;/a&gt;, Saturday was the ambitious &lt;a href=&#34;http://blog.coderetreat.com/global-day-of-coderetreat&#34;&gt;Global Day of CodeRetreat&lt;/a&gt;, whose local &lt;a href=&#34;http://globalcoderetreat2011pittsburgh.eventbrite.com/&#34;&gt;Pittsburgh edition&lt;/a&gt; I participated in, with around 50 of us total. The global event was held simultaneously in 90 cities and had around 2000 attendees. I had a great time, although I was totally exhausted by the time it was over (it lasted from before 9 AM to after 6 PM; what a way to spend a Saturday!).&lt;/p&gt;
+
+&lt;p&gt;What is CodeRetreat and what can you get out of it as a software developer?&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/global-day-of-coderetreat/code-retreat-start.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Pittsburgh CodeRetreat starting&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/global-day-of-coderetreat/code-retreat-start-2.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Pittsburgh CodeRetreat starting&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-coderetreat-concept&#34;&gt;The CodeRetreat concept&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://coderetreat.org/&#34;&gt;CodeRetreat&lt;/a&gt; is the brainchild of &lt;a href=&#34;http://coreyhaines.com/&#34;&gt;Corey Haines&lt;/a&gt;. The motto is &amp;ldquo;Programmers honing their craft together.&amp;rdquo; The basic idea is the programmers gather for an all-day event in which they pair up with different partners for six sessions to work again and again on the same problem, starting from scratch each time. You can read about more &lt;a href=&#34;http://coderetreat.org/about&#34;&gt;formal details&lt;/a&gt;, but I didn&amp;rsquo;t before I went to the event, and in this post I will walk through my experience as a first-time participant.&lt;/p&gt;
+
+&lt;p&gt;If CodeRetreat already sounds weird, it&amp;rsquo;s because it is. I had heard about it earlier from a couple of people I&amp;rsquo;d met at the &lt;a href=&#34;http://www.pghgeekoutday.com/&#34;&gt;Pittsburgh Geek Out Day&lt;/a&gt; sessions who had gone to such events in the past. To be completely honest, the first time I heard about it, it sounded weird. And the second time, after hearing about the session held in Pittsburgh in May when I was out of town, it sounded weird too.  But I&amp;rsquo;m the kind of person who is willing to try weird things if I don&amp;rsquo;t believe they can be actively harmful and have a chance of being very beneficial.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m going to state up front that if you are a programmer and haven&amp;rsquo;t been to a CodeRetreat, and one is happening in your area, you should try it out.&lt;/p&gt;
+
+&lt;h2 id=&#34;morning-introduction&#34;&gt;Morning introduction&lt;/h2&gt;
+
+&lt;p&gt;I arrived before 8:30 AM, in time for taking a seat at a table and doing some socializing over coffee and donuts/bagels.  &lt;strong&gt;Socializing is one of the big reasons to go to an event like this; I had never been in a room of fifty local developers from all kinds of domain and programming language backgrounds.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We were told that our task was to implement &lt;a href=&#34;http://en.wikipedia.org/wiki/Conway&#39;s_Game_of_Life&#34;&gt;Conway&amp;rsquo;s game of life&lt;/a&gt;. Actually, we all already knew that, because we had been informed before the event. To keep myself fresh for the event, I deliberately did no thinking about the problem, working on an algorithm, or coding it. I do not know how many other people took this attitude, and am curious how it affects the nature of participation (I will discuss some speculations later in this post).&lt;/p&gt;
+
+&lt;h2 id=&#34;first-session&#34;&gt;First session&lt;/h2&gt;
+
+&lt;p&gt;I don&amp;rsquo;t remember what specific instructions we were given for our first session, other than to pair up. I may have been too distracted by the socializing at the time. &lt;strong&gt;It would have been useful to have received handouts to guide us.&lt;/strong&gt; I do know that at some point in the morning, before the first or second session, we were directed to look at the whiteboard that had the &amp;ldquo;four rules of simple design&amp;rdquo; written on it:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/global-day-of-coderetreat/four-rules-of-simple-design&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Four rules of simple design&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;four-rules-of-simple-design&#34;&gt;Four rules of simple design&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Passes all tests&lt;/li&gt;
+&lt;li&gt;Clear, expressive, consistent&lt;/li&gt;
+&lt;li&gt;Duplicates no behavior, config&lt;/li&gt;
+&lt;li&gt;Minimal methods, classes, modules&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;my-first-pairing-experience&#34;&gt;My first pairing experience&lt;/h3&gt;
+
+&lt;p&gt;I&amp;rsquo;d heard about &lt;a href=&#34;http://en.wikipedia.org/wiki/Pair_programming&#34;&gt;pair programming&lt;/a&gt; for a decade, in the context of &lt;a href=&#34;http://en.wikipedia.org/wiki/Extreme_programming&#34;&gt;Extreme Programming (XP)&lt;/a&gt;, but had never practiced it. To be honest, as late as a year ago I found the concept very strange and distasteful. Interestingly, by this year, as a result of participating in a lot of &lt;a href=&#34;../../blog/2011/10/16/pittsburgh-software-developer-communities/&#34;&gt;local programmer group meetings&lt;/a&gt;, I became more sociable generally and more amenable to real-time sharing of ideas.  &lt;strong&gt;Part of the reason I decided to go to CodeRetreat was to experience pairing.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;For the first session, I paired with Adam, since I knew him (in fact, I had gotten him to register at the last minute for the event) and we could work together in Java.&lt;/p&gt;
+
+&lt;p&gt;We gathered around his laptop, and spent quite a bit of time (of the allotted 45 minutes per session) sketching out a design for implementing Conway&amp;rsquo;s game of life. First we had to decide what variant of the game to implement: fixed grid with boundary or infinite? We decided on infinite. Then we had to figure out an appropriate algorithm and data representation. We came up with that. We ended up writing scaffolding for a complete application, for initializing the grid, displaying it, computing the next step, etc. Unfortunately, time expired when we were just about to implement the rules for the game.&lt;/p&gt;
+
+&lt;p&gt;Then we were told to &lt;em&gt;delete all our code&lt;/em&gt;. That was kind of shocking. We weren&amp;rsquo;t allowed to just archive it somewhere. We had to delete it right there and then:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/global-day-of-coderetreat/code-deleted&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;observations&#34;&gt;Observations&lt;/h3&gt;
+
+&lt;p&gt;I was disappointed that we didn&amp;rsquo;t have something to show after 45 minutes. I was also shocked about having to delete our work. I felt that the infrastructure we had set up was valuable. I was confused by how what we were doing was contrary with how I would operate in real life on a real programming project. 45 minutes was not enough time to do the kinds of things I really wanted to do.&lt;/p&gt;
+
+&lt;p&gt;Meanwhile, at some point I realized that we had violated the &amp;ldquo;rules of simple design&amp;rdquo;. We had a proliferation of interfaces and in fact we kept changing them in order to be able to compile while nearing something that could actually run.&lt;/p&gt;
+
+&lt;h2 id=&#34;second-session&#34;&gt;Second session&lt;/h2&gt;
+
+&lt;p&gt;I think that for the second session we were instructed to use &lt;a href=&#34;http://en.wikipedia.org/wiki/Test-driven_development&#34;&gt;test-driven development&lt;/a&gt;:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/global-day-of-coderetreat/tdd-cycle.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;I looked for another Java programmer, and paired with Heath, whom I had met earlier in various events but never worked with. We had some ideas based on what we each had done in the first session and got going. This time, we used my laptop, and the first thing I did was start writing tests with &lt;a href=&#34;http://www.junit.org/&#34;&gt;JUnit&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We made good progress, but I felt hampered by Java&amp;rsquo;s verbose syntax, and also I confess to copying and pasting test setup code just because time was short. I ended up feeling conflicted because the time constraints of this event were generating powerful perverse incentives. I think a lot of us kind of liked the idea of getting something working and done, and cut corners throughout the day. This is something that should be addressed by the CodeRetreat organizers and facilitators. After each session, many of us ended up saying, &amp;ldquo;We almost finished!&amp;rdquo; or something like that. I tried to resist having that mentality, but it was difficult given the time limit.&lt;/p&gt;
+
+&lt;h2 id=&#34;third-session&#34;&gt;Third session&lt;/h2&gt;
+
+&lt;p&gt;The final morning session had me pairing with a Python programmer, Joe.&lt;/p&gt;
+
+&lt;p&gt;We were supposed to do &amp;ldquo;ping pong pairing&amp;rdquo;, which I hadn&amp;rsquo;t heard of before. The idea was to take turns being the one writing tests and being the one writing code to pass the tests.&lt;/p&gt;
+
+&lt;p&gt;Joe and I wasted some time getting set up with Dropbox so that we could use both our laptops in order to get concurrency benefits.&lt;/p&gt;
+
+&lt;p&gt;I started out writing tests using &lt;a href=&#34;http://docs.python.org/library/unittest.html&#34;&gt;unittest&lt;/a&gt; and Joe wrote the game implementation. It turned out we never actually ping-ponged, so we violated the intent of the session. We both got into the idea of being able to get something done. In particular, we agreed on a purely functional algorithm, which we knew would be expressible very compactly in Python.&lt;/p&gt;
+
+&lt;p&gt;We ran into concurrency problems because we were perpetually editing source files such that I kept seeing an out of date version of his code and vice versa. &amp;ldquo;Concurrent&amp;rdquo; development using something like Git is one thing, but having one&amp;rsquo;s view of a project change underneath one&amp;rsquo;s feet is another. I don&amp;rsquo;t think the Dropbox idea worked so well, but a number of us that day independently came up with it and spread it around and used it. I now think that&amp;rsquo;s not only cheating, but it even further distances the situation from that of real life software development!&lt;/p&gt;
+
+&lt;p&gt;Also, in the end, Joe had written a lot more code than we had tested, and I had written a lot more tests that were not yet passing. So I think the experiment didn&amp;rsquo;t work out well. We were not keeping to the TDD cycle we were supposed to keep to, in which a test is written, code is written to pass it, then another test written making the code fail, etc.&lt;/p&gt;
+
+&lt;h2 id=&#34;lunch&#34;&gt;Lunch&lt;/h2&gt;
+
+&lt;p&gt;For various reasons, we kept falling behind schedule in the morning, such that it was later than planned when we finally took a lunch break. We each got a nice box lunch, and I took a short nap before resuming more socialization and discussion, which was finally interrupted when we had to begin the afternoon sessions.&lt;/p&gt;
+
+&lt;h2 id=&#34;fourth-session&#34;&gt;Fourth session&lt;/h2&gt;
+
+&lt;p&gt;The fourth session was supposed to be &amp;ldquo;mute ping pong pairing with loophole&amp;rdquo;, in which we were not supposed to communicate except through code, and the one writing code to pass tests was supposed to be fiendish and write code that would pass the existing tests but would clearly not be the correct long-term code for the problem at hand.&lt;/p&gt;
+
+&lt;p&gt;I paired with Chris, using Java, and we did the Dropbox thing. Unfortunately, we spent a large amount of time getting set up. We both had problems connecting to the WiFi for a while. Furthermore, we finally realized that two machines both running IntelliJ IDEA on the same project was a bad idea, because of clobbering of project state. I switched to Emacs, but then we had to rig up a script for me to be able to compile and run stuff he was generating in IntelliJ IDEA. There was just too much setup time wasted.&lt;/p&gt;
+
+&lt;p&gt;Chris took up the test-writing duties and I proceeded to write code. This was my first time during the day to write code to pass someone else&amp;rsquo;s tests, so the experience was quite interesting. Thanks to static typing, the tests Chris wrote forced me to write various classes and methods. I did play the trick of writing degenerate code that passed one of his tests and forced him to write more tests.&lt;/p&gt;
+
+&lt;p&gt;We ran out of time before we got to ping pong the roles. Oops. I did learn something from this &amp;ldquo;no talking about design up front&amp;rdquo; session though: tests can go a long way to drive and constrain the kinds of designs possible to solve a problem. And I was clearly not writing anything extra when focusing purely on passing the existing tests.&lt;/p&gt;
+
+&lt;h2 id=&#34;fifth-session&#34;&gt;Fifth session&lt;/h2&gt;
+
+&lt;p&gt;The fifth session was supposed to be &amp;ldquo;open&amp;rdquo; to however we wanted to go about implementing the game.&lt;/p&gt;
+
+&lt;p&gt;I was paired with Demeng, who uses C#, which I have never used. It was not clear to me what we should do. Somehow, we ended up deciding to have me work on a Haskell implementation of a general design we discussed, so that he could watch and ask me questions and learn some Haskell in the process as I explained to him how to express something we wanted. Given that he was familiar with Python, I felt this was a feasible goal, and it was going quite well, actually. I would write a line of code and explain it to him, or he would tell me something to express, and I would write the code.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, I was still not set up for production Haskell development, e.g., with a testing framework, so we had ad hoc tests.&lt;/p&gt;
+
+&lt;h2 id=&#34;sixth-session&#34;&gt;Sixth session&lt;/h2&gt;
+
+&lt;p&gt;The sixth session had each pair rotate to the right to work on someone&amp;rsquo;s machine and code from the fifth session.&lt;/p&gt;
+
+&lt;p&gt;This was quite traumatic for some of us.&lt;/p&gt;
+
+&lt;p&gt;Demeng and I got moved to a laptop with C# going. He took charge, but I felt somewhat helpless because I had to keep asking about various C# constructs, and also, the original programmers didn&amp;rsquo;t use a testing framework that made it easy to start looking at the existing tests and write more. Even worse, it was getting late and Demeng had to leave, so I was left alone trying to figure out what was going on.&lt;/p&gt;
+
+&lt;p&gt;The pair who ended up with my Haskell code was in even worse shape. They didn&amp;rsquo;t know any Haskell, and were fairly confused and kept on asking me for help. They didn&amp;rsquo;t manage to write any code that compiled. I felt bad about having used Haskell in the fifth session without knowing that it was going to become a new pair&amp;rsquo;s legacy code!&lt;/p&gt;
+
+&lt;h2 id=&#34;what-i-got-out-of-coderetreat&#34;&gt;What I got out of CodeRetreat&lt;/h2&gt;
+
+&lt;p&gt;I&amp;rsquo;m not sure I got what was &amp;ldquo;intended&amp;rdquo; out of CodeRetreat, if the intent was for us to rigorously follow the guidelines and rules we were given. There were too many perverse incentives and little enforcement. Also, the frictions of different languages, IDEs, and operating systems were sometimes significant.&lt;/p&gt;
+
+&lt;p&gt;What I mostly got out of CodeRetreat was value at a meta-level. It was a time to socialize, to meet new people and even work with them. It was a time for many participants who had yet heard about TDD and various design principles to thinking about them and give them a try. It was a time to learn about other languages and development environments, even if only at a shallow level. It was a time for exploring different algorithms and data structures for the same problem.&lt;/p&gt;
+
+&lt;p&gt;The most concrete thing I learned was that pairing can be very stimulating and useful. CodeRetreat has made me think that I can definitely imagine pairing as a regular work practice.&lt;/p&gt;
+
+&lt;h3 id=&#34;education-and-cs-ed-week&#34;&gt;Education and CS Ed Week&lt;/h3&gt;
+
+&lt;p&gt;Although I think less chaos and more guidance would improve CodeRetreat, something about the whole process of getting people together and making them share is in itself a great example of learning and teaching. I&amp;rsquo;d call CodeRetreat an example of &amp;ldquo;education&amp;rdquo;, even though it is far removed from the conventional lecture hall. Nobody leaves CodeRetreat with a huge set of additional facts in the brain, but I&amp;rsquo;m sure many of us leave having experienced a taste of many ideas, shared recommendations to appropriate books and web sites to examine and study, and notions of how to change our actual practices in the real world.&lt;/p&gt;
+
+&lt;p&gt;What does any of this have to do with CS Ed Week? I think there is tension in the educational system between those who believe it should teach fundamental (usually meaning mathematical and abstract) foundations of computing, and those who believe that students should also be prepared for the messiness and realities of the &amp;ldquo;real world&amp;rdquo;. Meanwhile, a lot of the press concerning CS Ed Week focuses on very pragmatic arguments that the US badly needs more appropriately trained employees for computing jobs.&lt;/p&gt;
+
+&lt;p&gt;I don&amp;rsquo;t see how it is possible to really attract more young people into computing without at least helping them understand what a career in computing might entail. That requires some kind of exposure to what we actually do. It&amp;rsquo;s not enough to just teach a middle school student some kid-friendly programming language, or to teach a vocational student Java, or to teach an undergrad the details of Fibonacci heaps. The big picture is missing.&lt;/p&gt;
+
+&lt;p&gt;Events similar to CodeRetreat could play a role in getting a lot of people exposure to the big picture. Furthermore, even many of us who already work in computing do not see the big picture, because it is so easy to get out of date once out of school and working in some narrow niche. So &amp;ldquo;continuing education&amp;rdquo; is just as important as education at K-12 or in undergrad or grad school.&lt;/p&gt;
+
+&lt;h2 id=&#34;concerns-about-coderetreat&#34;&gt;Concerns about CodeRetreat&lt;/h2&gt;
+
+&lt;p&gt;It&amp;rsquo;s not clear to me that Conway&amp;rsquo;s game of life is such a good topic. It&amp;rsquo;s not very much like typical programming tasks. In fact, my mind wandered toward thinking about clever ideas for preprocessing, compilation, parallelization, and memoization that I&amp;rsquo;m not sure I would want to work on with someone for 45 minutes. I brought up this concern at lunch but was told that the task always remains the same because it serves its purpose, it works, and consistency is important.&lt;/p&gt;
+
+&lt;p&gt;There needs to be a way to help us resist perverse incentives to finish an app.&lt;/p&gt;
+
+&lt;p&gt;We should be better prepared to cope with different languages and development environments.&lt;/p&gt;
+
+&lt;h2 id=&#34;will-i-attend-the-next-coderetreat-in-pittsburgh&#34;&gt;Will I attend the next CodeRetreat in Pittsburgh?&lt;/h2&gt;
+
+&lt;p&gt;I have to confess that I do not know whether I will decide it worthwhile to go to another one. It&amp;rsquo;s too early to think about that, although Jim Hurne has already set February 25 as the date for the next one! I still have to fully digest what I experienced, make use of it, and then think about how I would maximally benefit from and contribute to another CodeRetreat.&lt;/p&gt;
+
+&lt;h2 id=&#34;thank-you&#34;&gt;Thank you!&lt;/h2&gt;
+
+&lt;p&gt;Thank you, Vivisimo and M*Modal, for being sponsors and hosts for the event.&lt;/p&gt;
+
+&lt;p&gt;Thanks you, &lt;a href=&#34;http://twitter.com/jthurne&#34;&gt;Jim Hurne&lt;/a&gt;, for putting so much work into not only the Pittsburgh event, but more broadly, the global one.&lt;/p&gt;
+
+&lt;p&gt;Thanks you, &lt;a href=&#34;http://twitter.com/coxandrew&#34;&gt;Andrew Cox&lt;/a&gt; and &lt;a href=&#34;http://twitter.com/josephrkramer&#34;&gt;Joseph Kramer&lt;/a&gt;, for acting as facilitators all day  (Andrew has written up a detail account of his experience on Saturday as a &lt;a href=&#34;http://andrewcox.org/post/13810557640/coderetreat-a-first-time-facilitators-perspective&#34;&gt;facilitator&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Thank you, Adam, Heath, Joe, Chris, Demeng, for pairing with me.&lt;/p&gt;
+
+&lt;p&gt;And thanks to everyone else who was at CodeRetreat.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

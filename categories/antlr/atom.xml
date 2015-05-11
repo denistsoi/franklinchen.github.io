@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Antlr on Franklin Chen</title>
+    <link>http://franklinchen.com/categories/antlr/atom/index.xml</link>
+    <description>Recent content in Antlr on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/categories/antlr/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>How Justice Clarence Thomas uncovered a seven-year-old bug in my computer program</title>
+      <link>http://franklinchen.com/blog/2013/01/18/how-justice-clarence-thomas-uncovered-a-seven-year-old-bug-in-my-computer-program/</link>
+      <pubDate>Fri, 18 Jan 2013 13:55:11 -0500</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/01/18/how-justice-clarence-thomas-uncovered-a-seven-year-old-bug-in-my-computer-program/</guid>
+      <description>&lt;figure &gt;
+    
+        &lt;img src=&#34;http://www.supremecourt.gov/about/justice_pictures/CThomas.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Justice Clarence Thomas&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Today, &lt;a href=&#34;http://en.wikipedia.org/wiki/Clarence_Thomas&#34;&gt;Justice Clarence Thomas&lt;/a&gt; of the &lt;a href=&#34;http://www.supremecourt.gov/&#34;&gt;Supreme Court of the United States&lt;/a&gt; uncovered a seven-year-old bug in a computer program I wrote years ago.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s what happened:&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;oral-arguments-of-scotus-http-www-supremecourt-gov-oral-arguments-oral-arguments-aspx&#34;&gt;&lt;a href=&#34;http://www.supremecourt.gov/oral_arguments/oral_arguments.aspx&#34;&gt;Oral arguments of SCOTUS&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Several years ago, as part of the &lt;a href=&#34;http://talkbank.org/&#34;&gt;TalkBank&lt;/a&gt; project, I wrote a suite of computer programs to clean up, correct, and transform &lt;a href=&#34;http://www.supremecourt.gov/oral_arguments/argument_transcripts.aspx&#34;&gt;SCOTUS oral argument transcripts&lt;/a&gt; into a particular text file format called &lt;a href=&#34;http://childes.psy.cmu.edu/&#34;&gt;CHAT&lt;/a&gt;, to enable analysis and further transformation.&lt;/p&gt;
+
+&lt;p&gt;The CHAT transcripts are aligned (by humans), utterance by utterance, with the available audio files, in order to create a nice way to simultaneously read the text while listening, with the ability to pause, skip to a particular section, etc.&lt;/p&gt;
+
+&lt;h2 id=&#34;example-hamdan-v-rumsfeld-http-en-wikipedia-org-wiki-hamdan-v-rumsfeld&#34;&gt;Example: &lt;a href=&#34;http://en.wikipedia.org/wiki/Hamdan_v._Rumsfeld&#34;&gt;Hamdan v. Rumsfeld&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h3 id=&#34;text-formats&#34;&gt;Text formats&lt;/h3&gt;
+
+&lt;p&gt;SCOTUS provides an oral transcript in &lt;a href=&#34;http://www.supremecourt.gov/oral_arguments/argument_transcripts/05-184.pdf&#34;&gt;PDF format&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;At CMU we have made the &lt;a href=&#34;http://talkbank.org/data-orig/Meeting/SCOTUS/2005/05-184.cha&#34;&gt;CHAT-formatted text&lt;/a&gt; of each transcript available, as well as ZIP archives of &lt;a href=&#34;http://talkbank.org/data/Meeting/SCOTUS/2005.zip&#34;&gt;entire corpora&lt;/a&gt; and the &lt;a href=&#34;http://talkbank.org/data-xml/Meeting/SCOTUS/2005.zip&#34;&gt;equivalent XML&lt;/a&gt; converted automatically from CHAT.&lt;/p&gt;
+
+&lt;h3 id=&#34;media-playback&#34;&gt;Media playback&lt;/h3&gt;
+
+&lt;p&gt;The linked transcripts can be played back in several ways:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Directly from the &lt;a href=&#34;http://talkbank.org/browser/index.php?url=Meeting/SCOTUS/2005/05-184.cha&#34;&gt;CMU site&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Downloading the &lt;a href=&#34;http://talkbank.org/data/Meeting/SCOTUS/2005.zip&#34;&gt;2005 corpus&lt;/a&gt; and running the &lt;a href=&#34;http://childes.psy.cmu.edu/clan/&#34;&gt;CLAN&lt;/a&gt; desktop application on a transcript.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.oyez.org/&#34;&gt;Oyez&lt;/a&gt; provides their own interface, through transformation of the CHAT files, to an &lt;a href=&#34;http://www.oyez.org/cases/2000-2009/2005/2005_05_184&#34;&gt;entire site for each case&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;what-happened-today&#34;&gt;What happened today&lt;/h2&gt;
+
+&lt;p&gt;Today, as I have done on Thursdays or Fridays for years now when SCOTUS is in session, I have converted the oral argument transcripts for this week in order to hand off to the Oyez people for their use.&lt;/p&gt;
+
+&lt;h3 id=&#34;the-conversion-software&#34;&gt;The conversion software&lt;/h3&gt;
+
+&lt;p&gt;The conversion happens in three steps.&lt;/p&gt;
+
+&lt;h4 id=&#34;pre-processing&#34;&gt;Pre-processing&lt;/h4&gt;
+
+&lt;p&gt;The conversion is not fully automatic, because there are always errors of some kind in the transcripts that I correct manually. I wrote a set of twenty-nine separate &lt;a href=&#34;http://www.perl.org/&#34;&gt;Perl&lt;/a&gt; scripts that do a lot of cleanup and checking of transcripts as a pre-processing step.&lt;/p&gt;
+
+&lt;h4 id=&#34;parsing-validation-transformation&#34;&gt;Parsing, validation, transformation&lt;/h4&gt;
+
+&lt;p&gt;The main task of parsing and validation and transformation uses a program written in Java and using the &lt;a href=&#34;http://antlr.org/&#34;&gt;ANTLR&lt;/a&gt; parser generator framework.&lt;/p&gt;
+
+&lt;p&gt;Note: these programs were written several years ago, hence the use of ANTLR version 2 rather than ANTLR 3. Newer projects of mine have used ANTLR 3 (&lt;a href=&#34;http://antlr4.org/&#34;&gt;ANTLR 4&lt;/a&gt; is only now about to hit 4.0).&lt;/p&gt;
+
+&lt;h4 id=&#34;post-processing&#34;&gt;Post-processing&lt;/h4&gt;
+
+&lt;p&gt;A post-processing Perl script is used after the initial CHAT generation, in order to convert numerical and other tokens into the desired spoken form; at the &lt;a href=&#34;http://pghpw.org/ppw2010/&#34;&gt;Pittsburgh Perl Workshop 2010&lt;/a&gt;, I gave a little talk, &lt;a href=&#34;http://pghpw.org/ppw2010/talk/3029&#34;&gt;How do you pronounce &amp;ldquo;07-1191&amp;rdquo;?&lt;/a&gt;, about this part of the project.&lt;/p&gt;
+
+&lt;h4 id=&#34;reliable-legacy-software&#34;&gt;Reliable legacy software&lt;/h4&gt;
+
+&lt;p&gt;No new development has been done on these programs for several years, since as far as can be determined, there have been no remaining bugs in the programs.&lt;/p&gt;
+
+&lt;p&gt;These programs have, to date, successfully generated 3,468 CHAT files that have been validated. In the first year or two, there were bugs quickly found and fixed, and then I don&amp;rsquo;t remember the last time a bug was found.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Until today&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-bug&#34;&gt;The bug&lt;/h2&gt;
+
+&lt;p&gt;The bug came today as I was processing this week&amp;rsquo;s case &lt;a href=&#34;http://www.supremecourt.gov/oral_arguments/argument_transcripts/11-9953.pdf&#34;&gt;11-9953&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I got an error message when my pre-processing phase exited after an error while running the script &lt;code&gt;find-bad-ids.pl&lt;/code&gt;:&lt;/p&gt;
+
+&lt;div class=&#34;highlight&#34; style=&#34;background: #f8f8f8&#34;&gt;&lt;pre style=&#34;line-height: 125%&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span style=&#34;color: #888888&#34;&gt;THOMAS not found&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;I was confused. I looked at the transcript and saw:&lt;/p&gt;
+
+&lt;blockquote&gt;
+JUSTICE SCALIA: And another of his counsel, Mr. Singer -- of the three that he had -- he was a graduate of Harvard law school, wasn&#39;t he?
+
+MS. SIGLER: Yes, Your Honor.
+
+JUSTICE SCALIA: Son of a gun.
+
+JUSTICE THOMAS: Well -- he did not --
+
+(Laughter.)
+
+MS. SIGLER: I would refute that, Justice Thomas.
+
+JUSTICE SOTOMAYOR: Counsel, do you want to define constitutionally adequate counsel? Is it anybody who&#39;s graduated from Harvard and Yale?
+
+(Laughter.)
+&lt;/blockquote&gt;
+
+&lt;p&gt;I was confused about why my script would not recognized Justice Thomas. I looked at the Perl source code, saw where I initialized a table of Justice names, and saw:&lt;/p&gt;
+
+&lt;div class=&#34;highlight&#34; style=&#34;background: #f8f8f8&#34;&gt;&lt;pre style=&#34;line-height: 125%&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span style=&#34;color: #008000; font-weight: bold&#34;&gt;use&lt;/span&gt; &lt;span style=&#34;color: #0000FF; font-weight: bold&#34;&gt;String::Approx&lt;/span&gt; &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;#39;amatch&amp;#39;&lt;/span&gt;;
+
+&lt;span style=&#34;color: #19177C&#34;&gt;$lastNames&lt;/span&gt;{REHNQUIST} &lt;span style=&#34;color: #666666&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;-1&lt;/span&gt;;
+&lt;span style=&#34;color: #19177C&#34;&gt;$lastNames&lt;/span&gt;{STEVENS} &lt;span style=&#34;color: #666666&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;-1&lt;/span&gt;;
+&lt;span style=&#34;color: #408080; font-style: italic&#34;&gt;# ... code omitted&lt;/span&gt;
+
+    &lt;span style=&#34;color: #008000; font-weight: bold&#34;&gt;if&lt;/span&gt; (&lt;span style=&#34;color: #AA22FF; font-weight: bold&#34;&gt;not&lt;/span&gt; &lt;span style=&#34;color: #008000&#34;&gt;exists&lt;/span&gt; &lt;span style=&#34;color: #19177C&#34;&gt;$lastNames&lt;/span&gt;{&lt;span style=&#34;color: #19177C&#34;&gt;$upperLastName&lt;/span&gt;}) {
+      &lt;span style=&#34;color: #008000; font-weight: bold&#34;&gt;if&lt;/span&gt; (&lt;span style=&#34;color: #008000; font-weight: bold&#34;&gt;my&lt;/span&gt; &lt;span style=&#34;color: #19177C&#34;&gt;@matches&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;=&lt;/span&gt; amatch(&lt;span style=&#34;color: #19177C&#34;&gt;$upperLastName&lt;/span&gt;, &lt;span style=&#34;color: #19177C&#34;&gt;@ids&lt;/span&gt;)) {
+        &lt;span style=&#34;color: #008000&#34;&gt;warn&lt;/span&gt; &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;$path:$.: $lastName: guessing to be $matches[0]\n&amp;quot;&lt;/span&gt;;
+      }
+      &lt;span style=&#34;color: #008000; font-weight: bold&#34;&gt;else&lt;/span&gt; {
+        &lt;span style=&#34;color: #008000&#34;&gt;warn&lt;/span&gt; &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;$path:$.: $lastName not found\n&amp;quot;&lt;/span&gt;;
+      }
+    }
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;I had simply forgotten seven years ago to put into the table initialization the following code:&lt;/p&gt;
+
+&lt;div class=&#34;highlight&#34; style=&#34;background: #f8f8f8&#34;&gt;&lt;pre style=&#34;line-height: 125%&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span style=&#34;color: #19177C&#34;&gt;$lastNames&lt;/span&gt;{THOMAS} &lt;span style=&#34;color: #666666&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;-1&lt;/span&gt;;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;And this bug had lain undiscovered for seven years because &lt;a href=&#34;http://www.washingtonpost.com/politics/clarence-thomas-breaks-long-silence-during-supreme-court-oral-arguments/2013/01/14/a7c6023c-5e7a-11e2-9940-6fc488f3fecd_story.html&#34;&gt;Justice Thomas has not spoken in seven years&lt;/a&gt;!&lt;/p&gt;
+
+&lt;h3 id=&#34;how-the-bug-arose&#34;&gt;How the bug arose&lt;/h3&gt;
+
+&lt;p&gt;Justice Thomas did speak in the following transcripts I successfully converted years ago:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;sup&gt;1999&lt;/sup&gt;&amp;frasl;&lt;sub&gt;99&lt;/sub&gt;-478&lt;/li&gt;
+&lt;li&gt;&lt;sup&gt;2000&lt;/sup&gt;&amp;frasl;&lt;sub&gt;99&lt;/sub&gt;-1848&lt;/li&gt;
+&lt;li&gt;&lt;sup&gt;2000&lt;/sup&gt;&amp;frasl;&lt;sub&gt;99&lt;/sub&gt;-1964&lt;/li&gt;
+&lt;li&gt;&lt;sup&gt;2001&lt;/sup&gt;&amp;frasl;&lt;sub&gt;00&lt;/sub&gt;-1770&lt;/li&gt;
+&lt;li&gt;&lt;sup&gt;2001&lt;/sup&gt;&amp;frasl;&lt;sub&gt;01&lt;/sub&gt;-631&lt;/li&gt;
+&lt;li&gt;&lt;sup&gt;2002&lt;/sup&gt;&amp;frasl;&lt;sub&gt;01&lt;/sub&gt;-1107&lt;/li&gt;
+&lt;li&gt;&lt;sup&gt;2002&lt;/sup&gt;&amp;frasl;&lt;sub&gt;02&lt;/sub&gt;-516&lt;/li&gt;
+&lt;li&gt;&lt;sup&gt;2004&lt;/sup&gt;&amp;frasl;&lt;sub&gt;03&lt;/sub&gt;-1164&lt;/li&gt;
+&lt;li&gt;&lt;sup&gt;2005&lt;/sup&gt;&amp;frasl;&lt;sub&gt;04&lt;/sub&gt;-1067&lt;/li&gt;
+&lt;li&gt;&lt;sup&gt;2005&lt;/sup&gt;&amp;frasl;&lt;sub&gt;04&lt;/sub&gt;-1327&lt;/li&gt;
+&lt;li&gt;&lt;sup&gt;2005&lt;/sup&gt;&amp;frasl;&lt;sub&gt;04&lt;/sub&gt;-52&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;What happened was that they were generated before I wrote the &lt;code&gt;find-bad-ids.pl&lt;/code&gt; script. The main program in Java has its own table of justices. The purpose of the pre-processing Perl script is to catch errors earlier than handing off to the Java program. In particular, the use of approximate string matching enables easy correction of typos before ANTLR ever sees the text to parse. Before the pre-processing scripts, the text that arrived at ANTLR often had a lot of systematic errors that were annoying to fix, so I wrote in Perl both a cleanup pre-processing phase and a checking pre-processing phase. They include tests for all kinds of &amp;ldquo;suspicious&amp;rdquo; formatting and tokens and ambiguity that require manual judgment and correction.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;I still don&amp;rsquo;t know why I forgot to put Justice Thomas into the table initialization code in my Perl script seven years ago, but it resulted in a bug that was not detected until today. The lesson: your computer program can have bugs if you didn&amp;rsquo;t get test data that represented all possible situations, including that of Justice Thomas actually speaking during a SCOTUS oral argument!&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

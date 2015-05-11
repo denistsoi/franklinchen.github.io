@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Science on Franklin Chen</title>
+    <link>http://franklinchen.com/categories/science/atom/index.xml</link>
+    <description>Recent content in Science on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/categories/science/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>For real geeks, today is not Pi Day, but Half-Tau Day</title>
+      <link>http://franklinchen.com/blog/2012/03/14/for-real-geeks-today-is-not-pi-day-but-half-tau-day/</link>
+      <pubDate>Wed, 14 Mar 2012 18:52:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/03/14/for-real-geeks-today-is-not-pi-day-but-half-tau-day/</guid>
+      <description>&lt;figure &gt;
+    
+        &lt;img src=&#34;http://s3.amazonaws.com/ksr/projects/39714/photo-full.jpg?1309271700&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Say no to pi&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Today, many of us geeks celebrate &lt;a href=&#34;http://piday.org/&#34;&gt;Pi Day&lt;/a&gt;, because &lt;em&gt;π = 3.1415926535897932384626433&amp;hellip;&lt;/em&gt; is such an important number in math and science. I have to confess that I have never celebrated Pi Day, but it was just last year that I found out there was a movement &lt;em&gt;against&lt;/em&gt; celebrating Pi Day, and advocating the celebration of &lt;a href=&#34;http://tauday.com/&#34;&gt;Tau Day&lt;/a&gt; instead, where the special constant (which a community has chosen to be denoted by the Greek letter &amp;ldquo;tau&amp;rdquo;, &lt;em&gt;τ&lt;/em&gt;) is &lt;em&gt;2π&lt;/em&gt;, which is &lt;em&gt;6.283&amp;hellip;&lt;/em&gt;. Upon examining the evidence briefly, I had immediately agreed that indeed, we should not be celebrating Pi Day, and that therefore, today is simply &lt;a href=&#34;http://halftauday.com/&#34;&gt;Half-Tau Day&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;If this is getting &lt;strong&gt;much&lt;/strong&gt; too geeky for you, feel free to ignore the rest of this blog post. Otherwise, bear with me!&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;my-dark-days-with-π&#34;&gt;My dark days with &lt;em&gt;π&lt;/em&gt;&lt;/h2&gt;
+
+&lt;p&gt;I suffered through the use of &lt;em&gt;π&lt;/em&gt; throughout high school, when we learned trigonometry and all the cosines and sines involved radians from 0 to &lt;em&gt;2π&lt;/em&gt;. Why is a complete revolution around the circle 2 times a constant, rather than being its own constant? And then there was calculus, same story.&lt;/p&gt;
+
+&lt;p&gt;I even got sucked into true geekery, memorizing nearly 50 digits of &lt;em&gt;π&lt;/em&gt; in the summer after I graduated from high school. I still remember what happened: I was in a van traveling from Frankfurt to Jena, East Germany (this was 1987 before the fall of the Berlin Wall) as a member of the US team for the &lt;a href=&#34;http://en.wikipedia.org/wiki/International_Physics_Olympiad&#34;&gt;International Physics Olympiad&lt;/a&gt; when I got really bored, and fellow teammate &lt;a href=&#34;http://www.linkedin.com/pub/bryan-beatty/13/497/581&#34;&gt;Bryan Beatty&lt;/a&gt; wrote out in pencil by memory the first 50 digits of &lt;em&gt;π&lt;/em&gt; into the front cover of a book I had on me, and I proceeded to memorize those digits (no, I did not remember them forever).&lt;/p&gt;
+
+&lt;p&gt;Doing math and physics homework in college, I got burned repeatedly by the extra work of carrying around factors of 2 and canceling them out when doing arithmetic, because of the incorrect definition of the &amp;ldquo;circle constant&amp;rdquo; as &lt;em&gt;π&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;update-of-2013-08-06&#34;&gt;(Update of 2013-08-06)&lt;/h3&gt;
+
+&lt;p&gt;While doing some cleaning, I happened to find in my office the very book that I had on me during the trip and that Bryan wrote into (not the inside front cover, but the inside back cover)!&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/book-with-pi.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/pi.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;update-of-2013-08-22&#34;&gt;(Update of 2013-08-22)&lt;/h3&gt;
+
+&lt;p&gt;I found out that the physicist Hugh Young, the author of the book I have that Bryan wrote &lt;em&gt;π&lt;/em&gt; into, &lt;a href=&#34;http://www.cmu.edu/news/stories/archives/2013/august/aug22_hughyoungobit.html&#34;&gt;just died&lt;/a&gt;. RIP.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-mystery-of-2π&#34;&gt;The mystery of &lt;em&gt;2π&lt;/em&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;2π&lt;/em&gt; keeps on popping up in places other than in high school trigonometry and calculus. As Michael Hartl points out in his excellent &lt;a href=&#34;http://tauday.com/tau-manifesto&#34;&gt;Tau Manifesto&lt;/a&gt;, anyone who has used the Gaussian (&amp;ldquo;bell curve&amp;rdquo;) distribution, through work in probability, statistics, machine learning, etc., sees the square root of &lt;em&gt;2π&lt;/em&gt; all the time, and engineers and physicists see &lt;em&gt;2π&lt;/em&gt; all the time when doing the Fourier transform. Eventually we just learn to immediately think that &lt;em&gt;π&lt;/em&gt; is just half of something. For example, if you&amp;rsquo;re doing an integral only on half the &lt;em&gt;x&lt;/em&gt;-axis, you remember to use &lt;em&gt;π&lt;/em&gt;. This is stupid, carrying around that extra 2 everywhere.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Conceptually&lt;/strong&gt;, the fundamental constant is clearly &lt;em&gt;2π&lt;/em&gt;, not &lt;em&gt;π&lt;/em&gt;. That is the argument we &lt;strong&gt;τ&lt;/strong&gt;-believers accept: our concepts should be mapped to our notation. I strongly recommend that disbelievers watch Hartl&amp;rsquo;s hilarious talk on &lt;em&gt;τ&lt;/em&gt;:&lt;/p&gt;
+
+&lt;iframe width=&#34;420&#34; height=&#34;315&#34; src=&#34;http://www.youtube.com/embed/H69YH5TnNXI&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&#34;the-importance-of-good-notation-for-concepts-and-some-more-examples&#34;&gt;The importance of good notation for concepts, and some more examples&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://terrytao.wordpress.com/advice-on-writing-papers/use-good-notation/&#34;&gt;Good notation&lt;/a&gt; is actually important in communicating ideas, expressing them, thinking them. Good notation reduces mental clutter and pointless work.&lt;/p&gt;
+
+&lt;p&gt;In physics, there is the concept of frequency. It turns out &lt;a href=&#34;http://en.wikipedia.org/wiki/Angular_frequency&#34;&gt;angular frequency&lt;/a&gt; is more convenient to use, hence instead of writing the frequency &lt;em&gt;f&lt;/em&gt;, we prefer to work with &amp;ldquo;omega&amp;rdquo;, which is &lt;em&gt;ω = 2πf&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;As a related example of the usefulness of choosing a proper numerical constant, consider the original &lt;a href=&#34;http://en.wikipedia.org/wiki/Planck_constant&#34;&gt;Planck&amp;rsquo;s constant&lt;/a&gt; &lt;em&gt;h&lt;/em&gt;. Physicists quickly realized that it was much more convenient to use the reduced constant &lt;em&gt;ħ&lt;/em&gt;, which is just &lt;em&gt;h&lt;/em&gt; divided by &lt;em&gt;2π&lt;/em&gt;. When writing equations in quantum mechanics, nobody uses &lt;em&gt;h&lt;/em&gt;. We use &lt;em&gt;ħ&lt;/em&gt; (pronounced &amp;ldquo;h bar&amp;rdquo;). The annoying factor of &lt;em&gt;2π&lt;/em&gt; is removed from the picture. In fact, in my former life as a physics student, most of the work we did involved using &lt;a href=&#34;http://en.wikipedia.org/wiki/Natural_units&#34;&gt;natural units&lt;/a&gt;, in which equations and calculations are simplified by simply setting &lt;em&gt;c&lt;/em&gt; and &lt;em&gt;ħ&lt;/em&gt; to 1.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;OK, we all know that it is completely hopeless to convert the world to using τ instead of π. Just as it is &amp;ldquo;completely hopeless&amp;rdquo; for the United States to become a multi-party political system or abolish the Electoral College.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Nevertheless, &lt;a href=&#34;http://www.math.utah.edu/~palais/pi.html&#34;&gt;π is wrong!&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Oh, and on June 28 this year, you bet I&amp;rsquo;ll be celebrating Tau Day.&lt;/p&gt;
+
+&lt;p&gt;P.S. Please don&amp;rsquo;t take any of this too seriously: I don&amp;rsquo;t!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>CMU Fitness Challenge keynote lecture by Vonda Wright: Stay strong at any age</title>
+      <link>http://franklinchen.com/blog/2012/01/20/cmu-fitness-challenge-keynote-lecture-by-vonda-wright-stay-strong-at-any-age/</link>
+      <pubDate>Fri, 20 Jan 2012 22:32:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/01/20/cmu-fitness-challenge-keynote-lecture-by-vonda-wright-stay-strong-at-any-age/</guid>
+      <description>&lt;figure &gt;
+    
+        &lt;img src=&#34;http://athletics.cmu.edu/athletics/directory/headshots/vonda_wright_hs.jpg?max_height=200&amp;amp;max_width=150&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Dr. Vonda Wright&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;I attended a &lt;a href=&#34;http://athletics.cmu.edu/generalnews/2011-2012/vondawright&#34;&gt;much-anticipated talk at CMU&lt;/a&gt; by &lt;a href=&#34;http://www.drvondawright.com/&#34;&gt;Dr. Vonda Wright&lt;/a&gt; of UPMC in McConomy Auditorium, given to the CMU community as a keynote lecture for the CMU Fitness Challenge I participate in.&lt;/p&gt;
+
+&lt;p&gt;&amp;ldquo;Dr. Wright is an orthopedic surgeon at UPMC and an author and researcher. She focuses on the master athlete and living a healthy lifestyle, having conducted extensive research on the benefits of remaining active throughout one&amp;rsquo;s lifetime.&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;It was a fascinating and inspiring talk! Dr. Wright was a high-energy speaker, very passionate and direct. She spoke on many topics, actually, not just about physical exercise. And she spoke frankly about personal experiences in her life.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;focus-on-over-40&#34;&gt;Focus on over 40&lt;/h2&gt;
+
+&lt;p&gt;Dr. Wright was particularly speaking to the older staff members in attendance. She argued that there was no reason one should not remain strong and vital well into what some might consider old age. She indicated that research showed that significant decline does not need to kick in until the &amp;ldquo;cutoff&amp;rdquo; point of age 70, which is when it seems that even very health people start a significant downward slope.&lt;/p&gt;
+
+&lt;p&gt;She said that as someone going on age 45 (she certainly looked a lot more fit than most people that age!), she learned that there is not enough research on active people over age 40, because of a bias in favor of studying young athletes. The result is that people have made wrong assumptions about what it is like to grow older.&lt;/p&gt;
+
+&lt;p&gt;Her favorite phrase seems to be &amp;ldquo;bash your bones&amp;rdquo;: she emphasized that weight-bearing exercise is particularly important and stimulating for older people. She showed photos of how inactivity can result in &amp;ldquo;fat in muscle&amp;rdquo; (yuck).&lt;/p&gt;
+
+&lt;h2 id=&#34;business-principles&#34;&gt;Business principles&lt;/h2&gt;
+
+&lt;p&gt;One interesting perspective she wanted to share was that she urged us to apply &amp;ldquo;business principles&amp;rdquo; to our personal health: after all, if we pay a lot of attention to our careers and jobs, how come we don&amp;rsquo;t treat our own health as a serious job too? Furthermore, it&amp;rsquo;s not just our physical health, narrowly construed: she asked, &amp;ldquo;What do we really want?&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;Without plans, she said, we are just laying bricks, not building a movement. Whatever we take seriously, we must think ahead five to ten years, and do nothing that is not part of the goal. We must learn to say &amp;ldquo;No&amp;rdquo; to what is unimportant. If we focus on what is most important to us, &amp;ldquo;everything else falls into place&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;She told a personal story illustrating what she meant. She had an opportunity at one point in her career to just continue working hard and become chair of the department. But she realized she didn&amp;rsquo;t want to be chair and followed her own path instead, choosing what interested her.&lt;/p&gt;
+
+&lt;h2 id=&#34;books&#34;&gt;Books&lt;/h2&gt;
+
+&lt;p&gt;Dr. Wright openly promoted &lt;a href=&#34;http://www.drvondawright.com/fitness-author/&#34;&gt;her books&lt;/a&gt; throughout the talk. I made a note to look them up at the library.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;I thought it was great that CMU had Dr. Vonda Wright come give a talk for the CMU Fitness Challenge this year. Many ideas she shared, I found inspirational. And as a master athlete herself, she is a great role model.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>How to respond if a child asks you a science question you don&#39;t know the answer to</title>
+      <link>http://franklinchen.com/blog/2012/01/19/how-to-respond-if-a-child-asks-you-a-science-question-you-dont-know-the-answer-to/</link>
+      <pubDate>Thu, 19 Jan 2012 22:28:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/01/19/how-to-respond-if-a-child-asks-you-a-science-question-you-dont-know-the-answer-to/</guid>
+      <description>&lt;p&gt;Today, I was very sad to see a news article &lt;a href=&#34;http://www.bbc.co.uk/news/education-16612100&#34;&gt;&lt;strong&gt;Children&amp;rsquo;s science questions &amp;ldquo;stump many parents&amp;rdquo;&lt;/strong&gt;&lt;/a&gt;. I was &lt;em&gt;not&lt;/em&gt; sad for any of the following reasons:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Oh no, kids these days are receiving a poor science education!&lt;/li&gt;
+&lt;li&gt;Oh no, the parents received a poor science education when they were young!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I was sad because of many of the parents&amp;rsquo; reactions to their children&amp;rsquo;s questions:&lt;/p&gt;
+
+&lt;blockquote&gt;
+...16% told their children to ask their partner and a fifth made up a response or pretended that no one knew the answer.
+&lt;/blockquote&gt;
+
+&lt;p&gt;What are some better alternative responses?&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-first-step-to-acting-like-a-scientist-not-knowing&#34;&gt;The first step to acting like a scientist: not knowing&lt;/h2&gt;
+
+&lt;p&gt;One obvious response that is already by itself profoundly adequate would be to say &lt;strong&gt;&amp;ldquo;I don&amp;rsquo;t know&amp;rdquo;&lt;/strong&gt;. So easy, so honest, yet many parents refused to use this response. But a parent who replied even in only this minimalist way would be teaching some very important lessons about science:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Science begins with &lt;em&gt;not knowing&lt;/em&gt;.&lt;/li&gt;
+&lt;li&gt;Science is about being &lt;em&gt;honest&lt;/em&gt; about reality and about oneself; it is about deliberately restricting one&amp;rsquo;s ego, recognizing one&amp;rsquo;s limitations, and acknowledging ignorance.&lt;/li&gt;
+&lt;li&gt;Science proceeds with &lt;em&gt;asking&lt;/em&gt;. The child by asking should be commended for asking, rather than implicitly punished or evaded for possibly embarrassing the parent.&lt;/li&gt;
+&lt;li&gt;Science proceeds with &lt;em&gt;trying&lt;/em&gt; to find out.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;the-second-step-to-acting-like-a-scientist-looking-for-an-answer&#34;&gt;The second step to acting like a scientist: looking for an answer&lt;/h2&gt;
+
+&lt;p&gt;Regarding trying to find out, here is another quote from the article:&lt;/p&gt;
+
+&lt;blockquote&gt;
+About a third of parents said they actively researched answers to their children&#39;s inquiries. 
+&lt;/blockquote&gt;
+
+&lt;p&gt;It would be possible to stop here and praise these parents.&lt;/p&gt;
+
+&lt;p&gt;But as phrased, this response is not satisfactory either:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Science is not about looking up an &lt;em&gt;answer&lt;/em&gt; somewhere, as one might look up a baseball statistic.&lt;/li&gt;
+&lt;li&gt;How involved were the children in obtaining the &amp;ldquo;answer&amp;rdquo;? Did the parents fetch the &amp;ldquo;answer&amp;rdquo; and hand it over? Or did the children get actively involved in looking for the answer?&lt;/li&gt;
+&lt;li&gt;Science is not about sitting back and getting an answer from someone.&lt;/li&gt;
+&lt;li&gt;Science is not really about answers at all. It is a &lt;em&gt;mindset&lt;/em&gt;, a &lt;em&gt;process&lt;/em&gt; of looking for an answer, and looking for ways to evaluate possible answers for adequacy and some measure of confidence. It is above all a &lt;em&gt;way of life&lt;/em&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;the-third-step-to-acting-like-a-scientist-being-wrong&#34;&gt;The third step to acting like a scientist: being wrong&lt;/h2&gt;
+
+&lt;p&gt;Sometimes one settles on an answer, and then later decides it is unsatisfactory. What then?&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Science is not about being right.&lt;/li&gt;
+&lt;li&gt;Science is often about saying &lt;strong&gt;&amp;ldquo;I was wrong&amp;rdquo;&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;the-third-step-to-acting-like-a-scientist-uncertainty&#34;&gt;The third step to acting like a scientist: uncertainty&lt;/h2&gt;
+
+&lt;p&gt;Eventually even the notion of &amp;ldquo;answer&amp;rdquo; must be considered flawed. We are never &lt;em&gt;certain&lt;/em&gt; about our theories. Our theories are based on &lt;em&gt;models&lt;/em&gt; that we invent. The models can have explanatory or predictive power or practical applications, but they themselves are transient. The scientific models from two centuries ago are very different from the scientific models of thirty years ago, and the scientific models of today are very different from the scientific models of thirty years ago. What we believed to be the &amp;ldquo;answer&amp;rdquo; thirty years ago looks today to have been an error.&lt;/p&gt;
+
+&lt;p&gt;And unless we believe that we are near the &amp;ldquo;end of science&amp;rdquo; (I do not believe this for a moment), we must also take into consideration the plausibility that thirty years from now, we will laugh at the currently favored scientific models of today the way we laugh at the hair and clothing styles of the 1980s.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Science is about saying &lt;strong&gt;&amp;ldquo;I am not sure&amp;rdquo;&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;The best thing that everyone could learn about science, whether one is young or old, child or parent, is what its true nature is: a way of thinking, a way of acting, a way of living. It is not about &amp;ldquo;facts&amp;rdquo; to accumulate, or jargon to memorize.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>I don&#39;t know whether to get a flu shot</title>
+      <link>http://franklinchen.com/blog/2011/11/02/i-dont-know-whether-to-get-a-flu-shot/</link>
+      <pubDate>Wed, 02 Nov 2011 21:33:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2011/11/02/i-dont-know-whether-to-get-a-flu-shot/</guid>
+      <description>&lt;p&gt;Every fall I am bombarded by reminders to get a flu shot. The reminders come from where I work, as well as from my health insurance provider. I never know whether I should really get one.&lt;/p&gt;
+
+&lt;p&gt;Today, I got my flu shot after all. Why? And why my resistance?&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/franklin-flu-shot-2011.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Franklin getting flu shot at CMU in 2011&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;why-not-get-flu-vaccine&#34;&gt;Why not get flu vaccine?&lt;/h2&gt;
+
+&lt;p&gt;There are various reasons &amp;ldquo;why not&amp;rdquo;.&lt;/p&gt;
+
+&lt;h3 id=&#34;my-own-history&#34;&gt;My own history&lt;/h3&gt;
+
+&lt;p&gt;One is that in the short term, I find them painful and have had bad experiences in which my whole day was ruined because of the effects. Sometimes my arm hurts for two or three days straight. Sometimes I have trouble lifting my arm. Sometimes I feel really tired for some reason.&lt;/p&gt;
+
+&lt;p&gt;More annoyingly, some years I seem to have gotten downright sick after getting the shot.&lt;/p&gt;
+
+&lt;p&gt;Finally, there have been times when I got a flu vaccine in the fall but came down with some flu in February or March anyway. How effective is the vaccine anyway? Do we really know?&lt;/p&gt;
+
+&lt;h3 id=&#34;other-people-s-history&#34;&gt;Other people&amp;rsquo;s history&lt;/h3&gt;
+
+&lt;p&gt;I&amp;rsquo;m not the only one who has gotten sick or otherwise felt bad for a day or two after a flu vaccine. I personally know quite a few people have reported such side effects. In fact, my own mother got really ill once after a flu shot.&lt;/p&gt;
+
+&lt;h3 id=&#34;alternative-warnings&#34;&gt;&amp;ldquo;Alternative&amp;rdquo; warnings&lt;/h3&gt;
+
+&lt;p&gt;Just as with &lt;a href=&#34;http://en.wikipedia.org/wiki/MMR_vaccine_controversy&#34;&gt;childhood vaccines&lt;/a&gt; and &lt;a href=&#34;http://en.wikipedia.org/wiki/Water_fluoridation_controversy&#34;&gt;water fluoridation&lt;/a&gt; and any number of other public health measures, flu vaccines are a popular topic among some &amp;ldquo;alternative&amp;rdquo; circles that warn against how horrible these mandatory or recommended measures are. I never summarily dismiss alternative points of view in favor of automatic acceptance of mainstream wisdom, but it can be time-consuming and confusing to try to look into different points of view while not really being an expert in the area and therefore not necessarily being able to detect inaccuracies and falsehoods.&lt;/p&gt;
+
+&lt;h2 id=&#34;why-get-flu-vaccine&#34;&gt;Why get flu vaccine?&lt;/h2&gt;
+
+&lt;p&gt;The short answer to &amp;ldquo;why follow the official recommendations&amp;rdquo; is that experts have presumably studied the pros and cons, the possible beneficial effects and negative effects, and a cost-benefit analysis for the public as a whole makes the treatment worthwhile.&lt;/p&gt;
+
+&lt;p&gt;Opponents of vaccines and other public health measures often look just at the possible negatives without weighing the positives (assuming they do not straight away engage in conspiracy theories about the motives of government agencies). In particular, they often worry exclusively about their own health or that of their children rather than that of society as a whole. So opposition often takes a philosophical or political tone that is completely independent of the concrete issue at hand. Unfortunately, when it comes to matters such as vaccination, effectiveness depends on everyone making the same choice. If vaccination is effective, then by not getting vaccinated, I risk getting sick and spreading the illness to others. My decision does not affect just me, but other people also.&lt;/p&gt;
+
+&lt;h2 id=&#34;today-s-experience&#34;&gt;Today&amp;rsquo;s experience&lt;/h2&gt;
+
+&lt;p&gt;CMU had been offering free flu shots for several weeks now, and each time I chose not to get one. But today was the CMU health and benefits fair, so I was going to that event anyway, and flu shots were being given there, and therefore there was a higher chance I would go for it.&lt;/p&gt;
+
+&lt;p&gt;It turned out that today was a nice, sunny day, and I was feeling pretty good, so I got the shot after all. If it had been a crappy day, I would not have. That&amp;rsquo;s what it came down to.&lt;/p&gt;
+
+&lt;p&gt;I tried an experiment, hoping to avoid feeling as bad as I have in the past. I exercised before and after shot, with the idea that better circulation would enable me to better deal with the shot. Nevertheless, by afternoon, I was strangely feeling pretty bad.  Very sleepy, and feverish.  That lasted an hour, then I was OK again. My arm is sore, but not horribly so. Hopefully I&amp;rsquo;ll be back to normal in a day.&lt;/p&gt;
+
+&lt;p&gt;We&amp;rsquo;ll see whether I get flu this winter. Either way, I can&amp;rsquo;t draw any conclusion from the result!&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

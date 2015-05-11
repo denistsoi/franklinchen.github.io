@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Javascript on Franklin Chen</title>
+    <link>http://franklinchen.com/categories/javascript/atom/index.xml</link>
+    <description>Recent content in Javascript on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/categories/javascript/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Pittsburgh Tech Fest 2013: my talk &#34;Stop Overusing Regular Expressions!&#34;</title>
+      <link>http://franklinchen.com/blog/2013/06/01/pittsburgh-tech-fest-2013-my-talk-stop-overusing-regular-expressions/</link>
+      <pubDate>Sat, 01 Jun 2013 23:48:22 -0400</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/06/01/pittsburgh-tech-fest-2013-my-talk-stop-overusing-regular-expressions/</guid>
+      <description>&lt;p&gt;At Pittsburgh TechFest 2013 (&lt;a href=&#34;../../blog/2013/06/01/report-on-the-second-pittsburgh-techfest-2013/&#34;&gt;full report here&lt;/a&gt;), I gave a talk for a one-hour time slot before lunch.&lt;/p&gt;
+
+&lt;p&gt;This was &lt;a href=&#34;../../blog/2013/01/18/how-justice-clarence-thomas-uncovered-a-seven-year-old-bug-in-my-computer-program/&#34;&gt;my first talk at a conference in three years&lt;/a&gt;, and only my second at a conference in my life! I feel that I have much improved as a presenter since then.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s how it went.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;presentation&#34;&gt;Presentation&lt;/h2&gt;
+
+&lt;p&gt;My presentation was &amp;ldquo;Stop overusing regular expressions!&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;Here is my abstract as submitted to Pittsburgh TechFest:
+&lt;blockquote&gt;
+Regular expressions are very commonly used to process and validate text data. Unfortunately, they suffer from various limitations. I will discuss the limitations and illustrate how using grammars instead can be an improvement. I will make the examples concrete using parsing libraries in a couple of representative languages, although the ideas are language-independent. (I&amp;rsquo;ll try to squeeze in, say, Ruby, Python, JavaScript, Scala.)&lt;/p&gt;
+
+&lt;p&gt;I will emphasize ease of use, since one reason for the overuse of regular expressions is that they are so easy to pull out of one&amp;rsquo;s toolbox.
+&lt;/blockquote&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;revised&#34;&gt;Revised&lt;/h3&gt;
+
+&lt;p&gt;Just on Wednesday, &lt;a href=&#34;../../blog/2013/05/29/pittsburgh-scala-meetup-my-talk-stop-overusing-regular-expressions/&#34;&gt;I had given a version of this talk at the Pittsburgh Scala meetup&lt;/a&gt;, but revised it considerably based on feedback and my own impressions.&lt;/p&gt;
+
+&lt;h3 id=&#34;slides-and-code&#34;&gt;Slides and code&lt;/h3&gt;
+
+&lt;p&gt;The material for the talk &lt;em&gt;as given&lt;/em&gt; is at &lt;a href=&#34;https://github.com/franklinchen/talk-on-overusing-regular-expressions/tree/pitt-tech-fest-talk&#34;&gt;this tag of my GitHub repository&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;My &lt;a href=&#34;https://github.com/franklinchen/talk-on-overusing-regular-expressions&#34;&gt;master branch of the GitHub repository&lt;/a&gt; will always have my latest revisions. I expect continue to add more code in different languages, for example.&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src=&#34;http://www.slideshare.net/slideshow/embed_code/22302440&#34; width=&#34;427&#34; height=&#34;356&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px&#34; allowfullscreen webkitallowfullscreen mozallowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;http://www.slideshare.net/FranklinChen/handout-22302440&#34; title=&#34;Stop overusing regular expressions!&#34; target=&#34;_blank&#34;&gt;Stop overusing regular expressions!&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;http://www.slideshare.net/FranklinChen&#34; target=&#34;_blank&#34;&gt;Franklin Chen&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;after&#34;&gt;After&lt;/h2&gt;
+
+&lt;p&gt;I tried to minimize discussion of the final Scala code slide, which in one page creates a full parser for &amp;ldquo;toy JSON&amp;rdquo; into a tree of Scala objects, because I intended mainly to give this as proof of concept, not to get into explaining the funny operator overloading that makes the parser so concise, but this seemed to be an issue anyway. I now lean toward thinking that in the future, I need to create a parallel slide that replaces the operators with standard method names instead.&lt;/p&gt;
+
+&lt;p&gt;Why did I use Scala for example code anyway? A major reason is that it is indeed very concise, and yet fully statically typed. I could fit all each of my Scala code examples on a single slide. I did that with Ruby also, up to a point. Writing the classes in Ruby (or Python, Java, etc.) would have taken pages of boilerplate, as opposed to using Scala&amp;rsquo;s case classes. (Of course I wasn&amp;rsquo;t going to use ML or Haskell at all in the talk for this audience.)&lt;/p&gt;
+
+&lt;p&gt;I was surprised to learn how quickly I had finished my presentation (around 45 minutes), given that I had actually added many slides after my Pittsburgh Scala version (which had lasted around the same time). I think it could have been because of the following:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Having practiced the talk once, I was more fluent and stumbled less, and explained some things better.&lt;/li&gt;
+&lt;li&gt;My additional transitional and motivational slides were clarifying, and reduced confusion that I had to address in my earlier version.&lt;/li&gt;
+&lt;li&gt;I still get the impression that when I speak, I get overexcited and talk too quickly!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;attendance&#34;&gt;Attendance&lt;/h3&gt;
+
+&lt;p&gt;Turnout was small, around eight people, but enthusiastic. Half the people I already knew, but the other half were new to me.&lt;/p&gt;
+
+&lt;p&gt;I have some hypotheses about why attendance was relatively low (I think most of the talks I went to had 20-40 people):&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Several people actually told me they would have attended my talk, but they too were giving talks or there were others that just happened to have higher priority.&lt;/li&gt;
+&lt;li&gt;The topic is more specialized and yet abstract than others: conceptual rather than devoted to &amp;ldquo;how to use library X in language Y&amp;rdquo; or &amp;ldquo;how to improve your career.&lt;/li&gt;
+&lt;li&gt;I have no name recognition outside of Pittsburgh, and I submitted a completely non-self-promotional, vague bio; I will definitely fix this in all future talk submissions anywhere.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;thanks&#34;&gt;Thanks&lt;/h2&gt;
+
+&lt;p&gt;Thanks to everyone who came to the talk and asked questions and got discussion going! I appreciate having had the opportunity to share my experiences and recommendations at a conference.&lt;/p&gt;
+
+&lt;p&gt;Ha, I was happy that Josh was able to come to my talk, since he missed the Pittsburgh Scala meetup on Wednesday!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pittsburgh Scala Meetup: my talk &#34;Stop Overusing Regular Expressions!&#34;</title>
+      <link>http://franklinchen.com/blog/2013/05/29/pittsburgh-scala-meetup-my-talk-stop-overusing-regular-expressions/</link>
+      <pubDate>Wed, 29 May 2013 22:37:07 -0400</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/05/29/pittsburgh-scala-meetup-my-talk-stop-overusing-regular-expressions/</guid>
+      <description>&lt;p&gt;So two days ago, &lt;a href=&#34;http://jamieforrest.com/&#34;&gt;Jamie&lt;/a&gt; sent email out to the &lt;a href=&#34;http://www.meetup.com/Pittsburgh-Scala-Meetup/&#34;&gt;Pittsburgh Scala meetup group&lt;/a&gt; saying that our planned speaker Barrett, who was to have talked about his experiences using &lt;a href=&#34;http://akka.io/&#34;&gt;Akka&lt;/a&gt;, was not going to make it, and asked if anyone else could talk about something.&lt;/p&gt;
+
+&lt;h2 id=&#34;i-suddenly-stepped-in-as-a-substitute-speaker&#34;&gt;I suddenly stepped in as a substitute speaker&lt;/h2&gt;
+
+&lt;p&gt;Since I was already supposed to give a talk on Saturday at the 2013 &lt;a href=&#34;http://pghtechfest.com/&#34;&gt;Pittsburgh TechFest&lt;/a&gt;, and was in the process of finishing my work on it, I volunteered to give an early version of my Pittsburgh TechFest talk &lt;a href=&#34;http://www.meetup.com/Pittsburgh-Scala-Meetup/events/115817242/&#34;&gt;at the Scala meetup&lt;/a&gt;, since I actually happen to provide Scala code in the talk. Ha, this meant giving two talks in two successive meetings, because at the last meeting, I gave a &lt;a href=&#34;../../blog/2013/04/11/my-pittsburgh-scala-meetup-talk-on-property-based-testing-using-scalacheck/&#34;&gt;talk on property-based testing using ScalaCheck&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;presentation&#34;&gt;Presentation&lt;/h2&gt;
+
+&lt;p&gt;My presentation was &amp;ldquo;Stop overusing regular expressions!&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;Here is my abstract as submitted to Pittsburgh TechFest:
+&lt;blockquote&gt;
+Regular expressions are very commonly used to process and validate text data. Unfortunately, they suffer from various limitations. I will discuss the limitations and illustrate how using grammars instead can be an improvement. I will make the examples concrete using parsing libraries in a couple of representative languages, although the ideas are language-independent. (I&amp;rsquo;ll try to squeeze in, say, Ruby, Python, JavaScript, Scala.)&lt;/p&gt;
+
+&lt;p&gt;I will emphasize ease of use, since one reason for the overuse of regular expressions is that they are so easy to pull out of one&amp;rsquo;s toolbox.
+&lt;/blockquote&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;attendance&#34;&gt;Attendance&lt;/h3&gt;
+
+&lt;p&gt;Turnout was small: five people other than myself. By the way, we&amp;rsquo;ve discovered unsurprisingly predictable pattern: roughly half the people who RSVP &amp;ldquo;yes&amp;rdquo; on the meetups show up.&lt;/p&gt;
+
+&lt;h3 id=&#34;slides-and-code&#34;&gt;Slides and code&lt;/h3&gt;
+
+&lt;p&gt;The material for the talk &lt;em&gt;as given&lt;/em&gt; is at &lt;a href=&#34;https://github.com/franklinchen/talk-on-overusing-regular-expressions/tree/meetup-talk&#34;&gt;this tag of my GitHub repository&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;My &lt;a href=&#34;https://github.com/franklinchen/talk-on-overusing-regular-expressions&#34;&gt;master branch of the GitHub repository&lt;/a&gt; will always have my latest revisions.&lt;/p&gt;
+
+&lt;h4 id=&#34;update-of-2013-06-01&#34;&gt;(Update of 2013-06-01)&lt;/h4&gt;
+
+&lt;p&gt;I made substantial revisions in the presentation and code before Pittsburgh TechFest. I recommend looking at the latest version. Details in my &lt;a href=&#34;../../blog/2013/06/01/pittsburgh-tech-fest-2013-my-talk-stop-overusing-regular-expressions/&#34;&gt;report on my talk at Pittsburgh TechFest 2013&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src=&#34;http://www.slideshare.net/slideshow/embed_code/22302440&#34; width=&#34;427&#34; height=&#34;356&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px&#34; allowfullscreen webkitallowfullscreen mozallowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;http://www.slideshare.net/FranklinChen/handout-22302440&#34; title=&#34;Stop overusing regular expressions!&#34; target=&#34;_blank&#34;&gt;Stop overusing regular expressions!&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;http://www.slideshare.net/FranklinChen&#34; target=&#34;_blank&#34;&gt;Franklin Chen&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;after&#34;&gt;After&lt;/h2&gt;
+
+&lt;p&gt;There was great feedback after the talk. Some material I went through took quickly, without a smooth transition to relate ideas, and my final page of Scala code that contained dense use of all kinds of operators and idioms was something I stumbled through trying to explain, even as I was feeling that explaining it was a tangent from the main points of the talk.&lt;/p&gt;
+
+&lt;p&gt;There was casual discussion of Scala and other topics after the talk as well. I was pretty excited to hear about how useful Akka has become in solving important problems.&lt;/p&gt;
+
+&lt;h2 id=&#34;thanks&#34;&gt;Thanks&lt;/h2&gt;
+
+&lt;p&gt;Thanks to everyone who came to the talk! I enjoyed sharing my experiences and recommendations, and engaging in discussion about the topics, and getting to make a mental note of things to change in my delivery, slides, and code for Pittsburgh TechFest on Saturday.&lt;/p&gt;
+
+&lt;p&gt;Thanks to &lt;a href=&#34;http://justin-pihony.blogspot.com/&#34;&gt;Justin&lt;/a&gt; for arranging a meeting place for the Pittsburgh Scala meetup at &lt;a href=&#34;http://mmodal.com/&#34;&gt;M*Modal&lt;/a&gt;, and thanks to M*Modal for providing the space!&lt;/p&gt;
+
+&lt;p&gt;And thanks to Jamie again for creating the Pittsburgh Scala meetup group, and &lt;a href=&#34;http://typesafe.com/&#34;&gt;TypeSafe&lt;/a&gt; for being a sponsor now, thanks to &lt;a href=&#34;http://jsuereth.com/&#34;&gt;Josh&lt;/a&gt; (who sadly did not make it to this meeting).&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Attending my first Google I/O Extended: Pittsburgh</title>
+      <link>http://franklinchen.com/blog/2012/06/27/attending-my-first-google-io-extended-pittsburgh/</link>
+      <pubDate>Wed, 27 Jun 2012 22:43:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/06/27/attending-my-first-google-io-extended-pittsburgh/</guid>
+      <description>&lt;p&gt;Today, I finally entered Google Pittsburgh&amp;rsquo;s office in Bakery Square as a visitor for the first time, thanks to being told by a friend about an event called &lt;a href=&#34;http://www.eventbrite.com/e/google-io-extended-pittsburgh-registration-3630312362&#34;&gt;&amp;ldquo;Google I/O Extended: Pittsburgh&amp;rdquo;&lt;/a&gt;, which he sent me an invitation to. I decided to attend, out of curiosity.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;tour&#34;&gt;Tour&lt;/h2&gt;
+
+&lt;p&gt;Having never been inside Google Pittsburgh before, of course as soon as I arrived I joined a group of people for a tour led by Jen Crowley. Impressive space. Very clean. High-quality food available, and labeled in jars. Ha, it was mentioned that the chef is building a chicken coop.&lt;/p&gt;
+
+&lt;p&gt;There is a massage room, shower, meditation room, music room. They clearly want employees to feel &amp;ldquo;at home&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;The work space is &amp;ldquo;open plan&amp;rdquo;. I saw dogs running around.&lt;/p&gt;
+
+&lt;p&gt;I was surprised to see a lot of people wearing Google shirts. I guess there must be corporate pride here?&lt;/p&gt;
+
+&lt;h2 id=&#34;brunch&#34;&gt;Brunch&lt;/h2&gt;
+
+&lt;p&gt;After the tour, I checked out the brunch they had for us. Fancy stuff. I socialized with other attendees I recognized from the local programming community, as well as other people I hadn&amp;rsquo;t seen in over a decade, like old CMU classmates of mine.&lt;/p&gt;
+
+&lt;h2 id=&#34;welcome&#34;&gt;Welcome&lt;/h2&gt;
+
+&lt;p&gt;Andrew Moore gave a welcome speech. I hadn&amp;rsquo;t seen him in around 15 years, since I was in graduate school in computer science at CMU and he was a professor there, before Google existed at all. I was interested in what he had to say about what Google Pittsburgh was up to. He said Google Shopping will be big (I don&amp;rsquo;t think I&amp;rsquo;ve ever used it!). He also emphasized that Google Pittsburgh focuses on systems: monitoring and debugging all off Google&amp;rsquo;s infrastructure. They&amp;rsquo;re also working on NLP stuff and he said they have a need for people who understand the political and philosophical aspects of interpretation. They&amp;rsquo;re also interested in Agile and Scrum expertise for managing projects.&lt;/p&gt;
+
+&lt;p&gt;I noticed that there were around 120 people seated for his talk, and maybe 5 were female. I always find these lopsided ratios jarring, since where I work females actually outnumber males.&lt;/p&gt;
+
+&lt;h2 id=&#34;keynote-live-streamed&#34;&gt;Keynote, live-streamed&lt;/h2&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/VuC0i4xTyrI&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;The keynote went on and on. There was talk of Android, Jelly Bean, Google Play, and a lot of other stuff.&lt;/p&gt;
+
+&lt;p&gt;The freakiest thing to me was the demonstration of Glass. At first, it was entertaining to see the skydivers do their thing, but then when it came to someone monitoring and capturing a baby, all I could think of was &lt;a href=&#34;http://en.wikipedia.org/wiki/The_Truman_Show&#34;&gt;&amp;ldquo;The Truman Show&amp;rdquo;&lt;/a&gt;. I do not want to live in a brave new world in which we are all wearing Glass.&lt;/p&gt;
+
+&lt;p&gt;Overall, nothing in the keynote actually interested me. I&amp;rsquo;m &amp;ldquo;behind&amp;rdquo; as far as tech culture is concerned, although three months ago I actually bought &lt;a href=&#34;../../blog/2012/03/22/paradox-i-will-observe-the-national-day-of-unplugging-but-just-bought-my-first-smartphone-this-week/&#34;&gt;my first smartphone&lt;/a&gt;, an Android phone, purely because my old dumb phone died.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-web-platforms-cutting-edge&#34;&gt;The Web Platforms Cutting Edge&lt;/h2&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/2txPYQOWBtg&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;It was very crowded, and the session was running late already, because of technical difficulties in the room we were in. We eventually switched rooms.&lt;/p&gt;
+
+&lt;p&gt;The presentation was about a &amp;ldquo;shadow DOM&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;I mentally checked out because the state of Web development saddens me. There has to be a better way.&lt;/p&gt;
+
+&lt;h2 id=&#34;reception-beer-tasting-and-food-pairings&#34;&gt;Reception, beer tasting and food pairings&lt;/h2&gt;
+
+&lt;p&gt;There was fancy food.&lt;/p&gt;
+
+&lt;h2 id=&#34;live-session-production-at-scale-topics-in-warehouse-scale-computing&#34;&gt;Live session: Production at Scale: Topics in Warehouse Scale Computing&lt;/h2&gt;
+
+&lt;p&gt;It was already 4:30 PM by the time I finally got to attend a live session.&lt;/p&gt;
+
+&lt;p&gt;Todd Underwood emphasized the vastness of scale that creates unique challenges for Google that don&amp;rsquo;t exist elsewhere. Site reliability engineering (SRE) is tough. He talked about how even extremely rare events such as undetectable RAM errors have to be accounted for in fault tolerance. I came away with an appreciation for the magnitude of the task.&lt;/p&gt;
+
+&lt;h2 id=&#34;live-session-another-look-at-scale-designing-software-to-fit-its-dimensions&#34;&gt;Live Session: Another Look at Scale: Designing Software to Fit its Dimensions&lt;/h2&gt;
+
+&lt;p&gt;Joe McClain emphasized that decisions have to consider the business case, not just the technical case. Everything from developer scaling to code life span is monitored and analyzed.&lt;/p&gt;
+
+&lt;h2 id=&#34;paul-irish-on-tooling&#34;&gt;Paul Irish on tooling&lt;/h2&gt;
+
+&lt;p&gt;One thing lacking in Web development right now has been a standardized work flow. I see people doing a lot of ad hoc project setups, builds, etc., for managing HTML, CSS, and JavaScript. I was happy to see Paul Irish demonstrating the new tool &lt;a href=&#34;http://yeoman.io/&#34;&gt;Yeoman&lt;/a&gt;. It looked pretty promising.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;It was definitely interesting to check out what Google&amp;rsquo;s been up to, and I appreciate the opportunity to take a look inside the Pittsburgh office, physically and technically.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Reflections on 2011</title>
+      <link>http://franklinchen.com/blog/2011/12/31/reflections-on-2011/</link>
+      <pubDate>Sat, 31 Dec 2011 18:52:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2011/12/31/reflections-on-2011/</guid>
+      <description>&lt;p&gt;I reflect on my year of 2011 as it ends. Since I did not start blogging until September, I go into more detail of what happened before then.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;january&#34;&gt;January&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Abby and I continued our project of massively reorganizing our home, a project that began when she moved in during summer 2010. We were very grateful that Abby&amp;rsquo;s father helped out a lot.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I continued getting rid of a lot of stuff, including another eighteen boxes of my books, as I became an initially reluctant &lt;a href=&#34;../../categories/minimalism/&#34;&gt;minimalist&lt;/a&gt;. We sold or gave away a &lt;em&gt;huge&lt;/em&gt; number of various of belongings.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby started cooking much more than in the past, and we enjoyed trying new dishes of her making.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I enjoyed some light cross-country skiing in the winter, using the &lt;a href=&#34;http://en.wikipedia.org/wiki/Schenley_Park_Golf_Course&#34;&gt;Bob O&amp;rsquo;Connor Golf Course at Schenley Park&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I began a weekly Zen &lt;a href=&#34;../../categories/meditation/&#34;&gt;meditation&lt;/a&gt; session offered at Carnegie Mellon University.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I started moving very gradually toward a &lt;a href=&#34;../../categories/paleo/&#34;&gt;paleo&lt;/a&gt; diet and exercise routine, and immediately experienced benefits. &amp;ldquo;The Paleo Solution&amp;rdquo; by &lt;a href=&#34;http://robbwolf.com/&#34;&gt;Robb Wolf&lt;/a&gt; was very useful.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I started learning modern &lt;a href=&#34;../../categories/javascript/&#34;&gt;JavaScript&lt;/a&gt; for a new project at work, getting into client-side Web development. As part of that, I learned &lt;a href=&#34;../../categories/jquery/&#34;&gt;jQuery&lt;/a&gt; through a free &lt;a href=&#34;http://p2pu.org/&#34;&gt;P2PU&lt;/a&gt; course and used it in the project.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I started using &lt;a href=&#34;http://en.wikipedia.org/wiki/XQuery&#34;&gt;XQuery&lt;/a&gt; at work to process XML in a clear and concise way. I had used XSLT in the past, but it was very unpleasant.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I decided, for various reasons, to stop writing new &lt;a href=&#34;../../categories/perl/&#34;&gt;Perl&lt;/a&gt; scripts and move to &lt;a href=&#34;../../categories/python/&#34;&gt;Python&lt;/a&gt; instead.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I started playing in my final (and disastrous) &lt;a href=&#34;../../categories/chess/&#34;&gt;chess&lt;/a&gt; tournament, the Pittsburgh Chess Club Championship (which I had won in 2006 and 2007).&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;february&#34;&gt;February&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Pittsburgh was all about the Steelers, and I went to a &lt;a href=&#34;http://en.wikipedia.org/wiki/Super_Bowl_XLV&#34;&gt;Super Bowl&lt;/a&gt; party for the first time, but we lost!&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I read &amp;ldquo;The Art of Non-Conformity&amp;rdquo; by &lt;a href=&#34;http://chrisguillebeau.com/&#34;&gt;Chris Guillebeau&lt;/a&gt; and found it so inspiring that I decided to take action and start making big changes to my life, in my own way.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;One big change: I quit playing chess, cold turkey, after having been unenthusiastic about it for months already (and playing correspondingly poorly). When the passion and enjoyment are gone, there is no point in hanging onto something just because it has been such an important part of my life for years.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;After years of not playing any music at all, I started playing &lt;a href=&#34;../../categories/recorder/&#34;&gt;recorder&lt;/a&gt;, and vowed to play every single day if possible. Ten months later, I am still playing recorder.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I began attending a lot of &lt;a href=&#34;../../blog/2011/10/16/pittsburgh-software-developer-communities/&#34;&gt;local software developer group meetings&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I started learning the &lt;a href=&#34;../../categories/scala/&#34;&gt;Scala&lt;/a&gt; programming language and decided to use it on a small project.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;march&#34;&gt;March&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Abby and I continued our meditation practice at CMU, and went to our first mini-&lt;a href=&#34;http://en.wikipedia.org/wiki/Sesshin&#34;&gt;sesshin&lt;/a&gt; on a Saturday.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I continued practicing recorder every single day, and joined the &lt;a href=&#34;http://www.andrew.cmu.edu/user/lukas/pcars/Welcome.html&#34;&gt;local chapter of the American Recorder Society&lt;/a&gt;. It was very exciting to meet new people and to get into a wide range of music I had never really listened to or played.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I saw a video of &lt;a href=&#34;http://jakeshimabukuro.com/&#34;&gt;Jake Shimabukuro&lt;/a&gt; playing &lt;a href=&#34;../../categories/ukulele/&#34;&gt;ukulele&lt;/a&gt; so beautifully that I was inspired to buy a ukulele and start learning to play it. (Unfortunately, it would turn out that time constraints caused me not to pursue ukulele far. This will change in 2012.)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I got pulled into the Ruby programming language because it is well-supported on Mac OS and it is easy to install libraries and tools, of which there are many that are quite useful.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I went to &lt;a href=&#34;http://farmtotablepa.com/&#34;&gt;Farm to Table&lt;/a&gt; in Pittsburgh, and after that, Abby started moving toward paleo eating, with even better results than my smaller experiments earlier.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I started our &lt;a href=&#34;../../categories/hiking/&#34;&gt;hiking&lt;/a&gt; season in the spring. Hiking is special to us; it was one of our first shared activities (after initially meeting during salsa dancing), and one we return to again and again. When there is no calendar conflict and the weather is acceptable, we like hiking almost every weekend from spring through fall.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;{% img /images/steves-soup-hike-2011-03-26.jpg Abby in front of me at Steve&amp;rsquo;s Soup Hike %}&lt;/p&gt;
+
+&lt;h2 id=&#34;april&#34;&gt;April&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;I started wearing &lt;a href=&#34;../../categories/fivefingers/&#34;&gt;Vibram FiveFingers shoes&lt;/a&gt; almost all the time, whether walking or running (but not yet for hiking).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I went to &lt;a href=&#34;../../categories/yoga/&#34;&gt;yoga&lt;/a&gt; at the &lt;a href=&#34;http://www.clpgh.org/locations/squirrelhill/&#34;&gt;Squirrel Hill Library&lt;/a&gt; for the first time.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;may&#34;&gt;May&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;I began my experiment with barefoot running, in observation of &lt;a href=&#34;http://barefootrunners.org/ibrd&#34;&gt;International Barefoot Running Day&lt;/a&gt;. I started walking around barefoot at work, ignoring the confused looks or comments of colleagues. (I still go barefoot at work.)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I bought a &lt;a href=&#34;../../categories/melodica/&#34;&gt;melodica&lt;/a&gt;, inspired by the amazing performances of &lt;a href=&#34;http://jnote.org/&#34;&gt;James Howard Young&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I took a little vacation, spending some days in New York visiting Nathaniel and Yael and their baby. I finally fulfilled my dream (from before marriage) of taking Abby to Coney Island to walk on the boardwalk and at the beach, eating pizza, and riding the Wonder Wheel, just as I once did when I was six years old.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I started doing research into major home renovations for the summer.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I visited my parents, and my sister Linda and her husband Andre also visited, with my mother throwing a delayed reception at home for the both of us who had gotten married in the past two years. Abby got to meet my parents&amp;rsquo; friends, finally. And I went running with my brother-in-law for the first time! Also, I took Abby to the little park in Ann Arbor where as a too-shy teenager I used to go and sit on a particular bench and wish I were sitting with my dream girl. Mission accomplished!&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;june&#34;&gt;June&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;John and I did a tough 19-mile training hike on the &lt;a href=&#34;http://www.rachelcarsontrails.org/rct&#34;&gt;Rachel Carson Trail&lt;/a&gt; and decided we&amp;rsquo;d had enough of that trail, and I decided I was probably not going to do the 35-mile &lt;a href=&#34;http://www.rachelcarsontrails.org/rct/challenge&#34;&gt;Rachel Carson Trail Challenge&lt;/a&gt; again (having completed it three times in the past).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;{% img /images/rachel-carson-trail-2011-06-05.jpg John on Rachel Carson Trail %}&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Abby started wearing Vibram FiveFingers more and more for walking and running, and even walking barefoot on the streets (something I had not yet seriously done myself at the time).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I stupidly threw out my back during exercise, and my back took weeks to fully recover (I could still run and hike, but not lift weights). Never again, I hope. I felt like a 90-year-old when my back was hurting constantly.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;We started some home improvement projects.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;july&#34;&gt;July&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;I started gravitating to almost exclusively body weight &lt;a href=&#34;../../categories/strength-training/&#34;&gt;strength training&lt;/a&gt;, as a reaction to my having injured my back earlier.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I went kayaking on the &lt;a href=&#34;http://en.wikipedia.org/wiki/Kiskiminetas_River&#34;&gt;Kiski River&lt;/a&gt; with &amp;ldquo;Fireman Steve&amp;rdquo; and the kayaking gang.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;On a longish hike, Abby surprised me by wearing Vibram FiveFingers shoes and they worked great for her, making her much faster and less sore, and I made a note to ditch my trail running shoes (which I had been using for years for hiking) in favor of FiveFingers for my next hike (which I did, and I have not gone back to regular shoes for hiking!).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I finally took Abby to &lt;a href=&#34;http://www.sandhillberries.com/&#34;&gt;Sand Hill Berries&lt;/a&gt; for tasty pie for the first time, always having intended to take her there when dating, but never having been in the vicinity with her then.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Major home renovation finally began, after much research, and we got electrical upgrade, insulation, and bathroom demolition and rebuilding. Very disruptive to our lives for weeks!&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I did another mini-&lt;a href=&#34;http://en.wikipedia.org/wiki/Sesshin&#34;&gt;sesshin&lt;/a&gt; at CMU.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;After a lifetime of almost never drinking coffee (average of maybe three or four cups a year), I became an avid espresso fan (one small cup a day) as a result of my boss getting a machine at work.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I started doing more barefoot running.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;august&#34;&gt;August&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Bathroom renovation done at last.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I were regularly hiking in Vibram FiveFingers.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;{% img /images/abby-franklin-soup-hike-vibram.jpg Abby and Franklin on Steve&amp;rsquo;s Soup Hike part 3 wearing Vibram FiveFingers %}&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Abby joined me to run in her first ever 5K race, &lt;a href=&#34;http://www.runaroundthesquare.com/&#34;&gt;Run Around the Square&lt;/a&gt; in Regent Square (mostly on the trails of Frick Park). What a special day! This race was my first ever 5K race when I started running in races in 2000.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I started to learn &lt;a href=&#34;../../categories/accordion/&#34;&gt;accordion&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;september&#34;&gt;September&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;I started running to work two or three times a week.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I ran in the &lt;a href=&#34;http://www.cs.cmu.edu/~kalp/PGR/&#34;&gt;CMU SCS Pretty Good Race 5K&lt;/a&gt; together, her second 5K race.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I went to &lt;a href=&#34;http://podcamppittsburgh.com/&#34;&gt;PodCamp Pittsburgh&lt;/a&gt;, and after that, &lt;a href=&#34;../../blog/2011/09/22/starting-a-new-web-site/&#34;&gt;I started this blog&lt;/a&gt; and proceeded to maintain a habit of posting every day (a routine that has been modified since then).&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;october&#34;&gt;October&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;I started expanding beyond just writing for my blog, and began contributing to the Web through &lt;a href=&#34;http://twitter.com/franklinchen&#34;&gt;my Twitter account&lt;/a&gt; as well as writing comments on other people&amp;rsquo;s blog posts.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I started taking Stanford online classes: &lt;a href=&#34;http://www.ml-class.org/&#34;&gt;Machine Learning&lt;/a&gt; and &lt;a href=&#34;http://www.db-class.org/&#34;&gt;Introduction to Databases&lt;/a&gt;. (Blog posts on my experiences to appear soon.) Unfortunately, as a result of the extra time commitment, October through December were quite hectic for me.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I continued to move more toward a paleo diet.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;november&#34;&gt;November&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;I started playing &lt;a href=&#34;../../categories/flute/&#34;&gt;flute&lt;/a&gt; again.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Probably because of fatigue and a compromised immune system, I came down with a skin ailment that I got serious treatment for, but it took almost two months to completely clear up and I spent over a month truly miserable &lt;sup&gt;24&lt;/sup&gt;&amp;frasl;&lt;sub&gt;7&lt;/sub&gt;!&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;december&#34;&gt;December&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;I started playing Baroque flute.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I started playing tin whistle.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I prepared for and made it through two music performances, playing recorder and flute (and almost tin whistle).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I ended the year completely exhausted, on the verge of getting sick, and took a long break from blogging.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;The final week, Abby and I were on a hectic travel schedule that involved meeting up with her parents, my parents, her sister Carrie, Carrie&amp;rsquo;s boyfriend Alain, Alain&amp;rsquo;s parents, Alain&amp;rsquo;s extended family, my sister Linda, and her husband Andre. I am grateful that we got to meet up with so many people (and arranged for various of the individuals to meet up with various of the others!), but the trip was quite stressful to me, because I was not physically or emotionally prepared for it at all. (I will report later on what I learned from the experience.)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;2011 was quite a year for me and Abby. We had many changes and adventures in our lives: our home, our diet, our exercise, our outdoors activities, travel. For me, the biggest changes were quitting chess, starting music practice and performance, throwing myself into blogging and tweeting, getting more and more active in local software developer groups, applying new (to me) development tools at work, and in the fall, taking Stanford online courses in computer science.&lt;/p&gt;
+
+&lt;p&gt;Although I ended the year in poor shape, because of being overbooked, I am very excited by how many positive changes took place. I have an entirely new set of plans and priorities to formulate soon for 2012 in collaboration with Abby, in hope of learning from the lessons of my failures and omissions of 2011, and restoring balance.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The real reason for the CoffeeScript/JavaScript flame war</title>
+      <link>http://franklinchen.com/blog/2011/11/06/the-real-reason-for-the-coffeescript-slash-javascript-flame-war/</link>
+      <pubDate>Sun, 06 Nov 2011 20:07:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2011/11/06/the-real-reason-for-the-coffeescript-slash-javascript-flame-war/</guid>
+      <description>&lt;p&gt;I have been slightly (but not entirely) surprised by the current flame war over the programming languages &lt;a href=&#34;http://www.w2lessons.com/2011/11/coffeescript-means-giving-up-on.html&#34;&gt;CoffeeScript versus JavaScript&lt;/a&gt;. Michael Woloszynowicz finds the rise of &lt;a href=&#34;http://coffeescript.org/&#34;&gt;CoffeeScript&lt;/a&gt; &amp;ldquo;alarming&amp;rdquo;. He gives possible reasons people are interested in CoffeeScript and possible pitfalls in choosing to use it rather than straight JavaScript.&lt;/p&gt;
+
+&lt;p&gt;I believe that all that is happening is simply a repeat of history, with a small twist.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;c&#34;&gt;C&lt;/h2&gt;
+
+&lt;p&gt;Once upon a time, there was a guy named &lt;a href=&#34;http://www2.research.att.com/~bs/&#34;&gt;Bjarne Stroustrup&lt;/a&gt; who found himself frustrated with the C programming language. Not only were there various flaws in C (some small, some large), but also it was frustrating writing, in a standard way, object-oriented programs. To be sure, there were very well-known idioms for writing C programs in an object-oriented way. But repeatedly using idioms, manually, can get frustrating.&lt;/p&gt;
+
+&lt;h3 id=&#34;c-with-classes-then-c&#34;&gt;C with Classes, then C++&lt;/h3&gt;
+
+&lt;p&gt;Stroustrup created a compiler for an extension of C called &amp;ldquo;C with Classes&amp;rdquo;. The compiler was called &lt;code&gt;cfront&lt;/code&gt; and compiled the new language to C, which was then simply compiled with any suitable C compiler. Eventually, the extension of C was called C++.&lt;/p&gt;
+
+&lt;p&gt;Stroustrup took care to design the language so that syntactically, almost every valid C program was also a valid C++ program.&lt;/p&gt;
+
+&lt;p&gt;C++ became very popular, although to this day there are many programmers who have refused to use C++, for a variety of reasons. Many of those reasons are the reasons Woloszynowicz gives for being skeptical of CoffeeScript. For example, even though C++ is &amp;ldquo;higher level&amp;rdquo;, in actuality you have to know the low-level aspects of C in order to really understand C++. Also, there are programmers who don&amp;rsquo;t use C++ very well and are better off having stuck to C longer, to have mastered the C parts of C++ before going for all the advanced features of inheritance and templates and exceptions, etc.&lt;/p&gt;
+
+&lt;h3 id=&#34;example-of-c-versus-c&#34;&gt;Example of C versus C++&lt;/h3&gt;
+
+&lt;p&gt;To illustrate how C++ can be considered an extension of C, compare the handwritten implementation of inheritance in C with that provided by C++:&lt;/p&gt;
+
+&lt;script src=&#34;https://gist.github.com/1344060.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;(For amusement, see how knowing the low levels of C can enable &lt;a href=&#34;../../blog/2011/10/04/a-blast-from-the-past-c-plus-plus-abuse/&#34;&gt;doing abusive things in C++&lt;/a&gt;.)&lt;/p&gt;
+
+&lt;h2 id=&#34;javascript-to-coffeescript&#34;&gt;JavaScript to CoffeeScript&lt;/h2&gt;
+
+&lt;p&gt;The debate over JavaScript versus CoffeeScript has some similarities to the debate between C and C++. CoffeeScript does some things to &amp;ldquo;fix&amp;rdquo; issues in JavaScript:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Like C++, CoffeeScript changes some matters in variable scoping from the original language.&lt;/li&gt;
+&lt;li&gt;Like C++, CoffeeScript introduces &amp;ldquo;classes&amp;rdquo; and expands them to a very idiomatic pattern that one could have written out by hand in the original language (in the case of CoffeeScript, classes just implement one way to use JavaScript&amp;rsquo;s prototypes).&lt;/li&gt;
+&lt;li&gt;Like C++, CoffeeScript makes some changes with function definitions. C++ introduced a new syntax for parameters, while CoffeeScript is more radical and forces the programmer to define functions in lambda-style syntax.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;the-power-of-syntax&#34;&gt;The power of syntax&lt;/h2&gt;
+
+&lt;p&gt;However, I believe that the real reason for the uproar over JavaScript versus CoffeeScript is that CoffeeScript makes huge syntax changes to the original language.&lt;/p&gt;
+
+&lt;p&gt;C++ made as few syntax changes as possible (until rather recently, for this year&amp;rsquo;s &lt;a href=&#34;http://en.wikipedia.org/wiki/C%2B%2B11&#34;&gt;C++11 standard&lt;/a&gt;; but I believe C will borrow some syntax changes back, as it has done in the past, e.g., with ANSI function prototypes and &lt;code&gt;bool&lt;/code&gt;). In fact, Stroustrup would have liked to change C&amp;rsquo;s type declarator syntax, but didn&amp;rsquo;t because of his mission to change C syntax as little as possible.&lt;/p&gt;
+
+&lt;p&gt;Ironically, semantically CoffeeScript is much more of a &amp;ldquo;preprocessor&amp;rdquo; to JavaScript than C++ is to C. I don&amp;rsquo;t really consider CoffeeScript a new language, whereas I do consider C++ to be a new language.&lt;/p&gt;
+
+&lt;p&gt;I think the uneasiness some feel toward CoffeeScript, as well as the excitement others feel, comes from the &lt;em&gt;illusion&lt;/em&gt; that CoffeeScript is something new and hip and radical.&lt;/p&gt;
+
+&lt;p&gt;Imagine if CoffeeScript had been designed to be maximally compatible syntactically with JavaScript. I don&amp;rsquo;t think there would be as much of an uproar if CoffeeScript had the appearance of being a simple extension of JavaScript, keeping all the braces and parentheses and only introducing extra syntax that was unobtrusive. In fact, suppose the language were then called JavaScript++, with the promise that except for things like variable scope semantics, most valid JavaScript programs were also valid JavaScript++ programs.&lt;/p&gt;
+
+&lt;p&gt;I believe (from anecdotal praise I have heard from converts) that the excitement over syntax is responsible for much enthusiasm for CoffeeScript, and I suppose I do share Woloszynowicz&amp;rsquo;s concern that those looking for shiny new syntax might miss that anyone who is a serious CoffeeScript programmer &lt;em&gt;must&lt;/em&gt; master the underlying JavaScript and cannot consider CoffeeScript a standalone distinct higher-level language.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;I don&amp;rsquo;t see any special reason to be alarmed by the rise of CoffeeScript. Some people will enjoy and use well the features of it, and others will botch it up. But there is no threat to JavaScript. If anything, because CoffeeScript has such an obvious translation into JavaScript, CoffeeScript can only solidify the JavaScript world by bringing in extra enthusiasm from those who use it effectively.&lt;/p&gt;
+
+&lt;h3 id=&#34;update-of-2013-02-12&#34;&gt;(Update of 2013-02-12)&lt;/h3&gt;
+
+&lt;p&gt;Martin Fowler wrote about JavaScript and CoffeeScript in the context of what he calls the phenomenon of &lt;a href=&#34;http://martinfowler.com/bliki/TransparentCompilation.html&#34;&gt;transparent compilation&lt;/a&gt;. He says that personally, he prefers to write CoffeeScript.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pittsburgh software developer communities</title>
+      <link>http://franklinchen.com/blog/2011/10/16/pittsburgh-software-developer-communities/</link>
+      <pubDate>Sun, 16 Oct 2011 19:38:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2011/10/16/pittsburgh-software-developer-communities/</guid>
+      <description>&lt;p&gt;In the past couple of years, I started to get involved in various local Pittsburgh groups of people who are committed enough to the art and science of software development to actually meet up outside of work to share ideas and experiences. Now and then, there has been talk of bringing the different groups together for special events, to share even more (especially outside the boundaries of particular computer language communities), so I felt it was a good time for me to compile a list of the different groups whose meetings I have attended or at least have heard about.&lt;/p&gt;
+
+&lt;p&gt;I welcome additions and corrections as well as further discussion of this list. I will update the list upon feedback.&lt;/p&gt;
+
+&lt;p&gt;(Last update: 2011-10-18)&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;ruby&#34;&gt;Ruby&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://pghrb.org/&#34;&gt;Pittsburgh Ruby group&lt;/a&gt; is quite active. It has been meeting the first Thursday of every month at Vivisimo.&lt;/p&gt;
+
+&lt;p&gt;I have been attending this more as I finally started getting into Ruby in 2010.&lt;/p&gt;
+
+&lt;h2 id=&#34;python&#34;&gt;Python&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://pghpython.org/&#34;&gt;Pittsburgh Python group&lt;/a&gt; is also active. It has been meeting the fourth Wednesday of every month at Vivisimo.&lt;/p&gt;
+
+&lt;p&gt;There is a lot of use of Python for scientific computing, such as natural language processing and machine learning, among this community.&lt;/p&gt;
+
+&lt;p&gt;I do not attend this group&amp;rsquo;s meetings regularly because I currently only use Python to maintain an &lt;a href=&#34;http://www.scons.org/&#34;&gt;SCons&lt;/a&gt; script at work.&lt;/p&gt;
+
+&lt;h2 id=&#34;javascript&#34;&gt;JavaScript&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://www.meetup.com/Pittsburgh-JavaScript-Developers/&#34;&gt;Pittsburgh JavaScript meetup group&lt;/a&gt; only came into being in June 2011, thanks to &lt;a href=&#34;http://www.fusioncube.net/&#34;&gt;Steve Brownlee&lt;/a&gt;, who hosts the meetup at Smith Micro up in McCandless.&lt;/p&gt;
+
+&lt;p&gt;The group has been pretty active, despite the location.&lt;/p&gt;
+
+&lt;h2 id=&#34;jquery&#34;&gt;jQuery&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://www.jburgh.com/&#34;&gt;Pittsburgh jQuery user group&lt;/a&gt; is scheduled to meet once a month at &lt;a href=&#34;http://www.hackpittsburgh.org/&#34;&gt;HackPittsburgh&lt;/a&gt; in Uptown. However, I get the impression that it has not been meeting very regularly. I attended the meeting in March and another in August, but otherwise, have had to miss a meeting or there was none.&lt;/p&gt;
+
+&lt;p&gt;There has been some talk of merging with the JavaScript meetup group.&lt;/p&gt;
+
+&lt;h2 id=&#34;java&#34;&gt;Java&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://java.net/projects/pittjug/&#34;&gt;Pittsburgh Java User Group&lt;/a&gt; has been around for quite some time. It meets at the &lt;a href=&#34;http://www.pghtech.org/&#34;&gt;Pittsburgh Technology Council&lt;/a&gt; on Second Avenue. When there are meetings, they are announced on the mailing list and posted at the &lt;a href=&#34;http://www.pghtech.org/events/default.aspx&#34;&gt;pghtech calendar&lt;/a&gt; where one should register before attending.&lt;/p&gt;
+
+&lt;p&gt;PittJUG was more active in the past: I was attending fairly regularly in 2009 and 2010, but now meetings have been infrequent.&lt;/p&gt;
+
+&lt;p&gt;However, an experiment is about to begin to revitalize the group: on October 25, we&amp;rsquo;ll be trying an &lt;a href=&#34;http://www.pghgeekoutday.com/home/open-spaces&#34;&gt;Open Spaces&lt;/a&gt; format to take place of the old format that seemed to result in long presentations by people.&lt;/p&gt;
+
+&lt;h2 id=&#34;pittsburgh-geek-out-day&#34;&gt;Pittsburgh Geek Out Day&lt;/h2&gt;
+
+&lt;p&gt;Speaking of &lt;a href=&#34;http://www.pghgeekoutday.com/home/open-spaces&#34;&gt;Open Spaces&lt;/a&gt;, &lt;a href=&#34;http://www.pghgeekoutday.com/&#34;&gt;Pittsburgh Geek Out Day&lt;/a&gt; was created specifically to use that very format. There have been three &amp;ldquo;geek out day&amp;rdquo; meetings so far, in April, May, and August 2011. The first two involved blocking out a Saturday morning each, and the second was on a Wednesday evening, and I attended all three.&lt;/p&gt;
+
+&lt;p&gt;I am sold on the virtues of Open Spaces. The format of long presentations by people is, I think, usually quite inefficient of everyone&amp;rsquo;s time and attention. A lot of the users groups have moved toward &amp;ldquo;lightning talks&amp;rdquo;, which are definitely an improvement, but opening things up toward even more active participation by everyone was a revelation to me.&lt;/p&gt;
+
+&lt;p&gt;The next meeting of Pittsburgh Geek Out Day is November 5, so sign up if you haven&amp;rsquo;t been to one yet and can spare a Saturday morning!&lt;/p&gt;
+
+&lt;h2 id=&#34;agile&#34;&gt;Agile&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://www.meetup.com/PittsburghAgile/&#34;&gt;Pittsburgh Agile meetup group&lt;/a&gt; is fairly new, having its first meeting in April 2011. It has been meeting at &lt;a href=&#34;http://www.matrixformedia.com/&#34;&gt;Matrix Solutions&lt;/a&gt; on the North Shore and is active.&lt;/p&gt;
+
+&lt;p&gt;This group involves a mix of people who are developers as well as those who are managers, and of course, those who fall into both categories.&lt;/p&gt;
+
+&lt;h2 id=&#34;apple&#34;&gt;Apple&lt;/h2&gt;
+
+&lt;p&gt;Developers for Apple platforms, i.e., MacOS X and iOS, have a home at &lt;a href=&#34;http://cocoaheads.org/us/PittsburghPennsylvania/index.html&#34;&gt;CocoaHeads&lt;/a&gt;.  I have never been to their meetings, but have a friend who attends, and it seems to be pretty active.&lt;/p&gt;
+
+&lt;p&gt;It meets the third Thursday of every month at Smith Micro.&lt;/p&gt;
+
+&lt;h2 id=&#34;apple-ios&#34;&gt;Apple iOS&lt;/h2&gt;
+
+&lt;p&gt;There is an &lt;a href=&#34;http://www.meetup.com/iPhone-iPad-Mobile-App-Developers-Pittsburgh-Meetup/&#34;&gt;Pittsburgh Apple iOS meetup group&lt;/a&gt;, but I have not been to it.&lt;/p&gt;
+
+&lt;h2 id=&#34;clojure&#34;&gt;Clojure&lt;/h2&gt;
+
+&lt;p&gt;There is a &lt;a href=&#34;http://www.meetup.com/Clojure-PGH/&#34;&gt;Pittsburgh Clojure users group&lt;/a&gt; that used to meet, but I never made it to any of the meetings, and it seems to be inactive now.&lt;/p&gt;
+
+&lt;h2 id=&#34;coding-dojo&#34;&gt;Coding dojo&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://tech.groups.yahoo.com/group/PghCodingDojo/&#34;&gt;Pittsburgh Coding Dojo&lt;/a&gt; was active many years ago, but has been rather inactive recently. The last meeting I went to was in March 2011.&lt;/p&gt;
+
+&lt;h2 id=&#34;net&#34;&gt;.NET&lt;/h2&gt;
+
+&lt;p&gt;There is an active &lt;a href=&#34;http://pghdotnet.org/&#34;&gt;Pittsburgh .NET users group&lt;/a&gt;, but I have never been to any of its meetings.&lt;/p&gt;
+
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;I hope that this list will be useful to those who are already a member of one or more groups and interested in checking out the others, and perhaps in creating cross-group learning experiences and events.&lt;/p&gt;
+
+&lt;p&gt;Are there any other groups of interest that I am missing? Please let me know.&lt;/p&gt;
+
+&lt;p&gt;Also: since I have always taken notes for myself at each meeting of each user group that I have attended in the past couple of years (ha, I should have started blogging earlier, given my obsession with writing), if anyone is interested in any summaries or the like, let me know. So far, the only meeting I have written up for my blog has been a recent &lt;a href=&#34;../../blog/2011/10/14/agile-anti-patterns/&#34;&gt;Agile meetup on anti-patterns&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;updates&#34;&gt;Updates&lt;/h2&gt;
+
+&lt;h3 id=&#34;2011-10-18&#34;&gt;2011-10-18&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/akinsgre&#34;&gt;Greg&lt;/a&gt; reminded me to mention this useful calendar of &lt;a href=&#34;http://pghtechevents.com/&#34;&gt;Pittsburgh tech events&lt;/a&gt;. Some months ago, I subscribed to it using Google Calendar, and it really is quite helpful to have around.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Singing Through Traffic</title>
+      <link>http://franklinchen.com/blog/2011/10/06/singing-through-traffic/</link>
+      <pubDate>Thu, 06 Oct 2011 20:57:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2011/10/06/singing-through-traffic/</guid>
+      <description>&lt;p&gt;Yesterday, I had a brutal drive of almost fifty minutes after work to attend a &lt;a href=&#34;http://www.meetup.com/Pittsburgh-JavaScript-Developers/&#34;&gt;Pittsburgh JavaScript Developers&lt;/a&gt; meeting about &lt;a href=&#34;http://www.meetup.com/Pittsburgh-JavaScript-Developers/events/34568402/&#34;&gt;AMD and CommonJS modules&lt;/a&gt;, where &lt;a href=&#34;http://briancavalier.com/&#34;&gt;Brian Cavalier&lt;/a&gt; gave a nice &lt;a href=&#34;http://briancavalier.com/presentations/pgh-js-amd-10-2011/&#34;&gt;presentation&lt;/a&gt; on module systems for JavaScript and comparing their strengths and weaknesses.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/mcknight-construction-traffic.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;I survived the drive the same way I survived it &lt;a href=&#34;../../blog/2011/09/27/when-jquery-attacks/&#34;&gt;last week&lt;/a&gt;, which was actually not as bad as yesterday&amp;rsquo;s was!&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/franklin-singing-in-car.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Franklin singing in car&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;What I can&amp;rsquo;t stand about driving for half an hour or an hour, regardless of traffic situations, is being physically immobilized and mentally trapped. I have a backup plan in case I have to do such driving. I always have in my car&amp;rsquo;s CD player a CD of &amp;ldquo;Voice Lessons To Go&amp;rdquo; by &lt;a href=&#34;http://voicelessonstogo.com/&#34;&gt;Ariella Vaccarino&lt;/a&gt;.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://voicelessonstogo.com/cart/images/volume_one.gif&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Volume 1 of Voice Lessons To Go&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;So not only do I avoid wasting time and stay mentally alert and active, but it is also pretty physically intense, with all the breathing. I got a pretty good singing workout yesterday. Ariella&amp;rsquo;s guidance on the CD is very clear and friendly. I love it! I&amp;rsquo;m thinking of getting more volumes of this series.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>When jQuery Attacks</title>
+      <link>http://franklinchen.com/blog/2011/09/27/when-jquery-attacks/</link>
+      <pubDate>Tue, 27 Sep 2011 21:07:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2011/09/27/when-jquery-attacks/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s Tuesday night. After spending the day at work testing and debugging a new feature for a &lt;a href=&#34;http://java.com/&#34;&gt;Java&lt;/a&gt; program of mine that parses and transforms data using &lt;a href=&#34;http://antlr.org/&#34;&gt;ANTLR&lt;/a&gt;, what do I have to look forward to?&lt;/p&gt;
+
+&lt;p&gt;Apparently, the answer must be that I look forward to a &lt;em&gt;hellish&lt;/em&gt; 30 minute drive at 6:30 PM in the opposite direction of home (which is only two miles away), taking a planned detour to avoid an insane &lt;a href=&#34;http://www.dot.state.pa.us/PENNDOT/Districts/district11.nsf/befa2937349a7160852570a70047899a/1cf78bf5840af8b8852578c5006741a3?OpenDocument&#34;&gt;I-579 construction-caused backup&lt;/a&gt;, then weaving through a horrible &lt;a href=&#34;http://northhills.patch.com/articles/mcknight-road-construction-creates-headache-for-many&#34;&gt;&lt;em&gt;McKnightmare&lt;/em&gt; construction zone&lt;/a&gt;, in order to meet up with a handful of fellow &lt;a href=&#34;http://en.wikipedia.org/wiki/JavaScript&#34;&gt;JavaScript&lt;/a&gt; geeks, for another hour or so of more staring at computer code!&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://o1.aolcdn.com/dims-shared/dims3/PATCH/resize/600x450/http://hss-prod.hss.aol.com/hss/storage/patch/ff1b44dbd49a2a149de987454f154ba1&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;McKnight Road construction&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;p&gt;The title &amp;ldquo;When &lt;a href=&#34;http://jquery.com/&#34;&gt;jQuery&lt;/a&gt; attacks&amp;rdquo; is actually not mine, but stolen from the title of today&amp;rsquo;s session by &lt;a href=&#34;http://www.fusioncube.net/&#34;&gt;Steven Brownlee&lt;/a&gt;, the gracious founder and host at &lt;a href=&#34;http://www.smithmicro.com/&#34;&gt;Smith Micro&lt;/a&gt; of the &lt;a href=&#34;http://www.meetup.com/Pittsburgh-JavaScript-Developers/&#34;&gt;Pittsburgh JavaScript meetup group&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.meetup.com/Pittsburgh-JavaScript-Developers/events/31718282/&#34;&gt;{% img /images/pittsburgh-javascript-meetup.jpg Today&amp;rsquo;s meeting of the Pittsburgh JavaScript meetup group %}&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Around eight or nine of us showed up tonight, and shared pizza Steve had ordered for us.&lt;/p&gt;
+
+&lt;p&gt;Steve briefly presented an overview of basic jQuery features, then we all just informally chatted about various topics that we brought up, from the coming impact of &lt;a href=&#34;http://www.html5rocks.com/&#34;&gt;HTML5&lt;/a&gt;, the rise of JavaScript and its future, the decline of such technologies as Flash and JBoss, different JavaScript engines such as &lt;a href=&#34;http://code.google.com/p/v8/&#34;&gt;v8&lt;/a&gt; and &lt;a href=&#34;http://www.mozilla.org/rhino/&#34;&gt;Rhino&lt;/a&gt;, client-side vs. server-side use of JavaScript (especially &lt;a href=&#34;http://nodejs.org/&#34;&gt;Node&lt;/a&gt;, which we have had meetups about already), and the controversy over Google&amp;rsquo;s &lt;a href=&#34;http://en.wikipedia.org/wiki/Google_Dart&#34;&gt;Dart&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;my-own-use-of-javascript&#34;&gt;My own use of JavaScript&lt;/h2&gt;
+
+&lt;p&gt;I have to confess that although I have used jQuery to prototype a web application I am developing, I have become uncomfortable with using just jQuery and adding layers on top of it using jQuery&amp;rsquo;s own bare-bones systems for &lt;a href=&#34;http://api.jquery.com/jQuery.template/&#34;&gt;templates&lt;/a&gt; and &lt;a href=&#34;http://api.jquery.com/link/&#34;&gt;data binding&lt;/a&gt; to cleanly structure the application rather than have it be a horrible tangled-spaghetti mess of DOM hacking.&lt;/p&gt;
+
+&lt;p&gt;I am currently evaluating full-blown &lt;a href=&#34;http://en.wikipedia.org/wiki/Model-view-controller&#34;&gt;MVC&lt;/a&gt; types of frameworks such as &lt;a href=&#34;http://documentcloud.github.com/backbone&#34;&gt;Backbone&lt;/a&gt; and &lt;a href=&#34;http://www.sproutcore.com/&#34;&gt;Sproutcore&lt;/a&gt; and &lt;a href=&#34;http://www.sencha.com/products/extjs/&#34;&gt;Sencha Ext JS 4&lt;/a&gt;. Stay tuned for my investigations of all that on this blog sometime.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

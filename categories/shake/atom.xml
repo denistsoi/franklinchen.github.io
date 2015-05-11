@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shake on Franklin Chen</title>
+    <link>http://franklinchen.com/categories/shake/atom/index.xml</link>
+    <description>Recent content in Shake on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/categories/shake/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>A short example of why I prefer static typing: learning Gradle</title>
+      <link>http://franklinchen.com/blog/2012/09/24/a-short-example-of-why-i-prefer-static-typing-learning-gradle/</link>
+      <pubDate>Mon, 24 Sep 2012 17:07:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/09/24/a-short-example-of-why-i-prefer-static-typing-learning-gradle/</guid>
+      <description>&lt;p&gt;I make no secret of the fact the I prefer to program in &lt;a href=&#34;http://en.wikipedia.org/wiki/Programming_language#Static_versus_dynamic_typing&#34;&gt;statically-typed languages&lt;/a&gt;. That is not to say that I don&amp;rsquo;t write programs in dynamically typed languages. In fact, I have written and will continue to write programs in &lt;a href=&#34;../../categories/perl/&#34;&gt;Perl&lt;/a&gt;, &lt;a href=&#34;../../categories/python/&#34;&gt;Python&lt;/a&gt;, &lt;a href=&#34;../../categories/ruby/&#34;&gt;Ruby&lt;/a&gt;, &lt;a href=&#34;../../categories/javascript/&#34;&gt;JavaScript&lt;/a&gt;, and other dynamically typed programs, because pragmatically speaking, there is a whole lot more to programming to get something done than questions of &lt;a href=&#34;http://en.wikipedia.org/wiki/Type_system&#34;&gt;type systems&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Nevertheless, it is always painful to me when I hit a wall when learning and using an unfamiliar API from a dynamically typed language. I always think, &amp;ldquo;if only this API were statically typed, so that when I encounter an error, I can immediately look up what went wrong&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s an example as I&amp;rsquo;ve been learning &lt;a href=&#34;http://www.gradle.org/&#34;&gt;Gradle&lt;/a&gt; while evaluating it along with learning &lt;a href=&#34;http://www.scala-sbt.org/&#34;&gt;SBT&lt;/a&gt;, as two candidate build tools for me to switch to out of &lt;a href=&#34;http://maven.apache.org/&#34;&gt;Maven&lt;/a&gt; as my build tool for a primarily Java-based project. Note that Gradle is basically an embedded domain-specific language using the dynamically typed language &lt;a href=&#34;http://groovy.codehaus.org/&#34;&gt;Groovy&lt;/a&gt;, while SBT is an embedded domain-specific language using the statically typed language &lt;a href=&#34;http://www.scala-lang.org/&#34;&gt;Scala&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;code-example&#34;&gt;Code example&lt;/h2&gt;
+
+&lt;p&gt;Here&amp;rsquo;s a code example from a book I&amp;rsquo;ve been going through while studying Gradle, &lt;a href=&#34;http://gradleware.com/registered/books/building-and-testing/&#34;&gt;&amp;ldquo;Building and Testing with Gradle&amp;rdquo;&lt;/a&gt;:&lt;/p&gt;
+
+&lt;h3 id=&#34;example-3-21-use-the-ant-path-references-inside-the-gradle-build&#34;&gt;Example 3.21. Use the Ant path references inside the Gradle build&lt;/h3&gt;
+
+&lt;div class=&#34;highlight&#34; style=&#34;background: #f8f8f8&#34;&gt;&lt;pre style=&#34;line-height: 125%&#34;&gt;&lt;span&gt;&lt;/span&gt;ant&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;importBuild&lt;/span&gt; &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;#39;build.xml&amp;#39;&lt;/span&gt;
+
+defaultTasks &lt;span style=&#34;color: #666666&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;[&lt;/span&gt;&lt;span style=&#34;color: #BA2121&#34;&gt;&amp;#39;gradleBuild&amp;#39;&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;]&lt;/span&gt;
+
+&lt;span style=&#34;color: #408080; font-style: italic&#34;&gt;////////////////////////////////////////////////////////////////////////&lt;/span&gt;
+&lt;span style=&#34;color: #408080; font-style: italic&#34;&gt;// Gradle paths retrieved from Ant and then built using a Gradle task&lt;/span&gt;
+repositories &lt;span style=&#34;color: #666666&#34;&gt;{&lt;/span&gt;
+    flatDir &lt;span style=&#34;color: #A0A000&#34;&gt;name:&lt;/span&gt; &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;#39;localRepository1&amp;#39;&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color: #A0A000&#34;&gt;dirs:&lt;/span&gt; ant&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;references&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;[&lt;/span&gt;&lt;span style=&#34;color: #BA2121&#34;&gt;&amp;#39;antPathToLibs1&amp;#39;&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;]&lt;/span&gt;
+    flatDir &lt;span style=&#34;color: #A0A000&#34;&gt;name:&lt;/span&gt; &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;#39;localRepository2&amp;#39;&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color: #A0A000&#34;&gt;dirs:&lt;/span&gt; ant&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;references&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;antPathToLibs2&lt;/span&gt;
+    flatDir &lt;span style=&#34;color: #A0A000&#34;&gt;name:&lt;/span&gt; &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;#39;localRepository3&amp;#39;&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color: #A0A000&#34;&gt;dirs:&lt;/span&gt; &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;antlibs&amp;quot;&lt;/span&gt;
+&lt;span style=&#34;color: #666666&#34;&gt;}&lt;/span&gt;
+
+task gradleBuild &lt;span style=&#34;color: #666666&#34;&gt;&amp;lt;&amp;lt;&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;{&lt;/span&gt;
+    &lt;span style=&#34;color: #408080; font-style: italic&#34;&gt;//Set classpath to include the JAR&lt;/span&gt;
+    println &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;The repositories bridged from Ant to Gradle are:&amp;quot;&lt;/span&gt;
+    println repositories&lt;span style=&#34;color: #666666&#34;&gt;*.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;name&lt;/span&gt;
+
+    println repositories&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;localRepository1&lt;/span&gt;
+
+    println repositories&lt;span style=&#34;color: #666666&#34;&gt;[&lt;/span&gt;&lt;span style=&#34;color: #BA2121&#34;&gt;&amp;#39;localRepository2&amp;#39;&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;]&lt;/span&gt;
+
+    println &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;localRepository3 class = &amp;quot;&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;+&lt;/span&gt; repositories&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;localRepository3&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;class&lt;/span&gt;
+    println &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;localRepository3 name = &amp;quot;&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;+&lt;/span&gt; repositories&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;localRepository3&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;name&lt;/span&gt;
+    println &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;localRepository3 latest = &amp;quot;&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;+&lt;/span&gt; repositories&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;localRepository3&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;latest&lt;/span&gt;
+    println &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;localRepository3 ivyPatterns = &amp;quot;&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;+&lt;/span&gt; repositories&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;localRepository3&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;ivyPatterns&lt;/span&gt;
+    println &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;localRepository3 artifactPatterns =&lt;/span&gt;
+&lt;span style=&#34;color: #BA2121&#34;&gt;       &amp;quot;&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;+&lt;/span&gt; repositories&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;localRepository3&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;artifactPatterns&lt;/span&gt;
+    println &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;localRepository3 checkconsistency =&lt;/span&gt;
+&lt;span style=&#34;color: #BA2121&#34;&gt;       &amp;quot;&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;+&lt;/span&gt; repositories&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;localRepository3&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;checkconsistency&lt;/span&gt;
+    println &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;localRepository3 m2compatible =&lt;/span&gt;
+&lt;span style=&#34;color: #BA2121&#34;&gt;       &amp;quot;&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;+&lt;/span&gt; repositories&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;localRepository3&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;m2compatible&lt;/span&gt;
+    println &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;localRepository3 methods =&lt;/span&gt;
+&lt;span style=&#34;color: #BA2121&#34;&gt;       &amp;quot;&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;+&lt;/span&gt; repositories&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;localRepository3&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;metaClass&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;methods&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;*.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;name&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;sort&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;().&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;unique&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;()&lt;/span&gt;
+&lt;span style=&#34;color: #666666&#34;&gt;}&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h2 id=&#34;error-output&#34;&gt;Error output&lt;/h2&gt;
+
+&lt;p&gt;Unfortunately, this Gradle build file, when executed under the current version of Gradle, dies with an error:&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;highlight&#34; style=&#34;background: #f8f8f8&#34;&gt;&lt;pre style=&#34;line-height: 125%&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span style=&#34;color: #000080; font-weight: bold&#34;&gt;$&lt;/span&gt; ./run-example.bsh
+&lt;span style=&#34;color: #888888&#34;&gt;:gradleBuild&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;The repositories bridged from Ant to Gradle are:&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;[localRepository1, localRepository2, localRepository3]&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;org.gradle.api.internal.artifacts.repositories.DefaultFlatDirArtifactRepository_Decorated@7f205d8d&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;org.gradle.api.internal.artifacts.repositories.DefaultFlatDirArtifactRepository_Decorated@5eef2e7c&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;localRepository3 class = class org.gradle.api.internal.artifacts.repositories.DefaultFlatDirArtifactRepository_Decorated&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;localRepository3 name = localRepository3&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;:gradleBuild FAILED&lt;/span&gt;
+
+&lt;span style=&#34;color: #888888&#34;&gt;FAILURE: Build failed with an exception.&lt;/span&gt;
+
+&lt;span style=&#34;color: #888888&#34;&gt;* Where:&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;Build file &amp;#39;oreilly-gradle-book-examples/ant-classpathanttogradle/build.gradle&amp;#39; line: 24&lt;/span&gt;
+
+&lt;span style=&#34;color: #888888&#34;&gt;* What went wrong:&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;Execution failed for task &amp;#39;:gradleBuild&amp;#39;.&lt;/span&gt;
+&lt;span style=&#34;color: #000080; font-weight: bold&#34;&gt;&amp;gt;&lt;/span&gt; Could not find property &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;#39;latest&amp;#39;&lt;/span&gt; on org.gradle.api.internal.artifacts.repositories.DefaultFlatDirArtifactRepository_Decorated@8c1e4d5.
+
+&lt;span style=&#34;color: #888888&#34;&gt;* Try:&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output.&lt;/span&gt;
+
+&lt;span style=&#34;color: #888888&#34;&gt;BUILD FAILED&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;After much searching online, I still could not figure out what properties are supposed to be available from &lt;code&gt;repositories.localRepository3&lt;/code&gt;. I looked at the &lt;a href=&#34;http://www.gradle.org/docs/current/javadoc/overview-tree.html&#34;&gt;Gradle documentation&lt;/a&gt;, and I looked up the package &lt;a href=&#34;http://www.gradle.org/docs/current/javadoc/org/gradle/api/artifacts/repositories/package-tree.html&#34;&gt;&lt;code&gt;org.gradle.api.internal.artifacts.repositories&lt;/code&gt;&lt;/a&gt; without success.&lt;/p&gt;
+
+&lt;p&gt;Gradle&amp;rsquo;s API has changed since the publication of the book, obviously. And in fact, I have been submitting &lt;a href=&#34;https://github.com/gradleware/oreilly-gradle-book-examples/commit/351f31f1cdede84233b977e67031720177144aab&#34;&gt;GitHub pull requests&lt;/a&gt; as I update the code examples while encountering apparent changes. But sometimes, as in this case, it has been too confusing for me to figure out how to update the code. You could say that this is always the case for any code in any language, but what bothers me is the nature of error messages and documentation in APIs for dynamically typed languages such as Groovy. These experiences remind me that &lt;em&gt;types are documentation&lt;/em&gt;, that &lt;em&gt;types are a way for a programmer to tell the world how code is supposed to be used&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Gradle seems to be a promising build tool, and I will continue to evaluate it while skipping over the particular mysterious error I encountered (since it is not really relevant to what I want to do in my builds), but I wish I could have better figured out what went wrong with the book&amp;rsquo;s code example. Meanwhile, it remains to be seen what kinds of problems I will encounter when using SBT. Again, I have to emphasize that my goal is to get things done, correctly and efficiently. Whatever works best, I will use, whatever its drawbacks: in another project, I happily used &lt;a href=&#34;../../categories/scons/&#34;&gt;SCons&lt;/a&gt; as a build tool, based on the dynamically typed language Python, and of course, I have used &lt;a href=&#34;http://rake.rubyforge.org/&#34;&gt;Rake&lt;/a&gt; for Ruby projects.&lt;/p&gt;
+
+&lt;h3 id=&#34;update-of-2015-05-18&#34;&gt;(Update of 2015-05-18)&lt;/h3&gt;
+
+&lt;p&gt;Wow, that was written in fall of 2012.&lt;/p&gt;
+
+&lt;p&gt;Since then, I have heavily used SBT from then to the present first for Java, then for Scala, which &lt;a href=&#34;http://franklinchen.com/blog/2013/01/11/2013-is-my-year-of-scala/&#34;&gt;became my main programming language in early 2013&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Also, in early 2015, &lt;a href=&#34;http://blog.pivotal.io/pivotal/news-2/groovy-2-4-and-grails-3-0-to-be-last-major-releases-under-pivotal-sponsorship&#34;&gt;Pivotal got out of the Groovy business&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Meanwhile, in early 2015 as I adopted Haskell as my main language for new projects, I switched away from SCons as a general-purpose build tool to Haskell-based &lt;a href=&#34;http://shakebuild.com/&#34;&gt;Shake&lt;/a&gt;, which works really great for me.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,1097 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Franklin Chen</title>
+    <link>http://franklinchen.com/categories/python/atom/index.xml</link>
+    <description>Recent content in Python on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/categories/python/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Pittsburgh Tech Fest 2013: my talk &#34;Stop Overusing Regular Expressions!&#34;</title>
+      <link>http://franklinchen.com/blog/2013/06/01/pittsburgh-tech-fest-2013-my-talk-stop-overusing-regular-expressions/</link>
+      <pubDate>Sat, 01 Jun 2013 23:48:22 -0400</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/06/01/pittsburgh-tech-fest-2013-my-talk-stop-overusing-regular-expressions/</guid>
+      <description>&lt;p&gt;At Pittsburgh TechFest 2013 (&lt;a href=&#34;../../blog/2013/06/01/report-on-the-second-pittsburgh-techfest-2013/&#34;&gt;full report here&lt;/a&gt;), I gave a talk for a one-hour time slot before lunch.&lt;/p&gt;
+
+&lt;p&gt;This was &lt;a href=&#34;../../blog/2013/01/18/how-justice-clarence-thomas-uncovered-a-seven-year-old-bug-in-my-computer-program/&#34;&gt;my first talk at a conference in three years&lt;/a&gt;, and only my second at a conference in my life! I feel that I have much improved as a presenter since then.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s how it went.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;presentation&#34;&gt;Presentation&lt;/h2&gt;
+
+&lt;p&gt;My presentation was &amp;ldquo;Stop overusing regular expressions!&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;Here is my abstract as submitted to Pittsburgh TechFest:
+&lt;blockquote&gt;
+Regular expressions are very commonly used to process and validate text data. Unfortunately, they suffer from various limitations. I will discuss the limitations and illustrate how using grammars instead can be an improvement. I will make the examples concrete using parsing libraries in a couple of representative languages, although the ideas are language-independent. (I&amp;rsquo;ll try to squeeze in, say, Ruby, Python, JavaScript, Scala.)&lt;/p&gt;
+
+&lt;p&gt;I will emphasize ease of use, since one reason for the overuse of regular expressions is that they are so easy to pull out of one&amp;rsquo;s toolbox.
+&lt;/blockquote&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;revised&#34;&gt;Revised&lt;/h3&gt;
+
+&lt;p&gt;Just on Wednesday, &lt;a href=&#34;../../blog/2013/05/29/pittsburgh-scala-meetup-my-talk-stop-overusing-regular-expressions/&#34;&gt;I had given a version of this talk at the Pittsburgh Scala meetup&lt;/a&gt;, but revised it considerably based on feedback and my own impressions.&lt;/p&gt;
+
+&lt;h3 id=&#34;slides-and-code&#34;&gt;Slides and code&lt;/h3&gt;
+
+&lt;p&gt;The material for the talk &lt;em&gt;as given&lt;/em&gt; is at &lt;a href=&#34;https://github.com/franklinchen/talk-on-overusing-regular-expressions/tree/pitt-tech-fest-talk&#34;&gt;this tag of my GitHub repository&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;My &lt;a href=&#34;https://github.com/franklinchen/talk-on-overusing-regular-expressions&#34;&gt;master branch of the GitHub repository&lt;/a&gt; will always have my latest revisions. I expect continue to add more code in different languages, for example.&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src=&#34;http://www.slideshare.net/slideshow/embed_code/22302440&#34; width=&#34;427&#34; height=&#34;356&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px&#34; allowfullscreen webkitallowfullscreen mozallowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;http://www.slideshare.net/FranklinChen/handout-22302440&#34; title=&#34;Stop overusing regular expressions!&#34; target=&#34;_blank&#34;&gt;Stop overusing regular expressions!&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;http://www.slideshare.net/FranklinChen&#34; target=&#34;_blank&#34;&gt;Franklin Chen&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;after&#34;&gt;After&lt;/h2&gt;
+
+&lt;p&gt;I tried to minimize discussion of the final Scala code slide, which in one page creates a full parser for &amp;ldquo;toy JSON&amp;rdquo; into a tree of Scala objects, because I intended mainly to give this as proof of concept, not to get into explaining the funny operator overloading that makes the parser so concise, but this seemed to be an issue anyway. I now lean toward thinking that in the future, I need to create a parallel slide that replaces the operators with standard method names instead.&lt;/p&gt;
+
+&lt;p&gt;Why did I use Scala for example code anyway? A major reason is that it is indeed very concise, and yet fully statically typed. I could fit all each of my Scala code examples on a single slide. I did that with Ruby also, up to a point. Writing the classes in Ruby (or Python, Java, etc.) would have taken pages of boilerplate, as opposed to using Scala&amp;rsquo;s case classes. (Of course I wasn&amp;rsquo;t going to use ML or Haskell at all in the talk for this audience.)&lt;/p&gt;
+
+&lt;p&gt;I was surprised to learn how quickly I had finished my presentation (around 45 minutes), given that I had actually added many slides after my Pittsburgh Scala version (which had lasted around the same time). I think it could have been because of the following:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Having practiced the talk once, I was more fluent and stumbled less, and explained some things better.&lt;/li&gt;
+&lt;li&gt;My additional transitional and motivational slides were clarifying, and reduced confusion that I had to address in my earlier version.&lt;/li&gt;
+&lt;li&gt;I still get the impression that when I speak, I get overexcited and talk too quickly!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;attendance&#34;&gt;Attendance&lt;/h3&gt;
+
+&lt;p&gt;Turnout was small, around eight people, but enthusiastic. Half the people I already knew, but the other half were new to me.&lt;/p&gt;
+
+&lt;p&gt;I have some hypotheses about why attendance was relatively low (I think most of the talks I went to had 20-40 people):&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Several people actually told me they would have attended my talk, but they too were giving talks or there were others that just happened to have higher priority.&lt;/li&gt;
+&lt;li&gt;The topic is more specialized and yet abstract than others: conceptual rather than devoted to &amp;ldquo;how to use library X in language Y&amp;rdquo; or &amp;ldquo;how to improve your career.&lt;/li&gt;
+&lt;li&gt;I have no name recognition outside of Pittsburgh, and I submitted a completely non-self-promotional, vague bio; I will definitely fix this in all future talk submissions anywhere.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;thanks&#34;&gt;Thanks&lt;/h2&gt;
+
+&lt;p&gt;Thanks to everyone who came to the talk and asked questions and got discussion going! I appreciate having had the opportunity to share my experiences and recommendations at a conference.&lt;/p&gt;
+
+&lt;p&gt;Ha, I was happy that Josh was able to come to my talk, since he missed the Pittsburgh Scala meetup on Wednesday!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pittsburgh Scala Meetup: my talk &#34;Stop Overusing Regular Expressions!&#34;</title>
+      <link>http://franklinchen.com/blog/2013/05/29/pittsburgh-scala-meetup-my-talk-stop-overusing-regular-expressions/</link>
+      <pubDate>Wed, 29 May 2013 22:37:07 -0400</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/05/29/pittsburgh-scala-meetup-my-talk-stop-overusing-regular-expressions/</guid>
+      <description>&lt;p&gt;So two days ago, &lt;a href=&#34;http://jamieforrest.com/&#34;&gt;Jamie&lt;/a&gt; sent email out to the &lt;a href=&#34;http://www.meetup.com/Pittsburgh-Scala-Meetup/&#34;&gt;Pittsburgh Scala meetup group&lt;/a&gt; saying that our planned speaker Barrett, who was to have talked about his experiences using &lt;a href=&#34;http://akka.io/&#34;&gt;Akka&lt;/a&gt;, was not going to make it, and asked if anyone else could talk about something.&lt;/p&gt;
+
+&lt;h2 id=&#34;i-suddenly-stepped-in-as-a-substitute-speaker&#34;&gt;I suddenly stepped in as a substitute speaker&lt;/h2&gt;
+
+&lt;p&gt;Since I was already supposed to give a talk on Saturday at the 2013 &lt;a href=&#34;http://pghtechfest.com/&#34;&gt;Pittsburgh TechFest&lt;/a&gt;, and was in the process of finishing my work on it, I volunteered to give an early version of my Pittsburgh TechFest talk &lt;a href=&#34;http://www.meetup.com/Pittsburgh-Scala-Meetup/events/115817242/&#34;&gt;at the Scala meetup&lt;/a&gt;, since I actually happen to provide Scala code in the talk. Ha, this meant giving two talks in two successive meetings, because at the last meeting, I gave a &lt;a href=&#34;../../blog/2013/04/11/my-pittsburgh-scala-meetup-talk-on-property-based-testing-using-scalacheck/&#34;&gt;talk on property-based testing using ScalaCheck&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;presentation&#34;&gt;Presentation&lt;/h2&gt;
+
+&lt;p&gt;My presentation was &amp;ldquo;Stop overusing regular expressions!&amp;rdquo;&lt;/p&gt;
+
+&lt;p&gt;Here is my abstract as submitted to Pittsburgh TechFest:
+&lt;blockquote&gt;
+Regular expressions are very commonly used to process and validate text data. Unfortunately, they suffer from various limitations. I will discuss the limitations and illustrate how using grammars instead can be an improvement. I will make the examples concrete using parsing libraries in a couple of representative languages, although the ideas are language-independent. (I&amp;rsquo;ll try to squeeze in, say, Ruby, Python, JavaScript, Scala.)&lt;/p&gt;
+
+&lt;p&gt;I will emphasize ease of use, since one reason for the overuse of regular expressions is that they are so easy to pull out of one&amp;rsquo;s toolbox.
+&lt;/blockquote&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;attendance&#34;&gt;Attendance&lt;/h3&gt;
+
+&lt;p&gt;Turnout was small: five people other than myself. By the way, we&amp;rsquo;ve discovered unsurprisingly predictable pattern: roughly half the people who RSVP &amp;ldquo;yes&amp;rdquo; on the meetups show up.&lt;/p&gt;
+
+&lt;h3 id=&#34;slides-and-code&#34;&gt;Slides and code&lt;/h3&gt;
+
+&lt;p&gt;The material for the talk &lt;em&gt;as given&lt;/em&gt; is at &lt;a href=&#34;https://github.com/franklinchen/talk-on-overusing-regular-expressions/tree/meetup-talk&#34;&gt;this tag of my GitHub repository&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;My &lt;a href=&#34;https://github.com/franklinchen/talk-on-overusing-regular-expressions&#34;&gt;master branch of the GitHub repository&lt;/a&gt; will always have my latest revisions.&lt;/p&gt;
+
+&lt;h4 id=&#34;update-of-2013-06-01&#34;&gt;(Update of 2013-06-01)&lt;/h4&gt;
+
+&lt;p&gt;I made substantial revisions in the presentation and code before Pittsburgh TechFest. I recommend looking at the latest version. Details in my &lt;a href=&#34;../../blog/2013/06/01/pittsburgh-tech-fest-2013-my-talk-stop-overusing-regular-expressions/&#34;&gt;report on my talk at Pittsburgh TechFest 2013&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe src=&#34;http://www.slideshare.net/slideshow/embed_code/22302440&#34; width=&#34;427&#34; height=&#34;356&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px&#34; allowfullscreen webkitallowfullscreen mozallowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;http://www.slideshare.net/FranklinChen/handout-22302440&#34; title=&#34;Stop overusing regular expressions!&#34; target=&#34;_blank&#34;&gt;Stop overusing regular expressions!&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;http://www.slideshare.net/FranklinChen&#34; target=&#34;_blank&#34;&gt;Franklin Chen&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;after&#34;&gt;After&lt;/h2&gt;
+
+&lt;p&gt;There was great feedback after the talk. Some material I went through took quickly, without a smooth transition to relate ideas, and my final page of Scala code that contained dense use of all kinds of operators and idioms was something I stumbled through trying to explain, even as I was feeling that explaining it was a tangent from the main points of the talk.&lt;/p&gt;
+
+&lt;p&gt;There was casual discussion of Scala and other topics after the talk as well. I was pretty excited to hear about how useful Akka has become in solving important problems.&lt;/p&gt;
+
+&lt;h2 id=&#34;thanks&#34;&gt;Thanks&lt;/h2&gt;
+
+&lt;p&gt;Thanks to everyone who came to the talk! I enjoyed sharing my experiences and recommendations, and engaging in discussion about the topics, and getting to make a mental note of things to change in my delivery, slides, and code for Pittsburgh TechFest on Saturday.&lt;/p&gt;
+
+&lt;p&gt;Thanks to &lt;a href=&#34;http://justin-pihony.blogspot.com/&#34;&gt;Justin&lt;/a&gt; for arranging a meeting place for the Pittsburgh Scala meetup at &lt;a href=&#34;http://mmodal.com/&#34;&gt;M*Modal&lt;/a&gt;, and thanks to M*Modal for providing the space!&lt;/p&gt;
+
+&lt;p&gt;And thanks to Jamie again for creating the Pittsburgh Scala meetup group, and &lt;a href=&#34;http://typesafe.com/&#34;&gt;TypeSafe&lt;/a&gt; for being a sponsor now, thanks to &lt;a href=&#34;http://jsuereth.com/&#34;&gt;Josh&lt;/a&gt; (who sadly did not make it to this meeting).&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pittsburgh Python: Kenneth Reitz on Heroku</title>
+      <link>http://franklinchen.com/blog/2013/04/24/pittsburgh-python-kenneth-reitz-on-heroku/</link>
+      <pubDate>Wed, 24 Apr 2013 21:31:46 -0400</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/04/24/pittsburgh-python-kenneth-reitz-on-heroku/</guid>
+      <description>
+
+&lt;p&gt;This month, the Pittsburgh Python User Group had a &lt;a href=&#34;http://www.meetup.com/pghpython/events/107277042&#34;&gt;special guest speaker for its meeting&lt;/a&gt;, Kenneth Reitz of Heroku.&lt;/p&gt;
+
+&lt;p&gt;I was eager to see him in person, because he has been a huge contributor to the Python community. His module &lt;code&gt;requests&lt;/code&gt; (which won me over when Chad gave a lightning talk on it last year) is much-loved, as well as his opinionated and reasoned writings about documentation, API design, and packaging (as &lt;a href=&#34;../../blog/2013/02/27/pittsburgh-python-distribute-and-other-python-community-controversies/&#34;&gt;I reported on two months ago&lt;/a&gt;).&lt;/p&gt;
+
+&lt;h2 id=&#34;kenneth-reitz-s-presentation&#34;&gt;Kenneth Reitz&amp;rsquo;s presentation&lt;/h2&gt;
+
+&lt;p&gt;There was a huge turnout for this presentation. The Pittsburgh Python group has grown significantly in the past two years (I had begun attending it in January 2011 when it was meeting at Vivisimo). I think it&amp;rsquo;s because of publicity from joining Meetup.com in January 2012, and now also because it&amp;rsquo;s meeting in Google Pittsburgh.&lt;/p&gt;
+
+&lt;p&gt;Kenneth gave a very casual live demo of how to use Heroku with Python, starting by cloning a simple Django &amp;ldquo;to-do list&amp;rdquo; project, using &lt;code&gt;virtualenv&lt;/code&gt; and &lt;code&gt;pip&lt;/code&gt; to install project requirements, and then Git pushing to Heroku.&lt;/p&gt;
+
+&lt;p&gt;You can check out the &lt;a href=&#34;https://pghpy.herokuapp.com/&#34;&gt;resulting site&lt;/a&gt; and amuse yourself by checking out what Pittsburgh Python people had on their minds when randomly creating to-do items and checking them off and deleting them!&lt;/p&gt;
+
+&lt;p&gt;He gave a whirlwind tour of how to do scaling, hook up Postgres as a Heroku add-on, etc. It went by too fast for me to fully process.&lt;/p&gt;
+
+&lt;p&gt;He recommended some random cool sites to check out:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://12factor.net/&#34;&gt;The Twelve-Factor App&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://crate.io/&#34;&gt;Crate&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pittsburgh Python: distribute and other Python community controversies</title>
+      <link>http://franklinchen.com/blog/2013/02/27/pittsburgh-python-distribute-and-other-python-community-controversies/</link>
+      <pubDate>Wed, 27 Feb 2013 22:12:03 -0500</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/02/27/pittsburgh-python-distribute-and-other-python-community-controversies/</guid>
+      <description>&lt;p&gt;I was very interested to attend this month&amp;rsquo;s &lt;a href=&#34;http://www.meetup.com/pghpython/&#34;&gt;Pittsburgh Python User Group&lt;/a&gt; &lt;a href=&#34;http://www.meetup.com/pghpython/events/95504432/&#34;&gt;meeting&lt;/a&gt; because Nick Sloan was going to give a talk about packaging with &lt;a href=&#34;http://pythonhosted.org/distribute/&#34;&gt;&lt;code&gt;distribute&lt;/code&gt;&lt;/a&gt;: packaging in Python has been a &lt;em&gt;huge source of confusion&lt;/em&gt; to me, both as a user and as a developer.&lt;/p&gt;
+
+&lt;p&gt;Since my use of Python at work or for personal purposes has not been very large scale, I have limped along with settling on a clean setup to use for packaging my code. This is in stark contrast to my management of libraries in Perl, Ruby, and Java, where I think there has been more of a consensus in adoption of certain tools and conventions.&lt;/p&gt;
+
+&lt;p&gt;Also, Joe Esposito sent around some links to interesting discussions and news in the global Python community, so I looked forward to hearing what everyone thought.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-problem-with-python-packaging&#34;&gt;The problem with Python packaging&lt;/h2&gt;
+
+&lt;p&gt;OK, so the big problem I faced when trying to nicely set up packaging for a personal project a while ago was that there are many options. The &lt;a href=&#34;http://en.wikipedia.org/wiki/The_Paradox_of_Choice:_Why_More_Is_Less&#34;&gt;paradox of choice&lt;/a&gt; is insidious, and it is surprising to me in the Python community, which has generally prided itself on a general consensus on a philosophy of &lt;a href=&#34;http://wiki.python.org/moin/TOOWTDI&#34;&gt;&amp;ldquo;There&amp;rsquo;s Only One Way To Do It&amp;rdquo;&lt;/a&gt;, in sharp and deliberate contrast to the Perl community&amp;rsquo;s philosophy of &lt;a href=&#34;http://en.wikipedia.org/wiki/There&#39;s_more_than_one_way_to_do_it&#34;&gt;&amp;ldquo;There&amp;rsquo;s More Than One Way To Do It&amp;rdquo;&lt;/a&gt; (TIMTOWTDI).&lt;/p&gt;
+
+&lt;h2 id=&#34;nick-sloan-on-packaging-with-distribute-http-pythonhosted-org-distribute&#34;&gt;Nick Sloan on packaging with &lt;a href=&#34;http://pythonhosted.org/distribute/&#34;&gt;&lt;code&gt;distribute&lt;/code&gt;&lt;/a&gt;&lt;/h2&gt;
+
+&lt;p&gt;Nick summarized the situation of existing packaging systems for Python:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://docs.python.org/2/distutils/&#34;&gt;&lt;code&gt;distutils&lt;/code&gt;&lt;/a&gt; is lacking in features&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pythonhosted.org/setuptools/index.html&#34;&gt;&lt;code&gt;setuptools&lt;/code&gt;&lt;/a&gt; is stagnant&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://pythonhosted.org/distribute/&#34;&gt;&lt;code&gt;distribute&lt;/code&gt;&lt;/a&gt; is a fork of &lt;code&gt;setuptools&lt;/code&gt; and aims to replace it&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;He then illustrated the basics of packaging with writing &lt;code&gt;setup.py&lt;/code&gt;, referencing &lt;a href=&#34;https://medium.com/kr-projects/b8388ba7c1a&#34;&gt;Kenneth Reitz&amp;rsquo;s recommendations on repository structure&lt;/a&gt;, based on &lt;code&gt;distribute&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;kenneth-reitz-s-recommendations-on-repository-structure&#34;&gt;Kenneth Reitz&amp;rsquo;s recommendations on repository structure&lt;/h3&gt;
+
+&lt;p&gt;The most interesting thing about Kenneth Reitz&amp;rsquo;s recommendations was that he advocated separating out &lt;em&gt;tests&lt;/em&gt; from the code of a module, to reduce dependencies for the installer and user of the module. I definitely prefer to have a separate directory tree for tests, as is standard by &lt;em&gt;convention&lt;/em&gt; when I write tests for projects in many other languages. For example:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Perl: &lt;code&gt;t/&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Ruby: &lt;code&gt;spec/&lt;/code&gt; when using RSpec&lt;/li&gt;
+&lt;li&gt;Java: &lt;code&gt;src/test/&lt;/code&gt; when using JUnit&lt;/li&gt;
+&lt;li&gt;Scala: &lt;code&gt;src/test/&lt;/code&gt; when using Specs2 and ScalaCheck&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I don&amp;rsquo;t really like his &lt;code&gt;tests/context.py&lt;/code&gt; system of imports, as it is too dynamic in chasing down imports, and therefore may not play well by default with standard tools:&lt;/p&gt;
+
+&lt;div class=&#34;highlight&#34; style=&#34;background: #f8f8f8&#34;&gt;&lt;pre style=&#34;line-height: 125%&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span style=&#34;color: #008000; font-weight: bold&#34;&gt;import&lt;/span&gt; &lt;span style=&#34;color: #0000FF; font-weight: bold&#34;&gt;os&lt;/span&gt;
+&lt;span style=&#34;color: #008000; font-weight: bold&#34;&gt;import&lt;/span&gt; &lt;span style=&#34;color: #0000FF; font-weight: bold&#34;&gt;sys&lt;/span&gt;
+sys&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;path&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;insert(&lt;span style=&#34;color: #666666&#34;&gt;0&lt;/span&gt;, os&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;path&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;abspath(&lt;span style=&#34;border: 1px solid #FF0000&#34;&gt;‘&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;..&lt;/span&gt;&lt;span style=&#34;border: 1px solid #FF0000&#34;&gt;’&lt;/span&gt;))
+
+&lt;span style=&#34;color: #008000; font-weight: bold&#34;&gt;import&lt;/span&gt; &lt;span style=&#34;color: #0000FF; font-weight: bold&#34;&gt;sample&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;div class=&#34;highlight&#34; style=&#34;background: #f8f8f8&#34;&gt;&lt;pre style=&#34;line-height: 125%&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span style=&#34;color: #008000; font-weight: bold&#34;&gt;from&lt;/span&gt; &lt;span style=&#34;color: #0000FF; font-weight: bold&#34;&gt;.context&lt;/span&gt; &lt;span style=&#34;color: #008000; font-weight: bold&#34;&gt;import&lt;/span&gt; sample
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;That said, I decided to give his recommendations a shot.&lt;/p&gt;
+
+&lt;h3 id=&#34;another-twist&#34;&gt;Another twist&lt;/h3&gt;
+
+&lt;p&gt;Meanwhile, Nick noted that there is also a &lt;a href=&#34;http://pythonhosted.org/Distutils2/&#34;&gt;&lt;code&gt;distutils2&lt;/code&gt;&lt;/a&gt; project now, to improve &lt;code&gt;distutils&lt;/code&gt;, and that nobody is working on &lt;code&gt;distribute&lt;/code&gt; any more. This sounds like a crazy soap opera in the Python world.&lt;/p&gt;
+
+&lt;h2 id=&#34;python-community-debates-and-news&#34;&gt;Python community debates and news&lt;/h2&gt;
+
+&lt;p&gt;Joe opened up the discussion on Python community news.&lt;/p&gt;
+
+&lt;h3 id=&#34;start-writing-more-classes&#34;&gt;&amp;ldquo;Start Writing More Classes&amp;rdquo;?&lt;/h3&gt;
+
+&lt;p&gt;In the Python community, there has always been some controversy over whether to go all-out object-oriented with classes or write in a more functional style. The language supports both styles, although classes were a fairly late addition to the language.&lt;/p&gt;
+
+&lt;h4 id=&#34;stop-writing-classes&#34;&gt;&amp;ldquo;Stop Writing Classes&amp;rdquo;?&lt;/h4&gt;
+
+&lt;p&gt;Last year, at PyCon 2012, there was a talk, &amp;ldquo;Stop Writing Classes&amp;rdquo;, that made waves:&lt;/p&gt;
+
+&lt;iframe width=&#34;420&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/o9pEzgHorH0&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;I thought it was a good talk, because it exposed how many things done with classes are superfluous, creating code bloat and deeply nested hierarchies: often you can just use a functional style with data that is not all wrapped into classes.&lt;/p&gt;
+
+&lt;h4 id=&#34;a-rebuttal&#34;&gt;A rebuttal&lt;/h4&gt;
+
+&lt;p&gt;Just two weeks ago, someone wrote a post on how &lt;a href=&#34;http://lucumr.pocoo.org/2013/2/13/moar-classes/&#34;&gt;Python programmers should be writing more classes, not less&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I was not happy about this post because it set up a straw man. Really, he was simply arguing for modular code vs. monolithic code, and observing that some people who don&amp;rsquo;t use classes end up writing monolithic code. He even states as much at the end of his post. So the title of his post is misleading.&lt;/p&gt;
+
+&lt;h3 id=&#34;other-news&#34;&gt;Other news&lt;/h3&gt;
+
+&lt;p&gt;There were various other smaller topics discussed, but &lt;code&gt;distribute&lt;/code&gt; and classes dominated this evening.&lt;/p&gt;
+
+&lt;h2 id=&#34;updates-after-the-meetup&#34;&gt;(Updates after the meetup)&lt;/h2&gt;
+
+&lt;p&gt;After I went home, I updated &lt;a href=&#34;https://github.com/FranklinChen/project-euler-python&#34;&gt;one of my sample Python projects&lt;/a&gt; to adhere to Kenneth Reitz&amp;rsquo;s guidelines.&lt;/p&gt;
+
+&lt;p&gt;Also, some weeks later, I noticed an &lt;a href=&#34;http://mail.python.org/pipermail/distutils-sig/2013-March/020126.html&#34;&gt;announcement that &lt;code&gt;setuptools&lt;/code&gt; and &lt;code&gt;distribute&lt;/code&gt; were going to merge efforts&lt;/a&gt;. Hooray!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Attending the first OpenHack Pittsburgh meeting</title>
+      <link>http://franklinchen.com/blog/2013/01/21/attending-the-first-openhack-pittsburgh-meeting/</link>
+      <pubDate>Mon, 21 Jan 2013 21:49:13 -0500</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2013/01/21/attending-the-first-openhack-pittsburgh-meeting/</guid>
+      <description>
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://openhack.github.com/images/logo-green.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;OpenHack logo&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;I was excited to attend the &lt;a href=&#34;http://www.meetup.com/pittsburgh-ruby/events/96033112/&#34;&gt;very first meeting&lt;/a&gt; of &lt;a href=&#34;http://openhack.github.com/pittsburgh/&#34;&gt;OpenHack Pittsburgh&lt;/a&gt;, out of curiosity and as a way to force myself to make progress on a personal programming project of mine using Scala (ironically, after spending the day at work on Scala; apparently I couldn&amp;rsquo;t get enough of it).&lt;/p&gt;
+
+&lt;p&gt;The point of &lt;a href=&#34;http://openhack.github.com/&#34;&gt;OpenHack&lt;/a&gt; is to provide a space for programmers to meet up and work on something. It could be a shared project, it could be a personal project.&lt;/p&gt;
+
+&lt;p&gt;Some people come with something to work on, others come to meet other programmers and pitch in on a project, others come to learn something. It was cool that some people left the first meeting finally getting set up on Ruby or Python or Clojure, and working on a project, with help from other people.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/openhack-pittsburgh-2013-01-21/room.jpeg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;One room&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/openhack-pittsburgh-2013-01-21/conference-room.jpeg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Conference room&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;And yes, in the two hours I was there, I did make good progress on my project. It&amp;rsquo;s not finished yet though.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/openhack-pittsburgh-2013-01-21/closeup.jpeg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Franklin and others&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;h2 id=&#34;thanks&#34;&gt;Thanks&lt;/h2&gt;
+
+&lt;p&gt;Many thanks to &lt;a href=&#34;http://www.4moms.com/&#34;&gt;4moms&lt;/a&gt; for hosting the first OpenHack Pittsburgh meetup, and providing the sandwiches and chips and beverages!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Pittsburgh Python talk: &#34;Testing with isolation: concepts and examples using the Python standard library `mock`&#34;</title>
+      <link>http://franklinchen.com/blog/2012/10/24/my-pittsburgh-python-talk-mock/</link>
+      <pubDate>Wed, 24 Oct 2012 23:58:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/10/24/my-pittsburgh-python-talk-mock/</guid>
+      <description>&lt;figure &gt;
+    
+        &lt;img src=&#34;http://benbiddington.files.wordpress.com/2009/09/mocks-and-stubs.png&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Mocks&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;A week ago, I saw a message on the &lt;a href=&#34;http://www.meetup.com/pghpython/&#34;&gt;Pittsburgh Python&lt;/a&gt; mailing list:&lt;/p&gt;
+
+&lt;blockquote&gt;
+We are looking for a presenter to talk about mock, pymox or other Python testing topics for our next meeting. If you have a different topic that you would like to present on, please let us know about that too, though preference will be given to testing-related talks this month.
+&lt;/blockquote&gt;
+
+&lt;p&gt;I fairly quickly volunteered to talk about the Python standard library &lt;a href=&#34;http://www.voidspace.org.uk/python/mock/&#34;&gt;&lt;code&gt;mock&lt;/code&gt;&lt;/a&gt;, despite never having used it!&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s a brief report of the Pittsburgh Python meeting in Google Pittsburgh (along with links to slides).&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;slides&#34;&gt;Slides&lt;/h2&gt;
+
+&lt;p&gt;Slides are &lt;a href=&#34;http://franklinchen.com/talk-on-python-mock/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;why-did-i-volunteer&#34;&gt;Why did I volunteer?&lt;/h2&gt;
+
+&lt;p&gt;When I volunteered to give my last talk, a &lt;a href=&#34;../../blog/2012/09/06/my-pittsburgh-ruby-talk-nil/&#34;&gt;talk at Pittsburgh Ruby&lt;/a&gt;, the reason was that I had a specific topic of my choosing on which I already had an informed opinion, and my goal was to explain it.&lt;/p&gt;
+
+&lt;p&gt;In stark contrast to that situation, I volunteered to give a talk on testing with &lt;code&gt;mock&lt;/code&gt; in Python while not having ever used it, and in fact not ever having used &lt;a href=&#34;http://en.wikipedia.org/wiki/Mock_object&#34;&gt;mock objects&lt;/a&gt; at all in my own &lt;a href=&#34;http://en.wikipedia.org/wiki/Unit_testing&#34;&gt;unit testing&lt;/a&gt;, although I knew the basic concepts behind mocks.&lt;/p&gt;
+
+&lt;p&gt;So I was volunteering in this case in order to &lt;em&gt;force myself to learn something in more depth&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;my-preparation&#34;&gt;My preparation&lt;/h2&gt;
+
+&lt;p&gt;Preparing for this talk was quite challenging for me. (Hmm, I have a feeling I&amp;rsquo;ll always feel this way for the rest of my talks in my life!?)&lt;/p&gt;
+
+&lt;h3 id=&#34;time&#34;&gt;Time&lt;/h3&gt;
+
+&lt;p&gt;Deciding to suddenly prepare a talk threw a mini-bomb into my schedule for the following week, because I had many other things to work on. However, I thought it was a great opportunity to investigate something in depth that I had already wanted to for some time, so I put some other things aside. Sometimes one has to be flexible in the face of a good opportunity. &lt;em&gt;I care a huge deal about the topic of software testing&lt;/em&gt;, so I felt I could not pass up the opportunity to share some ideas with an audience.&lt;/p&gt;
+
+&lt;h3 id=&#34;technical-material&#34;&gt;Technical material&lt;/h3&gt;
+
+&lt;p&gt;A huge number of people (over forty) quickly signed up to attend the Pittsburgh Python meeting, during which two talks were scheduled: one on &lt;a href=&#34;http://code.google.com/p/selenium/&#34;&gt;Selenium WebDriver&lt;/a&gt; by Steve Gross, and one by me. Wow. I don&amp;rsquo;t know what&amp;rsquo;s causing this explosion in the size of the Pittsburgh Python community, but that&amp;rsquo;s great!&lt;/p&gt;
+
+&lt;p&gt;I made a very quick decision &lt;em&gt;not&lt;/em&gt; to focus on all the features of the &lt;code&gt;mock&lt;/code&gt; library. That&amp;rsquo;s not a talk that I would myself go to. I put myself in the shoes of the forty participants. Obviously there was going to be a wide variety of background knowledge and experience about &lt;em&gt;testing&lt;/em&gt; in general as well as about &lt;em&gt;mocks&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;In fact, Abby was going to come along with me to attend the Pittsburgh Python meeting. She just started learning computer programming a couple of weeks ago, using Python as her first programming language, and &lt;a href=&#34;http://coursera.org/&#34;&gt;Coursera&lt;/a&gt; as the primary vehicle of instruction. I hoped to give a talk that she would get something usefully high-level and conceptual out of.&lt;/p&gt;
+
+&lt;p&gt;I figured on speaking for no more than half an hour.&lt;/p&gt;
+
+&lt;p&gt;So I wanted to focus on a clean, correct review (or introduction, as the case was surely going to be for some of the participants) of &lt;em&gt;unit testing&lt;/em&gt;. I deliberately took a &lt;a href=&#34;http://en.wikipedia.org/wiki/Test-driven_development&#34;&gt;&lt;em&gt;test-driven development&lt;/em&gt; (TDD)&lt;/a&gt; perspective as I designed some easy-to-understand examples of the entire process of writing a test, making it fail, then writing the implementation, then running the test again, etc. I felt that TDD was the ideal way to discuss the notion of testing with &lt;em&gt;isolation&lt;/em&gt;, because if collaborating code for a system under test (SUT) does not yet exist at all, it becomes quite clear where the possible isolation boundaries are.&lt;/p&gt;
+
+&lt;p&gt;I also wanted to use this example as a running example in order to introduce and explore questions of &lt;a href=&#34;http://en.wikipedia.org/wiki/Method_stub&#34;&gt;&lt;em&gt;stubbing&lt;/em&gt;&lt;/a&gt;, or more generally, &lt;a href=&#34;http://en.wikipedia.org/wiki/Test_double&#34;&gt;&lt;em&gt;test doubles&lt;/em&gt;&lt;/a&gt;. In particular, I brought up the ongoing controversy over the use of mocks in testing at all, framed around the pretty fair &lt;a href=&#34;http://martinfowler.com/articles/mocksArentStubs.html&#34;&gt;analysis by Martin Fowler&lt;/a&gt;. In order to be able to explain the controversy, I developed my running example to show a way of refactoring code in order to test &lt;em&gt;without&lt;/em&gt; mocking, as well as showing how one could do it &lt;em&gt;with&lt;/em&gt; mocking. And so I only explained enough features of Python &lt;code&gt;mock&lt;/code&gt; to enable illustrating the issues. I gave some examples of pros and cons to using mocks.&lt;/p&gt;
+
+&lt;p&gt;Of course, I had to read a bunch of articles and book excerpts, and writing running code, as part of my own process of learning and understanding the controversy; these were resources I had bookmarked a year ago when I had first heard about it. Hooray for &lt;em&gt;talk-driven learning&lt;/em&gt;!&lt;/p&gt;
+
+&lt;p&gt;Since I was not going to have time, I deliberately had no plan to discuss what I think is quite interesting, which is the &lt;em&gt;philosophy&lt;/em&gt; that drives a strictly mock-driven approach to testing. This philosophy involves rigorously taking the outside-in approach as a matter of &lt;em&gt;design&lt;/em&gt;. I have to confess that I do not currently take this extreme approach, but it intrigues me, and now that I know better what the techniques and controversies are, I may give it a try in new projects in order to see how well it works.&lt;/p&gt;
+
+&lt;h3 id=&#34;presentation-skills&#34;&gt;Presentation skills&lt;/h3&gt;
+
+&lt;p&gt;I felt more relaxed when giving this talk than I did in my previous one (for Pittsburgh Ruby). Just this sheer fact probably helped some.&lt;/p&gt;
+
+&lt;h3 id=&#34;presentation-software&#34;&gt;Presentation software&lt;/h3&gt;
+
+&lt;p&gt;I continue to use &lt;a href=&#34;http://github.com/adamzap/landslide&#34;&gt;landslide&lt;/a&gt; to generate an HTML slide show.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-presentation&#34;&gt;The presentation&lt;/h2&gt;
+
+&lt;p&gt;Steve Gross gave a little demo of Selenium WebDriver first, and took questions, before I gave my half-hour talk.&lt;/p&gt;
+
+&lt;p&gt;I tried to ask useful questions of the audience and answer people&amp;rsquo;s questions during the talk. This is a kind of skill that has to come from experience, because one can&amp;rsquo;t anticipate everything ahead of time, and one has to gauge where people&amp;rsquo;s minds might be. I know that when I&amp;rsquo;m at someone&amp;rsquo;s talk, and I&amp;rsquo;m confused or lost or bored, I appreciate when the speaker can tell, and can adjust accordingly. This is clearly key. With forty people around, however, man, it&amp;rsquo;s hard.&lt;/p&gt;
+
+&lt;h2 id=&#34;reflections&#34;&gt;Reflections&lt;/h2&gt;
+
+&lt;p&gt;I enjoyed speaking at the Pittsburgh Python group meeting, just my second time since &lt;a href=&#34;../../blog/2012/08/23/pittsburgh-python-meetup-i-gave-my-first-lightning-talk-ever-the-topic-was-scons/&#34;&gt;my first lightning talk for the group&lt;/a&gt; during which I didn&amp;rsquo;t even have any slides prepared, but just drew some pictures on the whiteboard and scrolled through some code in an Emacs buffer.&lt;/p&gt;
+
+&lt;h2 id=&#34;supporting-web-site&#34;&gt;Supporting Web site&lt;/h2&gt;
+
+&lt;p&gt;I have a &lt;a href=&#34;http://github.com/franklinchen/talk-on-python-mock&#34;&gt;supporting Web site for the talk&lt;/a&gt; with code.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;I put a lot of work into the presentation I gave at Pittsburgh Python, and am grateful to Nick Sloan for bringing up the theme and calling for volunteers. I like the idea of a &amp;ldquo;theme&amp;rdquo; for a meeting, such as the theme of &amp;ldquo;testing&amp;rdquo; that was our theme this last time.&lt;/p&gt;
+
+&lt;p&gt;And I have to thank Abby for supporting me as my week got frantic as a result of suddenly volunteering to give my talk, and for attending a talk by me for the first time ever!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>A short example of why I prefer static typing: learning Gradle</title>
+      <link>http://franklinchen.com/blog/2012/09/24/a-short-example-of-why-i-prefer-static-typing-learning-gradle/</link>
+      <pubDate>Mon, 24 Sep 2012 17:07:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/09/24/a-short-example-of-why-i-prefer-static-typing-learning-gradle/</guid>
+      <description>&lt;p&gt;I make no secret of the fact the I prefer to program in &lt;a href=&#34;http://en.wikipedia.org/wiki/Programming_language#Static_versus_dynamic_typing&#34;&gt;statically-typed languages&lt;/a&gt;. That is not to say that I don&amp;rsquo;t write programs in dynamically typed languages. In fact, I have written and will continue to write programs in &lt;a href=&#34;../../categories/perl/&#34;&gt;Perl&lt;/a&gt;, &lt;a href=&#34;../../categories/python/&#34;&gt;Python&lt;/a&gt;, &lt;a href=&#34;../../categories/ruby/&#34;&gt;Ruby&lt;/a&gt;, &lt;a href=&#34;../../categories/javascript/&#34;&gt;JavaScript&lt;/a&gt;, and other dynamically typed programs, because pragmatically speaking, there is a whole lot more to programming to get something done than questions of &lt;a href=&#34;http://en.wikipedia.org/wiki/Type_system&#34;&gt;type systems&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Nevertheless, it is always painful to me when I hit a wall when learning and using an unfamiliar API from a dynamically typed language. I always think, &amp;ldquo;if only this API were statically typed, so that when I encounter an error, I can immediately look up what went wrong&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;rsquo;s an example as I&amp;rsquo;ve been learning &lt;a href=&#34;http://www.gradle.org/&#34;&gt;Gradle&lt;/a&gt; while evaluating it along with learning &lt;a href=&#34;http://www.scala-sbt.org/&#34;&gt;SBT&lt;/a&gt;, as two candidate build tools for me to switch to out of &lt;a href=&#34;http://maven.apache.org/&#34;&gt;Maven&lt;/a&gt; as my build tool for a primarily Java-based project. Note that Gradle is basically an embedded domain-specific language using the dynamically typed language &lt;a href=&#34;http://groovy.codehaus.org/&#34;&gt;Groovy&lt;/a&gt;, while SBT is an embedded domain-specific language using the statically typed language &lt;a href=&#34;http://www.scala-lang.org/&#34;&gt;Scala&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;code-example&#34;&gt;Code example&lt;/h2&gt;
+
+&lt;p&gt;Here&amp;rsquo;s a code example from a book I&amp;rsquo;ve been going through while studying Gradle, &lt;a href=&#34;http://gradleware.com/registered/books/building-and-testing/&#34;&gt;&amp;ldquo;Building and Testing with Gradle&amp;rdquo;&lt;/a&gt;:&lt;/p&gt;
+
+&lt;h3 id=&#34;example-3-21-use-the-ant-path-references-inside-the-gradle-build&#34;&gt;Example 3.21. Use the Ant path references inside the Gradle build&lt;/h3&gt;
+
+&lt;div class=&#34;highlight&#34; style=&#34;background: #f8f8f8&#34;&gt;&lt;pre style=&#34;line-height: 125%&#34;&gt;&lt;span&gt;&lt;/span&gt;ant&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;importBuild&lt;/span&gt; &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;#39;build.xml&amp;#39;&lt;/span&gt;
+
+defaultTasks &lt;span style=&#34;color: #666666&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;[&lt;/span&gt;&lt;span style=&#34;color: #BA2121&#34;&gt;&amp;#39;gradleBuild&amp;#39;&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;]&lt;/span&gt;
+
+&lt;span style=&#34;color: #408080; font-style: italic&#34;&gt;////////////////////////////////////////////////////////////////////////&lt;/span&gt;
+&lt;span style=&#34;color: #408080; font-style: italic&#34;&gt;// Gradle paths retrieved from Ant and then built using a Gradle task&lt;/span&gt;
+repositories &lt;span style=&#34;color: #666666&#34;&gt;{&lt;/span&gt;
+    flatDir &lt;span style=&#34;color: #A0A000&#34;&gt;name:&lt;/span&gt; &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;#39;localRepository1&amp;#39;&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color: #A0A000&#34;&gt;dirs:&lt;/span&gt; ant&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;references&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;[&lt;/span&gt;&lt;span style=&#34;color: #BA2121&#34;&gt;&amp;#39;antPathToLibs1&amp;#39;&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;]&lt;/span&gt;
+    flatDir &lt;span style=&#34;color: #A0A000&#34;&gt;name:&lt;/span&gt; &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;#39;localRepository2&amp;#39;&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color: #A0A000&#34;&gt;dirs:&lt;/span&gt; ant&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;references&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;antPathToLibs2&lt;/span&gt;
+    flatDir &lt;span style=&#34;color: #A0A000&#34;&gt;name:&lt;/span&gt; &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;#39;localRepository3&amp;#39;&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;,&lt;/span&gt; &lt;span style=&#34;color: #A0A000&#34;&gt;dirs:&lt;/span&gt; &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;antlibs&amp;quot;&lt;/span&gt;
+&lt;span style=&#34;color: #666666&#34;&gt;}&lt;/span&gt;
+
+task gradleBuild &lt;span style=&#34;color: #666666&#34;&gt;&amp;lt;&amp;lt;&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;{&lt;/span&gt;
+    &lt;span style=&#34;color: #408080; font-style: italic&#34;&gt;//Set classpath to include the JAR&lt;/span&gt;
+    println &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;The repositories bridged from Ant to Gradle are:&amp;quot;&lt;/span&gt;
+    println repositories&lt;span style=&#34;color: #666666&#34;&gt;*.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;name&lt;/span&gt;
+
+    println repositories&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;localRepository1&lt;/span&gt;
+
+    println repositories&lt;span style=&#34;color: #666666&#34;&gt;[&lt;/span&gt;&lt;span style=&#34;color: #BA2121&#34;&gt;&amp;#39;localRepository2&amp;#39;&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;]&lt;/span&gt;
+
+    println &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;localRepository3 class = &amp;quot;&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;+&lt;/span&gt; repositories&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;localRepository3&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;class&lt;/span&gt;
+    println &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;localRepository3 name = &amp;quot;&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;+&lt;/span&gt; repositories&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;localRepository3&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;name&lt;/span&gt;
+    println &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;localRepository3 latest = &amp;quot;&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;+&lt;/span&gt; repositories&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;localRepository3&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;latest&lt;/span&gt;
+    println &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;localRepository3 ivyPatterns = &amp;quot;&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;+&lt;/span&gt; repositories&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;localRepository3&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;ivyPatterns&lt;/span&gt;
+    println &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;localRepository3 artifactPatterns =&lt;/span&gt;
+&lt;span style=&#34;color: #BA2121&#34;&gt;       &amp;quot;&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;+&lt;/span&gt; repositories&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;localRepository3&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;artifactPatterns&lt;/span&gt;
+    println &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;localRepository3 checkconsistency =&lt;/span&gt;
+&lt;span style=&#34;color: #BA2121&#34;&gt;       &amp;quot;&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;+&lt;/span&gt; repositories&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;localRepository3&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;checkconsistency&lt;/span&gt;
+    println &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;localRepository3 m2compatible =&lt;/span&gt;
+&lt;span style=&#34;color: #BA2121&#34;&gt;       &amp;quot;&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;+&lt;/span&gt; repositories&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;localRepository3&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;m2compatible&lt;/span&gt;
+    println &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;quot;localRepository3 methods =&lt;/span&gt;
+&lt;span style=&#34;color: #BA2121&#34;&gt;       &amp;quot;&lt;/span&gt; &lt;span style=&#34;color: #666666&#34;&gt;+&lt;/span&gt; repositories&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;localRepository3&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;metaClass&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;methods&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;*.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;name&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;.&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;sort&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;().&lt;/span&gt;&lt;span style=&#34;color: #7D9029&#34;&gt;unique&lt;/span&gt;&lt;span style=&#34;color: #666666&#34;&gt;()&lt;/span&gt;
+&lt;span style=&#34;color: #666666&#34;&gt;}&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h2 id=&#34;error-output&#34;&gt;Error output&lt;/h2&gt;
+
+&lt;p&gt;Unfortunately, this Gradle build file, when executed under the current version of Gradle, dies with an error:&lt;/p&gt;
+
+&lt;p&gt;&lt;div class=&#34;highlight&#34; style=&#34;background: #f8f8f8&#34;&gt;&lt;pre style=&#34;line-height: 125%&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;span style=&#34;color: #000080; font-weight: bold&#34;&gt;$&lt;/span&gt; ./run-example.bsh
+&lt;span style=&#34;color: #888888&#34;&gt;:gradleBuild&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;The repositories bridged from Ant to Gradle are:&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;[localRepository1, localRepository2, localRepository3]&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;org.gradle.api.internal.artifacts.repositories.DefaultFlatDirArtifactRepository_Decorated@7f205d8d&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;org.gradle.api.internal.artifacts.repositories.DefaultFlatDirArtifactRepository_Decorated@5eef2e7c&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;localRepository3 class = class org.gradle.api.internal.artifacts.repositories.DefaultFlatDirArtifactRepository_Decorated&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;localRepository3 name = localRepository3&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;:gradleBuild FAILED&lt;/span&gt;
+
+&lt;span style=&#34;color: #888888&#34;&gt;FAILURE: Build failed with an exception.&lt;/span&gt;
+
+&lt;span style=&#34;color: #888888&#34;&gt;* Where:&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;Build file &amp;#39;oreilly-gradle-book-examples/ant-classpathanttogradle/build.gradle&amp;#39; line: 24&lt;/span&gt;
+
+&lt;span style=&#34;color: #888888&#34;&gt;* What went wrong:&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;Execution failed for task &amp;#39;:gradleBuild&amp;#39;.&lt;/span&gt;
+&lt;span style=&#34;color: #000080; font-weight: bold&#34;&gt;&amp;gt;&lt;/span&gt; Could not find property &lt;span style=&#34;color: #BA2121&#34;&gt;&amp;#39;latest&amp;#39;&lt;/span&gt; on org.gradle.api.internal.artifacts.repositories.DefaultFlatDirArtifactRepository_Decorated@8c1e4d5.
+
+&lt;span style=&#34;color: #888888&#34;&gt;* Try:&lt;/span&gt;
+&lt;span style=&#34;color: #888888&#34;&gt;Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output.&lt;/span&gt;
+
+&lt;span style=&#34;color: #888888&#34;&gt;BUILD FAILED&lt;/span&gt;
+&lt;/pre&gt;&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p&gt;After much searching online, I still could not figure out what properties are supposed to be available from &lt;code&gt;repositories.localRepository3&lt;/code&gt;. I looked at the &lt;a href=&#34;http://www.gradle.org/docs/current/javadoc/overview-tree.html&#34;&gt;Gradle documentation&lt;/a&gt;, and I looked up the package &lt;a href=&#34;http://www.gradle.org/docs/current/javadoc/org/gradle/api/artifacts/repositories/package-tree.html&#34;&gt;&lt;code&gt;org.gradle.api.internal.artifacts.repositories&lt;/code&gt;&lt;/a&gt; without success.&lt;/p&gt;
+
+&lt;p&gt;Gradle&amp;rsquo;s API has changed since the publication of the book, obviously. And in fact, I have been submitting &lt;a href=&#34;https://github.com/gradleware/oreilly-gradle-book-examples/commit/351f31f1cdede84233b977e67031720177144aab&#34;&gt;GitHub pull requests&lt;/a&gt; as I update the code examples while encountering apparent changes. But sometimes, as in this case, it has been too confusing for me to figure out how to update the code. You could say that this is always the case for any code in any language, but what bothers me is the nature of error messages and documentation in APIs for dynamically typed languages such as Groovy. These experiences remind me that &lt;em&gt;types are documentation&lt;/em&gt;, that &lt;em&gt;types are a way for a programmer to tell the world how code is supposed to be used&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;Gradle seems to be a promising build tool, and I will continue to evaluate it while skipping over the particular mysterious error I encountered (since it is not really relevant to what I want to do in my builds), but I wish I could have better figured out what went wrong with the book&amp;rsquo;s code example. Meanwhile, it remains to be seen what kinds of problems I will encounter when using SBT. Again, I have to emphasize that my goal is to get things done, correctly and efficiently. Whatever works best, I will use, whatever its drawbacks: in another project, I happily used &lt;a href=&#34;../../categories/scons/&#34;&gt;SCons&lt;/a&gt; as a build tool, based on the dynamically typed language Python, and of course, I have used &lt;a href=&#34;http://rake.rubyforge.org/&#34;&gt;Rake&lt;/a&gt; for Ruby projects.&lt;/p&gt;
+
+&lt;h3 id=&#34;update-of-2015-05-18&#34;&gt;(Update of 2015-05-18)&lt;/h3&gt;
+
+&lt;p&gt;Wow, that was written in fall of 2012.&lt;/p&gt;
+
+&lt;p&gt;Since then, I have heavily used SBT from then to the present first for Java, then for Scala, which &lt;a href=&#34;http://franklinchen.com/blog/2013/01/11/2013-is-my-year-of-scala/&#34;&gt;became my main programming language in early 2013&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Also, in early 2015, &lt;a href=&#34;http://blog.pivotal.io/pivotal/news-2/groovy-2-4-and-grails-3-0-to-be-last-major-releases-under-pivotal-sponsorship&#34;&gt;Pivotal got out of the Groovy business&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Meanwhile, in early 2015 as I adopted Haskell as my main language for new projects, I switched away from SCons as a general-purpose build tool to Haskell-based &lt;a href=&#34;http://shakebuild.com/&#34;&gt;Shake&lt;/a&gt;, which works really great for me.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pittsburgh Python meetup: I gave my first lightning talk ever; the topic was SCons</title>
+      <link>http://franklinchen.com/blog/2012/08/23/pittsburgh-python-meetup-i-gave-my-first-lightning-talk-ever-the-topic-was-scons/</link>
+      <pubDate>Thu, 23 Aug 2012 21:53:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/08/23/pittsburgh-python-meetup-i-gave-my-first-lightning-talk-ever-the-topic-was-scons/</guid>
+      <description>
+
+&lt;p&gt;Yesterday I gave my first &lt;a href=&#34;http://en.wikipedia.org/wiki/Lightning_talk&#34;&gt;lightning talk&lt;/a&gt; in my life, as far as I can remember.&lt;/p&gt;
+
+&lt;p&gt;I spoke for probably around five minutes at the monthly meeting of the &lt;a href=&#34;http://pghpython.org/&#34;&gt;Pittsburgh Python User Group&lt;/a&gt;, which had a &lt;a href=&#34;http://www.meetup.com/pghpython/events/72341992/&#34;&gt;module show-and-tell night&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I originally had not planned to attend the meeting, since although I have been to meetings of the Python group since January 2011, &lt;a href=&#34;../../blog/2011/10/16/pittsburgh-software-developer-communities/&#34;&gt;I stopped going over a year ago&lt;/a&gt;. But I suddenly decided on short notice to volunteer before the meeting to give a little talk on the Python-based tool &lt;a href=&#34;http://www.scons.org/&#34;&gt;SCons&lt;/a&gt;. I did this for a couple of reasons:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Two weeks ago at Steel City Ruby Conf, &lt;a href=&#34;../../blog/2012/08/07/the-first-steel-city-ruby-conference-an-amazing-experience/&#34;&gt;I decided to start giving talks at programming groups&lt;/a&gt;; I committed to giving a talk at the Ruby group, but this week suddenly saw the opportunity to give a low-pressure lightning talk at the Python group.&lt;/li&gt;
+&lt;li&gt;I&amp;rsquo;d mentioned my use of SCons a long time ago at the Python group and I have been feeling obliged to actually promote this excellent tool.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;the-module-show-and-tell&#34;&gt;The module show and tell&lt;/h2&gt;
+
+&lt;p&gt;It turned out that only four of us had described ahead of time a module to talk about. The first three spoke about &lt;code&gt;multiprocessing&lt;/code&gt;, &lt;code&gt;formencode&lt;/code&gt;, and &lt;code&gt;urllib2&lt;/code&gt;, then I finally stepped up and talked about SCons. After that, it was good to see people spontaneously get up and talk about other Python libraries and software, including &lt;code&gt;requests&lt;/code&gt;, &lt;code&gt;numba&lt;/code&gt;, &lt;code&gt;lxml&lt;/code&gt;, &lt;code&gt;melopy&lt;/code&gt;, and &lt;code&gt;logbook&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h3 id=&#34;what-i-tried-to-do-in-my-talk&#34;&gt;What I tried to do in my talk&lt;/h3&gt;
+
+&lt;p&gt;I tried to give a concrete example of why I use SCons to manage building various artifacts from source files and directories, analyzing them, and removing outdated material. Essentially, in 2006, I was looking for an alternative to GNU &lt;code&gt;make&lt;/code&gt; because I wanted the power of a full-blown programming language in order to do builds that require real computation that depend on conditions, SCons. SCons is an embedded &lt;a href=&#34;http://en.wikipedia.org/wiki/Domain-specific_language&#34;&gt;domain specific language&lt;/a&gt; for construction, in contrast to &lt;code&gt;make&lt;/code&gt;, which is an external domain specific language (actually, GNU &lt;code&gt;make&lt;/code&gt; is more than that; it is a perverse Turing-complete language).&lt;/p&gt;
+
+&lt;p&gt;Using SCons, I can generate dependencies dynamically by writing Python code (in contrast to the &lt;code&gt;make&lt;/code&gt; paradigm in which one often writes, using some separate language, a script to generate a &lt;code&gt;Makefile&lt;/code&gt; to include into the master &lt;code&gt;Makefile&lt;/code&gt;).&lt;/p&gt;
+
+&lt;p&gt;Furthermore, &amp;ldquo;builders&amp;rdquo; that do the work of connecting targets with sources can be written in Python; in &lt;code&gt;make&lt;/code&gt;, builder actions are shell commands, which means that if you have to do something nontrivial, you have to write some program to call from &lt;code&gt;make&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;It is so much more convenient to do everything with Python and Python libraries rather than to write extra programs to call.&lt;/p&gt;
+
+&lt;p&gt;During the talk, I drew some sketches of directory trees and sources and targets on the whiteboard to illustrate what kinds of actions were handled by an SCons script I had written for a specific purpose at work.&lt;/p&gt;
+
+&lt;p&gt;For a longer talk, I would have prepared a few slides and added more clarifying detail to my presentation, but I decided to just do this one impromptu.&lt;/p&gt;
+
+&lt;h2 id=&#34;my-source-code&#34;&gt;My source code&lt;/h2&gt;
+
+&lt;p&gt;The source code for my example SCons script is available on &lt;a href=&#34;http://github.com/FranklinChen/update-childes-talkbank/&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Since it was originally written in 2006, it was not developed the way I would do it today (for example, it is a single monolithic script, does not have proper user-level documentation, has hard-coded strings, and was not designed in a test-driven way), but it works. If new requirements cause me to need to change the code, I will definitely refactor first.&lt;/p&gt;
+
+&lt;p&gt;Part of me had wanted to refactor before public release, but I decided that perfectionism had held me back too long from sharing, so I was just going to put the code as it is.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;I have very little experience giving talks at all. The few &amp;ldquo;long&amp;rdquo; talks I&amp;rsquo;ve given over the years have been a nerve-wracking experience in which I did badly. I have a long-term goal of actually being a decent public speaker, so that I can share my knowledge more effectively with the world. It will take study, practice, self-assessment, and experience. I&amp;rsquo;ve delayed progress on this goal for too long, and am happy to start putting myself out there, starting small in lower-stakes situations and building up from there.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Reflections on 2011</title>
+      <link>http://franklinchen.com/blog/2011/12/31/reflections-on-2011/</link>
+      <pubDate>Sat, 31 Dec 2011 18:52:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2011/12/31/reflections-on-2011/</guid>
+      <description>&lt;p&gt;I reflect on my year of 2011 as it ends. Since I did not start blogging until September, I go into more detail of what happened before then.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;january&#34;&gt;January&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Abby and I continued our project of massively reorganizing our home, a project that began when she moved in during summer 2010. We were very grateful that Abby&amp;rsquo;s father helped out a lot.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I continued getting rid of a lot of stuff, including another eighteen boxes of my books, as I became an initially reluctant &lt;a href=&#34;../../categories/minimalism/&#34;&gt;minimalist&lt;/a&gt;. We sold or gave away a &lt;em&gt;huge&lt;/em&gt; number of various of belongings.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby started cooking much more than in the past, and we enjoyed trying new dishes of her making.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I enjoyed some light cross-country skiing in the winter, using the &lt;a href=&#34;http://en.wikipedia.org/wiki/Schenley_Park_Golf_Course&#34;&gt;Bob O&amp;rsquo;Connor Golf Course at Schenley Park&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I began a weekly Zen &lt;a href=&#34;../../categories/meditation/&#34;&gt;meditation&lt;/a&gt; session offered at Carnegie Mellon University.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I started moving very gradually toward a &lt;a href=&#34;../../categories/paleo/&#34;&gt;paleo&lt;/a&gt; diet and exercise routine, and immediately experienced benefits. &amp;ldquo;The Paleo Solution&amp;rdquo; by &lt;a href=&#34;http://robbwolf.com/&#34;&gt;Robb Wolf&lt;/a&gt; was very useful.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I started learning modern &lt;a href=&#34;../../categories/javascript/&#34;&gt;JavaScript&lt;/a&gt; for a new project at work, getting into client-side Web development. As part of that, I learned &lt;a href=&#34;../../categories/jquery/&#34;&gt;jQuery&lt;/a&gt; through a free &lt;a href=&#34;http://p2pu.org/&#34;&gt;P2PU&lt;/a&gt; course and used it in the project.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I started using &lt;a href=&#34;http://en.wikipedia.org/wiki/XQuery&#34;&gt;XQuery&lt;/a&gt; at work to process XML in a clear and concise way. I had used XSLT in the past, but it was very unpleasant.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I decided, for various reasons, to stop writing new &lt;a href=&#34;../../categories/perl/&#34;&gt;Perl&lt;/a&gt; scripts and move to &lt;a href=&#34;../../categories/python/&#34;&gt;Python&lt;/a&gt; instead.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I started playing in my final (and disastrous) &lt;a href=&#34;../../categories/chess/&#34;&gt;chess&lt;/a&gt; tournament, the Pittsburgh Chess Club Championship (which I had won in 2006 and 2007).&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;february&#34;&gt;February&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Pittsburgh was all about the Steelers, and I went to a &lt;a href=&#34;http://en.wikipedia.org/wiki/Super_Bowl_XLV&#34;&gt;Super Bowl&lt;/a&gt; party for the first time, but we lost!&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I read &amp;ldquo;The Art of Non-Conformity&amp;rdquo; by &lt;a href=&#34;http://chrisguillebeau.com/&#34;&gt;Chris Guillebeau&lt;/a&gt; and found it so inspiring that I decided to take action and start making big changes to my life, in my own way.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;One big change: I quit playing chess, cold turkey, after having been unenthusiastic about it for months already (and playing correspondingly poorly). When the passion and enjoyment are gone, there is no point in hanging onto something just because it has been such an important part of my life for years.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;After years of not playing any music at all, I started playing &lt;a href=&#34;../../categories/recorder/&#34;&gt;recorder&lt;/a&gt;, and vowed to play every single day if possible. Ten months later, I am still playing recorder.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I began attending a lot of &lt;a href=&#34;../../blog/2011/10/16/pittsburgh-software-developer-communities/&#34;&gt;local software developer group meetings&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I started learning the &lt;a href=&#34;../../categories/scala/&#34;&gt;Scala&lt;/a&gt; programming language and decided to use it on a small project.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;march&#34;&gt;March&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Abby and I continued our meditation practice at CMU, and went to our first mini-&lt;a href=&#34;http://en.wikipedia.org/wiki/Sesshin&#34;&gt;sesshin&lt;/a&gt; on a Saturday.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I continued practicing recorder every single day, and joined the &lt;a href=&#34;http://www.andrew.cmu.edu/user/lukas/pcars/Welcome.html&#34;&gt;local chapter of the American Recorder Society&lt;/a&gt;. It was very exciting to meet new people and to get into a wide range of music I had never really listened to or played.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I saw a video of &lt;a href=&#34;http://jakeshimabukuro.com/&#34;&gt;Jake Shimabukuro&lt;/a&gt; playing &lt;a href=&#34;../../categories/ukulele/&#34;&gt;ukulele&lt;/a&gt; so beautifully that I was inspired to buy a ukulele and start learning to play it. (Unfortunately, it would turn out that time constraints caused me not to pursue ukulele far. This will change in 2012.)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I got pulled into the Ruby programming language because it is well-supported on Mac OS and it is easy to install libraries and tools, of which there are many that are quite useful.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I went to &lt;a href=&#34;http://farmtotablepa.com/&#34;&gt;Farm to Table&lt;/a&gt; in Pittsburgh, and after that, Abby started moving toward paleo eating, with even better results than my smaller experiments earlier.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I started our &lt;a href=&#34;../../categories/hiking/&#34;&gt;hiking&lt;/a&gt; season in the spring. Hiking is special to us; it was one of our first shared activities (after initially meeting during salsa dancing), and one we return to again and again. When there is no calendar conflict and the weather is acceptable, we like hiking almost every weekend from spring through fall.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;{% img /images/steves-soup-hike-2011-03-26.jpg Abby in front of me at Steve&amp;rsquo;s Soup Hike %}&lt;/p&gt;
+
+&lt;h2 id=&#34;april&#34;&gt;April&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;I started wearing &lt;a href=&#34;../../categories/fivefingers/&#34;&gt;Vibram FiveFingers shoes&lt;/a&gt; almost all the time, whether walking or running (but not yet for hiking).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I went to &lt;a href=&#34;../../categories/yoga/&#34;&gt;yoga&lt;/a&gt; at the &lt;a href=&#34;http://www.clpgh.org/locations/squirrelhill/&#34;&gt;Squirrel Hill Library&lt;/a&gt; for the first time.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;may&#34;&gt;May&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;I began my experiment with barefoot running, in observation of &lt;a href=&#34;http://barefootrunners.org/ibrd&#34;&gt;International Barefoot Running Day&lt;/a&gt;. I started walking around barefoot at work, ignoring the confused looks or comments of colleagues. (I still go barefoot at work.)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I bought a &lt;a href=&#34;../../categories/melodica/&#34;&gt;melodica&lt;/a&gt;, inspired by the amazing performances of &lt;a href=&#34;http://jnote.org/&#34;&gt;James Howard Young&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I took a little vacation, spending some days in New York visiting Nathaniel and Yael and their baby. I finally fulfilled my dream (from before marriage) of taking Abby to Coney Island to walk on the boardwalk and at the beach, eating pizza, and riding the Wonder Wheel, just as I once did when I was six years old.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I started doing research into major home renovations for the summer.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I visited my parents, and my sister Linda and her husband Andre also visited, with my mother throwing a delayed reception at home for the both of us who had gotten married in the past two years. Abby got to meet my parents&amp;rsquo; friends, finally. And I went running with my brother-in-law for the first time! Also, I took Abby to the little park in Ann Arbor where as a too-shy teenager I used to go and sit on a particular bench and wish I were sitting with my dream girl. Mission accomplished!&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;june&#34;&gt;June&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;John and I did a tough 19-mile training hike on the &lt;a href=&#34;http://www.rachelcarsontrails.org/rct&#34;&gt;Rachel Carson Trail&lt;/a&gt; and decided we&amp;rsquo;d had enough of that trail, and I decided I was probably not going to do the 35-mile &lt;a href=&#34;http://www.rachelcarsontrails.org/rct/challenge&#34;&gt;Rachel Carson Trail Challenge&lt;/a&gt; again (having completed it three times in the past).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;{% img /images/rachel-carson-trail-2011-06-05.jpg John on Rachel Carson Trail %}&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Abby started wearing Vibram FiveFingers more and more for walking and running, and even walking barefoot on the streets (something I had not yet seriously done myself at the time).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I stupidly threw out my back during exercise, and my back took weeks to fully recover (I could still run and hike, but not lift weights). Never again, I hope. I felt like a 90-year-old when my back was hurting constantly.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;We started some home improvement projects.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;july&#34;&gt;July&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;I started gravitating to almost exclusively body weight &lt;a href=&#34;../../categories/strength-training/&#34;&gt;strength training&lt;/a&gt;, as a reaction to my having injured my back earlier.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I went kayaking on the &lt;a href=&#34;http://en.wikipedia.org/wiki/Kiskiminetas_River&#34;&gt;Kiski River&lt;/a&gt; with &amp;ldquo;Fireman Steve&amp;rdquo; and the kayaking gang.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;On a longish hike, Abby surprised me by wearing Vibram FiveFingers shoes and they worked great for her, making her much faster and less sore, and I made a note to ditch my trail running shoes (which I had been using for years for hiking) in favor of FiveFingers for my next hike (which I did, and I have not gone back to regular shoes for hiking!).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I finally took Abby to &lt;a href=&#34;http://www.sandhillberries.com/&#34;&gt;Sand Hill Berries&lt;/a&gt; for tasty pie for the first time, always having intended to take her there when dating, but never having been in the vicinity with her then.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Major home renovation finally began, after much research, and we got electrical upgrade, insulation, and bathroom demolition and rebuilding. Very disruptive to our lives for weeks!&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I did another mini-&lt;a href=&#34;http://en.wikipedia.org/wiki/Sesshin&#34;&gt;sesshin&lt;/a&gt; at CMU.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;After a lifetime of almost never drinking coffee (average of maybe three or four cups a year), I became an avid espresso fan (one small cup a day) as a result of my boss getting a machine at work.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I started doing more barefoot running.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;august&#34;&gt;August&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Bathroom renovation done at last.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I were regularly hiking in Vibram FiveFingers.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;{% img /images/abby-franklin-soup-hike-vibram.jpg Abby and Franklin on Steve&amp;rsquo;s Soup Hike part 3 wearing Vibram FiveFingers %}&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Abby joined me to run in her first ever 5K race, &lt;a href=&#34;http://www.runaroundthesquare.com/&#34;&gt;Run Around the Square&lt;/a&gt; in Regent Square (mostly on the trails of Frick Park). What a special day! This race was my first ever 5K race when I started running in races in 2000.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I started to learn &lt;a href=&#34;../../categories/accordion/&#34;&gt;accordion&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;september&#34;&gt;September&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;I started running to work two or three times a week.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I ran in the &lt;a href=&#34;http://www.cs.cmu.edu/~kalp/PGR/&#34;&gt;CMU SCS Pretty Good Race 5K&lt;/a&gt; together, her second 5K race.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I went to &lt;a href=&#34;http://podcamppittsburgh.com/&#34;&gt;PodCamp Pittsburgh&lt;/a&gt;, and after that, &lt;a href=&#34;../../blog/2011/09/22/starting-a-new-web-site/&#34;&gt;I started this blog&lt;/a&gt; and proceeded to maintain a habit of posting every day (a routine that has been modified since then).&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;october&#34;&gt;October&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;I started expanding beyond just writing for my blog, and began contributing to the Web through &lt;a href=&#34;http://twitter.com/franklinchen&#34;&gt;my Twitter account&lt;/a&gt; as well as writing comments on other people&amp;rsquo;s blog posts.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I started taking Stanford online classes: &lt;a href=&#34;http://www.ml-class.org/&#34;&gt;Machine Learning&lt;/a&gt; and &lt;a href=&#34;http://www.db-class.org/&#34;&gt;Introduction to Databases&lt;/a&gt;. (Blog posts on my experiences to appear soon.) Unfortunately, as a result of the extra time commitment, October through December were quite hectic for me.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Abby and I continued to move more toward a paleo diet.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;november&#34;&gt;November&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;I started playing &lt;a href=&#34;../../categories/flute/&#34;&gt;flute&lt;/a&gt; again.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Probably because of fatigue and a compromised immune system, I came down with a skin ailment that I got serious treatment for, but it took almost two months to completely clear up and I spent over a month truly miserable &lt;sup&gt;24&lt;/sup&gt;&amp;frasl;&lt;sub&gt;7&lt;/sub&gt;!&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;december&#34;&gt;December&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;I started playing Baroque flute.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I started playing tin whistle.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I prepared for and made it through two music performances, playing recorder and flute (and almost tin whistle).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;I ended the year completely exhausted, on the verge of getting sick, and took a long break from blogging.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;The final week, Abby and I were on a hectic travel schedule that involved meeting up with her parents, my parents, her sister Carrie, Carrie&amp;rsquo;s boyfriend Alain, Alain&amp;rsquo;s parents, Alain&amp;rsquo;s extended family, my sister Linda, and her husband Andre. I am grateful that we got to meet up with so many people (and arranged for various of the individuals to meet up with various of the others!), but the trip was quite stressful to me, because I was not physically or emotionally prepared for it at all. (I will report later on what I learned from the experience.)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;2011 was quite a year for me and Abby. We had many changes and adventures in our lives: our home, our diet, our exercise, our outdoors activities, travel. For me, the biggest changes were quitting chess, starting music practice and performance, throwing myself into blogging and tweeting, getting more and more active in local software developer groups, applying new (to me) development tools at work, and in the fall, taking Stanford online courses in computer science.&lt;/p&gt;
+
+&lt;p&gt;Although I ended the year in poor shape, because of being overbooked, I am very excited by how many positive changes took place. I have an entirely new set of plans and priorities to formulate soon for 2012 in collaboration with Abby, in hope of learning from the lessons of my failures and omissions of 2011, and restoring balance.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Global Day of CodeRetreat: Pittsburgh</title>
+      <link>http://franklinchen.com/blog/2011/12/06/global-day-of-coderetreat-pittsburgh/</link>
+      <pubDate>Tue, 06 Dec 2011 21:24:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2011/12/06/global-day-of-coderetreat-pittsburgh/</guid>
+      <description>&lt;p&gt;As I mentioned &lt;a href=&#34;../../blog/2011/12/04/why-i-am-writing-this-week-for-csedweek/&#34;&gt;on Sunday in introducing CSEdWeek&lt;/a&gt;, Saturday was the ambitious &lt;a href=&#34;http://blog.coderetreat.com/global-day-of-coderetreat&#34;&gt;Global Day of CodeRetreat&lt;/a&gt;, whose local &lt;a href=&#34;http://globalcoderetreat2011pittsburgh.eventbrite.com/&#34;&gt;Pittsburgh edition&lt;/a&gt; I participated in, with around 50 of us total. The global event was held simultaneously in 90 cities and had around 2000 attendees. I had a great time, although I was totally exhausted by the time it was over (it lasted from before 9 AM to after 6 PM; what a way to spend a Saturday!).&lt;/p&gt;
+
+&lt;p&gt;What is CodeRetreat and what can you get out of it as a software developer?&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/global-day-of-coderetreat/code-retreat-start.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Pittsburgh CodeRetreat starting&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/global-day-of-coderetreat/code-retreat-start-2.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Pittsburgh CodeRetreat starting&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-coderetreat-concept&#34;&gt;The CodeRetreat concept&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://coderetreat.org/&#34;&gt;CodeRetreat&lt;/a&gt; is the brainchild of &lt;a href=&#34;http://coreyhaines.com/&#34;&gt;Corey Haines&lt;/a&gt;. The motto is &amp;ldquo;Programmers honing their craft together.&amp;rdquo; The basic idea is the programmers gather for an all-day event in which they pair up with different partners for six sessions to work again and again on the same problem, starting from scratch each time. You can read about more &lt;a href=&#34;http://coderetreat.org/about&#34;&gt;formal details&lt;/a&gt;, but I didn&amp;rsquo;t before I went to the event, and in this post I will walk through my experience as a first-time participant.&lt;/p&gt;
+
+&lt;p&gt;If CodeRetreat already sounds weird, it&amp;rsquo;s because it is. I had heard about it earlier from a couple of people I&amp;rsquo;d met at the &lt;a href=&#34;http://www.pghgeekoutday.com/&#34;&gt;Pittsburgh Geek Out Day&lt;/a&gt; sessions who had gone to such events in the past. To be completely honest, the first time I heard about it, it sounded weird. And the second time, after hearing about the session held in Pittsburgh in May when I was out of town, it sounded weird too.  But I&amp;rsquo;m the kind of person who is willing to try weird things if I don&amp;rsquo;t believe they can be actively harmful and have a chance of being very beneficial.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m going to state up front that if you are a programmer and haven&amp;rsquo;t been to a CodeRetreat, and one is happening in your area, you should try it out.&lt;/p&gt;
+
+&lt;h2 id=&#34;morning-introduction&#34;&gt;Morning introduction&lt;/h2&gt;
+
+&lt;p&gt;I arrived before 8:30 AM, in time for taking a seat at a table and doing some socializing over coffee and donuts/bagels.  &lt;strong&gt;Socializing is one of the big reasons to go to an event like this; I had never been in a room of fifty local developers from all kinds of domain and programming language backgrounds.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We were told that our task was to implement &lt;a href=&#34;http://en.wikipedia.org/wiki/Conway&#39;s_Game_of_Life&#34;&gt;Conway&amp;rsquo;s game of life&lt;/a&gt;. Actually, we all already knew that, because we had been informed before the event. To keep myself fresh for the event, I deliberately did no thinking about the problem, working on an algorithm, or coding it. I do not know how many other people took this attitude, and am curious how it affects the nature of participation (I will discuss some speculations later in this post).&lt;/p&gt;
+
+&lt;h2 id=&#34;first-session&#34;&gt;First session&lt;/h2&gt;
+
+&lt;p&gt;I don&amp;rsquo;t remember what specific instructions we were given for our first session, other than to pair up. I may have been too distracted by the socializing at the time. &lt;strong&gt;It would have been useful to have received handouts to guide us.&lt;/strong&gt; I do know that at some point in the morning, before the first or second session, we were directed to look at the whiteboard that had the &amp;ldquo;four rules of simple design&amp;rdquo; written on it:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/global-day-of-coderetreat/four-rules-of-simple-design&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Four rules of simple design&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;four-rules-of-simple-design&#34;&gt;Four rules of simple design&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Passes all tests&lt;/li&gt;
+&lt;li&gt;Clear, expressive, consistent&lt;/li&gt;
+&lt;li&gt;Duplicates no behavior, config&lt;/li&gt;
+&lt;li&gt;Minimal methods, classes, modules&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;my-first-pairing-experience&#34;&gt;My first pairing experience&lt;/h3&gt;
+
+&lt;p&gt;I&amp;rsquo;d heard about &lt;a href=&#34;http://en.wikipedia.org/wiki/Pair_programming&#34;&gt;pair programming&lt;/a&gt; for a decade, in the context of &lt;a href=&#34;http://en.wikipedia.org/wiki/Extreme_programming&#34;&gt;Extreme Programming (XP)&lt;/a&gt;, but had never practiced it. To be honest, as late as a year ago I found the concept very strange and distasteful. Interestingly, by this year, as a result of participating in a lot of &lt;a href=&#34;../../blog/2011/10/16/pittsburgh-software-developer-communities/&#34;&gt;local programmer group meetings&lt;/a&gt;, I became more sociable generally and more amenable to real-time sharing of ideas.  &lt;strong&gt;Part of the reason I decided to go to CodeRetreat was to experience pairing.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;For the first session, I paired with Adam, since I knew him (in fact, I had gotten him to register at the last minute for the event) and we could work together in Java.&lt;/p&gt;
+
+&lt;p&gt;We gathered around his laptop, and spent quite a bit of time (of the allotted 45 minutes per session) sketching out a design for implementing Conway&amp;rsquo;s game of life. First we had to decide what variant of the game to implement: fixed grid with boundary or infinite? We decided on infinite. Then we had to figure out an appropriate algorithm and data representation. We came up with that. We ended up writing scaffolding for a complete application, for initializing the grid, displaying it, computing the next step, etc. Unfortunately, time expired when we were just about to implement the rules for the game.&lt;/p&gt;
+
+&lt;p&gt;Then we were told to &lt;em&gt;delete all our code&lt;/em&gt;. That was kind of shocking. We weren&amp;rsquo;t allowed to just archive it somewhere. We had to delete it right there and then:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/global-day-of-coderetreat/code-deleted&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;h3 id=&#34;observations&#34;&gt;Observations&lt;/h3&gt;
+
+&lt;p&gt;I was disappointed that we didn&amp;rsquo;t have something to show after 45 minutes. I was also shocked about having to delete our work. I felt that the infrastructure we had set up was valuable. I was confused by how what we were doing was contrary with how I would operate in real life on a real programming project. 45 minutes was not enough time to do the kinds of things I really wanted to do.&lt;/p&gt;
+
+&lt;p&gt;Meanwhile, at some point I realized that we had violated the &amp;ldquo;rules of simple design&amp;rdquo;. We had a proliferation of interfaces and in fact we kept changing them in order to be able to compile while nearing something that could actually run.&lt;/p&gt;
+
+&lt;h2 id=&#34;second-session&#34;&gt;Second session&lt;/h2&gt;
+
+&lt;p&gt;I think that for the second session we were instructed to use &lt;a href=&#34;http://en.wikipedia.org/wiki/Test-driven_development&#34;&gt;test-driven development&lt;/a&gt;:&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/global-day-of-coderetreat/tdd-cycle.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;I looked for another Java programmer, and paired with Heath, whom I had met earlier in various events but never worked with. We had some ideas based on what we each had done in the first session and got going. This time, we used my laptop, and the first thing I did was start writing tests with &lt;a href=&#34;http://www.junit.org/&#34;&gt;JUnit&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We made good progress, but I felt hampered by Java&amp;rsquo;s verbose syntax, and also I confess to copying and pasting test setup code just because time was short. I ended up feeling conflicted because the time constraints of this event were generating powerful perverse incentives. I think a lot of us kind of liked the idea of getting something working and done, and cut corners throughout the day. This is something that should be addressed by the CodeRetreat organizers and facilitators. After each session, many of us ended up saying, &amp;ldquo;We almost finished!&amp;rdquo; or something like that. I tried to resist having that mentality, but it was difficult given the time limit.&lt;/p&gt;
+
+&lt;h2 id=&#34;third-session&#34;&gt;Third session&lt;/h2&gt;
+
+&lt;p&gt;The final morning session had me pairing with a Python programmer, Joe.&lt;/p&gt;
+
+&lt;p&gt;We were supposed to do &amp;ldquo;ping pong pairing&amp;rdquo;, which I hadn&amp;rsquo;t heard of before. The idea was to take turns being the one writing tests and being the one writing code to pass the tests.&lt;/p&gt;
+
+&lt;p&gt;Joe and I wasted some time getting set up with Dropbox so that we could use both our laptops in order to get concurrency benefits.&lt;/p&gt;
+
+&lt;p&gt;I started out writing tests using &lt;a href=&#34;http://docs.python.org/library/unittest.html&#34;&gt;unittest&lt;/a&gt; and Joe wrote the game implementation. It turned out we never actually ping-ponged, so we violated the intent of the session. We both got into the idea of being able to get something done. In particular, we agreed on a purely functional algorithm, which we knew would be expressible very compactly in Python.&lt;/p&gt;
+
+&lt;p&gt;We ran into concurrency problems because we were perpetually editing source files such that I kept seeing an out of date version of his code and vice versa. &amp;ldquo;Concurrent&amp;rdquo; development using something like Git is one thing, but having one&amp;rsquo;s view of a project change underneath one&amp;rsquo;s feet is another. I don&amp;rsquo;t think the Dropbox idea worked so well, but a number of us that day independently came up with it and spread it around and used it. I now think that&amp;rsquo;s not only cheating, but it even further distances the situation from that of real life software development!&lt;/p&gt;
+
+&lt;p&gt;Also, in the end, Joe had written a lot more code than we had tested, and I had written a lot more tests that were not yet passing. So I think the experiment didn&amp;rsquo;t work out well. We were not keeping to the TDD cycle we were supposed to keep to, in which a test is written, code is written to pass it, then another test written making the code fail, etc.&lt;/p&gt;
+
+&lt;h2 id=&#34;lunch&#34;&gt;Lunch&lt;/h2&gt;
+
+&lt;p&gt;For various reasons, we kept falling behind schedule in the morning, such that it was later than planned when we finally took a lunch break. We each got a nice box lunch, and I took a short nap before resuming more socialization and discussion, which was finally interrupted when we had to begin the afternoon sessions.&lt;/p&gt;
+
+&lt;h2 id=&#34;fourth-session&#34;&gt;Fourth session&lt;/h2&gt;
+
+&lt;p&gt;The fourth session was supposed to be &amp;ldquo;mute ping pong pairing with loophole&amp;rdquo;, in which we were not supposed to communicate except through code, and the one writing code to pass tests was supposed to be fiendish and write code that would pass the existing tests but would clearly not be the correct long-term code for the problem at hand.&lt;/p&gt;
+
+&lt;p&gt;I paired with Chris, using Java, and we did the Dropbox thing. Unfortunately, we spent a large amount of time getting set up. We both had problems connecting to the WiFi for a while. Furthermore, we finally realized that two machines both running IntelliJ IDEA on the same project was a bad idea, because of clobbering of project state. I switched to Emacs, but then we had to rig up a script for me to be able to compile and run stuff he was generating in IntelliJ IDEA. There was just too much setup time wasted.&lt;/p&gt;
+
+&lt;p&gt;Chris took up the test-writing duties and I proceeded to write code. This was my first time during the day to write code to pass someone else&amp;rsquo;s tests, so the experience was quite interesting. Thanks to static typing, the tests Chris wrote forced me to write various classes and methods. I did play the trick of writing degenerate code that passed one of his tests and forced him to write more tests.&lt;/p&gt;
+
+&lt;p&gt;We ran out of time before we got to ping pong the roles. Oops. I did learn something from this &amp;ldquo;no talking about design up front&amp;rdquo; session though: tests can go a long way to drive and constrain the kinds of designs possible to solve a problem. And I was clearly not writing anything extra when focusing purely on passing the existing tests.&lt;/p&gt;
+
+&lt;h2 id=&#34;fifth-session&#34;&gt;Fifth session&lt;/h2&gt;
+
+&lt;p&gt;The fifth session was supposed to be &amp;ldquo;open&amp;rdquo; to however we wanted to go about implementing the game.&lt;/p&gt;
+
+&lt;p&gt;I was paired with Demeng, who uses C#, which I have never used. It was not clear to me what we should do. Somehow, we ended up deciding to have me work on a Haskell implementation of a general design we discussed, so that he could watch and ask me questions and learn some Haskell in the process as I explained to him how to express something we wanted. Given that he was familiar with Python, I felt this was a feasible goal, and it was going quite well, actually. I would write a line of code and explain it to him, or he would tell me something to express, and I would write the code.&lt;/p&gt;
+
+&lt;p&gt;Unfortunately, I was still not set up for production Haskell development, e.g., with a testing framework, so we had ad hoc tests.&lt;/p&gt;
+
+&lt;h2 id=&#34;sixth-session&#34;&gt;Sixth session&lt;/h2&gt;
+
+&lt;p&gt;The sixth session had each pair rotate to the right to work on someone&amp;rsquo;s machine and code from the fifth session.&lt;/p&gt;
+
+&lt;p&gt;This was quite traumatic for some of us.&lt;/p&gt;
+
+&lt;p&gt;Demeng and I got moved to a laptop with C# going. He took charge, but I felt somewhat helpless because I had to keep asking about various C# constructs, and also, the original programmers didn&amp;rsquo;t use a testing framework that made it easy to start looking at the existing tests and write more. Even worse, it was getting late and Demeng had to leave, so I was left alone trying to figure out what was going on.&lt;/p&gt;
+
+&lt;p&gt;The pair who ended up with my Haskell code was in even worse shape. They didn&amp;rsquo;t know any Haskell, and were fairly confused and kept on asking me for help. They didn&amp;rsquo;t manage to write any code that compiled. I felt bad about having used Haskell in the fifth session without knowing that it was going to become a new pair&amp;rsquo;s legacy code!&lt;/p&gt;
+
+&lt;h2 id=&#34;what-i-got-out-of-coderetreat&#34;&gt;What I got out of CodeRetreat&lt;/h2&gt;
+
+&lt;p&gt;I&amp;rsquo;m not sure I got what was &amp;ldquo;intended&amp;rdquo; out of CodeRetreat, if the intent was for us to rigorously follow the guidelines and rules we were given. There were too many perverse incentives and little enforcement. Also, the frictions of different languages, IDEs, and operating systems were sometimes significant.&lt;/p&gt;
+
+&lt;p&gt;What I mostly got out of CodeRetreat was value at a meta-level. It was a time to socialize, to meet new people and even work with them. It was a time for many participants who had yet heard about TDD and various design principles to thinking about them and give them a try. It was a time to learn about other languages and development environments, even if only at a shallow level. It was a time for exploring different algorithms and data structures for the same problem.&lt;/p&gt;
+
+&lt;p&gt;The most concrete thing I learned was that pairing can be very stimulating and useful. CodeRetreat has made me think that I can definitely imagine pairing as a regular work practice.&lt;/p&gt;
+
+&lt;h3 id=&#34;education-and-cs-ed-week&#34;&gt;Education and CS Ed Week&lt;/h3&gt;
+
+&lt;p&gt;Although I think less chaos and more guidance would improve CodeRetreat, something about the whole process of getting people together and making them share is in itself a great example of learning and teaching. I&amp;rsquo;d call CodeRetreat an example of &amp;ldquo;education&amp;rdquo;, even though it is far removed from the conventional lecture hall. Nobody leaves CodeRetreat with a huge set of additional facts in the brain, but I&amp;rsquo;m sure many of us leave having experienced a taste of many ideas, shared recommendations to appropriate books and web sites to examine and study, and notions of how to change our actual practices in the real world.&lt;/p&gt;
+
+&lt;p&gt;What does any of this have to do with CS Ed Week? I think there is tension in the educational system between those who believe it should teach fundamental (usually meaning mathematical and abstract) foundations of computing, and those who believe that students should also be prepared for the messiness and realities of the &amp;ldquo;real world&amp;rdquo;. Meanwhile, a lot of the press concerning CS Ed Week focuses on very pragmatic arguments that the US badly needs more appropriately trained employees for computing jobs.&lt;/p&gt;
+
+&lt;p&gt;I don&amp;rsquo;t see how it is possible to really attract more young people into computing without at least helping them understand what a career in computing might entail. That requires some kind of exposure to what we actually do. It&amp;rsquo;s not enough to just teach a middle school student some kid-friendly programming language, or to teach a vocational student Java, or to teach an undergrad the details of Fibonacci heaps. The big picture is missing.&lt;/p&gt;
+
+&lt;p&gt;Events similar to CodeRetreat could play a role in getting a lot of people exposure to the big picture. Furthermore, even many of us who already work in computing do not see the big picture, because it is so easy to get out of date once out of school and working in some narrow niche. So &amp;ldquo;continuing education&amp;rdquo; is just as important as education at K-12 or in undergrad or grad school.&lt;/p&gt;
+
+&lt;h2 id=&#34;concerns-about-coderetreat&#34;&gt;Concerns about CodeRetreat&lt;/h2&gt;
+
+&lt;p&gt;It&amp;rsquo;s not clear to me that Conway&amp;rsquo;s game of life is such a good topic. It&amp;rsquo;s not very much like typical programming tasks. In fact, my mind wandered toward thinking about clever ideas for preprocessing, compilation, parallelization, and memoization that I&amp;rsquo;m not sure I would want to work on with someone for 45 minutes. I brought up this concern at lunch but was told that the task always remains the same because it serves its purpose, it works, and consistency is important.&lt;/p&gt;
+
+&lt;p&gt;There needs to be a way to help us resist perverse incentives to finish an app.&lt;/p&gt;
+
+&lt;p&gt;We should be better prepared to cope with different languages and development environments.&lt;/p&gt;
+
+&lt;h2 id=&#34;will-i-attend-the-next-coderetreat-in-pittsburgh&#34;&gt;Will I attend the next CodeRetreat in Pittsburgh?&lt;/h2&gt;
+
+&lt;p&gt;I have to confess that I do not know whether I will decide it worthwhile to go to another one. It&amp;rsquo;s too early to think about that, although Jim Hurne has already set February 25 as the date for the next one! I still have to fully digest what I experienced, make use of it, and then think about how I would maximally benefit from and contribute to another CodeRetreat.&lt;/p&gt;
+
+&lt;h2 id=&#34;thank-you&#34;&gt;Thank you!&lt;/h2&gt;
+
+&lt;p&gt;Thank you, Vivisimo and M*Modal, for being sponsors and hosts for the event.&lt;/p&gt;
+
+&lt;p&gt;Thanks you, &lt;a href=&#34;http://twitter.com/jthurne&#34;&gt;Jim Hurne&lt;/a&gt;, for putting so much work into not only the Pittsburgh event, but more broadly, the global one.&lt;/p&gt;
+
+&lt;p&gt;Thanks you, &lt;a href=&#34;http://twitter.com/coxandrew&#34;&gt;Andrew Cox&lt;/a&gt; and &lt;a href=&#34;http://twitter.com/josephrkramer&#34;&gt;Joseph Kramer&lt;/a&gt;, for acting as facilitators all day  (Andrew has written up a detail account of his experience on Saturday as a &lt;a href=&#34;http://andrewcox.org/post/13810557640/coderetreat-a-first-time-facilitators-perspective&#34;&gt;facilitator&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Thank you, Adam, Heath, Joe, Chris, Demeng, for pairing with me.&lt;/p&gt;
+
+&lt;p&gt;And thanks to everyone else who was at CodeRetreat.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pittsburgh software developer communities</title>
+      <link>http://franklinchen.com/blog/2011/10/16/pittsburgh-software-developer-communities/</link>
+      <pubDate>Sun, 16 Oct 2011 19:38:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2011/10/16/pittsburgh-software-developer-communities/</guid>
+      <description>&lt;p&gt;In the past couple of years, I started to get involved in various local Pittsburgh groups of people who are committed enough to the art and science of software development to actually meet up outside of work to share ideas and experiences. Now and then, there has been talk of bringing the different groups together for special events, to share even more (especially outside the boundaries of particular computer language communities), so I felt it was a good time for me to compile a list of the different groups whose meetings I have attended or at least have heard about.&lt;/p&gt;
+
+&lt;p&gt;I welcome additions and corrections as well as further discussion of this list. I will update the list upon feedback.&lt;/p&gt;
+
+&lt;p&gt;(Last update: 2011-10-18)&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;ruby&#34;&gt;Ruby&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://pghrb.org/&#34;&gt;Pittsburgh Ruby group&lt;/a&gt; is quite active. It has been meeting the first Thursday of every month at Vivisimo.&lt;/p&gt;
+
+&lt;p&gt;I have been attending this more as I finally started getting into Ruby in 2010.&lt;/p&gt;
+
+&lt;h2 id=&#34;python&#34;&gt;Python&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://pghpython.org/&#34;&gt;Pittsburgh Python group&lt;/a&gt; is also active. It has been meeting the fourth Wednesday of every month at Vivisimo.&lt;/p&gt;
+
+&lt;p&gt;There is a lot of use of Python for scientific computing, such as natural language processing and machine learning, among this community.&lt;/p&gt;
+
+&lt;p&gt;I do not attend this group&amp;rsquo;s meetings regularly because I currently only use Python to maintain an &lt;a href=&#34;http://www.scons.org/&#34;&gt;SCons&lt;/a&gt; script at work.&lt;/p&gt;
+
+&lt;h2 id=&#34;javascript&#34;&gt;JavaScript&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://www.meetup.com/Pittsburgh-JavaScript-Developers/&#34;&gt;Pittsburgh JavaScript meetup group&lt;/a&gt; only came into being in June 2011, thanks to &lt;a href=&#34;http://www.fusioncube.net/&#34;&gt;Steve Brownlee&lt;/a&gt;, who hosts the meetup at Smith Micro up in McCandless.&lt;/p&gt;
+
+&lt;p&gt;The group has been pretty active, despite the location.&lt;/p&gt;
+
+&lt;h2 id=&#34;jquery&#34;&gt;jQuery&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://www.jburgh.com/&#34;&gt;Pittsburgh jQuery user group&lt;/a&gt; is scheduled to meet once a month at &lt;a href=&#34;http://www.hackpittsburgh.org/&#34;&gt;HackPittsburgh&lt;/a&gt; in Uptown. However, I get the impression that it has not been meeting very regularly. I attended the meeting in March and another in August, but otherwise, have had to miss a meeting or there was none.&lt;/p&gt;
+
+&lt;p&gt;There has been some talk of merging with the JavaScript meetup group.&lt;/p&gt;
+
+&lt;h2 id=&#34;java&#34;&gt;Java&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://java.net/projects/pittjug/&#34;&gt;Pittsburgh Java User Group&lt;/a&gt; has been around for quite some time. It meets at the &lt;a href=&#34;http://www.pghtech.org/&#34;&gt;Pittsburgh Technology Council&lt;/a&gt; on Second Avenue. When there are meetings, they are announced on the mailing list and posted at the &lt;a href=&#34;http://www.pghtech.org/events/default.aspx&#34;&gt;pghtech calendar&lt;/a&gt; where one should register before attending.&lt;/p&gt;
+
+&lt;p&gt;PittJUG was more active in the past: I was attending fairly regularly in 2009 and 2010, but now meetings have been infrequent.&lt;/p&gt;
+
+&lt;p&gt;However, an experiment is about to begin to revitalize the group: on October 25, we&amp;rsquo;ll be trying an &lt;a href=&#34;http://www.pghgeekoutday.com/home/open-spaces&#34;&gt;Open Spaces&lt;/a&gt; format to take place of the old format that seemed to result in long presentations by people.&lt;/p&gt;
+
+&lt;h2 id=&#34;pittsburgh-geek-out-day&#34;&gt;Pittsburgh Geek Out Day&lt;/h2&gt;
+
+&lt;p&gt;Speaking of &lt;a href=&#34;http://www.pghgeekoutday.com/home/open-spaces&#34;&gt;Open Spaces&lt;/a&gt;, &lt;a href=&#34;http://www.pghgeekoutday.com/&#34;&gt;Pittsburgh Geek Out Day&lt;/a&gt; was created specifically to use that very format. There have been three &amp;ldquo;geek out day&amp;rdquo; meetings so far, in April, May, and August 2011. The first two involved blocking out a Saturday morning each, and the second was on a Wednesday evening, and I attended all three.&lt;/p&gt;
+
+&lt;p&gt;I am sold on the virtues of Open Spaces. The format of long presentations by people is, I think, usually quite inefficient of everyone&amp;rsquo;s time and attention. A lot of the users groups have moved toward &amp;ldquo;lightning talks&amp;rdquo;, which are definitely an improvement, but opening things up toward even more active participation by everyone was a revelation to me.&lt;/p&gt;
+
+&lt;p&gt;The next meeting of Pittsburgh Geek Out Day is November 5, so sign up if you haven&amp;rsquo;t been to one yet and can spare a Saturday morning!&lt;/p&gt;
+
+&lt;h2 id=&#34;agile&#34;&gt;Agile&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://www.meetup.com/PittsburghAgile/&#34;&gt;Pittsburgh Agile meetup group&lt;/a&gt; is fairly new, having its first meeting in April 2011. It has been meeting at &lt;a href=&#34;http://www.matrixformedia.com/&#34;&gt;Matrix Solutions&lt;/a&gt; on the North Shore and is active.&lt;/p&gt;
+
+&lt;p&gt;This group involves a mix of people who are developers as well as those who are managers, and of course, those who fall into both categories.&lt;/p&gt;
+
+&lt;h2 id=&#34;apple&#34;&gt;Apple&lt;/h2&gt;
+
+&lt;p&gt;Developers for Apple platforms, i.e., MacOS X and iOS, have a home at &lt;a href=&#34;http://cocoaheads.org/us/PittsburghPennsylvania/index.html&#34;&gt;CocoaHeads&lt;/a&gt;.  I have never been to their meetings, but have a friend who attends, and it seems to be pretty active.&lt;/p&gt;
+
+&lt;p&gt;It meets the third Thursday of every month at Smith Micro.&lt;/p&gt;
+
+&lt;h2 id=&#34;apple-ios&#34;&gt;Apple iOS&lt;/h2&gt;
+
+&lt;p&gt;There is an &lt;a href=&#34;http://www.meetup.com/iPhone-iPad-Mobile-App-Developers-Pittsburgh-Meetup/&#34;&gt;Pittsburgh Apple iOS meetup group&lt;/a&gt;, but I have not been to it.&lt;/p&gt;
+
+&lt;h2 id=&#34;clojure&#34;&gt;Clojure&lt;/h2&gt;
+
+&lt;p&gt;There is a &lt;a href=&#34;http://www.meetup.com/Clojure-PGH/&#34;&gt;Pittsburgh Clojure users group&lt;/a&gt; that used to meet, but I never made it to any of the meetings, and it seems to be inactive now.&lt;/p&gt;
+
+&lt;h2 id=&#34;coding-dojo&#34;&gt;Coding dojo&lt;/h2&gt;
+
+&lt;p&gt;The &lt;a href=&#34;http://tech.groups.yahoo.com/group/PghCodingDojo/&#34;&gt;Pittsburgh Coding Dojo&lt;/a&gt; was active many years ago, but has been rather inactive recently. The last meeting I went to was in March 2011.&lt;/p&gt;
+
+&lt;h2 id=&#34;net&#34;&gt;.NET&lt;/h2&gt;
+
+&lt;p&gt;There is an active &lt;a href=&#34;http://pghdotnet.org/&#34;&gt;Pittsburgh .NET users group&lt;/a&gt;, but I have never been to any of its meetings.&lt;/p&gt;
+
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+
+&lt;p&gt;I hope that this list will be useful to those who are already a member of one or more groups and interested in checking out the others, and perhaps in creating cross-group learning experiences and events.&lt;/p&gt;
+
+&lt;p&gt;Are there any other groups of interest that I am missing? Please let me know.&lt;/p&gt;
+
+&lt;p&gt;Also: since I have always taken notes for myself at each meeting of each user group that I have attended in the past couple of years (ha, I should have started blogging earlier, given my obsession with writing), if anyone is interested in any summaries or the like, let me know. So far, the only meeting I have written up for my blog has been a recent &lt;a href=&#34;../../blog/2011/10/14/agile-anti-patterns/&#34;&gt;Agile meetup on anti-patterns&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;updates&#34;&gt;Updates&lt;/h2&gt;
+
+&lt;h3 id=&#34;2011-10-18&#34;&gt;2011-10-18&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://twitter.com/akinsgre&#34;&gt;Greg&lt;/a&gt; reminded me to mention this useful calendar of &lt;a href=&#34;http://pghtechevents.com/&#34;&gt;Pittsburgh tech events&lt;/a&gt;. Some months ago, I subscribed to it using Google Calendar, and it really is quite helpful to have around.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>When jQuery Attacks &middot; Franklin Chen</title>
+
+  
+  <link rel="stylesheet" href="http://franklinchen.com/css/poole.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/hyde.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/poole-overrides.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/hyde-overrides.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/hyde-x.css">
+
+  <link rel="stylesheet" href="http://franklinchen.com/css/franklin.css">
+
+  <link rel="stylesheet" href="http://franklinchen.com/css/highlight/default.css">
+  <link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://franklinchen.com/touch-icon-144-precomposed.png">
+  <link href="http://franklinchen.com/favicon.png" rel="icon">
+
+  
+  
+  
+  
+
+  <meta name="description" content="Franklin Chen&#39;s personal Web site and blog">
+  <meta name="keywords" content="Franklin Chen, blog">
+  <link rel="author" href="http://plus.google.com/100967806642012078047">
+</head>
+<body class="theme-base-0e">
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      
+        
+        <h1>Franklin Chen</h1>
+        <p class="lead">Infinity in the palm of my hand.</p>
+    </div>
+
+    <ul class="sidebar-nav">
+      
+      <li class="sidebar-nav-item"><a href="http://franklinchen.com/contact/">Contact</a></li>
+      
+      <li class="sidebar-nav-item"><a href="http://ConscientiousProgrammer.com/">Programming blog</a></li>
+      <li class="sidebar-nav-item"><a href="http://chessimprover.com/author/franklinc/">Chess blog</a></li>
+      <li class="sidebar-nav-item"><a href="https://www.flickr.com/photos/franklinmingchen/">Photos</a></li>
+    </ul>
+
+    <ul class="sidebar-nav">
+      <li class="sidebar-nav-item">
+      <a href="https://github.com/FranklinChen"><i class="fa fa-github-square fa-3x"></i></a>
+      
+      
+      <a href="http://www.linkedin.com/in/franklinchen"><i class="fa fa-linkedin-square fa-3x"></i></a>
+      <a href="http://google.com/&#43;FranklinChen"><i class="fa fa-google-plus-square fa-3x"></i></a>
+      <a href="http://www.facebook.com/franklin.chen"><i class="fa fa-facebook-square fa-3x"></i></a>
+      <a href="http://twitter.com/franklinchen"><i class="fa fa-twitter-square fa-3x"></i></a>
+      <a href="http://www.youtube.com/user/FranklinChen"><i class="fa fa-youtube-square fa-3x"></i></a>
+      <a href="http://franklinchen.com/atom.xml" type="application/rss+xml"><i class="fa fa-rss-square fa-3x"></i></a>
+      </li>
+    </ul>
+
+    
+
+    <p>Copyright &copy; 2016 Franklin Chen<br/>
+       Powered by <a href="http://gohugo.io">Hugo</a> and <a href="https://github.com/zyro/hyde-x">Hyde-X</a></p>
+  </div>
+</div>
+
+
+<div class="content container">
+  <div class="post">
+    <h1>When jQuery Attacks</h1>
+    
+
+<p>It&rsquo;s Tuesday night. After spending the day at work testing and debugging a new feature for a <a href="http://java.com/">Java</a> program of mine that parses and transforms data using <a href="http://antlr.org/">ANTLR</a>, what do I have to look forward to?</p>
+
+<p>Apparently, the answer must be that I look forward to a <em>hellish</em> 30 minute drive at 6:30 PM in the opposite direction of home (which is only two miles away), taking a planned detour to avoid an insane <a href="http://www.dot.state.pa.us/PENNDOT/Districts/district11.nsf/befa2937349a7160852570a70047899a/1cf78bf5840af8b8852578c5006741a3?OpenDocument">I-579 construction-caused backup</a>, then weaving through a horrible <a href="http://northhills.patch.com/articles/mcknight-road-construction-creates-headache-for-many"><em>McKnightmare</em> construction zone</a>, in order to meet up with a handful of fellow <a href="http://en.wikipedia.org/wiki/JavaScript">JavaScript</a> geeks, for another hour or so of more staring at computer code!</p>
+
+
+<figure >
+    
+        <img src="http://o1.aolcdn.com/dims-shared/dims3/PATCH/resize/600x450/http://hss-prod.hss.aol.com/hss/storage/patch/ff1b44dbd49a2a149de987454f154ba1" />
+    
+    
+    <figcaption>
+        <h4>McKnight Road construction</h4>
+        
+    </figcaption>
+    
+</figure>
+
+
+<p>The title &ldquo;When <a href="http://jquery.com/">jQuery</a> attacks&rdquo; is actually not mine, but stolen from the title of today&rsquo;s session by <a href="http://www.fusioncube.net/">Steven Brownlee</a>, the gracious founder and host at <a href="http://www.smithmicro.com/">Smith Micro</a> of the <a href="http://www.meetup.com/Pittsburgh-JavaScript-Developers/">Pittsburgh JavaScript meetup group</a>.</p>
+
+<p><a href="http://www.meetup.com/Pittsburgh-JavaScript-Developers/events/31718282/">{% img /images/pittsburgh-javascript-meetup.jpg Today&rsquo;s meeting of the Pittsburgh JavaScript meetup group %}</a></p>
+
+<p>Around eight or nine of us showed up tonight, and shared pizza Steve had ordered for us.</p>
+
+<p>Steve briefly presented an overview of basic jQuery features, then we all just informally chatted about various topics that we brought up, from the coming impact of <a href="http://www.html5rocks.com/">HTML5</a>, the rise of JavaScript and its future, the decline of such technologies as Flash and JBoss, different JavaScript engines such as <a href="http://code.google.com/p/v8/">v8</a> and <a href="http://www.mozilla.org/rhino/">Rhino</a>, client-side vs. server-side use of JavaScript (especially <a href="http://nodejs.org/">Node</a>, which we have had meetups about already), and the controversy over Google&rsquo;s <a href="http://en.wikipedia.org/wiki/Google_Dart">Dart</a>.</p>
+
+<h2 id="my-own-use-of-javascript">My own use of JavaScript</h2>
+
+<p>I have to confess that although I have used jQuery to prototype a web application I am developing, I have become uncomfortable with using just jQuery and adding layers on top of it using jQuery&rsquo;s own bare-bones systems for <a href="http://api.jquery.com/jQuery.template/">templates</a> and <a href="http://api.jquery.com/link/">data binding</a> to cleanly structure the application rather than have it be a horrible tangled-spaghetti mess of DOM hacking.</p>
+
+<p>I am currently evaluating full-blown <a href="http://en.wikipedia.org/wiki/Model-view-controller">MVC</a> types of frameworks such as <a href="http://documentcloud.github.com/backbone">Backbone</a> and <a href="http://www.sproutcore.com/">Sproutcore</a> and <a href="http://www.sencha.com/products/extjs/">Sencha Ext JS 4</a>. Stay tuned for my investigations of all that on this blog sometime.</p>
+
+    <div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'franklinchen';
+    var disqus_identifier = 'http:\/\/franklinchen.com\/blog\/2011\/09\/27\/when-jquery-attacks\/';
+    var disqus_title = 'When jQuery Attacks';
+    var disqus_url = 'http:\/\/franklinchen.com\/blog\/2011\/09\/27\/when-jquery-attacks\/';
+
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+  </div>
+</div>
+<script src="http://franklinchen.com/js/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+</body>
+</html>
+

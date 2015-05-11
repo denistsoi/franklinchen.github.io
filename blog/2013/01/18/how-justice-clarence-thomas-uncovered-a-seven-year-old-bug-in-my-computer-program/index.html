@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+<head>
+  <link href="http://gmpg.org/xfn/11" rel="profile">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+
+  <title>How Justice Clarence Thomas uncovered a seven-year-old bug in my computer program &middot; Franklin Chen</title>
+
+  
+  <link rel="stylesheet" href="http://franklinchen.com/css/poole.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/hyde.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/poole-overrides.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/hyde-overrides.css">
+  <link rel="stylesheet" href="http://franklinchen.com/css/hyde-x.css">
+
+  <link rel="stylesheet" href="http://franklinchen.com/css/franklin.css">
+
+  <link rel="stylesheet" href="http://franklinchen.com/css/highlight/default.css">
+  <link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+  
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://franklinchen.com/touch-icon-144-precomposed.png">
+  <link href="http://franklinchen.com/favicon.png" rel="icon">
+
+  
+  
+  
+  
+
+  <meta name="description" content="Franklin Chen&#39;s personal Web site and blog">
+  <meta name="keywords" content="Franklin Chen, blog">
+  <link rel="author" href="http://plus.google.com/100967806642012078047">
+</head>
+<body class="theme-base-0e">
+<div class="sidebar">
+  <div class="container sidebar-sticky">
+    <div class="sidebar-about">
+      
+        
+        <h1>Franklin Chen</h1>
+        <p class="lead">Infinity in the palm of my hand.</p>
+    </div>
+
+    <ul class="sidebar-nav">
+      
+      <li class="sidebar-nav-item"><a href="http://franklinchen.com/contact/">Contact</a></li>
+      
+      <li class="sidebar-nav-item"><a href="http://ConscientiousProgrammer.com/">Programming blog</a></li>
+      <li class="sidebar-nav-item"><a href="http://chessimprover.com/author/franklinc/">Chess blog</a></li>
+      <li class="sidebar-nav-item"><a href="https://www.flickr.com/photos/franklinmingchen/">Photos</a></li>
+    </ul>
+
+    <ul class="sidebar-nav">
+      <li class="sidebar-nav-item">
+      <a href="https://github.com/FranklinChen"><i class="fa fa-github-square fa-3x"></i></a>
+      
+      
+      <a href="http://www.linkedin.com/in/franklinchen"><i class="fa fa-linkedin-square fa-3x"></i></a>
+      <a href="http://google.com/&#43;FranklinChen"><i class="fa fa-google-plus-square fa-3x"></i></a>
+      <a href="http://www.facebook.com/franklin.chen"><i class="fa fa-facebook-square fa-3x"></i></a>
+      <a href="http://twitter.com/franklinchen"><i class="fa fa-twitter-square fa-3x"></i></a>
+      <a href="http://www.youtube.com/user/FranklinChen"><i class="fa fa-youtube-square fa-3x"></i></a>
+      <a href="http://franklinchen.com/atom.xml" type="application/rss+xml"><i class="fa fa-rss-square fa-3x"></i></a>
+      </li>
+    </ul>
+
+    
+
+    <p>Copyright &copy; 2016 Franklin Chen<br/>
+       Powered by <a href="http://gohugo.io">Hugo</a> and <a href="https://github.com/zyro/hyde-x">Hyde-X</a></p>
+  </div>
+</div>
+
+
+<div class="content container">
+  <div class="post">
+    <h1>How Justice Clarence Thomas uncovered a seven-year-old bug in my computer program</h1>
+    
+
+
+<figure >
+    
+        <img src="http://www.supremecourt.gov/about/justice_pictures/CThomas.jpg" />
+    
+    
+    <figcaption>
+        <h4>Justice Clarence Thomas</h4>
+        
+    </figcaption>
+    
+</figure>
+
+
+<p>Today, <a href="http://en.wikipedia.org/wiki/Clarence_Thomas">Justice Clarence Thomas</a> of the <a href="http://www.supremecourt.gov/">Supreme Court of the United States</a> uncovered a seven-year-old bug in a computer program I wrote years ago.</p>
+
+<p>Here&rsquo;s what happened:</p>
+
+<h2 id="oral-arguments-of-scotus-http-www-supremecourt-gov-oral-arguments-oral-arguments-aspx"><a href="http://www.supremecourt.gov/oral_arguments/oral_arguments.aspx">Oral arguments of SCOTUS</a></h2>
+
+<p>Several years ago, as part of the <a href="http://talkbank.org/">TalkBank</a> project, I wrote a suite of computer programs to clean up, correct, and transform <a href="http://www.supremecourt.gov/oral_arguments/argument_transcripts.aspx">SCOTUS oral argument transcripts</a> into a particular text file format called <a href="http://childes.psy.cmu.edu/">CHAT</a>, to enable analysis and further transformation.</p>
+
+<p>The CHAT transcripts are aligned (by humans), utterance by utterance, with the available audio files, in order to create a nice way to simultaneously read the text while listening, with the ability to pause, skip to a particular section, etc.</p>
+
+<h2 id="example-hamdan-v-rumsfeld-http-en-wikipedia-org-wiki-hamdan-v-rumsfeld">Example: <a href="http://en.wikipedia.org/wiki/Hamdan_v._Rumsfeld">Hamdan v. Rumsfeld</a></h2>
+
+<h3 id="text-formats">Text formats</h3>
+
+<p>SCOTUS provides an oral transcript in <a href="http://www.supremecourt.gov/oral_arguments/argument_transcripts/05-184.pdf">PDF format</a>.</p>
+
+<p>At CMU we have made the <a href="http://talkbank.org/data-orig/Meeting/SCOTUS/2005/05-184.cha">CHAT-formatted text</a> of each transcript available, as well as ZIP archives of <a href="http://talkbank.org/data/Meeting/SCOTUS/2005.zip">entire corpora</a> and the <a href="http://talkbank.org/data-xml/Meeting/SCOTUS/2005.zip">equivalent XML</a> converted automatically from CHAT.</p>
+
+<h3 id="media-playback">Media playback</h3>
+
+<p>The linked transcripts can be played back in several ways:</p>
+
+<ul>
+<li>Directly from the <a href="http://talkbank.org/browser/index.php?url=Meeting/SCOTUS/2005/05-184.cha">CMU site</a>.</li>
+<li>Downloading the <a href="http://talkbank.org/data/Meeting/SCOTUS/2005.zip">2005 corpus</a> and running the <a href="http://childes.psy.cmu.edu/clan/">CLAN</a> desktop application on a transcript.</li>
+<li><a href="http://www.oyez.org/">Oyez</a> provides their own interface, through transformation of the CHAT files, to an <a href="http://www.oyez.org/cases/2000-2009/2005/2005_05_184">entire site for each case</a>.</li>
+</ul>
+
+<h2 id="what-happened-today">What happened today</h2>
+
+<p>Today, as I have done on Thursdays or Fridays for years now when SCOTUS is in session, I have converted the oral argument transcripts for this week in order to hand off to the Oyez people for their use.</p>
+
+<h3 id="the-conversion-software">The conversion software</h3>
+
+<p>The conversion happens in three steps.</p>
+
+<h4 id="pre-processing">Pre-processing</h4>
+
+<p>The conversion is not fully automatic, because there are always errors of some kind in the transcripts that I correct manually. I wrote a set of twenty-nine separate <a href="http://www.perl.org/">Perl</a> scripts that do a lot of cleanup and checking of transcripts as a pre-processing step.</p>
+
+<h4 id="parsing-validation-transformation">Parsing, validation, transformation</h4>
+
+<p>The main task of parsing and validation and transformation uses a program written in Java and using the <a href="http://antlr.org/">ANTLR</a> parser generator framework.</p>
+
+<p>Note: these programs were written several years ago, hence the use of ANTLR version 2 rather than ANTLR 3. Newer projects of mine have used ANTLR 3 (<a href="http://antlr4.org/">ANTLR 4</a> is only now about to hit 4.0).</p>
+
+<h4 id="post-processing">Post-processing</h4>
+
+<p>A post-processing Perl script is used after the initial CHAT generation, in order to convert numerical and other tokens into the desired spoken form; at the <a href="http://pghpw.org/ppw2010/">Pittsburgh Perl Workshop 2010</a>, I gave a little talk, <a href="http://pghpw.org/ppw2010/talk/3029">How do you pronounce &ldquo;07-1191&rdquo;?</a>, about this part of the project.</p>
+
+<h4 id="reliable-legacy-software">Reliable legacy software</h4>
+
+<p>No new development has been done on these programs for several years, since as far as can be determined, there have been no remaining bugs in the programs.</p>
+
+<p>These programs have, to date, successfully generated 3,468 CHAT files that have been validated. In the first year or two, there were bugs quickly found and fixed, and then I don&rsquo;t remember the last time a bug was found.</p>
+
+<p><strong>Until today</strong>.</p>
+
+<h2 id="the-bug">The bug</h2>
+
+<p>The bug came today as I was processing this week&rsquo;s case <a href="http://www.supremecourt.gov/oral_arguments/argument_transcripts/11-9953.pdf">11-9953</a>.</p>
+
+<p>I got an error message when my pre-processing phase exited after an error while running the script <code>find-bad-ids.pl</code>:</p>
+
+<div class="highlight" style="background: #f8f8f8"><pre style="line-height: 125%"><span></span><span style="color: #888888">THOMAS not found</span>
+</pre></div>
+
+
+<p>I was confused. I looked at the transcript and saw:</p>
+
+<blockquote>
+JUSTICE SCALIA: And another of his counsel, Mr. Singer -- of the three that he had -- he was a graduate of Harvard law school, wasn't he?
+
+MS. SIGLER: Yes, Your Honor.
+
+JUSTICE SCALIA: Son of a gun.
+
+JUSTICE THOMAS: Well -- he did not --
+
+(Laughter.)
+
+MS. SIGLER: I would refute that, Justice Thomas.
+
+JUSTICE SOTOMAYOR: Counsel, do you want to define constitutionally adequate counsel? Is it anybody who's graduated from Harvard and Yale?
+
+(Laughter.)
+</blockquote>
+
+<p>I was confused about why my script would not recognized Justice Thomas. I looked at the Perl source code, saw where I initialized a table of Justice names, and saw:</p>
+
+<div class="highlight" style="background: #f8f8f8"><pre style="line-height: 125%"><span></span><span style="color: #008000; font-weight: bold">use</span> <span style="color: #0000FF; font-weight: bold">String::</span>Approx <span style="color: #BA2121">&#39;amatch&#39;</span>;
+
+<span style="color: #19177C">$lastNames</span>{REHNQUIST} <span style="color: #666666">=</span> <span style="color: #666666">-1</span>;
+<span style="color: #19177C">$lastNames</span>{STEVENS} <span style="color: #666666">=</span> <span style="color: #666666">-1</span>;
+<span style="color: #408080; font-style: italic"># ... code omitted</span>
+
+    <span style="color: #008000; font-weight: bold">if</span> (<span style="color: #AA22FF; font-weight: bold">not</span> <span style="color: #008000">exists</span> <span style="color: #19177C">$lastNames</span>{<span style="color: #19177C">$upperLastName</span>}) {
+      <span style="color: #008000; font-weight: bold">if</span> (<span style="color: #008000; font-weight: bold">my</span> <span style="color: #19177C">@matches</span> <span style="color: #666666">=</span> amatch(<span style="color: #19177C">$upperLastName</span>, <span style="color: #19177C">@ids</span>)) {
+        <span style="color: #008000">warn</span> <span style="color: #BA2121">&quot;$path:$.: $lastName: guessing to be $matches[0]\n&quot;</span>;
+      }
+      <span style="color: #008000; font-weight: bold">else</span> {
+        <span style="color: #008000">warn</span> <span style="color: #BA2121">&quot;$path:$.: $lastName not found\n&quot;</span>;
+      }
+    }
+</pre></div>
+
+
+<p>I had simply forgotten seven years ago to put into the table initialization the following code:</p>
+
+<div class="highlight" style="background: #f8f8f8"><pre style="line-height: 125%"><span></span><span style="color: #19177C">$lastNames</span>{THOMAS} <span style="color: #666666">=</span> <span style="color: #666666">-1</span>;
+</pre></div>
+
+
+<p>And this bug had lain undiscovered for seven years because <a href="http://www.washingtonpost.com/politics/clarence-thomas-breaks-long-silence-during-supreme-court-oral-arguments/2013/01/14/a7c6023c-5e7a-11e2-9940-6fc488f3fecd_story.html">Justice Thomas has not spoken in seven years</a>!</p>
+
+<h3 id="how-the-bug-arose">How the bug arose</h3>
+
+<p>Justice Thomas did speak in the following transcripts I successfully converted years ago:</p>
+
+<ul>
+<li><sup>1999</sup>&frasl;<sub>99</sub>-478</li>
+<li><sup>2000</sup>&frasl;<sub>99</sub>-1848</li>
+<li><sup>2000</sup>&frasl;<sub>99</sub>-1964</li>
+<li><sup>2001</sup>&frasl;<sub>00</sub>-1770</li>
+<li><sup>2001</sup>&frasl;<sub>01</sub>-631</li>
+<li><sup>2002</sup>&frasl;<sub>01</sub>-1107</li>
+<li><sup>2002</sup>&frasl;<sub>02</sub>-516</li>
+<li><sup>2004</sup>&frasl;<sub>03</sub>-1164</li>
+<li><sup>2005</sup>&frasl;<sub>04</sub>-1067</li>
+<li><sup>2005</sup>&frasl;<sub>04</sub>-1327</li>
+<li><sup>2005</sup>&frasl;<sub>04</sub>-52</li>
+</ul>
+
+<p>What happened was that they were generated before I wrote the <code>find-bad-ids.pl</code> script. The main program in Java has its own table of justices. The purpose of the pre-processing Perl script is to catch errors earlier than handing off to the Java program. In particular, the use of approximate string matching enables easy correction of typos before ANTLR ever sees the text to parse. Before the pre-processing scripts, the text that arrived at ANTLR often had a lot of systematic errors that were annoying to fix, so I wrote in Perl both a cleanup pre-processing phase and a checking pre-processing phase. They include tests for all kinds of &ldquo;suspicious&rdquo; formatting and tokens and ambiguity that require manual judgment and correction.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>I still don&rsquo;t know why I forgot to put Justice Thomas into the table initialization code in my Perl script seven years ago, but it resulted in a bug that was not detected until today. The lesson: your computer program can have bugs if you didn&rsquo;t get test data that represented all possible situations, including that of Justice Thomas actually speaking during a SCOTUS oral argument!</p>
+
+    <div id="disqus_thread"></div>
+<script type="text/javascript">
+    var disqus_shortname = 'franklinchen';
+    var disqus_identifier = 'http:\/\/franklinchen.com\/blog\/2013\/01\/18\/how-justice-clarence-thomas-uncovered-a-seven-year-old-bug-in-my-computer-program\/';
+    var disqus_title = 'How Justice Clarence Thomas uncovered a seven-year-old bug in my computer program';
+    var disqus_url = 'http:\/\/franklinchen.com\/blog\/2013\/01\/18\/how-justice-clarence-thomas-uncovered-a-seven-year-old-bug-in-my-computer-program\/';
+
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+  </div>
+</div>
+<script src="http://franklinchen.com/js/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+</body>
+</html>
+

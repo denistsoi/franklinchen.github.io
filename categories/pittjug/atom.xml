@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pittjug on Franklin Chen</title>
+    <link>http://franklinchen.com/categories/pittjug/atom/index.xml</link>
+    <description>Recent content in Pittjug on Franklin Chen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://franklinchen.com/categories/pittjug/atom/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Pittsburgh Java User Group: Get Going with Git on Java Projects</title>
+      <link>http://franklinchen.com/blog/2012/02/21/pittsburgh-java-users-group-get-going-with-git-on-java-projects/</link>
+      <pubDate>Tue, 21 Feb 2012 20:34:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/02/21/pittsburgh-java-users-group-get-going-with-git-on-java-projects/</guid>
+      <description>&lt;p&gt;Tonight the &lt;a href=&#34;http://java.net/projects/pittjug/&#34;&gt;Pittsburgh Java User Group&lt;/a&gt; (&lt;a href=&#34;../../categories/pittjug/&#34;&gt;PittJUG&lt;/a&gt;) had another meeting at the &lt;a href=&#34;http://www.pghtech.org/&#34;&gt;Pittsburgh Technology Council&lt;/a&gt;. &lt;a href=&#34;http://twitter.com/matthewmccull&#34;&gt;Matthew McCullough&lt;/a&gt; of &lt;a href=&#34;http://github.com/&#34;&gt;GitHub&lt;/a&gt; gave a talk &amp;ldquo;Get Going with &lt;a href=&#34;http://git-scm.com/&#34;&gt;Git&lt;/a&gt; on Java Projects&amp;rdquo;.&lt;/p&gt;
+
+&lt;p&gt;I arrived early and couldn&amp;rsquo;t help admiring the view outside before entering the building as there was still daylight. Here are the Birmingham Bridge and the &lt;a href=&#34;http://en.wikipedia.org/wiki/Monongahela_River&#34;&gt;Monongahela River&lt;/a&gt;:&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/pittjug-2012-02-21/birmingham-bridge.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;View of Birmingham Bridge from Pittsburgh Technology Council&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/pittjug-2012-02-21/monongahela.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;View across Monongahela River from Pittsburgh Technology Council&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;I had a good time tonight.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;social-time&#34;&gt;Social time&lt;/h2&gt;
+
+&lt;p&gt;PittJUG meetings are advertised as starting at 5:30 PM, although the talk starts at 6:00. These days I always try to get there by 5:30 in order to get a good seat, settle in, and eat pizza and socialize, and that&amp;rsquo;s what I did today.&lt;/p&gt;
+
+&lt;h2 id=&#34;the-talk&#34;&gt;The talk&lt;/h2&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/pittjug-2012-02-21/matthew-mccullough-git.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;Matthew McCullough of GitHub speaking on Git at PittJUG&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;Matthew McCullough gave an energetic and clear presentation on some fundamentals of Git. There were good questions from the audience throughout, and he answered them well.&lt;/p&gt;
+
+&lt;p&gt;The title of the talk was, I suppose, inaccurate, because there was not much that was Java-specific. It was more of a general introduction to Git. He is going to be doing &lt;a href=&#34;http://www.pghtech.org/networks/PittJug/events.aspx&#34;&gt;GitHub&amp;rsquo;s Git Foundations Workshop tomorrow&lt;/a&gt;, covering much more of Git and details of Java environments. I am not attending this workshop, but based on his introductory presentation today, I&amp;rsquo;m sure it will be great.&lt;/p&gt;
+
+&lt;p&gt;I&amp;rsquo;m not sure how to summarize his talk, since I came to it already having spent quite a bit of time learning and understanding Git from various sources, including working through many &lt;a href=&#34;http://gitimmersion.com/&#34;&gt;tutorials&lt;/a&gt;, reading excellent &lt;a href=&#34;http://progit.org/&#34;&gt;Web references&lt;/a&gt; and other books, and actually using it on a daily basis for some time now.&lt;/p&gt;
+
+&lt;h3 id=&#34;my-learning-style&#34;&gt;My learning style&lt;/h3&gt;
+
+&lt;p&gt;I am definitely not yet an &amp;ldquo;expert&amp;rdquo; at Git (I have done some interactive rebasing, but nothing more complicated than that), so I felt it would be very useful to get an integrated personal view of what is important about Git and why, and Matthew was great at telling a story with his own words and emphases and personal anecdotes, such as moving &lt;a href=&#34;http://groovy.codehaus.org/&#34;&gt;Groovy&lt;/a&gt; over from &lt;a href=&#34;http://subversion.apache.org/&#34;&gt;Subversion&lt;/a&gt; to Git. I did end up taking quite a few notes even though I already &amp;ldquo;knew&amp;rdquo; most of what he talked about, because I liked various tips or analogies that he made. I find it highly valuable to get different narratives whenever deepening my understanding of something; in school and outside of school, I have always read multiple books in parallel, finding myself some book other than the &amp;ldquo;official&amp;rdquo; one, in order to broaden my perspective and as a robustness/redundancy measure, in case (as always happens), one source is flawed or confusing in some section.&lt;/p&gt;
+
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;I enjoyed this PittJUG meeting and am motivated to continue to improve my understanding and use of Git. Actually, at work I am about to transition a legacy Subversion repository to Git. I expect we will get a lot of benefits from this transition, and I will report on the results after I effect the transition and observe how everyone operates under the new system.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pittsburgh Java User Group: Developing Languages Using JRuby</title>
+      <link>http://franklinchen.com/blog/2012/01/24/pittsburgh-java-user-group-developing-languages-using-jruby/</link>
+      <pubDate>Tue, 24 Jan 2012 22:23:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2012/01/24/pittsburgh-java-user-group-developing-languages-using-jruby/</guid>
+      <description>
+
+&lt;p&gt;Tonight at PittJUG, Chris Umbel gave a version of the talk he did for the Pittsburgh Ruby group a couple of months ago. You can read my report on that &lt;a href=&#34;../../blog/2011/10/06/pittsburgh-ruby-building-a-compiler-in-jruby/&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;You might wonder why I attended the PittJUG meeting then, if I already heard the talk. The fact is, I&amp;rsquo;ve learned that the most value I get from attending these user group meetings is not so much the presentations (although I get considerable value, actually, from learning about good or not so good presentation techniques), but just hanging out to chat before and after a presentation, whether about the topic of the presentation or not.&lt;/p&gt;
+
+&lt;h2 id=&#34;presentation-materials&#34;&gt;Presentation materials&lt;/h2&gt;
+
+&lt;p&gt;Greg has uploaded Chris&amp;rsquo;s slides as well as a video of the PittJUG talk:&lt;/p&gt;
+
+&lt;iframe src=&#34;http://www.slideshare.net/slideshow/embed_code/11327294&#34; width=&#34;427&#34; height=&#34;356&#34; frameborder=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; scrolling=&#34;no&#34; style=&#34;border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px&#34; allowfullscreen webkitallowfullscreen mozallowfullscreen&gt; &lt;/iframe&gt; &lt;div style=&#34;margin-bottom:5px&#34;&gt; &lt;strong&gt; &lt;a href=&#34;http://www.slideshare.net/akinsgre/building-a-compiler-in-jruby&#34; title=&#34;Building a compiler in JRuby&#34; target=&#34;_blank&#34;&gt;Building a compiler in JRuby&lt;/a&gt; &lt;/strong&gt; from &lt;strong&gt;&lt;a href=&#34;http://www.slideshare.net/akinsgre&#34; target=&#34;_blank&#34;&gt;akinsgre&lt;/a&gt;&lt;/strong&gt; &lt;/div&gt;
+
+&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/wvg1m-lyKsU&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Pittsburgh Geek Out Day #4: &#34;Design&#34;</title>
+      <link>http://franklinchen.com/blog/2011/11/05/pittsburgh-geek-out-day-number-4-design/</link>
+      <pubDate>Sat, 05 Nov 2011 23:12:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2011/11/05/pittsburgh-geek-out-day-number-4-design/</guid>
+      <description>&lt;p&gt;Today was the fourth session held of Pittsburgh Geek Out Day. I enjoyed it, as I have all previous sessions of this unique local event.&lt;/p&gt;
+
+&lt;h2 id=&#34;introduction-to-pittsburgh-geek-out-day&#34;&gt;Introduction to Pittsburgh Geek Out Day&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.pghgeekoutday.com/&#34;&gt;Pittsburgh Geek Out Day&lt;/a&gt; was started earlier this year, with the first session being held on Saturday, April 2, 2011, in the morning. It was my very first &lt;a href=&#34;http://www.pghgeekoutday.com/open-spaces&#34;&gt;Open Spaces&lt;/a&gt; event experience, and a truly profound one for me on multiple levels: I really enjoyed this format of sharing and learning from one another, and meeting people involved in software development (in one role or another, not necessarily as developer) passionate about what we do. (Recently, &lt;a href=&#34;../../blog/2011/10/26/open-spaces-success-at-the-pittsburgh-java-users-group/&#34;&gt;the Pittsburgh Java User Group had an experimental Open Spaces evening&lt;/a&gt;.)&lt;/p&gt;
+
+&lt;p&gt;Pittsburgh Geek Out Day &lt;strong&gt;completely changed my life&lt;/strong&gt;, not only bringing me out of my social shell but also returning me to active engagement with a variety of software developers and just plain getting to know really interesting people. I have been really inspired and excited by this new community.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;other-previous-sessions&#34;&gt;Other previous sessions&lt;/h2&gt;
+
+&lt;p&gt;The second session was held on Saturday, May 21, 2011, also in the morning.&lt;/p&gt;
+
+&lt;p&gt;The third session was held on a Wednesday evening, August 10, 2011.&lt;/p&gt;
+
+&lt;h2 id=&#34;summaries-of-the-sessions&#34;&gt;Summaries of the sessions&lt;/h2&gt;
+
+&lt;p&gt;There has been some attempt to write up &lt;a href=&#34;http://www.pghgeekoutday.com/sessions/2011&#34;&gt;summaries of the Pittsburgh Geek Out Day sessions&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&#34;update-of-2014-01-16&#34;&gt;(Update of 2014-01-16)&lt;/h2&gt;
+
+&lt;p&gt;This is an unfinished post that is one of many in the past two years that lay unfinished because I had originally planned to write a very detailed report but never got around to it. I decided that I might as well release all these unfinished posts rather than leave them completely out of the record.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Open Spaces success at the Pittsburgh Java User Group!</title>
+      <link>http://franklinchen.com/blog/2011/10/26/open-spaces-success-at-the-pittsburgh-java-users-group/</link>
+      <pubDate>Wed, 26 Oct 2011 21:19:00 +0000</pubDate>
+      
+      <guid>http://franklinchen.com/blog/2011/10/26/open-spaces-success-at-the-pittsburgh-java-users-group/</guid>
+      <description>&lt;p&gt;Yesterday evening, the &lt;a href=&#34;http://java.net/projects/pittjug/&#34;&gt;Pittsburgh Java User Group&lt;/a&gt; (PittJUG) for the first time adopted an Open Spaces format. The basic idea is that instead of having someone give an hour-long presentation on something, everyone gets involved in choosing topics of discussion and we all break up into small groups to sit in a circle and chat (&lt;a href=&#34;https://docs.google.com/document/d/1Yufdr8zGBCWawsuEfKXXkM6ddcHnuhywzGw1lJ0u5TE/edit&#34;&gt;more details&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;If you have never been to an event with this Open Spaces format and philosophy, such an idea might sound chaotic and confusing. The first time I heard about the format, I was extremely skeptical. But the first time I went to an event adopting it, the first &lt;a href=&#34;http://www.pghgeekoutday.com/&#34;&gt;Pittsburgh Geek Out Day&lt;/a&gt;, I found it quite useful and am totally sold on its virtues.&lt;/p&gt;
+
+&lt;p&gt;This is a report on the two sessions that I attended. The &lt;a href=&#34;http://java.net/projects/pittjug/lists/pittjug/archive&#34;&gt;PittJUG mailing list&lt;/a&gt; has some discussion already of the two sessions that I had to miss.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;../../images/pittjug/first-open-spaces.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;First Open Spaces at PittJUG&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;the-topics&#34;&gt;The topics&lt;/h2&gt;
+
+&lt;p&gt;Fifteen of us showed up, and the goal was to collectively decide on four topics to break up into two time slots and two rooms, so that for each time slot, one could choose one of the two topics available and meet in the designated room. We went around the room so that everyone could volunteer a topic of interest, and eventually we consolidated popular related topics such that we had the following:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Software entrepreneurship&lt;/li&gt;
+&lt;li&gt;IDEs&lt;/li&gt;
+&lt;li&gt;Scala&lt;/li&gt;
+&lt;li&gt;Testing and continuous deployment&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I had actually submitted three Post-It notes suggesting topics on IDEs, Scala, and testing, so I was pretty happy that others were thinking similarly, and I ended up having to choose between Scala and testing, and going to the Scala session.&lt;/p&gt;
+
+&lt;p&gt;Each session ended up having around eight people each, so there were no extremely small or extremely large sessions.&lt;/p&gt;
+
+&lt;h2 id=&#34;ides&#34;&gt;IDEs&lt;/h2&gt;
+
+&lt;p&gt;At the session on IDEs, discussion revolved mostly around the following IDEs:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Eclipse&lt;/li&gt;
+&lt;li&gt;IntelliJ IDEA&lt;/li&gt;
+&lt;li&gt;NetBeans&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Everyone had extensive experience with and advocacy of at least one of these, so it was good to have many different points of view.&lt;/p&gt;
+
+&lt;p&gt;Some of the things I learned:&lt;/p&gt;
+
+&lt;h3 id=&#34;eclipse&#34;&gt;Eclipse&lt;/h3&gt;
+
+&lt;p&gt;Eclipse is free, and a lot of plugins are developed for it, but all of us have had some kind of problem using Eclipse, such as trouble installing a plugin, crashes, competing plugins (such as for Maven), refresh/synchronization problems, inconsistency across platforms. Some advocates of Eclipse said that once you get it working, it&amp;rsquo;s great. And from an ideological and philosophical point of view, it is completely free.&lt;/p&gt;
+
+&lt;h3 id=&#34;intellij-idea&#34;&gt;IntelliJ IDEA&lt;/h3&gt;
+
+&lt;p&gt;IntelliJ IDEA started off as a purely commercial product but has been available in a free community edition. For some people, the fact that it is not completely free is a minus. On the other hand, since the IntelliJ ecosystem is less sprawling than that of Eclipse, there are fewer headaches when it comes to choice of plugins and getting things to work.&lt;/p&gt;
+
+&lt;h3 id=&#34;netbeans&#34;&gt;NetBeans&lt;/h3&gt;
+
+&lt;p&gt;Some people particularly liked NetBeans. One advantage of it is the tight integration with Java EE 6. Things work out of the box. Also, the UML support is good (in contrast to Eclipse).&lt;/p&gt;
+
+&lt;h3 id=&#34;philosophy&#34;&gt;Philosophy&lt;/h3&gt;
+
+&lt;p&gt;We talked about the question of what our individual preferences was: a system that offered many components to choose from and configure, or a system that works out of the box. Many of us choose depending on the situation; sometimes it&amp;rsquo;s nice to build your own, but sometimes one just wants to get stuff done quickly.&lt;/p&gt;
+
+&lt;h3 id=&#34;practical-considerations&#34;&gt;Practical considerations&lt;/h3&gt;
+
+&lt;p&gt;There was a fair amount of discussion of practical considerations when choosing an IDE. Sometimes there is no choice, when working with other people or in a particular organization. Also, there was discussion of whether it makes sense for people to use different IDEs when operating on the same code base.&lt;/p&gt;
+
+&lt;h3 id=&#34;more-than-just-about-code&#34;&gt;More than just about code&lt;/h3&gt;
+
+&lt;p&gt;Time was running out when we started talking about how nice it would be if we could have an IDE link code to design documents.&lt;/p&gt;
+
+&lt;h2 id=&#34;scala&#34;&gt;Scala&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://jsuereth.com/&#34;&gt;Josh Suereth&lt;/a&gt; was our resident Scala expert, so a lot of questions we asked were answered by him.&lt;/p&gt;
+
+&lt;h3 id=&#34;how-to-get-into-scala&#34;&gt;How to get into Scala&lt;/h3&gt;
+
+&lt;p&gt;One good way to start getting into Scala is to use a Scala testing framework with an existing Java code base.&lt;/p&gt;
+
+&lt;p&gt;Another way is to use Scala for new applications.&lt;/p&gt;
+
+&lt;p&gt;The question of whether to rewrite old Java applications in Scala depends on whether a whole new architecture is desired. If not, then it may not be worth rewriting in Scala. Perhaps parts of it could be rewritten, or given a Scala wrapper for the sake of interfacing with new Scala code.&lt;/p&gt;
+
+&lt;h3 id=&#34;testing&#34;&gt;Testing&lt;/h3&gt;
+
+&lt;p&gt;ScalaCheck was mentioned as being very useful.&lt;/p&gt;
+
+&lt;p&gt;I asked about &lt;a href=&#34;http://etorreborre.github.com/specs2/&#34;&gt;specs2&lt;/a&gt;, since I have been trying to figure out how to use it (I currently have used the more traditional &lt;a href=&#34;http://www.scalatest.org/&#34;&gt;ScalaTest&lt;/a&gt;). I was &amp;ldquo;happy&amp;rdquo; to hear from Josh that indeed, there is a learning curve for this framework, so I&amp;rsquo;m not the only one who finds it difficult.  Scala is designed to make it easy to write DSLs. Unfortunately, learning a DSL can be involved.&lt;/p&gt;
+
+&lt;p&gt;We went off on a tangential discussion of DSLs.&lt;/p&gt;
+
+&lt;h3 id=&#34;dsls&#34;&gt;DSLs&lt;/h3&gt;
+
+&lt;p&gt;The question was whether DSLs really help &amp;ldquo;non-programmers&amp;rdquo; in one&amp;rsquo;s organization contribute to development, by enabling them to express their knowledge. Answers were mixed. Some of us had seen DSLs fail miserably at their intent. Josh mentioned cases of DSLs working well, e.g., use of DSLs to help junior developers get going, and use of DSLs for configuration.&lt;/p&gt;
+
+&lt;h3 id=&#34;groovy&#34;&gt;Groovy&lt;/h3&gt;
+
+&lt;p&gt;There was discussion of Groovy as another JVM-based language for doing some of the same things one can do with Scala, e.g., DSL-based web and testing frameworks.&lt;/p&gt;
+
+&lt;p&gt;It was interesting to me, since I have not really used Groovy, that a number of people had tried it and gotten bitten because it is dynamically typed and therefore, many problems occur at runtime when one wishes they would occur at compile time. This experience is in line with my preference for static typing. What attracts me to Scala is that it has type inference that reduces a lot of clutter in code and enables writing code that almost looks like what you would write in a dynamically typed language.&lt;/p&gt;
+
+&lt;h2 id=&#34;retrospective&#34;&gt;Retrospective&lt;/h2&gt;
+
+&lt;p&gt;After the two time slots were over, we gathered together for a brief discussion of the evening. I was pleased that one person said he had been skeptical of the whole Open Spaces idea but had enjoyed the format.&lt;/p&gt;
+
+&lt;p&gt;I think all of us had a good time sharing our knowledge and experience, and engaging in friendly debates on various topics. I certainly enjoy Open Spaces meetings more than the usual &amp;ldquo;sitting at a long presentation&amp;rdquo; format.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
