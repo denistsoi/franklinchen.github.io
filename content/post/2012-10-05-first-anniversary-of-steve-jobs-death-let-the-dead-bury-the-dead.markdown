@@ -15,8 +15,8 @@ Three weeks later, I wrote [my last note on Steve Jobs](/blog/2011/10/27/why-i-a
 
 Today, having ignored basically all media coverage of Steve Jobs since last October, and still ignoring the biography, all I have to say is:
 
-{% blockquote %}
+<blockquote>
 Let the dead bury the dead.
-{% endblockquote %}
+</blockquote>
 
 [Source.](http://www.biblegateway.com/passage/?search=Matthew+8%3A19-22&version=NIV)

@@ -22,9 +22,9 @@ This year, I returned because the topic for discussion sounded interesting: [Mar
 
 ## The [fourth amendment](http://en.wikipedia.org/wiki/Fourth_Amendment_to_the_United_States_Constitution)
 
-{% blockquote %}
+<blockquote>
 The right of the people to be secure in their persons, houses, papers, and effects, against unreasonable searches and seizures, shall not be violated, and no warrants shall issue, but upon probable cause, supported by oath or affirmation, and particularly describing the place to be searched, and the persons or things to be seized.
-{% endblockquote %}
+</blockquote>
 
 Mary Jo Miller gave an entertaining and instructive talk in which she discussed various rulings by the Supreme Court involving interpretations of the fourth amendment in various circumstances.
 

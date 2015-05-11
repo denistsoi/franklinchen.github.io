@@ -14,9 +14,9 @@ categories:
 
 A week ago, I saw a message on the [Pittsburgh Python](http://www.meetup.com/pghpython/) mailing list:
 
-{% blockquote %}
+<blockquote>
 We are looking for a presenter to talk about mock, pymox or other Python testing topics for our next meeting. If you have a different topic that you would like to present on, please let us know about that too, though preference will be given to testing-related talks this month.
-{% endblockquote %}
+</blockquote>
 
 I fairly quickly volunteered to talk about the Python standard library [`mock`](http://www.voidspace.org.uk/python/mock/), despite never having used it!
 

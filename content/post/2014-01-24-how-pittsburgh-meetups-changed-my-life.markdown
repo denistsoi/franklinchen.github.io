@@ -12,11 +12,11 @@ categories:
 
 Recently, I was informed by the message board of the Pittsburgh hiking meetup group that there was a recent [local article about Pittsburgh meetups](http://triblive.com/lifestyles/morelifestyles/5356571-74/meetup-group-internet), and it quoted one of the organizers of the hiking meetup, Jennifer Braun (who happens to be one of us participating in a [beautiful New Year hike](/blog/2014/01/01/happy-new-year-with-a-boyce-mayview-park-hike-wetlands/) led by Gary Byrdman that Abby and I went on):
 
-{% blockquote %}
+<blockquote>
 
 People should try new things, because it can change their life," she says. "It sounds kind of happy sunshine, but hiking changed my life. And I never knew until someone told me to try it. Find the thing that you love -- hiking, biking, quilting -- it's just everything you could think of. Once you're in one group and start looking around, you can really meet new people and do new things and get more out of life.
 
-{% endblockquote %}
+</blockquote>
 
 I was really moved by what she said, because my own immediate thought also when thinking about [Meetup](http://meetup.com/) is that **it changed my life**. How so?
 

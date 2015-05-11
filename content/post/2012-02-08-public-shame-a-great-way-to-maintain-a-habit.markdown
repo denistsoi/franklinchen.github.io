@@ -13,7 +13,7 @@ So I have been very happy that at Carnegie Mellon University, a "fitness challen
 
 {% img /images/cmu-fitness-challenge-2012-02.jpg CMU fitness challenge for winter 2012, week 2 %}
 
-{% blockquote %}
+<blockquote>
 Welcome to the fitness-challenge for 2012 "Strive to Thrive" - you have
 taken the first step by signing up to make a commitment to yourself and
 your health by working out 4 times a week for 20 min.  The challenge
@@ -31,7 +31,7 @@ from our interns from Pitt that will be motivating you to continue your
 "Strive to Thrive" - have fun, good luck and we'll all be thriving by
 Spring break! It takes 6 weeks to develop a habit and you have just
 started yours.
-{% endblockquote %}
+</blockquote>
 
 ## Why it works
 

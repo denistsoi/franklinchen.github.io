@@ -20,9 +20,9 @@ The reason for leaving is not just one isolated event, although blocks of certai
 
 The most recent seed for quitting actually came just a couple of days ago, from a blog I follow, where I was challenged to ask myself, ["what can you quit today?"](http://clairediazortiz.com/what-can-you-quit-today/):
 
-{% blockquote %}
+<blockquote>
 The idea, of course, is that we’re all doing things we don’t need to be doing. Things that zap our energy and passion and crowd our lives so much that we can’t do the amazing things we should be putting all our passions into.
-{% endblockquote %}
+</blockquote>
 
 One of the many thoughts I had was that my blogs have been stagnant for quite some time now. There is a clear inverse relationship between my participating on Twitter and Facebook (I never did do much on Google+) and my writing long form articles. So I am going to return to regular blogging.
 

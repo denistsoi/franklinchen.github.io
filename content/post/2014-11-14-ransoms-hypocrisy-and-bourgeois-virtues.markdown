@@ -16,9 +16,9 @@ It appears that "governments like the Spanish, the French, and the Italian, have
 
 So this brings up a dilemma (which of course comes up in action films all the time):
 
-{% blockquote %}
+<blockquote>
 Is it better to (a) remain morally consistent, refuse negotiation and ransom payment to an allegedly evil organization, but watch your citizens get beheaded? Or (b) sign up to a principled agreement not to negotiate with "terrorists," but then negotiate nonetheless, pay a large amount of money to release the citizens of your country, and simply deny the fact publicly?
-{% endblockquote %}
+</blockquote>
 
 ## In praise of hypocrisy?
 

@@ -21,9 +21,9 @@ Today I ran in Pittsburgh's [Great Race 10K](http://rungreatrace.com/) for the [
 
 During the race, I heard someone say, as I passed him:
 
-{% blockquote %}
+<blockquote>
 ...obscene... but in a good way!
-{% endblockquote %}
+</blockquote>
 
 It made my day.
 

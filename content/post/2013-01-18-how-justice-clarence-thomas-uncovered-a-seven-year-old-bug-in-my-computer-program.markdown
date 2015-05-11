@@ -84,7 +84,7 @@ THOMAS not found
 
 I was confused. I looked at the transcript and saw:
 
-{% blockquote %}
+<blockquote>
 JUSTICE SCALIA: And another of his counsel, Mr. Singer -- of the three that he had -- he was a graduate of Harvard law school, wasn't he?
 
 MS. SIGLER: Yes, Your Honor.
@@ -100,7 +100,7 @@ MS. SIGLER: I would refute that, Justice Thomas.
 JUSTICE SOTOMAYOR: Counsel, do you want to define constitutionally adequate counsel? Is it anybody who's graduated from Harvard and Yale?
 
 (Laughter.)
-{% endblockquote %}
+</blockquote>
 
 I was confused about why my script would not recognized Justice Thomas. I looked at the Perl source code, saw where I initialized a table of Justice names, and saw:
 

@@ -59,9 +59,9 @@ The book said that a beginner should run at least twenty minutes, preferably thi
 
 I wrote in my journal: 
 
-{% blockquote %}
+<blockquote>
 I think I will aim to successfully run my Frick Park route for a few weeks, till I can comfortably run 20 minutes.  Then I will invent a new addition in Frick Park in order to make the run 30 minutes.
-{% endblockquote %}
+</blockquote>
 
 Progress became more noticeable as I focused on putting in the time and distance, going as slowly as required to avoid going anaerobic (my problem when running with John). Learning the science of distance running definitely helped a lot in making my training scientific.
 
@@ -77,7 +77,7 @@ I ran the first races of my life right before the Pretty Good Race, in order to 
 
 My actual first 5K race was the [Run Around the Square](http://www.runaroundthesquare.com/) in August 2000, just some weeks before the Pretty Good Race. It was "disastrous", because I was completely inexperienced:
 
-{% blockquote %}
+<blockquote>
 I guess I went too fast, because before I reached the park entrance, I
 wasn't feeling so well, and my right side was beginning to hurt
 already.  I didn't think of myself as going fast, because so many
@@ -105,7 +105,7 @@ I didn't even bother to get in an extra kick when the end was near.  I
 just didn't feel well.  I believe my time was 27:xx.  I took my pulse
 right after I ripped off my chip and handed it to someone.  It was
 200.
-{% endblockquote %}
+</blockquote>
 
 In fact, my time was a very slow 27:23, and I was overambitious in my first race. But that was OK, because the point was to get experience so that in the race that mattered, the Pretty Good Race, hopefully I would do better. I was afraid of finishing dead last in the Pretty Good Race.
 

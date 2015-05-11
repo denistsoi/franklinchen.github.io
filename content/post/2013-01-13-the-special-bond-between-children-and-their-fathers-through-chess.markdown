@@ -21,17 +21,17 @@ Here are two excerpts from the articles:
 
 Seavers, who was an anti-apartheid activist, formed The Potter's House Scholastic Chess Club to reach out to children, especially low income and minority youth.
 
-{% blockquote %}
+<blockquote>
 I only cared about chess because my father cared about chess. I only learned the game because my father taught it to me. That is why today I tell fathers chess is one way you can build a common interest and hobby with your child. It brought my father and me closer together, and I can say that it has definitely helped me in building a closer relationship with my daughter.
-{% endblockquote %}
+</blockquote>
 
 ### Alejandro Ramirez, young Grandmaster
 
 GM Ramirez achieved the GM title at age 15. In the article about him, he said quite a bit about the role of his father in his life and chess career. An excerpt:
 
-{% blockquote %}
+<blockquote>
 My dad was instrumental in my development as a person and as a chess player. Despite the fact that he can't really see tactics or see more than a few moves ahead, he has a deep understanding of psychology and can sense positions quite well. If I explain a game to him, he can infer things I can't see, such as the mood of the player, the causes for blunders and many others.
-{% endblockquote %}
+</blockquote>
 
 ## My father and chess today
 

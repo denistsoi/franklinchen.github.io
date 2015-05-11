@@ -20,7 +20,7 @@ I just came back from another two-hour rehearsal (we've been having one every we
 
 I'll be performing with five other recorder players in one of the [Phipps Conservatory](http://phipps.conservatory.org/) "candlelight evenings", Sunday, December 9, from 6 PM to 8 PM.
 
-{% blockquote %}
+<blockquote>
 Candlelight Evenings
 
 Nov. 25, 2012 - Jan. 6, 2013
@@ -30,7 +30,7 @@ Extended Hours: Open until 10 p.m.
 Winter Flower Show is even more enchanting at night - a time when glowing candles light the walkways and live music fills the air.
 
 Experience the magic for yourself as we remain open until 10 p.m. daily from Nov. 23 - Jan. 6.
-{% endblockquote %}
+</blockquote>
 
 ## Why this event is special to me
 

@@ -330,9 +330,9 @@ In isolation, the 2013 Pittsburgh Marathon may be considered to be a total debac
 
 As [Emil Zatopek](http://www.guardian.co.uk/sport/blog/2012/jun/22/50-olympic-stunning-moments-emil-zatopek) said:
 
-{% blockquote %}
+<blockquote>
 If you want to run, run a mile. If you want to experience a different life, run a marathon.
-{% endblockquote %}
+</blockquote>
 
 ### (Update of 2013-05-09)
 

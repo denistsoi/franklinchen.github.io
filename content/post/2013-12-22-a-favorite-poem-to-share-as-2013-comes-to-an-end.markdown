@@ -54,12 +54,12 @@ Read ["Auguries of Innocence"](http://en.wikipedia.org/wiki/Auguries_of_Innocenc
 
 But that's a complex poem, not the one I was going to share yesterday at the party. The poem for yesterday was a much shorter one, "Eternity":
 
-{% blockquote %}
+<blockquote>
 He who binds to himself a joy
 Does the winged life destroy;
 But he who kisses the joy as it flies
 Lives in eternity's sun rise.
-{% endblockquote %}
+</blockquote>
 
 (The old edition I have has "bends" instead of "binds".)
 

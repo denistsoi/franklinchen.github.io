@@ -10,7 +10,7 @@ categories:
 ---
 Yesterday at work, I participated in a brown bag seminar "Fostering Team Creativity" offered by [CMU](http://www.cmu.edu/hr/learning/), taught by Ron Placone, whose seminar "Communicating Through Dialogue" back in October that [I had found so useful](/blog/2011/10/11/communicating-through-dialogue/).
 
-{% blockquote %}
+<blockquote>
 Often, when we think of creativity, we think of creative individuals.
 There is growing interest, however, in the importance of team creativity
 to the overall success of organizations. This brown bag session will
@@ -22,7 +22,7 @@ We will discuss the following:
 The importance of debunking myths about creativity.
 Ways to design supportive physical and psychological environments.
 The relationship between dialogue and team creativity.
-{% endblockquote %}
+</blockquote>
 
 ## What is creativity?
 

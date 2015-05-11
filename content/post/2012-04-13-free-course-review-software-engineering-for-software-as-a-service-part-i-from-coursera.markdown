@@ -25,9 +25,9 @@ categories:
 ---
 So after putting quite a bit of time, from February 20 to March 23, into the free Coursera course ["Software Engineering for Software as a Service (Part I)"](http://www.saas-class.org/), I just received my "Statement of Accomplishment":
 
-{% blockquote %}
+<blockquote>
 Congratulations! You have successfully completed the free online offering of Software Engineering for Software as a Service (Part I), offered February to April, 2012. To successfully complete this free online class, students were required to watch lectures, complete quizzes, and do weekly assignments.
-{% endblockquote %}
+</blockquote>
 
 My review:
 

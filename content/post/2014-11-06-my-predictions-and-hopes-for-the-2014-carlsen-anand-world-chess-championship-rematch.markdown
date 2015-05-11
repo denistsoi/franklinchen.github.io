@@ -22,9 +22,9 @@ Recall that I made one prediction that was eerily correct last year:
 
 Before round 9 began, I [predicted correctly](/blog/2013/11/21/world-chess-championship-2013-round-9-i-correctly-predicted-anands-aggressively-opening-choice-but-he-blundered-horribly-again-to-lose/):
 
-{% blockquote %}
+<blockquote>
 It came to me in a dream: Anand playing d4 in the next round, then going for an f3, e4 Pawn storm against Carlsen #FWCM2013
-{% endblockquote %}
+</blockquote>
 
 This was a critical game in the match, in which Anand blundered horribly to lose a game that he had very good chances of winning.
 

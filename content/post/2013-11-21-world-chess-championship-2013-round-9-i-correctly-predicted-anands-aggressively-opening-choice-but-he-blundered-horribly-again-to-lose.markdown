@@ -16,9 +16,9 @@ In my continuing coverage of the [World Chess Championship between Anand and Car
 
 The night before the game, five hours before it started, I [tweeted](http://twitter.com/franklinchen/status/403370754336505858):
 
-{% blockquote %}
+<blockquote>
 It came to me in a dream: Anand playing d4 in the next round, then going for an f3, e4 Pawn storm against Carlsen #FWCM2013
-{% endblockquote %}
+</blockquote>
 
 I have to admit to being proud of myself for having correctly predicted the opening that both players would willingly enter in today's game! I had been thinking about this even before the match, but apparently Anand didn't pull out his weapon until just now. Today, I explain my reasoning.
 

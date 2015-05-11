@@ -31,15 +31,15 @@ Three months ago, Jenn, one of the organizers, issued on Facebook a call for per
 
 I originally had no particular plan to go in costume, or to play some music at the hafla, but I just happened to notice a guy post:
 
-{% blockquote %}
+<blockquote>
 Well, I'm a folk singer, specializing in Irish and Scottish songs. I can't think of anything "pirate" in the playlist at the moment, but I've got a number of nautical themed pieces.
-{% endblockquote %}
+</blockquote>
 
 Since I had become sufficiently interested in Irish music in the past months that I had [ordered an Irish flute](/blog/2012/06/12/ordered-the-casey-burns-small-handed-irish-flute/) and expected delivery at any moment, I immediately replied to the guy:
 
-{% blockquote %}
+<blockquote>
 I like playing Irish whistle and flute music; maybe we can come up with some pirate theme together?
-{% endblockquote %}
+</blockquote>
 
 ## Three days ago
 
@@ -47,9 +47,9 @@ There was never any resumption of discussion of the Irish music idea, so I didn'
 
 But then this Wednesday, three days ago, I got a message from Jenn:
 
-{% blockquote %}
+<blockquote>
 I was wondering if you guys were still wanting to play a song or two for us this weekend for the Halloween Hafla? You are more than welcome. Let us know and if so, do you guys know any piratey music. It's been awhile since we last communicated and things might have changed since late July.
-{% endblockquote %}
+</blockquote>
 
 ## Research and preparation
 

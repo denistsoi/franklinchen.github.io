@@ -112,9 +112,9 @@ As a corollary, of course, if I manage to do that, I should also *as a side effe
 
 Click in the video to 4:10, where he answers the interview question, "But you enjoy it when you see you opponents squirm?" He answers candidly, for all of us serious chess players:
 
-{% blockquote %}
+<blockquote>
 Yes, I do. I enjoy it when I see my opponent, you know, really suffering, when he knows that I've outsmarted him. If I lose just one game, then usually, you know, I just really want to [gestures violently and angrily] get revenge.
-{% endblockquote %}
+</blockquote>
 
 I can't deny this part of chess. I lost to Kurt in the last tournament, so what can I say? I'm itching to win.
 

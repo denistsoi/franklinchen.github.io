@@ -14,9 +14,9 @@ You should read this post; in fact, you should follow the blog in general, as it
 
 In other words, I follow this blog precisely for the reasons the post advocates learning not only from "smart" people but specifically from unpredictable people:
 
-{% blockquote %}
+<blockquote>
 I am only interested in people as long as they are unpredictable to me. If I can predict what you’ll do or say, I’ll lose interest in you rapidly. If you can keep regularly surprising me in some way, forcing me to actually think in unscripted ways in order to respond, I’ll stay interested.
-{% endblockquote %}
+</blockquote>
 
 ## My experience
 

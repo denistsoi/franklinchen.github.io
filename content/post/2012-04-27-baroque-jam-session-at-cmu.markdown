@@ -16,13 +16,13 @@ Three days ago, I suddenly saw this poster on a bulletin board in the hallway at
 
 {% img /images/baroque-jam-session/poster.jpg CMU poster for Baroque jam session %}
 
-{% blockquote %}
+<blockquote>
 A night of music by some of these cool dead dudes.
 
 A chance to hear CMU School of Music majors do their thing, 18th Century style.
 
 An opportunity to bring your own instrument & play along.
-{% endblockquote %}
+</blockquote>
 
 I thought to myself, I have to go to this event, even at short notice!
 

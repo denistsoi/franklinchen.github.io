@@ -10,9 +10,9 @@ categories:
 ---
 Recently Steve Wilhite, the creator of [GIF (Graphics Interchange Format)](http://en.wikipedia.org/wiki/Graphics_Interchange_Format), tried to settle once and for all the age-old (well, 26-year-old, since the invention of GIF in 1987) question of how to pronounce "GIF", claiming that it is [pronounced as "jif"](http://howtopronouncegif.com/):
 
-{% blockquote %}
+<blockquote>
 "The Oxford English Dictionary accepts both pronunciations," Mr. Wilhite said. "They are wrong. It is a soft ‘G,’ pronounced ‘jif.’ End of story." 
-{% endblockquote %}
+</blockquote>
 
 Of course, whole "debate" is kind of silly, because it doesn't really matter how it's pronounced.
 

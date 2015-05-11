@@ -19,9 +19,9 @@ Yeah, what a sad excuse. But this is *exactly* how, when one's practice is alrea
 
 Abby and I have periodically "tried" to get back on, but as Yoda wisely said,
 
-{% blockquote %}
+<blockquote>
 Try not! Do, or do not. There is no try.
-{% endblockquote %}
+</blockquote>
 
 <iframe width="560" height="315" src="http://www.youtube.com/embed/BQ4yd2W50No" frameborder="0" allowfullscreen></iframe>
 

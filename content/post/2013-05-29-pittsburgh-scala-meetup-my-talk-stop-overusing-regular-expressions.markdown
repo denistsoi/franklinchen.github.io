@@ -30,11 +30,11 @@ Since I was already supposed to give a talk on Saturday at the 2013 [Pittsburgh 
 My presentation was "Stop overusing regular expressions!"
 
 Here is my abstract as submitted to Pittsburgh TechFest:
-{% blockquote %}
+<blockquote>
 Regular expressions are very commonly used to process and validate text data. Unfortunately, they suffer from various limitations. I will discuss the limitations and illustrate how using grammars instead can be an improvement. I will make the examples concrete using parsing libraries in a couple of representative languages, although the ideas are language-independent. (I'll try to squeeze in, say, Ruby, Python, JavaScript, Scala.)
 
 I will emphasize ease of use, since one reason for the overuse of regular expressions is that they are so easy to pull out of one's toolbox.
-{% endblockquote %}
+</blockquote>
 
 ### Attendance
 

@@ -31,9 +31,9 @@ This is passionate funeral music, written for a Spanish king's funeral. I found 
 
 English translation printed on our recorder arrangement parts:
 
-{% blockquote %}
+<blockquote>
 My harp is turned to mourning and my music into the voice of those that weep.
-{% endblockquote %}
+</blockquote>
 
 Fred put me on the alto 1 part. After some work on the piece, he called for those of us on alto 1 (there was at least one other person, but possibly no more, of us fifteen) to play louder, with more emotion, to really ring out. I had held back in part because I was afraid of going sharp if I blowed harder, but also in part because for other music we've been playing, I've been focusing on blending in playing tenor parts. I sometimes somehow get into a rut and "forget" the importance or impact of carrying the top line.
 

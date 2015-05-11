@@ -16,9 +16,9 @@ categories:
 - self-learning
 ---
 For years now, I've noticed that when people find out that I do yoga, they often say something like
-{% blockquote %}
+<blockquote>
 I tried yoga once and I got hurt. I thought it was supposed to be relaxing.
-{% endblockquote %}
+</blockquote>
 
 Today I read an article, ["How Yoga Can Wreck Your Body"](http://www.nytimes.com/2012/01/08/magazine/how-yoga-can-wreck-your-body.html?pagewanted=all). I urge anyone who currently does yoga, or is thinking about starting it, to read this article. It discusses cases of quite serious injury in yoga practitioners, including instructors, and reveals a world of danger that many may not be aware of, given how popular and hip yoga has become in the past decade or two.
 

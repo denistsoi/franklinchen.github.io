@@ -16,9 +16,9 @@ Today, I was very sad to see a news article [**Children's science questions "stu
 
 I was sad because of many of the parents' reactions to their children's questions:
 
-{% blockquote %}
+<blockquote>
 ...16% told their children to ask their partner and a fifth made up a response or pretended that no one knew the answer.
-{% endblockquote %}
+</blockquote>
 
 What are some better alternative responses?
 
@@ -37,9 +37,9 @@ One obvious response that is already by itself profoundly adequate would be to s
 
 Regarding trying to find out, here is another quote from the article:
 
-{% blockquote %}
+<blockquote>
 About a third of parents said they actively researched answers to their children's inquiries. 
-{% endblockquote %}
+</blockquote>
 
 It would be possible to stop here and praise these parents.
 

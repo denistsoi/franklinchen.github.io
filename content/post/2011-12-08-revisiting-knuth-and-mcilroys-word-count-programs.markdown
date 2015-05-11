@@ -20,9 +20,9 @@ Today I came across a [blog post](http://www.leancrew.com/all-this/2011/12/more-
 
 The task:
 
-{% blockquote %}
+<blockquote>
 Read a file of text, determine the n most frequently used words, and print out a sorted list of those words along with their frequencies.
-{% endblockquote %}
+</blockquote>
 
 Knuth came up with a typically clever, lengthy, low-level implementation (unfortunately, I could not find the source code online, although I remember reading it years ago; I would be delighted if someone knows where it is and can tell me). McIlroy then somewhat perversely wrote a six-line shell script that did the job, basically changing the subject away from literate programming and toward a [critique of Knuth's doing something low-level and complicated when unnecessary](http://www.princeton.edu/~hos/mike/transcripts/mcilroy.htm).
 

@@ -56,11 +56,11 @@ I have an explanation for this mistake. It turns out that the CD I borrowed from
 
 Furthermore, I did correctly remember seeing Bronfman playing in Heinz Hall. Again, my journal shows that on May 12, 2000, the final concert of the season, Yefim Bronfman played Beethoven under Mariss Jansons, and I was very impressed with the concert:
 
-{% blockquote %}
+<blockquote>
 I actually stood up to applaud Bronfman and Jansons for the Beethoven and the Stravinsky, something I have never done at a PSO concert.  It was a special concert.  Jansons seemed inspired, possibly because it was the season finale and the place was packed?  I mean, I'm not a Stravinsky fan, but the Stravinsky was just so well played.  The Beethoven was fantastic.  I thought I'd be all jaded from knowing this concerto inside out since first listening to it in 1988, but the performance was amazing.  The whole piece was great, but especially the first movement, in which Bronfman and Jansons and the orchestra were like one mind, the interplay seamless.
 
 One thing about Bronfman:  he had a lot of energy, but seemed kind of percussive or heavy sometimes.  A minor complaint about a pianist who seemed great from the performance I saw.
-{% endblockquote %}
+</blockquote>
 
 ## The correctness of memory
 
@@ -68,9 +68,9 @@ One thing about Bronfman:  he had a lot of energy, but seemed kind of percussive
 
 My journal entry for the day of the concert included this comment I jotted down into my [Palm PDA](http://en.wikipedia.org/wiki/Palm_\(PDA\)) at intermission:
 
-{% blockquote %}
+<blockquote>
 Intermission.  There was an encore by Mikhail Rudy.  The Prokofiev piano concerto no. 2 is the most bizarre piano concerto I've ever heard.  Quite perverse.  The clashing harmonies are one thing, but the organization is another.  Long, extended solo passages.  Huge cadenza in the first movement.  Just freakish.  I will have to look it up on the Web.
-{% endblockquote %}
+</blockquote>
 
 I think I fairly accurately remembered my impression of the music that I wrote at the beginning of this post before I consulted my journal entry.
 

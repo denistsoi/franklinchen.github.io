@@ -17,9 +17,9 @@ For several years, I've made a habit of observing [Constitution Day](http://en.w
 
 [This year](http://events.web.cmu.edu/ecal/event/137831259599848837), the program for the event [held at the Posner Center](http://cmlibblog.wordpress.com/2013/08/13/constitution-day-celebration/) at CMU read:
 
-{% blockquote %}
+<blockquote>
 David Harris, distinguished faculty scholar and professor of law at the University of Pittsburgh School of Law, will deliver a keynote speech titled "How Will America Be Remembered? A Constitution Day Journey Into the Future" at approximately 3:30 p.m. Light refreshments will be served. An original copy of the Bill of Rights will be on display.
-{% endblockquote %}
+</blockquote>
 
 I ended up deciding not to attend today, for several reasons. One is that I have a lot of stuff to get done at work right now. But even if that weren't the case, my heart was not into celebrating Constitution Day this year.
 
@@ -29,9 +29,9 @@ I ended up deciding not to attend today, for several reasons. One is that I have
 
 Because the story is still far from over, I haven't said much on my blog about the events that have been unfolding for some months now since [Edward Snowden](http://en.wikipedia.org/wiki/Edward_Snowden) exposed information about the [surveillance activities of the National Security Agency](http://en.wikipedia.org/wiki/2013_mass_surveillance_disclosures). He [explained his actions as justified by the violation of the 4th and 5th Amendments to the Constitution](http://www.theguardian.com/world/2013/jul/12/edward-snowden-full-statement-moscow):
 
-{% blockquote %}
+<blockquote>
 The 4th and 5th Amendments to the Constitution of my country, Article 12 of the Universal Declaration of Human Rights, and numerous statutes and treaties forbid such systems of massive, pervasive surveillance. While the US Constitution marks these programs as illegal, my government argues that secret court rulings, which the world is not permitted to see, somehow legitimize an illegal affair. These rulings simply corrupt the most basic notion of justice -- that it must be seen to be done. The immoral cannot be made moral through the use of secret law.
-{% endblockquote %}
+</blockquote>
 
 When I do a Web search for "Edward Snowden" and "Constitution", I mostly find pro-Snowden articles that affirm his point of view of the NSA programs as being unconstitutional. Here is [one exception](http://www.newsworks.org/index.php/blogs/brandywine-to-broad/item/56244-nsa-leaks-by-edward-snowden-threaten-constitutional-self-government) you may wish to read.
 
