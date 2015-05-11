@@ -24,4 +24,4 @@ So I wrote up the recursive solution. Some features of the solution:
 
 Here's the code:
 
-{% gist 4963218 %}
+{{% gist 4963218 %}}

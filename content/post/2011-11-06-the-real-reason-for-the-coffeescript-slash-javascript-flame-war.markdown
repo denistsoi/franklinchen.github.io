@@ -32,7 +32,7 @@ C++ became very popular, although to this day there are many programmers who hav
 
 To illustrate how C++ can be considered an extension of C, compare the handwritten implementation of inheritance in C with that provided by C++:
 
-{% gist 1344060 %}
+{{% gist 1344060 %}}
 
 (For amusement, see how knowing the low levels of C can enable [doing abusive things in C++](/blog/2011/10/04/a-blast-from-the-past-c-plus-plus-abuse/).)
 

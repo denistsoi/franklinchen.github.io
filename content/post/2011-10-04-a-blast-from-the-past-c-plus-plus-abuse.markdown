@@ -18,7 +18,7 @@ In the spirit of reminiscence about C and C++ programming, I hereby share my fir
 
 <!--more-->
 
-{% gist 1263372 %}
+{{% gist 1263372 %}}
 
 I wrote up with this monstrosity (in less obfuscated form, admittedly) while learning C++ coming from a background of C (in conjunction with assembly language) and inspecting the output of `Cfront`(http://en.wikipedia.org/wiki/Cfront)-based compilers we used (especially when the compilers failed with internal fatal errors or generated incorrect code, which sometimes happened).
 

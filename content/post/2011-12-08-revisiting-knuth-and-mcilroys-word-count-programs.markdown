@@ -63,7 +63,7 @@ I present a simple program in [Haskell](http://www.haskell.org/) that I feel is 
 
 Here is my Haskell program, in two variants. The first is a standard source code file, while the second uses Haskell's built-in support for its own notion of "literate programming".
 
-{% gist 1448622 %}
+{{% gist 1448622 %}}
 
 I used [GHC](http://www.haskell.org/ghc/) to compile and run the program.  Sample output:
 
