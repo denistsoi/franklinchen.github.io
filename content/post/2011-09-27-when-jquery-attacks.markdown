@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "When jQuery Attacks"
+disqus_identifier: "http://franklinchen.com/blog/2011/09/27/when-jquery-attacks/"
+disqus_url: "http://franklinchen.com/blog/2011/09/27/when-jquery-attacks/"
 date: 2011-09-27T21:07:00
 comments: true
 categories:

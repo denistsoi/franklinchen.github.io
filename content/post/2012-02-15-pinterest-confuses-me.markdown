@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Pinterest confuses me"
+disqus_identifier: "http://franklinchen.com/blog/2012/02/15/pinterest-confuses-me/"
+disqus_url: "http://franklinchen.com/blog/2012/02/15/pinterest-confuses-me/"
 date: 2012-02-15T21:09:00
 comments: true
 categories:

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Running my 8th Pretty Good Race 5K: dealing with disappointment"
+disqus_identifier: "http://franklinchen.com/blog/2012/09/07/running-my-8th-pretty-good-race-5k-dealing-with-disappointment/"
+disqus_url: "http://franklinchen.com/blog/2012/09/07/running-my-8th-pretty-good-race-5k-dealing-with-disappointment/"
 date: 2012-09-07T19:47:00
 comments: true
 categories: 

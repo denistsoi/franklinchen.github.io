@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Dan Possumato and friends playing Irish, Scottish, French music"
+disqus_identifier: "http://franklinchen.com/blog/2012/11/25/dan-possumato-and-friends-playing-irish-scottish-french-music/"
+disqus_url: "http://franklinchen.com/blog/2012/11/25/dan-possumato-and-friends-playing-irish-scottish-french-music/"
 date: 2012-11-25T21:42:00
 comments: true
 categories: 

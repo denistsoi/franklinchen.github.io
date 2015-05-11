@@ -2,9 +2,12 @@
 layout: post
 title: "My third meeting of the Steel City Ukuleles: finally ordered a new instrument"
 date: 2013-09-18T23:13:09-04:00
+disqus_id: "blog/2013/09/18/my-third-meeting-of-the-steel-city-ukuleles/"
+disqus_url: "blog/2013/09/18/my-third-meeting-of-the-steel-city-ukuleles/"
+url: "blog/2013/09/18/my-third-meeting-of-the-steel-city-ukuleles/"
 comments: true
-external-url: 
-categories: 
+external-url:
+categories:
 - music
 - ukulele
 - Steel City Ukuleles

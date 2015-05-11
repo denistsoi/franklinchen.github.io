@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Happy Programmers' Day!"
+disqus_identifier: "http://franklinchen.com/blog/2012/09/12/happy-programmers-day/"
+disqus_url: "http://franklinchen.com/blog/2012/09/12/happy-programmers-day/"
 date: 2012-09-12T21:56:00
 comments: true
 categories:

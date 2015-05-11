@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "How to enjoy treadmill running: treat it as a meditative practice"
+disqus_identifier: "http://franklinchen.com/blog/2012/01/05/how-to-enjoy-treadmill-running-treat-it-as-a-meditative-practice/"
+disqus_url: "http://franklinchen.com/blog/2012/01/05/how-to-enjoy-treadmill-running-treat-it-as-a-meditative-practice/"
 date: 2012-01-05T22:42:00
 comments: true
 categories:

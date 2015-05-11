@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "One month anniversary of my blog"
+disqus_identifier: "http://franklinchen.com/blog/2011/10/21/one-month-anniversary-of-my-blog/"
+disqus_url: "http://franklinchen.com/blog/2011/10/21/one-month-anniversary-of-my-blog/"
 date: 2011-10-21T22:30:00
 comments: true
 categories:

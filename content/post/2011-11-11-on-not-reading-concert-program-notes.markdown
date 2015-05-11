@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "On not reading concert program notes"
+disqus_identifier: "http://franklinchen.com/blog/2011/11/11/on-not-reading-concert-program-notes/"
+disqus_url: "http://franklinchen.com/blog/2011/11/11/on-not-reading-concert-program-notes/"
 date: 2011-11-11T23:06:00
 comments: true
 categories:

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Flute progress report: day of reckoning approaches"
+disqus_identifier: "http://franklinchen.com/blog/2012/02/14/flute-progress-report-day-of-reckoning-approaches/"
+disqus_url: "http://franklinchen.com/blog/2012/02/14/flute-progress-report-day-of-reckoning-approaches/"
 date: 2012-02-14T20:47:00
 comments: true
 categories:

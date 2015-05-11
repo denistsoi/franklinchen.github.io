@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Learning another instrument: the tin whistle"
+disqus_identifier: "http://franklinchen.com/blog/2011/12/11/learning-another-instrument-the-tin-whistle/"
+disqus_url: "http://franklinchen.com/blog/2011/12/11/learning-another-instrument-the-tin-whistle/"
 date: 2011-12-11T21:33:00
 comments: true
 categories:

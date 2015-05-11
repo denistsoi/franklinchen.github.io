@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "My eighth time doing Run Around the Square 5K"
+disqus_identifier: "http://franklinchen.com/blog/2012/08/25/my-eighth-time-doing-run-around-the-square-5k/"
+disqus_url: "http://franklinchen.com/blog/2012/08/25/my-eighth-time-doing-run-around-the-square-5k/"
 date: 2012-08-25T10:47:00
 comments: true
 categories: 

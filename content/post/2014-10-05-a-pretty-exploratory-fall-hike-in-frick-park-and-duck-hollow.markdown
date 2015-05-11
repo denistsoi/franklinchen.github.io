@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "A pretty exploratory fall hike in Frick Park and Duck Hollow"
+disqus_identifier: "http://franklinchen.com/blog/2014/10/05/a-pretty-exploratory-fall-hike-in-frick-park-and-duck-hollow/"
+disqus_url: "http://franklinchen.com/blog/2014/10/05/a-pretty-exploratory-fall-hike-in-frick-park-and-duck-hollow/"
 date: 2014-10-05T20:25:28
 comments: true
 categories:

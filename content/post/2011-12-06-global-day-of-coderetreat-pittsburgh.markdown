@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Global Day of CodeRetreat: Pittsburgh"
+disqus_identifier: "http://franklinchen.com/blog/2011/12/06/global-day-of-coderetreat-pittsburgh/"
+disqus_url: "http://franklinchen.com/blog/2011/12/06/global-day-of-coderetreat-pittsburgh/"
 date: 2011-12-06T21:24:00
 comments: true
 categories:

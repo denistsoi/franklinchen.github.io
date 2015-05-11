@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "My predictions and hopes for the 2014 Carlsen-Anand world chess championship rematch"
+disqus_identifier: "http://franklinchen.com/blog/2014/11/06/my-predictions-and-hopes-for-the-2014-carlsen-anand-world-chess-championship-rematch/"
+disqus_url: "http://franklinchen.com/blog/2014/11/06/my-predictions-and-hopes-for-the-2014-carlsen-anand-world-chess-championship-rematch/"
 date: 2014-11-06T21:09:54
 comments: true
 categories:

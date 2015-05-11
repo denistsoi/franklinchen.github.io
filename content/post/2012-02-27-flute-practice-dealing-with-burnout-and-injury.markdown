@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Flute practice: dealing with burnout and injury"
+disqus_identifier: "http://franklinchen.com/blog/2012/02/27/flute-practice-dealing-with-burnout-and-injury/"
+disqus_url: "http://franklinchen.com/blog/2012/02/27/flute-practice-dealing-with-burnout-and-injury/"
 date: 2012-02-27T11:27:00
 comments: true
 categories:

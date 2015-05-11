@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Free course review: Software Engineering for Software as a Service (Part I), from Coursera"
+disqus_identifier: "http://franklinchen.com/blog/2012/04/13/free-course-review-software-engineering-for-software-as-a-service-part-i-from-coursera/"
+disqus_url: "http://franklinchen.com/blog/2012/04/13/free-course-review-software-engineering-for-software-as-a-service-part-i-from-coursera/"
 date: 2012-04-13T21:29:00
 comments: true
 categories:

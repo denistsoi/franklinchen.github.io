@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "A strange winter hike in Frick Park"
+disqus_identifier: "http://franklinchen.com/blog/2012/02/06/a-strange-winter-hike-in-frick-park/"
+disqus_url: "http://franklinchen.com/blog/2012/02/06/a-strange-winter-hike-in-frick-park/"
 date: 2012-02-06T22:29:00
 comments: true
 categories:

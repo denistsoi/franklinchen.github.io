@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Ransoms, hypocrisy, and bourgeois virtues"
+disqus_identifier: "http://franklinchen.com/blog/2014/11/14/ransoms-hypocrisy-and-bourgeois-virtues/"
+disqus_url: "http://franklinchen.com/blog/2014/11/14/ransoms-hypocrisy-and-bourgeois-virtues/"
 date: 2014-11-14T22:18:36
 comments: true
 categories:

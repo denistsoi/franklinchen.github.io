@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "How I forgot to meditate after sixty days in a row of remembering and what that means"
+disqus_identifier: "http://franklinchen.com/blog/2015/01/24/how-i-forgot-to-meditate-after-sixty-days-in-a-row-of-remembering-and-what-that-means/"
+disqus_url: "http://franklinchen.com/blog/2015/01/24/how-i-forgot-to-meditate-after-sixty-days-in-a-row-of-remembering-and-what-that-means/"
 date: 2015-01-24T13:58:29
 comments: true
 categories:

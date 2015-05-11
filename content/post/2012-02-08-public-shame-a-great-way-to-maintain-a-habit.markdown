@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Public shame: a great way to maintain a habit"
+disqus_identifier: "http://franklinchen.com/blog/2012/02/08/public-shame-a-great-way-to-maintain-a-habit/"
+disqus_url: "http://franklinchen.com/blog/2012/02/08/public-shame-a-great-way-to-maintain-a-habit/"
 date: 2012-02-08T21:59:00
 comments: true
 categories:

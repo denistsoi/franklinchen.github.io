@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Starting a New Web Site"
+disqus_identifier: "http://franklinchen.com/blog/2011/09/22/starting-a-new-web-site/"
+disqus_url: "http://franklinchen.com/blog/2011/09/22/starting-a-new-web-site/"
 date: 2011-09-22T01:25:00
 comments: true
 categories:

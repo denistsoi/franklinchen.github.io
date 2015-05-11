@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Things look different from the perspective of the professional and the spectator"
+disqus_identifier: "http://franklinchen.com/blog/2014/11/05/things-look-different-from-the-perspective-of-the-professional-and-the-spectator/"
+disqus_url: "http://franklinchen.com/blog/2014/11/05/things-look-different-from-the-perspective-of-the-professional-and-the-spectator/"
 date: 2014-11-05T22:10:35
 comments: true
 categories:

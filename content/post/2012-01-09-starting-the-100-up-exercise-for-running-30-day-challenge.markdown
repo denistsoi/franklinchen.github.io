@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Starting the 100 Up (exercise for running) 30-day challenge"
+disqus_identifier: "http://franklinchen.com/blog/2012/01/09/starting-the-100-up-exercise-for-running-30-day-challenge/"
+disqus_url: "http://franklinchen.com/blog/2012/01/09/starting-the-100-up-exercise-for-running-30-day-challenge/"
 date: 2012-01-09T23:32:00
 comments: true
 categories: 

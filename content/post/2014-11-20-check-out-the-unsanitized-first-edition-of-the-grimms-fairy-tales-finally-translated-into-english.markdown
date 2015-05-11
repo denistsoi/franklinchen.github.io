@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Check out the unsanitized first edition of the Grimms' fairy tales finally translated into English"
+disqus_identifier: "http://franklinchen.com/blog/2014/11/20/check-out-the-unsanitized-first-edition-of-the-grimms-fairy-tales-finally-translated-into-english/"
+disqus_url: "http://franklinchen.com/blog/2014/11/20/check-out-the-unsanitized-first-edition-of-the-grimms-fairy-tales-finally-translated-into-english/"
 date: 2014-11-20T23:11:02
 comments: true
 categories:

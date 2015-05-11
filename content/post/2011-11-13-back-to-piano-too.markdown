@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Back to piano too"
+disqus_identifier: "http://franklinchen.com/blog/2011/11/13/back-to-piano-too/"
+disqus_url: "http://franklinchen.com/blog/2011/11/13/back-to-piano-too/"
 date: 2011-11-13T20:14:00
 comments: true
 categories:

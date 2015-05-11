@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Excited by the new season of the Pittsburgh Recorder Society"
+disqus_identifier: "http://franklinchen.com/blog/2012/09/16/excited-by-the-new-season-of-the-pittsburgh-recorder-society/"
+disqus_url: "http://franklinchen.com/blog/2012/09/16/excited-by-the-new-season-of-the-pittsburgh-recorder-society/"
 date: 2012-09-16T20:04:00
 comments: true
 categories:

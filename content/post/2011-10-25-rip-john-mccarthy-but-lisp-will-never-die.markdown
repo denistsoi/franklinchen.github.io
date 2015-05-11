@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "RIP, John McCarthy; but Lisp will never die"
+disqus_identifier: "http://franklinchen.com/blog/2011/10/25/rip-john-mccarthy-but-lisp-will-never-die/"
+disqus_url: "http://franklinchen.com/blog/2011/10/25/rip-john-mccarthy-but-lisp-will-never-die/"
 date: 2011-10-25T00:14:00
 comments: true
 categories:

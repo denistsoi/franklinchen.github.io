@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Apologies for the technical glitch"
+disqus_identifier: "http://franklinchen.com/blog/2011/11/28/apologies-for-the-technical-glitch/"
+disqus_url: "http://franklinchen.com/blog/2011/11/28/apologies-for-the-technical-glitch/"
 date: 2011-11-28T21:43:00
 comments: true
 categories:

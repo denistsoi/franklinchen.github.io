@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "On duets with dead musicians"
+disqus_identifier: "http://franklinchen.com/blog/2011/11/15/on-duets-with-dead-musicians/"
+disqus_url: "http://franklinchen.com/blog/2011/11/15/on-duets-with-dead-musicians/"
 date: 2011-11-15T22:05:00
 comments: true
 categories:

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Singing Through Traffic"
+disqus_identifier: "http://franklinchen.com/blog/2011/10/06/singing-through-traffic/"
+disqus_url: "http://franklinchen.com/blog/2011/10/06/singing-through-traffic/"
 date: 2011-10-06T20:57:00
 comments: true
 categories:

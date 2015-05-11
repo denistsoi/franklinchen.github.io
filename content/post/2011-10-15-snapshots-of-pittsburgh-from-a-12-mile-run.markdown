@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Snapshots of Pittsburgh From a 12-mile Run"
+disqus_identifier: "http://franklinchen.com/blog/2011/10/15/snapshots-of-pittsburgh-from-a-12-mile-run/"
+disqus_url: "http://franklinchen.com/blog/2011/10/15/snapshots-of-pittsburgh-from-a-12-mile-run/"
 date: 2011-10-15T19:58:00
 comments: true
 categories:

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Obama is speaking outside my office window, so why did I stay home?"
+disqus_identifier: "http://franklinchen.com/blog/2012/07/06/obama-is-speaking-outside-my-office-window-so-why-did-i-stay-home/"
+disqus_url: "http://franklinchen.com/blog/2012/07/06/obama-is-speaking-outside-my-office-window-so-why-did-i-stay-home/"
 date: 2012-07-06T13:00:00
 comments: true
 categories: 

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Chatham Baroque: thoughts on playing new non-Baroque music on Baroque instruments"
+disqus_identifier: "http://franklinchen.com/blog/2012/10/04/chatham-baroque-thoughts-on-playing-new-non-baroque-music-on-baroque-instruments/"
+disqus_url: "http://franklinchen.com/blog/2012/10/04/chatham-baroque-thoughts-on-playing-new-non-baroque-music-on-baroque-instruments/"
 date: 2012-10-04T23:21:00
 comments: true
 categories: 

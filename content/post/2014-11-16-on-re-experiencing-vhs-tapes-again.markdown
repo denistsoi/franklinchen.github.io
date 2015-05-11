@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "On re-experiencing VHS tapes again"
+disqus_identifier: "http://franklinchen.com/blog/2014/11/16/on-re-experiencing-vhs-tapes-again/"
+disqus_url: "http://franklinchen.com/blog/2014/11/16/on-re-experiencing-vhs-tapes-again/"
 date: 2014-11-16T21:27:49
 comments: true
 categories:

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "SorryWatch: good and bad apologies"
+disqus_identifier: "http://franklinchen.com/blog/2014/11/12/sorrywatch-good-and-bad-apologies/"
+disqus_url: "http://franklinchen.com/blog/2014/11/12/sorrywatch-good-and-bad-apologies/"
 date: 2014-11-12T22:27:53
 comments: true
 categories:

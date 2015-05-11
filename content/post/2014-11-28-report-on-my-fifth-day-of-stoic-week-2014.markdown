@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Report on my fifth day of Stoic Week 2014: action and the reserve clause"
+disqus_identifier: "http://franklinchen.com/blog/2014/11/28/report-on-my-fifth-day-of-stoic-week-2014/"
+disqus_url: "http://franklinchen.com/blog/2014/11/28/report-on-my-fifth-day-of-stoic-week-2014/"
+url: "blog/2014/11/28/report-on-my-fifth-day-of-stoic-week-2014/"
 date: 2014-11-28T23:20:43
 comments: true
 categories:

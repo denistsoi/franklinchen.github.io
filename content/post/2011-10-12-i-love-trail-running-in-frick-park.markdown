@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "I Love Trail Running in Frick Park"
+disqus_identifier: "http://franklinchen.com/blog/2011/10/12/i-love-trail-running-in-frick-park/"
+disqus_url: "http://franklinchen.com/blog/2011/10/12/i-love-trail-running-in-frick-park/"
 date: 2011-10-12T23:44:00
 comments: true
 categories:

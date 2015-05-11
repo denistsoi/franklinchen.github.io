@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "How to respond if a child asks you a science question you don't know the answer to"
+disqus_identifier: "http://franklinchen.com/blog/2012/01/19/how-to-respond-if-a-child-asks-you-a-science-question-you-dont-know-the-answer-to/"
+disqus_url: "http://franklinchen.com/blog/2012/01/19/how-to-respond-if-a-child-asks-you-a-science-question-you-dont-know-the-answer-to/"
 date: 2012-01-19T22:28:00
 comments: true
 categories: 

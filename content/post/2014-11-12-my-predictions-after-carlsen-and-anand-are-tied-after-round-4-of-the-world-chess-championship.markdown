@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "My predictions after Carlsen and Anand are tied after round 4 of the World Chess Championship"
+disqus_identifier: "http://franklinchen.com/blog/2014/11/12/my-predictions-after-carlsen-and-anand-are-tied-after-round-4-of-the-world-chess-championship/"
+disqus_url: "http://franklinchen.com/blog/2014/11/12/my-predictions-after-carlsen-and-anand-are-tied-after-round-4-of-the-world-chess-championship/"
 date: 2014-11-12T23:01:25
 comments: true
 categories:

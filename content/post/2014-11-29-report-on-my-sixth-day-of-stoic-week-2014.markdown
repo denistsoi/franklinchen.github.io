@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Report on my sixth day of Stoic Week 2014: preparing for adversity"
+disqus_identifier: "http://franklinchen.com/blog/2014/11/29/report-on-my-sixth-day-of-stoic-week-2014/"
+disqus_url: "http://franklinchen.com/blog/2014/11/29/report-on-my-sixth-day-of-stoic-week-2014/"
+url: "blog/2014/11/29/report-on-my-sixth-day-of-stoic-week-2014/"
 date: 2014-11-29T18:37:25
 comments: true
 categories:

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Review of Coursera course: Model Thinking"
+disqus_identifier: "http://franklinchen.com/blog/2012/06/16/review-of-coursera-course-model-thinking/"
+disqus_url: "http://franklinchen.com/blog/2012/06/16/review-of-coursera-course-model-thinking/"
 date: 2012-06-16T22:09:00
 comments: true
 categories: 

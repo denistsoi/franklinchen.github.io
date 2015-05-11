@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Round 2 of the Pittsburgh Chess Club tournament: winning in the Sicilian Defense; the philosophy and psychology of struggle"
+disqus_identifier: "http://franklinchen.com/blog/2012/09/12/round-2-of-the-pittsburgh-chess-club-tournament-winning-in-the-sicilian-defense-the-philosophy-and-psychology-of-struggle/"
+disqus_url: "http://franklinchen.com/blog/2012/09/12/round-2-of-the-pittsburgh-chess-club-tournament-winning-in-the-sicilian-defense-the-philosophy-and-psychology-of-struggle/"
 date: 2012-09-12T07:41:00
 comments: true
 categories: 

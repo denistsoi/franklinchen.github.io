@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Enjoying more French dancing in Pittsburgh"
+disqus_identifier: "http://franklinchen.com/blog/2012/02/20/enjoying-more-french-dancing-in-pittsburgh/"
+disqus_url: "http://franklinchen.com/blog/2012/02/20/enjoying-more-french-dancing-in-pittsburgh/"
 date: 2012-02-20T01:03:00
 comments: true
 categories:

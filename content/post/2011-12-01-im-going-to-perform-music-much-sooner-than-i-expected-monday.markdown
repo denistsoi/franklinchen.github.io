@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "I'm going to perform music much sooner than I expected: Monday"
+disqus_identifier: "http://franklinchen.com/blog/2011/12/01/im-going-to-perform-music-much-sooner-than-i-expected-monday/"
+disqus_url: "http://franklinchen.com/blog/2011/12/01/im-going-to-perform-music-much-sooner-than-i-expected-monday/"
 date: 2011-12-01T23:19:00
 comments: true
 categories:

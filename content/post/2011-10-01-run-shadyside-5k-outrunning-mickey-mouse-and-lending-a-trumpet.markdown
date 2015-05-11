@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Run Shadyside 5K: Outrunning Mickey Mouse and Lending a Trumpet"
+disqus_identifier: "http://franklinchen.com/blog/2011/10/01/run-shadyside-5k-outrunning-mickey-mouse-and-lending-a-trumpet/"
+disqus_url: "http://franklinchen.com/blog/2011/10/01/run-shadyside-5k-outrunning-mickey-mouse-and-lending-a-trumpet/"
 date: 2011-10-01T09:47:00
 comments: true
 categories:

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Win ugly or lose pretty: do you agree?"
+disqus_identifier: "http://franklinchen.com/blog/2014/10/31/win-ugly-or-lose-pretty-do-you-agree/"
+disqus_url: "http://franklinchen.com/blog/2014/10/31/win-ugly-or-lose-pretty-do-you-agree/"
 date: 2014-10-31T22:53:18
 comments: true
 categories:

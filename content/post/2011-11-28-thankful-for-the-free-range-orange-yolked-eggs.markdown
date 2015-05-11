@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Thankful for the free-range orange-yolked eggs"
+disqus_identifier: "http://franklinchen.com/blog/2011/11/28/thankful-for-the-free-range-orange-yolked-eggs/"
+disqus_url: "http://franklinchen.com/blog/2011/11/28/thankful-for-the-free-range-orange-yolked-eggs/"
 date: 2011-11-28T20:35:00
 comments: true
 categories:

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Your Day Without Shoes and my very first day out completely without shoes"
+disqus_identifier: "http://franklinchen.com/blog/2012/06/07/your-day-without-shoes-and-my-very-first-day-out-completely-without-shoes/"
+disqus_url: "http://franklinchen.com/blog/2012/06/07/your-day-without-shoes-and-my-very-first-day-out-completely-without-shoes/"
 date: 2012-06-07T21:02:00
 comments: true
 categories: 

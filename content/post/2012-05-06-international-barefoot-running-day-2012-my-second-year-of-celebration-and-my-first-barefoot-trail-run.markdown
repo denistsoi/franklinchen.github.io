@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "International Barefoot Running Day 2012: my second year of celebration and my first barefoot trail run"
+disqus_identifier: "http://franklinchen.com/blog/2012/05/06/international-barefoot-running-day-2012-my-second-year-of-celebration-and-my-first-barefoot-trail-run/"
+disqus_url: "http://franklinchen.com/blog/2012/05/06/international-barefoot-running-day-2012-my-second-year-of-celebration-and-my-first-barefoot-trail-run/"
 date: 2012-05-06T20:11:00
 comments: true
 categories: 

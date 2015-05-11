@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Censored"
+disqus_identifier: "http://franklinchen.com/blog/2011/11/16/censored/"
+disqus_url: "http://franklinchen.com/blog/2011/11/16/censored/"
 date: 2011-11-16T20:03:00
 comments: true
 categories: 

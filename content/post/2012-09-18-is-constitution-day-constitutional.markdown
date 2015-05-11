@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Is Constitution Day Constitutional?"
+disqus_identifier: "http://franklinchen.com/blog/2012/09/18/is-constitution-day-constitutional/"
+disqus_url: "http://franklinchen.com/blog/2012/09/18/is-constitution-day-constitutional/"
 date: 2012-09-18T11:01:00
 comments: true
 categories:

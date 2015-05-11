@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "What I did immediately after the National Day of Unplugging"
+disqus_identifier: "http://franklinchen.com/blog/2012/03/24/what-i-did-immediately-after-the-national-day-of-unplugging/"
+disqus_url: "http://franklinchen.com/blog/2012/03/24/what-i-did-immediately-after-the-national-day-of-unplugging/"
 date: 2012-03-24T19:40:00
 comments: true
 categories:

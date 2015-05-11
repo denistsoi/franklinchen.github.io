@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Video review: Dancing with the Stars: Cardio Dance (2006)"
+disqus_identifier: "http://franklinchen.com/blog/2011/12/13/video-review-dancing-with-the-stars-cardio-dance-2006/"
+disqus_url: "http://franklinchen.com/blog/2011/12/13/video-review-dancing-with-the-stars-cardio-dance-2006/"
 date: 2011-12-13T22:46:00
 comments: true
 categories:

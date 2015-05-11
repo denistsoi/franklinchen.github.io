@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Why everyone should learn computer science"
+disqus_identifier: "http://franklinchen.com/blog/2011/12/09/why-everyone-should-learn-computer-science/"
+disqus_url: "http://franklinchen.com/blog/2011/12/09/why-everyone-should-learn-computer-science/"
 date: 2011-12-09T22:20:00
 comments: true
 categories:

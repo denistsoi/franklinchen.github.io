@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "I Don't Feel Like Practicing; but I'm Gonna Do It Anyway"
+disqus_identifier: "http://franklinchen.com/blog/2011/09/26/i-dont-feel-like-practicing-but-im-gonna-do-it-anyway/"
+disqus_url: "http://franklinchen.com/blog/2011/09/26/i-dont-feel-like-practicing-but-im-gonna-do-it-anyway/"
 date: 2011-09-26T19:07:00
 comments: true
 categories:

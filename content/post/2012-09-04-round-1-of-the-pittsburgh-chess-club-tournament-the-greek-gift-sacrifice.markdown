@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Round 1 of the Pittsburgh Chess Club tournament: the Greek gift sacrifice"
+disqus_identifier: "http://franklinchen.com/blog/2012/09/04/round-1-of-the-pittsburgh-chess-club-tournament-the-greek-gift-sacrifice/"
+disqus_url: "http://franklinchen.com/blog/2012/09/04/round-1-of-the-pittsburgh-chess-club-tournament-the-greek-gift-sacrifice/"
 date: 2012-09-04T20:38:00
 comments: true
 categories: 

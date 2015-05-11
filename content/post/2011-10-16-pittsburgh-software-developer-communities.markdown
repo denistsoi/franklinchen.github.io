@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Pittsburgh software developer communities"
+disqus_identifier: "http://franklinchen.com/blog/2011/10/16/pittsburgh-software-developer-communities/"
+disqus_url: "http://franklinchen.com/blog/2011/10/16/pittsburgh-software-developer-communities/"
 date: 2011-10-16T19:38:00
 comments: true
 categories:

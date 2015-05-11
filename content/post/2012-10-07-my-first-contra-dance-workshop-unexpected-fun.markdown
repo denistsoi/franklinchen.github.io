@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "My first contra dance workshop: unexpected fun!"
+disqus_identifier: "http://franklinchen.com/blog/2012/10/07/my-first-contra-dance-workshop-unexpected-fun/"
+disqus_url: "http://franklinchen.com/blog/2012/10/07/my-first-contra-dance-workshop-unexpected-fun/"
 date: 2012-10-07T21:19:00
 comments: true
 categories: 

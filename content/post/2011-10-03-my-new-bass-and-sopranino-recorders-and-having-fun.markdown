@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "My New Bass and Sopranino Recorders and Having Fun"
+disqus_identifier: "http://franklinchen.com/blog/2011/10/03/my-new-bass-and-sopranino-recorders-and-having-fun/"
+disqus_url: "http://franklinchen.com/blog/2011/10/03/my-new-bass-and-sopranino-recorders-and-having-fun/"
 date: 2011-10-03T21:03:00
 comments: true
 categories:

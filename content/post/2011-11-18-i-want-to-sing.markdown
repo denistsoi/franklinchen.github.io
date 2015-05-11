@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "I want to sing"
+disqus_identifier: "http://franklinchen.com/blog/2011/11/18/i-want-to-sing/"
+disqus_url: "http://franklinchen.com/blog/2011/11/18/i-want-to-sing/"
 date: 2011-11-18T23:37:00
 comments: true
 categories:

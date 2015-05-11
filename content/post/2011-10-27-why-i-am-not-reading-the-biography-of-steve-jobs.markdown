@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Why I am not reading the biography of Steve Jobs"
+disqus_identifier: "http://franklinchen.com/blog/2011/10/27/why-i-am-not-reading-the-biography-of-steve-jobs/"
+disqus_url: "http://franklinchen.com/blog/2011/10/27/why-i-am-not-reading-the-biography-of-steve-jobs/"
 date: 2011-10-27T20:34:00
 comments: true
 categories:

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Taking up flute again after decades?!"
+disqus_identifier: "http://franklinchen.com/blog/2011/11/09/taking-up-flute-again-after-decades/"
+disqus_url: "http://franklinchen.com/blog/2011/11/09/taking-up-flute-again-after-decades/"
 date: 2011-11-09T20:08:00
 comments: true
 categories:

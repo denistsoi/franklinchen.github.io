@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Visiting the House of Musical Traditions: looking at instruments including Irish flutes"
+disqus_identifier: "http://franklinchen.com/blog/2012/05/28/visiting-the-house-of-musical-traditions-looking-at-instruments-including-irish-flutes/"
+disqus_url: "http://franklinchen.com/blog/2012/05/28/visiting-the-house-of-musical-traditions-looking-at-instruments-including-irish-flutes/"
 date: 2012-05-28T23:34:00
 comments: true
 categories: 

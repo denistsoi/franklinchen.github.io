@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Is Mormonism a Cult?"
+disqus_identifier: "http://franklinchen.com/blog/2011/10/10/is-mormonism-a-cult/"
+disqus_url: "http://franklinchen.com/blog/2011/10/10/is-mormonism-a-cult/"
 date: 2011-10-10T21:48:00
 comments: true
 categories:

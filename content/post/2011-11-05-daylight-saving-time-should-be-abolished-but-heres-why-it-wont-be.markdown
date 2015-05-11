@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Daylight Saving Time should be abolished but here's why it won't be"
+disqus_identifier: "http://franklinchen.com/blog/2011/11/05/daylight-saving-time-should-be-abolished-but-heres-why-it-wont-be/"
+disqus_url: "http://franklinchen.com/blog/2011/11/05/daylight-saving-time-should-be-abolished-but-heres-why-it-wont-be/"
 date: 2011-11-05T17:15:00
 comments: true
 categories:

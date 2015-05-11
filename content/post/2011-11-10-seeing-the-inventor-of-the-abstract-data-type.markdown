@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Seeing the inventor of the abstract data type"
+disqus_identifier: "http://franklinchen.com/blog/2011/11/10/seeing-the-inventor-of-the-abstract-data-type/"
+disqus_url: "http://franklinchen.com/blog/2011/11/10/seeing-the-inventor-of-the-abstract-data-type/"
 date: 2011-11-10T18:54:00
 comments: true
 categories:

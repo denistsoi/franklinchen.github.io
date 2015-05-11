@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Walking the scenic route through Schenley Park to work"
+disqus_identifier: "http://franklinchen.com/blog/2012/06/18/walking-the-scenic-route-through-schenley-park-to-work/"
+disqus_url: "http://franklinchen.com/blog/2012/06/18/walking-the-scenic-route-through-schenley-park-to-work/"
 date: 2012-06-18T22:08:00
 comments: true
 categories: 

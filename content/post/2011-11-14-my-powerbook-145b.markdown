@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "My PowerBook 145B"
+disqus_identifier: "http://franklinchen.com/blog/2011/11/14/my-powerbook-145b/"
+disqus_url: "http://franklinchen.com/blog/2011/11/14/my-powerbook-145b/"
 date: 2011-11-14T20:51:00
 comments: true
 categories:

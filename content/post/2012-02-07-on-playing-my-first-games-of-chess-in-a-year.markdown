@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "On playing my first games of chess in a year"
+disqus_identifier: "http://franklinchen.com/blog/2012/02/07/on-playing-my-first-games-of-chess-in-a-year/"
+disqus_url: "http://franklinchen.com/blog/2012/02/07/on-playing-my-first-games-of-chess-in-a-year/"
 date: 2012-02-07T22:46:00
 comments: true
 categories:

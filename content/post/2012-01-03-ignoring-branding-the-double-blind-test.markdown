@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Ignoring branding: the double-blind test"
+disqus_identifier: "http://franklinchen.com/blog/2012/01/03/ignoring-branding-the-double-blind-test/"
+disqus_url: "http://franklinchen.com/blog/2012/01/03/ignoring-branding-the-double-blind-test/"
 date: 2012-01-03T06:49:00
 comments: true
 categories: 

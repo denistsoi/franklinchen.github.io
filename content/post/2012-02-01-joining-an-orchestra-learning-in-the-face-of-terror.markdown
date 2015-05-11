@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Joining an orchestra: learning in the face of terror"
+disqus_identifier: "http://franklinchen.com/blog/2012/02/01/joining-an-orchestra-learning-in-the-face-of-terror/"
+disqus_url: "http://franklinchen.com/blog/2012/02/01/joining-an-orchestra-learning-in-the-face-of-terror/"
 date: 2012-02-01T19:29:00
 comments: true
 categories:

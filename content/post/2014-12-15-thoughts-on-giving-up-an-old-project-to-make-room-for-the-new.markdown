@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Thoughts on giving up an old project to make room for the new"
+disqus_identifier: "http://franklinchen.com/blog/2014/12/15/thoughts-on-giving-up-an-old-project-to-make-room-for-the-new/"
+disqus_url: "http://franklinchen.com/blog/2014/12/15/thoughts-on-giving-up-an-old-project-to-make-room-for-the-new/"
 date: 2014-12-15T20:10:34
 comments: true
 categories:

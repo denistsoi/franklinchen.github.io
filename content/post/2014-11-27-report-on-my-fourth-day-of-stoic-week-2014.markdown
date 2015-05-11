@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Report on my fourth day of Stoic Week 2014: virtue and relationships with others"
+disqus_identifier: "http://franklinchen.com/blog/2014/11/27/report-on-my-fourth-day-of-stoic-week-2014/"
+disqus_url: "http://franklinchen.com/blog/2014/11/27/report-on-my-fourth-day-of-stoic-week-2014/"
+url: "blog/2014/11/27/report-on-my-fourth-day-of-stoic-week-2014/"
 date: 2014-11-27T21:47:45
 comments: true
 categories:

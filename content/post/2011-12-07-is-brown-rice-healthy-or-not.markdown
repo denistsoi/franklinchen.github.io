@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Is brown rice healthy or not?"
+disqus_identifier: "http://franklinchen.com/blog/2011/12/07/is-brown-rice-healthy-or-not/"
+disqus_url: "http://franklinchen.com/blog/2011/12/07/is-brown-rice-healthy-or-not/"
 date: 2011-12-07T23:48:00
 comments: true
 categories:

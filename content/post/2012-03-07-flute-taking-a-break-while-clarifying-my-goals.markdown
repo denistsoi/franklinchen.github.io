@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Flute: taking a break while clarifying my goals"
+disqus_identifier: "http://franklinchen.com/blog/2012/03/07/flute-taking-a-break-while-clarifying-my-goals/"
+disqus_url: "http://franklinchen.com/blog/2012/03/07/flute-taking-a-break-while-clarifying-my-goals/"
 date: 2012-03-07T21:41:00
 comments: true
 categories:

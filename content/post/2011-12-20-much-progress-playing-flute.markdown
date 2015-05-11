@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Much progress playing flute"
+disqus_identifier: "http://franklinchen.com/blog/2011/12/20/much-progress-playing-flute/"
+disqus_url: "http://franklinchen.com/blog/2011/12/20/much-progress-playing-flute/"
 date: 2011-12-20T21:35:00
 comments: true
 categories:

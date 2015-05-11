@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "What's a Nice Acorn Squash Like You Doing in a Pot of Spicy Lentils?"
+disqus_identifier: "http://franklinchen.com/blog/2011/09/24/whats-a-nice-acorn-squash-like-you-doing-in-a-pot-of-spicy-lentils/"
+disqus_url: "http://franklinchen.com/blog/2011/09/24/whats-a-nice-acorn-squash-like-you-doing-in-a-pot-of-spicy-lentils/"
 date: 2011-09-24T18:09:00
 comments: true
 categories:

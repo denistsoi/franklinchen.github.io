@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Some pretty attacking chess at a party last weekend"
+disqus_identifier: "http://franklinchen.com/blog/2012/05/31/some-pretty-attacking-chess-at-a-party-last-weekend/"
+disqus_url: "http://franklinchen.com/blog/2012/05/31/some-pretty-attacking-chess-at-a-party-last-weekend/"
 date: 2012-05-31T07:26:00
 comments: true
 categories: 

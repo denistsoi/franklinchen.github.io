@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Report on my second day of Stoic Week 2014: mindfulness"
+disqus_identifier: "http://franklinchen.com/blog/2014/11/25/report-on-my-second-day-of-stoic-week-2014/"
+disqus_url: "http://franklinchen.com/blog/2014/11/25/report-on-my-second-day-of-stoic-week-2014/"
+url: "blog/2014/11/25/report-on-my-second-day-of-stoic-week-2014/"
 date: 2014-11-25T23:50:38
 comments: true
 categories:

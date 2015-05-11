@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "An American English dialect quiz correctly guessed where I originally grew up in the US"
+disqus_identifier: "http://franklinchen.com/blog/2014/11/21/an-american-english-dialect-quiz-correctly-guessed-where-i-originally-grew-up-in-the-us/"
+disqus_url: "http://franklinchen.com/blog/2014/11/21/an-american-english-dialect-quiz-correctly-guessed-where-i-originally-grew-up-in-the-us/"
 date: 2014-11-21T23:32:10
 comments: true
 categories:

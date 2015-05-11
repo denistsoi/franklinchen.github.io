@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "My first bobblehead doll: guess who?"
+disqus_identifier: "http://franklinchen.com/blog/2012/09/20/my-first-bobblehead-doll-guess-who/"
+disqus_url: "http://franklinchen.com/blog/2012/09/20/my-first-bobblehead-doll-guess-who/"
 date: 2012-09-20T09:30:00
 comments: true
 categories: 

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "How school made me hate computer science and programming"
+disqus_identifier: "http://franklinchen.com/blog/2012/01/16/how-school-made-me-hate-computer-science-and-programming/"
+disqus_url: "http://franklinchen.com/blog/2012/01/16/how-school-made-me-hate-computer-science-and-programming/"
 date: 2012-01-16T19:57:00
 comments: true
 categories:

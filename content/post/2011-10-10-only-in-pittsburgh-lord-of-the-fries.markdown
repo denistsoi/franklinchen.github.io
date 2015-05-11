@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Only in Pittsburgh: Lord of the Fries"
+disqus_identifier: "http://franklinchen.com/blog/2011/10/10/only-in-pittsburgh-lord-of-the-fries/"
+disqus_url: "http://franklinchen.com/blog/2011/10/10/only-in-pittsburgh-lord-of-the-fries/"
 date: 2011-10-10T09:34:00
 comments: true
 categories:

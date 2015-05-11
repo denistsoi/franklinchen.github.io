@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "I don't know if I should vote but I did"
+disqus_identifier: "http://franklinchen.com/blog/2011/11/08/i-dont-know-if-i-should-vote-but-i-did/"
+disqus_url: "http://franklinchen.com/blog/2011/11/08/i-dont-know-if-i-should-vote-but-i-did/"
 date: 2011-11-08T09:09:00
 comments: true
 categories:

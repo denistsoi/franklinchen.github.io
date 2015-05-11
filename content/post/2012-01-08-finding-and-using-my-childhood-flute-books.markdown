@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Finding and using my childhood flute books"
+disqus_identifier: "http://franklinchen.com/blog/2012/01/08/finding-and-using-my-childhood-flute-books/"
+disqus_url: "http://franklinchen.com/blog/2012/01/08/finding-and-using-my-childhood-flute-books/"
 date: 2012-01-08T11:40:00
 comments: true
 categories:

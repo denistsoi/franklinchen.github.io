@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "RSpec new expectation: finally not shoving a verb into a noun"
+disqus_identifier: "http://franklinchen.com/blog/2012/06/23/rspec-new-expectation-finally-not-shoving-a-verb-into-a-noun/"
+disqus_url: "http://franklinchen.com/blog/2012/06/23/rspec-new-expectation-finally-not-shoving-a-verb-into-a-noun/"
 date: 2012-06-23T22:05:00
 comments: true
 categories: 

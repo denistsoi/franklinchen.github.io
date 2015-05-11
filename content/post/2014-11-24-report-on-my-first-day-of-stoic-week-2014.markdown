@@ -2,24 +2,9 @@
 layout: post
 title: "Report on my first day of Stoic Week 2014"
 date: 2014-11-24T22:30:51
-disqus_identifier: "http://franklinchen.com/blog/2014/11/30/report-on-my-final-day-of-stoic-week-2014/"
-disqus_url: "http://franklinchen.com/blog/2014/11/30/report-on-my-final-day-of-stoic-week-2014/"
-url: "blog/2014/11/30/report-on-my-final-day-of-stoic-week-2014/"
-disqus_identifier: "http://franklinchen.com/blog/2014/11/29/report-on-my-sixth-day-of-stoic-week-2014/"
-disqus_url: "http://franklinchen.com/blog/2014/11/29/report-on-my-sixth-day-of-stoic-week-2014/"
-url: "blog/2014/11/29/report-on-my-sixth-day-of-stoic-week-2014/"
-disqus_identifier: "http://franklinchen.com/blog/2014/11/28/report-on-my-fifth-day-of-stoic-week-2014/"
-disqus_url: "http://franklinchen.com/blog/2014/11/28/report-on-my-fifth-day-of-stoic-week-2014/"
-url: "blog/2014/11/28/report-on-my-fifth-day-of-stoic-week-2014/"
-disqus_identifier: "http://franklinchen.com/blog/2014/11/27/report-on-my-third-day-of-stoic-week-2014/"
-disqus_url: "http://franklinchen.com/blog/2014/11/27/report-on-my-third-day-of-stoic-week-2014/"
-url: "blog/2014/11/27/report-on-my-third-day-of-stoic-week-2014/"
-disqus_identifier: "http://franklinchen.com/blog/2014/11/27/report-on-my-fourth-day-of-stoic-week-2014/"
-disqus_url: "http://franklinchen.com/blog/2014/11/27/report-on-my-fourth-day-of-stoic-week-2014/"
-url: "blog/2014/11/27/report-on-my-fourth-day-of-stoic-week-2014/"
-disqus_identifier: "http://franklinchen.com/blog/2014/11/25/report-on-my-second-day-of-stoic-week-2014/"
-disqus_url: "http://franklinchen.com/blog/2014/11/25/report-on-my-second-day-of-stoic-week-2014/"
-url: "blog/2014/11/25/report-on-my-second-day-of-stoic-week-2014/"
+disqus_identifier: "http://franklinchen.com/blog/2014/11/24/report-on-my-first-day-of-stoic-week-2014/"
+disqus_url: "http://franklinchen.com/blog/2014/11/24/report-on-my-first-day-of-stoic-week-2014/"
+url: "blog/2014/11/24/report-on-my-first-day-of-stoic-week-2014/"
 comments: true
 categories:
 - philosophy

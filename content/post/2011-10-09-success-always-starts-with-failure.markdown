@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Success Always Starts With Failure"
+disqus_identifier: "http://franklinchen.com/blog/2011/10/09/success-always-starts-with-failure/"
+disqus_url: "http://franklinchen.com/blog/2011/10/09/success-always-starts-with-failure/"
 date: 2011-10-09T20:26:00
 comments: true
 categories:

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Every day is Thanksgiving"
+disqus_identifier: "http://franklinchen.com/blog/2011/11/23/every-day-is-thanksgiving/"
+disqus_url: "http://franklinchen.com/blog/2011/11/23/every-day-is-thanksgiving/"
 date: 2011-11-23T23:00:00
 comments: true
 categories:

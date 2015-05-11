@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Why I do not play chess online: chess as a human activity"
+disqus_identifier: "http://franklinchen.com/blog/2012/08/30/why-i-do-not-play-chess-online-chess-as-a-human-activity/"
+disqus_url: "http://franklinchen.com/blog/2012/08/30/why-i-do-not-play-chess-online-chess-as-a-human-activity/"
 date: 2012-08-30T01:19:00
 comments: true
 categories:

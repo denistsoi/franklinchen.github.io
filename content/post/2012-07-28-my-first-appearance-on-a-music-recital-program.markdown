@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "My first appearance on a music recital program"
+disqus_identifier: "http://franklinchen.com/blog/2012/07/28/my-first-appearance-on-a-music-recital-program/"
+disqus_url: "http://franklinchen.com/blog/2012/07/28/my-first-appearance-on-a-music-recital-program/"
 date: 2012-07-28T23:41:00
 comments: true
 categories: 

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Is time money?"
+disqus_identifier: "http://franklinchen.com/blog/2011/11/01/is-time-money/"
+disqus_url: "http://franklinchen.com/blog/2011/11/01/is-time-money/"
 date: 2011-11-01T21:52:00
 comments: true
 categories:

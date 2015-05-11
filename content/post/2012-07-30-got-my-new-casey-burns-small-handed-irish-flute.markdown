@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Got my new Casey Burns Small-Handed Irish flute!"
+disqus_identifier: "http://franklinchen.com/blog/2012/07/30/got-my-new-casey-burns-small-handed-irish-flute/"
+disqus_url: "http://franklinchen.com/blog/2012/07/30/got-my-new-casey-burns-small-handed-irish-flute/"
 date: 2012-07-30T20:37:00
 comments: true
 categories: 

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Remembering my Uncle Steve"
+disqus_identifier: "http://franklinchen.com/blog/2012/03/16/remembering-my-uncle-steve/"
+disqus_url: "http://franklinchen.com/blog/2012/03/16/remembering-my-uncle-steve/"
 date: 2012-03-16T18:19:00
 comments: true
 categories:

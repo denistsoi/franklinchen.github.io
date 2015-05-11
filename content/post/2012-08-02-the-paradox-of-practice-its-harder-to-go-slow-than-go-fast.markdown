@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "The paradox of practice: it's harder to go slow than go fast"
+disqus_identifier: "http://franklinchen.com/blog/2012/08/02/the-paradox-of-practice-its-harder-to-go-slow-than-go-fast/"
+disqus_url: "http://franklinchen.com/blog/2012/08/02/the-paradox-of-practice-its-harder-to-go-slow-than-go-fast/"
 date: 2012-08-02T23:09:00
 comments: true
 categories: 

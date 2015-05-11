@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Quitting the CMU All-University Orchestra: one of the hardest decisions in my life"
+disqus_identifier: "http://franklinchen.com/blog/2012/03/12/quitting-the-cmu-all-university-orchestra-one-of-the-hardest-decisions-in-my-life/"
+disqus_url: "http://franklinchen.com/blog/2012/03/12/quitting-the-cmu-all-university-orchestra-one-of-the-hardest-decisions-in-my-life/"
 date: 2012-03-12T22:45:00
 comments: true
 categories: 

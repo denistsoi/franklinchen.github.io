@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Staring at the Wall With Nowhere to Go"
+disqus_identifier: "http://franklinchen.com/blog/2011/09/28/staring-at-the-wall-with-nowhere-to-go/"
+disqus_url: "http://franklinchen.com/blog/2011/09/28/staring-at-the-wall-with-nowhere-to-go/"
 date: 2011-09-28T20:48:00
 comments: true
 categories:

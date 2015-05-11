@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Why I Gave Up Coffee Yesterday"
+disqus_identifier: "http://franklinchen.com/blog/2012/04/13/why-i-gave-up-coffee-yesterday/"
+disqus_url: "http://franklinchen.com/blog/2012/04/13/why-i-gave-up-coffee-yesterday/"
 date: 2012-04-13T08:09:00
 comments: true
 categories:

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Observing Constitution Day with \"The Supreme Court and Privacy: The Fourth Amendment in the Digital Age\""
+disqus_identifier: "http://franklinchen.com/blog/2014/09/17/observing-constitution-day-with-the-supreme-court-and-privacy-the-fourth-amendment-in-the-digital-age/"
+disqus_url: "http://franklinchen.com/blog/2014/09/17/observing-constitution-day-with-the-supreme-court-and-privacy-the-fourth-amendment-in-the-digital-age/"
 date: 2014-09-17T21:54:01
 comments: true
 categories:

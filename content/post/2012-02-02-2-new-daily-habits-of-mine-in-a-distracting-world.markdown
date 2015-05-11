@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "2 new daily habits of mine in a distracting world"
+disqus_identifier: "http://franklinchen.com/blog/2012/02/02/2-new-daily-habits-of-mine-in-a-distracting-world/"
+disqus_url: "http://franklinchen.com/blog/2012/02/02/2-new-daily-habits-of-mine-in-a-distracting-world/"
 date: 2012-02-02T09:02:00
 comments: true
 categories:

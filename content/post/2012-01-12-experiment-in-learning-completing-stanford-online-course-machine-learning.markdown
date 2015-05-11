@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Experiment in learning: completing Stanford online course: Machine Learning"
+disqus_identifier: "http://franklinchen.com/blog/2012/01/12/experiment-in-learning-completing-stanford-online-course-machine-learning/"
+disqus_url: "http://franklinchen.com/blog/2012/01/12/experiment-in-learning-completing-stanford-online-course-machine-learning/"
 date: 2012-01-12T23:54:00
 comments: true
 categories:

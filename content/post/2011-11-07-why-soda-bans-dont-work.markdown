@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Why soda bans don't work"
+disqus_identifier: "http://franklinchen.com/blog/2011/11/07/why-soda-bans-dont-work/"
+disqus_url: "http://franklinchen.com/blog/2011/11/07/why-soda-bans-dont-work/"
 date: 2011-11-07T19:13:00
 comments: true
 categories:

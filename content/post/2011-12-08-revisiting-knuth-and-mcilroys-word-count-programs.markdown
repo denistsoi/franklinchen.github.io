@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Revisiting Knuth and McIlroy's word count programs"
+disqus_identifier: "http://franklinchen.com/blog/2011/12/08/revisiting-knuth-and-mcilroys-word-count-programs/"
+disqus_url: "http://franklinchen.com/blog/2011/12/08/revisiting-knuth-and-mcilroys-word-count-programs/"
 date: 2011-12-08T21:46:00
 comments: true
 categories:

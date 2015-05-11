@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Agile Anti-Patterns"
+disqus_identifier: "http://franklinchen.com/blog/2011/10/14/agile-anti-patterns/"
+disqus_url: "http://franklinchen.com/blog/2011/10/14/agile-anti-patterns/"
 date: 2011-10-14T22:52:00
 comments: true
 categories:

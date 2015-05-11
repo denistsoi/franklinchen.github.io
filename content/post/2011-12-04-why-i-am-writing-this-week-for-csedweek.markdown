@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Why I am writing this week for CSEdWeek"
+disqus_identifier: "http://franklinchen.com/blog/2011/12/04/why-i-am-writing-this-week-for-csedweek/"
+disqus_url: "http://franklinchen.com/blog/2011/12/04/why-i-am-writing-this-week-for-csedweek/"
 date: 2011-12-04T20:54:00
 comments: true
 categories:

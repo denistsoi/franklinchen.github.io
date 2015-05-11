@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "My first French music jam: anxious but excited"
+disqus_identifier: "http://franklinchen.com/blog/2012/07/02/my-first-french-music-jam-anxious-but-excited/"
+disqus_url: "http://franklinchen.com/blog/2012/07/02/my-first-french-music-jam-anxious-but-excited/"
 date: 2012-07-02T23:45:00
 comments: true
 categories: 

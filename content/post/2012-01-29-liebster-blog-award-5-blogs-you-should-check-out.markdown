@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Liebster Blog Award: 5 blogs you should check out"
+disqus_identifier: "http://franklinchen.com/blog/2012/01/29/liebster-blog-award-5-blogs-you-should-check-out/"
+disqus_url: "http://franklinchen.com/blog/2012/01/29/liebster-blog-award-5-blogs-you-should-check-out/"
 date: 2012-01-29T13:04:00
 comments: true
 categories:

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "For real geeks, today is not Pi Day, but Half-Tau Day"
+disqus_identifier: "http://franklinchen.com/blog/2012/03/14/for-real-geeks-today-is-not-pi-day-but-half-tau-day/"
+disqus_url: "http://franklinchen.com/blog/2012/03/14/for-real-geeks-today-is-not-pi-day-but-half-tau-day/"
 date: 2012-03-14T18:52:00
 comments: true
 categories: 

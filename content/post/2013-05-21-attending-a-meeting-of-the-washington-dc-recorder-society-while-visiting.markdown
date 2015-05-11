@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Attending a meeting of the Washington DC Recorder Society while visiting"
+disqus_identifier: "http://franklinchen.com/blog/2013/05/21/attending-a-meeting-of-the-washington-dc-recorder-society-while-visiting/"
+disqus_url: "http://franklinchen.com/blog/2013/05/21/attending-a-meeting-of-the-washington-dc-recorder-society-while-visiting/"
 date: 2013-05-21T22:40:00
 comments: true
 categories: 

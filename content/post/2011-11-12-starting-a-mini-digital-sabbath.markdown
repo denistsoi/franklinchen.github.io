@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Starting a mini Digital Sabbath"
+disqus_identifier: "http://franklinchen.com/blog/2011/11/12/starting-a-mini-digital-sabbath/"
+disqus_url: "http://franklinchen.com/blog/2011/11/12/starting-a-mini-digital-sabbath/"
 date: 2011-11-12T09:52:00
 comments: true
 categories:

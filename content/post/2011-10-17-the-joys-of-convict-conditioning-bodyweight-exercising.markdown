@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "The Joys of Convict Conditioning: Bodyweight Exercising"
+disqus_identifier: "http://franklinchen.com/blog/2011/10/17/the-joys-of-convict-conditioning-bodyweight-exercising/"
+disqus_url: "http://franklinchen.com/blog/2011/10/17/the-joys-of-convict-conditioning-bodyweight-exercising/"
 date: 2011-10-17T21:31:00
 comments: true
 categories:

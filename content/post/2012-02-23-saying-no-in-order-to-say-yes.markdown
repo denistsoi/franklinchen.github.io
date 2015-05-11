@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Saying No in order to say Yes"
+disqus_identifier: "http://franklinchen.com/blog/2012/02/23/saying-no-in-order-to-say-yes/"
+disqus_url: "http://franklinchen.com/blog/2012/02/23/saying-no-in-order-to-say-yes/"
 date: 2012-02-23T20:23:00
 comments: true
 categories:

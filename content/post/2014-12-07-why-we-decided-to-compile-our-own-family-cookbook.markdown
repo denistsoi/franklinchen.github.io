@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Why we decided to compile our own family cookbook"
+disqus_identifier: "http://franklinchen.com/blog/2014/12/07/why-we-decided-to-compile-our-own-family-cookbook/"
+disqus_url: "http://franklinchen.com/blog/2014/12/07/why-we-decided-to-compile-our-own-family-cookbook/"
 date: 2014-12-07T19:46:48
 comments: true
 categories:

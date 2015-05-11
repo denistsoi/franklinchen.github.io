@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Experiment in learning: completing Stanford online course: Introduction to Databases"
+disqus_identifier: "http://franklinchen.com/blog/2012/01/11/experiment-in-learning-completing-stanford-online-course-introduction-to-databases/"
+disqus_url: "http://franklinchen.com/blog/2012/01/11/experiment-in-learning-completing-stanford-online-course-introduction-to-databases/"
 date: 2012-01-11T21:31:00
 comments: true
 categories:

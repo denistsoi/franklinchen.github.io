@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Disagreement on the use of time?"
+disqus_identifier: "http://franklinchen.com/blog/2011/10/18/disagreement-on-the-use-of-time/"
+disqus_url: "http://franklinchen.com/blog/2011/10/18/disagreement-on-the-use-of-time/"
 date: 2011-10-18T19:14:00
 comments: true
 categories:

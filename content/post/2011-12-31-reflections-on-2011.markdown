@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Reflections on 2011"
+disqus_identifier: "http://franklinchen.com/blog/2011/12/31/reflections-on-2011/"
+disqus_url: "http://franklinchen.com/blog/2011/12/31/reflections-on-2011/"
 date: 2011-12-31T18:52:00
 comments: true
 categories:

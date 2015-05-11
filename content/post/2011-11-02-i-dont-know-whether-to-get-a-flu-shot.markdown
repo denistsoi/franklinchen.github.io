@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "I don't know whether to get a flu shot"
+disqus_identifier: "http://franklinchen.com/blog/2011/11/02/i-dont-know-whether-to-get-a-flu-shot/"
+disqus_url: "http://franklinchen.com/blog/2011/11/02/i-dont-know-whether-to-get-a-flu-shot/"
 date: 2011-11-02T21:33:00
 comments: true
 categories:

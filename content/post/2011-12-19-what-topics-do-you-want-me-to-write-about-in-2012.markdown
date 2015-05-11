@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "What topics do you want me to write about in 2012?"
+disqus_identifier: "http://franklinchen.com/blog/2011/12/19/what-topics-do-you-want-me-to-write-about-in-2012/"
+disqus_url: "http://franklinchen.com/blog/2011/12/19/what-topics-do-you-want-me-to-write-about-in-2012/"
 date: 2011-12-19T23:45:00
 comments: true
 categories:

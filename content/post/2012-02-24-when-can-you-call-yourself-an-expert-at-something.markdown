@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "When can you call yourself an expert at something?"
+disqus_identifier: "http://franklinchen.com/blog/2012/02/24/when-can-you-call-yourself-an-expert-at-something/"
+disqus_url: "http://franklinchen.com/blog/2012/02/24/when-can-you-call-yourself-an-expert-at-something/"
 date: 2012-02-24T20:47:00
 comments: true
 categories:

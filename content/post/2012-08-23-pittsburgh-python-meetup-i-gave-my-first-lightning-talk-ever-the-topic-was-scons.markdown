@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Pittsburgh Python meetup: I gave my first lightning talk ever; the topic was SCons"
+disqus_identifier: "http://franklinchen.com/blog/2012/08/23/pittsburgh-python-meetup-i-gave-my-first-lightning-talk-ever-the-topic-was-scons/"
+disqus_url: "http://franklinchen.com/blog/2012/08/23/pittsburgh-python-meetup-i-gave-my-first-lightning-talk-ever-the-topic-was-scons/"
 date: 2012-08-23T21:53:00
 comments: true
 categories: 

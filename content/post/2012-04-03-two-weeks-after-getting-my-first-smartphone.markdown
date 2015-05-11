@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Two weeks after getting my first smartphone"
+disqus_identifier: "http://franklinchen.com/blog/2012/04/03/two-weeks-after-getting-my-first-smartphone/"
+disqus_url: "http://franklinchen.com/blog/2012/04/03/two-weeks-after-getting-my-first-smartphone/"
 date: 2012-04-03T17:53:00
 comments: true
 categories: 

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "My first time in a public music jam: intense fun with Chris Norman and David Greenberg"
+disqus_identifier: "http://franklinchen.com/blog/2012/04/21/my-first-time-in-a-public-music-jam-intense-fun-with-chris-norman-and-david-greenberg/"
+disqus_url: "http://franklinchen.com/blog/2012/04/21/my-first-time-in-a-public-music-jam-intense-fun-with-chris-norman-and-david-greenberg/"
 date: 2012-04-21T13:44:00
 comments: true
 categories:

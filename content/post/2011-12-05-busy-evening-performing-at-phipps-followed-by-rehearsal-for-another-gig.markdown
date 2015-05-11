@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Busy evening: performing at Phipps followed by rehearsal for another gig!"
+disqus_identifier: "http://franklinchen.com/blog/2011/12/05/busy-evening-performing-at-phipps-followed-by-rehearsal-for-another-gig/"
+disqus_url: "http://franklinchen.com/blog/2011/12/05/busy-evening-performing-at-phipps-followed-by-rehearsal-for-another-gig/"
 date: 2011-12-05T23:11:00
 comments: true
 categories:

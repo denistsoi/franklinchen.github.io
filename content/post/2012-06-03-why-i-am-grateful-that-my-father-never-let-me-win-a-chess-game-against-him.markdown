@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Why I am grateful that my father never let me win a chess game against him"
+disqus_identifier: "http://franklinchen.com/blog/2012/06/03/why-i-am-grateful-that-my-father-never-let-me-win-a-chess-game-against-him/"
+disqus_url: "http://franklinchen.com/blog/2012/06/03/why-i-am-grateful-that-my-father-never-let-me-win-a-chess-game-against-him/"
 date: 2012-06-03T20:59:00
 comments: true
 categories:

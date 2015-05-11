@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Running my 10th Great Race 10K: \"obscene but in a good way\""
+disqus_identifier: "http://franklinchen.com/blog/2012/09/30/running-my-10th-great-race-10k-obscene-but-in-a-good-way/"
+disqus_url: "http://franklinchen.com/blog/2012/09/30/running-my-10th-great-race-10k-obscene-but-in-a-good-way/"
 date: 2012-09-30T19:08:00
 comments: true
 categories: 

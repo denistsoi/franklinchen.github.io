@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Preparing for my first solo flute performance: notes on perfectionism and high standards"
+disqus_identifier: "http://franklinchen.com/blog/2012/06/15/preparing-for-my-first-solo-flute-performance-notes-on-perfectionism-and-high-standards/"
+disqus_url: "http://franklinchen.com/blog/2012/06/15/preparing-for-my-first-solo-flute-performance-notes-on-perfectionism-and-high-standards/"
 date: 2012-06-15T00:01:00
 comments: true
 categories: 

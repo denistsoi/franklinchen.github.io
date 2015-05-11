@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Paleo diet experimentation"
+disqus_identifier: "http://franklinchen.com/blog/2011/10/23/paleo-diet-experimentation/"
+disqus_url: "http://franklinchen.com/blog/2011/10/23/paleo-diet-experimentation/"
 date: 2011-10-23T23:59:00
 comments: true
 categories:

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Why I stopped saying something is easy or something is hard"
+disqus_identifier: "http://franklinchen.com/blog/2014/12/23/why-i-stopped-saying-something-is-easy-or-something-is-hard/"
+disqus_url: "http://franklinchen.com/blog/2014/12/23/why-i-stopped-saying-something-is-easy-or-something-is-hard/"
 date: 2014-12-23T22:19:38
 comments: true
 categories:

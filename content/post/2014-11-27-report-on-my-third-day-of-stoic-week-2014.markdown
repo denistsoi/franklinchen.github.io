@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Report on my third day of Stoic Week 2014: self-discipline and Stoic simplicity"
+disqus_identifier: "http://franklinchen.com/blog/2014/11/27/report-on-my-third-day-of-stoic-week-2014/"
+disqus_url: "http://franklinchen.com/blog/2014/11/27/report-on-my-third-day-of-stoic-week-2014/"
+url: "blog/2014/11/27/report-on-my-third-day-of-stoic-week-2014/"
 date: 2014-11-27T11:03:44
 comments: true
 categories:

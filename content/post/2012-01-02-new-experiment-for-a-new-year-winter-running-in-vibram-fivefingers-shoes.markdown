@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "New experiment for a new year: winter running in Vibram FiveFingers shoes"
+disqus_identifier: "http://franklinchen.com/blog/2012/01/02/new-experiment-for-a-new-year-winter-running-in-vibram-fivefingers-shoes/"
+disqus_url: "http://franklinchen.com/blog/2012/01/02/new-experiment-for-a-new-year-winter-running-in-vibram-fivefingers-shoes/"
 date: 2012-01-02T21:37:00
 comments: true
 categories:

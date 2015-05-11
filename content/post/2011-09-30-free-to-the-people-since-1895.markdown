@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Free to the People: Since 1895"
+disqus_identifier: "http://franklinchen.com/blog/2011/09/30/free-to-the-people-since-1895/"
+disqus_url: "http://franklinchen.com/blog/2011/09/30/free-to-the-people-since-1895/"
 date: 2011-09-30T20:36:00
 comments: true
 categories:

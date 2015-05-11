@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Round 3 of Pittsburgh Chess Club tournament: another approach against the Sicilian: squeezing with the Bind"
+disqus_identifier: "http://franklinchen.com/blog/2012/09/19/round-3-of-pittsburgh-chess-club-tournament-another-approach-against-the-sicilian-squeezing-with-the-bind/"
+disqus_url: "http://franklinchen.com/blog/2012/09/19/round-3-of-pittsburgh-chess-club-tournament-another-approach-against-the-sicilian-squeezing-with-the-bind/"
 date: 2012-09-19T07:46:00
 comments: true
 categories: 

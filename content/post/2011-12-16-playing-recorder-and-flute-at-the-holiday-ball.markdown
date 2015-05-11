@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Playing recorder and flute at the Holiday Ball!"
+disqus_identifier: "http://franklinchen.com/blog/2011/12/16/playing-recorder-and-flute-at-the-holiday-ball/"
+disqus_url: "http://franklinchen.com/blog/2011/12/16/playing-recorder-and-flute-at-the-holiday-ball/"
 date: 2011-12-17T23:17:00
 comments: true
 categories: 

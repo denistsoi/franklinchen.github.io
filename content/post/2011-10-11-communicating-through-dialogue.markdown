@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Communicating Through Dialogue"
+disqus_identifier: "http://franklinchen.com/blog/2011/10/11/communicating-through-dialogue/"
+disqus_url: "http://franklinchen.com/blog/2011/10/11/communicating-through-dialogue/"
 date: 2011-10-11T22:12:00
 comments: true
 categories:

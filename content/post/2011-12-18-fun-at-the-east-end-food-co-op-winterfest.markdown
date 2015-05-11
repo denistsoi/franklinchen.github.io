@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Fun at the East End Food Co-op Winterfest"
+disqus_identifier: "http://franklinchen.com/blog/2011/12/18/fun-at-the-east-end-food-co-op-winterfest/"
+disqus_url: "http://franklinchen.com/blog/2011/12/18/fun-at-the-east-end-food-co-op-winterfest/"
 date: 2011-12-18T18:52:00
 comments: true
 categories:

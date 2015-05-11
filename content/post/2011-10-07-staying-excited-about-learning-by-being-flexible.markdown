@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Staying Excited About Learning By Being Flexible"
+disqus_identifier: "http://franklinchen.com/blog/2011/10/07/staying-excited-about-learning-by-being-flexible/"
+disqus_url: "http://franklinchen.com/blog/2011/10/07/staying-excited-about-learning-by-being-flexible/"
 date: 2011-10-07T19:36:00
 comments: true
 categories:

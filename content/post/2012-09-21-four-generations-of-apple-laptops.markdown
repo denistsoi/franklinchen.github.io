@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Four generations of Apple laptops"
+disqus_identifier: "http://franklinchen.com/blog/2012/09/21/four-generations-of-apple-laptops/"
+disqus_url: "http://franklinchen.com/blog/2012/09/21/four-generations-of-apple-laptops/"
 date: 2012-09-21T13:52:00
 comments: true
 categories: 

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Injuries from yoga are common: some tips on staying safe"
+disqus_identifier: "http://franklinchen.com/blog/2012/01/06/injuries-from-yoga-are-common-some-tips-on-staying-safe/"
+disqus_url: "http://franklinchen.com/blog/2012/01/06/injuries-from-yoga-are-common-some-tips-on-staying-safe/"
 date: 2012-01-06T22:00:00
 comments: true
 categories:

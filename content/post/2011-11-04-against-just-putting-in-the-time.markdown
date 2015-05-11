@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Against just putting in the time"
+disqus_identifier: "http://franklinchen.com/blog/2011/11/04/against-just-putting-in-the-time/"
+disqus_url: "http://franklinchen.com/blog/2011/11/04/against-just-putting-in-the-time/"
 date: 2011-11-04T21:37:00
 comments: true
 categories:

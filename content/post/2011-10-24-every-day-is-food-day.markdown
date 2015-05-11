@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Every day is Food Day"
+disqus_identifier: "http://franklinchen.com/blog/2011/10/24/every-day-is-food-day/"
+disqus_url: "http://franklinchen.com/blog/2011/10/24/every-day-is-food-day/"
 date: 2011-10-24T21:26:00
 comments: true
 categories:

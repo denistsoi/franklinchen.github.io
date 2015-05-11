@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "My God It's Full of Stairs! Pittsburgh Step Trek 2011"
+disqus_identifier: "http://franklinchen.com/blog/2011/10/08/my-god-its-full-of-stairs-pittsburgh-step-trek-2011/"
+disqus_url: "http://franklinchen.com/blog/2011/10/08/my-god-its-full-of-stairs-pittsburgh-step-trek-2011/"
 date: 2011-10-08T17:50:00
 comments: true
 categories: 

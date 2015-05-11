@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Remembering Esther Allen (1918-2011)"
+disqus_identifier: "http://franklinchen.com/blog/2011/11/29/remembering-esther-allen-1918-2011/"
+disqus_url: "http://franklinchen.com/blog/2011/11/29/remembering-esther-allen-1918-2011/"
 date: 2011-11-29T21:28:00
 comments: true
 categories:

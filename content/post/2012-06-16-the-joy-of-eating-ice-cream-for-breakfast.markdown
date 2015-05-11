@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "The Joy of Eating Ice Cream for Breakfast"
+disqus_identifier: "http://franklinchen.com/blog/2012/06/16/the-joy-of-eating-ice-cream-for-breakfast/"
+disqus_url: "http://franklinchen.com/blog/2012/06/16/the-joy-of-eating-ice-cream-for-breakfast/"
 date: 2012-06-16T19:27:00
 comments: true
 categories: 

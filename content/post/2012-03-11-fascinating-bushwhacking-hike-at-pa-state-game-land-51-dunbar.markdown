@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Fascinating bushwhacking hike at PA State Game Land 51 (Dunbar)"
+disqus_identifier: "http://franklinchen.com/blog/2012/03/11/fascinating-bushwhacking-hike-at-pa-state-game-land-51-dunbar/"
+disqus_url: "http://franklinchen.com/blog/2012/03/11/fascinating-bushwhacking-hike-at-pa-state-game-land-51-dunbar/"
 date: 2012-03-11T22:34:00
 comments: true
 categories:

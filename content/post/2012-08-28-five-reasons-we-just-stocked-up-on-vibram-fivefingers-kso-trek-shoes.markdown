@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Five reasons we just stocked up on Vibram FiveFingers KSO Trek shoes"
+disqus_identifier: "http://franklinchen.com/blog/2012/08/28/five-reasons-we-just-stocked-up-on-vibram-fivefingers-kso-trek-shoes/"
+disqus_url: "http://franklinchen.com/blog/2012/08/28/five-reasons-we-just-stocked-up-on-vibram-fivefingers-kso-trek-shoes/"
 date: 2012-08-28T19:47:00
 comments: true
 categories: 

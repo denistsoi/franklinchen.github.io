@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Why go to concerts by amateur music groups?"
+disqus_identifier: "http://franklinchen.com/blog/2011/12/12/why-go-to-concerts-by-amateur-music-groups/"
+disqus_url: "http://franklinchen.com/blog/2011/12/12/why-go-to-concerts-by-amateur-music-groups/"
 date: 2011-12-12T21:13:00
 comments: true
 categories:

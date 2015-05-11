@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "CMU Fitness Challenge keynote lecture by Vonda Wright: Stay strong at any age"
+disqus_identifier: "http://franklinchen.com/blog/2012/01/20/cmu-fitness-challenge-keynote-lecture-by-vonda-wright-stay-strong-at-any-age/"
+disqus_url: "http://franklinchen.com/blog/2012/01/20/cmu-fitness-challenge-keynote-lecture-by-vonda-wright-stay-strong-at-any-age/"
 date: 2012-01-20T22:32:00
 comments: true
 categories: 

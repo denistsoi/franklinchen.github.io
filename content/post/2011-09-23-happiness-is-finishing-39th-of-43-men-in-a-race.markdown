@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Happiness Is: Finishing 39th of 43 Men in a Race!"
+disqus_identifier: "http://franklinchen.com/blog/2011/09/23/happiness-is-finishing-39th-of-43-men-in-a-race/"
+disqus_url: "http://franklinchen.com/blog/2011/09/23/happiness-is-finishing-39th-of-43-men-in-a-race/"
 date: 2011-09-23T19:31:00
 comments: true
 categories:

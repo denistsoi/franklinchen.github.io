@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "How I avoid demotivating myself away from voting"
+disqus_identifier: "http://franklinchen.com/blog/2014/11/01/how-i-avoid-demotivating-myself-away-from-voting/"
+disqus_url: "http://franklinchen.com/blog/2014/11/01/how-i-avoid-demotivating-myself-away-from-voting/"
 date: 2014-11-01T22:11:10
 comments: true
 categories:

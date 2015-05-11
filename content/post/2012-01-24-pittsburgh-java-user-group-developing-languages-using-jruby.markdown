@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Pittsburgh Java User Group: Developing Languages Using JRuby"
+disqus_identifier: "http://franklinchen.com/blog/2012/01/24/pittsburgh-java-user-group-developing-languages-using-jruby/"
+disqus_url: "http://franklinchen.com/blog/2012/01/24/pittsburgh-java-user-group-developing-languages-using-jruby/"
 date: 2012-01-24T22:23:00
 comments: true
 categories: 

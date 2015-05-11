@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Latin jazz in Pittsburgh: Puro Queso"
+disqus_identifier: "http://franklinchen.com/blog/2012/08/26/latin-jazz-in-pittsburgh-puro-queso/"
+disqus_url: "http://franklinchen.com/blog/2012/08/26/latin-jazz-in-pittsburgh-puro-queso/"
 date: 2012-08-26T22:31:00
 comments: true
 categories: 

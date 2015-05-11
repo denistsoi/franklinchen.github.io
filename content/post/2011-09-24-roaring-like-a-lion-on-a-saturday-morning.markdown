@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Roaring Like a Lion on a Saturday Morning"
+disqus_identifier: "http://franklinchen.com/blog/2011/09/24/roaring-like-a-lion-on-a-saturday-morning/"
+disqus_url: "http://franklinchen.com/blog/2011/09/24/roaring-like-a-lion-on-a-saturday-morning/"
 date: 2011-09-24T08:31:00
 comments: true
 categories:

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Zapping the PRAM several times to install Mountain Lion"
+disqus_identifier: "http://franklinchen.com/blog/2012/07/31/zapping-the-pram-several-times-to-install-mountain-lion/"
+disqus_url: "http://franklinchen.com/blog/2012/07/31/zapping-the-pram-several-times-to-install-mountain-lion/"
 date: 2012-07-31T14:18:00
 comments: true
 categories: 

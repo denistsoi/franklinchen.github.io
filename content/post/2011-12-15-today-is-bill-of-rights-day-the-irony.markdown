@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Today is Bill of Rights Day, the irony!"
+disqus_identifier: "http://franklinchen.com/blog/2011/12/15/today-is-bill-of-rights-day-the-irony/"
+disqus_url: "http://franklinchen.com/blog/2011/12/15/today-is-bill-of-rights-day-the-irony/"
 date: 2011-12-15T13:07:00
 comments: true
 categories:

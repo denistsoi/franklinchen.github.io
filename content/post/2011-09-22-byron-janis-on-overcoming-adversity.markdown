@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Byron Janis on Overcoming Adversity"
+disqus_identifier: "http://franklinchen.com/blog/2011/09/22/byron-janis-on-overcoming-adversity/"
+disqus_url: "http://franklinchen.com/blog/2011/09/22/byron-janis-on-overcoming-adversity/"
 date: 2011-09-22T20:57:00
 comments: true
 categories:

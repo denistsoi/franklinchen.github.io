@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "World Toilet Day is not just another crappy holiday"
+disqus_identifier: "http://franklinchen.com/blog/2014/11/19/world-toilet-day-is-not-just-another-crappy-holiday/"
+disqus_url: "http://franklinchen.com/blog/2014/11/19/world-toilet-day-is-not-just-another-crappy-holiday/"
 date: 2014-11-19T23:41:34
 comments: true
 categories:

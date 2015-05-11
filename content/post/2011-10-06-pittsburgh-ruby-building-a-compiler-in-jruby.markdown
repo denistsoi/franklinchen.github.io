@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Pittsburgh Ruby: Building a Compiler in JRuby"
+disqus_identifier: "http://franklinchen.com/blog/2011/10/06/pittsburgh-ruby-building-a-compiler-in-jruby/"
+disqus_url: "http://franklinchen.com/blog/2011/10/06/pittsburgh-ruby-building-a-compiler-in-jruby/"
 date: 2011-10-06T22:29:00
 comments: true
 categories: 

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Improving navigation on my blog"
+disqus_identifier: "http://franklinchen.com/blog/2011/10/20/improving-navigation-on-my-blog/"
+disqus_url: "http://franklinchen.com/blog/2011/10/20/improving-navigation-on-my-blog/"
 date: 2011-10-20T21:00:00
 comments: true
 categories:

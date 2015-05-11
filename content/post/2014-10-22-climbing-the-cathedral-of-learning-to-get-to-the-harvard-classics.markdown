@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Climbing the Cathedral of Learning to get to the Harvard Classics"
+disqus_identifier: "http://franklinchen.com/blog/2014/10/22/climbing-the-cathedral-of-learning-to-get-to-the-harvard-classics/"
+disqus_url: "http://franklinchen.com/blog/2014/10/22/climbing-the-cathedral-of-learning-to-get-to-the-harvard-classics/"
 date: 2014-10-22T23:12:24
 comments: true
 categories:

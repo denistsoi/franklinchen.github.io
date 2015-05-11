@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Steel City Ruby Conf review: Part 1: It's About People"
+disqus_identifier: "http://franklinchen.com/blog/2012/08/22/steel-city-ruby-conf-review-part-1-its-about-people/"
+disqus_url: "http://franklinchen.com/blog/2012/08/22/steel-city-ruby-conf-review-part-1-its-about-people/"
 date: 2012-08-22T11:29:00
 comments: true
 categories: 

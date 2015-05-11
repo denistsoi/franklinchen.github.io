@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "One week of commuting on foot because of CMU Carnival"
+disqus_identifier: "http://franklinchen.com/blog/2012/04/16/one-week-of-commuting-on-foot-because-of-cmu-carnival/"
+disqus_url: "http://franklinchen.com/blog/2012/04/16/one-week-of-commuting-on-foot-because-of-cmu-carnival/"
 date: 2012-04-16T19:57:00
 comments: true
 categories: 

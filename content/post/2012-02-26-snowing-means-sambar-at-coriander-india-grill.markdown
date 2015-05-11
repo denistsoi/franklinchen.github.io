@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Snowing means sambar at Coriander India Grill"
+disqus_identifier: "http://franklinchen.com/blog/2012/02/26/snowing-means-sambar-at-coriander-india-grill/"
+disqus_url: "http://franklinchen.com/blog/2012/02/26/snowing-means-sambar-at-coriander-india-grill/"
 date: 2012-02-26T12:10:00
 comments: true
 categories:

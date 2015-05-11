@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "I Love Music but Rarely Listen to It Now"
+disqus_identifier: "http://franklinchen.com/blog/2011/10/02/i-love-music-but-rarely-listen-to-it-now/"
+disqus_url: "http://franklinchen.com/blog/2011/10/02/i-love-music-but-rarely-listen-to-it-now/"
 date: 2011-10-02T17:15:00
 comments: true
 categories:

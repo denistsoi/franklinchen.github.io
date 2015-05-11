@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Bought a Baroque flute"
+disqus_identifier: "http://franklinchen.com/blog/2011/11/30/bought-a-baroque-flute/"
+disqus_url: "http://franklinchen.com/blog/2011/11/30/bought-a-baroque-flute/"
 date: 2011-11-30T21:06:00
 comments: true
 categories:

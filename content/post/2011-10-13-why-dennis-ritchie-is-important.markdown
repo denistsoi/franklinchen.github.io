@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Why Dennis Ritchie Is Important"
+disqus_identifier: "http://franklinchen.com/blog/2011/10/13/why-dennis-ritchie-is-important/"
+disqus_url: "http://franklinchen.com/blog/2011/10/13/why-dennis-ritchie-is-important/"
 date: 2011-10-13T18:35:00
 comments: true
 categories:

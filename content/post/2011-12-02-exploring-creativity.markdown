@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Exploring creativity"
+disqus_identifier: "http://franklinchen.com/blog/2011/12/02/exploring-creativity/"
+disqus_url: "http://franklinchen.com/blog/2011/12/02/exploring-creativity/"
 date: 2011-12-02T23:37:00
 comments: true
 categories:

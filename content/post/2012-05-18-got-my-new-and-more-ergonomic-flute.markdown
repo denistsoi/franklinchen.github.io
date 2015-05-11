@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Got my new and more ergonomic flute"
+disqus_identifier: "http://franklinchen.com/blog/2012/05/18/got-my-new-and-more-ergonomic-flute/"
+disqus_url: "http://franklinchen.com/blog/2012/05/18/got-my-new-and-more-ergonomic-flute/"
 date: 2012-05-18T00:29:00
 comments: true
 categories:

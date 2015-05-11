@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "My second French music jam: playing my Irish flute in public for the first time"
+disqus_identifier: "http://franklinchen.com/blog/2012/08/27/my-second-french-music-jam-playing-my-irish-flute-in-public-for-the-first-time/"
+disqus_url: "http://franklinchen.com/blog/2012/08/27/my-second-french-music-jam-playing-my-irish-flute-in-public-for-the-first-time/"
 date: 2012-08-27T22:37:00
 comments: true
 categories: 

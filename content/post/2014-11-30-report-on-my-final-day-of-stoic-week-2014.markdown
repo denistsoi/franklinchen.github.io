@@ -1,6 +1,9 @@
 ---
 layout: post
 title: "Report on my final day of Stoic Week 2014: the view from above"
+disqus_identifier: "http://franklinchen.com/blog/2014/11/30/report-on-my-final-day-of-stoic-week-2014/"
+disqus_url: "http://franklinchen.com/blog/2014/11/30/report-on-my-final-day-of-stoic-week-2014/"
+url: "blog/2014/11/30/report-on-my-final-day-of-stoic-week-2014/"
 date: 2014-11-30T22:16:07
 comments: true
 categories:

@@ -2,8 +2,11 @@
 layout: post
 title: "Returning to chess, part 2: rejoining the Pittsburgh Chess Club and signing up for my sixth Fred Sorensen Memorial tournament"
 date: 2012-08-29T21:28:00
+disqus_identifier: "http://franklinchen.com/blog/2012/08/29/returning-to-chess/"
+disqus_url: "http://franklinchen.com/blog/2012/08/29/returning-to-chess/"
+url: "blog/2012/08/29/returning-to-chess/"
 comments: true
-categories: 
+categories:
 - chess
 - Pittsburgh
 - Java

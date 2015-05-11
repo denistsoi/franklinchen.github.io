@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Meditation is hard"
+disqus_identifier: "http://franklinchen.com/blog/2012/02/10/meditation-is-hard/"
+disqus_url: "http://franklinchen.com/blog/2012/02/10/meditation-is-hard/"
 date: 2012-02-10T21:18:00
 comments: true
 categories:

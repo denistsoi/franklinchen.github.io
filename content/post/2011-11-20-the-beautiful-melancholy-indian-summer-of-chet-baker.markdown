@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "The beautiful, melancholy Indian Summer of Chet Baker"
+disqus_identifier: "http://franklinchen.com/blog/2011/11/20/the-beautiful-melancholy-indian-summer-of-chet-baker/"
+disqus_url: "http://franklinchen.com/blog/2011/11/20/the-beautiful-melancholy-indian-summer-of-chet-baker/"
 date: 2011-11-20T20:25:00
 comments: true
 categories:

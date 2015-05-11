@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Really taking up the challenge of minimalism"
+disqus_identifier: "http://franklinchen.com/blog/2011/10/19/really-taking-up-the-challenge-of-minimalism/"
+disqus_url: "http://franklinchen.com/blog/2011/10/19/really-taking-up-the-challenge-of-minimalism/"
 date: 2011-10-19T21:00:00
 comments: true
 categories:

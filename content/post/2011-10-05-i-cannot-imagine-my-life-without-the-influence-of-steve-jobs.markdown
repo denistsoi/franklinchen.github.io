@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "I Cannot Imagine My Life Without the Influence of Steve Jobs"
+disqus_identifier: "http://franklinchen.com/blog/2011/10/05/i-cannot-imagine-my-life-without-the-influence-of-steve-jobs/"
+disqus_url: "http://franklinchen.com/blog/2011/10/05/i-cannot-imagine-my-life-without-the-influence-of-steve-jobs/"
 date: 2011-10-05T21:39:00
 comments: true
 categories:

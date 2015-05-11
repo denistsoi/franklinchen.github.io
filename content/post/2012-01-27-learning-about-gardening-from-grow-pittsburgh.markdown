@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Learning about gardening from Grow Pittsburgh"
+disqus_identifier: "http://franklinchen.com/blog/2012/01/27/learning-about-gardening-from-grow-pittsburgh/"
+disqus_url: "http://franklinchen.com/blog/2012/01/27/learning-about-gardening-from-grow-pittsburgh/"
 date: 2012-01-27T06:57:00
 comments: true
 categories:
