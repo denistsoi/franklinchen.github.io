@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "An American English dialect quiz correctly guessed where I originally grew up in the US"
-date: 2014-11-21 23:32:10 -0500
+date: 2014-11-21T23:32:10
 comments: true
 categories:
 - linguistics

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The first Steel City Ruby Conf: an amazing experience"
-date: 2012-08-07 01:05
+date: 2012-08-07T01:05:00
 comments: true
 categories: 
 - conference

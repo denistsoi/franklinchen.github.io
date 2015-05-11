@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Attending the annual Pitt Jazz Seminar for the first time: day 2"
-date: 2012-11-03 20:52
+date: 2012-11-03T20:52:00
 comments: true
 external-url:
 categories:

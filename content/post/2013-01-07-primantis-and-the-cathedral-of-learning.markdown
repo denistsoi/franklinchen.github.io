@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Primanti's and the Cathedral of Learning"
-date: 2013-01-07 21:30
+date: 2013-01-07T21:30:00
 comments: true
 external-url: 
 categories: 

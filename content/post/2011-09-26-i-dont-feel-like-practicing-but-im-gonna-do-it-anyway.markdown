@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I Don't Feel Like Practicing; but I'm Gonna Do It Anyway"
-date: 2011-09-26 19:07
+date: 2011-09-26T19:07:00
 comments: true
 categories:
 - music

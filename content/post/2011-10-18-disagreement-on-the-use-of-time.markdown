@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Disagreement on the use of time?"
-date: 2011-10-18 19:14
+date: 2011-10-18T19:14:00
 comments: true
 categories:
 - time management

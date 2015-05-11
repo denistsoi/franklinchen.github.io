@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "RSpec new expectation: finally not shoving a verb into a noun"
-date: 2012-06-23 22:05
+date: 2012-06-23T22:05:00
 comments: true
 categories: 
 - programming

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I don't know whether to get a flu shot"
-date: 2011-11-02 21:33
+date: 2011-11-02T21:33:00
 comments: true
 categories:
 - flu

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Celebrating this blog's one-year anniversary"
-date: 2012-09-22 18:11
+date: 2012-09-22T18:11:00
 comments: true
 external-url: 
 categories: 

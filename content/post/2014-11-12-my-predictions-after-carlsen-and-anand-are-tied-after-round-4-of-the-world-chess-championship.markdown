@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My predictions after Carlsen and Anand are tied after round 4 of the World Chess Championship"
-date: 2014-11-12 23:01:25 -0500
+date: 2014-11-12T23:01:25
 comments: true
 categories:
 - chess

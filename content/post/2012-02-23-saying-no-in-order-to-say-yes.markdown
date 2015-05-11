@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Saying No in order to say Yes"
-date: 2012-02-23 20:23
+date: 2012-02-23T20:23:00
 comments: true
 categories:
 - time management

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Report on my second day of Stoic Week 2014: mindfulness"
-date: 2014-11-25 23:50:38 -0500
+date: 2014-11-25T23:50:38
 comments: true
 categories:
 - philosophy

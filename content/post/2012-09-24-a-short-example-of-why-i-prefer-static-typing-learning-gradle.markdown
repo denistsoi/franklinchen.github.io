@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A short example of why I prefer static typing: learning Gradle"
-date: 2012-09-24 17:07
+date: 2012-09-24T17:07:00
 comments: true
 external-url: 
 categories: 

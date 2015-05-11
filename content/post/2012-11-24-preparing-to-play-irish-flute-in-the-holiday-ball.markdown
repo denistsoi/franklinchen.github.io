@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Preparing to play Irish flute in the Holiday Ball"
-date: 2012-11-24 20:30
+date: 2012-11-24T20:30:00
 comments: true
 external-url: 
 categories: 

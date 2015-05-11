@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I decided to resign myself to continue voting"
-date: 2012-11-06 12:05
+date: 2012-11-06T12:05:00
 comments: true
 external-url: 
 categories: 

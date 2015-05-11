@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Playing recorder and flute at the Holiday Ball!"
-date: 2011-12-17 23:17
+date: 2011-12-17T23:17:00
 comments: true
 categories: 
 - music

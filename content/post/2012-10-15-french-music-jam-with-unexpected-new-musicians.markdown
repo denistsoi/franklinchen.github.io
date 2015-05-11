@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "French music jam with unexpected new musicians"
-date: 2012-10-15 23:45
+date: 2012-10-15T23:45:00
 comments: true
 external-url: 
 categories: 

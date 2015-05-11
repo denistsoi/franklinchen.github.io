@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My eighth time doing Run Around the Square 5K"
-date: 2012-08-25 10:47
+date: 2012-08-25T10:47:00
 comments: true
 categories: 
 - running

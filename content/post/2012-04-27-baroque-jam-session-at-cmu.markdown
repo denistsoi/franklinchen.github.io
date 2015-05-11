@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Baroque jam session at CMU: first time my parents ever watched me perform music"
-date: 2012-04-27 23:20
+date: 2012-04-27T23:20:00
 comments: true
 categories: 
 - music

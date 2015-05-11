@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The special bond between children and their fathers, through chess"
-date: 2013-01-13 18:25
+date: 2013-01-13T18:25:00
 comments: true
 external-url: 
 categories: 

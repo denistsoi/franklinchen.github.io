@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Revisiting Knuth and McIlroy's word count programs"
-date: 2011-12-08 21:46
+date: 2011-12-08T21:46:00
 comments: true
 categories:
 - programming

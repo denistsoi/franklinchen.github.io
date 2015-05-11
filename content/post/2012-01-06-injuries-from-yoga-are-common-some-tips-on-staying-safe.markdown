@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Injuries from yoga are common: some tips on staying safe"
-date: 2012-01-06 22:00
+date: 2012-01-06T22:00:00
 comments: true
 categories:
 - yoga

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Today is Bill of Rights Day, the irony!"
-date: 2011-12-15 13:07
+date: 2011-12-15T13:07:00
 comments: true
 categories:
 - politics

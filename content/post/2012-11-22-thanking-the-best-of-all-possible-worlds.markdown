@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Thanking the best of all possible worlds"
-date: 2012-11-22 21:55
+date: 2012-11-22T21:55:00
 comments: true
 external-url: 
 categories: 

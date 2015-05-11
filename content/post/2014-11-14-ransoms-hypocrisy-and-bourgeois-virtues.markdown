@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ransoms, hypocrisy, and bourgeois virtues"
-date: 2014-11-14 22:18:36 -0500
+date: 2014-11-14T22:18:36
 comments: true
 categories:
 - philosophy

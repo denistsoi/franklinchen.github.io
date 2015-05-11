@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to enjoy treadmill running: treat it as a meditative practice"
-date: 2012-01-05 22:42
+date: 2012-01-05T22:42:00
 comments: true
 categories:
 - running

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Returning to chess, part 2: rejoining the Pittsburgh Chess Club and signing up for my sixth Fred Sorensen Memorial tournament"
-date: 2012-08-29 21:28
+date: 2012-08-29T21:28:00
 comments: true
 categories: 
 - chess

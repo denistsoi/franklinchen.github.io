@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Special treat: Dutch jazz trumpeter Eric Vloeimans performed in Pittsburgh!"
-date: 2012-12-19 23:42
+date: 2012-12-19T23:42:00
 comments: true
 external-url: 
 categories: 

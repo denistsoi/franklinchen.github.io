@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My predictions and hopes for the 2014 Carlsen-Anand world chess championship rematch"
-date: 2014-11-06 21:09:54 -0500
+date: 2014-11-06T21:09:54
 comments: true
 categories:
 - chess

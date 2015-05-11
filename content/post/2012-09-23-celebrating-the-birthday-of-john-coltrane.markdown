@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Celebrating the birthday of John Coltrane, the Beethoven of jazz"
-date: 2012-09-23 00:44
+date: 2012-09-23T00:44:00
 comments: true
 external-url: 
 categories: 

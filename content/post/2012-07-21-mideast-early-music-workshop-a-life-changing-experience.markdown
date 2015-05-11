@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mideast Early Music Workshop 2012: a life-changing experience!!"
-date: 2012-07-21 22:43
+date: 2012-07-21T22:43:00
 comments: true
 categories: 
 - music

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Finally performing some sonatas for Baroque flute"
-date: 2012-09-08 23:26
+date: 2012-09-08T23:26:00
 comments: true
 external-url: 
 categories: 

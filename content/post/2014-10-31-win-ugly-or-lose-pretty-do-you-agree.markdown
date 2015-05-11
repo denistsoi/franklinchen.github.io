@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Win ugly or lose pretty: do you agree?"
-date: 2014-10-31 22:53:18 -0400
+date: 2014-10-31T22:53:18
 comments: true
 categories:
 - politics

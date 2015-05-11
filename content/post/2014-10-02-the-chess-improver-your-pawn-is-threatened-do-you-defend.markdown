@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Chess Improver: Your Pawn is threatened: do you defend, advance, or trade?"
-date: 2014-10-02 07:02:40 -0400
+date: 2014-10-02T07:02:40
 comments: true
 categories:
 - chess

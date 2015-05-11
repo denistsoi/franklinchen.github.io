@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Playing Baroque flute at my friend's wedding reception"
-date: 2012-08-12 23:50
+date: 2012-08-12T23:50:00
 comments: true
 external-url: 
 categories: 

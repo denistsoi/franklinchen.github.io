@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Visiting the House of Musical Traditions: looking at instruments including Irish flutes"
-date: 2012-05-28 23:34
+date: 2012-05-28T23:34:00
 comments: true
 categories: 
 - music

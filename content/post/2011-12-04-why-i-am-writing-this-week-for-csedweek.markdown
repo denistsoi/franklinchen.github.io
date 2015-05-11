@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why I am writing this week for CSEdWeek"
-date: 2011-12-04 20:54
+date: 2011-12-04T20:54:00
 comments: true
 categories:
 - CSEdWeek

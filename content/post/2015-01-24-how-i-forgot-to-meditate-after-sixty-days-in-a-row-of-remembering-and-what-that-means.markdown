@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How I forgot to meditate after sixty days in a row of remembering and what that means"
-date: 2015-01-24 13:58:29 -0500
+date: 2015-01-24T13:58:29
 comments: true
 categories:
 - meditation

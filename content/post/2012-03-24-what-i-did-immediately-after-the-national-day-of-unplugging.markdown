@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What I did immediately after the National Day of Unplugging"
-date: 2012-03-24 19:40
+date: 2012-03-24T19:40:00
 comments: true
 categories:
 - National Day of Unplugging

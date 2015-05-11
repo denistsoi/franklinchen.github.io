@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Learning another instrument: the tin whistle"
-date: 2011-12-11 21:33
+date: 2011-12-11T21:33:00
 comments: true
 categories:
 - music

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I Cannot Imagine My Life Without the Influence of Steve Jobs"
-date: 2011-10-05 21:39
+date: 2011-10-05T21:39:00
 comments: true
 categories:
 - Steve Jobs

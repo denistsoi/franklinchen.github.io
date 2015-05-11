@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Observing Constitution Day with \"The Supreme Court and Privacy: The Fourth Amendment in the Digital Age\""
-date: 2014-09-17 21:54:01 -0400
+date: 2014-09-17T21:54:01
 comments: true
 categories:
 - Constitution

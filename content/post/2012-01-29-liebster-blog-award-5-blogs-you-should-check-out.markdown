@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Liebster Blog Award: 5 blogs you should check out"
-date: 2012-01-29 13:04
+date: 2012-01-29T13:04:00
 comments: true
 categories:
 - writing

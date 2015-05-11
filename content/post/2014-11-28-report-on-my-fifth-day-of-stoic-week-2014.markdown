@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Report on my fifth day of Stoic Week 2014: action and the reserve clause"
-date: 2014-11-28 23:20:43 -0500
+date: 2014-11-28T23:20:43
 comments: true
 categories:
 - philosophy

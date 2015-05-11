@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Playing tango on melodica and singing Christmas carols"
-date: 2012-12-22 23:57
+date: 2012-12-22T23:57:00
 comments: true
 external-url: 
 categories: 

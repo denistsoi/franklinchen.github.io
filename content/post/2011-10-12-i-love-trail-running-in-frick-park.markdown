@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I Love Trail Running in Frick Park"
-date: 2011-10-12 23:44
+date: 2011-10-12T23:44:00
 comments: true
 categories:
 - running

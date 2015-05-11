@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "When jQuery Attacks"
-date: 2011-09-27 21:07
+date: 2011-09-27T21:07:00
 comments: true
 categories:
 - programming

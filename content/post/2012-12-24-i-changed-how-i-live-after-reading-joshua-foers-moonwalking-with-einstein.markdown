@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I changed how I live after reading Joshua Foer's \"Moonwalking with Einstein\""
-date: 2012-12-24 20:20
+date: 2012-12-24T20:20:00
 comments: true
 external-url: 
 categories: 

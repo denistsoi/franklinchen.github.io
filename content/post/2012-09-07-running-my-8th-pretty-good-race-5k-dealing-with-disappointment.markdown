@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Running my 8th Pretty Good Race 5K: dealing with disappointment"
-date: 2012-09-07 19:47
+date: 2012-09-07T19:47:00
 comments: true
 categories: 
 - running

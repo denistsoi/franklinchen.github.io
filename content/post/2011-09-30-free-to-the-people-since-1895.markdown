@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Free to the People: Since 1895"
-date: 2011-09-30 20:36
+date: 2011-09-30T20:36:00
 comments: true
 categories:
 - books

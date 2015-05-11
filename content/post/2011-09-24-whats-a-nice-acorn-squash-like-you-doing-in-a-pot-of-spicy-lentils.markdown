@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What's a Nice Acorn Squash Like You Doing in a Pot of Spicy Lentils?"
-date: 2011-09-24 18:09
+date: 2011-09-24T18:09:00
 comments: true
 categories:
 - food

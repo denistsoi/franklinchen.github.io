@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The paradox of practice: it's harder to go slow than go fast"
-date: 2012-08-02 23:09
+date: 2012-08-02T23:09:00
 comments: true
 categories: 
 - practice

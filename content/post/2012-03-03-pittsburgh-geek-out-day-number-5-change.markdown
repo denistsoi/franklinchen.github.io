@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pittsburgh Geek Out Day #5: \"Change\""
-date: 2012-03-03 22:50
+date: 2012-03-03T22:50:00
 comments: true
 external-url: 
 categories: 

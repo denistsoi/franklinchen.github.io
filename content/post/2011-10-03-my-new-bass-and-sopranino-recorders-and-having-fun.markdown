@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My New Bass and Sopranino Recorders and Having Fun"
-date: 2011-10-03 21:03
+date: 2011-10-03T21:03:00
 comments: true
 categories:
 - music

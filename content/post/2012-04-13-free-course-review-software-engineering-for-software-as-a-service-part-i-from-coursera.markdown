@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Free course review: Software Engineering for Software as a Service (Part I), from Coursera"
-date: 2012-04-13 21:29
+date: 2012-04-13T21:29:00
 comments: true
 categories:
 - programming

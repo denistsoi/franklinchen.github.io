@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Things look different from the perspective of the professional and the spectator"
-date: 2014-11-05 22:10:35 -0500
+date: 2014-11-05T22:10:35
 comments: true
 categories:
 - chess

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fun at the East End Food Co-op Winterfest"
-date: 2011-12-18 18:52
+date: 2011-12-18T18:52:00
 comments: true
 categories:
 - East End Food Co-op

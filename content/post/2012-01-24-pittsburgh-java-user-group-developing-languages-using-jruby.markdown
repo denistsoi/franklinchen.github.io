@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pittsburgh Java User Group: Developing Languages Using JRuby"
-date: 2012-01-24 22:23
+date: 2012-01-24T22:23:00
 comments: true
 categories: 
 - programming

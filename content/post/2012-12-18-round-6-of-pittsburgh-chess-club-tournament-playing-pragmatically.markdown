@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Round 6 of Pittsburgh Chess Club tournament: playing pragmatically"
-date: 2012-12-18 23:56
+date: 2012-12-18T23:56:00
 comments: true
 external-url: 
 categories: 

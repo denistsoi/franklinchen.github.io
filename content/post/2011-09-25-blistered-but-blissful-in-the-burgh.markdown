@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Running My Ninth Pittsburgh Great Race 10K: Blistered but Blissful in the 'Burgh"
-date: 2011-09-25 15:28
+date: 2011-09-25T15:28:00
 comments: true
 categories:
 - running

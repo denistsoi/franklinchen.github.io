@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My first sampling of English country dance and contra dance"
-date: 2012-03-31 23:01
+date: 2012-03-31T23:01:00
 comments: true
 external-url: 
 categories: 

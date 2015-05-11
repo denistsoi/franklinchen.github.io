@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Four generations of Apple laptops"
-date: 2012-09-21 13:52
+date: 2012-09-21T13:52:00
 comments: true
 categories: 
 - computers

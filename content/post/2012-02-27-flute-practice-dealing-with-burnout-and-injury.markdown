@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Flute practice: dealing with burnout and injury"
-date: 2012-02-27 11:27
+date: 2012-02-27T11:27:00
 comments: true
 categories:
 - music

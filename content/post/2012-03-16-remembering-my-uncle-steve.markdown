@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Remembering my Uncle Steve"
-date: 2012-03-16 18:19
+date: 2012-03-16T18:19:00
 comments: true
 categories:
 - death

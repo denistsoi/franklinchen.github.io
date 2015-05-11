@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A winter red cabbage slaw for the New Year"
-date: 2013-01-01 21:34
+date: 2013-01-01T21:34:00
 comments: true
 external-url: 
 categories: 

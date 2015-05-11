@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pinterest confuses me"
-date: 2012-02-15 21:09
+date: 2012-02-15T21:09:00
 comments: true
 categories:
 - Pinterest

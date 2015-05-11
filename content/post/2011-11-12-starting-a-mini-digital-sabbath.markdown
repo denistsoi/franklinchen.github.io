@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Starting a mini Digital Sabbath"
-date: 2011-11-12 09:52
+date: 2011-11-12T09:52:00
 comments: true
 categories:
 - blog

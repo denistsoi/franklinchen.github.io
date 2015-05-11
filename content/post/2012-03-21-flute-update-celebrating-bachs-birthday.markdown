@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Flute update: celebrating Bach's birthday, using a Thumbport, improvising to bossa nova"
-date: 2012-03-21 20:57
+date: 2012-03-21T20:57:00
 comments: true
 categories:
 - music

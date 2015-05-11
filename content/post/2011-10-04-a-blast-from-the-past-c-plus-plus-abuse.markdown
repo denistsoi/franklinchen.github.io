@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Blast From the Past: C++ Abuse"
-date: 2011-10-04 21:23
+date: 2011-10-04T21:23:00
 comments: true
 categories:
 - programming

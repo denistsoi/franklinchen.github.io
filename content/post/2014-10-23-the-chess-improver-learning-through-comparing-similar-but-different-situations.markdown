@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Chess Improver: Learning through comparing similar but different situations"
-date: 2014-10-23 07:13:51 -0400
+date: 2014-10-23T07:13:51
 comments: true
 categories:
 - chess

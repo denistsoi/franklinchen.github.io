@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "On not reading concert program notes"
-date: 2011-11-11 23:06
+date: 2011-11-11T23:06:00
 comments: true
 categories:
 - music

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why go to concerts by amateur music groups?"
-date: 2011-12-12 21:13
+date: 2011-12-12T21:13:00
 comments: true
 categories:
 - music

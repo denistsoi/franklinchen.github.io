@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Chess Improver: Accept the sacrifice if the alternative is to lose anyway"
-date: 2014-09-18 07:03:23 -0400
+date: 2014-09-18T07:03:23
 comments: true
 categories:
 - chess

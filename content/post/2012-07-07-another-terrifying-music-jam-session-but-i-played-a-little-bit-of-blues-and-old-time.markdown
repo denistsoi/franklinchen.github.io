@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Another terrifying music jam session but I played a little bit of blues and old time"
-date: 2012-07-07 23:37
+date: 2012-07-07T23:37:00
 comments: true
 external-url: 
 categories: 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Happy 200th birthday, Franz Liszt!"
-date: 2011-10-22 22:08
+date: 2011-10-22T22:08:00
 comments: true
 categories:
 - music

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A delayed St. Patrick's Day party: playing tin whistle and alto recorder"
-date: 2012-03-30 22:58
+date: 2012-03-30T22:58:00
 comments: true
 categories: 
 - music

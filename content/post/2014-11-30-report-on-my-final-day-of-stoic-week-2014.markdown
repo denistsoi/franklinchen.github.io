@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Report on my final day of Stoic Week 2014: the view from above"
-date: 2014-11-30 22:16:07 -0500
+date: 2014-11-30T22:16:07
 comments: true
 categories:
 - philosophy

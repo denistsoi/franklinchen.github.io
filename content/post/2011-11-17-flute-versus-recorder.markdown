@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Flute versus recorder: why do I play both?"
-date: 2011-11-17 22:35
+date: 2011-11-17T22:35:00
 comments: true
 categories:
 - music

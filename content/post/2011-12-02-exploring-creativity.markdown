@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Exploring creativity"
-date: 2011-12-02 23:37
+date: 2011-12-02T23:37:00
 comments: true
 categories:
 - creativity

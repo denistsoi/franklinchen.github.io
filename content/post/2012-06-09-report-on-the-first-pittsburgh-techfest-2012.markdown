@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Report on the first Pittsburgh TechFest, 2012"
-date: 2012-06-09 20:24
+date: 2012-06-09T20:24:00
 comments: true
 external-url: 
 categories: 

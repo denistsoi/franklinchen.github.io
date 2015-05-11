@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Report on my first day of Stoic Week 2014"
-date: 2014-11-24 22:30:51 -0500
+date: 2014-11-24T22:30:51
 comments: true
 categories:
 - philosophy

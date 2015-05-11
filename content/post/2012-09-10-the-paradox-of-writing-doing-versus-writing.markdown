@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The paradox of writing: doing versus writing"
-date: 2012-09-10 08:21
+date: 2012-09-10T08:21:00
 comments: true
 categories: 
 - writing

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My first time in a public music jam: intense fun with Chris Norman and David Greenberg"
-date: 2012-04-21 13:44
+date: 2012-04-21T13:44:00
 comments: true
 categories:
 - music

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pittsburgh Ruby: Building a Compiler in JRuby"
-date: 2011-10-06 22:29
+date: 2011-10-06T22:29:00
 comments: true
 categories: 
 - programming

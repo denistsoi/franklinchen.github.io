@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Staying Excited About Learning By Being Flexible"
-date: 2011-10-07 19:36
+date: 2011-10-07T19:36:00
 comments: true
 categories:
 - music

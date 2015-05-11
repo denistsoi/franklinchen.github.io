@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Oblivion obsession: time to start playing melodica!"
-date: 2012-12-02 21:32
+date: 2012-12-02T21:32:00
 comments: true
 external-url:
 categories:

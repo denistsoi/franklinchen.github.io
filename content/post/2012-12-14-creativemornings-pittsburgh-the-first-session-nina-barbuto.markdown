@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CreativeMornings/Pittsburgh, the first session: Nina Barbuto on \"Making Learning a Party\""
-date: 2012-12-14 23:40
+date: 2012-12-14T23:40:00
 comments: true
 external-url: 
 categories: 

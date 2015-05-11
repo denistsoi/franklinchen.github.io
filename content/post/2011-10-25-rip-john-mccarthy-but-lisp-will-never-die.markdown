@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "RIP, John McCarthy; but Lisp will never die"
-date: 2011-10-25 00:14
+date: 2011-10-25T00:14:00
 comments: true
 categories:
 - computer science

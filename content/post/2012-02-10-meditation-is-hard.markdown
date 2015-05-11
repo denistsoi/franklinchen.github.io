@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Meditation is hard"
-date: 2012-02-10 21:18
+date: 2012-02-10T21:18:00
 comments: true
 categories:
 - meditation

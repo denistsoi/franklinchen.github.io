@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "When is something overpriced? 36 examples"
-date: 2011-10-28 20:44
+date: 2011-10-28T20:44:00
 comments: true
 categories:
 - economics

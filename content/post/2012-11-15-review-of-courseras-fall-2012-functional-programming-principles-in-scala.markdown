@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review of Coursera's Fall 2012 \"Functional Programming Principles in Scala\""
-date: 2012-11-15 21:27
+date: 2012-11-15T21:27:00
 comments: true
 external-url: 
 categories: 

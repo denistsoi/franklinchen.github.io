@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Really taking up the challenge of minimalism"
-date: 2011-10-19 21:00
+date: 2011-10-19T21:00:00
 comments: true
 categories:
 - minimalism

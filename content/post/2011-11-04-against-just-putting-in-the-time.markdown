@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Against just putting in the time"
-date: 2011-11-04 21:37
+date: 2011-11-04T21:37:00
 comments: true
 categories:
 - time management

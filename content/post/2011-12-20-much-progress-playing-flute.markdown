@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Much progress playing flute"
-date: 2011-12-20 21:35
+date: 2011-12-20T21:35:00
 comments: true
 categories:
 - music

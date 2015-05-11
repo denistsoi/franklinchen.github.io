@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Preparing for December 9 recorder performance in Phipps Conservatory"
-date: 2012-11-19 23:40
+date: 2012-11-19T23:40:00
 comments: true
 external-url:
 categories:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My God It's Full of Stairs! Pittsburgh Step Trek 2011"
-date: 2011-10-08 17:50
+date: 2011-10-08T17:50:00
 comments: true
 categories: 
 - Pittsburgh

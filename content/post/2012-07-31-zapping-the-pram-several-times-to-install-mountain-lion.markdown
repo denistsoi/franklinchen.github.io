@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Zapping the PRAM several times to install Mountain Lion"
-date: 2012-07-31 14:18
+date: 2012-07-31T14:18:00
 comments: true
 categories: 
 - computers

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why I went Frick Park trail running in snowfall for the first time in a decade"
-date: 2012-12-31 23:22
+date: 2012-12-31T23:22:00
 comments: true
 external-url: 
 categories: 

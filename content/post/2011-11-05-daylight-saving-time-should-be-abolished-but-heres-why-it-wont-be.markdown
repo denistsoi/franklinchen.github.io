@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Daylight Saving Time should be abolished but here's why it won't be"
-date: 2011-11-05 17:15
+date: 2011-11-05T17:15:00
 comments: true
 categories:
 - time

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Two weeks after getting my first smartphone"
-date: 2012-04-03 17:53
+date: 2012-04-03T17:53:00
 comments: true
 categories: 
 - smartphone

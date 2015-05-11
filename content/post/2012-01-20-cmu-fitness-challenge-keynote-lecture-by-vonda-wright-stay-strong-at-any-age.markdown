@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CMU Fitness Challenge keynote lecture by Vonda Wright: Stay strong at any age"
-date: 2012-01-20 22:32
+date: 2012-01-20T22:32:00
 comments: true
 categories: 
 - science

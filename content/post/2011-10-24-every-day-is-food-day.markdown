@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Every day is Food Day"
-date: 2011-10-24 21:26
+date: 2011-10-24T21:26:00
 comments: true
 categories:
 - food

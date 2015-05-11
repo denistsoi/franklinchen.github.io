@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Staring at the Wall With Nowhere to Go"
-date: 2011-09-28 20:48
+date: 2011-09-28T20:48:00
 comments: true
 categories:
 - Zen

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What topics do you want me to write about in 2012?"
-date: 2011-12-19 23:45
+date: 2011-12-19T23:45:00
 comments: true
 categories:
 - writing

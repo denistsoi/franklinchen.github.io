@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A childhood dream come true: I am now finally singing for real!"
-date: 2012-11-17 23:25
+date: 2012-11-17T23:25:00
 comments: true
 external-url: 
 categories: 

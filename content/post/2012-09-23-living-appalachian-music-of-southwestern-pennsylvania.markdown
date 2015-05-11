@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Living Appalachian music of Southwestern Pennsylvania: Mark Tamsula and Richard Withers with Ellen Gozion "
-date: 2012-09-23 22:15
+date: 2012-09-23T22:15:00
 comments: true
 categories: 
 - Carnegie Library of Pittsburgh

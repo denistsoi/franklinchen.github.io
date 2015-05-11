@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Yet another haircut from Joe: always worth the wait"
-date: 2012-10-26 19:39
+date: 2012-10-26T19:39:00
 comments: true
 external-url: 
 categories: 

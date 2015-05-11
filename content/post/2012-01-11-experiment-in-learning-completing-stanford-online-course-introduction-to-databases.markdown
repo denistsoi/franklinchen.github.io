@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Experiment in learning: completing Stanford online course: Introduction to Databases"
-date: 2012-01-11 21:31
+date: 2012-01-11T21:31:00
 comments: true
 categories:
 - learning

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "First anniversary of Steve Jobs' death: let the dead bury the dead"
-date: 2012-10-05 17:41
+date: 2012-10-05T17:41:00
 comments: true
 external-url: 
 categories: 

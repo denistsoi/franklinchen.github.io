@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "St. Patrick's Day party: playing tin whistle and flute"
-date: 2012-03-17 22:41
+date: 2012-03-17T22:41:00
 comments: true
 categories: 
 - music

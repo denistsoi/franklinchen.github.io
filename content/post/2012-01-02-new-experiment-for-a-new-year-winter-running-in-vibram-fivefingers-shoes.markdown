@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "New experiment for a new year: winter running in Vibram FiveFingers shoes"
-date: 2012-01-02 21:37
+date: 2012-01-02T21:37:00
 comments: true
 categories:
 - running

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Busy evening: performing at Phipps followed by rehearsal for another gig!"
-date: 2011-12-05 23:11
+date: 2011-12-05T23:11:00
 comments: true
 categories:
 - music

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Learning about gardening from Grow Pittsburgh"
-date: 2012-01-27 06:57
+date: 2012-01-27T06:57:00
 comments: true
 categories:
 - gardening

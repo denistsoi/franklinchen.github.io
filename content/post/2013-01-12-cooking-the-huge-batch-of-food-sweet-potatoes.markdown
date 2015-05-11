@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cooking the huge batch of food: sweet potatoes, peppers, butternut squash"
-date: 2013-01-12 19:42
+date: 2013-01-12T19:42:00
 comments: true
 external-url: 
 categories: 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Flute: loving it again, remembering why I dance, and how I met my wife!"
-date: 2012-03-10 21:28
+date: 2012-03-10T21:28:00
 comments: true
 categories: 
 - music

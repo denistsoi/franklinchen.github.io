@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My favorite Uncle Sam's sub"
-date: 2012-12-08 21:24
+date: 2012-12-08T21:24:00
 comments: true
 external-url: 
 categories: 

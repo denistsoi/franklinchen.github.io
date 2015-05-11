@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Smart versus unpredictable people: whom do you prefer?"
-date: 2014-11-08 11:10:13 -0500
+date: 2014-11-08T11:10:13
 comments: true
 categories:
 - psychology

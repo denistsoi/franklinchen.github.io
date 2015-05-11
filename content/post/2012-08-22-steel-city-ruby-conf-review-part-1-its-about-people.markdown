@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Steel City Ruby Conf review: Part 1: It's About People"
-date: 2012-08-22 11:29
+date: 2012-08-22T11:29:00
 comments: true
 categories: 
 - conference

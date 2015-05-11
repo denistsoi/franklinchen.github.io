@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Paleo diet experimentation"
-date: 2011-10-23 23:59
+date: 2011-10-23T23:59:00
 comments: true
 categories:
 - paleo

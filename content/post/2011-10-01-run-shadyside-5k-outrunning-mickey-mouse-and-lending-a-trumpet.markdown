@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Run Shadyside 5K: Outrunning Mickey Mouse and Lending a Trumpet"
-date: 2011-10-01 09:47
+date: 2011-10-01T09:47:00
 comments: true
 categories:
 - Pittsburgh

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why I missed the CMU intramural XC race this year"
-date: 2012-09-27 22:25
+date: 2012-09-27T22:25:00
 comments: true
 external-url: 
 categories: 

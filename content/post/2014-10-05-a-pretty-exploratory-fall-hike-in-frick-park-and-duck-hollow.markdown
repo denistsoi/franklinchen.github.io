@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A pretty exploratory fall hike in Frick Park and Duck Hollow"
-date: 2014-10-05 20:25:28 -0400
+date: 2014-10-05T20:25:28
 comments: true
 categories:
 - Frick Park

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pittsburgh Chess League Round 2: natural moves are often bad"
-date: 2012-10-14 20:35
+date: 2012-10-14T20:35:00
 comments: true
 external-url: 
 categories: 

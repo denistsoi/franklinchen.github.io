@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review of Coursera course: Model Thinking"
-date: 2012-06-16 22:09
+date: 2012-06-16T22:09:00
 comments: true
 categories: 
 - Coursera

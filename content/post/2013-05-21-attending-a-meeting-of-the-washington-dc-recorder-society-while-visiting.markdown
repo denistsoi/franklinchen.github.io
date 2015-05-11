@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Attending a meeting of the Washington DC Recorder Society while visiting"
-date: 2013-05-21 22:40
+date: 2013-05-21T22:40:00
 comments: true
 categories: 
 - music

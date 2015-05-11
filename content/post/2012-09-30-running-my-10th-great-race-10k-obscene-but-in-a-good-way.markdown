@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Running my 10th Great Race 10K: \"obscene but in a good way\""
-date: 2012-09-30 19:08
+date: 2012-09-30T19:08:00
 comments: true
 categories: 
 - running

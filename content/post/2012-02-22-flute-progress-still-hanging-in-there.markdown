@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Flute progress after one month in orchestra: still hanging in there"
-date: 2012-02-22 20:19
+date: 2012-02-22T20:19:00
 comments: true
 categories:
 - music

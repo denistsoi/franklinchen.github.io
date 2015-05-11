@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Public shame: a great way to maintain a habit"
-date: 2012-02-08 21:59
+date: 2012-02-08T21:59:00
 comments: true
 categories:
 - exercise

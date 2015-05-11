@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why Dennis Ritchie Is Important"
-date: 2011-10-13 18:35
+date: 2011-10-13T18:35:00
 comments: true
 categories:
 - Dennis Ritchie

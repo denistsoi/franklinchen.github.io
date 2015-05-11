@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dan Possumato and friends playing Irish, Scottish, French music"
-date: 2012-11-25 21:42
+date: 2012-11-25T21:42:00
 comments: true
 categories: 
 - Carnegie Library of Pittsburgh

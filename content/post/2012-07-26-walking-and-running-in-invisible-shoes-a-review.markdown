@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Walking and running in Invisible Shoes: a review of the Connect"
-date: 2012-07-26 21:28
+date: 2012-07-26T21:28:00
 comments: true
 categories: 
 - walking

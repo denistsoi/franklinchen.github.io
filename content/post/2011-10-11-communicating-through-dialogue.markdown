@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Communicating Through Dialogue"
-date: 2011-10-11 22:12
+date: 2011-10-11T22:12:00
 comments: true
 categories:
 - Carnegie Mellon University

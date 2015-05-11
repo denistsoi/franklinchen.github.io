@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2013 is my year of Scala"
-date: 2013-01-11 15:17
+date: 2013-01-11T15:17:00
 comments: true
 external-url: 
 categories: 

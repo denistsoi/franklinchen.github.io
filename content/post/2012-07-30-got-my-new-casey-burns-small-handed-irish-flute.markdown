@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Got my new Casey Burns Small-Handed Irish flute!"
-date: 2012-07-30 20:37
+date: 2012-07-30T20:37:00
 comments: true
 categories: 
 - music

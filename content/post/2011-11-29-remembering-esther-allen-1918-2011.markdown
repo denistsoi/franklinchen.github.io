@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Remembering Esther Allen (1918-2011)"
-date: 2011-11-29 21:28
+date: 2011-11-29T21:28:00
 comments: true
 categories:
 - Esther Allen

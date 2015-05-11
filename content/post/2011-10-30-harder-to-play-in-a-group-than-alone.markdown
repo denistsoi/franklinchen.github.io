@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Harder to play music in a group than alone"
-date: 2011-10-30 14:49
+date: 2011-10-30T14:49:00
 comments: true
 categories:
 - music

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Snowing means sambar at Coriander India Grill"
-date: 2012-02-26 12:10
+date: 2012-02-26T12:10:00
 comments: true
 categories:
 - Pittsburgh

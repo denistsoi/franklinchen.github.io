@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A short note on the use of chess opening books"
-date: 2012-11-28 22:45
+date: 2012-11-28T22:45:00
 comments: true
 external-url: 
 categories: 

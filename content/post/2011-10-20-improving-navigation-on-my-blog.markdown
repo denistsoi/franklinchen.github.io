@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Improving navigation on my blog"
-date: 2011-10-20 21:00
+date: 2011-10-20T21:00:00
 comments: true
 categories:
 - writing

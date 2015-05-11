@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "On duets with dead musicians"
-date: 2011-11-15 22:05
+date: 2011-11-15T22:05:00
 comments: true
 categories:
 - music

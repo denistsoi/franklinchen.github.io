@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Paradox? I will observe the National Day of Unplugging but just bought my first smartphone this week!"
-date: 2012-03-22 21:22
+date: 2012-03-22T21:22:00
 comments: true
 categories:
 - smartphone

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Quitting the CMU All-University Orchestra: one of the hardest decisions in my life"
-date: 2012-03-12 22:45
+date: 2012-03-12T22:45:00
 comments: true
 categories: 
 - music

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Flute progress report: day of reckoning approaches"
-date: 2012-02-14 20:47
+date: 2012-02-14T20:47:00
 comments: true
 categories:
 - music

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Reflections on 2011"
-date: 2011-12-31 18:52
+date: 2011-12-31T18:52:00
 comments: true
 categories:
 - paleo

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My Pittsburgh Ruby talk: \"nil: historical, theoretical, comparative, philosophical, and practical perspectives\""
-date: 2012-09-06 23:07
+date: 2012-09-06T23:07:00
 comments: true
 external-url: 
 categories: 

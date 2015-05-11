@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Round 3 of Pittsburgh Chess Club tournament: another approach against the Sicilian: squeezing with the Bind"
-date: 2012-09-19 07:46
+date: 2012-09-19T07:46:00
 comments: true
 categories: 
 - chess

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My first time singing bossa nova; also, a temporary farewell to Baroque flute"
-date: 2012-09-21 23:33
+date: 2012-09-21T23:33:00
 comments: true
 external-url: 
 categories: 

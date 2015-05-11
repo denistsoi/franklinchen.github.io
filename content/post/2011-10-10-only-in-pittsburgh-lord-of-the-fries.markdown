@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Only in Pittsburgh: Lord of the Fries"
-date: 2011-10-10 09:34
+date: 2011-10-10T09:34:00
 comments: true
 categories:
 - food

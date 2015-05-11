@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Chess Improver: Basic endgames teach how to tie together mathematics and logic"
-date: 2014-10-16 07:10:54 -0400
+date: 2014-10-16T07:10:54
 comments: true
 categories:
 - chess

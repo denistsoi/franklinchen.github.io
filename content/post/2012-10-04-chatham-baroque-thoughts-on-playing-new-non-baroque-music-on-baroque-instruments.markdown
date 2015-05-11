@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Chatham Baroque: thoughts on playing new non-Baroque music on Baroque instruments"
-date: 2012-10-04 23:21
+date: 2012-10-04T23:21:00
 comments: true
 categories: 
 - music

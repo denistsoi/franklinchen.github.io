@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Is brown rice healthy or not?"
-date: 2011-12-07 23:48
+date: 2011-12-07T23:48:00
 comments: true
 categories:
 - rice

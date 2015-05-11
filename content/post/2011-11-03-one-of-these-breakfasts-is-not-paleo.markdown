@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "One of these breakfasts is not paleo"
-date: 2011-11-03 22:33
+date: 2011-11-03T22:33:00
 comments: true
 categories:
 - paleo

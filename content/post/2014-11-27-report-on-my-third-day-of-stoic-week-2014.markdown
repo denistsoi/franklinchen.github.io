@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Report on my third day of Stoic Week 2014: self-discipline and Stoic simplicity"
-date: 2014-11-27 11:03:44 -0500
+date: 2014-11-27T11:03:44
 comments: true
 categories:
 - philosophy

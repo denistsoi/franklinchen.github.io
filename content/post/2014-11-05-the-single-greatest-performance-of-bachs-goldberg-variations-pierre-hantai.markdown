@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The single greatest performance of Bach's Goldberg Variations: Pierre Hantaï with rhythmic drive and life"
-date: 2014-11-05 22:32:07 -0500
+date: 2014-11-05T22:32:07
 comments: true
 categories:
 - music

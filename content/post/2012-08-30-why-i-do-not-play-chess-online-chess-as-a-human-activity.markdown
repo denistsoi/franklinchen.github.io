@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why I do not play chess online: chess as a human activity"
-date: 2012-08-30 01:19
+date: 2012-08-30T01:19:00
 comments: true
 categories:
 - chess

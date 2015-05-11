@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My first bobblehead doll: guess who?"
-date: 2012-09-20 09:30
+date: 2012-09-20T09:30:00
 comments: true
 categories: 
 - music

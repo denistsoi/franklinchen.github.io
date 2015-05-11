@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Is Constitution Day Constitutional?"
-date: 2012-09-18 11:01
+date: 2012-09-18T11:01:00
 comments: true
 categories:
 - Constitution

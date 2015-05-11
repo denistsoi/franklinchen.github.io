@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I'm going to perform music much sooner than I expected: Monday"
-date: 2011-12-01 23:19
+date: 2011-12-01T23:19:00
 comments: true
 categories:
 - music

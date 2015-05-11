@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I had no choice but to barefoot climb the Cathedral of Learning"
-date: 2013-01-04 18:28
+date: 2013-01-04T18:28:00
 comments: true
 external-url: 
 categories: 

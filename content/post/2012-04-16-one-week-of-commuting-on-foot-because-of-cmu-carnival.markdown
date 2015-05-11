@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "One week of commuting on foot because of CMU Carnival"
-date: 2012-04-16 19:57
+date: 2012-04-16T19:57:00
 comments: true
 categories: 
 - walking

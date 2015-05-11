@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Happiness Is: Finishing 39th of 43 Men in a Race!"
-date: 2011-09-23 19:31
+date: 2011-09-23T19:31:00
 comments: true
 categories:
 - running

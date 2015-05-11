@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Petrified at a music jam session so I didn't play but watched and listened"
-date: 2012-07-03 22:35
+date: 2012-07-03T22:35:00
 comments: true
 external-url: 
 categories: 

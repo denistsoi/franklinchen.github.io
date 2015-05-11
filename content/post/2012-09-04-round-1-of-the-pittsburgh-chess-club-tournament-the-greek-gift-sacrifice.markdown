@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Round 1 of the Pittsburgh Chess Club tournament: the Greek gift sacrifice"
-date: 2012-09-04 20:38
+date: 2012-09-04T20:38:00
 comments: true
 categories: 
 - chess

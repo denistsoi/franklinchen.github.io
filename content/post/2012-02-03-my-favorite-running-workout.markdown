@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My favorite running workout: the Billat workout"
-date: 2012-02-03 21:14
+date: 2012-02-03T21:14:00
 comments: true
 categories:
 - running

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I celebrated National Running Day in Schenley Park: remembering how I began to run 13 years ago"
-date: 2012-06-06 21:42
+date: 2012-06-06T21:42:00
 comments: true
 categories:
 - running

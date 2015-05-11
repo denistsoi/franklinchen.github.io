@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Reflections on Food Day"
-date: 2012-10-24 22:38
+date: 2012-10-24T22:38:00
 comments: true
 external-url: 
 categories: 

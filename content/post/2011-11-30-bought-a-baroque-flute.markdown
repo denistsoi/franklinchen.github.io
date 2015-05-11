@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bought a Baroque flute"
-date: 2011-11-30 21:06
+date: 2011-11-30T21:06:00
 comments: true
 categories:
 - flute

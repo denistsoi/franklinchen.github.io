@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Introducing a friend to the joys of trail running in Frick Park"
-date: 2012-10-13 23:14
+date: 2012-10-13T23:14:00
 comments: true
 external-url: 
 categories: 

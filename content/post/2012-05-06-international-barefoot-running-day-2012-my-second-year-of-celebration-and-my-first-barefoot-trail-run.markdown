@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "International Barefoot Running Day 2012: my second year of celebration and my first barefoot trail run"
-date: 2012-05-06 20:11
+date: 2012-05-06T20:11:00
 comments: true
 categories: 
 - running

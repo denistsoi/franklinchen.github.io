@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Round 4 of Pittsburgh Chess Club tournament: the agony of losing a won game against the difficult opponent"
-date: 2012-12-04 23:23
+date: 2012-12-04T23:23:00
 comments: true
 external-url: 
 categories: 

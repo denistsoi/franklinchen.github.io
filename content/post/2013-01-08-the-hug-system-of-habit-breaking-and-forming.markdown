@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The hug system of habit breaking and forming"
-date: 2013-01-08 12:25
+date: 2013-01-08T12:25:00
 comments: true
 external-url: 
 categories: 

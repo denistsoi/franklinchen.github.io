@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to respond if a child asks you a science question you don't know the answer to"
-date: 2012-01-19 22:28
+date: 2012-01-19T22:28:00
 comments: true
 categories: 
 - science

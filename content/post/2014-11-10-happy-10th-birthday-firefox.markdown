@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Happy 10th birthday Firefox! Thoughts on using Firefox, abandoning it, and returning to it again"
-date: 2014-11-10 20:09:02 -0500
+date: 2014-11-10T20:09:02
 comments: true
 categories:
 - Mozilla

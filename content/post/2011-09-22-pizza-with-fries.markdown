@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pizza With Fries"
-date: 2011-09-22 22:54
+date: 2011-09-22T22:54:00
 comments: true
 categories:
 - pizza

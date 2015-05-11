@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cooking the whole cauliflower including the leaves again"
-date: 2013-01-06 19:40
+date: 2013-01-06T19:40:00
 comments: true
 external-url: 
 categories: 

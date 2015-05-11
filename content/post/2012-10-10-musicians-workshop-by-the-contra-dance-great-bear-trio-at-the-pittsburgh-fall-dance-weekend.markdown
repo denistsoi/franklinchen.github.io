@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Musicians' workshop by the contra dance Great Bear Trio at the Pittsburgh Fall Dance Weekend"
-date: 2012-10-10 20:46
+date: 2012-10-10T20:46:00
 comments: true
 external-url: 
 categories: 

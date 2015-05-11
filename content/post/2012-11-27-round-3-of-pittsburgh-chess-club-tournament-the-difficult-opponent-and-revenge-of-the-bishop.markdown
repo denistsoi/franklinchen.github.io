@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Round 3 of Pittsburgh Chess Club tournament: the difficult opponent, and revenge of the Bishop"
-date: 2012-11-27 23:35
+date: 2012-11-27T23:35:00
 comments: true
 external-url: 
 categories: 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Apologies for the technical glitch"
-date: 2011-11-28 21:43
+date: 2011-11-28T21:43:00
 comments: true
 categories:
 ---

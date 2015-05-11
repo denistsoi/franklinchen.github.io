@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "East End Food Co-op Winterfest 2012"
-date: 2012-12-15 23:00
+date: 2012-12-15T23:00:00
 comments: true
 external-url: 
 categories: 

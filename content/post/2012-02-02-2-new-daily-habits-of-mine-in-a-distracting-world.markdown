@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "2 new daily habits of mine in a distracting world"
-date: 2012-02-02 09:02
+date: 2012-02-02T09:02:00
 comments: true
 categories:
 - meditation

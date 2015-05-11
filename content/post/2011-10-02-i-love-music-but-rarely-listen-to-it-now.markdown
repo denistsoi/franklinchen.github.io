@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I Love Music but Rarely Listen to It Now"
-date: 2011-10-02 17:15
+date: 2011-10-02T17:15:00
 comments: true
 categories:
 - music

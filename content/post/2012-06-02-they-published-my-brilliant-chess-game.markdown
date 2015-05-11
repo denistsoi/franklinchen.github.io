@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "They published my brilliant chess game, hinting it was not so original, but was it?"
-date: 2012-06-02 12:19
+date: 2012-06-02T12:19:00
 comments: true
 categories: 
 - chess

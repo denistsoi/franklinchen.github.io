@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Finding and using my childhood flute books"
-date: 2012-01-08 11:40
+date: 2012-01-08T11:40:00
 comments: true
 categories:
 - music

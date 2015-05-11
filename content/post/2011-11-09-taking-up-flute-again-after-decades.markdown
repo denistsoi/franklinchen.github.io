@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Taking up flute again after decades?!"
-date: 2011-11-09 20:08
+date: 2011-11-09T20:08:00
 comments: true
 categories:
 - music

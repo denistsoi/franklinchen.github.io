@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pittsburgh software developer communities"
-date: 2011-10-16 19:38
+date: 2011-10-16T19:38:00
 comments: true
 categories:
 - programming

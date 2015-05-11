@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Report on CMU Baroque Ensemble concert, with Stephen Schultz on Baroque flute"
-date: 2012-11-18 20:53
+date: 2012-11-18T20:53:00
 comments: true
 external-url: 
 categories: 

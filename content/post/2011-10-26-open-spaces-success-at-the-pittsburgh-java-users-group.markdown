@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Open Spaces success at the Pittsburgh Java User Group!"
-date: 2011-10-26 21:19
+date: 2011-10-26T21:19:00
 comments: true
 categories:
 - Pittsburgh

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Starting the 100 Up (exercise for running) 30-day challenge"
-date: 2012-01-09 23:32
+date: 2012-01-09T23:32:00
 comments: true
 categories: 
 - running

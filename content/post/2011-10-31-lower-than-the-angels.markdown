@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lower than the angels"
-date: 2011-10-31 22:00
+date: 2011-10-31T22:00:00
 comments: true
 categories:
 - poetry

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My second French music jam: playing my Irish flute in public for the first time"
-date: 2012-08-27 22:37
+date: 2012-08-27T22:37:00
 comments: true
 categories: 
 - music

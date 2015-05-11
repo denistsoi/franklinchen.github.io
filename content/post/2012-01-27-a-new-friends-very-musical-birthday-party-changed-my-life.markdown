@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A new friend's very musical birthday party changed my life"
-date: 2012-01-27 23:58
+date: 2012-01-27T23:58:00
 comments: true
 external-url: 
 categories: 

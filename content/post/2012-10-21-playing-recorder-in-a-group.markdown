@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Playing recorder in a group"
-date: 2012-10-21 19:23
+date: 2012-10-21T19:23:00
 comments: true
 external-url:
 categories:

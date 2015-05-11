@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why soda bans don't work"
-date: 2011-11-07 19:13
+date: 2011-11-07T19:13:00
 comments: true
 categories:
 - economics

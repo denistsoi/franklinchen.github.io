@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Check out the unsanitized first edition of the Grimms' fairy tales finally translated into English"
-date: 2014-11-20 23:11:02 -0500
+date: 2014-11-20T23:11:02
 comments: true
 categories:
 - literature

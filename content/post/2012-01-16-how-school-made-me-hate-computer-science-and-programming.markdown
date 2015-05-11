@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How school made me hate computer science and programming"
-date: 2012-01-16 19:57
+date: 2012-01-16T19:57:00
 comments: true
 categories:
 - computer science

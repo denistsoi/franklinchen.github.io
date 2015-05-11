@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Thoughts on Cuba while watching Cuban musicians performing the 1947 bolero \"La gloria eres tú\""
-date: 2014-12-13 21:01:47 -0500
+date: 2014-12-13T21:01:47
 comments: true
 categories:
 - music

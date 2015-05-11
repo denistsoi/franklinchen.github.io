@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lessons to learn from pianist Dejan Lazić's attempt to remove a critic's bad review"
-date: 2014-11-02 17:25:32 -0500
+date: 2014-11-02T17:25:32
 comments: true
 categories:
 - music

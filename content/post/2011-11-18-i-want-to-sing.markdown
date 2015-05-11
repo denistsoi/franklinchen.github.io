@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I want to sing"
-date: 2011-11-18 23:37
+date: 2011-11-18T23:37:00
 comments: true
 categories:
 - music

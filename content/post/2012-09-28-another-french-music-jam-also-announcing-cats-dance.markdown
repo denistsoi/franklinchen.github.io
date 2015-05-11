@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Another French music jam; also, announcing CATS Dance"
-date: 2012-09-28 20:55
+date: 2012-09-28T20:55:00
 comments: true
 external-url: 
 categories: 

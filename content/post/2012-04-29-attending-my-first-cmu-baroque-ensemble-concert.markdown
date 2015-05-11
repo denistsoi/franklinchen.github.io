@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Attending my first CMU Baroque Ensemble concert: enjoying Bach's Brandenburg 2"
-date: 2012-04-29 23:44
+date: 2012-04-29T23:44:00
 comments: true
 categories: 
 - music

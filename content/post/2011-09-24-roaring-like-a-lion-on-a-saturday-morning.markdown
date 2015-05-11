@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Roaring Like a Lion on a Saturday Morning"
-date: 2011-09-24 08:31
+date: 2011-09-24T08:31:00
 comments: true
 categories:
 - yoga

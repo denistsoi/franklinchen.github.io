@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why we decided to compile our own family cookbook"
-date: 2014-12-07 19:46:48 -0500
+date: 2014-12-07T19:46:48
 comments: true
 categories:
 - cooking

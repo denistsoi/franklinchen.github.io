@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Global Day of CodeRetreat: Pittsburgh"
-date: 2011-12-06 21:24
+date: 2011-12-06T21:24:00
 comments: true
 categories:
 - CSEdWeek

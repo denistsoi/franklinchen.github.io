@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why I am grateful that my father never let me win a chess game against him"
-date: 2012-06-03 20:59
+date: 2012-06-03T20:59:00
 comments: true
 categories:
 - childhood

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Joining an orchestra: learning in the face of terror"
-date: 2012-02-01 19:29
+date: 2012-02-01T19:29:00
 comments: true
 categories:
 - music

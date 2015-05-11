@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Final round of Pittsburgh Chess Club tournament: clawing back from a terrible position to draw and tie for first"
-date: 2012-10-09 23:58
+date: 2012-10-09T23:58:00
 comments: true
 external-url: 
 categories: 

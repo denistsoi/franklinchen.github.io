@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Singing and playing bossa nova favorite \"Chega de Saudade\" at Dunkin' Donuts for J-Jam"
-date: 2012-10-28 00:54
+date: 2012-10-28T00:54:00
 comments: true
 external-url: 
 categories: 

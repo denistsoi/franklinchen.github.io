@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The worst chess move I ever played: why did I do that?"
-date: 2012-09-26 23:04
+date: 2012-09-26T23:04:00
 comments: true
 categories: 
 - chess

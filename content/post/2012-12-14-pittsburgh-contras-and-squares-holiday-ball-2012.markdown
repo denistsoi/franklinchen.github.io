@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pittsburgh Contras and Squares Holiday Ball 2012"
-date: 2012-12-14 23:50
+date: 2012-12-14T23:50:00
 comments: true
 external-url: 
 categories: 

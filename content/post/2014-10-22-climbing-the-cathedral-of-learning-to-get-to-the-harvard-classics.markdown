@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Climbing the Cathedral of Learning to get to the Harvard Classics"
-date: 2014-10-22 23:12:24 -0400
+date: 2014-10-22T23:12:24
 comments: true
 categories:
 - exercise

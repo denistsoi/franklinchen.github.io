@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A totally exhausting Rachel Carson Trail Challenge goal training hike (18.1 miles"
-date: 2012-06-03 23:42
+date: 2012-06-03T23:42:00
 comments: true
 external-url: 
 categories:

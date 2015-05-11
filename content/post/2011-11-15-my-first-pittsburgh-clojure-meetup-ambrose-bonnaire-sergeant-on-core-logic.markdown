@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My first Pittsburgh Clojure Meetup: Ambrose Bonnaire-Sergeant on core.logic"
-date: 2011-11-15 23:12
+date: 2011-11-15T23:12:00
 comments: true
 categories:
 - programming

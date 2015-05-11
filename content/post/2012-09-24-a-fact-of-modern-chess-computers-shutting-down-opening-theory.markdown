@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A fact of modern chess: computers shutting down opening theory"
-date: 2012-09-24 23:17
+date: 2012-09-24T23:17:00
 comments: true
 external-url: 
 categories: 

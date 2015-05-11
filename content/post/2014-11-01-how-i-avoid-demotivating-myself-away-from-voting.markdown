@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How I avoid demotivating myself away from voting"
-date: 2014-11-01 22:11:10 -0400
+date: 2014-11-01T22:11:10
 comments: true
 categories:
 - politics

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A strange winter hike in Frick Park"
-date: 2012-02-06 22:29
+date: 2012-02-06T22:29:00
 comments: true
 categories:
 - hiking

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Some pretty attacking chess at a party last weekend"
-date: 2012-05-31 07:26
+date: 2012-05-31T07:26:00
 comments: true
 categories: 
 - chess

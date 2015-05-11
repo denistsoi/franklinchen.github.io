@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Latin jazz in Pittsburgh: Puro Queso"
-date: 2012-08-26 22:31
+date: 2012-08-26T22:31:00
 comments: true
 categories: 
 - Carnegie Library of Pittsburgh

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Walking the scenic route through Schenley Park to work"
-date: 2012-06-18 22:08
+date: 2012-06-18T22:08:00
 comments: true
 categories: 
 - walking

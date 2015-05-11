@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "I don't know if I should vote but I did"
-date: 2011-11-08 09:09
+date: 2011-11-08T09:09:00
 comments: true
 categories:
 - politics

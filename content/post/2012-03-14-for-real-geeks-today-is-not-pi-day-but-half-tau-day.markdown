@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "For real geeks, today is not Pi Day, but Half-Tau Day"
-date: 2012-03-14 18:52
+date: 2012-03-14T18:52:00
 comments: true
 categories: 
 - pi

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "When can you call yourself an expert at something?"
-date: 2012-02-24 20:47
+date: 2012-02-24T20:47:00
 comments: true
 categories:
 - learning

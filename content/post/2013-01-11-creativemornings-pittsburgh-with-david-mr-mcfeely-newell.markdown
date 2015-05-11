@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "CreativeMornings/Pittsburgh with David \"Mr. McFeely\" Newell"
-date: 2013-01-11 19:46
+date: 2013-01-11T19:46:00
 comments: true
 external-url:
 categories:

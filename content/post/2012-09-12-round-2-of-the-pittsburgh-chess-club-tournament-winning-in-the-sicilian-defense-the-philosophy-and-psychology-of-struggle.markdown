@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Round 2 of the Pittsburgh Chess Club tournament: winning in the Sicilian Defense; the philosophy and psychology of struggle"
-date: 2012-09-12 07:41
+date: 2012-09-12T07:41:00
 comments: true
 categories: 
 - chess

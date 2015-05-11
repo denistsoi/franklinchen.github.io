@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "SorryWatch: good and bad apologies"
-date: 2014-11-12 22:27:53 -0500
+date: 2014-11-12T22:27:53
 comments: true
 categories:
 - psychology

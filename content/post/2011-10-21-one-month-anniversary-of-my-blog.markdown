@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "One month anniversary of my blog"
-date: 2011-10-21 22:30
+date: 2011-10-21T22:30:00
 comments: true
 categories:
 - writing

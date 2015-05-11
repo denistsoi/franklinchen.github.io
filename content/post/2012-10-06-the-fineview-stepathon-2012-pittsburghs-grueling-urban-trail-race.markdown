@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Fineview Stepathon 2012: Pittsburgh's grueling urban trail race"
-date: 2012-10-06 23:07
+date: 2012-10-06T23:07:00
 comments: true
 external-url:
 categories: 

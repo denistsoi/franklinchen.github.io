@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Excited by the new season of the Pittsburgh Recorder Society"
-date: 2012-09-16 20:04
+date: 2012-09-16T20:04:00
 comments: true
 categories:
 - music

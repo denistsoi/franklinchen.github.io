@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A Musician's Best Friend"
-date: 2011-09-29 21:07
+date: 2011-09-29T21:07:00
 comments: true
 categories:
 - music

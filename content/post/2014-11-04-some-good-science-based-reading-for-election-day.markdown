@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Some good science-based reading for Election Day, whether or not you voted"
-date: 2014-11-04 15:41:25 -0500
+date: 2014-11-04T15:41:25
 comments: true
 categories:
 - politics

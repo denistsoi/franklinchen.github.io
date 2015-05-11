@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Success Always Starts With Failure"
-date: 2011-10-09 20:26
+date: 2011-10-09T20:26:00
 comments: true
 categories:
 - books

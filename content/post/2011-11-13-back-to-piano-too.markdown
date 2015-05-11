@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Back to piano too"
-date: 2011-11-13 20:14
+date: 2011-11-13T20:14:00
 comments: true
 categories:
 - music

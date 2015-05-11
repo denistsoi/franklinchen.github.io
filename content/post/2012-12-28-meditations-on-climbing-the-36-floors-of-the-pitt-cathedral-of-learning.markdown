@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Meditations on climbing the 36 floors of the Pitt Cathedral of Learning"
-date: 2012-12-28 18:39
+date: 2012-12-28T18:39:00
 comments: true
 external-url: 
 categories: 

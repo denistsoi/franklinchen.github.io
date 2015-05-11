@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "PodCamp Pittsburgh 7: review"
-date: 2012-10-28 16:30
+date: 2012-10-28T16:30:00
 comments: true
 external-url: 
 categories: 

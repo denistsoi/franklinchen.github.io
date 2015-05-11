@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "On re-experiencing VHS tapes again"
-date: 2014-11-16 21:27:49 -0500
+date: 2014-11-16T21:27:49
 comments: true
 categories:
 - VHS

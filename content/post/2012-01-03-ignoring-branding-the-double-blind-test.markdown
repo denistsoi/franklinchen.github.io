@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ignoring branding: the double-blind test"
-date: 2012-01-03 06:49
+date: 2012-01-03T06:49:00
 comments: true
 categories: 
 - psychology

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My end-of-summer vegetable medley recipe"
-date: 2012-09-17 08:41
+date: 2012-09-17T08:41:00
 comments: true
 categories: 
 - food

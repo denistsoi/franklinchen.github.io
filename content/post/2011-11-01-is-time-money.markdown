@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Is time money?"
-date: 2011-11-01 21:52
+date: 2011-11-01T21:52:00
 comments: true
 categories:
 - time management

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "When I don't have time to sit and breathe, something is wrong with my life"
-date: 2012-12-30 16:35
+date: 2012-12-30T16:35:00
 comments: true
 external-url: 
 categories: 

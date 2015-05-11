@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Got my new and more ergonomic flute"
-date: 2012-05-18 00:29
+date: 2012-05-18T00:29:00
 comments: true
 categories:
 - music

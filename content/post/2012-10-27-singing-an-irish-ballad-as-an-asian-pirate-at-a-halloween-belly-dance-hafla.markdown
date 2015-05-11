@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Singing an Irish ballad as an Asian pirate at a Halloween belly dance Hafla"
-date: 2012-10-27 23:02
+date: 2012-10-27T23:02:00
 comments: true
 external-url: 
 categories: 

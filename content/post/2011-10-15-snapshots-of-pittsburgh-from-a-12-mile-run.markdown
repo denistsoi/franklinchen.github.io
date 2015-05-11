@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Snapshots of Pittsburgh From a 12-mile Run"
-date: 2011-10-15 19:58
+date: 2011-10-15T19:58:00
 comments: true
 categories:
 - running

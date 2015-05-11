@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Flute: taking a break while clarifying my goals"
-date: 2012-03-07 21:41
+date: 2012-03-07T21:41:00
 comments: true
 categories:
 - music

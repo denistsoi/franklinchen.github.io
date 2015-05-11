@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why I am not reading the biography of Steve Jobs"
-date: 2011-10-27 20:34
+date: 2011-10-27T20:34:00
 comments: true
 categories:
 - Steve Jobs

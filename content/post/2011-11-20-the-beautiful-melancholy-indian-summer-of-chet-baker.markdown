@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The beautiful, melancholy Indian Summer of Chet Baker"
-date: 2011-11-20 20:25
+date: 2011-11-20T20:25:00
 comments: true
 categories:
 - music

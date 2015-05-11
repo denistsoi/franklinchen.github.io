@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Report on my sixth day of Stoic Week 2014: preparing for adversity"
-date: 2014-11-29 18:37:25 -0500
+date: 2014-11-29T18:37:25
 comments: true
 categories:
 - philosophy

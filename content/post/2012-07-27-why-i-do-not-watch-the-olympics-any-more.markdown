@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Ignoring London 2012: why I do not watch the Olympics any more"
-date: 2012-07-27 22:17
+date: 2012-07-27T22:17:00
 comments: true
 categories: 
 - Olympics

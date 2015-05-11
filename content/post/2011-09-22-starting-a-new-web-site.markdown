@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Starting a New Web Site"
-date: 2011-09-22 01:25
+date: 2011-09-22T01:25:00
 comments: true
 categories:
 - new

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My first appearance on a music recital program"
-date: 2012-07-28 23:41
+date: 2012-07-28T23:41:00
 comments: true
 categories: 
 - music

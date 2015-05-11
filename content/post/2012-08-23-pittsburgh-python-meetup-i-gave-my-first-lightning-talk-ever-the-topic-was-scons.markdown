@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pittsburgh Python meetup: I gave my first lightning talk ever; the topic was SCons"
-date: 2012-08-23 21:53
+date: 2012-08-23T21:53:00
 comments: true
 categories: 
 - Python

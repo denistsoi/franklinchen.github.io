@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Byron Janis on Overcoming Adversity"
-date: 2011-09-22 20:57
+date: 2011-09-22T20:57:00
 comments: true
 categories:
 - music

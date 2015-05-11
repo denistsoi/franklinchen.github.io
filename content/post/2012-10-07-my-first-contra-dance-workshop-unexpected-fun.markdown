@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My first contra dance workshop: unexpected fun!"
-date: 2012-10-07 21:19
+date: 2012-10-07T21:19:00
 comments: true
 categories: 
 - dance

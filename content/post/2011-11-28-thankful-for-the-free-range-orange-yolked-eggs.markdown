@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Thankful for the free-range orange-yolked eggs"
-date: 2011-11-28 20:35
+date: 2011-11-28T20:35:00
 comments: true
 categories:
 - eggs

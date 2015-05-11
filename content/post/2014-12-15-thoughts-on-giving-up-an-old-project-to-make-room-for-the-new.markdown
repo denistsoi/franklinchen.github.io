@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Thoughts on giving up an old project to make room for the new"
-date: 2014-12-15 20:10:34 -0500
+date: 2014-12-15T20:10:34
 comments: true
 categories:
 - chess

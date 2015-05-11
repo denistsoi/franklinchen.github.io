@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Singing Through Traffic"
-date: 2011-10-06 20:57
+date: 2011-10-06T20:57:00
 comments: true
 categories:
 - music

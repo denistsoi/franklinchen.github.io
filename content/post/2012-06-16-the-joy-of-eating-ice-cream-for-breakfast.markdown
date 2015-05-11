@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Joy of Eating Ice Cream for Breakfast"
-date: 2012-06-16 19:27
+date: 2012-06-16T19:27:00
 comments: true
 categories: 
 - ice cream

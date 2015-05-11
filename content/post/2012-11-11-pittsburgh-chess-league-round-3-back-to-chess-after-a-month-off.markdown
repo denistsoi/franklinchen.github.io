@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pittsburgh Chess League Round 3: back to chess after a month off"
-date: 2012-11-11 23:24
+date: 2012-11-11T23:24:00
 comments: true
 external-url: 
 categories: 

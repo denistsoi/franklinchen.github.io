@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My PowerBook 145B"
-date: 2011-11-14 20:51
+date: 2011-11-14T20:51:00
 comments: true
 categories:
 - Macintosh

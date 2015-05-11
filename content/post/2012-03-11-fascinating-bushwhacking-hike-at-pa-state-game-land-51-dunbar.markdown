@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Fascinating bushwhacking hike at PA State Game Land 51 (Dunbar)"
-date: 2012-03-11 22:34
+date: 2012-03-11T22:34:00
 comments: true
 categories:
 - hiking

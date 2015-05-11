@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The start of a local Haskell study group"
-date: 2012-11-05 09:23
+date: 2012-11-05T09:23:00
 comments: true
 external-url: 
 categories: 

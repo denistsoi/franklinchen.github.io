@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Happy Thanksgiving and a call to action"
-date: 2011-11-24 10:38
+date: 2011-11-24T10:38:00
 comments: true
 categories:
 - Thanksgiving

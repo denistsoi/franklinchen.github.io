@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Round 1 of Pittsburgh Chess Club tournament: revenge of the Knight"
-date: 2012-11-13 23:07
+date: 2012-11-13T23:07:00
 comments: true
 external-url: 
 categories: 

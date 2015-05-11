@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Enjoying more French dancing in Pittsburgh"
-date: 2012-02-20 01:03
+date: 2012-02-20T01:03:00
 comments: true
 categories:
 - Pittsburgh

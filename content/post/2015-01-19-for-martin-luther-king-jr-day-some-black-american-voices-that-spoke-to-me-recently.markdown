@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "For Martin Luther King, Jr. Day: some black American voices that spoke to me recently"
-date: 2015-01-19 20:58:34 -0500
+date: 2015-01-19T20:58:34
 comments: true
 categories:
 - Martin Luther King, Jr.

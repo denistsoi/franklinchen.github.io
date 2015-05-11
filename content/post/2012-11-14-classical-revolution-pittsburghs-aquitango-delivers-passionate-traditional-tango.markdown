@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Classical Revolution: Pittsburgh's AquiTango delivers passionate traditional tango"
-date: 2012-11-14 20:48
+date: 2012-11-14T20:48:00
 comments: true
 external-url: 
 categories: 

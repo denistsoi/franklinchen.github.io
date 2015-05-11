@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Every day is Thanksgiving"
-date: 2011-11-23 23:00
+date: 2011-11-23T23:00:00
 comments: true
 categories:
 - Thanksgiving

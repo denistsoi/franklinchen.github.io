@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Report on my fourth day of Stoic Week 2014: virtue and relationships with others"
-date: 2014-11-27 21:47:45 -0500
+date: 2014-11-27T21:47:45
 comments: true
 categories:
 - philosophy

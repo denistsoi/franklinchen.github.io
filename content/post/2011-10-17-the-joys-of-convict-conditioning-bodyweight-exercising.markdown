@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Joys of Convict Conditioning: Bodyweight Exercising"
-date: 2011-10-17 21:31
+date: 2011-10-17T21:31:00
 comments: true
 categories:
 - exercise

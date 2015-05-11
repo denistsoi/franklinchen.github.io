@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Heinz Hall Memories: at the Pittsburgh Symphony, being shocked out of my mind upon experiencing Prokofiev's second piano concerto for the first time; also, a note on human memory"
-date: 2012-06-08 21:01
+date: 2012-06-08T21:01:00
 comments: true
 categories: 
 - music

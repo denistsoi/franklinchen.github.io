@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "World Toilet Day is not just another crappy holiday"
-date: 2014-11-19 23:41:34 -0500
+date: 2014-11-19T23:41:34
 comments: true
 categories:
 - economics

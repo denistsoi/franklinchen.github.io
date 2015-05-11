@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Obama is speaking outside my office window, so why did I stay home?"
-date: 2012-07-06 13:00
+date: 2012-07-06T13:00:00
 comments: true
 categories: 
 - Obama

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My first French music jam: anxious but excited"
-date: 2012-07-02 23:45
+date: 2012-07-02T23:45:00
 comments: true
 categories: 
 - music

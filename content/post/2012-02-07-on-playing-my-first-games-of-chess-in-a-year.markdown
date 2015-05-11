@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "On playing my first games of chess in a year"
-date: 2012-02-07 22:46
+date: 2012-02-07T22:46:00
 comments: true
 categories:
 - chess

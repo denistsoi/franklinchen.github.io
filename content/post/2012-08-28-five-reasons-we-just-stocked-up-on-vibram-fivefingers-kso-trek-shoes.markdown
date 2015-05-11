@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Five reasons we just stocked up on Vibram FiveFingers KSO Trek shoes"
-date: 2012-08-28 19:47
+date: 2012-08-28T19:47:00
 comments: true
 categories: 
 - shoes

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The joy and challenge of making beautiful sounds together"
-date: 2012-03-18 22:38
+date: 2012-03-18T22:38:00
 comments: true
 categories:
 - music

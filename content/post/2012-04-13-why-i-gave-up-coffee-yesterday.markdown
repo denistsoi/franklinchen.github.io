@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Why I Gave Up Coffee Yesterday"
-date: 2012-04-13 08:09
+date: 2012-04-13T08:09:00
 comments: true
 categories:
 - coffee

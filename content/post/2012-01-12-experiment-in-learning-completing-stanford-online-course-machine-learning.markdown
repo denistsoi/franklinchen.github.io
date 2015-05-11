@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Experiment in learning: completing Stanford online course: Machine Learning"
-date: 2012-01-12 23:54
+date: 2012-01-12T23:54:00
 comments: true
 categories:
 - learning
