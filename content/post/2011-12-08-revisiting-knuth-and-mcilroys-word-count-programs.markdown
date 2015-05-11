@@ -67,7 +67,7 @@ Here is my Haskell program, in two variants. The first is a standard source code
 
 I used [GHC](http://www.haskell.org/ghc/) to compile and run the program.  Sample output:
 
-``` console
+{{< highlight console >}}
 $ ghc -O6 --make WordCount
 $ ./WordCount 10 < WordCount.lhs 
 35 the
@@ -80,7 +80,7 @@ $ ./WordCount 10 < WordCount.lhs
 8 map
 8 count
 7 string
-```
+{{< /highlight >}}
 
 Apart from missing leading spaces, this is the same output as from McIlroy's shell script.
 

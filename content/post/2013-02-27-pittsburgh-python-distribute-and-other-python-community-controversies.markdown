@@ -52,17 +52,17 @@ The most interesting thing about Kenneth Reitz's recommendations was that he adv
 
 I don't really like his `tests/context.py` system of imports, as it is too dynamic in chasing down imports, and therefore may not play well by default with standard tools:
 
-``` python
+{{< highlight python >}}
 import os
 import sys
 sys.path.insert(0, os.path.abspath(‘..’))
 
 import sample
-```
+{{< /highlight >}}
 
-``` python
+{{< highlight python >}}
 from .context import sample
-```
+{{< /highlight >}}
 
 That said, I decided to give his recommendations a shot.
 

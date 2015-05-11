@@ -78,9 +78,9 @@ The bug came today as I was processing this week's case [11-9953](http://www.sup
 
 I got an error message when my pre-processing phase exited after an error while running the script `find-bad-ids.pl`:
 
-``` console
+{{< highlight console >}}
 THOMAS not found
-```
+{{< /highlight >}}
 
 I was confused. I looked at the transcript and saw:
 
@@ -104,7 +104,7 @@ JUSTICE SOTOMAYOR: Counsel, do you want to define constitutionally adequate coun
 
 I was confused about why my script would not recognized Justice Thomas. I looked at the Perl source code, saw where I initialized a table of Justice names, and saw:
 
-``` perl
+{{< highlight perl >}}
 use String::Approx 'amatch';
 
 $lastNames{REHNQUIST} = -1;
@@ -119,13 +119,13 @@ $lastNames{STEVENS} = -1;
         warn "$path:$.: $lastName not found\n";
       }
     }
-```
+{{< /highlight >}}
 
 I had simply forgotten seven years ago to put into the table initialization the following code:
 
-``` perl
+{{< highlight perl >}}
 $lastNames{THOMAS} = -1;
-```
+{{< /highlight >}}
 
 And this bug had lain undiscovered for seven years because [Justice Thomas has not spoken in seven years](http://www.washingtonpost.com/politics/clarence-thomas-breaks-long-silence-during-supreme-court-oral-arguments/2013/01/14/a7c6023c-5e7a-11e2-9940-6fc488f3fecd_story.html)!
 

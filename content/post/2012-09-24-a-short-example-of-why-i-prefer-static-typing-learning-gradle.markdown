@@ -71,7 +71,7 @@ task gradleBuild << {
 
 Unfortunately, this Gradle build file, when executed under the current version of Gradle, dies with an error:
 
-``` console
+{{< highlight console >}}
 $ ./run-example.bsh 
 :gradleBuild
 The repositories bridged from Ant to Gradle are:
@@ -95,7 +95,7 @@ Execution failed for task ':gradleBuild'.
 Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output.
 
 BUILD FAILED
-```
+{{< /highlight >}}
 
 After much searching online, I still could not figure out what properties are supposed to be available from `repositories.localRepository3`. I looked at the [Gradle documentation](http://www.gradle.org/docs/current/javadoc/overview-tree.html), and I looked up the package [`org.gradle.api.internal.artifacts.repositories`](http://www.gradle.org/docs/current/javadoc/org/gradle/api/artifacts/repositories/package-tree.html) without success.
 
