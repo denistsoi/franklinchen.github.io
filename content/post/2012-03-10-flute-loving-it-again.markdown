@@ -2,6 +2,8 @@
 layout: post
 title: "Flute: loving it again, remembering why I dance, and how I met my wife!"
 date: 2012-03-10T21:28:00
+disqus_identifier: "http://franklinchen.com/blog/2012/03/10/flute-loving-it-again/"
+disqus_url: "http://franklinchen.com/blog/2012/03/10/flute-loving-it-again/"
 url: "blog/2012/03/10/flute-loving-it-again/"
 comments: true
 categories: 

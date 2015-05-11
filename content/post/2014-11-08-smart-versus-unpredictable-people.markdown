@@ -2,6 +2,8 @@
 layout: post
 title: "Smart versus unpredictable people: whom do you prefer?"
 date: 2014-11-08T11:10:13
+disqus_identifier: "http://franklinchen.com/blog/2014/11/08/smart-versus-unpredictable-people/"
+disqus_url: "http://franklinchen.com/blog/2014/11/08/smart-versus-unpredictable-people/"
 url: "blog/2014/11/08/smart-versus-unpredictable-people/"
 comments: true
 categories:

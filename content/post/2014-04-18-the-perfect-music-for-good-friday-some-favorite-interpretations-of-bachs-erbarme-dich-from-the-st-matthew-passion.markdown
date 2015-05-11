@@ -2,6 +2,8 @@
 layout: post
 title: "The perfect music for Good Friday: some favorite interpretations of Bach's \"Erbarme dich\" from the St. Matthew Passion"
 date: 2014-04-18T07:38:07-04:00
+disqus_identifier: "http://franklinchen.com/blog/2014/04/18/the-perfect-music-for-good-friday-some-favorite-interpretations-of-bachs-erbarme-dich-from-the-st-matthew-passion/"
+disqus_url: "http://franklinchen.com/blog/2014/04/18/the-perfect-music-for-good-friday-some-favorite-interpretations-of-bachs-erbarme-dich-from-the-st-matthew-passion/"
 url: "blog/2014/04/18/the-perfect-music-for-good-friday-some-favorite-interpretations-of-bachs-erbarme-dich-from-the-st-matthew-passion/"
 comments: true
 external-url: 

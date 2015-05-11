@@ -2,6 +2,8 @@
 layout: post
 title: "Reflections on Richard Wagner's 200th birthday: beautiful music without a future"
 date: 2013-05-22T08:14:55-04:00
+disqus_identifier: "http://franklinchen.com/blog/2013/05/22/reflections-on-richard-wagners-200th-birthday/"
+disqus_url: "http://franklinchen.com/blog/2013/05/22/reflections-on-richard-wagners-200th-birthday/"
 url: "blog/2013/05/22/reflections-on-richard-wagners-200th-birthday/"
 comments: true
 external-url:

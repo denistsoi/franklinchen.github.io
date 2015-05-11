@@ -2,6 +2,8 @@
 layout: post
 title: "Thoughts on returning to ukulele after almost two months off: returning to piano was the reason"
 date: 2014-03-05T21:32:59-05:00
+disqus_identifier: "http://franklinchen.com/blog/2014/03/05/thoughts-on-returning-to-ukulele-after-almost-two-months-off/"
+disqus_url: "http://franklinchen.com/blog/2014/03/05/thoughts-on-returning-to-ukulele-after-almost-two-months-off/"
 url: "blog/2014/03/05/thoughts-on-returning-to-ukulele-after-almost-two-months-off/"
 comments: true
 external-url: 

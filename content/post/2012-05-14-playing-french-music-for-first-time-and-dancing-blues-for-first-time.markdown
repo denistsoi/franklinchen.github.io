@@ -2,6 +2,8 @@
 layout: post
 title: "Playing French music for the first time, and dancing blues for the first time"
 date: 2012-05-14T23:44:00
+disqus_identifier: "http://franklinchen.com/blog/2012/05/14/playing-french-music-for-first-time-and-dancing-blues-for-first-time/"
+disqus_url: "http://franklinchen.com/blog/2012/05/14/playing-french-music-for-first-time-and-dancing-blues-for-first-time/"
 url: "blog/2012/05/14/playing-french-music-for-first-time-and-dancing-blues-for-first-time/"
 comments: true
 categories: 

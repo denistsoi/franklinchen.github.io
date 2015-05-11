@@ -2,6 +2,8 @@
 layout: post
 title: "The single greatest performance of Bach's Goldberg Variations: Pierre Hantaï with rhythmic drive and life"
 date: 2014-11-05T22:32:07
+disqus_identifier: "http://franklinchen.com/blog/2014/11/05/the-single-greatest-performance-of-bachs-goldberg-variations-pierre-hantai/"
+disqus_url: "http://franklinchen.com/blog/2014/11/05/the-single-greatest-performance-of-bachs-goldberg-variations-pierre-hantai/"
 url: "blog/2014/11/05/the-single-greatest-performance-of-bachs-goldberg-variations-pierre-hantai/"
 comments: true
 categories:

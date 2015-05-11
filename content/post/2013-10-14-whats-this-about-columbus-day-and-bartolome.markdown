@@ -2,6 +2,8 @@
 layout: post
 title: "What's this about \"Columbus Day\" and Bartolomé?"
 date: 2013-10-14T19:24:50-04:00
+disqus_identifier: "http://franklinchen.com/blog/2013/10/14/whats-this-about-columbus-day-and-bartolome/"
+disqus_url: "http://franklinchen.com/blog/2013/10/14/whats-this-about-columbus-day-and-bartolome/"
 url: "blog/2013/10/14/whats-this-about-columbus-day-and-bartolome/"
 comments: true
 external-url: 

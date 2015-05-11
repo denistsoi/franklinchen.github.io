@@ -2,6 +2,8 @@
 layout: post
 title: "Review of edX 8.01x: Jazz Appreciation"
 date: 2014-04-04T22:13:47-04:00
+disqus_identifier: "http://franklinchen.com/blog/2014/04/04/review-of-edx-8-dot-01x-jazz-appreciation/"
+disqus_url: "http://franklinchen.com/blog/2014/04/04/review-of-edx-8-dot-01x-jazz-appreciation/"
 url: "blog/2014/04/04/review-of-edx-8-dot-01x-jazz-appreciation/"
 comments: true
 external-url:

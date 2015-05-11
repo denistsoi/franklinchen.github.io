@@ -2,6 +2,8 @@
 layout: post
 title: "Thoughts on Cuba while watching Cuban musicians performing the 1947 bolero \"La gloria eres tú\""
 date: 2014-12-13T21:01:47
+disqus_identifier: "http://franklinchen.com/blog/2014/12/13/thoughts-on-cuba-while-watching-cuban-musicians-performing-the-1947-bolero-la-gloria-eres-tu/"
+disqus_url: "http://franklinchen.com/blog/2014/12/13/thoughts-on-cuba-while-watching-cuban-musicians-performing-the-1947-bolero-la-gloria-eres-tu/"
 url: "blog/2014/12/13/thoughts-on-cuba-while-watching-cuban-musicians-performing-the-1947-bolero-la-gloria-eres-tu/"
 comments: true
 categories:

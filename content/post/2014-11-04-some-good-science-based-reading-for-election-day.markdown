@@ -2,6 +2,8 @@
 layout: post
 title: "Some good science-based reading for Election Day, whether or not you voted"
 date: 2014-11-04T15:41:25
+disqus_identifier: "http://franklinchen.com/blog/2014/11/04/some-good-science-based-reading-for-election-day/"
+disqus_url: "http://franklinchen.com/blog/2014/11/04/some-good-science-based-reading-for-election-day/"
 url: "blog/2014/11/04/some-good-science-based-reading-for-election-day/"
 comments: true
 categories:

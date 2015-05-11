@@ -2,6 +2,8 @@
 layout: post
 title: "RIP Charles Rosen, pianist and scholar"
 date: 2012-12-10T22:07:00
+disqus_identifier: "http://franklinchen.com/blog/2012/12/10/rip-charles-rosen/"
+disqus_url: "http://franklinchen.com/blog/2012/12/10/rip-charles-rosen/"
 url: "blog/2012/12/10/rip-charles-rosen/"
 comments: true
 external-url: 

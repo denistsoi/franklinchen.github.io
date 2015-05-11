@@ -2,6 +2,8 @@
 layout: post
 title: "RIP, Eydie Gormé"
 date: 2013-08-10T23:08:41-04:00
+disqus_identifier: "http://franklinchen.com/blog/2013/08/10/rip-eydie/"
+disqus_url: "http://franklinchen.com/blog/2013/08/10/rip-eydie/"
 url: "blog/2013/08/10/rip-eydie/"
 comments: true
 external-url: 

@@ -2,6 +2,8 @@
 layout: post
 title: "Finally doing some Latin music jamming on flute; also Irish and French"
 date: 2013-03-17T23:36:00-04:00
+disqus_identifier: "http://franklinchen.com/blog/2013/03/17/finally-doing-some-latin-music-jamming-on-flute/"
+disqus_url: "http://franklinchen.com/blog/2013/03/17/finally-doing-some-latin-music-jamming-on-flute/"
 url: "blog/2013/03/17/finally-doing-some-latin-music-jamming-on-flute/"
 comments: true
 external-url: 

@@ -2,6 +2,8 @@
 layout: post
 title: "Improving my breakfast and other meals: a paleo progress report"
 date: 2012-01-26T09:40:00
+disqus_identifier: "http://franklinchen.com/blog/2012/01/26/improving-my-breakfast-and-other-meals/"
+disqus_url: "http://franklinchen.com/blog/2012/01/26/improving-my-breakfast-and-other-meals/"
 url: "blog/2012/01/26/improving-my-breakfast-and-other-meals/"
 comments: true
 categories:

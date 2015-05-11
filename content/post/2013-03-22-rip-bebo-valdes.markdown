@@ -2,6 +2,8 @@
 layout: post
 title: "RIP Bebo Valdés, master pianist of Cuban music"
 date: 2013-03-22T20:08:56-04:00
+disqus_identifier: "http://franklinchen.com/blog/2013/03/22/rip-bebo-valdes/"
+disqus_url: "http://franklinchen.com/blog/2013/03/22/rip-bebo-valdes/"
 url: "blog/2013/03/22/rip-bebo-valdes/"
 comments: true
 external-url:

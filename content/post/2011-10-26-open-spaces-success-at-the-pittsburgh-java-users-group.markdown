@@ -2,6 +2,8 @@
 layout: post
 title: "Open Spaces success at the Pittsburgh Java User Group!"
 date: 2011-10-26T21:19:00
+disqus_identifier: "http://franklinchen.com/blog/2011/10/26/open-spaces-success-at-the-pittsburgh-java-users-group/"
+disqus_url: "http://franklinchen.com/blog/2011/10/26/open-spaces-success-at-the-pittsburgh-java-users-group/"
 url: "blog/2011/10/26/open-spaces-success-at-the-pittsburgh-java-users-group/"
 comments: true
 categories:

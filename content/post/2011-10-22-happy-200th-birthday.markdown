@@ -2,6 +2,8 @@
 layout: post
 title: "Happy 200th birthday, Franz Liszt!"
 date: 2011-10-22T22:08:00
+disqus_identifier: "http://franklinchen.com/blog/2011/10/22/happy-200th-birthday/"
+disqus_url: "http://franklinchen.com/blog/2011/10/22/happy-200th-birthday/"
 url: "blog/2011/10/22/happy-200th-birthday/"
 comments: true
 categories:

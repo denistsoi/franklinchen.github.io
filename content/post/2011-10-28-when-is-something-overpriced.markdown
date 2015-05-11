@@ -2,6 +2,8 @@
 layout: post
 title: "When is something overpriced? 36 examples"
 date: 2011-10-28T20:44:00
+disqus_identifier: "http://franklinchen.com/blog/2011/10/28/when-is-something-overpriced/"
+disqus_url: "http://franklinchen.com/blog/2011/10/28/when-is-something-overpriced/"
 url: "blog/2011/10/28/when-is-something-overpriced/"
 comments: true
 categories:

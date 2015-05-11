@@ -2,6 +2,8 @@
 layout: post
 title: "The inaugural Liberty Mile: a review of Pittsburgh's first road mile race, a great community event"
 date: 2012-08-17T21:44:00
+disqus_identifier: "http://franklinchen.com/blog/2012/08/17/the-inaugural-liberty-mile-a-review-of-pittsburghs-first-road-mile-race/"
+disqus_url: "http://franklinchen.com/blog/2012/08/17/the-inaugural-liberty-mile-a-review-of-pittsburghs-first-road-mile-race/"
 url: "blog/2012/08/17/the-inaugural-liberty-mile-a-review-of-pittsburghs-first-road-mile-race/"
 comments: true
 categories: 

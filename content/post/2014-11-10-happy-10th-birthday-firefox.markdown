@@ -2,6 +2,8 @@
 layout: post
 title: "Happy 10th birthday Firefox! Thoughts on using Firefox, abandoning it, and returning to it again"
 date: 2014-11-10T20:09:02
+disqus_identifier: "http://franklinchen.com/blog/2014/11/10/happy-10th-birthday-firefox/"
+disqus_url: "http://franklinchen.com/blog/2014/11/10/happy-10th-birthday-firefox/"
 url: "blog/2014/11/10/happy-10th-birthday-firefox/"
 comments: true
 categories:

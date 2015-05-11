@@ -2,6 +2,8 @@
 layout: post
 title: "Finally making rhubarb tasty to myself: flour-less rhubarb crisp"
 date: 2014-06-09T18:15:32-04:00
+disqus_identifier: "http://franklinchen.com/blog/2014/06/09/finally-making-rhubarb-tasty-to-myself/"
+disqus_url: "http://franklinchen.com/blog/2014/06/09/finally-making-rhubarb-tasty-to-myself/"
 url: "blog/2014/06/09/finally-making-rhubarb-tasty-to-myself/"
 comments: true
 external-url: 

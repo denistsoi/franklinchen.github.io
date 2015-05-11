@@ -2,6 +2,8 @@
 layout: post
 title: "Flute progress after one month in orchestra: still hanging in there"
 date: 2012-02-22T20:19:00
+disqus_identifier: "http://franklinchen.com/blog/2012/02/22/flute-progress-still-hanging-in-there/"
+disqus_url: "http://franklinchen.com/blog/2012/02/22/flute-progress-still-hanging-in-there/"
 url: "blog/2012/02/22/flute-progress-still-hanging-in-there/"
 comments: true
 categories:

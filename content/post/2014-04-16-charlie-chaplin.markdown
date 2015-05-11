@@ -2,6 +2,8 @@
 layout: post
 title: "Charlie Chaplin, a daughter, a granddaughter: changing my perception of \"Smile\""
 date: 2014-04-16T22:01:39-04:00
+disqus_identifier: "http://franklinchen.com/blog/2014/04/16/charlie-chaplin/"
+disqus_url: "http://franklinchen.com/blog/2014/04/16/charlie-chaplin/"
 url: "blog/2014/04/16/charlie-chaplin/"
 comments: true
 external-url: 

@@ -2,6 +2,8 @@
 layout: post
 title: "Happy New Year with a Boyce-Mayview Park hike: wetlands, creeks, beavers, woodpeckers, waterfalls..."
 date: 2014-01-01T19:57:07-05:00
+disqus_identifier: "http://franklinchen.com/blog/2014/01/01/happy-new-year-with-a-boyce-mayview-park-hike-wetlands/"
+disqus_url: "http://franklinchen.com/blog/2014/01/01/happy-new-year-with-a-boyce-mayview-park-hike-wetlands/"
 url: "blog/2014/01/01/happy-new-year-with-a-boyce-mayview-park-hike-wetlands/"
 comments: true
 external-url: 

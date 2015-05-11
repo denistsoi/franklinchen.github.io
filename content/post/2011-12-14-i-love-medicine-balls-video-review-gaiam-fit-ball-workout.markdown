@@ -2,6 +2,8 @@
 layout: post
 title: "I love medicine balls: including a video review: Gaiam Fit Ball Workout"
 date: 2011-12-14T23:58:00
+disqus_identifier: "http://franklinchen.com/blog/2011/12/14/i-love-medicine-balls-video-review-gaiam-fit-ball-workout/"
+disqus_url: "http://franklinchen.com/blog/2011/12/14/i-love-medicine-balls-video-review-gaiam-fit-ball-workout/"
 url: "blog/2011/12/14/i-love-medicine-balls-video-review-gaiam-fit-ball-workout/"
 comments: true
 categories:

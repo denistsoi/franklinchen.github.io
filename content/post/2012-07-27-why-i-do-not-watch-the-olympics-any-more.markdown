@@ -2,6 +2,8 @@
 layout: post
 title: "Ignoring London 2012: why I do not watch the Olympics any more"
 date: 2012-07-27T22:17:00
+disqus_identifier: "http://franklinchen.com/blog/2012/07/27/why-i-do-not-watch-the-olympics-any-more/"
+disqus_url: "http://franklinchen.com/blog/2012/07/27/why-i-do-not-watch-the-olympics-any-more/"
 url: "blog/2012/07/27/why-i-do-not-watch-the-olympics-any-more/"
 comments: true
 categories: 

@@ -2,6 +2,8 @@
 layout: post
 title: "A comeback from Pittsburgh Marathon overtraining"
 date: 2013-04-06T15:59:23-04:00
+disqus_identifier: "http://franklinchen.com/blog/2013/04/06/comeback-from-pittsburgh-marathon-overtraining/"
+disqus_url: "http://franklinchen.com/blog/2013/04/06/comeback-from-pittsburgh-marathon-overtraining/"
 url: "blog/2013/04/06/comeback-from-pittsburgh-marathon-overtraining/"
 comments: true
 external-url: 

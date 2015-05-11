@@ -2,6 +2,8 @@
 layout: post
 title: "Running My Ninth Pittsburgh Great Race 10K: Blistered but Blissful in the 'Burgh"
 date: 2011-09-25T15:28:00
+disqus_identifier: "http://franklinchen.com/blog/2011/09/25/blistered-but-blissful-in-the-burgh/"
+disqus_url: "http://franklinchen.com/blog/2011/09/25/blistered-but-blissful-in-the-burgh/"
 url: "blog/2011/09/25/blistered-but-blissful-in-the-burgh/"
 comments: true
 categories:

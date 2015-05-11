@@ -2,7 +2,11 @@
 layout: post
 title: "My second meeting of the Steel City Ukuleles: why I already signed up to perform before being ready"
 date: 2013-09-04T22:40:45-04:00
+disqus_identifier: "http://franklinchen.com/blog/2013/09/18/my-third-meeting-of-the-steel-city-ukuleles/"
+disqus_url: "http://franklinchen.com/blog/2013/09/18/my-third-meeting-of-the-steel-city-ukuleles/"
 url: "blog/2013/09/18/my-third-meeting-of-the-steel-city-ukuleles/"
+disqus_identifier: "http://franklinchen.com/blog/2013/09/04/my-second-meeting-of-the-steel-city-ukuleles/"
+disqus_url: "http://franklinchen.com/blog/2013/09/04/my-second-meeting-of-the-steel-city-ukuleles/"
 url: "blog/2013/09/04/my-second-meeting-of-the-steel-city-ukuleles/"
 comments: true
 external-url: 

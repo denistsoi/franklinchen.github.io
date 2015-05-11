@@ -2,6 +2,8 @@
 layout: post
 title: "My favorite running workout: the Billat workout"
 date: 2012-02-03T21:14:00
+disqus_identifier: "http://franklinchen.com/blog/2012/02/03/my-favorite-running-workout/"
+disqus_url: "http://franklinchen.com/blog/2012/02/03/my-favorite-running-workout/"
 url: "blog/2012/02/03/my-favorite-running-workout/"
 comments: true
 categories:

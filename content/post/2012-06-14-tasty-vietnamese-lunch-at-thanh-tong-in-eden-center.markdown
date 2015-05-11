@@ -2,6 +2,8 @@
 layout: post
 title: "Tasty Vietnamese lunch at Thanh Tòng in Eden Center, and how we chose to eat there"
 date: 2012-06-14T22:20:00
+disqus_identifier: "http://franklinchen.com/blog/2012/06/14/tasty-vietnamese-lunch-at-thanh-tong-in-eden-center/"
+disqus_url: "http://franklinchen.com/blog/2012/06/14/tasty-vietnamese-lunch-at-thanh-tong-in-eden-center/"
 url: "blog/2012/06/14/tasty-vietnamese-lunch-at-thanh-tong-in-eden-center/"
 comments: true
 categories: 

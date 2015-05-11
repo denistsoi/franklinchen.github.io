@@ -2,6 +2,8 @@
 layout: post
 title: "World Chess Championship 2013 Round 1: how to understand the short 16-move Carlsen-Anand draw"
 date: 2013-11-09T12:00:33-05:00
+disqus_identifier: "http://franklinchen.com/blog/2013/11/09/world-chess-championship-2013/"
+disqus_url: "http://franklinchen.com/blog/2013/11/09/world-chess-championship-2013/"
 url: "blog/2013/11/09/world-chess-championship-2013/"
 comments: true
 external-url: 

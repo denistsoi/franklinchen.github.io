@@ -2,6 +2,8 @@
 layout: post
 title: "St. Patrick's Day party: playing tin whistle and flute"
 date: 2012-03-17T22:41:00
+disqus_identifier: "http://franklinchen.com/blog/2012/03/17/st-patricks-day-party-playing-tin-whistle-and-flute/"
+disqus_url: "http://franklinchen.com/blog/2012/03/17/st-patricks-day-party-playing-tin-whistle-and-flute/"
 url: "blog/2012/03/17/st-patricks-day-party-playing-tin-whistle-and-flute/"
 comments: true
 categories: 

@@ -2,6 +2,8 @@
 layout: post
 title: "Understand and use motivation contagion: everyone matters"
 date: 2014-11-09T20:35:39
+disqus_identifier: "http://franklinchen.com/blog/2014/11/09/understand-and-use-motivation-contagion/"
+disqus_url: "http://franklinchen.com/blog/2014/11/09/understand-and-use-motivation-contagion/"
 url: "blog/2014/11/09/understand-and-use-motivation-contagion/"
 comments: true
 categories:

@@ -2,6 +2,8 @@
 layout: post
 title: "Steel City Ukuleles: back to plain good fun, including the cups song"
 date: 2013-10-16T22:06:02-04:00
+disqus_identifier: "http://franklinchen.com/blog/2013/10/16/steel-city-ukuleles-back-to-plain-good-fun/"
+disqus_url: "http://franklinchen.com/blog/2013/10/16/steel-city-ukuleles-back-to-plain-good-fun/"
 url: "blog/2013/10/16/steel-city-ukuleles-back-to-plain-good-fun/"
 comments: true
 external-url: 

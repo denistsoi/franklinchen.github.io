@@ -2,6 +2,8 @@
 layout: post
 title: "Heinz Hall Memories: at the Pittsburgh Symphony, being shocked out of my mind upon experiencing Prokofiev's second piano concerto for the first time; also, a note on human memory"
 date: 2012-06-08T21:01:00
+disqus_identifier: "http://franklinchen.com/blog/2012/06/08/heinz-hall-memories-at-the-pittsburgh-symphony-being-shocked-out-of-my-mind-upon-experiencing-prokofievs-second-piano-concerto-for-the-first-time/"
+disqus_url: "http://franklinchen.com/blog/2012/06/08/heinz-hall-memories-at-the-pittsburgh-symphony-being-shocked-out-of-my-mind-upon-experiencing-prokofievs-second-piano-concerto-for-the-first-time/"
 url: "blog/2012/06/08/heinz-hall-memories-at-the-pittsburgh-symphony-being-shocked-out-of-my-mind-upon-experiencing-prokofievs-second-piano-concerto-for-the-first-time/"
 comments: true
 categories: 

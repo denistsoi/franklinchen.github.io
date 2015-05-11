@@ -2,6 +2,8 @@
 layout: post
 title: "Flute update: celebrating Bach's birthday, using a Thumbport, improvising to bossa nova"
 date: 2012-03-21T20:57:00
+disqus_identifier: "http://franklinchen.com/blog/2012/03/21/flute-update-celebrating-bachs-birthday/"
+disqus_url: "http://franklinchen.com/blog/2012/03/21/flute-update-celebrating-bachs-birthday/"
 url: "blog/2012/03/21/flute-update-celebrating-bachs-birthday/"
 comments: true
 categories:

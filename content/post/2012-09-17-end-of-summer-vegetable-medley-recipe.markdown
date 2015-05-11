@@ -2,6 +2,8 @@
 layout: post
 title: "My end-of-summer vegetable medley recipe"
 date: 2012-09-17T08:41:00
+disqus_identifier: "http://franklinchen.com/blog/2012/09/17/end-of-summer-vegetable-medley-recipe/"
+disqus_url: "http://franklinchen.com/blog/2012/09/17/end-of-summer-vegetable-medley-recipe/"
 url: "blog/2012/09/17/end-of-summer-vegetable-medley-recipe/"
 comments: true
 categories: 

@@ -2,6 +2,8 @@
 layout: post
 title: "Final rehearsal for my first ukulele gig: and some hard decisions about music in my life"
 date: 2013-10-04T22:15:33-04:00
+disqus_identifier: "http://franklinchen.com/blog/2013/10/04/final-rehearsal-for-my-first-ukulele-gig/"
+disqus_url: "http://franklinchen.com/blog/2013/10/04/final-rehearsal-for-my-first-ukulele-gig/"
 url: "blog/2013/10/04/final-rehearsal-for-my-first-ukulele-gig/"
 comments: true
 external-url: 

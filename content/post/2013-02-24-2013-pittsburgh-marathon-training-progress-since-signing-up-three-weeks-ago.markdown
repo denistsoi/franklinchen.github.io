@@ -2,6 +2,8 @@
 layout: post
 title: "2013 Pittsburgh Marathon training progress since signing up three weeks ago: finally coming up with a plan!"
 date: 2013-02-24T19:00:09-05:00
+disqus_identifier: "http://franklinchen.com/blog/2013/02/24/2013-pittsburgh-marathon-training-progress-since-signing-up-three-weeks-ago/"
+disqus_url: "http://franklinchen.com/blog/2013/02/24/2013-pittsburgh-marathon-training-progress-since-signing-up-three-weeks-ago/"
 url: "blog/2013/02/24/2013-pittsburgh-marathon-training-progress-since-signing-up-three-weeks-ago/"
 comments: true
 external-url: 

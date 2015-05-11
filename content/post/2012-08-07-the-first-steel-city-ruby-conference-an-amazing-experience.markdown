@@ -2,6 +2,8 @@
 layout: post
 title: "The first Steel City Ruby Conf: an amazing experience"
 date: 2012-08-07T01:05:00
+disqus_identifier: "http://franklinchen.com/blog/2012/08/07/the-first-steel-city-ruby-conference-an-amazing-experience/"
+disqus_url: "http://franklinchen.com/blog/2012/08/07/the-first-steel-city-ruby-conference-an-amazing-experience/"
 url: "blog/2012/08/07/the-first-steel-city-ruby-conference-an-amazing-experience/"
 comments: true
 categories: 

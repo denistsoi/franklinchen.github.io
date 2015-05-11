@@ -2,6 +2,8 @@
 layout: post
 title: "Lessons to learn from pianist Dejan Lazić's attempt to remove a critic's bad review"
 date: 2014-11-02T17:25:32
+disqus_identifier: "http://franklinchen.com/blog/2014/11/02/lessons-to-learn-from-pianist-dejan-lazics-attempt-to-remove-a-critics-bad-review/"
+disqus_url: "http://franklinchen.com/blog/2014/11/02/lessons-to-learn-from-pianist-dejan-lazics-attempt-to-remove-a-critics-bad-review/"
 url: "blog/2014/11/02/lessons-to-learn-from-pianist-dejan-lazics-attempt-to-remove-a-critics-bad-review/"
 comments: true
 categories:

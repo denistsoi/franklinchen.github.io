@@ -2,6 +2,8 @@
 layout: post
 title: "Cooking the huge batch of food: sweet potatoes, peppers, butternut squash"
 date: 2013-01-12T19:42:00
+disqus_identifier: "http://franklinchen.com/blog/2013/01/12/cooking-the-huge-batch-of-food-sweet-potatoes/"
+disqus_url: "http://franklinchen.com/blog/2013/01/12/cooking-the-huge-batch-of-food-sweet-potatoes/"
 url: "blog/2013/01/12/cooking-the-huge-batch-of-food-sweet-potatoes/"
 comments: true
 external-url: 

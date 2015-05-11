@@ -2,6 +2,8 @@
 layout: post
 title: "A Blast From the Past: C++ Abuse"
 date: 2011-10-04T21:23:00
+disqus_identifier: "http://franklinchen.com/blog/2011/10/04/a-blast-from-the-past-c-plus-plus-abuse/"
+disqus_url: "http://franklinchen.com/blog/2011/10/04/a-blast-from-the-past-c-plus-plus-abuse/"
 url: "blog/2011/10/04/a-blast-from-the-past-c-plus-plus-abuse/"
 comments: true
 categories:

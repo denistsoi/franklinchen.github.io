@@ -2,6 +2,8 @@
 layout: post
 title: "100th anniversary: remembering the first time I heard Stravinsky's \"The Rite of Spring\""
 date: 2013-05-29T22:52:45-04:00
+disqus_identifier: "http://franklinchen.com/blog/2013/05/29/100th-anniversary-remembering-the-first-time-i-heard-stravinskys-rite-of-spring/"
+disqus_url: "http://franklinchen.com/blog/2013/05/29/100th-anniversary-remembering-the-first-time-i-heard-stravinskys-rite-of-spring/"
 url: "blog/2013/05/29/100th-anniversary-remembering-the-first-time-i-heard-stravinskys-rite-of-spring/"
 comments: true
 external-url: 

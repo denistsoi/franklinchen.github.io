@@ -2,6 +2,8 @@
 layout: post
 title: "Thoughts on never having read anything written by Gabriel García Márquez"
 date: 2014-04-17T22:01:38-04:00
+disqus_identifier: "http://franklinchen.com/blog/2014/04/17/thoughts-on-never-having-read-anything-written-by-gabriel-garcia-marquez/"
+disqus_url: "http://franklinchen.com/blog/2014/04/17/thoughts-on-never-having-read-anything-written-by-gabriel-garcia-marquez/"
 url: "blog/2014/04/17/thoughts-on-never-having-read-anything-written-by-gabriel-garcia-marquez/"
 comments: true
 external-url: 

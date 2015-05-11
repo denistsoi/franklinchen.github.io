@@ -2,6 +2,8 @@
 layout: post
 title: "Pittsburgh Geek Out Day #5: \"Change\""
 date: 2012-03-03T22:50:00
+disqus_identifier: "http://franklinchen.com/blog/2012/03/03/pittsburgh-geek-out-day-number-5-change/"
+disqus_url: "http://franklinchen.com/blog/2012/03/03/pittsburgh-geek-out-day-number-5-change/"
 url: "blog/2012/03/03/pittsburgh-geek-out-day-number-5-change/"
 comments: true
 external-url: 

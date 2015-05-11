@@ -2,6 +2,8 @@
 layout: post
 title: "On not celebrating Constitution Day this year, 2013"
 date: 2013-09-17T08:42:26-04:00
+disqus_identifier: "http://franklinchen.com/blog/2013/09/17/on-not-celebrating-constitution-day-this-year/"
+disqus_url: "http://franklinchen.com/blog/2013/09/17/on-not-celebrating-constitution-day-this-year/"
 url: "blog/2013/09/17/on-not-celebrating-constitution-day-this-year/"
 comments: true
 external-url:

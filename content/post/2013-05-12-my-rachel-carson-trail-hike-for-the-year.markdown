@@ -2,6 +2,8 @@
 layout: post
 title: "My Rachel Carson Trail hike for the year (13.4 miles): and how this is about love and gratitude"
 date: 2013-05-12T22:24:40-04:00
+disqus_identifier: "http://franklinchen.com/blog/2013/05/12/my-rachel-carson-trail-hike-for-the-year/"
+disqus_url: "http://franklinchen.com/blog/2013/05/12/my-rachel-carson-trail-hike-for-the-year/"
 url: "blog/2013/05/12/my-rachel-carson-trail-hike-for-the-year/"
 comments: true
 external-url: 

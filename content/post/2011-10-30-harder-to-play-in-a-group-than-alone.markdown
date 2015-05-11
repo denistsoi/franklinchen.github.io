@@ -2,6 +2,8 @@
 layout: post
 title: "Harder to play music in a group than alone"
 date: 2011-10-30T14:49:00
+disqus_identifier: "http://franklinchen.com/blog/2011/10/30/harder-to-play-in-a-group-than-alone/"
+disqus_url: "http://franklinchen.com/blog/2011/10/30/harder-to-play-in-a-group-than-alone/"
 url: "blog/2011/10/30/harder-to-play-in-a-group-than-alone/"
 comments: true
 categories:

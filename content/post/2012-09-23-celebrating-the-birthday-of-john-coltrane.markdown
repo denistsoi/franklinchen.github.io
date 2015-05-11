@@ -2,6 +2,8 @@
 layout: post
 title: "Celebrating the birthday of John Coltrane, the Beethoven of jazz"
 date: 2012-09-23T00:44:00
+disqus_identifier: "http://franklinchen.com/blog/2012/09/23/celebrating-the-birthday-of-john-coltrane/"
+disqus_url: "http://franklinchen.com/blog/2012/09/23/celebrating-the-birthday-of-john-coltrane/"
 url: "blog/2012/09/23/celebrating-the-birthday-of-john-coltrane/"
 comments: true
 external-url: 

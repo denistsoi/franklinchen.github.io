@@ -2,6 +2,8 @@
 layout: post
 title: "Beechview urban hike: funky steps, Canton Avenue climb, delicious pizza at Slice on Broadway"
 date: 2013-12-28T19:07:00-05:00
+disqus_identifier: "http://franklinchen.com/blog/2013/12/28/beechview-urban-hike/"
+disqus_url: "http://franklinchen.com/blog/2013/12/28/beechview-urban-hike/"
 url: "blog/2013/12/28/beechview-urban-hike/"
 comments: true
 external-url: 

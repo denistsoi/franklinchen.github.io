@@ -2,6 +2,8 @@
 layout: post
 title: "They published my brilliant chess game, hinting it was not so original, but was it?"
 date: 2012-06-02T12:19:00
+disqus_identifier: "http://franklinchen.com/blog/2012/06/02/they-published-my-brilliant-chess-game/"
+disqus_url: "http://franklinchen.com/blog/2012/06/02/they-published-my-brilliant-chess-game/"
 url: "blog/2012/06/02/they-published-my-brilliant-chess-game/"
 comments: true
 categories: 

@@ -2,6 +2,8 @@
 layout: post
 title: "Living Appalachian music of Southwestern Pennsylvania: Mark Tamsula and Richard Withers with Ellen Gozion "
 date: 2012-09-23T22:15:00
+disqus_identifier: "http://franklinchen.com/blog/2012/09/23/living-appalachian-music-of-southwestern-pennsylvania/"
+disqus_url: "http://franklinchen.com/blog/2012/09/23/living-appalachian-music-of-southwestern-pennsylvania/"
 url: "blog/2012/09/23/living-appalachian-music-of-southwestern-pennsylvania/"
 comments: true
 categories: 

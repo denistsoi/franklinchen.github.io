@@ -2,6 +2,8 @@
 layout: post
 title: "A totally exhausting Rachel Carson Trail Challenge goal training hike (18.1 miles"
 date: 2012-06-03T23:42:00
+disqus_identifier: "http://franklinchen.com/blog/2012/06/03/a-totally-exhausting-rachel-carson-trail-challenge-goal-training-hike/"
+disqus_url: "http://franklinchen.com/blog/2012/06/03/a-totally-exhausting-rachel-carson-trail-challenge-goal-training-hike/"
 url: "blog/2012/06/03/a-totally-exhausting-rachel-carson-trail-challenge-goal-training-hike/"
 comments: true
 external-url: 

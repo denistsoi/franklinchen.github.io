@@ -2,6 +2,8 @@
 layout: post
 title: "For Martin Luther King, Jr. Day: some black American voices that spoke to me recently"
 date: 2015-01-19T20:58:34
+disqus_identifier: "http://franklinchen.com/blog/2015/01/19/for-martin-luther-king-jr-day-some-black-american-voices-that-spoke-to-me-recently/"
+disqus_url: "http://franklinchen.com/blog/2015/01/19/for-martin-luther-king-jr-day-some-black-american-voices-that-spoke-to-me-recently/"
 url: "blog/2015/01/19/for-martin-luther-king-jr-day-some-black-american-voices-that-spoke-to-me-recently/"
 comments: true
 categories:

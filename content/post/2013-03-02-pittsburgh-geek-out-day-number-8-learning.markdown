@@ -2,6 +2,8 @@
 layout: post
 title: "Pittsburgh Geek Out Day #8: \"Learning\""
 date: 2013-03-02T16:45:31-05:00
+disqus_identifier: "http://franklinchen.com/blog/2013/03/02/pittsburgh-geek-out-day-number-8-learning/"
+disqus_url: "http://franklinchen.com/blog/2013/03/02/pittsburgh-geek-out-day-number-8-learning/"
 url: "blog/2013/03/02/pittsburgh-geek-out-day-number-8-learning/"
 comments: true
 external-url: 

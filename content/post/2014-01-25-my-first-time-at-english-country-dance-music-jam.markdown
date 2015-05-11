@@ -2,6 +2,8 @@
 layout: post
 title: "My first time at an English country dance music jam"
 date: 2014-01-25T19:39:03-05:00
+disqus_identifier: "http://franklinchen.com/blog/2014/01/25/my-first-time-at-english-country-dance-music-jam/"
+disqus_url: "http://franklinchen.com/blog/2014/01/25/my-first-time-at-english-country-dance-music-jam/"
 url: "blog/2014/01/25/my-first-time-at-english-country-dance-music-jam/"
 comments: true
 external-url: 

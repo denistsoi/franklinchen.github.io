@@ -2,6 +2,8 @@
 layout: post
 title: "Déja vu in chess: recognize this Sicilian pattern?"
 date: 2012-09-15T21:01:00
+disqus_identifier: "http://franklinchen.com/blog/2012/09/15/deja-vu-in-chess-recognize-this-sicilian-pattern/"
+disqus_url: "http://franklinchen.com/blog/2012/09/15/deja-vu-in-chess-recognize-this-sicilian-pattern/"
 url: "blog/2012/09/15/deja-vu-in-chess-recognize-this-sicilian-pattern/"
 comments: true
 categories: 

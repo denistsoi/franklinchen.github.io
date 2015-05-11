@@ -2,6 +2,8 @@
 layout: post
 title: "Happy 300th birthday, Carl Philipp Emanuel Bach: still underappreciated after all these years!"
 date: 2014-03-08T12:00:49-05:00
+disqus_identifier: "http://franklinchen.com/blog/2014/03/08/happy-300th-birthday-carl-philipp-emanuel-bach/"
+disqus_url: "http://franklinchen.com/blog/2014/03/08/happy-300th-birthday-carl-philipp-emanuel-bach/"
 url: "blog/2014/03/08/happy-300th-birthday-carl-philipp-emanuel-bach/"
 comments: true
 external-url: 

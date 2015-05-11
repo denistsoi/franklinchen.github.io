@@ -2,6 +2,8 @@
 layout: post
 title: "CreativeMornings/Pittsburgh with David \"Mr. McFeely\" Newell"
 date: 2013-01-11T19:46:00
+disqus_identifier: "http://franklinchen.com/blog/2013/01/11/creativemornings-pittsburgh-with-david-mr-mcfeely-newell/"
+disqus_url: "http://franklinchen.com/blog/2013/01/11/creativemornings-pittsburgh-with-david-mr-mcfeely-newell/"
 url: "blog/2013/01/11/creativemornings-pittsburgh-with-david-mr-mcfeely-newell/"
 comments: true
 external-url:

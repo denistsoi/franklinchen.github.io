@@ -2,6 +2,8 @@
 layout: post
 title: "I celebrated National Running Day in Schenley Park: remembering how I began to run 13 years ago"
 date: 2012-06-06T21:42:00
+disqus_identifier: "http://franklinchen.com/blog/2012/06/06/i-celebrated-national-running-day-in-schenley-park-remembering-how-i-began-to-run-13-year-ago/"
+disqus_url: "http://franklinchen.com/blog/2012/06/06/i-celebrated-national-running-day-in-schenley-park-remembering-how-i-began-to-run-13-year-ago/"
 url: "blog/2012/06/06/i-celebrated-national-running-day-in-schenley-park-remembering-how-i-began-to-run-13-year-ago/"
 comments: true
 categories:

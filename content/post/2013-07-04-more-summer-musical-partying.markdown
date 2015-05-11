@@ -2,6 +2,8 @@
 layout: post
 title: "More summer musical partying, and another ten-year-old dream fulfilled!"
 date: 2013-07-04T23:25:39-04:00
+disqus_identifier: "http://franklinchen.com/blog/2013/07/04/more-summer-musical-partying/"
+disqus_url: "http://franklinchen.com/blog/2013/07/04/more-summer-musical-partying/"
 url: "blog/2013/07/04/more-summer-musical-partying/"
 comments: true
 external-url: 

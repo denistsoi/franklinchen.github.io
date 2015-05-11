@@ -2,6 +2,8 @@
 layout: post
 title: "First rehearsal for my first ukulele gig: dealing with anxiety"
 date: 2013-09-26T23:09:23-04:00
+disqus_identifier: "http://franklinchen.com/blog/2013/09/26/first-rehearsal-for-my-first-ukulele-gig/"
+disqus_url: "http://franklinchen.com/blog/2013/09/26/first-rehearsal-for-my-first-ukulele-gig/"
 url: "blog/2013/09/26/first-rehearsal-for-my-first-ukulele-gig/"
 comments: true
 external-url: 

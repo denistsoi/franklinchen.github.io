@@ -2,6 +2,8 @@
 layout: post
 title: "Flute versus recorder: why do I play both?"
 date: 2011-11-17T22:35:00
+disqus_identifier: "http://franklinchen.com/blog/2011/11/17/flute-versus-recorder/"
+disqus_url: "http://franklinchen.com/blog/2011/11/17/flute-versus-recorder/"
 url: "blog/2011/11/17/flute-versus-recorder/"
 comments: true
 categories:

@@ -2,6 +2,8 @@
 layout: post
 title: "The real reason for the CoffeeScript/JavaScript flame war"
 date: 2011-11-06T20:07:00
+disqus_identifier: "http://franklinchen.com/blog/2011/11/06/the-real-reason-for-the-coffeescript-slash-javascript-flame-war/"
+disqus_url: "http://franklinchen.com/blog/2011/11/06/the-real-reason-for-the-coffeescript-slash-javascript-flame-war/"
 url: "blog/2011/11/06/the-real-reason-for-the-coffeescript-slash-javascript-flame-war/"
 comments: true
 categories:

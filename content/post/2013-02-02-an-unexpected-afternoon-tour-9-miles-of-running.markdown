@@ -2,6 +2,8 @@
 layout: post
 title: "An unexpected afternoon tour: 9 miles of running, 1 Cathedral of Learning stair climb, 2 chess tournaments"
 date: 2013-02-02T17:41:31-05:00
+disqus_identifier: "http://franklinchen.com/blog/2013/02/02/an-unexpected-afternoon-tour-9-miles-of-running/"
+disqus_url: "http://franklinchen.com/blog/2013/02/02/an-unexpected-afternoon-tour-9-miles-of-running/"
 url: "blog/2013/02/02/an-unexpected-afternoon-tour-9-miles-of-running/"
 comments: true
 external-url: 
