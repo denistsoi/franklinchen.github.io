@@ -1,0 +1,38 @@
+theme = "hyde-x"
+
+baseurl = "http://franklinchen.com"
+languageCode = "en-us"
+title = "Franklin Chen's Grain of Sand"
+pygmentsstyle = "default"
+paginate = 10
+disqusShortname = "franklinchen"
+
+[author]
+# Seems to be used where title was
+name = "Franklin Chen's Grain of Sand"
+
+[permalinks]
+post = "/blog/:year/:month/:day/:title/"
+
+[indexes]
+category = "categories"
+
+[params]
+defaultDescription = "Franklin Chen's personal Web site and blog"
+defaultKeywords = "Franklin Chen, blog"
+
+gravatarHash = "f8a7ccb41af2422d10599464b96cf034"
+
+theme = "theme-base-0e"
+
+highlight = "default"
+tagline = "Infinity in the palm of my hand."
+
+googleAuthorship = "100967806642012078047"
+googleAnalytics = "UA-24980509-1"
+
+github = "https://github.com/FranklinChen"
+linkedin = "http://www.linkedin.com/in/franklinchen"
+googleplus = "http://google.com/+FranklinChen"
+facebook = "http://www.facebook.com/franklin.chen"
+twitter = "http://twitter.com/franklinchen"
