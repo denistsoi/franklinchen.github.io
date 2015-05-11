@@ -1,0 +1,73 @@
+[White "Sax Alexander"]
+[Black "Chen Franklin"]
+[WhiteElo "1627"]
+[BlackElo "2126"]
+[Result "0-1"]
+[Date "2012.11.13"]
+[Event "16th Robert P Smith Memorial"]
+[Site "Pittsburgh (USA)"]
+[Round "1.6"]
+[ECO "B23"]
+[Annotator "Chen Franklin"]
+[Source ""]
+[Remark ""]
+
+{This was the first time I had ever met my opponent and played with him. It's always exciting to play someone new.} 1.e4
+c5 2.Nc3 Nc6 3.f4 {So, a Grand Prix Attack by White.} g6 4.Nf3
+Bg7 5.Bb5 Nd4 6.Bd3 d6 7.Nxd4 cxd4 8.Ne2 Nh6 {!?} {I deliberately went for this funny-looking move in order to create a more unusual position than usual, playing for f5.}
+( 8...Nf6 {Normal and good. Either way, Black has equality.}
+{%08DA} ) 9.c3 {%09DB} dxc3 10.bxc3 {Capturing toward the center, an interesting choice.}
+( 10.dxc3 O-O {Black is just slightly better.} {%08DA} ) O-O
+{%09DB} 11.O-O f5 {?!} {
+Objectively this is not such a great plan, because of considerable weakening of
+squares, but I wanted to create a dynamic position.} {%08DA}
+12.Bc4+ {?} {Justifying Black's play, unprotecting the e4 Pawn without a good reason.}
+( 12.Qb3+ Kh8 {White is better.} {%08DA} ) Kh8 13.exf5 Nxf5
+( 13...d5 {It was possible to block up the center with equality, and I did consider it, but I wanted to be more ambitious and try for e5.}
+{%08DA} ) 14.d4 {?} {Playing into Black's plans. White is still not worse, but his position is starting to become loose.}
+{%09DB} {%08DA} Bd7 {!?} {Deciding to wait before committing to e5.}
+( 14...e5 {Immediate e5 was possible, but I decided to wait.}
+{%08DA} ) 15.Bd2 {?} {
+And waiting paid off, because White immediately starts to finally get a worse
+position. This very passive move does little for White's game.}
+{%08DA} e5 {Boom, Black is better. I was truly happy for the first time in the game.}
+{%08DA} 16.fxe5 {?} {
+From bad to wrose. Black's weak Pawns are being liquidated and the position is
+opening in Black's favor. Black's pieces are already better placed.}
+dxe5 {%08DA} 17.d5 {??} {This actually loses already, but I didn't see the win!}
+{%08DA} b5 {?!} {Missing the immediate win.} ( 17...Qb6+ 18.Kh1
+Nd6 19.Bb3 ( 19.Bd3 e4 20.Bc2 e3 21.Bc1 Rxf1+ 22.Qxf1 Rf8 23.Qe1
+Qc5 {White is positionally lost.} {%08DA} ) Ne4 {%08DA} ) 18.Bb3
+Qb6+ {A similar idea to the fast win.} 19.Kh1 e4 {
+A very important move. Black has to be very quick to take advantage of better
+development, before White can consolidate and equalize.} {%08DA}
+20.Rf4 {?} {
+An ill-advised attempt to be active. The main problem is that White's Rook
+becomes a target. At this point I started thinking of possible ways to trap White's Rook.}
+( 20.Bg5 {A paradoxical move that is actually White's best.}
+{%08DA} h6 21.Bd2 e3 22.Be1 Nd6 23.Nf4 Nc4 {Black may still be winning, but the task is not easy.}
+{%08DA} ) e3 {Again, despite the risk of overextending, it is important at some point for Black to press on with the attack.}
+{%09DB} {%08DA} 21.Bc1 {%08DA} Rae8 {
+Developing the final piece and overprotecting the e3 Pawn, in preparation for
+the final attack on White. White is basically lost at this point. There is
+nothing White can do about Black's threats on the entire board.}
+{%08DA} 22.a4 {Maybe the best active try, but I had anticipated it from the moment that White played Rf4.}
+{%08DA} g5 {!} {
+The critical last component of Black's attack! Not only kicking White back, but
+also opening the way for Qh6 to complete the King side attack against White.}
+{%08DA} 23.Rg4 {??} {Falling victim to a trap.} ( 23.Rf1 b4 {Black is clearly winning.}
+{%08DA} ) ( 23.Rf3 b4 {Black is winning.} {%08DA} )
+( 23.Rb4 Nh4 {%08DA} 24.axb5 Rf2 ) ( 23.a5 Qh6 24.Rf1 Be5 {%08DA} )
+Nd6 {White is going to lose the Rook now!} {%08DA} 24.Rxg5 Ne4
+{White might as well resign here, but for some reason did not.}
+{%08DA} 25.Rh5 Nf2+ 26.Kg1 Nxd1 27.Bc2 {I actually sat there for a minute or two in disbelief as White continued on.}
+{%08DA} Qf6 ( 27...Rf1+ {Cute forced mate in 10 (!), but I didn't bother looking for this.}
+{%08DA} 28.Kxf1 Qf6+ 29.Bf5 Bxf5 30.Bxe3 Bd3+ 31.Kg1 Rxe3 32.Rxd1
+Rxe2 33.Kh1 Qf2 34.Rxh7+ Bxh7 35.Rg1 Re1 36.Rxe1 Qxe1# {%08DA} )
+28.Ng3 {%09DB} Qf2+ {Mate in 2.} {%08DA}
+{This was a longish game, lasting three hours. The positions achieved were
+unusual and fascinating to me, and I tried to think calmly in order to play
+accurately. I was fairly happy with this game, other than the fact that I did
+gamble a bit in the opening to achieve a dynamic imbalance that objectively
+should not have been in my favor, and the fact that I missed a much faster win earlier.} 0-1
+

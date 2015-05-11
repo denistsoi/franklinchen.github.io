@@ -1,0 +1,99 @@
+[White "Wallnau Kurt"]
+[Black "Dean Edward"]
+[WhiteElo "2057"]
+[BlackElo "2102"]
+[Result "0-1"]
+[Date "2012.12.18"]
+[Event "16th Robert P Smith Memorial"]
+[Site "Pittsburgh (USA)"]
+[Round "6.6"]
+[ECO "B07"]
+[Annotator "Chen Franklin"]
+[Source ""]
+[Remark ""]
+
+{I was present to watch only part of this game, but I got the score (as far as
+it existed until mutual time pressure) from both players. Black wrote a blog
+post and own analysis about the game at
+http://www.unwantedcapture.org/2012/12/22/pcc-smith-memorial-round-6/ but I
+analyzed this game before seeing his analysis. You may find it interesting to compare our independent analyses.} 1.e4
+d6 2.d4 Nf6 3.Nc3 c6 {%08DA} 4.Nf3 Bg4 5.Be3 Nbd7 6.a4 Qa5 7.h3
+Bh5 8.Bd3 Bg6 {?} {Black is falling dangerously behind in development.}
+{%08DA} 9.O-O e6 {Aiming eventually for d5.} {%08DA} 10.Qe2
+( 10.Nh4 {Personally, I would just grab the two Bishops already.} )
+Be7 11.Bd2 Qh5 {?} {The Queen is in danger of being trapped or something here.}
+{%08DA} 12.Qe3 {!} {A very strong move, with ideas of trapping Black's Queen through Ne2 etc.}
+{%08DA} O-O {%08DA} 13.Be2 {?!} {White played this move with a followup that he then realized did not work.}
+( 13.Ne2 {The move I expected White to play, which wins a Pawn by force.}
+{%08DA} e5 14.a5 {%03!} {
+Preventing Black's Queen from getting back to a5. The threat is to play c3 to
+protect d4 from freeing tactics, then play Ng3 forcing Black's Queen to h6. Black will lose a Pawn one way or another.}
+{%08DA} ) Qa5 {Escaping just in time.} 14.Nh4 ( 14.Nd5 {?} {This trick to get the e7 Bishop does not work because of White's Queen being on e3.}
+Nxd5 {%08DA} ) Qc7 15.Nxg6 hxg6 16.a5 {White's position is still very strong, with the two Bishops as well as considerable space advantage.}
+{%08DA} b5 {!?} {Playing a move that a5 is supposed to prevent.}
+{%08DA} 17.Kh1 {?} {Justifying Black's previous move. White's previous move a5 has no point if Black can successfully play b5. Black is OK now.}
+( 17.axb6 {The consistent continuation.} axb6 18.d5 {
+Breaking in the center with a positional Pawn sacrifice is thematic, with a
+long-term advantage to White. Black will end up with a weak Pawn structure no matter what.}
+{%08DA} exd5 19.exd5 cxd5 20.Qd4 Qc5 21.Be3 {
+Black's weak b Pawn and d Pawns mean that once White regains a Pawn and opens
+up the game with his two Bishops, he will be in a strong position.}
+{%08DA} ) e5 ( 17...b4 {Getting immediate Queen side counterplay was good.}
+{%08DA} ) 18.f4 {?!} {An attempt at an attack, but loosening. White is still OK, but his position is starting to look shakier and shakier.}
+Nh5 ( 18...b4 {Black could also liquidate White's center immediately.}
+19.Na4 d5 {%08DA} ) 19.Bxh5 exd4 20.Qxd4 gxh5 {
+White has not only lost the two Bishop advantage, but has also fixed Black's
+doubled g Pawns! The game is now completely equal. Except for one thing: White
+spent a huge amount of time in the opening trying to come up with a way to
+punish Black's opening play, and therefore is considerably behind on the clock.
+I completely stopped watching the game at this point because I was attending to
+my own game in progress, which I annotated at
+http://franklinchen.com/blog/2012/12/18/round-6-of-pittsburgh-chess-club-tournament-playing-pragmatically/}
+{%08DA} 21.Qf2 Bf6 22.b4 a6 23.Qf3 h4 {Both sides are holding their positions.}
+{%08DA} 24.Rad1 Be7 {?!} {Passive. Black will need to move the Bishop back later.}
+25.Be1 ( 25.Be3 {More active, but it doesn't seem that White can really make progress in this position anyway.}
+{%08DA} ) Rae8 26.Bf2 Bf6 {Black is putting pressure on White's e4 Pawn. This is a critical position.}
+{%08DA} 27.Rfe1 ( 27.e5 {%03!} {
+This thematic positional sacrifice, clearing the way for White's Knight to e4
+and forcing Black to occupy his own e5 square and therefore seal it from his own Knight, Bishop, and Rook, was best.}
+{%08DA} dxe5 28.f5 {%08DA} Be7 29.Ne4 Nf6 30.Bb6 Qb7 31.Nxf6+
+Bxf6 32.Bc5 Be7 33.f6 {!} {White wins the exchange for a second Pawn.}
+{%08DA} Bxf6 34.Bxf8 Kxf8 35.Rd6 {White looks winning here. Black's King is unsafe.}
+{%08DA} ) Re6 28.Qd3 {?} Rfe8 {??} {A losing blunder thanks to the unprotected Knight on d7.}
+29.e5 {!} {%08DA} Be7 {??} {Loses instantly.} ( 29...dxe5 30.Qxd7
+{Wins the Knight.} ) 30.Ne4 {??} {Missing the win and accepting equality again.}
+( 30.exd6 {%08DA} Bxd6 31.Rxe6 Rxe6 32.f5 {Wins material decisively.}
+{%08DA} Ne5 33.Qd4 Rh6 34.Be3 {Black loses material because of White's threats against the Bishop at d6 and the Rook at h6.}
+{%08DA} ) d5 {%08DA} 31.Nc5 {?} {Now playing for the loss. White has only losing chances after this move, which weakens his Pawn structure permanently.}
+( 31.c3 {An even position.} {%08DA} ) Nxc5 {Not best.}
+( 31...Bxc5 32.bxc5 f6 {Black has a strong advantage. White's Pawn structure is in shambles, with the isolated a Pawn and doubled c Pawns.}
+{%08DA} ) 32.bxc5 Bd8 33.Bd4 {%08DA} g6 {?!} {Solid but slow, with the aim of completely blocking up White's possible King side attack. A pragmatic decision.}
+( 33...f6 {
+Striking against e5 immediately was good. White should still be able to hold, I
+think, but it is Black who then has the attack.} {%08DA} 34.Re3
+( 34.f5 {??} Rxe5 35.Bxe5 fxe5 {Black gives up the exchange for a Pawn and has a very strong position.}
+{%08DA} ) ) 34.Rf1 f5 {Black's position is solid now, if passive.}
+{%08DA} 35.exf6 {?!} {
+Trying to keep chances of breaking through. But there is risk in opening up the
+position. Realistically, it is Black who has the winning chances after his Rooks are activated.}
+( 35.Rf3 {The reality is that White cannot break through on the King side.}
+{%08DA} ) Re4 {Choosing to continue the pragmatic course of keeping things blocked.}
+( 35...Bxf6 {Was OK.} 36.f5 ( 36.Qxg6+ {?} Qg7 {Black is actually slightly better after this Pawn sacrifice because of White's weak Pawns and inactive Rooks.}
+{%08DA} ) gxf5 37.Qxf5 Bg7 {Black holds.} {%08DA} ) 36.Be5 {?!}
+{It was probably best to get the f4 Pawn off an attackable dark square when there was the chance.}
+( 36.f5 g5 {Black will eventually regain the Pawn with a reasonable position.}
+{%08DA} ) Qf7 37.Rde1 Rxe1 38.Rxe1 Bxf6 {
+White should be able to hold, but Black's side is easier to play, just because
+of White's long-term Pawn weaknesses on the Queen side.} {%08DA}
+39.Rf1 ( 39.Re3 {Keeps e5 completely defended.} ) Bd8 {
+Pressure is mounting on White. White should still be able to hold, but when in
+time pressure, anything can happen when you are on the defensive.}
+{%08DA} 40.Qd4 Re6 41.Rg1 {?} {Passive.} {%08DA} Bf6 42.Re1 {
+Both players told me they were in severe time trouble at this point, so no
+record of the remaining moves exist. The position should really be a draw.
+However, White blundered at some point and lost, being in worse time trouble.}
+{%08DA} {A tough game in which Black was almost losing for a while out of the opening,
+but hung on and reached a positionally superior position because of White's
+weak Pawn structure. The game was still blocked up and even, nevertheless, but
+time pressure finally led White, who had the looser position, to blunder.} 0-1
+

@@ -1,0 +1,81 @@
+[White "Chen Franklin"]
+[Black "Winfield J"]
+[WhiteElo "1934"]
+[BlackElo "1745"]
+[Result "1-0"]
+[Date "1985.09.02"]
+[Event "Michigan Open"]
+[Site "East Lansing"]
+[Round "6"]
+[ECO "B27"]
+[Annotator "Chen Franklin"]
+[Source ""]
+[Remark ""]
+
+{I played this game during my final tournament of my childhood chess career, at
+age 15, before starting the 11th grade in high school. I retired after this
+tournament, to focus on academics during the final two years of high school.
+This game was published in the Michigan Chess magazine. I was somewhat
+embarrassed that it was published, and I never showed  off the game to my
+father. Why was I "ashamed" of this "brilliant" game? I'll explain.} 1.e4
+c5 2.Nf3 g6 3.d4 cxd4 4.Nxd4 Bg7 5.Nc3 a6 {
+This looked unusual to me, falling behind in development. However, a theme
+suddenly appeared in my head and I sank into deep thought. I spent probably
+half an hour on the next move. My opponent became very uncomfortable and
+probably confused. It turns out that I was calculating ten moves ahead!!}
+6.Bc4 {!?} {
+Objectively, this is clearly not the best move in this position, but at the
+time, I had a suspicion about how my opponent would continue. Normally in a
+serious tournament game I would not play this kind of "hope chess", but I had a
+strong intuition that my opponent was going to reply as I wanted.}
+( 6.Be3 {Noncommittal and good, and what I would play normally.} )
+b5 {?} {Somehow I "knew" that my opponent would not resist the temptation to kick my Bishop.}
+{%09DB} 7.Bd5 Ra7 8.Be3 {White is threatening a discovered attack on the Rook at a7 by Ndxb5 winning material.}
+Rc7 {??} {The big losing move!} ( 8...b4 {The only move, really, to avoid losing. White still has a large advantage though.}
+9.Nce2 ) 9.Bxf7+ {!} {BAM! Played instantly, since I had spent the half hour up front calculating variations. My opponent seemed totally confused.}
+{%09DB} {%08DA} Kxf7 ( 9...Kf8 10.Ne6+ {White wins the Queen.} )
+10.Ne6 {!!} {BAM! Played instantly again. My opponent still seemed bewildered. But he thought a long time and was visibly shaking.}
+{%08DA} Bxc3+ {The only move.} ( 10...Kxe6 {??} {Loses to checkmate.}
+11.Qd5+ Kf6 12.Bg5# ) 11.bxc3 Kxe6 12.Qd5+ Kf6 {%08DA} 13.Bd4+
+{!} {The only way to continue after having sacrificed two pieces.}
+e5 14.Bxe5+ Ke7 15.Bd6+ {The forced combination of moves is now complete and White has a won game because Black's Rooks on c7 and h8 are vulnerable.}
+{%08DA} Ke8 {Black is dead no matter what, anyway.}
+( 15...Kf6 16.Qe5+ Kf7 17.Qxh8 {%08DA} ) 16.Qe5+ Kf7 {%08DA}
+17.Bxc7 {And White is up material and winning, although Black did not resign immediately
+and the game continued on for some time before Black resigned.}
+( 17.Qxh8 {Stronger, but it doesn't matter, since White is winning anyway.}
+) {To the untrained eye, this game looks brilliant. I felt a little proud of it,
+in the sense that I envisioned a forced winning combination, calculated it out
+correctly, and executed it, but I felt somewhat like a fraud because I
+completely stole the basic theme from somewhere. In fact, I stole it from a
+game I remembered from my chess studies seven years earlier, when I was eight
+years old: Fischer-Reshevsky, US Chess Championship 1958.} 1-0
+
+[White "Fischer Robert J (USA)"]
+[Black "Reshevsky Samuel H (USA)"]
+[WhiteElo "2780"]
+[BlackElo "2430"]
+[Result "1-0"]
+[Date "1958.??.??"]
+[Event "Ch USA"]
+[Site "New York (USA)"]
+[Round "6"]
+[ECO "B35"]
+[Annotator ""]
+[Source ""]
+[Remark ""]
+
+1.e4 c5 2.Nf3 Nc6 3.d4 cxd4 4.Nxd4 g6 5.Be3 Nf6 6.Nc3 Bg7 7.Bc4
+O-O 8.Bb3 Na5 {?} 9.e5 Ne8 {??} {Loses.} {%08DA} 10.Bxf7+ {!}
+{Reshevsky could have just resigned here.} Kxf7 ( 10...Rxf7 11.Ne6
+{Black loses the Queen.} {%08DA} ) 11.Ne6 {Black still loses the Queen.}
+{%08DA} dxe6 ( 11...Kxe6 12.Qd5+ {Results in a forced checkmate.}
+{%08DA} Kf5 13.g4+ Kxg4 14.Rg1+ Kh4 15.Qd4+ Kh3 16.Qg4+ Kxh2
+17.Qg3# {%08DA} ) 12.Qxd8 {White has won the Queen. The rest of the game is pointless.}
+Nc6 13.Qd2 Bxe5 14.O-O Nd6 15.Bf4 Nc4 16.Qe2 Bxf4 17.Qxc4 Kg7
+18.Ne4 Bc7 19.Nc5 Rf6 20.c3 e5 21.Rad1 Nd8 22.Nd7 Rc6 23.Qh4
+Re6 24.Nc5 Rf6 25.Ne4 Rf4 26.Qxe7+ Rf7 27.Qa3 Nc6 28.Nd6 Bxd6
+29.Rxd6 Bf5 30.b4 Rff8 31.b5 Nd8 32.Rd5 Nf7 33.Rc5 a6 34.b6 Be4
+35.Re1 Bc6 36.Rxc6 bxc6 37.b7 Rab8 38.Qxa6 Nd8 39.Rb1 Rf7 40.h3
+Rfxb7 41.Rxb7+ Rxb7 42.Qa8 1-0
+

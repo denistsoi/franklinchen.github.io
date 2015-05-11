@@ -1,0 +1,12 @@
+[Event "Dortmund Open"]
+[Site "Dortmund (Germany)"]
+[Date "1992.??.??"]
+[Round "?"]
+[White "Mainka Romuald (GER)"]
+[Black "Dautov Rustem (GER)"]
+[Result "0-1"]
+[ECO "C67"]
+[Eco "C67"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Bxc6 dxc6 7. dxe5 Nf5 8. Qxd8+ Kxd8 9. Nc3 Ke8 10. h3 h6  {  Not the most popular plan these days, but this was 1992. The immediate point is to prevent White from playing Bg5 or Ng5, and also prepare a possible g5.}  11. b3  {  Planning to develop the Bishop to b2, and possibly support c4 later.}  11... a5  {  Aiming for possible a4.}  12. Bb2 Bb4 13. Ne2  {  Avoiding a trade on c3 and preparing to possibly redeploy the Knight to f4.}  13... h5  {  Fascinating idea, giving up control of the g5 square but stopping a future g4 by White, and possibly aiming to play h4 to fix White's g Pawn and enable Rh5.}  14. Nf4 $2  {  Allows Black to play a4.}  ( 14. a4  {  Preventing further Black expansion of a4 seems wise.}  ) 14... a4  {  Obvious.}  15. a3 $2  {  An ambitious but risky idea that results in a permanently weak b Pawn, and also note that Black has a light-squared Bishop that will become powerful once it gets to e6.}  15... Be7 16. b4  {  White's position is now looking loose.}  16... Rh6 $5 ( 16... g5  {  Immediately driving White's Knight back was already good.}  ) 17. Rad1 g5 18. Ne2 $2  {  A passive place for the Knight. Now Black has not only equalized, but has a clear advantage.}  ( 18. Nd3  {  The obvious and active place for the Knight, covering the c5 and e5 dark squares leaves White still in reasonable shape.}  ) 18... c5  {  Black's position is exploding into life.}  19. bxc5 ( 19. b5 Rb6 20. Bc1 g4 ) 19... Ra5  {  And Black's other Rook is now suddenly active also.}  20. Bc1 Rg6 21. Nc3 g4 22. hxg4 hxg4 23. Nd2 Rxc5 24. Nde4 Rc4  {  White is under severe pressure.}  25. Rfe1 c6 ( 25... Be6 ) 26. Bb2 $2 ( 26. Nf6+ Kf8 27. Bb2 ) 26... Re6  {  Ganging up on the stranded e5 Pawn.}  27. Nd2 $2  {  Now Black is going to lose material. Note how sad White's Knight activity has been since the beginning of the game.}  ( 27. Nf6+ Bxf6 28. exf6 b5 ) 27... Rc5 28. Nxa4 Rxc2 29. Nb6 $4 ( 29. Ne4 b5 30. Nb6 Rxb2 31. Nxc8 Rxe5 32. Nxe7 Rxe7 33. Nf6+ Kf8 34. Nxg4 Rxe1+ 35. Rxe1 Nd4 ) 29... g3  {  Good enough to win.}  ( 29... Bc5  {  Another move order that wins, because of the threats against b2, b6, and f2.}  30. Na4 ( 30. Nxc8 g3 ) 30... Ba7 ) 30. Nxc8 Bc5  0-1
+

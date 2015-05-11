@@ -1,0 +1,123 @@
+[White "Chen Franklin"]
+[Black "Ahlborg, John"]
+[WhiteElo "2110"]
+[BlackElo "2034"]
+[Result "1-0"]
+[Date "2012.09.18"]
+[Event "14th Fred Sorensen Memorial"]
+[Site "Pittsburgh (USA)"]
+[Round "3.6"]
+[ECO "B38"]
+[Annotator "Chen Franklin"]
+[Source ""]
+[Remark ""]
+
+1.Nf3 Nf6 2.c4 g6 3.Nc3 Bg7 4.e4 c5 {I did not expect this reply.}
+( 4...d6 {I'd expected a transposition to the King's Indian.}
+5.d4 {%08DA} ) 5.d4 cxd4 6.Nxd4 d6 7.Be2 Nc6 {Now we have a Sicilian, Maroczy Bind. This is a slow, positional approach against the Accelerated Dragon Sicilian.}
+{%08DA} 8.Be3 Nxd4 9.Bxd4 O-O 10.O-O Be6 {
+I went into a deep think here. After the game, my opponent asked why, given
+that this is a standard opening position. I responded that I wanted to play the
+most aggressive plan here, not the most common one, and I needed to mentally switch gears.}
+{%08DA} 11.f4 {
+Most aggressive and completely different from the usual plan that involves f3.
+This is risky because of the opening of White's dark diagonal to the King as
+well as not overprotecting e4 and not protecting g4.}
+( 11.Qd2 {The most common plan by White, which I rejected as being less interesting.}
+{%08DA} ) Qc8 {?!} {Stopping f5 and threatening the c4 Pawn. But the Queen is misplaced.}
+{%09DB} ( 11...Rc8 {Most common.} ) 12.Nd5 {!?} {I wanted to get the two Bishops by force.}
+Bxd5 13.exd5 {
+At this point, I felt happy with my position, having more space and the two
+Bishops, and the classic Bind Pawn structure in which White has more space, a
+bind on the Queen side, and pressure on Black's half-open e file as well as King side attacking opportunities.}
+{%08DA} b5 {!?} {Either a miscalculation or a a deliberate Pawn sacrifice to try to free Black's position.}
+( 13...a5 {
+I think this thematic plan is Black's only hope of sound counterplay. Black
+controls b4 and plans to bring the Knight to d7 and then to c5 as an outpost, and possibly play a4 as needed.}
+{%08DA} ) 14.cxb5 {%09DB} Qb7 {Forced since the White Pawn is actually poisoned.}
+( 14...Nxd5 {??} {White's d5 Pawn is poisoned.} 15.Bxg7 {%08DA} )
+15.Bc4 {Good enough to keep b5 and d5 protected.} ( 15.a4 {Another method of keeping everything protected. The d5 Pawn is still poisoned.}
+) Rfc8 16.Qd3 {And White keeps the extra Pawn.} ( 16.b3 {?} {Allows Black to regain the Pawn.}
+Nxd5 17.Bxg7 Ne3 18.Qe2 Qb6 {%08DA} ) Nxd5 {?} {
+Unfortunately, the Pawn really is still poisoned. Black should have just
+acknowledged that the Pawn sacrifice was a true sacrifice that did not work out.}
+17.Bxg7 Nb6 18.Bxf7+ {Black is clearly lost now, not only a Pawn down but with his King exposed. It doesn't matter which Bishop he takes!}
+{%08DA} Kxg7 ( 18...Kxf7 {Taking the other Bishop is also terrible.}
+19.Bd4 {Black is about to lose already, with the King side torn apart.}
+{%08DA} ) 19.Be6 Rf8 20.Qd4+ {!} {A forcing continuation putting Black's pieces in awkward squares.}
+Rf6 21.g4 {Threatening to win the Rook with g5.} {%08DA} Kf8
+{An important position. Black is clearly about to lose, but how should White
+finish off the game? One thing to note, from a practical standpoint, is that
+the game has already lasted two and a half hours. A bit of fatigue and impatience have set in.}
+{%08DA} 22.f5 {?!} {Not the best plan to win.} ( 22.Rae1 {
+This simple move would have won immediately, by protecting e6 and threatening
+g5. After all the hard work of playing very precisely to reach this position, I suddenly had an energy drop.}
+) g5 {%09DB} 23.h4 {!} {White is still winning, with the plan of prying open the King side and either winning the g5 Pawn or going down the h file.}
+h6 {At this point, I started getting hallucinating about Black's Rook getting to
+h6, but in reality, everything was fine. My energy was getting low. I started eating some trail mix I brought.}
+{%08DA} 24.a4 {I got carried away with the idea of lifting the Queen Rook.}
+( 24.hxg5 {But a simple Rook lift with the other Rook wins easily!}
+hxg5 25.Rf2 Rh6 26.Rh2 ) Rb8 25.hxg5 hxg5 26.Ra3 {I thought this was cute.}
+( 26.Rf2 {Still best, getting to h2 quickly.} ) Rh6 {%09DB} 27.Raf3
+{?} {Wrong Rook! I suddenly got fixated with the idea of winning the g5 Pawn using my Queen.}
+( 27.Rff3 {Moving the right Rook was strong and wins easily, getting over to h3.}
+{%08DA} ) Nd7 28.Bxd7 Qxd7 29.Qe3 {White is still winning, but material has been reduced.}
+{%08DA} Kf7 30.Qxg5 {?} {
+I thought I saw an easy win and got very careless. I was down to 20 minutes on
+the clock and my opponent was down to 34. I still had time to collect myself but was impatient.}
+( 30.Rh3 {There was still time to win on the h file.} {%08DA} )
+Rbh8 31.f6 {The move I was fixated on getting in.} Rh1+ {?}
+( 31...Ke8 {!} 32.fxe7 Qxe7 33.Qxe7+ Kxe7 {Black might actually be able to hold this endgame.}
+{%08DA} ) 32.Kf2 R8h2+ 33.Ke1 {??!} {Played without any thought, assuming that the game was over for Black!!}
+( 33.Ke3 {!} {The King march was correct.} Qe6+ 34.Kd4 {White wins!}
+{%08DA} ) Qe6+ {
+Oops!!! I totally missed that because I played f6, suddenly Black's Queen could
+come to e6. Very, very careless. Now I had to make sure that I wasn't losing.}
+{%08DA} 34.Re3 Rxf1+ 35.Kxf1 {
+A critical position. Black can either force an endgame that is not so good for
+him, or try for perpetual check somehow. I was down to 14 minutes, but Black still had 27 minutes.}
+{%08DA} Qc4+ {??} {The wrong decision, played after 15 minutes of thought. Black now loses by force.}
+( 35...Qxf6+ 36.Qxf6+ Kxf6 {
+I had thought this ending was possibly winnable for White, but looking more
+closely, it seems that Black's King is too active and White's King is out of play.}
+{%08DA} 37.Rb3 {White surely has to try to immediately push the a and b Pawns to Queen.}
+{%08DA} ( 37.g5+ {Going for the a Pawn and e Pawn does not suffice, because Black's King is sufficiently active.}
+{%08DA} Kxg5 38.Rxe7 Rxb2 39.Rxa7 Kf4 {White cannot make sufficient progress.}
+{%08DA} 40.Ra6 Kf3 41.Ke1 Ke3 42.Rxd6 Rb1+ 43.Rd1 Rb4 44.Ra1
+Kd4 {%08DA} ) Rh1+ {Black must stop White's a Pawn immediately.}
+{%08DA} 38.Kf2 ( 38.Kg2 Ra1 39.Ra3 Rb1 40.Ra2 Rc1 41.a5 Rc4 42.Kf3
+Rb4 43.b6 a6 {%08DA} ) Ra1 39.Ra3 Rh1 40.a5 Rh2+ 41.Ke3 Rxb2
+42.b6 a6 43.Rc3 {I think White cannot actually win, because of Black's Pawns that can advance.}
+{%08DA} e5 44.Rc8 Rb3+ 45.Kd2 e4 46.Kc2 Rb4 47.Ra8 e3 48.Rxa6
+Rb2+ 49.Kxb2 e2 {%08DA} 50.b7 e1Q 51.b8Q {%08DA} Qe2+ 52.Ka3
+Qxa6 {%08DA} 53.Qf8+ Kg5 54.Qf5+ Kh4 55.g5 Kh5 56.Qd5 Qf1 57.Kb4
+{This is an insane computer-generated variation in which I assume White cannot force a win.}
+{%08DA} ) 36.Kg1 exf6 {A critical position. White's Queen is threatened. Does White have to move the Queen and give Black valuable time?}
+{%08DA} 37.Rf3 {!} {
+The key move that wins. White will win the Black Rook or checkmate through
+taking on f6. I was fortunate to have seen this earlier.}
+( 37.Qf5 {?} {Now it's a draw.} Rh4 {No way for White to make progress now.}
+{%08DA} ) Rg2+ {Aiming simply to reach a King and Pawn ending, which unfortunately is lost.}
+{%09DB} ( 37...Rc2 {Moving the Rook away allows White to break through on f6.}
+38.Qxf6+ Ke8 ( 38...Kg8 39.Qg5+ {%08DA} ) 39.Re3+ {%08DA} ) 38.Kxg2
+Qe2+ 39.Rf2 Qxf2+ 40.Kxf2 fxg5 {Unfortunately, this King and Pawn ending is trivially lost for Black.}
+{%08DA} 41.a5 Ke7 {%08DA} 42.b6 axb6 43.a6 {And White will have a new Queen soon.}
+{%08DA} {A very intense game that took four hours to complete!
+ 
+ There were tactical
+ideas all over the place, some of which were executed and some of which were
+traps that both sides sidestepped. The game started out with White trying to
+exert a Maroczy Bind positional squeeze, then Black trying (unsoundly) to free
+himself, and White accurately playing to retain an extra Pawn and then launch
+into a winning King side attack.
+ 
+ Unfortunately White started losing the
+thread, missing easy wins in favor of complicated but still winning ideas, then
+at the critical moment thought the game was won and carelessly allowed Black a
+resource that objectively should have resulted in a drawn Rook and Pawn ending.
+But Black returned the favor and made a blunder that allowed White to
+immediately win with the power of the Queen and Rook.
+ 
+ The later parts of
+the game were marred, I think, by time pressure and decreased energy. This is a practical consideration in long games.} 1-0
+

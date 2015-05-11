@@ -1,0 +1,69 @@
+[White "Prokhov Vassil"]
+[Black "Chen Franklin"]
+[WhiteElo "1848"]
+[BlackElo "2110"]
+[Result "0-1"]
+[Date "2012.09.11"]
+[Event "14th Fred Sorensen Memorial"]
+[Site "Pittsburgh (USA)"]
+[Round "2.6"]
+[ECO "B80"]
+[Annotator "Chen Franklin"]
+[Source ""]
+[Remark ""]
+
+{My opponent is a dangerous attacking player. I always feel inspired to take up
+the challenge and respond in kind when I play him. I expected the game to be a sharp Sicilian.} 1.e4
+c5 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 a6 6.Be3 {The English Attack. White plans to storm Black's King side.}
+e6 7.f3 b5 {Black immediately starts attacking on White's Queen side.}
+8.g4 Nfd7 {!?} {The most ambitious continuation, perhaps. Very risky positionally, because of moving the same piece twice in the opening.}
+9.h4 {Wasting no time to continue the King side attack.} Nb6
+{Continuing the plan of deploying all of Black's pieces on the Queen side.}
+10.Qd2 N8d7 11.O-O-O Bb7 {Continuing development.} 12.h5 {?}
+{Not really attacking anything right now.} b4 {Black takes over the center.}
+13.Nb1 d5 {Black's opening play has been a success. White is at a disadvantage already.}
+{%08DA} 14.Bd3 Ne5 15.Qf2 {A critical moment. How should Black continue the attack?}
+{%08DA} Nbc4 {?} {The wrong continuation, conceding equality.}
+( 15...Nxd3+ 16.Rxd3 ( 16.cxd3 e5 ) Nc4 ) 16.Bxc4 Nxc4 17.Nd2
+Nxe3 18.Qxe3 {
+At this point, I realized that White was now OK. Black is behind in development
+and White's Knights will be fine against Black's Bishops.} Be7
+19.f4 ( 19.e5 {Closing the center immediately was possible.} )
+Qb6 ( 19...dxe4 {Would have been one way to avoid the French style bind.}
+20.Nxe4 {Black should be OK in this position. White has great Knights, but Black's
+Bishops are in action too. But part of me wanted the position closed up.}
+{%08DA} ) 20.e5 {
+White has a fine French style Pawn structure. Black's light Bishop is terrible.
+Why did I go for this position? I was afraid for my King, that's why. I don't
+know if that was justified, but it looked like White could easily attack my King if the position were not closed.}
+{%08DA} O-O-O {?!} {
+I chickened out of continuing the Queen side attack, and decided to protect my
+King, at the cost of giving White a clear advantage.}
+( 20...a5 {The obvious way to continue an attack, but I seriously worried about the position of the Black King.}
+{%08DA} ) 21.Kb1 ( 21.N2f3 {White is very comfortable.} {%08DA} )
+Kb8 22.g5 Rc8 23.h6 {?} {Very committal, decreasing winning chances for White. Things are starting to look like a draw.}
+g6 24.Rc1 Rc7 {Black does not have any real winning chances, because of the bad Bishop, but it's worth doing what is possible.}
+{%08DA} 25.c3 {?} {
+Objectively, White is still OK after this move, but it plays into Black's
+hands. Obviously White is hoping to trade off pieces into a simplified endgame,
+but opening things up can only help Black, who has the Bishops.}
+Rhc8 26.cxb4 Bxb4 27.Rxc7 Rxc7 28.Rc1 a5 {Black is desperately trying to attack on the Queen side and possibly free up the bad Bishop.}
+29.Rxc7 Kxc7 {The position is a dead draw.} {%08DA} 30.a4 {??}
+{Losing a Pawn by force. Now it is a matter of technique for Black to win this game.}
+Bc6 {White cannot protect the a4 Pawn.} {%08DA} 31.N2b3
+( 31.b3 Bxa4 {%08DA} ) Bxa4 32.Qc1+ {??} {This check accomplishes nothing.}
+Kb7 33.Qd1 Bd7 {?} {Missing the immediate win and having to continue to create an opening.}
+( 33...Bxb3 {Immediately wins.} 34.Nxb3 Qe3 ) 34.Qd3 {%09DB}
+a4 35.Nd2 Bc5 {Black has made progress.} {%08DA} 36.Nc2 {?} Bb5
+{Now that the bad Bishop is active, the win is in sight.} {%08DA}
+37.Qc3 Be2 {The light Bishop is now quite active.} {%08DA} 38.Ka2
+d4 {Now using the extra Pawn, a passed Pawn.} {%08DA} 39.Qg3
+Qc6 {White is completely lost now.} {%08DA} 40.Kb1 d3 {%08DA}
+41.Ne3 Bb4 {%08DA} 42.Qe1 Qc5 {Winning a Knight by force.} {%08DA}
+43.Nec4 ( 43.Qh1+ Kb8 ) Qxc4 {%08DA} 44.Qh1+ Qc6 {Black is a piece up.}
+{%08DA} {I played the Black side of the Sicilian well enough up till the point at which
+I obtained an advantage, and then with a single move threw away the advantage,
+after which the logical conclusion of the game should have been a draw, but I
+waited until my opponent made a bad mistake losing a Pawn. After that, precise
+play was required to convert that advantage into a win.} 0-1
+
