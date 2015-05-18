@@ -6,6 +6,7 @@ title = "Franklin Chen's Grain of Sand"
 pygmentsstyle = "default"
 paginate = 10
 disqusShortname = "franklinchen"
+RssUri = "atom.xml"
 
 [author]
 # Seems to be used where title was
