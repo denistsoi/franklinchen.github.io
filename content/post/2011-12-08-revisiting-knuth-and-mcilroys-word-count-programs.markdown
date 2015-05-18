@@ -40,14 +40,14 @@ I have changed my mind about many things I said here, and also have more clarifi
 
 First, let's look at McIlroy's solution, which despite the passing of time is still a beautifully elegant illustration of why [Unix is timeless](/blog/2011/10/13/why-dennis-ritchie-is-important/). (By the way, [Knuth is a C and Linux user to this day](http://www.informit.com/articles/article.aspx?p=1193856)).
 
-{% codeblock McIlroy's shell script lang:bash %}
+{{< highlight sh >}}
 tr -cs A-Za-z '\n' |
 tr A-Z a-z |
 sort |
 uniq -c |
 sort -rn |
 sed ${1}q
-{% endcodeblock %}
+{{< /highlight >}}
 
 The code is self-explanatory if you are familiar with basic Unix command-line tools. The pipeline just transforms data starting from standard input until the desired result is computed.
 
@@ -71,7 +71,7 @@ I used [GHC](http://www.haskell.org/ghc/) to compile and run the program.  Sampl
 
 {{< highlight console >}}
 $ ghc -O6 --make WordCount
-$ ./WordCount 10 < WordCount.lhs 
+$ ./WordCount 10 < WordCount.lhs
 35 the
 16 a
 11 list
@@ -102,7 +102,7 @@ I find that literate programming in the Knuth style amounts to a macro system th
 
 Finally, literate programming interacts badly with editors and IDEs that are built specifically to operate on pure source code.
 
-What do you think? Which of the variants of the same Haskell code above would you prefer to write, read, or maintain? The non-literate one or the literate one? 
+What do you think? Which of the variants of the same Haskell code above would you prefer to write, read, or maintain? The non-literate one or the literate one?
 
 ## An alternative to literate programming
 

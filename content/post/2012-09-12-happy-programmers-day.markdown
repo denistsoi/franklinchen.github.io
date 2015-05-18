@@ -27,7 +27,7 @@ end
 
 The trick, of course, lies in what we have in `utils.rb`:
 
-{% codeblock Utilities lang:ruby http://github.com/FranklinChen/programmers-day/blob/master/ruby/utils.rb %}
+{{< highlight ruby >}}
 class Class
   alias orig_attr_reader attr_reader
 
@@ -41,6 +41,6 @@ class Class
     orig_attr_reader(*args)
   end
 end
-{% endcodeblock %}
+{{< /highlight >}}
 
 Very simple, nothing fancy, but perverse enough for a bit of Programmers' Day fun.

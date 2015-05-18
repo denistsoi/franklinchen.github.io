@@ -3,8 +3,8 @@ layout: post
 title: "A short example of why I prefer static typing: learning Gradle"
 date: 2012-09-24T17:07:00
 comments: true
-external-url: 
-categories: 
+external-url:
+categories:
 - programming
 - Maven
 - Java
@@ -16,6 +16,8 @@ categories:
 - SCons
 - Ruby
 - Rake
+- Haskell
+- Shake
 - domain-specific languages
 ---
 I make no secret of the fact the I prefer to program in [statically-typed languages](http://en.wikipedia.org/wiki/Programming_language#Static_versus_dynamic_typing). That is not to say that I don't write programs in dynamically typed languages. In fact, I have written and will continue to write programs in [Perl](/blog/categories/perl/), [Python](/blog/categories/python/), [Ruby](/blog/categories/ruby/), [JavaScript](/blog/categories/javascript/), and other dynamically typed programs, because pragmatically speaking, there is a whole lot more to programming to get something done than questions of [type systems](http://en.wikipedia.org/wiki/Type_system).
@@ -30,7 +32,9 @@ Here's an example as I've been learning [Gradle](http://www.gradle.org/) while e
 
 Here's a code example from a book I've been going through while studying Gradle, ["Building and Testing with Gradle"](http://gradleware.com/registered/books/building-and-testing/):
 
-{% codeblock Example 3.21. Use the Ant path references inside the Gradle build lang:groovy %}
+### Example 3.21. Use the Ant path references inside the Gradle build
+
+{{< highlight groovy >}}
 ant.importBuild 'build.xml'
 
 defaultTasks = ['gradleBuild']
@@ -56,23 +60,23 @@ task gradleBuild << {
     println "localRepository3 name = " + repositories.localRepository3.name
     println "localRepository3 latest = " + repositories.localRepository3.latest
     println "localRepository3 ivyPatterns = " + repositories.localRepository3.ivyPatterns
-    println "localRepository3 artifactPatterns = 
+    println "localRepository3 artifactPatterns =
        " + repositories.localRepository3.artifactPatterns
-    println "localRepository3 checkconsistency = 
+    println "localRepository3 checkconsistency =
        " + repositories.localRepository3.checkconsistency
-    println "localRepository3 m2compatible = 
+    println "localRepository3 m2compatible =
        " + repositories.localRepository3.m2compatible
-    println "localRepository3 methods = 
+    println "localRepository3 methods =
        " + repositories.localRepository3.metaClass.methods*.name.sort().unique()
 }
-{% endcodeblock %}
+{{< /highlight >}}
 
 ## Error output
 
 Unfortunately, this Gradle build file, when executed under the current version of Gradle, dies with an error:
 
 {{< highlight console >}}
-$ ./run-example.bsh 
+$ ./run-example.bsh
 :gradleBuild
 The repositories bridged from Ant to Gradle are:
 [localRepository1, localRepository2, localRepository3]
@@ -104,3 +108,13 @@ Gradle's API has changed since the publication of the book, obviously. And in fa
 ## Conclusion
 
 Gradle seems to be a promising build tool, and I will continue to evaluate it while skipping over the particular mysterious error I encountered (since it is not really relevant to what I want to do in my builds), but I wish I could have better figured out what went wrong with the book's code example. Meanwhile, it remains to be seen what kinds of problems I will encounter when using SBT. Again, I have to emphasize that my goal is to get things done, correctly and efficiently. Whatever works best, I will use, whatever its drawbacks: in another project, I happily used [SCons](/blog/categories/scons/) as a build tool, based on the dynamically typed language Python, and of course, I have used [Rake](http://rake.rubyforge.org/) for Ruby projects.
+
+### (Update of 2015-05-18)
+
+Wow, that was written in fall of 2012.
+
+Since then, I have heavily used SBT from then to the present first for Java, then for Scala, which [became my main programming language in early 2013](http://franklinchen.com/blog/2013/01/11/2013-is-my-year-of-scala/).
+
+Also, in early 2015, [Pivotal got out of the Groovy business](http://blog.pivotal.io/pivotal/news-2/groovy-2-4-and-grails-3-0-to-be-last-major-releases-under-pivotal-sponsorship).
+
+Meanwhile, in early 2015 as I adopted Haskell as my main language for new projects, I switched away from SCons as a general-purpose build tool to Haskell-based [Shake](http://shakebuild.com/), which works really great for me.
