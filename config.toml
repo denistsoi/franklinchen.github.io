@@ -2,7 +2,7 @@ theme = "hyde-x"
 
 baseurl = "http://franklinchen.com"
 languageCode = "en-us"
-title = "Franklin Chen's Grain of Sand"
+title = "Franklin Chen"
 pygmentsstyle = "default"
 paginate = 10
 disqusShortname = "franklinchen"
@@ -11,7 +11,7 @@ RelativeURLs = "true"
 
 [author]
 # Seems to be used where title was
-name = "Franklin Chen's Grain of Sand"
+name = "Franklin Chen"
 
 [permalinks]
 post = "/blog/:year/:month/:day/:title/"

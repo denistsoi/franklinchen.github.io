@@ -1,10 +1,8 @@
 <div class="sidebar">
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
-<!--
       <img src="/images/holding-infinity.jpg" alt="Franklin's palm" title="Franklin's palm"/>
--->
-      <h2>{{ .Site.Author.name }}</h2>
+      <h1>{{ .Site.Author.name }}</h1>
       {{ with .Site.Params.tagline }}<p class="lead">{{ . | markdownify }}</p>{{ end }}
     </div>
 
