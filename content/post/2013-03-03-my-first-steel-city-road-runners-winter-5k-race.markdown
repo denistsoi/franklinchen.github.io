@@ -25,7 +25,7 @@ I was a little disappointed by how "slow" I ran, but actually, given the amount 
 
 ## The route
 
-The route was actually kind of a complement to the [Pretty Good Race 5K](/blog/categories/pretty-good-race/) course, overlapping the turnaround point of that race but on the same trail in Schenley Park.
+The route was actually kind of a complement to the [Pretty Good Race 5K](/categories/pretty-good-race/) course, overlapping the turnaround point of that race but on the same trail in Schenley Park.
 
 <iframe id="mapmyfitness_route" src="http://www.mapmyrun.com/routes/view/embedded/176780548?width=560&height=400&&line_color=7f0000ff&distance_markers=1&map_mode=TERRAIN" height="420px" width="100%" frameborder="0"></iframe><div style="text-align: right; padding-right: 20px;"><a target="_blank" href="http://mapmyrun.com/routes/create/">Create Maps</a> or <a target="_blank" href="http://mapmyrun.com/routes/">search</a> from 80 million at <a href="http://mapmyrun.com">MapMyRun</a></div>
 

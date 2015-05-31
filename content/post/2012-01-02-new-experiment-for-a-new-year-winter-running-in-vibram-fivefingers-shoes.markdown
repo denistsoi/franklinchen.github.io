@@ -11,7 +11,7 @@ categories:
 - snow
 - FiveFingers
 ---
-I first started wearing [Vibram FiveFingers](/blog/categories/fivefingers/) minimalist shoes in October of 2009, but every year, I have not worn them in the winter months when the temperature drops below freezing and there is snow or ice on the ground (January, February).
+I first started wearing [Vibram FiveFingers](/categories/fivefingers/) minimalist shoes in October of 2009, but every year, I have not worn them in the winter months when the temperature drops below freezing and there is snow or ice on the ground (January, February).
 
 Somehow, today as I saw a bit of snow fall outside (with very little accumulation), I decided to do a short run (less than two miles) in my Bikila LS shoes while returning some items to the local library, to get a taste of whether it is practical to try regular winter running in these shoes, as the temperature drops and more snow falls.
 

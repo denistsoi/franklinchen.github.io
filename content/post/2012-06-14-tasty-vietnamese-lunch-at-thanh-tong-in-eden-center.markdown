@@ -10,7 +10,7 @@ categories:
 - food
 - Vietnamese
 ---
-Some weeks ago when Abby and I were in DC to stay with my sister and her husband in order to see and help out with our new [nephew](/blog/categories/nephew/), we took a trip to go to the [Great Wall supermarket](http://www.gw-supermarket.com/) in Virginia to buy groceries for the household.
+Some weeks ago when Abby and I were in DC to stay with my sister and her husband in order to see and help out with our new [nephew](/categories/nephew/), we took a trip to go to the [Great Wall supermarket](http://www.gw-supermarket.com/) in Virginia to buy groceries for the household.
 
 ## Eden Center
 

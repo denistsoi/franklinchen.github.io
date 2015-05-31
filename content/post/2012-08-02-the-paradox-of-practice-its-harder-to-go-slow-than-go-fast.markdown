@@ -34,7 +34,7 @@ When I think about it, I have successfully used slow practice in many fields in 
 
 ## Ballroom dance
 
-When I was learning [ballroom dance](/blog/categories/ballroom-dance/) over a decade ago, I started out as a very uncoordinated, clumsy, confused beginner in the [Carnegie Mellon University Ballroom Dance Club](http://cmubdc.org/). I was *very lucky* that I stumbled around only about a month before I started getting quality professional instruction in a small group setting (a benefit of the club) supplementing the large group classes (which I had found barely helpful, frankly).
+When I was learning [ballroom dance](/categories/ballroom-dance/) over a decade ago, I started out as a very uncoordinated, clumsy, confused beginner in the [Carnegie Mellon University Ballroom Dance Club](http://cmubdc.org/). I was *very lucky* that I stumbled around only about a month before I started getting quality professional instruction in a small group setting (a benefit of the club) supplementing the large group classes (which I had found barely helpful, frankly).
 
 ### Rumba to cha cha
 
@@ -56,7 +56,7 @@ I improved very quickly in ballroom dance once I started having the serious tech
 
 ## Running
 
-When I started [running](/blog/categories/running/), I was 29 years old and had been sedentary all my life. I didn't know what I was doing when I first started running. I would just go out and run hard, get out of breath very quickly, stop, and go on. I got sore this way, and also did not actually improve my speed much during my first sloppy year of running. I only got *much faster* when I learned the science of how to run *slowly*. I got much faster than friends I was running with who were still running the unsystematic way, at a faster training pace than me.
+When I started [running](/categories/running/), I was 29 years old and had been sedentary all my life. I didn't know what I was doing when I first started running. I would just go out and run hard, get out of breath very quickly, stop, and go on. I got sore this way, and also did not actually improve my speed much during my first sloppy year of running. I only got *much faster* when I learned the science of how to run *slowly*. I got much faster than friends I was running with who were still running the unsystematic way, at a faster training pace than me.
 
 It is possible to run too slowly for benefit. But the trick is to run slowly enough in order to be relaxed, observe one's form, correct it, and put in the time to slowly build up endurance. Running too fast only led me to go for a shorter period of time, execute with poor form, and get injured.
 
@@ -70,7 +70,7 @@ After a couple of years, upon finding good running technique books and Web sites
 
 ## Chess
 
-Most [chess](/blog/categories/chess/) players, myself included, enjoying playing [fast chess](http://en.wikipedia.org/wiki/Fast_chess). Five-minute games are exciting and fun because you can play so many of them in a given time and there is little time to think. But we all know that playing too much blitz chess can harm one's "serious" slow chess games, games in which you may get two hours of time on your clock rather than five minutes. The problem, of course, is that getting used to making moves without thinking much does not train you to know how to think more deeply when you have much more time to use.
+Most [chess](/categories/chess/) players, myself included, enjoying playing [fast chess](http://en.wikipedia.org/wiki/Fast_chess). Five-minute games are exciting and fun because you can play so many of them in a given time and there is little time to think. But we all know that playing too much blitz chess can harm one's "serious" slow chess games, games in which you may get two hours of time on your clock rather than five minutes. The problem, of course, is that getting used to making moves without thinking much does not train you to know how to think more deeply when you have much more time to use.
 
 Learning to play chess slowly is a challenge. I was never very good at playing slowly as a child, because I was impatient, and did not have a chess teacher to discipline me. When I returned to playing serious tournament chess, twenty years after not playing a single game, I suffered tremendously, because I had no idea how to make use of time during slow games. But with practice, analyzing games at home slowly in order to simulate the process, I learned how to look more deeply in the tree of possible game continuations. I would give myself three minutes, say, to do an analysis, and then computer-check it.
 

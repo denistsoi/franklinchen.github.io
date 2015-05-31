@@ -13,7 +13,7 @@ categories:
 - Holiday Ball
 - contra dance
 ---
-So on this blog I've already written about [starting to play recorder](/blog/categories/recorder/) earlier this year, then taking up [flute again](/blog/categories/flute/), and even just barely getting started with [Baroque flute](/blog/categories/baroque-flute/).
+So on this blog I've already written about [starting to play recorder](/categories/recorder/) earlier this year, then taking up [flute again](/categories/flute/), and even just barely getting started with [Baroque flute](/categories/baroque-flute/).
 
 Yesterday I started playing the [tin whistle](http://en.wikipedia.org/wiki/Tin_whistle) for the first time ever!
 
@@ -73,6 +73,6 @@ But 10 months later, Abby and I did do a full contra dance workshop for my first
 
 I am amused and grateful that by accident I have come to yet another musical instrument of interest, the tin whistle. I will try to get better at it this week for the Holiday Ball, but I have to confess that I don't know what I'll do with it outside of that context. I don't exactly go around playing Irish dance music. As far as my musical goals are concerned: I'd like to return to my long-term project of improving a lot on the modern flute in the coming months, and continuing my recorder improvement as well. I will put Baroque flute on hold for a while, till maybe spring.
 
-There are other instruments also, but time is so limited. Some time ago, I only barely got started on [accordion](/blog/categories/accordion/) and have no idea when I'll return to that. Also I started up on piano again, but have put that aside again. I have a ukulele that I have barely started on, but Abby and I seem to be meeting people who are getting into it lately, so at least I know that if I wanted to take it up, there would be a local community to tap into.
+There are other instruments also, but time is so limited. Some time ago, I only barely got started on [accordion](/categories/accordion/) and have no idea when I'll return to that. Also I started up on piano again, but have put that aside again. I have a ukulele that I have barely started on, but Abby and I seem to be meeting people who are getting into it lately, so at least I know that if I wanted to take it up, there would be a local community to tap into.
 
 I figure that to get good eventually and rapidly at any instrument, I need to spend at least half an hour a day on average of practice, and I cannot really spend more than an hour a day total on music right now, so that means working on no more than two instruments at a time.

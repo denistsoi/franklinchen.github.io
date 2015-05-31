@@ -20,7 +20,7 @@ categories:
 - Shake
 - domain-specific languages
 ---
-I make no secret of the fact the I prefer to program in [statically-typed languages](http://en.wikipedia.org/wiki/Programming_language#Static_versus_dynamic_typing). That is not to say that I don't write programs in dynamically typed languages. In fact, I have written and will continue to write programs in [Perl](/blog/categories/perl/), [Python](/blog/categories/python/), [Ruby](/blog/categories/ruby/), [JavaScript](/blog/categories/javascript/), and other dynamically typed programs, because pragmatically speaking, there is a whole lot more to programming to get something done than questions of [type systems](http://en.wikipedia.org/wiki/Type_system).
+I make no secret of the fact the I prefer to program in [statically-typed languages](http://en.wikipedia.org/wiki/Programming_language#Static_versus_dynamic_typing). That is not to say that I don't write programs in dynamically typed languages. In fact, I have written and will continue to write programs in [Perl](/categories/perl/), [Python](/categories/python/), [Ruby](/categories/ruby/), [JavaScript](/categories/javascript/), and other dynamically typed programs, because pragmatically speaking, there is a whole lot more to programming to get something done than questions of [type systems](http://en.wikipedia.org/wiki/Type_system).
 
 Nevertheless, it is always painful to me when I hit a wall when learning and using an unfamiliar API from a dynamically typed language. I always think, "if only this API were statically typed, so that when I encounter an error, I can immediately look up what went wrong".
 
@@ -107,7 +107,7 @@ Gradle's API has changed since the publication of the book, obviously. And in fa
 
 ## Conclusion
 
-Gradle seems to be a promising build tool, and I will continue to evaluate it while skipping over the particular mysterious error I encountered (since it is not really relevant to what I want to do in my builds), but I wish I could have better figured out what went wrong with the book's code example. Meanwhile, it remains to be seen what kinds of problems I will encounter when using SBT. Again, I have to emphasize that my goal is to get things done, correctly and efficiently. Whatever works best, I will use, whatever its drawbacks: in another project, I happily used [SCons](/blog/categories/scons/) as a build tool, based on the dynamically typed language Python, and of course, I have used [Rake](http://rake.rubyforge.org/) for Ruby projects.
+Gradle seems to be a promising build tool, and I will continue to evaluate it while skipping over the particular mysterious error I encountered (since it is not really relevant to what I want to do in my builds), but I wish I could have better figured out what went wrong with the book's code example. Meanwhile, it remains to be seen what kinds of problems I will encounter when using SBT. Again, I have to emphasize that my goal is to get things done, correctly and efficiently. Whatever works best, I will use, whatever its drawbacks: in another project, I happily used [SCons](/categories/scons/) as a build tool, based on the dynamically typed language Python, and of course, I have used [Rake](http://rake.rubyforge.org/) for Ruby projects.
 
 ### (Update of 2015-05-18)
 

@@ -32,7 +32,7 @@ I set a policy of only having this one cup on weekdays and being coffee-free at 
 
 Sometimes I like to change my routine for no particular reason other than change. From experience, I have learned that often, changing something *for no reason at all* can be beneficial. I then wait to be surprised by what I learn, what I observe, and I always have the option of noting that the change was for the worse and therefore returning to my routine.
 
-I've done these kinds of changes when it comes to my [exercise](/blog/categories/exercise/) routines, my [music](/blog/categories/programming/) practice, my use of [computer programming](/blog/categories/programming/) languages and tools, etc. Through experimentation, I improve my routines and keep my mind and body fresh.
+I've done these kinds of changes when it comes to my [exercise](/categories/exercise/) routines, my [music](/categories/programming/) practice, my use of [computer programming](/categories/programming/) languages and tools, etc. Through experimentation, I improve my routines and keep my mind and body fresh.
 
 ## Decreased appreciation
 

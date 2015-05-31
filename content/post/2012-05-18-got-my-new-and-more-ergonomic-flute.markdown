@@ -13,7 +13,7 @@ Three months ago, I was having [problems](/blog/2012/02/27/flute-practice-dealin
 
 {{< figure src="/images/azumi-3000-flute/azumi-for-the-growing-flutist.jpg" title="Azumi 3000 flute packaging" >}}
 
-I finally got my new [Azumi flute](http://www.azumiflutes.com/), the [3000 model](http://www.azumiflutes.com/#/2000-3000-Models) with offset G and split E, as recommended on [Jen Cluff's wonderful flute blog](http://www.jennifercluff.com/flutequip.htm) as a good "intermediate" flute. As a "growing flutist" who has practiced seriously [for only a few months](/blog/categories/flute/) in my life, I hope this new flute will serve me well for years to come, as I progress beyond my current "advanced beginner" level (see Postscript below).
+I finally got my new [Azumi flute](http://www.azumiflutes.com/), the [3000 model](http://www.azumiflutes.com/#/2000-3000-Models) with offset G and split E, as recommended on [Jen Cluff's wonderful flute blog](http://www.jennifercluff.com/flutequip.htm) as a good "intermediate" flute. As a "growing flutist" who has practiced seriously [for only a few months](/categories/flute/) in my life, I hope this new flute will serve me well for years to come, as I progress beyond my current "advanced beginner" level (see Postscript below).
 
 ## Comparison with my old Yamaha YFL-381H flute
 

@@ -79,7 +79,7 @@ But I had the same frustrations as with the loaner ukulele. The instrument seeme
 
 It turned out that I did continue with recorder, largely because I found the Pittsburgh Recorder Society and joined it, and I have been playing recorder [ever since](/blog/2013/02/23/celebrating-two-years-of-playing-recorder/), even attending my first music camp less than two years later, the week-long [summer 2012 Mideast Early Music Workshop](/blog/2012/07/21/mideast-early-music-workshop-a-life-changing-experience/), which focuses on recorders.
 
-If there had been a Pittsburgh ukelele group at the time, the course of my entire musical life could have been altered: I would not have spent the last two years of my musical life on recorders, modern flute, [Baroque flute](/blog/categories/baroque-flute/), [Irish flute](/blog/categories/irish-flute/), and [tin whistle](/blog/tin-whistle/) (years that I treasure, so I am actually glad that I gave up ukulele when I did!).
+If there had been a Pittsburgh ukelele group at the time, the course of my entire musical life could have been altered: I would not have spent the last two years of my musical life on recorders, modern flute, [Baroque flute](/categories/baroque-flute/), [Irish flute](/categories/irish-flute/), and [tin whistle](/blog/tin-whistle/) (years that I treasure, so I am actually glad that I gave up ukulele when I did!).
 
 ## Steel City Ruby music jam (August 2012)
 

@@ -17,7 +17,7 @@ categories:
 ---
 A week ago, I [started playing the flute again after decades](/blog/2011/11/09/taking-up-flute-again-after-decades/).
 
-Since I started playing [recorder](/blog/categories/recorder/) in February, and made it my main instrument, I am torn by the fact that I have been playing it every other day now rather than every day, and playing flute every other day. It feels weird dividing my attention in this way.
+Since I started playing [recorder](/categories/recorder/) in February, and made it my main instrument, I am torn by the fact that I have been playing it every other day now rather than every day, and playing flute every other day. It feels weird dividing my attention in this way.
 
 I suppose it's time to talk more about why I started playing recorder in the first place, and why I am back to flute now (in addition).
 

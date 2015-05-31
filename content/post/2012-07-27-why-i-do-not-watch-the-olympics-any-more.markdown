@@ -33,7 +33,7 @@ I have positive memories of watching the Olympics on TV with my parents and sist
 
 ### [Sydney 2000](http://en.wikipedia.org/wiki/2000_Summer_Olympics)
 
-For a long time, I stopped watching sports, but I watched Sydney 2000 because I had finally actually taken up [running](/blog/categories/running/) and was looking for inspiration. It was there the distance running events that I mostly paid attention to, and it was thrilling to see Haile Gebrselassie defeat Paul Tergat by the thinnest of margins in the 10000m. But I watched a whole lot of other stuff too, from swimming to Greco-Roman wrestling. I recorded off TV and watched hours and hours of Olympic coverage.
+For a long time, I stopped watching sports, but I watched Sydney 2000 because I had finally actually taken up [running](/categories/running/) and was looking for inspiration. It was there the distance running events that I mostly paid attention to, and it was thrilling to see Haile Gebrselassie defeat Paul Tergat by the thinnest of margins in the 10000m. But I watched a whole lot of other stuff too, from swimming to Greco-Roman wrestling. I recorded off TV and watched hours and hours of Olympic coverage.
 
 But as I watched the track sprint events, and more and more noticed how selective and slanted the American NBC coverage of the whole Olympics was, I grew to question what I was participating in by excitedly watching and discussing these games. Marion Jones was all hyped up by the American TV coverage, for example. And the rumors of illegal doping by athletes ([not a new problem](http://en.wikipedia.org/wiki/Use_of_performance-enhancing_drugs_in_the_Olympic_Games), of course; the Ben Johnson scandal was one reason I stopped watching the Olympics for years) kept on bothering me. 
 

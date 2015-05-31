@@ -14,7 +14,7 @@ categories:
 - GitHub
 - learning
 ---
-Tonight the [Pittsburgh Java User Group](http://java.net/projects/pittjug/) ([PittJUG](/blog/categories/pittjug/)) had another meeting at the [Pittsburgh Technology Council](http://www.pghtech.org/). [Matthew McCullough](http://twitter.com/matthewmccull) of [GitHub](http://github.com/) gave a talk "Get Going with [Git](http://git-scm.com/) on Java Projects".
+Tonight the [Pittsburgh Java User Group](http://java.net/projects/pittjug/) ([PittJUG](/categories/pittjug/)) had another meeting at the [Pittsburgh Technology Council](http://www.pghtech.org/). [Matthew McCullough](http://twitter.com/matthewmccull) of [GitHub](http://github.com/) gave a talk "Get Going with [Git](http://git-scm.com/) on Java Projects".
 
 I arrived early and couldn't help admiring the view outside before entering the building as there was still daylight. Here are the Birmingham Bridge and the [Monongahela River](http://en.wikipedia.org/wiki/Monongahela_River):
 

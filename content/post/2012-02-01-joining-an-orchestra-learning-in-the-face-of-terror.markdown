@@ -14,7 +14,7 @@ categories:
 - practice
 - recorder
 ---
-I have not written about my [flute activities](/blog/categories/flute/) since [a month ago](/blog/2012/01/08/finding-and-using-my-childhood-flute-books/), but that's not for lack of action: in fact, I've been spending a lot of time on the flute, at the expense of other personal projects, including writing.
+I have not written about my [flute activities](/categories/flute/) since [a month ago](/blog/2012/01/08/finding-and-using-my-childhood-flute-books/), but that's not for lack of action: in fact, I've been spending a lot of time on the flute, at the expense of other personal projects, including writing.
 
 Two months ago, I mentioned that I was [considering joining](/blog/2011/12/01/im-going-to-perform-music-much-sooner-than-i-expected-monday/) the [Carnegie Mellon All-University Orchestra](http://www.andrew.cmu.edu/user/auo/), which I claimed was "not very good" and that "I don't have to be super good to be a part of it." *I take back those comments*.
 
@@ -63,7 +63,7 @@ For fun, here is the CMU AUO performing last fall Bernstein's Overture to Candid
 
 ## My practice strategy for a week after the first rehearsal
 
-All January I had been working really hard for three weeks on flute practice, in anticipation of the first CMU AUO rehearsal that occurred on January 22. I was making a *huge* amount of progress working through "easy" stuff. Flute is much, much harder to play than [recorder](/blog/categories/recorder/).
+All January I had been working really hard for three weeks on flute practice, in anticipation of the first CMU AUO rehearsal that occurred on January 22. I was making a *huge* amount of progress working through "easy" stuff. Flute is much, much harder to play than [recorder](/categories/recorder/).
 
 After the first rehearsal, I decided that there was no way I could ever play the Gershwin or Bernstein without focusing really hard on pure technique. So the bulk of my practice was beginning to systematically work through the [Rubank Intermediate Method: Flute or Piccolo](http://www.amazon.com/Rubank-Intermediate-Method-Piccolo-Educational/dp/1423444221) that I mentioned [finding in early January](/blog/2012/01/08/finding-and-using-my-childhood-flute-books/) and never having used.
 

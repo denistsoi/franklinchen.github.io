@@ -14,7 +14,7 @@ categories:
 ---
 {{< figure src="/images/belwin-home-practice-record.jpg" title="My 5th grade flute book practice record" >}}
 
-I was in my basement looking for stuff and happened to find three of my childhood [flute](/blog/categories/flute/) books:
+I was in my basement looking for stuff and happened to find three of my childhood [flute](/categories/flute/) books:
 
 - [Belwin Band Builder part 1](http://www.amazon.com/Belwin-Band-Builder-Part-Flute/dp/B000M0CLSW)
 - [Rubank Intermediate Method: Flute or Piccolo](http://www.amazon.com/Rubank-Intermediate-Method-Piccolo-Educational/dp/1423444221)
@@ -72,7 +72,7 @@ Unfortunately, I do not particularly like the selections or length (each just a 
 
 ## My reflections
 
-It's funny to me that even now, thirty years later, my mind still operates in a similar way. I still like marches. I still like fast waltzes (and even originally took up [ballroom dance](/blog/categories/ballroom-dance/) specifically because I wanted to eventually dance the Viennese waltz. I still am more motivated to play something new if I've heard it before and like it.
+It's funny to me that even now, thirty years later, my mind still operates in a similar way. I still like marches. I still like fast waltzes (and even originally took up [ballroom dance](/categories/ballroom-dance/) specifically because I wanted to eventually dance the Viennese waltz. I still am more motivated to play something new if I've heard it before and like it.
 
 But I'm also more mature now, more open. I've listened to a whole lot more and whole lot more variety of music since I was a child. And I'm willing to try listening to or playing any kind of music now. In fact, just last year, most of the music I've played on any instrument has been completely new to me, as a listener or performer. And that's great. It's part of the whole fun of living, experiencing more and different music.
 

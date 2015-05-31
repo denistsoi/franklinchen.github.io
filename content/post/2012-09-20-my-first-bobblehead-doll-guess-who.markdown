@@ -56,7 +56,7 @@ As we wandered around at the party, we sampled the food and checked out the tabl
 
 {{< figure src="/images/199595_10151047722351513_1243992903_n.jpg" title="Recorder quartet" >}}
 
-We arrived in time to see my [recorder](/blog/categories/recorder/) friends perform as a recorder quartet, playing a variety of selections. Fred, Helen, Mike, and Annie were delightful.
+We arrived in time to see my [recorder](/categories/recorder/) friends perform as a recorder quartet, playing a variety of selections. Fred, Helen, Mike, and Annie were delightful.
 
 Afterwards, members of the five music organizations took turns performing for us. Unfortunately, the acoustic situation was quite poor amidst the party conversations going on everywhere, but I enjoyed watching the people who sang and played for us.
 
@@ -70,7 +70,7 @@ By the bobbleheads, there was a sheet saying something like, "Name a piece I wro
 
 ## Notes on Johann Sebastian Bach's flute sonatas
 
-The composer whose bobblehead I got was, of course, [Johann Sebastian Bach](/blog/categories/johann-sebastian-bach/), a hero of mine in the past year during which I've gradually fallen in love with Baroque music.
+The composer whose bobblehead I got was, of course, [Johann Sebastian Bach](/categories/johann-sebastian-bach/), a hero of mine in the past year during which I've gradually fallen in love with Baroque music.
 
 ### What instrument?
 
@@ -80,7 +80,7 @@ In the case of his son, [CPE Bach](http://en.wikipedia.org/wiki/Carl_Philipp_Ema
 
 *Plus, CPE Bach's music is much easier to play on modern flute.*
 
-Unfortunately, Johann Sebastian Bach's flute sonatas, although I prefer them on Baroque flute than to modern flute, are much harder to play on Baroque flute. It turns out that I dislike almost all recordings I've come across of this music on modern flute, with one exception: the [recordings](http://www.pahudbach.com/) of [Emmanuel Pahud](/blog/categories/emmanuel-pahud/).
+Unfortunately, Johann Sebastian Bach's flute sonatas, although I prefer them on Baroque flute than to modern flute, are much harder to play on Baroque flute. It turns out that I dislike almost all recordings I've come across of this music on modern flute, with one exception: the [recordings](http://www.pahudbach.com/) of [Emmanuel Pahud](/categories/emmanuel-pahud/).
 
 ### My decision
 

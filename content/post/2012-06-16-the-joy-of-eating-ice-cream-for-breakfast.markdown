@@ -33,13 +33,13 @@ A couple of times, we managed to get ice cream into the picture. We must have fo
 
 ## But ice cream is not a good food
 
-I have to explain that Abby and I don't eat ice cream much any more. We've found that it is too sugary and makes us feel tired or bloated in large quantities. You don't have to be [paleo](/blog/categories/paleo/) to understand and experience the drawbacks of ice cream (not that we're strictly paleo anyway).
+I have to explain that Abby and I don't eat ice cream much any more. We've found that it is too sugary and makes us feel tired or bloated in large quantities. You don't have to be [paleo](/categories/paleo/) to understand and experience the drawbacks of ice cream (not that we're strictly paleo anyway).
 
 However, I'm a big believer in [intermittent cheating](http://www.t-nation.com/free_online_article/most_recent/in_defense_of_cheat_days), so I'm happy to eat ice cream now and then as a special treat, but otherwise, I don't really need it.
 
 ## Why I had to eat ice cream for breakfast
 
-I didn't buy this bucket of Trader Joe's Coffee Bean Blast ice cream; Abby did. She thought it would be a nice post-[hike](/blog/categories/hiking) treat. Unfortunately, it has turned out in the past months that whenever we go out on a weekend for a hike or some other outdoors adventure, we come back in the evening, and it's too late to eat this ice cream.
+I didn't buy this bucket of Trader Joe's Coffee Bean Blast ice cream; Abby did. She thought it would be a nice post-[hike](/categories/hiking) treat. Unfortunately, it has turned out in the past months that whenever we go out on a weekend for a hike or some other outdoors adventure, we come back in the evening, and it's too late to eat this ice cream.
 
 The problem is caffeine. Eating this ice cream would mess up our night of sleep. In fact, I verified this once, eating some of the ice cream in the evening: oops.
 
@@ -47,7 +47,7 @@ Frustrated, I didn't know when I *could* eat this coffee ice cream. Clearly, the
 
 ## What I did to earn my breakfast
 
-I went for a five-mile [run](/blog/categories/running/) in [Frick Park](/blog/categories/frick-park/). I wore my Vibram FiveFingers Bikila LS shoes.
+I went for a five-mile [run](/categories/running/) in [Frick Park](/categories/frick-park/). I wore my Vibram FiveFingers Bikila LS shoes.
 
 {{< figure src="/images/vibram-fivefingers-bikila-ls.jpg" title="Vibram FiveFingers Bikila LS shoes" >}}
 

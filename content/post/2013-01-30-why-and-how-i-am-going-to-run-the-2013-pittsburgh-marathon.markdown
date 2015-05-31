@@ -48,7 +48,7 @@ I want to:
 
 In sharp contrast to my first marathon, I do *not* plan to race this marathon as fast as I can. That blew up on me, and I do not have the time or desire to maximize my marathon performance at this point in my life. I do want to run strong, but not maximally. So I am not almost certainly not going to run faster than I did ten years ago; I am specifically expecting to run *slower* but to have a *better* overall experience.
 
-This will not be the second time I run a marathon distance; I have done that two or three times on my own while training for the [Rachel Carson Trail Challenge](/blog/categories/rachel-carson-trail-challenge/) and have also run just over a marathon distance in the annual Sammy's Birthday Run (a 6-hour ultra event) in 2006 and 2008. But those I did pretty slowly just for training and fun, in well over four hours. In the 2013 Pittsburgh Marathon, I'd like to finish close to the completely arbitrary magic number of 4:00:00. This is very low priority compared to the other goals, but it's useful to have a little bit of ambition.
+This will not be the second time I run a marathon distance; I have done that two or three times on my own while training for the [Rachel Carson Trail Challenge](/categories/rachel-carson-trail-challenge/) and have also run just over a marathon distance in the annual Sammy's Birthday Run (a 6-hour ultra event) in 2006 and 2008. But those I did pretty slowly just for training and fun, in well over four hours. In the 2013 Pittsburgh Marathon, I'd like to finish close to the completely arbitrary magic number of 4:00:00. This is very low priority compared to the other goals, but it's useful to have a little bit of ambition.
 
 ### Experiment
 

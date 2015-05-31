@@ -18,7 +18,7 @@ categories:
 ---
 <a href="https://www.flickr.com/photos/melissappc/663419600" title="Schenley Park by Melissa McMasters, on Flickr"><img src="https://farm2.staticflickr.com/1309/663419600_66449cdcc7.jpg" width="333" height="500" alt="Schenley Park"></a>
 
-Today I celebrated [National Running Day](http://www.runningday.org/) by, uh, going out for a [run](/blog/categories/running/). Here in Pittsburgh, I have come to like most to run in [Frick Park](http://pittsburghparks.org/frick), but today I decided to run in [Schenley Park](http://www.pittsburghparks.org/schenley) instead, as I was in a sentimental mood.
+Today I celebrated [National Running Day](http://www.runningday.org/) by, uh, going out for a [run](/categories/running/). Here in Pittsburgh, I have come to like most to run in [Frick Park](http://pittsburghparks.org/frick), but today I decided to run in [Schenley Park](http://www.pittsburghparks.org/schenley) instead, as I was in a sentimental mood.
 
 I ran the out and back [Pretty Good Race](http://www.cs.cmu.edu/~kalp/PGR/) course on the Panther Hollow Trail in Schenley Park, as I have done at least several dozen times in the past thirteen years. My favorite part is always the long downhill return back to the start, during which I try to really fly down fast, feeling the wind rush past me. It's the reward for having run uphill in the first half of the course!
 

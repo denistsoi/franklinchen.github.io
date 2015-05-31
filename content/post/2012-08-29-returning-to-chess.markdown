@@ -37,7 +37,7 @@ In [2010](http://main.uschess.org/assets/msa_joomla/XtblMain.php?201010121031-12
 
 ## Why am I coming back to chess yet again now, in 2012?
 
-This year, I've slowly returned to playing a little bit of chess casually, analyzing games, and even [writing a bit about chess](/blog/categories/chess/). And I'm kind of hungering for competition again.
+This year, I've slowly returned to playing a little bit of chess casually, analyzing games, and even [writing a bit about chess](/categories/chess/). And I'm kind of hungering for competition again.
 
 But this time, I have a different attitude and goal than in the past. In the past, when I was in "chess mode", I was obsessed with things like winning, achievement, improving my rating, maybe attaining an official [National Master title](http://en.wikipedia.org/wiki/Chess_master) (which had slipped past my fingers in 2007: if I had dropped out of one of my tournaments in progress, I would have acquired enough wins to receive the title, but out of sheer pride, I wanted to finish the tournament and ended up on a losing streak).
 

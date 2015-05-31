@@ -39,13 +39,13 @@ The [Facebook page of the Pittsburgh Renaissance and Baroque](http://www.faceboo
 
 ### My instruments
 
-I have been spending most of my daily music practice all year working on the modern [flute](/blog/categories/flute/); I have not reported on my progress in over a month because I've been too busy *doing* rather than *writing*, but will catch up with the writing sometime.
+I have been spending most of my daily music practice all year working on the modern [flute](/categories/flute/); I have not reported on my progress in over a month because I've been too busy *doing* rather than *writing*, but will catch up with the writing sometime.
 
 But for this jam session, I had decided very quickly that I was *not* going to be bringing my modern flute to play, because I do prefer to play older music on other instruments; I planned to bring the following instruments instead:
 
-- my [tin whistle](/blog/categories/tin-whistle/), which I bought the week of St. Patrick's Day in March (for a party I haven't written about yet but which radically changed my life)
-- an assortment of [recorders](/blog/categories/recorder/): I decided to just bring my soprano and alto
-- my [Baroque flute](/blog/categories/baroque-flute/)
+- my [tin whistle](/categories/tin-whistle/), which I bought the week of St. Patrick's Day in March (for a party I haven't written about yet but which radically changed my life)
+- an assortment of [recorders](/categories/recorder/): I decided to just bring my soprano and alto
+- my [Baroque flute](/categories/baroque-flute/)
 
 Therefore, interspersed with my continuing work on the modern flute, I have also done some maintenance practice of tin whistle and recorders. The most difficult challenge was trying to get serious about Baroque flute: the one-keyed flute is [very, very, very tricky to play in tune](http://www.oldflutes.com/charts/onekey/index.htm). Sometimes I wonder whether it's worth the bother. But I tend to be inspired by quirky challenges whose benefit I don't fully understand immediately.
 

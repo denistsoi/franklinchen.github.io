@@ -25,4 +25,4 @@ I will have a post up next week about my second round game of this week, which w
 
 ## Previous chess writings
 
-Since I have not played tournament chess since [winning the 2013 Pittsburgh Chess Club Championship in February](/blog/2013/02/20/pittsburgh-chess-club-championship-2013-round-6-winning-as-black-like-a-madman/), if you have discovered this blog only recently, you may be interested in exploring my previous [chess writings](/blog/categories/chess/).
+Since I have not played tournament chess since [winning the 2013 Pittsburgh Chess Club Championship in February](/blog/2013/02/20/pittsburgh-chess-club-championship-2013-round-6-winning-as-black-like-a-madman/), if you have discovered this blog only recently, you may be interested in exploring my previous [chess writings](/categories/chess/).

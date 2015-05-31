@@ -21,7 +21,7 @@ So basically, we had this run planned a month and a half ago. And luckily, the w
 
 This was our first run together, outside of our both having just last week run in the [Fineview Stepathon](/blog/2012/10/06/the-fineview-stepathon-2012-pittsburghs-grueling-urban-trail-race/).
 
-Back in August, Chris had warned me that he might be slow. I said that I did long runs slowly in any case, only speeding up near the end. What I didn't say was that I fully believed that with the training he's been doing toward the goals of his first 10K (which he has done: he did the [Great Race 10K](/blog/categories/great-race/) this year), his first half marathon, and his first marathon, he was going to get fast in just a matter of months.
+Back in August, Chris had warned me that he might be slow. I said that I did long runs slowly in any case, only speeding up near the end. What I didn't say was that I fully believed that with the training he's been doing toward the goals of his first 10K (which he has done: he did the [Great Race 10K](/categories/great-race/) this year), his first half marathon, and his first marathon, he was going to get fast in just a matter of months.
 
 And I was right! We ended up running 13 miles, and not very slowly.
 

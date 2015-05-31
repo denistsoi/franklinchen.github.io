@@ -55,6 +55,6 @@ My time was 8:58, practically the same as for the first rep, so I was happy at m
 
 ## Conclusion
 
-After my poor experience during my first rep climbing the Cathedral of Learning steps today, I decided to go barefoot, and solved all my problems. So I will continue to do this barefoot. I don't even want to do this with minimalist shoes such as my [Vibram FiveFingers](/blog/categories/fivefingers/) or [Xero Shoes](/blog/categories/xero-shoes/); given the perfectly friendly nature of the stairways to bare feet, I will only ever again do the climb barefoot.
+After my poor experience during my first rep climbing the Cathedral of Learning steps today, I decided to go barefoot, and solved all my problems. So I will continue to do this barefoot. I don't even want to do this with minimalist shoes such as my [Vibram FiveFingers](/categories/fivefingers/) or [Xero Shoes](/categories/xero-shoes/); given the perfectly friendly nature of the stairways to bare feet, I will only ever again do the climb barefoot.
 
 The remaining question is whether it is permitted to do the Fight for Air Climb barefoot. I'll have to find out.

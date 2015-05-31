@@ -14,7 +14,7 @@ categories:
 ---
 {{< figure src="/images/steel-city-ukuleles-2014-03-19.jpg" title="Group photo" >}}
 
-Two weeks ago, I [returned to attending Steel City Ukuleles meetings](/blog/2014/03/05/thoughts-on-returning-to-ukulele-after-almost-two-months-off/) after almost two months off, and I [attended again tonight](http://www.meetup.com/Steel-City-Ukuleles/events/158392572/); my habit since starting out last summer has been to attend the regular first and third Wednesday meetings in Regent Square. Although I have been thinking of cutting back to attending once a month instead of twice a month, I was intrigued by the rather ambitious playlist Adam created for this week, so I couldn't resist going, even though it meant conflicting with a newly revived regular [French dance music jam](/blog/categories/french-dance/) that I haven't attended in half a year.
+Two weeks ago, I [returned to attending Steel City Ukuleles meetings](/blog/2014/03/05/thoughts-on-returning-to-ukulele-after-almost-two-months-off/) after almost two months off, and I [attended again tonight](http://www.meetup.com/Steel-City-Ukuleles/events/158392572/); my habit since starting out last summer has been to attend the regular first and third Wednesday meetings in Regent Square. Although I have been thinking of cutting back to attending once a month instead of twice a month, I was intrigued by the rather ambitious playlist Adam created for this week, so I couldn't resist going, even though it meant conflicting with a newly revived regular [French dance music jam](/categories/french-dance/) that I haven't attended in half a year.
 
 <!--more-->
 

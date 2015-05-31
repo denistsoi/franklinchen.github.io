@@ -54,7 +54,7 @@ In an earlier blog post, I already mentioned why [I don't listen to music much](
 
 ### Sports
 
-Instead of watching sports, I engage in my own competitive physical activity, to become the athlete instead of the spectator. I enjoy [running races](/blog/categories/races/). I am hardly super fast; at my fastest, I did periodically win age group medals and trophies, but only because competition happened not to be very tough.
+Instead of watching sports, I engage in my own competitive physical activity, to become the athlete instead of the spectator. I enjoy [running races](/categories/races/). I am hardly super fast; at my fastest, I did periodically win age group medals and trophies, but only because competition happened not to be very tough.
 
 ### Exercise
 

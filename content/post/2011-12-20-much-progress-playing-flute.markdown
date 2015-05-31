@@ -11,7 +11,7 @@ categories:
 - practice
 - learning
 ---
-Starting yesterday, I finally returned to practicing [flute](/blog/categories/flute/). I had played very little flute in ten days, as a result of focusing my musical practice almost entirely on soprano [recorder](/blog/categories/recorder/) for the performance at the [Pittsburgh Contras and Squares Holiday Ball on Friday](/blog/2011/12/16/playing-recorder-and-flute-at-the-holiday-ball/). I did play flute just a little bit at the Holiday Ball, but nothing I needed practice on.
+Starting yesterday, I finally returned to practicing [flute](/categories/flute/). I had played very little flute in ten days, as a result of focusing my musical practice almost entirely on soprano [recorder](/categories/recorder/) for the performance at the [Pittsburgh Contras and Squares Holiday Ball on Friday](/blog/2011/12/16/playing-recorder-and-flute-at-the-holiday-ball/). I did play flute just a little bit at the Holiday Ball, but nothing I needed practice on.
 
 I was surprised how much better I was at flute yesterday (and today) despite no practice in ten days. How did this happen?
 

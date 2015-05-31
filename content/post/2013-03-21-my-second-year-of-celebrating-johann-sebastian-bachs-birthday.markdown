@@ -30,7 +30,7 @@ I have a tale of accidental love to tell.
 
 ### Alto recorder
 
-In 2011, I started playing alto [recorder](/blog/categories/recorder/), teaching myself and joining the Pittsburgh Recorder Society. I first completed the two-volume method by Orr, over the course of approximately two months, February through April 2011. Then I moved on to the two-volume method by [Mario Duschenes](http://www.aswltd.com/adultmet.htm#begin). One of the great things about the second volume of the Duschenes method is that it contains excerpts of real music. One excerpt that came up was the first movement of [Bach's flute sonata in E major](http://en.wikipedia.org/wiki/Sonata_in_E_major_for_flute_or_recorder_and_basso_continuo), transposed for alto recorder.
+In 2011, I started playing alto [recorder](/categories/recorder/), teaching myself and joining the Pittsburgh Recorder Society. I first completed the two-volume method by Orr, over the course of approximately two months, February through April 2011. Then I moved on to the two-volume method by [Mario Duschenes](http://www.aswltd.com/adultmet.htm#begin). One of the great things about the second volume of the Duschenes method is that it contains excerpts of real music. One excerpt that came up was the first movement of [Bach's flute sonata in E major](http://en.wikipedia.org/wiki/Sonata_in_E_major_for_flute_or_recorder_and_basso_continuo), transposed for alto recorder.
 
 I had never heard this music before, so I looked for recordings of it. This was not so easy! The reason is that I kept on finding recordings of the original flute version, but at the time, I was not yet playing the flute, only recorder, and only interested in recorder. Then I found a recording by [Michala Petri](http://en.wikipedia.org/wiki/Michala_Petri) and Keith Jarrett. So I worked on this *adagio ma non tanto* first movement and periodically played along with Petri's recording.
 
@@ -50,7 +50,7 @@ I couldn't explain why, but seeing this video was one of the first times I reall
 
 When I [accidentally started playing modern flute again in late 2011](/blog/2011/11/09/taking-up-flute-again-after-decades/), I eventually looked up actual flute recordings of Bach's flute sonatas. I completely stopped playing Bach transposed for the recorder. I just felt that, despite Maurice Steger's example, [I could not get everything I wanted out of the recorder](/blog/2011/11/17/flute-versus-recorder/), and I wanted to move to flute. However, the modern flute seemed not so well suited to the music. [Eventually, I bought a Baroque flute](/blog/2011/11/30/bought-a-baroque-flute/).
 
-However, because Bach on the [Baroque flute](/blog/categories/baroque-flute/) has remained much more difficult for me to play than on the modern flute, I have resigned myself to mostly playing Bach's flute music on modern flute, while trying to keep the music crisply articulated and with minimal vibrato.
+However, because Bach on the [Baroque flute](/categories/baroque-flute/) has remained much more difficult for me to play than on the modern flute, I have resigned myself to mostly playing Bach's flute music on modern flute, while trying to keep the music crisply articulated and with minimal vibrato.
 
 (I played the first movement of Bach's flute sonata in E minor, BWV 1034, [at a party earlier this year](/blog/2013/01/26/music-i-just-played-for-the-first-time-recorder-sonata-tangos/).)
 

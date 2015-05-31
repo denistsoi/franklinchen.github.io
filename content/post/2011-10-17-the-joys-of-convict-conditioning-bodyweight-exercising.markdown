@@ -18,7 +18,7 @@ categories:
 ---
 I spent the vast majority of my life completely, utterly sedentary. Let's put it this way: I was on the phone with my father yesterday and he said he went to some free senior citizen fitness program in a mall and ended up getting sweaty, and seemed concerned. I said, "I'm glad you got some good exercise!" In other words, I was raised to never get sweaty.
 
-But when I neared age 30, and was getting heavier and heavier, and almost certainly going [prediabetic](http://en.wikipedia.org/wiki/Prediabetes), I decided to completely change my life. I took up [running](/blog/categories/running/), karate, dancing, and weight lifting.
+But when I neared age 30, and was getting heavier and heavier, and almost certainly going [prediabetic](http://en.wikipedia.org/wiki/Prediabetes), I decided to completely change my life. I took up [running](/categories/running/), karate, dancing, and weight lifting.
 
 What I always ended up having trouble with was weight lifting. I'd go to the gym and mess around with the machines since they were there, but although I built up some muscle, the whole process was boring, I never felt like I was really accomplishing anything, and I felt out of whack. It took years of trial and error to come to some sort of strength training regimen that I actually enjoyed and felt really benefited me.
 

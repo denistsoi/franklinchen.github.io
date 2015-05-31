@@ -13,7 +13,7 @@ categories:
 ---
 {{< figure src="/images/asics-gel-flash-ds-snow.jpg" title="Asics Gel Flash DS in the snow" >}}
 
-Today, New Year's Eve, I went for my last [run](/blog/categories/running/) of 2012.
+Today, New Year's Eve, I went for my last [run](/categories/running/) of 2012.
 
 It was also my first run (as far as I can remember) in about two months, because of the [total destruction of my exercise routine in the last months of the year](/blog/2012/12/28/meditations-on-climbing-the-36-floors-of-the-pitt-cathedral-of-learning/).
 
@@ -31,7 +31,7 @@ I like running, but I haven't been doing it in the winter. So I decided that I w
 
 ## Shoes
 
-I have not worn monotoed shoes for running in well over a year now, since having converted to wearing minimalist shoes such as [Vibram FiveFingers](/blog/categories/fivefingers/) and Xero Shoes (formerly known as [Invisible Shoes](/blog/categories/invisible-shoes/) for all outdoor activities in sufficiently warm weather.
+I have not worn monotoed shoes for running in well over a year now, since having converted to wearing minimalist shoes such as [Vibram FiveFingers](/categories/fivefingers/) and Xero Shoes (formerly known as [Invisible Shoes](/categories/invisible-shoes/) for all outdoor activities in sufficiently warm weather.
 
 But it's just not practical wearing FiveFingers, even with socks, when it's freezing outside. So I went down to the basement to look at my old monotoed running shoes to find something to wear.
 

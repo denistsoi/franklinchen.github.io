@@ -15,7 +15,7 @@ categories:
 ---
 {{< figure src="/images/your-day-without-shoes-abby-franklin.jpg" title="Abby and Franklin without shoes in DC" >}}
 {{< figure src="/images/your-day-without-shoes-musicians.jpg" title="Abby and Franklin without shoes in DC" >}}
-May 26, 2012 was [Your Day Without Shoes](http://www.primalfootalliance.org/ydws/), which Abby and I tried to observe, even though we were in DC at my sister's at the time, visiting our new [nephew](/blog/categories/nephew/), and therefore we were in an unfamiliar environment.
+May 26, 2012 was [Your Day Without Shoes](http://www.primalfootalliance.org/ydws/), which Abby and I tried to observe, even though we were in DC at my sister's at the time, visiting our new [nephew](/categories/nephew/), and therefore we were in an unfamiliar environment.
 
 It turned out that although Abby did spend the day without shoes, I wore shoes once in the morning and then not again the rest of the day. I'll explain why, and also describe my actual very first day without shoes (while being out and about), which was today.
 

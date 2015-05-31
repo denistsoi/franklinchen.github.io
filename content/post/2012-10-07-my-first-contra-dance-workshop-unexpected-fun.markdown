@@ -29,7 +29,7 @@ I had a great time, way beyond my expectations!!
 
 ## Turnout
 
-The turnout was great. I estimate there were about thirty to forty participants. Most of them appeared to be undergrad or grad students; others were older people, many of whom Abby and I already knew from elsewhere, including the [French dance workshops we've attended in the past several months](/blog/categories/french-dance/). The predominance of young people was a good sign.
+The turnout was great. I estimate there were about thirty to forty participants. Most of them appeared to be undergrad or grad students; others were older people, many of whom Abby and I already knew from elsewhere, including the [French dance workshops we've attended in the past several months](/categories/french-dance/). The predominance of young people was a good sign.
 
 ## Caller
 

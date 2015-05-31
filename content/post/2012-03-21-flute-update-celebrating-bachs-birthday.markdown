@@ -41,7 +41,7 @@ How to celebrate? The last time I celebrated a composer's birthday, it was last 
 
 I sight read a bunch of old Bach's music that eventually I should practice seriously to play well, including various minuets and bourrées.
 
-But the main piece I sight read was the full [cello suite](http://en.wikipedia.org/wiki/Cello_Suites_\(Bach\)) no. 1 in G major, using an [arrangement for flute by Peter Billam](http://www.pjb.com.au/mus/arr.html). (I had actually obtained this a long time ago intending to play it on alto [recorder](/blog/categories/recorder/).)
+But the main piece I sight read was the full [cello suite](http://en.wikipedia.org/wiki/Cello_Suites_\(Bach\)) no. 1 in G major, using an [arrangement for flute by Peter Billam](http://www.pjb.com.au/mus/arr.html). (I had actually obtained this a long time ago intending to play it on alto [recorder](/categories/recorder/).)
 
 This music is deceptively simple but really quite beautiful. Even visually it is pleasing: check out Bach's handwritten score:
 

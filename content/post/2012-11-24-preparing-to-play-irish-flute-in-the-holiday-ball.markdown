@@ -32,10 +32,10 @@ Last year, I wrote: "I want to be much better at all the instruments I would pla
 
 My status this year:
 
-- I'm better at [recorder](/blog/categories/recorder/).
-- I'm much better at [flute](/blog/categories/flute/).
-- I've only barely worked on [tin whistle](/blog/categories/tin-whistle/), but am automatically better at it because of getting better at other instruments.
-- I unexpectedly got an [Irish flute](/blog/categories/irish-flute/), which I have mostly been playing for [French dance](/blog/categories/french-dance/), but which **I intend to be my main instrument for the Holiday Ball**!
+- I'm better at [recorder](/categories/recorder/).
+- I'm much better at [flute](/categories/flute/).
+- I've only barely worked on [tin whistle](/categories/tin-whistle/), but am automatically better at it because of getting better at other instruments.
+- I unexpectedly got an [Irish flute](/categories/irish-flute/), which I have mostly been playing for [French dance](/categories/french-dance/), but which **I intend to be my main instrument for the Holiday Ball**!
 
 From a sound and style point of view, the Irish flute is clearly the best of my instruments to use for the Holiday Ball. So I read through my copies of the Holiday Ball music (lots of jigs, reels, waltzes) tonight at speed, to see where I stand.
 

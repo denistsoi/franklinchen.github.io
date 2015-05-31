@@ -13,7 +13,7 @@ categories:
 ---
 {{< figure src="/images/uscf-life-member-certificate.jpg" title="Franklin's United States Chess Federation Life Member certificate" >}}
 
-So far, I've only [written a few times here about chess](/blog/categories/chess/), because over a year ago, I deliberately decided (for the nth time) to quit my involvement in chess.
+So far, I've only [written a few times here about chess](/categories/chess/), because over a year ago, I deliberately decided (for the nth time) to quit my involvement in chess.
 
 But because this summer, I finally finished paying for and receiving my [United States Chess Federation (USCF)](http://www.uschess.org/) *life membership*, I decided to put some chess back into my life.
 
@@ -63,7 +63,7 @@ Although I am now clearly retired from the most serious competition in chess, I 
 - theoretical analysis
 - teaching
 
-I have done a little bit of [writing about chess here](/blog/categories/chess/) and will continue to do so now and then. I have unpublished chess opening novelties that I may present. And finally, I would like to explore options for teaching chess: I have enjoyed helping some friends improve their enjoyment, understanding, and performance, and wish to pursue further the teaching/coaching role.
+I have done a little bit of [writing about chess here](/categories/chess/) and will continue to do so now and then. I have unpublished chess opening novelties that I may present. And finally, I would like to explore options for teaching chess: I have enjoyed helping some friends improve their enjoyment, understanding, and performance, and wish to pursue further the teaching/coaching role.
 
 ## Summary
 

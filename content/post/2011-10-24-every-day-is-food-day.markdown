@@ -47,7 +47,7 @@ As a result, my relationship with food was radically transformed. It became one 
 
 Since I had spent most of my life up till then in purely intellectual, theoretical pursuits, it was really new to be getting down and dirty physically with raw ingredients and turning them into something. I felt more in touch with my body, and grateful for living in a land of plenty, never needing to go hungry. I enjoyed exploring many new flavors, ethnic cuisines.
 
-This all happened in conjunction with other life changes, such as taking up [running](/blog/categories/running/) and dancing and losing thirty pounds.
+This all happened in conjunction with other life changes, such as taking up [running](/categories/running/) and dancing and losing thirty pounds.
 
 Once upon a time, food really was the center of human life: you spent much of the day doing what you could to eat something so you could stay alive! In the developed world, we've removed a lot of the drudgery and uncertainty of finding something to eat (even half a century ago, women had to spend huge amounts of time on feeding their families), and that can't be a bad thing, but we've also lost touch with our biological, animal natures.
 

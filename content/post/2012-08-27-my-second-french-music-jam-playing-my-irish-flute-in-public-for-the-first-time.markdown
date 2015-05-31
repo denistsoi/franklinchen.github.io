@@ -19,7 +19,7 @@ categories:
 ---
 Tonight I participated for the second time in a new little [French traditional dance](http://www.facebook.com/groups/182324948478861/) music jam session that [started up in July](/blog/2012/07/02/my-first-french-music-jam-anxious-but-excited/)!
 
-This time, I played not only my [Baroque flute](/blog/categories/baroque-flute/) (which happens to be the instrument I've mostly been playing for the past two months), but also my [new Irish flute I got a month ago](/blog/2012/07/30/got-my-new-casey-burns-small-handed-irish-flute/). I did *not* bring my modern flute at all.
+This time, I played not only my [Baroque flute](/categories/baroque-flute/) (which happens to be the instrument I've mostly been playing for the past two months), but also my [new Irish flute I got a month ago](/blog/2012/07/30/got-my-new-casey-burns-small-handed-irish-flute/). I did *not* bring my modern flute at all.
 
 As we did the last time, after we played around for an hour or so, we then played for dancers for another hour. I enjoyed the experience a lot, and was less nervous than I was the first time. I am slowly improving at learning a tune, without a score, while someone is playing it, and then imitating the melodic line or filling in a harmonically sensible line on the fly.
 

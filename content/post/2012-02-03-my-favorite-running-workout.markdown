@@ -9,7 +9,7 @@ comments: true
 categories:
 - running
 ---
-Over a decade ago, when I got very serious about [running](/blog/categories/running/) in races, and decided to get as competitive as I possibly could (knowing that my genetic potential was very limited), I settled on the [Jack Daniels](http://en.wikipedia.org/wiki/Jack_Daniels_\(coach\)) "running formula" training program as something that worked quite well for me. It was scientifically based and involves training in different phases of an entire months-long process at different intensities, incorporating easy running, tempo runs, intervals, repeats, hill workouts, etc.
+Over a decade ago, when I got very serious about [running](/categories/running/) in races, and decided to get as competitive as I possibly could (knowing that my genetic potential was very limited), I settled on the [Jack Daniels](http://en.wikipedia.org/wiki/Jack_Daniels_\(coach\)) "running formula" training program as something that worked quite well for me. It was scientifically based and involves training in different phases of an entire months-long process at different intensities, incorporating easy running, tempo runs, intervals, repeats, hill workouts, etc.
 
 The beauty of [Jack Daniels' Running Formula](http://www.amazon.com/Daniels-Running-Formula-2nd-Jack/dp/0736054928) (I had used the first edition, not the second) was that it gave pace tables to use. I would do my runs with a watch, and spent a good amount of time at the Carnegie Mellon University track on certain workouts (although I always preferred running on the trails to running on the roads or the track).
 

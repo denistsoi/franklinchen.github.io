@@ -69,7 +69,7 @@ Note: usually, I do *not* exercise on a fully empty stomach, because there are d
 
 There is no avoiding fatty, salty, starchy, sugary foods at a buffet. That's part of the full experience. And that's why I don't eat at a buffet often, even a nice one like Coriander's just blocks away from home.
 
-But there are some guidelines that are very useful. The main thing is, I *never* eat rice or bread at a buffet. You don't have to be [paleo](/blog/categories/paleo/) or on some official low-carb diet to know that this is not worth the money, the bloat in your stomach, the wrecked blood sugar, and the fat gain.
+But there are some guidelines that are very useful. The main thing is, I *never* eat rice or bread at a buffet. You don't have to be [paleo](/categories/paleo/) or on some official low-carb diet to know that this is not worth the money, the bloat in your stomach, the wrecked blood sugar, and the fat gain.
 
 At an Indian buffet, I'm not really going to eat paleo-style. However, I'll try to take it easy on breaded foods and especially the potatoes.
 

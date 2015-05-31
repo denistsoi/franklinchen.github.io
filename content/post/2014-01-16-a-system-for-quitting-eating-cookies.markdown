@@ -31,4 +31,4 @@ Check out what happened [four days later](/blog/2014/01/31/first-time-in-my-life
 
 ## (Current updates)
 
-For current updates, just check out the [cookies category](/blog/categories/cookies/) to find out when I last mentioned cookies.
+For current updates, just check out the [cookies category](/categories/cookies/) to find out when I last mentioned cookies.

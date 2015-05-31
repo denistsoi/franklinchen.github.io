@@ -39,7 +39,7 @@ I have loved music all my life, but never had any private instruction, or any in
 
 After passing age 40, I started thinking about mortality, and making a list of what my biggest regrets in life would be if I died soon. On the *very top* of the list was my lifelong regret that I never had the courage to get serious about music. I had made excuse after excuse to downplay following my musical dreams (in part a legacy of my internalizing my parents' constant discouragement of music as a "waste of time", but also because I was *not willing to make the required sacrifices as a very busy adult*).
 
-So before I turned 41, I decided to finally start the process of getting serious about music, and in February 2011 (less than one and a half years ago), I started to learn to play [recorder](/blog/categories/recorder/) because it was easy to get started on, was new to me (without the baggage of my difficult experiences with flute and piano) and most of all, because of the existence of the Pittsburgh Recorder Society as a friendly place to finally play with other people. I mentioned this in [one of my first posts on this blog](/blog/2011/09/22/byron-janis-on-overcoming-adversity/).
+So before I turned 41, I decided to finally start the process of getting serious about music, and in February 2011 (less than one and a half years ago), I started to learn to play [recorder](/categories/recorder/) because it was easy to get started on, was new to me (without the baggage of my difficult experiences with flute and piano) and most of all, because of the existence of the Pittsburgh Recorder Society as a friendly place to finally play with other people. I mentioned this in [one of my first posts on this blog](/blog/2011/09/22/byron-janis-on-overcoming-adversity/).
 
 ### First hearing of the workshop
 
@@ -53,7 +53,7 @@ It also turns out that just this February, I picked up Gary Marcus's book ["Guit
 
 ## Instruments
 
-It turned out that you have to choose a primary instrument (from among recorder, viol, and (Baroque) flute), but can also study secondary instruments. I decided that because of my strong interest in flute (both Baroque flute and modern flute), I would choose [*Baroque flute*](/blog/categories/baroque-flute/) as my primary instrument.
+It turned out that you have to choose a primary instrument (from among recorder, viol, and (Baroque) flute), but can also study secondary instruments. I decided that because of my strong interest in flute (both Baroque flute and modern flute), I would choose [*Baroque flute*](/categories/baroque-flute/) as my primary instrument.
 
 Possible secondary instruments are recorder, viol, harp, voice, and capped reeds (for Renaissance band): I chose *recorder* (of course), **but also** *voice*.
 

@@ -50,7 +50,7 @@ I've always thought that I would like to get an offset G flute when I "upgrade" 
 
 Another book on music practice that I enjoy, Madeline Bruser's ["The Art of Practicing"](http://artofpracticing.com/), has an anecdote (page 107) about a flutist, Janet Weiss, who found that the traditional flute did not fit her hand, and became a pioneer in redesigning it. Weiss was quoted as saying, "The instrument we're playing is incorrect for many people... it's like trying to dance in a pair of shoes that don't fit."
 
-Indeed! If we love music enough, we should take the initiative to make sure that we are not hampered by our instruments. Just as, I love running and hiking, and struggled with bad footwear for years, decades, until I solved most of my problems, by moving toward [Vibram FiveFingers](/blog/categories/fivefingers/) shoes that do not cramp my very wide feet and do not introduce cushioning that causes me to mess up my knees and shins and ankles.
+Indeed! If we love music enough, we should take the initiative to make sure that we are not hampered by our instruments. Just as, I love running and hiking, and struggled with bad footwear for years, decades, until I solved most of my problems, by moving toward [Vibram FiveFingers](/categories/fivefingers/) shoes that do not cramp my very wide feet and do not introduce cushioning that causes me to mess up my knees and shins and ankles.
 
 We have to do what we have to do. We can't just complain that other people are lucky and mass-produced clothing and tools work for them. 
 

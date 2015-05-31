@@ -20,7 +20,7 @@ categories:
 
 On Monday I participated for my third time in Lisa's French traditional dance music jam.
 
-[Last time](/blog/2012/08/27/my-second-french-music-jam-playing-my-irish-flute-in-public-for-the-first-time/), I started playing my [Irish flute](/blog/categories/irish-flute/) at the jam, continued playing my [Baroque flute](/blog/categories/baroque-flute/), and left my modern flute at home.
+[Last time](/blog/2012/08/27/my-second-french-music-jam-playing-my-irish-flute-in-public-for-the-first-time/), I started playing my [Irish flute](/categories/irish-flute/) at the jam, continued playing my [Baroque flute](/categories/baroque-flute/), and left my modern flute at home.
 
 This time, I changed things up. Also, we got a new musician playing a new instrument!
 

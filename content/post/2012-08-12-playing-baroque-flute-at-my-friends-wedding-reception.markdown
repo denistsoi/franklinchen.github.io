@@ -21,7 +21,7 @@ It suddenly started raining very hard at the outdoor wedding, which caused a lot
 
 I had a small role to play. When Steve had told me about the wedding, I had immediately asked him if he would like me to play some music for him (since all the weddings I've been to have involved a DJ or some friend handling iTunes off a laptop at some point). Eventually, after more important details were planned out, such as a string quartet hired to play before the wedding and during the ceremony, it was decided that I could play for maybe ten minutes after dinner at the reception in order to transition to the toasts.
 
-I decided to bring my plastic [Baroque flute](/blog/categories/baroque-flute/) as being the best instrument to withstand easy travel to New Mexico.
+I decided to bring my plastic [Baroque flute](/categories/baroque-flute/) as being the best instrument to withstand easy travel to New Mexico.
 
 So I memorized some of the traditional music I've played before on Baroque flute, taking selections from an [Irish/Scottish/Acadian set of scores](/blog/2012/04/21/my-first-time-in-a-public-music-jam-intense-fun-with-chris-norman-and-david-greenberg/) as well the [French traditional dance music I got from Gregory](/blog/2012/05/14/playing-french-music-for-first-time-and-dancing-blues-for-first-time/).
 

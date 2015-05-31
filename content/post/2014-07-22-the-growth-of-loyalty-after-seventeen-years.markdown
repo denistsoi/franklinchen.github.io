@@ -13,7 +13,7 @@ categories:
 ---
 Tonight I finally got a haircut.
 
-For two weeks I'd been looking for my [barber](/blog/categories/barber/) Joe, of Harry's Barber Shoppe in Squirrel Hill; I was due for my haircut. I'd called Joe's phone number from work in the afternoon. I'd driven by on the way home (the shop is just a block away from home). I'd taken a walk on Saturday to see if he was open. No sign of him. I was worried. I began imagining the worst.
+For two weeks I'd been looking for my [barber](/categories/barber/) Joe, of Harry's Barber Shoppe in Squirrel Hill; I was due for my haircut. I'd called Joe's phone number from work in the afternoon. I'd driven by on the way home (the shop is just a block away from home). I'd taken a walk on Saturday to see if he was open. No sign of him. I was worried. I began imagining the worst.
 
 I'm not kidding when I tell people that I don't know what I'd do without Joe to cut my hair. He's been the only one to cut my hair in the past seventeen years, apart from that one time he broke his hand and was out of commission for a while.
 

@@ -28,7 +28,7 @@ What happened was that after [Gregory left us this summer](/blog/2012/05/14/play
 
 ## Instruments
 
-Tonight, I played both my [Baroque flute](/blog/categories/baroque-flute/) and my modern flute. I didn't really want to play the modern flute, but there were times when we played some music in keys I wasn't comfortable with on Baroque flute. Meanwhile, it will take a long time for the [Irish flute I ordered](/blog/2012/06/12/ordered-the-casey-burns-small-handed-irish-flute/) to be made and shipped. I really want to use the louder Irish flute when feasible.
+Tonight, I played both my [Baroque flute](/categories/baroque-flute/) and my modern flute. I didn't really want to play the modern flute, but there were times when we played some music in keys I wasn't comfortable with on Baroque flute. Meanwhile, it will take a long time for the [Irish flute I ordered](/blog/2012/06/12/ordered-the-casey-burns-small-handed-irish-flute/) to be made and shipped. I really want to use the louder Irish flute when feasible.
 
 Lisa had her fiddle, and someone else also had a fiddle.
 

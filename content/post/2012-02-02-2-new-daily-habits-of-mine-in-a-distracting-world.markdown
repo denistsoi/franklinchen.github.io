@@ -12,7 +12,7 @@ categories:
 ---
 As of a week ago, I have developed two daily habits to reclaim my life from a distracting digital world:
 
-- [meditation](/blog/categories/meditation/) in the morning, before breakfast
+- [meditation](/categories/meditation/) in the morning, before breakfast
 - shutting down my computer at home in the evening two hours before going to bed
 
 ## Meditation
