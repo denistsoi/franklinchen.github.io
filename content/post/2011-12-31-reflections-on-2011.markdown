@@ -126,7 +126,7 @@ I reflect on my year of 2011 as it ends. Since I did not start blogging until Se
 
 ## July
 
-- I started gravitating to almost exclusively body weight [strength training](/categories/strength-training), as a reaction to my having injured my back earlier.
+- I started gravitating to almost exclusively body weight [strength training](/categories/strength-training/), as a reaction to my having injured my back earlier.
 
 - Abby and I went kayaking on the [Kiski River](http://en.wikipedia.org/wiki/Kiskiminetas_River) with "Fireman Steve" and the kayaking gang.
 

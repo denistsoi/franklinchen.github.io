@@ -11,7 +11,7 @@ categories:
 - cooking
 - paleo
 ---
-In the past couple of months, I've made some large changes in my diet. Fundamentally, I've moved in a [paleo](/categories/paleo) direction. The largest change was breakfast, where I completely gave up my old breakfast and [replaced it](/blog/2011/11/03/one-of-these-breakfasts-is-not-paleo/). After some experimentation, I've finally arrived at a breakfast template that seems optimal for me (as gauged by my morning energy level and other criteria I discuss below).
+In the past couple of months, I've made some large changes in my diet. Fundamentally, I've moved in a [paleo](/categories/paleo/) direction. The largest change was breakfast, where I completely gave up my old breakfast and [replaced it](/blog/2011/11/03/one-of-these-breakfasts-is-not-paleo/). After some experimentation, I've finally arrived at a breakfast template that seems optimal for me (as gauged by my morning energy level and other criteria I discuss below).
 
 As an example, here is what I ate this morning:
 

@@ -11,7 +11,7 @@ categories:
 - treadmill
 - FiveFingers
 ---
-Today I decided to do some treadmill [running](/categories/running), since I was going to the gym to do some strength training anyway, so I did just two miles of running as a "warmup" there, using my [Bikila LS shoes](/blog/2012/01/02/new-experiment-for-a-new-year-winter-running-in-vibram-fivefingers-shoes/).
+Today I decided to do some treadmill [running](/categories/running/), since I was going to the gym to do some strength training anyway, so I did just two miles of running as a "warmup" there, using my [Bikila LS shoes](/blog/2012/01/02/new-experiment-for-a-new-year-winter-running-in-vibram-fivefingers-shoes/).
 
 I don't much like treadmills, so why did I deliberately plan to run on one?
 

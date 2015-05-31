@@ -39,7 +39,7 @@ However, I'm a big believer in [intermittent cheating](http://www.t-nation.com/f
 
 ## Why I had to eat ice cream for breakfast
 
-I didn't buy this bucket of Trader Joe's Coffee Bean Blast ice cream; Abby did. She thought it would be a nice post-[hike](/categories/hiking) treat. Unfortunately, it has turned out in the past months that whenever we go out on a weekend for a hike or some other outdoors adventure, we come back in the evening, and it's too late to eat this ice cream.
+I didn't buy this bucket of Trader Joe's Coffee Bean Blast ice cream; Abby did. She thought it would be a nice post-[hike](/categories/hiking/) treat. Unfortunately, it has turned out in the past months that whenever we go out on a weekend for a hike or some other outdoors adventure, we come back in the evening, and it's too late to eat this ice cream.
 
 The problem is caffeine. Eating this ice cream would mess up our night of sleep. In fact, I verified this once, eating some of the ice cream in the evening: oops.
 
