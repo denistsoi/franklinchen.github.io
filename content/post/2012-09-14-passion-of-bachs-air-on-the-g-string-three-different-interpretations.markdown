@@ -6,18 +6,25 @@ disqus_identifier: "http://franklinchen.com/blog/2012/09/14/passion-of-bachs-air
 disqus_url: "http://franklinchen.com/blog/2012/09/14/passion-of-bachs-air-on-the-g-string-three-different-interpretations/"
 url: "blog/2012/09/14/passion-of-bachs-air-on-the-g-string-three-different-interpretations/"
 comments: true
-categories: 
+categories:
 - music
 - Baroque
 - Johann Sebastian Bach
+- Air on G String
 - recorder
 - Baroque flute
 ---
 Yesterday, while driving home from work, I had my radio on, tuned to Pittsburgh's classical music station, [WQED FM](http://wqed.org/fm), as usual, and I immediately recognized the piece that was being performed. I listened with curiosity and then anger and disappointment as I made my way home.
 
-It was a movement from one of Johann Sebastian Bach's orchestra suites, the movement that has been popularized in the form of ["The Air on the G String"](http://en.wikipedia.org/wiki/Air_on_the_G_String).
+It was a movement from one of Johann Sebastian Bach's orchestra suites
+(Orchestral Suite No. 3 in D major, BWV 1068), the movement that has been popularized in the form of ["The Air on the G String"](http://en.wikipedia.org/wiki/Air_on_the_G_String).
 
 I think this piece is a good litmus test of how we perceive and appreciate Baroque music.
+
+### (Update of 2015-06-10)
+
+Many readers have commented on this post, and therefore I have written
+an [important sequel](/blog/2015/06/10/revisiting-bachs-air-on-g-string-from-a-singing-and-dancing-viewpoint/) to this post, 3 years later!
 
 <!--more-->
 
@@ -102,3 +109,8 @@ Of the two sample Period performances, which do I prefer?
 I hope this little exercise is helpful in clarifying some of the differences in the approach to performing and enjoying Baroque era music. The question of how to best deal with music from the 1700s is one that everyone who plays or listens to it has to grapple with, whether implicitly or explicitly. I think Haynes' basic framework of three different styles is a useful one.
 
 Myself, in the past year or two during which I have suddenly fallen in love with Baroque music, after a lifetime of not really liking it at all, I have been persuaded by the Period approach, both as a listener and now also as a performer.
+
+### (Update of 2015-06-10)
+
+Many readers have commented on this post, and therefore I have written
+an [important sequel](/blog/2015/06/10/revisiting-bachs-air-on-g-string-from-a-singing-and-dancing-viewpoint/) to this post, 3 years later!
