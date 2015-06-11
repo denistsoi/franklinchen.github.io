@@ -10,6 +10,7 @@ categories:
 - Doris Humphrey
 - violin
 - Yehudi Menuhin
+- recorder
 comments: true
 date: 2015-06-10T23:46:26-04:00
 layout: post
@@ -132,6 +133,16 @@ I found this somewhat frenetic but nevertheless beautiful ice dancing
 performance from the 1992 World Figure Skating Championships:
 
 <iframe width="420" height="315" src="https://www.youtube.com/embed/1JjbwtM_E3g" frameborder="0" allowfullscreen></iframe>
+
+## Recorder quartet
+
+A final performance to enjoy: the Japanese "Sekishi Recorder Quartet"
+playing their hearts out in 2009. I think it's lovely: impeccable
+phrasing, transparency,
+and rich ensemble balance and tone. (As a twist, the melody line performer adds
+his own ornamentations.)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRRRK0UClNs" frameborder="0" allowfullscreen></iframe>
 
 ## Conclusion
 
