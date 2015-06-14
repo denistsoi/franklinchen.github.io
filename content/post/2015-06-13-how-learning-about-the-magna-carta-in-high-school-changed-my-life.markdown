@@ -152,6 +152,12 @@ themselves. The purported idea of "democracy" is in fact under siege
 today on many fronts. In future blog posts, I will begin exploring
 what some of these are; they mostly involve technology-based power.
 
+### (Update of 2015-06-14)
+
+In the local paper, I just read this really interesting article by
+University of Pittsburgh law professor Bernard Hibbits on the
+[opportunistic use of the Magna Carta by Americans](http://www.post-gazette.com/news/world/2015/06/14/How-Magna-Carta-helped-make-America/stories/201506150001) throughout history.
+
 ## Conclusion
 
 Learning about the Magna Carta as a twelve-year-old was an important
