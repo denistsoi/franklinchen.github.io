@@ -158,6 +158,19 @@ In the local paper, I just read this really interesting article by
 University of Pittsburgh law professor Bernard Hibbits on the
 [opportunistic use of the Magna Carta by Americans](http://www.post-gazette.com/news/world/2015/06/14/How-Magna-Carta-helped-make-America/stories/201506150001) throughout history.
 
+### (Update of 2015-06-16)
+
+A random
+[news article about the celebrations](http://www.bbc.com/news/uk-33126723)
+feature nothing but photos or descriptions of an Archbishop, the
+Queen, various Dukes, a Prince, a Princess, a Lord, a [Prime Minister](http://www.therichest.com/celebnetworth/politician/minister/david-cameron-net-worth/)
+who
+[inherited much wealth (a lot hidden in tax shelters)](https://en.wikipedia.org/wiki/David_Cameron#Inheritance_and_family_wealth),
+and had no photos of "regular people", or quotes from them asking what
+they thought of the lavish occasion.
+
+Yeah, same old, same old, 800 years later.
+
 ## Conclusion
 
 Learning about the Magna Carta as a twelve-year-old was an important
