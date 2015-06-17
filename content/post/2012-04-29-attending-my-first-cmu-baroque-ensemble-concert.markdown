@@ -14,7 +14,7 @@ categories:
 - Johann Sebastian Bach
 - Baroque flute
 - recorder
-- Erin Yancek
+- Erin Yanacek
 - trumpet
 ---
 I attended a free concert of the CMU Baroque Ensemble for the very first time!
