@@ -6,6 +6,7 @@ disqus_url: "http://franklinchen.com/blog/2011/11/14/my-powerbook-145b/"
 date: 2011-11-14T20:51:00
 comments: true
 categories:
+- Apple
 - Macintosh
 - PowerBook
 ---

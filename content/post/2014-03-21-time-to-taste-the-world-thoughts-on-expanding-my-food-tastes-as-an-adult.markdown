@@ -3,11 +3,19 @@ layout: post
 title: "\"Time to Taste the World\": thoughts on expanding my food tastes as an adult"
 date: 2014-03-21T21:37:07-04:00
 comments: true
-external-url: 
-categories: 
+external-url:
+categories:
 - food
 - Carnegie Mellon University
 - cookies
+- Brussels sprouts
+- beets
+- kale
+- celeriac
+- grape leaves
+- hummus
+- baba ghanoush
+- olive oil
 ---
 This evening, right after work, I attended an event called "Time to Taste the World", organized by Carnegie Mellon University's [Modern Languages Student Advisory Council](http://www.cmu.edu/dietrich/modlang/student-organizations/mlsac.html) for the Department of Modern Languages. It was an informal event featuring some food selections followed by a German film that I opted not to watch, since I needed to go home.
 
