@@ -8,7 +8,7 @@ comments: true
 categories:
 - food
 - cooking
-- Kretschman Farm
+- Kretschmann Farm
 - Misera's Organic Farm
 ---
 A nice acorn squash was sitting on the kitchen counter, lonely since arriving days ago from the [farm](http://www.kretschmannfarm.com/).
