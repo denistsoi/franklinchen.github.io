@@ -24,7 +24,7 @@ truncate = true
 defaultDescription = "Franklin Chen's personal Web site and blog"
 defaultKeywords = "Franklin Chen, blog"
 
-gravatarHash = "f8a7ccb41af2422d10599464b96cf034"
+#gravatarHash = "f8a7ccb41af2422d10599464b96cf034"
 
 theme = "theme-base-0e"
 
