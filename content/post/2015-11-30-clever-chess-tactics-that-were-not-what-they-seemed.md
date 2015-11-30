@@ -6,7 +6,7 @@ categories:
 comments: true
 date: 2015-11-30T02:25:52-05:00
 layout: post
-title: "A remarkable trading of blows in my recent chess game: can you guess the moves?"
+title: "Clever chess tactics that were not what they seemed"
 ---
 In round 3 of the current 6-round Pittsburgh Chess Club Tuesday night
 tournament, I played a very tense game that led to an unusual position
