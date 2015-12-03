@@ -296,6 +296,8 @@ incomplete calculations.
 My thanks to Melih for a challenging and fascinating game, and sharing
 his thoughts with me afterwards.
 
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/franklinmingchen/23445261516/in/datetaken/" title="Melih and Franklin at the Pittsburgh Chess Club"><img src="https://farm1.staticflickr.com/589/23445261516_25ee07e170_z.jpg" width="640" height="480" alt="Franklin and Melih at the Pittsburgh Chess Club"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 ## Appendix: interactive playable board
 
 <script type="text/javascript"
