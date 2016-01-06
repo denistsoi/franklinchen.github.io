@@ -3,7 +3,7 @@ layout: post
 title: "Appreciating the unique singer La Lupe"
 date: 2013-12-19T21:41:19-05:00
 comments: true
-external-url: 
+external-url:
 categories:
 - music
 - singing
@@ -41,7 +41,7 @@ The [NPR program](http://www.npr.org/blogs/altlatino/2013/12/19/255282456/la-lup
 
 Since I am such a fan of slow boleros, here is "Que te pedí":
 
-<iframe width="420" height="315" src="//www.youtube.com/embed/oYmpC8Sz3uY" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/3weAOwmKZXo" frameborder="0" allowfullscreen></iframe>
 
 ## About La Lupe
 
