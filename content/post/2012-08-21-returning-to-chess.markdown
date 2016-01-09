@@ -68,3 +68,11 @@ I have done a little bit of [writing about chess here](/categories/chess/) and w
 ## Summary
 
 My lifetime membership in the US Chess Federation reminds me that I'm not done with chess in my life, although my days as a serious competitor are over. I'm transitioning into different roles and attitudes. This isn't easy, but chess is too fun to just give up entirely because one facet of it is over. I look forward to playing some fun chess in the Pittsburgh Chess League and continuing to also engage in the game outside of just personal play.
+
+### (Update of 2015-12-21)
+
+Three years later, I made a focused push, temporarily putting many
+things aside in my life, in the fall of 2015 to achieve my US Chess
+National Master title, and finally made it, a dream come true.
+
+Also, I have been teaching private lessons since 2013.

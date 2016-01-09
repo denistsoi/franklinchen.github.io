@@ -3,8 +3,8 @@ layout: post
 title: "Pittsburgh Chess Club Championship 2013, Round 6: Winning as Black like a madman!"
 date: 2013-02-20T01:15:56-05:00
 comments: true
-external-url: 
-categories: 
+external-url:
+categories:
 - chess
 - Pittsburgh
 - Pittsburgh Chess Club
@@ -136,7 +136,17 @@ In August I wrote about my goals in returning to [tournament play again](/blog/2
 I wish I could say that I look forward to continuing my "streak" soon, but the reality is that in January, I had already decided, well before the conclusion of this tournament, and before Abby's fractured foot, to [stop playing in Tuesday night tournaments for several months, until possibly fall](/blog/2013/01/30/why-and-how-i-am-going-to-run-the-2013-pittsburgh-marathon/). At the time, I had already concluded that I have many projects to work on in the coming months, and it's really been quite difficult to squeeze in the time and energy to play in Tuesday night tournaments, especially given how my games seem to always last past 11 PM, and that messes up my ideal sleep schedule.
 
  As explained in my August posts, I no longer have any particular rating or title goals; I found that having them backfired badly on me. I will never again play competitive chess with any goals other than to play logically and creatively to the best of my abilities given my real life constraints.
- 
+
+### (Update of 2015-12-21)
+
+So much for giving up competitive goals: two years later, I made a
+focused push, temporarily putting many things aside in my life, in the
+fall of 2015 to achieve my US Chess National Master title, and finally
+made it, a dream come true.
+
+However, during all this time, my real passion for chess has always
+been the teaching that I started in 2013.
+
 ## Thanks
 
 I would like to thank tournament director Mike Holsinger for doing a fine job running yet another Tuesday night tournament, handling pairings and attending to players' questions during rounds. It is quite a commitment to direct a tournament for six straight weeks!
@@ -154,4 +164,3 @@ I enjoyed the really tense game with Kurt in the final round, in which he applie
 I had a great time playing in the Pittsburgh Chess Club Championship of 2013, and managing to win it.
 
 Although I'm taking a break from tournament chess, **I'll be back!**
-

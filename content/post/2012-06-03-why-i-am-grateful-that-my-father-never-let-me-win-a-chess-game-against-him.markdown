@@ -51,3 +51,14 @@ I still think that how my father operated worked out well for me. I learned to v
 Hugh Patterson at The Chess Improver posted a great article ["Some Thoughts for Parents"](http://chessimprover.com/some-thoughts-for-parents/).
 
 Meanwhile, although I am not a parent yet, I am teaching chess now, so I'm personally facing practical decision-making in how I try to simultaneously install love for chess, sheer fun, and a healthy drive for excellence.
+
+## (Update of 2015-12-21)
+
+Two years later, I made a focused push, temporarily putting many
+things aside in my life, in the fall of 2015 to achieve my US Chess
+National Master title, and finally made it, a dream come true.
+
+But it wasn't winning that matters to me in this achievement: it is
+that I have actually been playing pretty well and feel I finally
+deserved the title. When I was not playing well, I did not feel I
+deserved.

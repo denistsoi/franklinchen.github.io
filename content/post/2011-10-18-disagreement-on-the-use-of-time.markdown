@@ -106,6 +106,14 @@ I have not played any chess since February. I don't really regret it.
 
 Actually, in the first half of 2012, [some](/blog/2012/02/07/on-playing-my-first-games-of-chess-in-a-year/) [casual](/blog/2012/05/31/some-pretty-attacking-chess-at-a-party-last-weekend/) contact with chess led me to feel like playing again, and in August I [decided to start playing in tournaments again](/blog/2012/08/21/returning-to-chess/) and am right now in the middle of a [six-week tournament](/blog/2013/01/16/pittsburgh-chess-club-championship-2013-round-1-the-art-of-swindling/). I've gone back to the chess with clear constraints on how much time and energy I spend on it.
 
+#### (Update of 2015-12-21)
+
+Four years later, I made a focused push, temporarily putting many
+things aside in my life, in the fall of 2015 to achieve my US Chess
+National Master title, and finally made it, a dream come true.
+
+Also, I have been teaching private lessons since 2013.
+
 ### Dancing (part two)
 
 I accidentally first met Abby when I returned to salsa dancing while still playing chess. Eventually, we started dating, and we were going dancing frequently, but eventually we both completely quit salsa dancing.

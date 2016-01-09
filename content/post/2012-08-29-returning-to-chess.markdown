@@ -52,3 +52,13 @@ In the fourth scheduled round (of six), there is a presentation at the meeting o
 ## Conclusion
 
 I am returning to tournament chess with a different mindset than I had in previous years. This time, I want to maximize my enjoyment rather than my achievement. We'll see how this goes. For the record, it seems that I actually always did the best anyway when my goal was enjoyment and I felt relaxed. It was when I put a lot of pressure on myself, as I got better and better, that I repeatedly choked.
+
+#### (Update of 2015-12-21)
+
+So much for "enjoyment": three years later, I made a focused push,
+temporarily putting many things aside in my life, in the fall of 2015
+to achieve my US Chess National Master title, and finally made it, a
+dream come true.
+
+I found an outlet for the enjoyment part of chess, however: teaching
+private lessons since 2013.

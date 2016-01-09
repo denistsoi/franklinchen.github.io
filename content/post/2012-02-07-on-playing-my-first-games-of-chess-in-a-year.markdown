@@ -32,6 +32,14 @@ One thing I learned when considerably improving my game of chess was that the on
 
 I don't play in chess tournaments any more, but I could not help myself when i decided to remember my casual games from the party and enter them into the computer the next morning. It's a *habit*. When I was playing chess seriously, I was going to the [Pittsburgh Chess Club](http://pittsburghcc.org/) every week and playing blitz. Some people play blitz as throwaway fun. Not me. These blitz were actually excellent material for me to learn from. I would go home after playing a dozen or so games of blitz and enter all the interesting games into my computer in order to analyze them.
 
+### (Update of 2015-12-21)
+
+Three years later, I made a focused push, temporarily putting many
+things aside in my life, in the fall of 2015 to achieve my US Chess
+National Master title, and finally made it, a dream come true.
+
+Also, I have been teaching private lessons since 2013.
+
 ## What I look for when analyzing a game I played
 
 It doesn't matter whether I win or lose a game. I thirst to find out where *I could have done better*.
