@@ -3,8 +3,8 @@ layout: post
 title: "Celebrating the victory of the CMU Tartans in the 2012-13 Pittsburgh Chess League season"
 date: 2013-04-29T23:36:01-04:00
 comments: true
-external-url: 
-categories: 
+external-url:
+categories:
 - chess
 - Pittsburgh Chess League
 - Carnegie Mellon University
@@ -90,3 +90,11 @@ We went through one of Dan's games that was particularly interesting that I plan
 ## Conclusion
 
 The CMU Tartans rule again! It was a fun time. Thank you, Jeff, for organizing this dinner! I hope to be able to play more than two rounds for the team next year.
+
+### (Update of 2016-01-09)
+
+I didn't play in the Pittsburgh Chess League in 2013-2014 or
+2014-2015, but have been enjoying being with the CMU Tartans again,
+now on board two, for the 2015-2016 season, which has three more
+rounds to go. Jeff and Ed are still on the team, but the rest of the
+2012-2013 team have left town.
