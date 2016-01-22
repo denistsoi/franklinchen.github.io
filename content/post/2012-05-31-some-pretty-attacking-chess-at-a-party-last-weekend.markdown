@@ -5,7 +5,7 @@ disqus_identifier: "http://franklinchen.com/blog/2012/05/31/some-pretty-attackin
 disqus_url: "http://franklinchen.com/blog/2012/05/31/some-pretty-attacking-chess-at-a-party-last-weekend/"
 date: 2012-05-31T07:26:00
 comments: true
-categories: 
+categories:
 - chess
 - nephew
 - Benoni
@@ -61,6 +61,12 @@ After the game, Benjamin had questions about some of the moves we played or chos
 ### The past
 
 Afterwards, his son told me Giorgio had actually been the number two junior chess player in Italy under age 16 back in the day. I didn't bother replying that I was in the top ten in the United States under age 13 or something like that back in the day myself (Giorgio and I are roughly the same age, I think). Let's face it, past glories don't matter. Nobody really cares what we did as kids. We are as we are now. I happen to be less rusty than Giorgio because I did return to serious chess for a couple of years (2005-2009) before quitting again. I tried to come back again in late 2010, but had lost my edge, and I quit for good in 2011. At some point, some of us have better things to do with our time and energy than maintaining or improving our chess strength. I don't play in tournaments any more, or even go to the local chess club. I don't play online chess or against computers either. I'll only play at parties!
+
+#### (Update of 2015-12-21)
+
+Three years later, when I took up chess seriously again, temporarily
+putting many things aside in my life, I finally achieved my US Chess
+National Master title.
 
 ### Full game score, annotated
 
