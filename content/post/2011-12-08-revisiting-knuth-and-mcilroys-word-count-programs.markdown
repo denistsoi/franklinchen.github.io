@@ -26,7 +26,7 @@ The task:
 Read a file of text, determine the n most frequently used words, and print out a sorted list of those words along with their frequencies.
 </blockquote>
 
-Knuth came up with a typically clever, lengthy, low-level implementation (unfortunately, I could not find the source code online, although I remember reading it years ago; I would be delighted if someone knows where it is and can tell me). McIlroy then somewhat perversely wrote a six-line shell script that did the job, basically changing the subject away from literate programming and toward a [critique of Knuth's doing something low-level and complicated when unnecessary](http://www.princeton.edu/~hos/mike/transcripts/mcilroy.htm).
+Knuth came up with a typically clever, lengthy, low-level implementation. McIlroy then somewhat perversely wrote a six-line shell script that did the job, basically changing the subject away from literate programming and toward a [critique of Knuth's doing something low-level and complicated when unnecessary](http://www.princeton.edu/~hos/mike/transcripts/mcilroy.htm). The article publishing both Knuth's and McIlroy's solutions is [available here](http://dl.acm.org/citation.cfm?id=315654). A followup article with David Hanson's implementation in C is [here](http://www.cs.upc.edu/~eipec/pdf/p583-van_wyk.pdf).
 
 I decided to bring the discussion here a quarter of a century (25 years!) to the present. How would we solve the problem now?
 
