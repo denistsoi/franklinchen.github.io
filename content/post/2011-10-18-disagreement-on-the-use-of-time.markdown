@@ -109,8 +109,8 @@ Actually, in the first half of 2012, [some](/blog/2012/02/07/on-playing-my-first
 #### (Update of 2015-12-21)
 
 Four years later, I made a focused push, temporarily putting many
-things aside in my life, in the fall of 2015 to achieve my US Chess
-National Master title, and finally made it, a dream come true.
+things aside in my life, in the fall of 2015 to [achieve my US Chess
+National Master title](/blog/2016/01/22/on-finally-achieving-the-us-national-master-chess-title-at-age-45-part-1), and finally made it, a dream come true.
 
 Also, I have been teaching private lessons since 2013.
 

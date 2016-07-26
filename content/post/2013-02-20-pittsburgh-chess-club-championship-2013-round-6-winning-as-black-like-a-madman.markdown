@@ -141,7 +141,7 @@ I wish I could say that I look forward to continuing my "streak" soon, but the r
 
 So much for giving up competitive goals: two years later, I made a
 focused push, temporarily putting many things aside in my life, in the
-fall of 2015 to achieve my US Chess National Master title, and finally
+fall of 2015 to [achieve my US Chess National Master](/blog/2016/01/22/on-finally-achieving-the-us-national-master-chess-title-at-age-45-part-1) title, and finally
 made it, a dream come true.
 
 However, during all this time, my real passion for chess has always

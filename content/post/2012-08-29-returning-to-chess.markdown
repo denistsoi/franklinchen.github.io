@@ -57,7 +57,7 @@ I am returning to tournament chess with a different mindset than I had in previo
 
 So much for "enjoyment": three years later, I made a focused push,
 temporarily putting many things aside in my life, in the fall of 2015
-to achieve my US Chess National Master title, and finally made it, a
+to [achieve my US Chess National Master](/blog/2016/01/22/on-finally-achieving-the-us-national-master-chess-title-at-age-45-part-1) title, and finally made it, a
 dream come true.
 
 I found an outlet for the enjoyment part of chess, however: teaching

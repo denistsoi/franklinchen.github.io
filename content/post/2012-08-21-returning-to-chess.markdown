@@ -72,7 +72,7 @@ My lifetime membership in the US Chess Federation reminds me that I'm not done w
 ### (Update of 2015-12-21)
 
 Three years later, I made a focused push, temporarily putting many
-things aside in my life, in the fall of 2015 to achieve my US Chess
-National Master title, and finally made it, a dream come true.
+things aside in my life, in the fall of 2015 to [achieve my US Chess
+National Master](/blog/2016/01/22/on-finally-achieving-the-us-national-master-chess-title-at-age-45-part-1) title, and finally made it, a dream come true.
 
 Also, I have been teaching private lessons since 2013.

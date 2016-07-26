@@ -65,8 +65,8 @@ Afterwards, his son told me Giorgio had actually been the number two junior ches
 #### (Update of 2015-12-21)
 
 Three years later, when I took up chess seriously again, temporarily
-putting many things aside in my life, I finally achieved my US Chess
-National Master title.
+putting many things aside in my life, I finally [achieved my US Chess
+National Master title](/blog/2016/01/22/on-finally-achieving-the-us-national-master-chess-title-at-age-45-part-1).
 
 ### Full game score, annotated
 
